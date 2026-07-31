@@ -138,56 +138,56 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:piglin": true
-			"minecraft:slime": true
-			"minecraft:wolf": true
-			"minecraft:cow": true
-			"minecraft:bat": true
-			"minecraft:zombie_villager": true
-			"minecraft:armadillo": true
-			"minecraft:spider": true
-			"millenaire:villager": true
-			"minecraft:wandering_trader": true
 			"minecraft:rabbit": true
-			"minecraft:strider": true
-			"minecraft:goat": true
-			"minecraft:creeper": true
-			"artifacts:mimic": true
-			"minecraft:skeleton": true
-			"minecraft:zombie": true
-			"minecraft:bee": true
-			"minecraft:vindicator": true
-			"minecraft:zombified_piglin": true
-			"minecraft:ocelot": true
-			"minecraft:villager": true
 			"minecraft:cat": true
-			"minecraft:cod": false
-			"minecraft:donkey": true
-			"minecraft:tropical_fish": false
-			"minecraft:drowned": true
-			"minecraft:glow_squid": true
-			"minecraft:enderman": true
-			"minecraft:horse": true
-			"minecraft:pufferfish": false
-			"minecraft:dolphin": true
-			"minecraft:squid": true
-			"minecraft:iron_golem": true
-			"minecraft:parrot": true
-			"minecraft:polar_bear": true
-			"minecraft:hoglin": true
-			"minecraft:trader_llama": true
-			"minecraft:witch": true
-			"minecraft:chicken": true
 			"minecraft:pig": true
-			"minecraft:axolotl": true
-			"minecraft:llama": true
-			"minecraft:pillager": true
+			"minecraft:ocelot": true
+			"minecraft:witch": true
+			"minecraft:parrot": true
+			"minecraft:trader_llama": true
+			"minecraft:cod": false
+			"minecraft:villager": true
+			"minecraft:spider": true
+			"minecraft:polar_bear": true
+			"minecraft:dolphin": true
+			"minecraft:zombified_piglin": true
+			"minecraft:donkey": true
+			"minecraft:horse": true
+			"minecraft:vindicator": true
 			"minecraft:sheep": true
-			"minecraft:turtle": true
 			"minecraft:fox": true
-			"minecraft:salmon": false
+			"minecraft:cow": true
+			"minecraft:armadillo": true
+			"minecraft:hoglin": true
+			"artifacts:mimic": true
+			"minecraft:glow_squid": true
+			"minecraft:squid": true
+			"millenaire:villager": true
+			"minecraft:skeleton": true
+			"minecraft:drowned": true
+			"minecraft:tropical_fish": false
 			"minecraft:evoker": true
 			"minecraft:panda": true
+			"minecraft:llama": true
+			"minecraft:axolotl": true
+			"minecraft:iron_golem": true
+			"minecraft:chicken": true
+			"minecraft:zombie_villager": true
+			"minecraft:wolf": true
+			"minecraft:pufferfish": false
+			"minecraft:pillager": true
+			"minecraft:goat": true
+			"minecraft:bee": true
+			"minecraft:creeper": true
+			"minecraft:strider": true
+			"minecraft:zombie": true
+			"minecraft:wandering_trader": true
+			"minecraft:salmon": false
+			"minecraft:enderman": true
+			"minecraft:bat": true
+			"minecraft:piglin": true
+			"minecraft:turtle": true
+			"minecraft:slime": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

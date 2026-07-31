@@ -16,6 +16,9 @@ xaero/
 XaeroWaypoints_BACKUP*/
 *-natives/
 
+# 开发维护工具
+.dev
+
 # 本地临时状态与缓存标记
 .qmenu_opened.marker
 command_history.txt

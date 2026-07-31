@@ -1,0 +1,228 @@
+# 此文件为: 根目录/config/millenaire-server.toml
+# 部分选项只是预留的,修改了可能无效
+# 世界生成设置
+[generation]
+	# 在新区块中生成 Millénaire 村庄
+	generateVillages = true
+
+	# 在新区块中生成独立建筑（旅馆、神殿、废墟）
+	generateLoneBuildings = true
+
+	# 在父村庄类型（例如 Gros Bourg）周围生成作为卫星村的村落（Hamlet）。
+	# 禁用后，定义了 Hamlet 的父村庄类型将不会自然生成。
+	# iso-legacy：默认禁用（Hamlet 占用大量空间）
+	generateHamlets = false
+
+	# 两个村庄之间的最小距离（方块）
+	# 默认值：500
+	# 范围：300 ~ 1000
+	minVillageDistance = 300
+
+	# 两个独立建筑之间的最小距离（方块）
+	# 默认值：500
+	# 范围：300 ~ 1000
+	minLoneBuildingDistance = 500
+
+	# 村庄与独立建筑之间的最小距离（方块）
+	# 默认值：250
+	# 范围：100 ~ 800
+	minVillageLoneBuildingDistance = 250
+
+	# 世界出生点周围的保护区域，在此范围内不会生成任何内容（方块）
+	# 默认值：250
+	# 范围：0 ~ 500
+	spawnProtectionRadius = 250
+
+	# 远距离村庄的渐进式完成度
+	[generation.completion]
+
+		# 远距离村庄的最大初始建设进度百分比
+		# 默认值：25
+		# 范围：0 ~ 100
+		maxPercentage = 25
+
+		# 从出生点开始应用初始建设进度的距离（方块）
+		# 默认值：2000
+		# 范围：0 ~ 25000
+		minDistance = 2000
+
+		# 达到最大初始建设进度时距离出生点的距离（方块）
+		# 默认值：10000
+		# 范围：0 ~ 100000
+		maxDistance = 10000
+
+
+# 调试和日志设置
+[debug]
+
+	# 记录每一次村庄/独立建筑的生成尝试，以及被拒绝的原因
+	logSpawnAttempts = false
+
+
+# 村庄行为设置
+[village]
+
+	# 保持村庄区块持续加载的半径（方块）。0 = 禁用。
+	# 默认值：200
+	# 范围：0 ~ 2000
+	keepActiveRadius = 200
+
+	# 使用此值覆盖所有村庄类型的半径（方块）。
+	# -1 = 使用各村庄类型 JSON 中定义的数值。
+	# 修改后需要重启世界才能生效。
+	# 默认值：-1
+	# 范围：-1 ~ 120
+	villageRadiusOverride = -1
+
+	# 村庄建筑之间的最小间距（方块）
+	# 默认值：5
+	# 范围：0 ~ 10
+	minBuildingSpacing = 5
+
+	# 在村庄建筑之间生成并升级道路（横向道路，第 3 阶段）
+	buildPaths = true
+
+	# 每个村庄允许拥有的最大儿童数量
+	# 默认值：10
+	# 范围：2 ~ 20
+	maxChildren = 10
+
+	# 村庄之间交互（外交、贸易、袭击）的作用半径（方块）。0 = 禁用。
+	# 默认值：2000
+	# 范围：0 ~ 3000
+	backgroundRadius = 2000
+
+	# 村民导航驱动（实验性开关，用于 A/B 测试）。
+	#
+	# WAYPOINT（默认）：
+	# 当前使用的导航系统——原版微观 A* 路径寻找
+	# 配合宏观路标（Waypoint）图，
+	# 并采用 DIRECT（直达）→ REPATH（重新寻路）→
+	# MACRO（宏观导航）→ TELEPORT（传送）的逐级升级策略。
+	#
+	# LOCAL_RECOVERY：
+	# 实验性移植自 Millénaire 1.15 的移动控制器——
+	# 使用原版 A*，配合柔性重新寻路、
+	# 在门口/栅栏等狭窄位置进行垂直方向轻推，
+	# 以帮助脱离卡点，仅在最后手段时才会传送。
+	#
+	# 修改后仅影响之后生成或重新加载的村民。
+	# 默认值：WAYPOINT。
+	# 可选值：WAYPOINT，LOCAL_RECOVERY
+	navDriver = "WAYPOINT"
+
+
+# 游戏玩法设置
+[gameplay]
+
+	# NPC 的语言是否需要通过互动学习
+	languageLearning = true
+
+	# 《旅行手册》的内容是否需要通过互动发现
+	# （附近村民、建筑、贸易等）
+	travelBookLearning = true
+
+	# 单人游戏中，村民聊天信息的显示距离（方块）。0 = 禁用。
+	# 默认值：6
+	# 范围：0 ~ 10
+	sentenceDistanceSingleplayer = 6
+
+	# 多人游戏中，村民聊天信息的显示距离（方块）。0 = 禁用。
+	# 默认值：0
+	# 范围：0 ~ 10
+	sentenceDistanceMultiplayer = 0
+
+	# 村庄建造和升级时无需消耗资源（创造模式风格）。
+	# iso-legacy：MillConfigValues.ignoreResourceCost。
+	# 默认值：false。
+	ignoreResourceCost = false
+
+
+# 发送到 millenaire.org 的匿名使用统计
+[statistics]
+
+	# 向 millenaire.org 发送 Millénaire 使用统计。
+	# 总开关：关闭后将不会发送任何数据。
+	#
+	# 会话 Ping 不包含任何可识别个人身份的信息
+	# （匿名世界 UID、版本、操作系统、地区语言、玩家数量）。
+	#
+	# 成就进度按玩家统计，
+	# 使用一个假名化（不可重新识别身份）的标识符。
+	#
+	# 只有启用 sendPlayerName 时，
+	# 才会附带 Minecraft 用户名（登录名）。
+	#
+	# 注意：
+	# 捐赠者身份验证由于功能需要，
+	# 会独立发送用户名，
+	# 不受这两个选项影响。
+	sendStatistics = true
+
+	# 在每位玩家的成就统计报告中附带 Minecraft 用户名。
+	# 关闭后，仅使用假名化标识符。
+	# 默认关闭。
+	sendPlayerName = false
+
+	# 覆盖 Mod 所连接的 millenaire.org API 基础地址
+	# （统计、版本检查、捐赠者验证）。
+	#
+	# 留空 = 使用编译时写入的默认地址
+	# （先主地址，再备用地址）。
+	#
+	# 填写非空值后，
+	# 将只使用该地址，不再使用备用地址。
+	#
+	# 例如：
+	# http://localhost:4000
+	# 用于本地测试。
+	apiBaseUrlOverride = ""
+
+
+# 袭击设置（战斗 AI 尚未实现——参数预留）
+[raids]
+
+	# TODO：土匪袭击半径（方块）。0 = 禁用。
+	# 默认值：1500
+	# 范围：0 ~ 2000
+	banditRaidRadius = 1500
+
+	# TODO：每晚发动一次袭击尝试的概率（百分比）。0 = 禁用。
+	# 默认值：20
+	# 范围：0 ~ 100
+	raidingRate = 20
+
+
+# 自动转换放入 millenaire-custom/ 中的旧版（1.12）内容包
+[legacy]
+
+	# 启用自动转换旧版（1.12）Millénaire 内容包。
+	#
+	# 当启用后，
+	# 放入 millenaire-custom/ 目录中的 TXT/PNG 文件
+	# 会在服务器启动时自动检测，
+	# 就地转换为 JSON/NBT，
+	# 原文件会被重命名为 .legacy。
+	#
+	# 如果你更希望手动执行
+	# /millenaire dev convert-addon
+	# （例如只读文件系统、大型内容包、
+	# 或自定义部署流程），
+	# 请将此项设为 false。
+	legacyAutoConvert = true
+
+	# 每次启动允许自动转换的 PNG 文件数量上限。
+	#
+	# 对于大型内容包，
+	# 建议在维护期间使用
+	# /millenaire dev convert-addon
+	# 手动转换，
+	# 以避免启动时冻结数分钟。
+	#
+	# 在冷启动 JVM 时，
+	# PngToNbtConverter 转换一个旧版文化包
+	# 大约需要 30～60 秒。
+	#
+	# 默认值：300
+	# 范围：0 ~ 5000
+	legacyAutoConvertMaxPngs = 300
