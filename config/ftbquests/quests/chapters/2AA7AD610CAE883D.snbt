@@ -9,6 +9,7 @@
 	id: "2AA7AD610CAE883D"
 	images: [
 		{
+			click: " "
 			height: 1.0d
 			hover: ["一产资源"]
 			image: "minecraft:block/oak_log"
@@ -18,6 +19,7 @@
 			y: -3.0d
 		}
 		{
+			click: " "
 			height: 1.0d
 			hover: [
 				"人口"
@@ -30,6 +32,7 @@
 			y: -3.0d
 		}
 		{
+			click: " "
 			height: 1.0d
 			hover: ["军事"]
 			image: "minecraft:item/netherite_sword"
@@ -39,6 +42,7 @@
 			y: -3.0d
 		}
 		{
+			click: " "
 			height: 1.0d
 			hover: ["二产资源"]
 			image: "create:block/palettes/ornate_iron_window_end"
@@ -48,20 +52,21 @@
 			y: -3.0d
 		}
 		{
-			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/norman/villages/walledcontrolled"
+			click: " "
 			height: 1.0d
 			hover: [
-				"诺曼村庄建设的官方指南"
-				"点击每个房子都有逐等级视图，以及作用"
-				"其他文明往前翻找即可"
+				"只做完了诺曼的页面，文字内容大量搬运自官网。"
+				"点击右边图片，跳转到官网对玩家村建筑的介绍页面。"
+				"做的很好的网站，包含了建筑的显影！"
 			]
 			image: "ftbteams:textures/accept.png"
 			rotation: 0.0d
 			width: 1.0d
-			x: -9.0d
-			y: -3.0d
+			x: -7.5d
+			y: -5.0d
 		}
 		{
+			click: " "
 			height: 1.0d
 			hover: ["文化"]
 			image: "minecraft:item/enchanted_book"
@@ -71,6 +76,7 @@
 			y: -3.0d
 		}
 		{
+			click: " "
 			height: 1.0d
 			hover: ["经济"]
 			image: "millenaire:item/denier_or"
@@ -78,6 +84,76 @@
 			width: 1.0d
 			x: 0.5d
 			y: -3.0d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/norman/villages/walledcontrolled"
+			height: 1.0d
+			hover: ["官网对于诺曼村庄的介绍"]
+			image: "millenaire:item/norman_sword"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/indian/villages/controlled_walled"
+			height: 1.0d
+			hover: ["官网对于印度村庄的介绍"]
+			image: "millenaire:block/mud_brick"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/mayan/villages/controlled"
+			height: 1.0d
+			hover: ["官网对于玛雅村庄的介绍"]
+			image: "millenaire:item/mayan_axe"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/japanese/villages/controlled"
+			height: 1.0d
+			hover: ["官网对于日本村庄的介绍"]
+			image: "millenaire:item/japanese_tachi"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/byzantines/villages/controlled"
+			height: 1.0d
+			hover: ["官网对于拜占庭村庄的介绍"]
+			image: "millenaire:item/byzantine_mace"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -5.0d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/inuits/villages/huntingvillage_controlled"
+			height: 1.0d
+			hover: ["官网对于因纽特村庄的介绍"]
+			image: "millenaire:item/inuitbow0"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/seljuk/villages/controlled_fort_seljuks"
+			height: 1.0d
+			hover: ["官网对于塞尔柱村庄的介绍"]
+			image: "millenaire:item/seljuk_scimitar"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -5.0d
 		}
 	]
 	order_index: 1
@@ -156,6 +232,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["05F1031A2A7818CC"]
 			id: "174772FBC1566552"
 			tasks: [{
 				icon: {
@@ -277,7 +354,8 @@
 				id: "minecraft:grindstone"
 			}
 			id: "55B41ED083468909"
-			shape: "square"
+			shape: "hexagon"
+			size: 1.15d
 			tasks: [{
 				id: "674AF37CBDEF3C72"
 				type: "checkmark"
@@ -404,7 +482,7 @@
 				id: "3BC9B07A3E86C1F4"
 				type: "checkmark"
 			}]
-			x: 0.5d
+			x: 2.0d
 			y: 6.0d
 		}
 		{

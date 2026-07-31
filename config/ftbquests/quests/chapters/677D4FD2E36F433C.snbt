@@ -266,7 +266,7 @@
 				type: "checkmark"
 			}]
 			x: 3.0d
-			y: -3.5d
+			y: -3.0d
 		}
 		{
 			icon: {
@@ -372,6 +372,9 @@
 			y: 3.0d
 		}
 		{
+			icon: {
+				id: "millenaire:summoning_wand"
+			}
 			id: "70973D6442C982A6"
 			rewards: [{
 				command: "/gamerule keepInventory true"
@@ -383,7 +386,7 @@
 				type: "checkmark"
 			}]
 			x: 5.0d
-			y: -3.5d
+			y: -3.0d
 		}
 		{
 			icon: {
@@ -451,6 +454,9 @@
 		}
 		{
 			dependencies: ["7E0AC9A70D35C299"]
+			icon: {
+				id: "minecraft:oak_sapling"
+			}
 			id: "70D8D04F9B486160"
 			tasks: [{
 				id: "55FFCD9ABCEC425C"
@@ -490,7 +496,7 @@
 				type: "checkmark"
 			}]
 			x: 4.0d
-			y: -5.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["139012F55F29AA29"]

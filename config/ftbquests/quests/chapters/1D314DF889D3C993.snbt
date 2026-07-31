@@ -7,6 +7,16 @@
 		id: "easy_villagers:trader"
 	}
 	id: "1D314DF889D3C993"
+	images: [{
+		click: " "
+		height: 4.0d
+		hover: ["哪怕想玩跑商，不耽误补点现金嘛"]
+		image: "modpack:textures/quests/r0_easy_villagers.png"
+		rotation: 0.0d
+		width: 3.0d
+		x: -8.5d
+		y: -1.5d
+	}]
 	order_index: 0
 	quest_links: [
 		{
@@ -215,6 +225,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				id: "571DD983A35B3E25"

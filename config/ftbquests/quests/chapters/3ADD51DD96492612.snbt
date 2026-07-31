@@ -57,6 +57,7 @@
 				table_id: 4259145868799364909L
 				type: "random"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 16L
@@ -80,6 +81,7 @@
 				table_id: 4259145868799364909L
 				type: "choice"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 128L
@@ -166,6 +168,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				id: "2266A4F28BC22487"
@@ -203,6 +206,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				id: "135CBBBE46466D8C"
@@ -280,6 +284,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 16L
@@ -305,6 +310,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 8L
@@ -343,6 +349,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 4L
@@ -392,6 +399,7 @@
 					type: "command"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 256L
@@ -432,6 +440,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 8L
@@ -525,6 +534,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 8L
@@ -562,6 +572,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 8L
@@ -599,6 +610,7 @@
 					type: "item"
 				}
 			]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 8L
@@ -625,6 +637,7 @@
 				}
 				type: "item"
 			}]
+			shape: "rsquare"
 			tasks: [{
 				consume_items: true
 				count: 8L

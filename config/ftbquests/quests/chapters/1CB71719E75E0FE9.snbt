@@ -78,6 +78,34 @@
 			x: 10.5d
 			y: 5.5d
 		}
+		{
+			click: "https://www.mcmod.cn/class/46.html"
+			height: 1.0d
+			hover: ["查看MOD WIKI中的游戏经验"]
+			image: "ftbteams:textures/accept.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6"
+			height: 1.0d
+			hover: ["前往官网(官方WIKI)"]
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			height: 15.0d
+			image: "modpack:textures/quests/start_millenaire.org.png"
+			rotation: 0.0d
+			width: 13.5d
+			x: -12.5d
+			y: 0.0d
+		}
 	]
 	order_index: 0
 	quest_links: [ ]
@@ -461,7 +489,7 @@
 				type: "checkmark"
 			}]
 			x: -6.0d
-			y: -2.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["09AFDFF8E7EBED01"]

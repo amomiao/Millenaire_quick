@@ -16,8 +16,16 @@
 	quest.03962B0FA18A0519.quest_subtitle: "点击图片可以跳转到WIKI页"
 	quest.04755A17BD4CB0FC.quest_subtitle: "完成任一即可"
 	quest.04755A17BD4CB0FC.title: "入此门者，可以从此门回来"
-	quest.0527F2C517BC02EB.quest_desc: ["在此方世界中，你已经发展了一些你已熟悉的内容。"]
+	quest.0527F2C517BC02EB.quest_desc: [
+		"在这个世界中，你已经发展了一些你已熟悉的内容。"
+		"——————————————"
+		"关于整合包："
+		"本整合包的任务系统大量引用了外部链接，请确保下载的根源来自于作者的B站发布视频下；"
+		"或跳转到外部页时，再次确认链接的可信性。"
+	]
+	quest.0527F2C517BC02EB.quest_subtitle: "小作文时间"
 	quest.05544B4F27DD8775.title: "因纽特村庄"
+	quest.05E1C5C39028BCFF.quest_desc: ["对于木棍师来说就需要机械动力的溜槽了。"]
 	quest.05E1C5C39028BCFF.quest_subtitle: "使用漏斗可以自动化"
 	quest.05F1031A2A7818CC.quest_desc: ["村庄会生成一些初始建筑。"]
 	quest.05F1031A2A7818CC.quest_subtitle: "在中心建筑的箱子里，有个箱子会尝试生成村庄卷轴。"
@@ -46,6 +54,7 @@
 		"多找一下，箱子可能藏在墙后面。"
 		"注意: 至少因纽特服饰的强盗会在很短时间内复活。"
 	]
+	quest.0A267EB09AD56209.quest_subtitle: "避免前期交战"
 	quest.0A267EB09AD56209.title: "强盗"
 	quest.0A7D9004A1D0C080.quest_desc: [
 		"垦田永年私财法是日本奈良时代的圣武天皇于天平15年 (743年)发布的一份敕令。"
@@ -68,7 +77,7 @@
 		"2. Tab: 小地图显示额外信息;"
 		"3. W: [机械动力]思索;"
 		"4. R: [JEI]查看来源、[建筑小帮手]范围调节;  "
-		"R + C: [IPN]配置页面;"
+		"     R + C: [IPN]配置页面;"
 		"5. Y: 小地图设置;"
 		"6. U: 小地图路径点、[JEI]查看用途、[建筑小帮手]撤销;"
 		"7. ]: 打开[Xaero's World Map]配置页面;"
@@ -92,6 +101,7 @@
 	]
 	quest.0DEAA1F2C69CDC0B.quest_subtitle: "重点键位还会再提醒"
 	quest.0DEAA1F2C69CDC0B.title: "键位介绍"
+	quest.0DFE671F3120AD5F.quest_subtitle: "两个前置任务任一完成即可"
 	quest.0DFE671F3120AD5F.title: "访问要塞"
 	quest.0EE1D77549B6796A.quest_subtitle: "一处让寻常诺曼人喝着烈苹果酒、与好友相伴、放松身心的地方"
 	quest.0EFA7589D6D1E62B.quest_desc: ["你伸手摸了摸一只小酒狐，然后发现小助手充满电了。"]
@@ -110,26 +120,31 @@
 	quest.139012F55F29AA29.quest_desc: [
 		"在工作台中使用8个铜锭给背包围一圈来升级，后续的升级请查看JEI(在物品栏,对着背包按U试试!)。"
 		"背包中有升级组件，合成升级、喂食升级、堆叠升级(最多3个)都很好用，合成方式请查看JEI。"
-		"喂食升级可能会喂你吃蜘蛛眼，在背包中可以设置白名单/黑名单。"
+		"&c喂食升级可能会喂你吃蜘蛛眼，在背包中可以设置白名单/黑名单。&r"
+		"{image:modpack:textures/quests/start_backpacks.png width:90 height:80 align:center }"
 	]
 	quest.139012F55F29AA29.quest_subtitle: "另外使用鼠标中键可以整理玩家物品栏"
 	quest.139012F55F29AA29.title: "精妙背包"
 	quest.147F18159A84A150.quest_desc: [
 		"空手Shift右键可以炼化村民变成物品，右键放出来/放进方块。"
 		"在方块的村民可以Shift右键取出来。"
+		"————————————————"
+		"不想繁殖但是给的太少？"
+		"[ { \"text\": \"点这里!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1ECEF77A184D8FC8\" } } ]"
 	]
 	quest.147F18159A84A150.quest_subtitle: "村民在你的物品栏/模组方块时，会发出声音"
 	quest.14ABF201E73E0307.quest_desc: [
 		"给你两个。"
 		"跑图路上可能会捡到，但也可能捡不到，捡不到上哪弄呢，总不能真收集末影珍珠吧？"
-		"看看原版村庄~"
+		"看看原版村庄"
 	]
 	quest.14ABF201E73E0307.quest_subtitle: "右键长按传送石"
 	quest.14D77FD73664755D.quest_desc: [
 		"在诺曼村极高声望后，村长会委托你寻找建设巴黎圣母院的位置。"
 		"会在对应位置生成一个村庄来负责建造奇观，而这个这个地点要求远离别的村庄/地标200格。"
 		"基于这点，指定的位置可以距离玩家村庄近一点。"
-		"&n建成后，会在每天凌晨鸣一次钟，并提供玩家10分钟的幸运2buff。&r"
+		"&2建成后，会在每天凌晨鸣一次钟，并提供玩家10分钟的幸运2buff。&r"
+		"&c注意：为防止特殊情况，先建自己村再接受此任务最佳！&r"
 	]
 	quest.151DE6A1425A5C2A.title: "印度村庄"
 	quest.15370FD1EB590E68.quest_desc: [
@@ -156,7 +171,10 @@
 	quest.18DBBC524E4CDCBE.title: "采集石英"
 	quest.18E03D204B892BFC.quest_desc: ["大齿轮咬合/齿轮箱/传动箱 都可以改变力的方向，但是传动箱不会改变旋转方向。"]
 	quest.18E03D204B892BFC.quest_subtitle: "并排放置，奖传动箱连在一起，然后扳手右键任意一格"
-	quest.1BC58D9B1495E0A9.quest_desc: ["因纽特是以血缘社群与狩猎合作为基础的部落社会。"]
+	quest.1BC58D9B1495E0A9.quest_desc: [
+		"因纽特是以血缘社群与狩猎合作为基础的部落社会。"
+		"也就是和玛雅一样找不到对应的名词。"
+	]
 	quest.1BC58D9B1495E0A9.quest_subtitle: "Afuniaqtuq - 因纽特语:狩猎聚落"
 	quest.1BC58D9B1495E0A9.title: "灵魂之选"
 	quest.1D6A621ECFB1D57E.title: "林地府邸"
@@ -198,27 +216,24 @@
 	quest.2637AE956CDA86B3.quest_desc: [
 		"花费128d购买村庄卷轴，手持右键即可查看本村面板中的信息。"
 		"购买卷轴需要声望等级达到'村庄之友'。"
-		"——————————————"
-		"每一个文明都有一套声望名称，这里统一使用诺曼的。"
 	]
 	quest.2637AE956CDA86B3.quest_subtitle: "在一个村庄的声望达到“村庄之友”"
 	quest.2637AE956CDA86B3.title: "村庄之友"
 	quest.26815736704A799E.quest_desc: [
 		"按E左上角 找到任务书来进任务，可能更方便。"
-		"1.任务名后缀“(任一)“时，只需要完成任一目标就可以完成任务。"
+		"1.&2若任务要求有点奇怪，可以看(做)一下，确认是否被设为了仅需完成(任一)目标就可以。&r"
 		"2.按~启用连锁。"
 		"3.使用/spawn回到出生点，/sethome设置家，/home回家，/tpa传送到朋友身边，/rtp进行一次随机远距离传送。"
 		"4.按N唤起[FTB区块]地图，左上角UI可以声明区块，左键声明，右键放弃，声明后Shift+左键强制加载，右键取消。"
 		"[FTB区块]地图加载点亮的范围更大一点。"
-		"&c注意[千年村庄]拥有一个玩家距离300格内,村庄整体会加载的设定。"
+		"&c注意: [千年村庄]拥有一个玩家距离300格内,村庄整体会加载的设定。"
 	]
-	quest.26815736704A799E.quest_subtitle: "进档送一本了 可以先不领"
 	quest.26815736704A799E.title: "有FTB全家桶"
 	quest.272C4D69611B28BD.quest_desc: ["注意: 村庄不会在水面上规划任何建筑，而且请不要尝试用熔岩在水上铺路！"]
 	quest.2772D4FC136F0DE9.quest_desc: [
 		"来源于[千年村庄]的稀有孤立建筑\"万神殿\"，属于彩蛋性质，宏伟的建筑里列举了模组的贡献者。"
 		"由于孤立建筑是被模组控制生成的，不属于\"结构\"，因此无法定位。"
-		"{image:modpack:textures/quests/seven_cities_of_gold.png width:290 height:220 align:center fit:true}"
+		"{image:modpack:textures/quests/r1_seven_cities_of_gold.png width:290 height:220 align:center fit:true}"
 		"{@pagebreak}"
 		"想要看看的可以使用指令: "
 		"/millenaire spawn_lb norman_pantheon"
@@ -283,18 +298,20 @@
 	quest.3434B45431603F65.title: "补充设定"
 	quest.34677988AF7F17E0.title: "塞尔柱村庄"
 	quest.346C8274D169F93C.quest_desc: [
-		"按C，[现代化UI]提供了一个便捷的望远镜功能。"
-		"灯笼可以放置在饰品栏的腰带位，配合动态光源使用。"
+		"手持光源会产生动态光源。"
+		"若开启光影，灯笼可以放置在饰品栏的腰带位，产生动态光源。"
+		"无光影时腰带没有动态光源可能需要更换模组，需要再考虑。"
 		"{@pagebreak}"
 		"空手+Shift+右键 可以抱起一些生物和方块。"
 		"很不幸，并不支持对精妙箱子的搬运，但是原版箱子可以。"
-		"为避免冲突，禁用了对原版村民、千年村庄村民的搬运。"
+		"为避免冲突，禁用了对[简单村民]方块、原版村民、[千年村庄]村民的搬运。"
 		"{@pagebreak}"
+		"[现代化UI]提供了一个按'C'启动的 便捷望远镜功能。"
 		"[吃不停]使得玩家在满饥饿度时依旧可以进食。"
 		"[Create：实用功能]对机械动力增加了很多体验优化。"
 	]
 	quest.346C8274D169F93C.quest_subtitle: "页数比较多，使用滚轮快捷翻页"
-	quest.346C8274D169F93C.title: "其他便捷操作"
+	quest.346C8274D169F93C.title: "便捷操作"
 	quest.34CCB33B98581696.quest_desc: ["生产：染色玻璃"]
 	quest.34CCB33B98581696.quest_subtitle: "这是玻璃匠的住所，他在此潜心制作彩色玻璃。"
 	quest.360A861C347476DD.quest_subtitle: "供商人与潜在顾客往来交易的热闹场所。"
@@ -316,6 +333,8 @@
 		"配置默认允许使用3个堆叠升级。"
 	]
 	quest.390155F1759A7AB4.quest_subtitle: "锻造模板最好复制一份"
+	quest.3902031F1A17BD04.quest_desc: ["右边的洞洞乐花的大概率比这少。"]
+	quest.3902031F1A17BD04.quest_subtitle: "不玩洞洞乐直达"
 	quest.3902031F1A17BD04.title: "定访要塞"
 	quest.390E8A7286AC71F2.quest_desc: [
 		"[查看饰品能力:在JEI里搜索@art]"
@@ -331,12 +350,15 @@
 	]
 	quest.390E8A7286AC71F2.quest_subtitle: "在一个村庄的声望到达“天生领袖”"
 	quest.390E8A7286AC71F2.title: "如果我成为大统领"
-	quest.3A000466BB87442D.quest_desc: ["把想要展示的盔甲放进去，或者点一下小圆圈隐藏当前盔甲。"]
-	quest.3A000466BB87442D.quest_subtitle: "按E人物右下角有个小胸甲"
+	quest.3A000466BB87442D.quest_desc: [
+		"按E人物右下角有个小胸甲，把想要展示的盔甲放进去，或者点一下小圆圈隐藏当前盔甲。"
+		"{image:modpack:textures/quests/start_cosmetic_armor_reworked.png width:160 height:90 align:center}"
+	]
+	quest.3A000466BB87442D.quest_subtitle: "这套钻石甲只有铁甲的性能"
 	quest.3A000466BB87442D.title: "盔甲外观"
 	quest.3A2BA055FA412EF3.quest_desc: [
 		"村里的每一个人都会显示玩家的本村声望，村长在此之外有更多的可交换行为。"
-		"{image:modpack:textures/quests/find_leader.png width:100 height:100 align:center fit:true}"
+		"{image:modpack:textures/quests/m1_find_leader.png width:100 height:100 align:center fit:true}"
 	]
 	quest.3A2BA055FA412EF3.quest_subtitle: "村长头顶有金头盔 在村庄地图中为紫色的点"
 	quest.3AB27129761E20EE.quest_desc: [
@@ -359,7 +381,8 @@
 	quest.409B787CA97EB461.quest_subtitle: "这么个地上的简陋洞口竟能产出如此多的方块，这个谜团还是留给Minecraft的神明去解答吧。"
 	quest.409B787CA97EB461.title: "采石场"
 	quest.40A7F8802ECE7942.quest_desc: [
-		"# 客户端文件附录中有配置文件介绍，下面是整合包的配置改动。"
+		"# 根目录下'附录'中有配置文件介绍，下面是整合包的配置改动。"
+		"&c# 部分配置的修改，在当前版本可能不会生效"
 		"# 生成卫星村:不"
 		"generateHamlets = false"
 		"# 两个村庄之间的最小距离(300~1000)"
@@ -393,6 +416,9 @@
 		"\"M\"键是世界地图，\"N\"键是区块声明地图。"
 		"值得一提的是，有光柱的死亡路径点需在M中删除，默认只保留最后一次的死亡坐标。"
 		"若需要之前的死亡坐标，N中的地图上有&cX&r可以查看。"
+		"————————————————————"
+		"开局出生点300格以内不会出现村庄，可作为建村的备选地。"
+		"这样设置是因为出了300个可能出现连绵不绝的村庄，卡了就是在生成村庄。"
 	]
 	quest.430CD3B0FF423D3C.quest_subtitle: "请注意V显示的灰色内容才是重点信息"
 	quest.430CD3B0FF423D3C.title: "直接按V寻找附近的村庄"
@@ -428,7 +454,7 @@
 	quest.4A26D652F336F974.title: "末地蔷薇"
 	quest.4AC407AA3AD5C8B2.title: "定位: 沼泽小屋"
 	quest.4B5C3913250E73B1.title: "定位: 试炼密室"
-	quest.4C172064EAC0F8DD.quest_desc: ["因为作者技术有限，所以使用任务系统搭建了一条寻访路线。"]
+	quest.4C172064EAC0F8DD.quest_desc: ["因为作者技术有限，所以使用任务系统搭建了一条寻访路线，其中包含了要塞的另一条前置。"]
 	quest.4E14EFCD9DDAE319.title: "沙漠神殿"
 	quest.4E272365BF815BA6.quest_desc: ["最简单的用法是按G选择形状，之后手持按R调整尺寸，然后放置即可。"]
 	quest.4E272365BF815BA6.quest_subtitle: "就当穿越的时候顺手带来的吧"
@@ -437,7 +463,7 @@
 	quest.505822618F82EA69.quest_desc: [
 		"模组中有语言学习机制，玩家需要跟村民互动打交道才能慢慢学会他们的语言。"
 		"已修改配置文件，现在一进村语言就通。"
-		"{image:modpack:textures/quests/chatgpt_runtime.png width:177 height:42 align:center}"
+		"{image:modpack:textures/quests/m1_chatgpt_runtime.png width:177 height:42 align:center}"
 		"另外还有一些配置项，如果玩家能在游戏的各个阶段进行调整，可以获得更好的游戏体验。"
 		"比如前期都是小村庄，加载半径可以大一点让多个村庄同时发展，到中后期逐步改小，让主力村发展。"
 		"——————————"
@@ -473,7 +499,10 @@
 		"而是随 军械库/铁匠铺 的建筑等级，自动拥有更强的装备。"
 	]
 	quest.55B41ED083468909.title: "军械库与铁匠铺"
-	quest.55B5F5A910693E41.quest_desc: ["最便宜的土地真的很小，提升声望解锁购买更大土地的权限。"]
+	quest.55B5F5A910693E41.quest_desc: [
+		"最便宜的土地真的很小(5x9)，提升声望解锁购买更大土地的权限。"
+		"&2购买土地是很必要的，因为难以确保村庄不会把你的基地规划为建设用地。&r"
+	]
 	quest.55B5F5A910693E41.quest_subtitle: "找到村长 购买房产或土地"
 	quest.55B5F5A910693E41.title: "房地产"
 	quest.56637D9CFB64F0DE.quest_desc: ["酒·狐奇 理解蒸汽引擎需要一定的时间..."]
@@ -493,6 +522,10 @@
 	quest.59B8CE023D51007F.quest_subtitle: "经典打骨折"
 	quest.5A0067A40074C73A.quest_desc: ["主手/副手分别持有砂纸/玫瑰石英，长按右键进行磨制。"]
 	quest.5A0067A40074C73A.title: "磨制玫瑰石英"
+	quest.5AC4CEBA46AC499F.quest_desc: [
+		"不想繁殖但是给的太少？"
+		"[ { \"text\": \"点这里!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1ECEF77A184D8FC8\" } } ]"
+	]
 	quest.5AC4CEBA46AC499F.quest_subtitle: "放入两个村民和食物 生小村民，可以漏斗输出"
 	quest.5B4DB2ED829BE802.quest_desc: ["村里的武装力量足够应对大部分威胁，玩家可以选择在夜晚捡漏。"]
 	quest.5B4DB2ED829BE802.quest_subtitle: "村民战死后会重生"
@@ -506,7 +539,6 @@
 		"3.间隔一格，放置另一个移动式接口，口对口，然后新放置的接口下面放溜槽、溜槽下面放箱子(容器)。"
 		"此时右击动力轴承，自动化成型。"
 	]
-	quest.5B8C9A8CC536E0E0.quest_subtitle: "可以攒钱买机械手"
 	quest.5B8C9A8CC536E0E0.title: "树场自动化"
 	quest.5C56BE290D104944.quest_desc: ["为村庄改名后，多次拿走卷轴，尝试让箱子重新生成卷轴，即可获得村庄改名后的卷轴。"]
 	quest.5C9E061F85BB1321.quest_desc: [
@@ -518,10 +550,15 @@
 		"“但·狐”章节，设计了一个小玩法，使用改名的对应道具作为关键道具。"
 		"实际上玩家可以通过铁砧来伪造这个关键道具:D"
 		"————————————————"
-		"&n银币是任务的货币，整合包添加了金币向下拆分为银币的配方。&r"
+		"&2银币是任务的货币，整合包添加了金币向下拆分为银币的配方。&r"
 	]
 	quest.5C9E061F85BB1321.quest_subtitle: "上方任务是超链接，各自任务页左上角可跳转"
-	quest.5D4E509064A4EFB1.quest_desc: ["比如出水的水效、掉血少血的灰色、红色滤镜。"]
+	quest.5D4E509064A4EFB1.quest_desc: [
+		"启用光影：ESC -> 选项... -> 视频设置 -> 光影包"
+		"设置光影：-> 光影设置 -> 后期处理 -> 游玩效果设置"
+		"视觉效果有：出水的水效、掉血少血的灰色、红色滤镜，默认已关闭。"
+		"{image:modpack:textures/quests/start_about_shaderpacks.png width:100 height:60 align:center fit:true}"
+	]
 	quest.5D4E509064A4EFB1.quest_subtitle: "内置的bliss会有一些额外的视觉效果"
 	quest.5D4E509064A4EFB1.title: "关于光影"
 	quest.5DC2F32D85CEE149.quest_desc: ["将滴水石锥挂在滴水石块下面，滴水石块上放置熔岩，滴水石锥下面放炼药锅，等待不定的时间后，炼药锅内会再生出熔岩。"]
@@ -595,8 +632,9 @@
 		"可建造区域在村庄地图中表现为&2绿色&r。"
 	]
 	quest.69DD14F9CAA29C26.quest_subtitle: "可能已过时"
+	quest.6AF84467CE83A1AA.quest_desc: ["以前置为准:)"]
 	quest.6AF84467CE83A1AA.quest_subtitle: "Küçük Yönetilen Köy - 土耳其语:小型受管辖村庄"
-	quest.6AF84467CE83A1AA.title: "未来的伟大苏丹"
+	quest.6AF84467CE83A1AA.title: "未来的小伟苏丹"
 	quest.6C37EC7645DCDC3E.title: "平原"
 	quest.6D0DB351CF62329F.title: "定位: 林地府邸"
 	quest.6D2E86C97788B210.quest_subtitle: "这座喷泉为村中居民和访客都带来一道美丽的风景。"
@@ -604,7 +642,7 @@
 	quest.6F6816B50FDFF57D.quest_desc: ["关于建筑规划，只能说通过卡资源和取消建造来实现完全的手动布局。"]
 	quest.6FD9A0D6F9E93F13.title: "再次探索要塞"
 	quest.70973D6442C982A6.quest_desc: ["另外注意任务中的描述都是默认键位，比如很多Shift右键指的是潜行右键。"]
-	quest.70973D6442C982A6.quest_subtitle: "若无权限 请有权限的开一下"
+	quest.70973D6442C982A6.quest_subtitle: "请开启作弊模式，很多任务会发放命令作为奖励。"
 	quest.70973D6442C982A6.title: "开局设置"
 	quest.70D2FFC07BE3E4FE.quest_desc: [
 		"普罗尼亚，字面意思为“关心”、“预见”、“天命”，是一种拜占庭式的包税制度。"
@@ -628,6 +666,7 @@
 	quest.70D8D04F9B486160.quest_subtitle: "若不想玩机动，可以自己加这些模组来护肝"
 	quest.712856ABEA454E68.quest_subtitle: "使用睡袋度过夜晚不会设置重生点"
 	quest.712856ABEA454E68.title: "睡袋"
+	quest.71788D5EF1A9C6EA.quest_desc: ["[ { \"text\": \"转到\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4C172064EAC0F8DD\" } } ]"]
 	quest.71788D5EF1A9C6EA.quest_subtitle: "或许酒狐·萝卜可以寻访要塞"
 	quest.71788D5EF1A9C6EA.title: "隔墙有眼"
 	quest.71B1F68184FEE79C.quest_desc: [
@@ -641,10 +680,11 @@
 	quest.71B1F68184FEE79C.title: "拉杰普特精英"
 	quest.730F14F93E283BCA.quest_desc: [
 		"玉：屏幕上方置中的信息面板，如果消失了应该是误触了'小键盘1'而关闭了，再按一下即可。"
-		"——————这是一条分割线——————"
+		"——————————————————"
 		"JEI：按E进入玩家物品栏界面，右侧的物品列表就是JEI，可以搜索物品。"
 		"左键列表物品可以看获取方式，右键列表则可以看使用方式；相应的在物品栏中按R键、U键，对应着查看获取、查看使用。"
-		"查看时，总是有个小书签，按这个书签或者按A键，可以收藏到左侧；有时还会有个+号，此时按加号可以快捷的把合成材料放置到合成台。"
+		"查看时，总是有个小书签，按这个书签或者按A键，可以收藏到左侧；"
+		"有时还会有个+号，此时按加号可以快捷的把合成材料放置到合成台。"
 	]
 	quest.730F14F93E283BCA.quest_subtitle: "已入门"
 	quest.730F14F93E283BCA.title: "基础模组介绍"
@@ -710,6 +750,7 @@
 		"| 8,192       | 2o            | 村庄之友       "
 		"| 32,768     | 8o            | 我们的一员     "
 		"| 131,072  | 32o         | 天生领袖       "
+		"| 2百万左右| -               | 彩蛋称号"
 	]
 	quest.7D7310A0F7605383.quest_subtitle: "每1铜币的交易，会在本村产生1点声望"
 	quest.7D7310A0F7605383.title: "关于声望"
