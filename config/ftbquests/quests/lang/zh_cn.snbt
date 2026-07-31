@@ -118,10 +118,13 @@
 	quest.118E284EF964918D.title: "炼狱"
 	quest.11B13DF5AD0C9BA5.title: "繁茂洞穴"
 	quest.139012F55F29AA29.quest_desc: [
+		"查看[右图]，背包在手中右键时能打开背包，而放入饰品栏后，开启的快捷键是[B]。"
+		"————————————————"
 		"在工作台中使用8个铜锭给背包围一圈来升级，后续的升级请查看JEI(在物品栏,对着背包按U试试!)。"
-		"背包中有升级组件，合成升级、喂食升级、堆叠升级(最多3个)都很好用，合成方式请查看JEI。"
+		"背包中有升级组件槽位(背包GUI左侧的空槽)；"
+		"合成升级、喂食升级、堆叠升级(最多3个)都很好用，合成方式请查看JEI。"
 		"&c喂食升级可能会喂你吃蜘蛛眼，在背包中可以设置白名单/黑名单。&r"
-		"{image:modpack:textures/quests/start_backpacks.png width:90 height:80 align:center }"
+		"{image:modpack:textures/quests/start_backpacks.png width:100 height:80 align:center }"
 	]
 	quest.139012F55F29AA29.quest_subtitle: "另外使用鼠标中键可以整理玩家物品栏"
 	quest.139012F55F29AA29.title: "精妙背包"
@@ -781,6 +784,7 @@
 	task.01471940D1B72DB6.title: "已知"
 	task.01A8DC541CCBFA10.title: "市场"
 	task.066AEA4100D85BDA.title: "观察村庄面板"
+	task.07A40ED4DFAAFA34.title: "左边的按钮是图片的一部分，没法点的"
 	task.08FDF2E8BF0E5192.title: "已阅读"
 	task.0A6D2FA8ED666D51.title: "小型果园"
 	task.0A8205DAE4A78E09.title: "访客的房子"

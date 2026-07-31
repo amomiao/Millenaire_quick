@@ -643,5 +643,22 @@
 			x: 6.5d
 			y: -2.0d
 		}
+		{
+			id: "0B3AACF499628090"
+			rewards: [{
+				id: "75BCC699840D0E30"
+				item: {
+					count: 1
+					id: "minecraft:cobweb"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "07A40ED4DFAAFA34"
+				type: "checkmark"
+			}]
+			x: -14.5d
+			y: -1.5d
+		}
 	]
 }

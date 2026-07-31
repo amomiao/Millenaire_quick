@@ -1,4 +1,6 @@
 # 手动管理的内容
+!README.md
+.dev
 packwiz.exe
 /*.jar
 /*.json
@@ -29,8 +31,6 @@ screenshots/
 xaero/
 XaeroWaypoints_BACKUP*/
 *-natives/
-# 开发维护工具
-.dev
 # 本地临时状态与缓存标记
 .qmenu_opened.marker
 command_history.txt
@@ -38,8 +38,6 @@ options.txt
 TrashSlotSaveState.json
 usercache.json
 usernamecache.json
-# 但要保留你手动写的 README
-!README.md
 # ==========================================
 # 2. Mod 文件夹 (只保留 packwiz 的 .pw.toml)
 # ==========================================
