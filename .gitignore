@@ -2,6 +2,7 @@
 packwiz.exe
 /*.jar
 /*.json
+/*.zip
 
 # 禁用jei的world:里面记录了具体世界的收藏等内容
 config\jei\world\*
