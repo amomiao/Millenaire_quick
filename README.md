@@ -7,12 +7,12 @@
 
 ## 更新日志 (Release Summary)
 ### 📢 当前版本：
-* **v0.2.1 过渡版本-最好改动一下整合包并测试**
+* **v0.2.1 过渡版本-首发前最后改动一下整合包并测试**
     1. 添加模组  
         No Realms Button : 移除了Realms按钮;  
     2. 配置改动  
         (1) CarryOn不再能搬起easy_villagers的方块
     3. 补写修改了一些任务
         (1) 发现: 想要图片的悬浮文本正常工作,点击不能留空,至少输入一个空格.
-
+        (2) 为玩家提供了一套铁套性能的钻石盔甲: /give @p diamond_helmet[unbreakable={},attribute_modifiers=[{type:"generic.armor",amount:2,operation:"add_value",slot:"head",id:"minecraft:head_iron_armor"}],trim={material:"minecraft:gold",pattern:"minecraft:sentry"}] 1
 ## 历史更新: 已移除,请审阅README.md文件的变动来查看历史更新

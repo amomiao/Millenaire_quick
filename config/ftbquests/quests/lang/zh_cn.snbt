@@ -216,6 +216,7 @@
 	quest.2637AE956CDA86B3.quest_desc: [
 		"花费128d购买村庄卷轴，手持右键即可查看本村面板中的信息。"
 		"购买卷轴需要声望等级达到'村庄之友'。"
+		"[ \"点击查看\", { \"text\": \"此任务\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C195AF03F269B0A\" } }, \"，获取巨量声望:)\" ]"
 	]
 	quest.2637AE956CDA86B3.quest_subtitle: "在一个村庄的声望达到“村庄之友”"
 	quest.2637AE956CDA86B3.title: "村庄之友"
@@ -309,6 +310,7 @@
 		"[现代化UI]提供了一个按'C'启动的 便捷望远镜功能。"
 		"[吃不停]使得玩家在满饥饿度时依旧可以进食。"
 		"[Create：实用功能]对机械动力增加了很多体验优化。"
+		"[中世纪音乐]龙之冒险的同款音乐模组。"
 	]
 	quest.346C8274D169F93C.quest_subtitle: "页数比较多，使用滚轮快捷翻页"
 	quest.346C8274D169F93C.title: "便捷操作"
@@ -325,6 +327,7 @@
 		"对着金块右键可以创建一个自选村庄，"
 		"对着黑曜石右键可以创建一个随机村庄。"
 		"村庄的面积是以金块为中心的正方形，边长178。"
+		"[ \"点击查看\", { \"text\": \"此任务\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C195AF03F269B0A\" } }, \"，获取巨量声望:)\" ]"
 	]
 	quest.386547F3FA6CD5C3.quest_subtitle: "在一个村庄的声望等级到达\"我们的一份子\""
 	quest.386547F3FA6CD5C3.title: "一辈子的朋友 (Amis pour la vie)"
@@ -346,7 +349,7 @@
 		"另外还有后缀(walled)，这个墙是后面会建造，创建时是不带的。"
 		""
 		"文明的创世任务会增加大量的声望，但此版本中尚未加入:("
-		"[ \"我来给，点击查看\", { \"text\": \"此任务\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C195AF03F269B0A\" } }, \"，获取巨量声望:)\" ]"
+		"[ \"点击查看\", { \"text\": \"此任务\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C195AF03F269B0A\" } }, \"，获取巨量声望:)\" ]"
 	]
 	quest.390E8A7286AC71F2.quest_subtitle: "在一个村庄的声望到达“天生领袖”"
 	quest.390E8A7286AC71F2.title: "如果我成为大统领"
@@ -610,7 +613,7 @@
 	quest.6815DD85B49B1925.title: "黑森林"
 	quest.684AC543420DF454.title: "峭壁"
 	quest.68BC75B34FC2EDAD.quest_desc: [
-		"记得/sethome"
+		"&c记得/sethome&r"
 		"后面可以花钱让村庄给你空地/造房子，在此之前建议就在中心建筑门口稍远几格住下。"
 		"地皮可能不会安排到好地方:("
 	]
@@ -738,7 +741,7 @@
 	quest.7C74EE62F6FE9204.quest_desc: [
 		"深色橡树必须放置2x2的树苗。"
 		"云杉树和丛林树的树苗可以选择放置2x2，此时树苗周围不能有东西，云杉树2x2时土质方块会被转化、且有概率树苗回不了本。"
-		"樱花树单树苗的产量极高，但是目前只能作为村庄的通用原木。"
+		"樱花树单树苗的产量极高，但是村庄的收购意愿并不高。"
 	]
 	quest.7C74EE62F6FE9204.quest_subtitle: "有些村庄需要其他群系的原木"
 	quest.7D7310A0F7605383.quest_desc: [

@@ -88,17 +88,154 @@
 		}
 		{
 			icon: {
-				id: "millenaire:norman_chestplate"
+				components: {
+					"minecraft:attribute_modifiers": {
+						modifiers: [{
+							amount: 6.0d
+							id: "minecraft:chest_iron_armor"
+							operation: "add_value"
+							slot: "chest"
+							type: "minecraft:generic.armor"
+						}]
+					}
+					"minecraft:enchantments": {
+						levels: {
+							"minecraft:protection": 2
+						}
+					}
+					"minecraft:repair_cost": 1
+					"minecraft:trim": {
+						material: "minecraft:gold"
+						pattern: "minecraft:ward"
+					}
+					"minecraft:unbreakable": { }
+				}
+				id: "minecraft:diamond_chestplate"
 			}
 			id: "3A000466BB87442D"
-			rewards: [{
-				id: "4F88FC3E64AA3CB2"
-				item: {
-					count: 1
-					id: "minecraft:iron_chestplate"
+			rewards: [
+				{
+					id: "10596021C338E868"
+					item: {
+						components: {
+							"minecraft:attribute_modifiers": {
+								modifiers: [{
+									amount: 2.0d
+									id: "minecraft:head_iron_armor"
+									operation: "add_value"
+									slot: "head"
+									type: "minecraft:generic.armor"
+								}]
+							}
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 2
+								}
+							}
+							"minecraft:repair_cost": 1
+							"minecraft:trim": {
+								material: "minecraft:gold"
+								pattern: "minecraft:host"
+							}
+							"minecraft:unbreakable": { }
+						}
+						count: 1
+						id: "minecraft:diamond_helmet"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0B688E2D2DB5C991"
+					item: {
+						components: {
+							"minecraft:attribute_modifiers": {
+								modifiers: [{
+									amount: 6.0d
+									id: "minecraft:chest_iron_armor"
+									operation: "add_value"
+									slot: "chest"
+									type: "minecraft:generic.armor"
+								}]
+							}
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 2
+								}
+							}
+							"minecraft:repair_cost": 1
+							"minecraft:trim": {
+								material: "minecraft:gold"
+								pattern: "minecraft:ward"
+							}
+							"minecraft:unbreakable": { }
+						}
+						count: 1
+						id: "minecraft:diamond_chestplate"
+					}
+					type: "item"
+				}
+				{
+					id: "4930152EBB1E4937"
+					item: {
+						components: {
+							"minecraft:attribute_modifiers": {
+								modifiers: [{
+									amount: 5.0d
+									id: "minecraft:legs_iron_armor"
+									operation: "add_value"
+									slot: "legs"
+									type: "minecraft:generic.armor"
+								}]
+							}
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:protection": 2
+								}
+							}
+							"minecraft:repair_cost": 1
+							"minecraft:trim": {
+								material: "minecraft:gold"
+								pattern: "minecraft:rib"
+							}
+							"minecraft:unbreakable": { }
+						}
+						count: 1
+						id: "minecraft:diamond_leggings"
+					}
+					type: "item"
+				}
+				{
+					id: "0D146EA83424D6B8"
+					item: {
+						components: {
+							"minecraft:attribute_modifiers": {
+								modifiers: [{
+									amount: 2.0d
+									id: "minecraft:feet_iron_armor"
+									operation: "add_value"
+									slot: "feet"
+									type: "minecraft:generic.armor"
+								}]
+							}
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:feather_falling": 3
+									"minecraft:protection": 2
+								}
+							}
+							"minecraft:repair_cost": 3
+							"minecraft:trim": {
+								material: "minecraft:gold"
+								pattern: "minecraft:spire"
+							}
+							"minecraft:unbreakable": { }
+						}
+						count: 1
+						id: "minecraft:diamond_boots"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "18A6D781CB8FDA6A"
 				type: "checkmark"

@@ -138,56 +138,56 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:bat": true
-			"minecraft:wolf": true
-			"minecraft:pig": true
-			"artifacts:mimic": true
-			"minecraft:enderman": true
-			"minecraft:ocelot": true
+			"minecraft:tropical_fish": false
+			"minecraft:glow_squid": true
 			"minecraft:bee": true
+			"minecraft:iron_golem": true
+			"minecraft:wandering_trader": true
+			"minecraft:llama": true
+			"minecraft:parrot": true
 			"minecraft:goat": true
+			"minecraft:zombie_villager": true
+			"minecraft:sheep": true
+			"minecraft:cat": true
+			"minecraft:fox": true
+			"minecraft:cod": false
+			"minecraft:zombie": true
+			"minecraft:zombified_piglin": true
+			"minecraft:horse": true
+			"minecraft:skeleton": true
+			"minecraft:villager": true
+			"minecraft:turtle": true
+			"minecraft:enderman": true
+			"minecraft:evoker": true
+			"minecraft:creeper": true
+			"minecraft:drowned": true
+			"minecraft:polar_bear": true
 			"minecraft:pufferfish": false
 			"minecraft:hoglin": true
-			"minecraft:fox": true
-			"minecraft:drowned": true
-			"minecraft:skeleton": true
-			"minecraft:slime": true
-			"minecraft:villager": true
-			"minecraft:tropical_fish": false
-			"millenaire:villager": true
-			"minecraft:parrot": true
-			"minecraft:horse": true
-			"minecraft:evoker": true
-			"minecraft:spider": true
-			"minecraft:piglin": true
-			"minecraft:zombie": true
-			"minecraft:vindicator": true
-			"minecraft:zombie_villager": true
-			"minecraft:trader_llama": true
-			"minecraft:wandering_trader": true
-			"minecraft:dolphin": true
-			"minecraft:rabbit": true
-			"minecraft:cat": true
-			"minecraft:cow": true
-			"minecraft:chicken": true
-			"minecraft:glow_squid": true
-			"minecraft:turtle": true
-			"minecraft:sheep": true
-			"minecraft:llama": true
-			"minecraft:polar_bear": true
-			"minecraft:armadillo": true
 			"minecraft:axolotl": true
-			"minecraft:salmon": false
 			"minecraft:witch": true
-			"minecraft:pillager": true
-			"minecraft:squid": true
-			"minecraft:zombified_piglin": true
+			"minecraft:spider": true
+			"minecraft:rabbit": true
+			"minecraft:chicken": true
+			"minecraft:bat": true
+			"minecraft:armadillo": true
+			"artifacts:mimic": true
 			"minecraft:donkey": true
-			"minecraft:creeper": true
+			"minecraft:vindicator": true
+			"minecraft:slime": true
+			"minecraft:pillager": true
 			"minecraft:panda": true
-			"minecraft:iron_golem": true
+			"minecraft:cow": true
+			"millenaire:villager": true
+			"minecraft:salmon": false
+			"minecraft:squid": true
+			"minecraft:wolf": true
+			"minecraft:pig": true
+			"minecraft:piglin": true
 			"minecraft:strider": true
-			"minecraft:cod": false
+			"minecraft:ocelot": true
+			"minecraft:dolphin": true
+			"minecraft:trader_llama": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
