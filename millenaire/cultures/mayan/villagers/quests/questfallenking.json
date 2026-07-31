@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Keban Ajaw",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_king0.png"
+  ],
+  "base_scale": 1.2,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink_cacauhaa",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "hostile",
+    "raider",
+    "noteleport",
+    "defensive",
+    "noresurrect",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:golden_sword": 1,
+    "minecraft:golden_chestplate": 1,
+    "minecraft:golden_leggings": 1,
+    "minecraft:golden_boots": 1
+  },
+  "gender": "male",
+  "first_name_list": "evilking_name",
+  "family_name_list": "evilking_family_name",
+  "icon": "mayanquestcrown",
+  "max_health": 100,
+  "tool_needed_classes": [
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 20,
+  "default_weapon": "minecraft:golden_sword",
+  "experience_given": 100
+}

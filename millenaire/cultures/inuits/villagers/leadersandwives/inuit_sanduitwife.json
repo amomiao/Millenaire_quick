@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Niviaqsialugruaq",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/inuit/sanduit_female.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:play",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path",
+    "millenaire:craft_bread",
+    "millenaire:craft_shoveldirt",
+    "millenaire:plant_potato_home",
+    "millenaire:plant_potato",
+    "millenaire:harvest_potato_home",
+    "millenaire:harvest_potato",
+    "millenaire:craft_firepit",
+    "millenaire:bring_back_home",
+    "millenaire:mine_ice",
+    "millenaire:mine_snow",
+    "millenaire:mine_snow_paths",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "raider",
+    "archer",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:japanese_tachi": 1
+  },
+  "bring_back_home_goods": [
+    "millenaire:snow_brick",
+    "millenaire:ice_brick"
+  ],
+  "collect_goods": [
+    "minecraft:potato",
+    "minecraft:rotten_flesh",
+    "minecraft:bone"
+  ],
+  "gender": "female",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:sand",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons",
+    "shovels"
+  ],
+  "base_attack_strength": 6,
+  "default_weapon": "millenaire:japanese_tachi",
+  "alt_native_name": "Uumaaba"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "balcony",
+  "requiredTag": "balcony",
+  "basePriority": 10000,
+  "priorityRandom": 0,
+  "durationTicks": 600,
+  "reoccurDelayTicks": -1,
+  "allowRandomMoves": false,
+  "leisure": false,
+  "targetPosType": "craftingPos",
+  "minimumHour": 9000,
+  "maximumHour": 10000,
+  "maxSimultaneousInBuilding": 0,
+  "heldItems": null,
+  "heldItemsDestination": null,
+  "goalKey": "give_speech"
+}

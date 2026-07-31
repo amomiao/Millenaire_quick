@@ -1,0 +1,88 @@
+{
+  "key": "potatofarm",
+  "chancePerHour": 0.1,
+  "maxSimultaneous": 1,
+  "minReputation": 6464,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "inuits/inuit_wife"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": []
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 5,
+      "showRequiredGoods": true,
+      "requiredGoods": {},
+      "rewardGoods": {
+        "minecraft:potato": 1
+      },
+      "rewardMoney": 0,
+      "rewardReputation": 0,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    },
+    {
+      "index": 1,
+      "villagerKey": "startvillager",
+      "duration": 5,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "minecraft:potato": 8
+      },
+      "rewardGoods": {
+        "millenaire:inuitpotatostew": 1
+      },
+      "rewardMoney": 0,
+      "rewardReputation": 2048,
+      "penaltyReputation": 1200,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

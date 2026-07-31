@@ -1,0 +1,47 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Tmíma",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.f.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/religious/byz_schem_1_a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/religious/byz_schem_1_b.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/religious/byz_schem_1_c.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:hold_service",
+    "millenaire:drink_wine",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:get_goods_for_household",
+    "millenaire:study"
+  ],
+  "tags": [
+    "religious",
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:writable_book": 1
+  },
+  "gender": "male",
+  "first_name_list": "greek_father",
+  "family_name_list": "greek_monk_names",
+  "icon": "millenaire:wall_byzantine_icon_large",
+  "base_attack_strength": 2,
+  "travelbook_held_item": "minecraft:writable_book"
+}

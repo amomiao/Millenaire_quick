@@ -1,0 +1,33 @@
+{
+  "handler": "smelting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "villageLimit": {
+    "minecraft:baked_potato": 256
+  },
+  "buildingLimit": {
+    "minecraft:baked_potato": 64
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:potato",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:baked_potato",
+        "count": 1
+      }
+    ],
+    "minimumToCook": 1
+  },
+  "sentenceKey": "cook_potato",
+  "labelKey": "cook_potato"
+}

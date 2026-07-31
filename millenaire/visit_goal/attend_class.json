@@ -1,0 +1,19 @@
+{
+  "type": "observeVillager",
+  "targetGoalTag": null,
+  "targetGoalIds": [
+    "millenaire:teach"
+  ],
+  "basePriority": 10000,
+  "priorityRandom": 0,
+  "durationTicks": 600,
+  "reoccurDelayTicks": -1,
+  "minimumHour": 2000,
+  "maximumHour": 6000,
+  "buildingTag": "school",
+  "requiredTag": "school",
+  "heldItems": [
+    "minecraft:writable_book"
+  ],
+  "goalKey": "attend_class"
+}

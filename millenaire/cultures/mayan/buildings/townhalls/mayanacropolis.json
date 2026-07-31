@@ -1,0 +1,141 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanacropolis",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "K'uhul Jalab",
+  "shop": "mayantownhall",
+  "max_count": 0,
+  "male": [
+    "chieftain"
+  ],
+  "female": [
+    "richwoman"
+  ],
+  "tags": [
+    "leisure"
+  ],
+  "icon": "minecraft:chiseled_stone_bricks",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 22,
+            "height": 10,
+            "depth": 42
+          },
+          "priority": 600,
+          "signs": "5,3,1,2,4,0,6,8,7"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 22,
+            "height": 10,
+            "depth": 42
+          },
+          "priority": 600
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 22,
+            "height": 10,
+            "depth": 42
+          },
+          "priority": 580,
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 22,
+            "height": 10,
+            "depth": 42
+          },
+          "priority": 560
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 540
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 520
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 500
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 480
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 460
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 440
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 420
+        },
+        {
+          "level": 11,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 400
+        }
+      ]
+    }
+  ]
+}

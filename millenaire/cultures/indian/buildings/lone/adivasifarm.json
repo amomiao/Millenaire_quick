@@ -1,0 +1,51 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "adivasifarm",
+  "converter_skip": true,
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Adivasi Ka Ghar",
+  "shop": "adivasifarm",
+  "male": [
+    "adivasipeasant"
+  ],
+  "female": [
+    "adivasipeasantwife"
+  ],
+  "icon": "millenaire:rice",
+  "area_to_clear": 1,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 5,
+            "depth": 11
+          },
+          "priority": 5
+        }
+      ],
+      "building_orientation": 3
+    },
+    {
+      "variant": "b",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 5,
+            "depth": 10
+          },
+          "priority": 5
+        }
+      ],
+      "building_orientation": 3
+    }
+  ]
+}

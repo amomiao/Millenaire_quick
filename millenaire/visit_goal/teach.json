@@ -1,0 +1,20 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "school",
+  "requiredTag": "school",
+  "basePriority": 10000,
+  "priorityRandom": 0,
+  "durationTicks": 600,
+  "reoccurDelayTicks": -1,
+  "allowRandomMoves": false,
+  "leisure": false,
+  "targetPosType": "leisurePos",
+  "minimumHour": 2000,
+  "maximumHour": 6000,
+  "maxSimultaneousInBuilding": 1,
+  "heldItems": [
+    "minecraft:book"
+  ],
+  "heldItemsDestination": null,
+  "goalKey": "teach"
+}

@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Nuunjul We'matz",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_farmer0.png",
+    "millenaire:textures/entity/mayan/mayan_farmer1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cacauhaa",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 20,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:masa",
+  "default_weapon": "minecraft:wooden_axe",
+  "travelbook_held_item": "millenaire:masa",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "minecraft:chicken": 16,
+    "millenaire:maize": 64,
+    "minecraft:egg": 16,
+    "millenaire:wah": 16,
+    "millenaire:masa": 16
+  }
+}

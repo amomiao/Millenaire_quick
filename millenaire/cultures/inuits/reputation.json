@@ -1,0 +1,18 @@
+{
+  "labels": [
+    { "threshold": -1024, "key": "reputation.millenaire.inuits.public_enemy" },
+    { "threshold": -256, "key": "reputation.millenaire.inuits.unpleasant_outsider" },
+    { "threshold": -64, "key": "reputation.millenaire.inuits.nuisance" },
+    { "threshold": 0, "key": "reputation.millenaire.inuits.stranger" },
+    { "threshold": 256, "key": "reputation.millenaire.inuits.familiarity" },
+    { "threshold": 512, "key": "reputation.millenaire.inuits.known_face" },
+    { "threshold": 1024, "key": "reputation.millenaire.inuits.regular_visitor" },
+    { "threshold": 2048, "key": "reputation.millenaire.inuits.fellow_survivor" },
+    { "threshold": 4096, "key": "reputation.millenaire.inuits.favourite_trader" },
+    { "threshold": 8192, "key": "reputation.millenaire.inuits.friend_of_village" },
+    { "threshold": 16384, "key": "reputation.millenaire.inuits.blood_brother" },
+    { "threshold": 32768, "key": "reputation.millenaire.inuits.one_of_us" },
+    { "threshold": 131072, "key": "reputation.millenaire.inuits.natural_leader" },
+    { "threshold": 524288, "key": "reputation.millenaire.inuits.spirit_chosen" }
+  ]
+}

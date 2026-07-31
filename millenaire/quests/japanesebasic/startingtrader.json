@@ -1,0 +1,67 @@
+{
+  "key": "startingtrader",
+  "chancePerHour": 0.1,
+  "maxSimultaneous": 1,
+  "minReputation": 0,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "japanese/japanese_merchant"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": [
+        "startingtrader_done"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 5,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "minecraft:diamond": 2,
+        "minecraft:gold_ingot": 8
+      },
+      "rewardGoods": {},
+      "rewardMoney": 2048,
+      "rewardReputation": 256,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "startingtrader_done"
+        }
+      ],
+      "villagerTagsFailure": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "startingtrader_done"
+        }
+      ],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

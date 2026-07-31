@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:norman",
+  "biome_tags": [
+    "#c:is_forest",
+    "#c:is_birch_forest"
+  ],
+  "name": "Mineur solitaire",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 10,
+  "layout": [
+    {
+      "plan": "millenaire:norman/lonemine",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

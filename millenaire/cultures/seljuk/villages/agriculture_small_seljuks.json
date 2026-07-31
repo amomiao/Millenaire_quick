@@ -1,0 +1,187 @@
+{
+  "culture": "millenaire:seljuk",
+  "biome_tags": [
+    "#c:is_savanna"
+  ],
+  "name": "Küçük Çiftçilik Köyü",
+  "weight": 10,
+  "layout": [
+    {
+      "plan": "millenaire:seljuk/hamlettownhall",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:seljuk/lumbermanshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mill",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/imamshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/brick",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/sheepfarm",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/smallmosque",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/lumbermanshouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/kitchen",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cowfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/pistachiotrees",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/sheepfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/sugarcanefarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/brick",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/well",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/market",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/barrackssmall",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/abdesthane",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/cesme",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/golgealti",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplant",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplantsmall",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/node",
+      "role": "secondary"
+    }
+  ],
+  "selling_price_overrides": {
+    "cobblestone": 5,
+    "bread": 12,
+    "wool_white": 11,
+    "mud_brick": 8,
+    "mudbrick_smooth": 10,
+    "mudbrick_seljuk_ornamented": 12,
+    "mudbrick_seljuk_decorated": 20
+  },
+  "buying_price_overrides": {
+    "wool_white": 4,
+    "cobblestone": 3,
+    "wheat": 1,
+    "stone_axe": 4,
+    "stone_hoe": 3,
+    "stone_pickaxe": 4,
+    "stone_shovel": 2,
+    "mud_brick": 6,
+    "mudbrick_smooth": 8,
+    "mudbrick_seljuk_ornamented": 10,
+    "mudbrick_seljuk_decorated": 17
+  },
+  "icon": "minecraft:wheat_seeds",
+  "carries_raid": true,
+  "hill_qualifier": "Tepede",
+  "mountain_qualifier": "Dağda",
+  "desert_qualifier": "Çölde",
+  "forest_qualifier": "Ormanda",
+  "lava_qualifier": "Yanar",
+  "lake_qualifier": "Gölde",
+  "ocean_qualifier": "Denizli",
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "player_buildings": [
+    "millenaire:seljuk/playersmall1",
+    "millenaire:seljuk/playersmall2",
+    "millenaire:seljuk/playerhousegift",
+    "millenaire:seljuk/playerhousesmall",
+    "millenaire:seljuk/playerhousemed",
+    "millenaire:seljuk/playerhousemed2"
+  ],
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:sjk,Color:12}]}}"
+  ],
+  "radius": 70,
+  "never": [
+    "watchtower",
+    "mosque",
+    "armoury",
+    "inn",
+    "hamambath",
+    "mine_brick",
+    "weaver",
+    "toolsmith",
+    "barracks",
+    "stonecraftsman",
+    "cottonfield",
+    "cottonfarm",
+    "olivefarm",
+    "passnode"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "playerlargefield",
+  "converter_skip": true,
+  "category": "player",
+  "native_name": "Bari Saajisa",
+  "max_count": 0,
+  "icon": "minecraft:acacia_fence",
+  "price": 640,
+  "reputation": 8192,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 12
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

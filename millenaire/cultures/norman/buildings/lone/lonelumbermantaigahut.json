@@ -1,0 +1,51 @@
+{
+  "converter_skip": true,
+  "culture": "millenaire:norman",
+  "building_id": "lonelumbermantaigahut",
+  "category": "lone",
+  "native_name": "Hutte de Bûcheron Isolé",
+  "shop": "lonelumbermantaiga",
+  "max_count": 0,
+  "male": [
+    "lonelumbermantaiga"
+  ],
+  "female": [
+    "lonewife"
+  ],
+  "tags": [
+    "drinking",
+    "leisure"
+  ],
+  "icon": "minecraft:spruce_sapling",
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "drinking",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 5,
+          "path_width": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 8,
+            "depth": 12
+          }
+        }
+      ],
+      "building_orientation": 3
+    }
+  ]
+}

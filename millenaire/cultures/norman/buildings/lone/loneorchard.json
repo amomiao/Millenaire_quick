@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "loneorchard",
+  "category": "lone",
+  "native_name": "Verger Isolé",
+  "shop": "loneorchard",
+  "max_count": 0,
+  "tags": [
+    "lumbermanorchard",
+    "cider"
+  ],
+  "icon": "millenaire:apple_tree_sapling",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "lumbermanorchard",
+        "cider"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 5,
+            "depth": 12
+          },
+          "path_width": 1,
+          "infoTreeSpawns": [
+            {
+              "sapling": "apple"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

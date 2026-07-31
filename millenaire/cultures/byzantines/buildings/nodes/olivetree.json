@@ -1,0 +1,59 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "olivetree",
+  "category": "nodes",
+  "native_name": "Elaiódentro",
+  "max_count": 6,
+  "tags": [
+    "pathnode",
+    "olives",
+    "patrol"
+  ],
+  "icon": "millenaire:olives",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "pathnode",
+        "olives",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 3,
+            "depth": 7
+          },
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ],
+          "infoTreeSpawns": [
+            {
+              "sapling": "olive"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 3,
+            "depth": 7
+          },
+          "priority": 300,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

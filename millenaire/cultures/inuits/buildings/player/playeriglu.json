@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "playeriglu",
+  "category": "player",
+  "native_name": "Iglu",
+  "max_count": 0,
+  "icon": "millenaire:denier",
+  "price": 8,
+  "reputation": 64,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 3000
+        }
+      ]
+    }
+  ]
+}

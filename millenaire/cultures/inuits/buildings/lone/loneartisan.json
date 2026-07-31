@@ -1,0 +1,279 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "loneartisan",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Irkraumalerutiksak Tupiq",
+  "shop": "loneartisan",
+  "max_count": 0,
+  "female": [
+    "inuit_lonecarver"
+  ],
+  "icon": "millenaire:ulu",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "millenaire:ulu",
+      "probability": 1.0,
+      "fixed": 5,
+      "random": 10
+    },
+    {
+      "item": "minecraft:coarse_dirt",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:furhelmet",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furplate",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furlegs",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furboots",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:leather_helmet",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:leather_chestplate",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "minecraft:leather_leggings",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:leather_boots",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:inuittrident",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:inuitbow",
+      "probability": 0.67,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:arrow",
+      "probability": 0.5,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "millenaire:sod_spruce",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_birch",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_oak",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_jungle",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_acacia",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_dark_oak",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:inuit_carving",
+      "probability": 1.3,
+      "fixed": 5,
+      "random": 10
+    },
+    {
+      "item": "minecraft:bone_block",
+      "probability": 0.3,
+      "fixed": 4,
+      "random": 12
+    },
+    {
+      "item": "minecraft:cauldron",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:fire_pit",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:straw_bed",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "millenaire:wall_hide_hanging",
+      "probability": 1.0,
+      "fixed": 5,
+      "random": 10
+    },
+    {
+      "item": "millenaire:snow_brick",
+      "probability": 0.3,
+      "fixed": 6,
+      "random": 12
+    },
+    {
+      "item": "millenaire:ice_brick",
+      "probability": 0.3,
+      "fixed": 6,
+      "random": 12
+    },
+    {
+      "item": "minecraft:ice",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:snow_wall",
+      "probability": 0.5,
+      "fixed": 4,
+      "random": 16
+    },
+    {
+      "item": "millenaire:inuitbearstew",
+      "probability": 2.0,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:inuitmeatystew",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:inuitpotatostew",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:bearmeat_cooked",
+      "probability": 0.75,
+      "fixed": 4,
+      "random": 6
+    },
+    {
+      "item": "millenaire:bearmeat_raw",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:wolfmeat_raw",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:wolfmeat_cooked",
+      "probability": 0.75,
+      "fixed": 4,
+      "random": 6
+    },
+    {
+      "item": "minecraft:cod",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "minecraft:cooked_cod",
+      "probability": 0.75,
+      "fixed": 4,
+      "random": 6
+    },
+    {
+      "item": "millenaire:seafood_raw",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:seafood_cooked",
+      "probability": 0.75,
+      "fixed": 4,
+      "random": 6
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 10,
+            "depth": 13
+          },
+          "priority": 31
+        }
+      ]
+    }
+  ]
+}

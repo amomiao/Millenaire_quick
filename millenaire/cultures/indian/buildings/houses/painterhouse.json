@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "painterhouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Chitrakaar Ka Ghar",
+  "male": [
+    "painter"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:decorated_brick_white",
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 2000,
+          "priority_move_in": 50
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 10
+          }
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 10
+          }
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 10
+          }
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

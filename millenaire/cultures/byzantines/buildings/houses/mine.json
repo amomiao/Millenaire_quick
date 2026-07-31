@@ -1,0 +1,118 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "mine",
+  "category": "houses",
+  "native_name": "Latomeío",
+  "max_count": 2,
+  "min_distance": 0.6,
+  "male": [
+    "miner_byzantine"
+  ],
+  "female": [
+    "wife_byzantine"
+  ],
+  "tags": [
+    "mine"
+  ],
+  "icon": "minecraft:iron_pickaxe",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -9,
+      "tags": [
+        "mine"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 13,
+            "depth": 17
+          },
+          "infoSources": [
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 13,
+            "height": 13,
+            "depth": 17
+          },
+          "priority": 400,
+          "infoSources": [
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 13,
+            "height": 17,
+            "depth": 17
+          },
+          "priority": 410,
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "diorite"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 13,
+            "height": 17,
+            "depth": 17
+          },
+          "priority": 200,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 13,
+            "height": 17,
+            "depth": 17
+          },
+          "priority": 150,
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "diorite"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 13,
+            "height": 17,
+            "depth": 17
+          },
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "diorite"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

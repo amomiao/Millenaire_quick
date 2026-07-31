@@ -1,0 +1,13 @@
+{
+  "sells": [
+    "rice",
+    "turmeric",
+    "chicken_raw",
+    "dye_blue",
+    "gold_ingot",
+    "diamond"
+  ],
+  "buys": [],
+  "buys_optional": [],
+  "deliver_to": []
+}

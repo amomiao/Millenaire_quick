@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "sheepranch",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Monachikó próvato",
+  "shop": "lonesheep",
+  "male": [
+    "loneshepherd_byzantine"
+  ],
+  "tags": [
+    "sheeps",
+    "treeshadow"
+  ],
+  "icon": "minecraft:white_wool",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "sheeps",
+        "treeshadow"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 8,
+            "depth": 12
+          },
+          "infoSoils": [
+            {
+              "crop": "flower"
+            },
+            {
+              "crop": "wheat"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "sheep"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

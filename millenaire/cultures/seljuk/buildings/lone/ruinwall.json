@@ -1,0 +1,25 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "ruinwall",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Yıkık Duvar",
+  "icon": "minecraft:sand",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 3,
+            "depth": 10
+          }
+        }
+      ]
+    }
+  ]
+}

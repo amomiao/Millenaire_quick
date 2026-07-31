@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Sadhu",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_sadhu.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [
+    "religious",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "sadhu_last",
+  "family_name_list": "sadhu_first",
+  "icon": "vishnu_amulet",
+  "experience_given": 2,
+  "travelbook_held_item": "vishnu_amulet"
+}

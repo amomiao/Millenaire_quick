@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "foodpreparer",
+  "category": "houses",
+  "native_name": "Niqi",
+  "shop": "cheffery",
+  "tags": [
+    "bakery",
+    "kitchen",
+    "oven"
+  ],
+  "icon": "millenaire:inuitbearstew",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "bakery",
+        "kitchen",
+        "oven"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 400,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

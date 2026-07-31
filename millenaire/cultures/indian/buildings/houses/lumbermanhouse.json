@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "lumbermanhouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Lakarhara Ka Ghar",
+  "male": [
+    "lumberman"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "minecraft:iron_axe",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 1000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 11
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 95
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

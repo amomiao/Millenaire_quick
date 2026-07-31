@@ -1,0 +1,44 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Epicheirimatias Keimelia",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.f.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/foreign/byz.ft.rel.1.a.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 5,
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:wall_byzantine_icon_large",
+  "base_attack_strength": 5,
+  "experience_given": 3,
+  "foreign_merchant_stock": {
+    "millenaire:byzantine_fresco": 24,
+    "millenaire:byzantine_mosaic_red": 32,
+    "millenaire:wall_byzantine_icon_small": 24,
+    "millenaire:wall_byzantine_icon_medium": 12,
+    "millenaire:wall_byzantine_icon_large": 6
+  }
+}

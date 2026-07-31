@@ -1,0 +1,53 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "carver",
+  "category": "houses",
+  "native_name": "Mitlik Tupiq",
+  "max_count": 2,
+  "male": [
+    "inuit_husband"
+  ],
+  "female": [
+    "inuit_carver"
+  ],
+  "icon": "millenaire:inuit_carving",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 300,
+          "priority_move_in": 20
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 35,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

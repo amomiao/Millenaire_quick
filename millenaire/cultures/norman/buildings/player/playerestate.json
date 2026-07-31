@@ -1,0 +1,30 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "playerestate",
+  "category": "player",
+  "native_name": "Hôtel particulier",
+  "max_count": 0,
+  "icon": "millenaire:denier_or",
+  "area_to_clear": 5,
+  "price": 16384,
+  "reputation": 32768,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -11,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 25,
+            "depth": 18
+          },
+          "priority": 1000000,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "market",
+  "category": "houses",
+  "native_name": "Çarşı",
+  "tags": [
+    "market",
+    "patrol",
+    "leisure"
+  ],
+  "icon": "millenaire:purse",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "market",
+        "patrol",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 23,
+            "height": 6,
+            "depth": 24
+          },
+          "priority": 300,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 23,
+            "height": 6,
+            "depth": 24
+          },
+          "path_level": 1,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 23,
+            "height": 10,
+            "depth": 24
+          },
+          "priority": 55,
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 23,
+            "height": 10,
+            "depth": 24
+          },
+          "priority": 50,
+          "path_level": 2,
+          "rebuild_path": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "playerhugefield",
+  "category": "player",
+  "native_name": "Visaala Saajisa",
+  "max_count": 0,
+  "icon": "minecraft:acacia_fence",
+  "area_to_clear": 5,
+  "price": 2048,
+  "reputation": 32768,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 4,
+            "depth": 18
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

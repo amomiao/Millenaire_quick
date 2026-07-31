@@ -1,0 +1,19 @@
+{
+  "culture": "millenaire:mayan",
+  "biome_tags": [
+    "#c:is_swamp",
+    "#c:is_dark_forest"
+  ],
+  "name": "Lost Maya Home",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 15,
+  "min_distance_from_spawn": 1000,
+  "layout": [
+    {
+      "plan": "millenaire:mayan/lonemayanruin",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

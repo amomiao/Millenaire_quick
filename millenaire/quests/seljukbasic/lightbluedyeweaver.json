@@ -1,0 +1,66 @@
+{
+  "key": "lightbluedyeweaver",
+  "chancePerHour": 0.1,
+  "maxSimultaneous": 2,
+  "minReputation": 500,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "seljuk/turk_weaver"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": [
+        "lightbluedyeweaver_done"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 100,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "minecraft:light_blue_dye": 16
+      },
+      "rewardGoods": {},
+      "rewardMoney": 160,
+      "rewardReputation": 320,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "lightbluedyeweaver_done"
+        }
+      ],
+      "villagerTagsFailure": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "lightbluedyeweaver_done"
+        }
+      ],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

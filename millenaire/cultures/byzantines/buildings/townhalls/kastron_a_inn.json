@@ -1,0 +1,134 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "kastron_a_inn",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "kastron",
+    "variant": "a",
+    "level": 0
+  },
+  "is_town_hall": false,
+  "native_name": "Pandocheíon",
+  "max_count": 0,
+  "male": [
+    "merchant_byzantine"
+  ],
+  "tags": [
+    "inn",
+    "patrol",
+    "pathnode"
+  ],
+  "icon": "minecraft:red_bed",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 34,
+            "height": 9,
+            "depth": 38
+          },
+          "priority": 1000,
+          "signs": "0,1",
+          "tags": [
+            "inn",
+            "patrol"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 34,
+            "height": 9,
+            "depth": 38
+          },
+          "priority": 99999,
+          "rebuild_path": true,
+          "tags": [
+            "inn",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall2"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 34,
+            "height": 12,
+            "depth": 38
+          },
+          "priority": 200,
+          "tags": [
+            "inn",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall2",
+            "innup"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 34,
+            "height": 13,
+            "depth": 38
+          },
+          "priority": 150,
+          "tags": [
+            "inn",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall2",
+            "innup",
+            "finish1"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "tags": [
+            "inn",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall2",
+            "innup",
+            "finish1"
+          ],
+          "required_parent_tags": [
+            "wall1",
+            "finish2",
+            "finish3",
+            "finish4"
+          ]
+        }
+      ]
+    }
+  ]
+}

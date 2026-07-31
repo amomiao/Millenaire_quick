@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Garçon",
+  "textures": [
+    "millenaire:textures/entity/norman/children/nor_boy_0.png",
+    "millenaire:textures/entity/norman/children/nor_boy_1.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:child_become_adult",
+    "millenaire:play",
+    "millenaire:play_with_friends",
+    "millenaire:observe_agriculture",
+    "millenaire:observe_construction",
+    "millenaire:observe_smithing",
+    "millenaire:observe_produce_alcohol",
+    "millenaire:observe_produce_food",
+    "millenaire:child_eat_apple",
+    "millenaire:gather_cider_apples_children"
+  ],
+  "tags": [
+    "child"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "minecraft:cornflower",
+  "base_attack_strength": 1,
+  "default_weapon": "minecraft:wooden_sword",
+  "alt_native_name": "Jeune",
+  "alt_key": "teenagermale",
+  "travelbook_held_item": "millenaire:cider_apple"
+}

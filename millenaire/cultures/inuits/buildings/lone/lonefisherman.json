@@ -1,0 +1,159 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "lonefisherman",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Autsituqpuq",
+  "shop": "lonefisherman",
+  "max_count": 0,
+  "male": [
+    "inuit_lonefisherman"
+  ],
+  "icon": "minecraft:fishing_rod",
+  "starting_goods": [
+    {
+      "item": "millenaire:furplate",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furlegs",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furboots",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:inuittrident",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "millenaire:inuitmeatystew",
+      "probability": 2.0,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:cooked_cod",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 12
+    },
+    {
+      "item": "minecraft:cod",
+      "probability": 1.5,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "millenaire:seafood_raw",
+      "probability": 1.75,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "millenaire:seafood_cooked",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 12
+    },
+    {
+      "item": "minecraft:bone",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "minecraft:bone_block",
+      "probability": 1.3,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "minecraft:cauldron",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:fire_pit",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:straw_bed",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:wall_hide_hanging",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:inuitpotatostew",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:bearmeat_cooked",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:bearmeat_raw",
+      "probability": 0.3,
+      "fixed": 4,
+      "random": 6
+    },
+    {
+      "item": "millenaire:wolfmeat_raw",
+      "probability": 0.3,
+      "fixed": 4,
+      "random": 6
+    },
+    {
+      "item": "millenaire:wolfmeat_cooked",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:inuit_carving",
+      "probability": 0.75,
+      "fixed": 2,
+      "random": 8
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 31
+        }
+      ]
+    }
+  ]
+}

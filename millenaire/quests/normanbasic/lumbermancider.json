@@ -1,0 +1,66 @@
+{
+  "key": "lumbermancider",
+  "chancePerHour": 0.1,
+  "maxSimultaneous": 2,
+  "minReputation": 0,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "norman/lumberman"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": [
+        "lumbermancider_done"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 48,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "millenaire:cider": 1
+      },
+      "rewardGoods": {},
+      "rewardMoney": 64,
+      "rewardReputation": 128,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "lumbermancider_done"
+        }
+      ],
+      "villagerTagsFailure": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "lumbermancider_done"
+        }
+      ],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

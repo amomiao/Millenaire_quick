@@ -1,0 +1,24 @@
+{
+  "handler": "flower_planting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 16,
+  "actionCooldown": 10,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "reoccurDelay": -1,
+  "handlerParams": {
+    "flowers": [
+      "minecraft:rose_bush"
+    ],
+    "seedItem": "minecraft:bone_meal"
+  },
+  "sentenceKey": "plantflowers",
+  "labelKey": "plantflowers",
+  "heldItems": [
+    "minecraft:white_dye"
+  ]
+}

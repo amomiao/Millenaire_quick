@@ -1,0 +1,20 @@
+{
+  "sells": [
+    "cobblestone",
+    "stone"
+  ],
+  "buys": [
+    "bread",
+    "cider",
+    "norman_pickaxe",
+    "norman_shovel",
+    "wood",
+    "wood_pine",
+    "wood_birch",
+    "wood_jungle",
+    "wood_acacia",
+    "wood_darkoak"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

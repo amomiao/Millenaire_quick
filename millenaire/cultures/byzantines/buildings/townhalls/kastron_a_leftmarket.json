@@ -1,0 +1,179 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "kastron_a_leftmarket",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "kastron",
+    "variant": "a",
+    "level": 0
+  },
+  "is_town_hall": false,
+  "native_name": "Ágora",
+  "max_count": 0,
+  "tags": [
+    "market",
+    "leisure",
+    "patrol",
+    "pathnode"
+  ],
+  "icon": "millenaire:clothes_byz_wool",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 34,
+            "height": 7,
+            "depth": 38
+          },
+          "priority": 500,
+          "tags": [
+            "market",
+            "leisure",
+            "patrol"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 34,
+            "height": 9,
+            "depth": 38
+          },
+          "priority": 99999,
+          "native_name": "Aristerá Ágora",
+          "rebuild_path": true,
+          "tags": [
+            "market",
+            "leisure",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall3"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "priority": 400,
+          "tags": [
+            "market",
+            "leisure",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall3"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "priority": 200,
+          "tags": [
+            "market",
+            "leisure",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall3"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "priority": 150,
+          "tags": [
+            "market",
+            "leisure",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall3",
+            "finish2"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "tags": [
+            "market",
+            "leisure",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall3",
+            "finish2"
+          ],
+          "required_parent_tags": [
+            "wall1",
+            "finish1",
+            "finish3",
+            "finish4"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "tags": [
+            "market",
+            "leisure",
+            "patrol",
+            "pathnode"
+          ],
+          "parent_tags": [
+            "wall3",
+            "finish2"
+          ],
+          "required_parent_tags": [
+            "wall1",
+            "finish1",
+            "finish3",
+            "finish4"
+          ]
+        }
+      ]
+    }
+  ]
+}

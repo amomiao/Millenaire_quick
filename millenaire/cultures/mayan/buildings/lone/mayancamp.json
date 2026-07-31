@@ -1,0 +1,100 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayancamp",
+  "category": "lone",
+  "tags": ["worldquest"],
+  "native_name": "Ajaw Cah",
+  "male": [
+    "questkinglieutnant",
+    "questkingelitewarrior",
+    "questkingelitewarrior",
+    "questkingelitewarrior"
+  ],
+  "starting_sub_buildings": [
+    "mayancamp_innerguard",
+    "mayancamp_jail",
+    "mayancamp_outerguard",
+    "mayancamp_wall",
+    "mayancamp_dig"
+  ],
+  "icon": "millenaire:mayan_mace",
+  "starting_goods": [
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.8,
+      "fixed": 4,
+      "random": 15
+    },
+    {
+      "item": "minecraft:diamond",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 8
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 32
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.8,
+      "fixed": 4,
+      "random": 15
+    },
+    {
+      "item": "millenaire:mayan_gold_block",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.8,
+      "fixed": 4,
+      "random": 15
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 15
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 3
+    },
+    {
+      "item": "millenaire:wah",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 2
+    },
+    {
+      "item": "millenaire:cacauhaa",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 3
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -9,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 30,
+            "height": 20,
+            "depth": 31
+          }
+        }
+      ]
+    }
+  ]
+}

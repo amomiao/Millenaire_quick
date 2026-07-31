@@ -1,0 +1,106 @@
+{
+  "key": "fishingfrenzy",
+  "chancePerHour": 0.6,
+  "maxSimultaneous": 3,
+  "minReputation": 0,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "japanese/japanese_fisherman"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": [
+        "fishingfrenzy_done"
+      ]
+    },
+    {
+      "key": "wife",
+      "villagerTypes": [
+        "japanese/japanese_peasantwife"
+      ],
+      "relatedTo": "startvillager",
+      "relation": "samehouse",
+      "requiredTags": [],
+      "forbiddenTags": []
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 5,
+      "showRequiredGoods": true,
+      "requiredGoods": {},
+      "rewardGoods": {},
+      "rewardMoney": 0,
+      "rewardReputation": 0,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    },
+    {
+      "index": 1,
+      "villagerKey": "wife",
+      "duration": 5,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "minecraft:cod": 4
+      },
+      "rewardGoods": {},
+      "rewardMoney": 0,
+      "rewardReputation": 128,
+      "penaltyReputation": 192,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "fishingfrenzy_done"
+        }
+      ],
+      "villagerTagsFailure": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "fishingfrenzy_done"
+        }
+      ],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

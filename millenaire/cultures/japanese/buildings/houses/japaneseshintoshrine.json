@@ -1,0 +1,65 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japaneseshintoshrine",
+  "category": "houses",
+  "native_name": "Soushi",
+  "tags": [
+    "praying",
+    "leisure"
+  ],
+  "icon": "minecraft:oak_log",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "praying",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 12
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 12
+          },
+          "priority": 50,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 45,
+          "path_level": 2
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 11,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 40
+        }
+      ]
+    }
+  ]
+}

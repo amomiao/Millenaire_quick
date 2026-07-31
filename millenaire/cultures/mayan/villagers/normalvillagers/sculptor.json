@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Uxul",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_sculptor0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_mayanstatue",
+    "millenaire:craft_mayangoldblock"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:stone": 40,
+    "minecraft:sandstone": 20,
+    "minecraft:gold_ingot": 20
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:mayan_statue",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "travelbook_held_item": "millenaire:mayan_statue",
+  "travelbook_held_item_off_hand": "minecraft:stone"
+}

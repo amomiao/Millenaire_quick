@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "olivefarm",
+  "category": "houses",
+  "native_name": "Zeytin Bahçesi",
+  "shop": "olivefarm",
+  "max_count": 2,
+  "tags": [
+    "olivepress",
+    "olives",
+    "leisure",
+    "patrol"
+  ],
+  "icon": "millenaire:olives",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "olivepress",
+        "olives",
+        "leisure",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "infoTreeSpawns": [
+            {
+              "sapling": "olive"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 200,
+          "infoTreeSpawns": [
+            {
+              "sapling": "olive"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesehousemedium",
+  "category": "player",
+  "native_name": "Reinousha Ie",
+  "max_count": 0,
+  "icon": "millenaire:denier_argent",
+  "price": 16384,
+  "reputation": 16384,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 22,
+            "height": 12,
+            "depth": 21
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

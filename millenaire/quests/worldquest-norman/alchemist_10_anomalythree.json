@@ -1,0 +1,103 @@
+{
+  "key": "alchemist_10_anomalythree",
+  "chancePerHour": 0.3,
+  "maxSimultaneous": 1,
+  "minReputation": 0,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [
+    "alchemist_9_anomalytwo"
+  ],
+  "playerTagsForbidden": [
+    "alchemist_10_anomalythree"
+  ],
+  "villagerDefs": [
+    {
+      "key": "alchemist",
+      "villagerTypes": [
+        "norman/alchemist"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": []
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "alchemist",
+      "duration": 1048,
+      "showRequiredGoods": true,
+      "requiredGoods": {},
+      "rewardGoods": {},
+      "rewardMoney": 0,
+      "rewardReputation": 0,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": [
+        {
+          "culture": "norman",
+          "villageType": "anomalythree"
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "villagerKey": "alchemist",
+      "duration": 1048,
+      "showRequiredGoods": false,
+      "requiredGoods": {
+        "millenaire:unknown_powder": 1
+      },
+      "rewardGoods": {
+        "millenaire:calva": 1,
+        "millenaire:boudin": 1
+      },
+      "rewardMoney": 960,
+      "rewardReputation": 512,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [
+        "alchemist_10_anomalythree"
+      ],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [
+        {
+          "key": "alchemistqueststatus",
+          "value": "10"
+        }
+      ],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

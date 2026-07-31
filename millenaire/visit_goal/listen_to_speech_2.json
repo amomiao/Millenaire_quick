@@ -1,0 +1,17 @@
+{
+  "type": "observeVillager",
+  "targetGoalTag": null,
+  "targetGoalIds": [
+    "millenaire:give_speech"
+  ],
+  "basePriority": 10,
+  "priorityRandom": 0,
+  "durationTicks": 600,
+  "reoccurDelayTicks": -1,
+  "minimumHour": 9000,
+  "maximumHour": 10000,
+  "buildingTag": "balcony",
+  "requiredTag": "balcony",
+  "heldItems": null,
+  "goalKey": "listen_to_speech_2"
+}

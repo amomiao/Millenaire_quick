@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Tunisiruq",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_male5.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 20,
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:furplate",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:furplate",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "millenaire:furhelmet": 4,
+    "millenaire:furplate": 4,
+    "millenaire:furlegs": 4,
+    "millenaire:furboots": 4,
+    "millenaire:inuitbow": 4,
+    "millenaire:inuittrident": 4
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesequarry",
+  "category": "houses",
+  "native_name": "Saisekijou",
+  "min_distance": 0.6,
+  "male": [
+    "miner"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "tags": [
+    "oven"
+  ],
+  "icon": "minecraft:iron_pickaxe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 15
+          },
+          "ground_level": -3,
+          "priority": 1000,
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "gravel"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 11,
+            "depth": 15
+          },
+          "ground_level": -4,
+          "priority": 200,
+          "tags": [
+            "oven"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "gravel"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 11,
+            "depth": 15
+          },
+          "ground_level": -4,
+          "priority": 95,
+          "tags": [
+            "oven"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "gravel"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 19,
+            "height": 11,
+            "depth": 15
+          },
+          "ground_level": -4,
+          "priority": 90,
+          "path_level": 1,
+          "tags": [
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

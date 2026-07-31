@@ -1,0 +1,26 @@
+{
+  "culture": "millenaire:byzantines",
+  "biome_tags": [
+    "#c:is_plains",
+    "#c:is_savanna"
+  ],
+  "name": "Apomonomeno Boske Probaton",
+  "weight": 1,
+  "lone_building": true,
+  "radius": 10,
+  "max": 1,
+  "layout": [
+    {
+      "plan": "millenaire:byzantines/oldsheepfarm",
+      "role": "centre"
+    }
+  ],
+  "buying_price_overrides": {
+    "wool_white": 1,
+    "cobblestone": 1,
+    "quartz": 1,
+    "byzantine_tiles": 1,
+    "gold_ingot": 1
+  },
+  "allow_extra_buildings": false
+}

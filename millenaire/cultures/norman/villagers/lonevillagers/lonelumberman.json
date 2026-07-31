@@ -1,0 +1,82 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Bûcheron",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_peasant_0.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_1.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_2.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_3.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_4.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_5.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_6.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_7.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_8.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_9.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_lumberman_0.png",
+        "millenaire:textures/entity/norman/male/clothes/nor_lumberman_1.png",
+        "millenaire:textures/entity/norman/male/clothes/nor_lumberman_2.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:drink_cider",
+    "millenaire:bring_back_home",
+    "millenaire:chop_trees",
+    "millenaire:plant_saplings",
+    "millenaire:gather_goods",
+    "millenaire:gather_cider_apples_lumbermen",
+    "millenaire:plant_sapling_appletree_orchard"
+  ],
+  "tags": [
+    "heavydrinker",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:oak_sapling": 10
+  },
+  "bring_back_home_goods": [
+    "minecraft:oak_log",
+    "minecraft:spruce_log",
+    "minecraft:birch_log",
+    "minecraft:jungle_log",
+    "minecraft:acacia_log",
+    "minecraft:dark_oak_log",
+    "millenaire:cider_apple"
+  ],
+  "collect_goods": [
+    "minecraft:oak_log",
+    "minecraft:spruce_log",
+    "minecraft:birch_log",
+    "minecraft:jungle_log",
+    "minecraft:acacia_log",
+    "minecraft:dark_oak_log",
+    "minecraft:oak_sapling",
+    "minecraft:spruce_sapling",
+    "minecraft:birch_sapling",
+    "minecraft:jungle_sapling",
+    "minecraft:acacia_sapling",
+    "minecraft:dark_oak_sapling"
+  ],
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "millenaire:norman_axe",
+  "tool_needed_classes": [
+    "axes"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:norman_axe",
+  "travelbook_held_item_off_hand": "minecraft:oak_log"
+}

@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Ieuaqti",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_hunter2.png",
+    "millenaire:textures/entity/inuit/inuit_male.png",
+    "millenaire:textures/entity/inuit/inuit_shaman2.png",
+    "millenaire:textures/entity/inuit/inuit_bandit.png"
+  ],
+  "base_scale": 1.11,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "heavydrinker",
+    "hostile",
+    "archer",
+    "raider",
+    "noteleport",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:inuitbow": 1,
+    "minecraft:arrow": 64,
+    "millenaire:furlegs": 1,
+    "millenaire:furboots": 1
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:inuittrident",
+  "max_health": 63,
+  "tool_needed_classes": [
+    "rangedweapons"
+  ],
+  "base_attack_strength": 6,
+  "experience_given": 10,
+  "travelbook_held_item": "millenaire:inuittrident"
+}

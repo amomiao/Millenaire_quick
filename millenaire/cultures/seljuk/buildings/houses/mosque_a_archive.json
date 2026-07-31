@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "mosque_a_archive",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "mosque",
+    "variant": "a",
+    "level": 3
+  },
+  "native_name": "Arşiv",
+  "max_count": 0,
+  "tags": [
+    "archives"
+  ],
+  "icon": "sign",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -6,
+      "tags": [
+        "archives"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 6,
+            "depth": 17
+          },
+          "signs": "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66"
+        }
+      ]
+    }
+  ]
+}

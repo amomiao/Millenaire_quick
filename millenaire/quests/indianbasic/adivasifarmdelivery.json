@@ -1,0 +1,146 @@
+{
+  "key": "adivasifarmdelivery",
+  "chancePerHour": 0.1,
+  "maxSimultaneous": 1,
+  "minReputation": 32,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "indian/indian_adivasipeasant"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": [
+        "adivasifarm_done"
+      ]
+    },
+    {
+      "key": "peasant",
+      "villagerTypes": [
+        "indian/indian_peasant"
+      ],
+      "relatedTo": "startvillager",
+      "relation": "nearbyvillage",
+      "requiredTags": [],
+      "forbiddenTags": []
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 48,
+      "showRequiredGoods": true,
+      "requiredGoods": {},
+      "rewardGoods": {
+        "millenaire:rice": 16,
+        "millenaire:turmeric": 16
+      },
+      "rewardMoney": 0,
+      "rewardReputation": 0,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    },
+    {
+      "index": 1,
+      "villagerKey": "peasant",
+      "duration": 168,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "millenaire:rice": 8,
+        "millenaire:turmeric": 8
+      },
+      "rewardGoods": {
+        "minecraft:chicken": 8,
+        "millenaire:rasgulla": 8
+      },
+      "rewardMoney": 0,
+      "rewardReputation": 0,
+      "penaltyReputation": 128,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    },
+    {
+      "index": 2,
+      "villagerKey": "startvillager",
+      "duration": 168,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "minecraft:chicken": 8,
+        "millenaire:rasgulla": 8
+      },
+      "rewardGoods": {},
+      "rewardMoney": 128,
+      "rewardReputation": 128,
+      "penaltyReputation": 128,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "adivasifarm_done"
+        }
+      ],
+      "villagerTagsFailure": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "adivasifarm_done"
+        }
+      ],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

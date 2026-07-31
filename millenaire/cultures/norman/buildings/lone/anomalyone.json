@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "anomalyone",
+  "category": "lone",
+  "native_name": "Anomalie Une",
+  "tags": [
+    "worldquest"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "worldquest"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 18
+          }
+        }
+      ]
+    }
+  ]
+}

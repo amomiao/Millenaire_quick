@@ -1,0 +1,75 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "woodcutter",
+  "category": "houses",
+  "native_name": "Kalyva Xylokópou",
+  "max_count": 2,
+  "min_distance": 0.4,
+  "male": [
+    "lumberman_byzantine"
+  ],
+  "female": [
+    "wife_byzantine"
+  ],
+  "tags": [
+    "woodcutter"
+  ],
+  "icon": "minecraft:iron_axe",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "woodcutter"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 5,
+            "depth": 10
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 13,
+            "height": 5,
+            "depth": 10
+          },
+          "priority": 400
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 13,
+            "height": 9,
+            "depth": 10
+          },
+          "priority": 400,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 13,
+            "height": 9,
+            "depth": 10
+          },
+          "priority": 200
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 13,
+            "height": 9,
+            "depth": 10
+          }
+        }
+      ]
+    }
+  ]
+}

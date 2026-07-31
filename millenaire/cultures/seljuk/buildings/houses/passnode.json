@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "passnode",
+  "category": "houses",
+  "native_name": "Kavşak",
+  "max_count": 2,
+  "tags": [
+    "pathnode",
+    "leisure",
+    "patrol"
+  ],
+  "icon": "millenaire:mud_brick",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "pathnode",
+        "leisure",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 14
+          },
+          "priority": 50
+        }
+      ]
+    }
+  ]
+}

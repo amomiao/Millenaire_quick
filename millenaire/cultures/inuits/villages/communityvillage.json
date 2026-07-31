@@ -1,0 +1,214 @@
+{
+  "culture": "millenaire:inuits",
+  "biome_tags": [
+    "#c:is_snowy_plains"
+  ],
+  "name": "Nunaaqqiq",
+  "weight": 10,
+  "layout": [
+    {
+      "plan": "millenaire:inuits/council",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:inuits/lumberman",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/flower",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/flower",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/grove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/sodder",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/lake",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/foodpreparer",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/armoury",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/farmp",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/flower",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/armourerhouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/foodprephouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/market",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/grove",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/offering",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/farmp",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/farmw",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/guesthouse",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/animistic",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/shaman",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/carver",
+      "role": "secondary"
+    }
+  ],
+  "selling_price_overrides": {
+    "bread": 7
+  },
+  "icon": "millenaire:fire_pit",
+  "carries_raid": true,
+  "path_materials": [
+    "pathsnow"
+  ],
+  "player_buildings": [
+    "millenaire:inuits/playeriglu",
+    "millenaire:inuits/playercampsite",
+    "millenaire:inuits/playerlargegrove",
+    "millenaire:inuits/playersmallhouse",
+    "millenaire:inuits/playermedhouse",
+    "millenaire:inuits/playerlargehouse"
+  ],
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:bl,Color:2},{Pattern:tr,Color:2},{Pattern:br,Color:2},{Pattern:tl,Color:2},{Pattern:cbo,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:bl,Color:3},{Pattern:tr,Color:3},{Pattern:br,Color:3},{Pattern:tl,Color:3},{Pattern:cbo,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:bl,Color:3},{Pattern:tr,Color:3},{Pattern:br,Color:3},{Pattern:tl,Color:3},{Pattern:cbo,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:bl,Color:11},{Pattern:tr,Color:11},{Pattern:br,Color:11},{Pattern:tl,Color:11},{Pattern:cbo,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:bl,Color:14},{Pattern:tr,Color:14},{Pattern:br,Color:14},{Pattern:tl,Color:14},{Pattern:cbo,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:bl,Color:14},{Pattern:tr,Color:14},{Pattern:br,Color:14},{Pattern:tl,Color:14},{Pattern:cbo,Color:11}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu2,Color:4}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu2,Color:8}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu2,Color:0}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu2,Color:4}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu2,Color:8}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu2,Color:0}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu2,Color:4}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu2,Color:8}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:iu2,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:iu2,Color:8}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu2,Color:0}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu2,Color:4}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu2,Color:0}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu2,Color:4}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu2,Color:8}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu2,Color:0}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu2,Color:4}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu2,Color:8}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu4,Color:2}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu4,Color:3}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu4,Color:1}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu4,Color:8}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu4,Color:14}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:iu4,Color:15}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu4,Color:0}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu4,Color:3}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu4,Color:1}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu4,Color:8}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu4,Color:14}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:iu4,Color:15}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu4,Color:0}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu4,Color:2}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu4,Color:1}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu4,Color:8}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu4,Color:14}]}}",
+    "{BlockEntityTag:{Base:3,Patterns:[{Pattern:iu4,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:iu4,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:iu4,Color:2}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:iu4,Color:3}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:iu4,Color:8}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:iu4,Color:14}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:iu4,Color:15}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu4,Color:0}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu4,Color:2}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu4,Color:3}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu4,Color:1}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu4,Color:14}]}}",
+    "{BlockEntityTag:{Base:8,Patterns:[{Pattern:iu4,Color:15}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu4,Color:0}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu4,Color:2}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu4,Color:3}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu4,Color:1}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu4,Color:8}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:iu4,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu4,Color:0}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu4,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu4,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu4,Color:1}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu4,Color:8}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:iu4,Color:14}]}}"
+  ],
+  "never": [
+    "hunter",
+    "shamanistic",
+    "tannery",
+    "offering1",
+    "offering2"
+  ]
+}

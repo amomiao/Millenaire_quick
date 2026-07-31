@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Chanan",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_leader0.png",
+    "millenaire:textures/entity/mayan/mayan_leader1.png"
+  ],
+  "base_scale": 1.1,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:patrol",
+    "millenaire:bring_back_home",
+    "millenaire:inspect_construction"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:iron_sword",
+    "minecraft:iron_helmet",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_leggings",
+    "minecraft:iron_boots"
+  ],
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "millenaire:mayan_mace",
+  "max_health": 25,
+  "tool_needed_classes": [
+    "toolssword",
+    "armour"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "millenaire:mayan_mace"
+}

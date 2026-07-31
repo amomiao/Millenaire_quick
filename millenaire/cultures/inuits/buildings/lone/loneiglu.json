@@ -1,0 +1,123 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "loneiglu",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Iglu",
+  "shop": "lonefisherman",
+  "max_count": 0,
+  "male": [
+    "inuit_lonefisherman"
+  ],
+  "icon": "millenaire:snow_brick",
+  "starting_goods": [
+    {
+      "item": "millenaire:ulu",
+      "probability": 1.0,
+      "fixed": 5,
+      "random": 10
+    },
+    {
+      "item": "minecraft:coarse_dirt",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:sod_spruce",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furplate",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:sod_birch",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:inuittrident",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:inuitbearstew",
+      "probability": 2.0,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:bearmeat_cooked",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:inuit_carving",
+      "probability": 1.3,
+      "fixed": 5,
+      "random": 10
+    },
+    {
+      "item": "minecraft:bone_block",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:cauldron",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:fire_pit",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:inuitmeatystew",
+      "probability": 2.0,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "minecraft:cooked_cod",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "minecraft:cod",
+      "probability": 1.3,
+      "fixed": 5,
+      "random": 10
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 6,
+            "depth": 9
+          },
+          "priority": 13
+        }
+      ]
+    }
+  ]
+}

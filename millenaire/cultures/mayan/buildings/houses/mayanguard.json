@@ -1,0 +1,60 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanguard",
+  "category": "houses",
+  "native_name": "Chanan Nah",
+  "min_distance": 0.5,
+  "male": [
+    "warrior"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_mace",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 90
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 7,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 85
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 7,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 80,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

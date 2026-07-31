@@ -1,0 +1,54 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Pan",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_lumberman0.png",
+    "millenaire:textures/entity/mayan/mayan_lumberman1.png",
+    "millenaire:textures/entity/mayan/mayan_lumberman2.png",
+    "millenaire:textures/entity/mayan/mayan_lumberman3.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:mine_stone",
+    "millenaire:mine_sand",
+    "millenaire:cook_stone",
+    "millenaire:cook_sand",
+    "millenaire:bring_back_home"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:cobblestone",
+    "minecraft:sandstone",
+    "minecraft:stone",
+    "minecraft:sand"
+  ],
+  "required_goods": {
+    "minecraft:oak_log": 64,
+    "minecraft:spruce_log": 64,
+    "minecraft:birch_log": 64,
+    "minecraft:jungle_log": 64,
+    "minecraft:acacia_log": 64,
+    "minecraft:dark_oak_log": 64
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:mayan_pickaxe",
+  "tool_needed_classes": [
+    "toolssword",
+    "pickaxes",
+    "shovels"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_pickaxe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:mayan_pickaxe",
+  "travelbook_held_item_off_hand": "minecraft:cobblestone"
+}

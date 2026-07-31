@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesezen",
+  "category": "houses",
+  "native_name": "Ike",
+  "tags": [
+    "nopaths",
+    "leisure"
+  ],
+  "icon": "minecraft:cod",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -3,
+      "tags": [
+        "nopaths",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 11,
+            "depth": 15
+          },
+          "priority": 400,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Afuniaqti",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_hunter1.png",
+    "millenaire:textures/entity/inuit/inuit_hunter2.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png"
+  ],
+  "base_scale": 1.15,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:fishinuit",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:inuittrident": 1,
+    "millenaire:furhelmet": 1,
+    "millenaire:furplate": 1,
+    "millenaire:furlegs": 1,
+    "millenaire:furboots": 9,
+    "minecraft:leather_boots": 4,
+    "minecraft:fishing_rod": 1,
+    "minecraft:cod": 64,
+    "minecraft:cooked_cod": 32,
+    "millenaire:seafood_raw": 32,
+    "millenaire:seafood_cooked": 16,
+    "minecraft:leather": 8,
+    "minecraft:bone": 12,
+    "minecraft:bone_block": 16,
+    "millenaire:inuitmeatystew": 8,
+    "millenaire:inuit_carving": 2
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:fishing_rod",
+  "max_health": 30,
+  "tool_needed_classes": [
+    "armour",
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:bone",
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:fishing_rod",
+  "travelbook_held_item_off_hand": "minecraft:cod"
+}

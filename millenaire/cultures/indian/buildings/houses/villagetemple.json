@@ -1,0 +1,99 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "villagetemple",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Gaanv Ka Mandir",
+  "tags": [
+    "praying",
+    "pujas"
+  ],
+  "icon": "millenaire:wall_indian_statue",
+  "area_to_clear": 5,
+  "random_brick_colours": {
+    "white": [
+      {
+        "color": "white",
+        "weight": 50
+      }
+    ]
+  },
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "praying",
+        "pujas"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 29
+          },
+          "priority": 500,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 29
+          },
+          "priority": 50,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 29
+          },
+          "priority": 45,
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 29
+          },
+          "priority": 45
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 29
+          },
+          "priority": 45,
+          "rebuild_path": true
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 29
+          }
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 14,
+            "height": 21,
+            "depth": 29
+          }
+        }
+      ],
+      "building_orientation": 0
+    }
+  ]
+}

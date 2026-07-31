@@ -1,0 +1,86 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "lonemonastery",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Monastíri",
+  "shop": "lonemonastery",
+  "starting_sub_buildings": [
+    "lonemonastery_side",
+    "lonemonastery_apse",
+    "lonemonastery_dorms",
+    "lonemonastery_dome",
+    "lonemonastery_field"
+  ],
+  "icon": "millenaire:wall_byzantine_icon_medium",
+  "starting_goods": [
+    {
+      "item": "minecraft:book",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 32
+    },
+    {
+      "item": "millenaire:byzantine_fresco",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 15
+    },
+    {
+      "item": "millenaire:wall_byzantine_icon_small",
+      "probability": 1.0,
+      "fixed": 12,
+      "random": 8
+    },
+    {
+      "item": "millenaire:wall_byzantine_icon_medium",
+      "probability": 1.0,
+      "fixed": 6,
+      "random": 6
+    },
+    {
+      "item": "millenaire:wall_byzantine_icon_large",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "minecraft:book",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 12
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 26,
+            "height": 9,
+            "depth": 26
+          }
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 26,
+            "height": 12,
+            "depth": 26
+          }
+        }
+      ]
+    }
+  ]
+}

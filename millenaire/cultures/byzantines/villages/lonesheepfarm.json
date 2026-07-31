@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:byzantines",
+  "biome_tags": [
+    "#c:is_plains",
+    "#c:is_savanna"
+  ],
+  "name": "Monachikó próvato",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 10,
+  "layout": [
+    {
+      "plan": "millenaire:byzantines/sheepranch",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

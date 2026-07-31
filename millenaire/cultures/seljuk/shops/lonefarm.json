@@ -1,0 +1,20 @@
+{
+  "sells": [
+    "hay",
+    "wheat",
+    "yogurt",
+    "beef_cooked",
+    "beef_raw",
+    "leather",
+    "wool_white",
+    "mutton_raw",
+    "bone"
+  ],
+  "buys": [
+    "wheat",
+    "ayran",
+    "clothes_seljuk_cotton"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

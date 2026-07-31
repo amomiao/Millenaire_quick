@@ -1,0 +1,92 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Uiga",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_male.png",
+    "millenaire:textures/entity/inuit/inuit_male2.png",
+    "millenaire:textures/entity/inuit/inuit_male4.png",
+    "millenaire:textures/entity/inuit/inuit_male5.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png",
+    "millenaire:textures/entity/inuit/inuit_male8.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:drink",
+    "millenaire:bring_back_home",
+    "millenaire:get_goods_for_household",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:patrol",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path",
+    "millenaire:craft_shoveldirt",
+    "millenaire:craft_bread",
+    "millenaire:cook_potato",
+    "millenaire:plant_wheat_home",
+    "millenaire:harvest_wheat_home",
+    "millenaire:plant_wheat",
+    "millenaire:harvest_wheat",
+    "millenaire:plant_potato_home",
+    "millenaire:harvest_potato_home",
+    "millenaire:plant_potato",
+    "millenaire:harvest_potato",
+    "millenaire:craft_leather",
+    "millenaire:craft_firepit",
+    "millenaire:mine_ice",
+    "millenaire:mine_snow",
+    "millenaire:mine_snow_paths"
+  ],
+  "tags": [
+    "seller",
+    "archer",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:wheat_seeds": 8,
+    "minecraft:potato": 16
+  },
+  "bring_back_home_goods": [
+    "millenaire:ice_brick",
+    "millenaire:snow_brick",
+    "millenaire:path_snow",
+    "minecraft:wheat",
+    "minecraft:potato",
+    "minecraft:rotten_flesh",
+    "minecraft:bone"
+  ],
+  "collect_goods": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:potato",
+    "minecraft:rotten_flesh",
+    "minecraft:bone"
+  ],
+  "required_goods": {
+    "minecraft:wheat": 9,
+    "minecraft:potato": 16,
+    "minecraft:spruce_log": 16,
+    "minecraft:birch_log": 16
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:ulu",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons",
+    "shovels"
+  ],
+  "base_attack_strength": 7,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "millenaire:ulu",
+  "travelbook_held_item_off_hand": "millenaire:snow_brick"
+}

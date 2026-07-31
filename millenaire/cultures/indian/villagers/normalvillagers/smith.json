@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Loohaar",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_smith0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_steelpickaxe",
+    "millenaire:craft_steelaxe",
+    "millenaire:craft_steelshovel",
+    "millenaire:craft_steelhoe"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:iron_ingot": 10
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:iron_ingot",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:iron_ingot"
+}

@@ -1,0 +1,14 @@
+{
+  "sells": [
+    "cobblestone",
+    "stone",
+    "sandstone",
+    "clay"
+  ],
+  "buys": [
+    "wood",
+    "iron_pickaxe"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

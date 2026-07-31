@@ -1,0 +1,42 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 400,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "millenaire:japaneseguardboots": 2
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "requiredTag": "armoury",
+    "inputs": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 1
+      },
+      {
+        "item": "minecraft:leather",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "millenaire:japaneseguardboots",
+        "count": 1
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:iron_ingot",
+    "millenaire:japaneseguardboots"
+  ],
+  "sentenceKey": "makejapaneseweapons",
+  "labelKey": "makejapaneseweapons",
+  "sound": "metal",
+  "tag": "tag_smithing"
+}

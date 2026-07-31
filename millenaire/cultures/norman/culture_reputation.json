@@ -1,0 +1,12 @@
+{
+  "labels": [
+    { "threshold": -640, "key": "reputation.millenaire.culture.scourge_of_god" },
+    { "threshold": -128, "key": "reputation.millenaire.culture.dreadful" },
+    { "threshold": -1, "key": "reputation.millenaire.culture.bad" },
+    { "threshold": 0, "key": "reputation.millenaire.culture.neutral" },
+    { "threshold": 256, "key": "reputation.millenaire.culture.decent" },
+    { "threshold": 512, "key": "reputation.millenaire.culture.good" },
+    { "threshold": 1024, "key": "reputation.millenaire.culture.excellent" },
+    { "threshold": 2048, "key": "reputation.millenaire.culture.stellar" }
+  ]
+}

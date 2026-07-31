@@ -1,0 +1,92 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "mason",
+  "category": "houses",
+  "native_name": "Oikía Technítou",
+  "shop": "mason",
+  "max_count": 2,
+  "male": [
+    "mason_byzantine"
+  ],
+  "female": [
+    "artisanwife_byzantine"
+  ],
+  "tags": [
+    "tiles",
+    "quartz"
+  ],
+  "icon": "millenaire:byzantine_tiles_slab",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 150,
+          "priority_move_in": 20,
+          "tags": [
+            "tiles"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 200,
+          "path_level": 1,
+          "tags": [
+            "tiles"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 200,
+          "tags": [
+            "tiles"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 150,
+          "tags": [
+            "tiles",
+            "quartz"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 15,
+            "height": 7,
+            "depth": 15
+          },
+          "tags": [
+            "tiles",
+            "quartz"
+          ]
+        }
+      ]
+    }
+  ]
+}

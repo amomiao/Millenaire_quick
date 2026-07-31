@@ -1,0 +1,44 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Marchand",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_nobleman_0.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_1.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_2.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_3.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_4.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_5.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_6.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_7.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_8.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_9.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_merchant_0.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:visit_inn",
+    "millenaire:visit_building"
+  ],
+  "tags": [
+    "visitor",
+    "localmerchant"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "millenaire:purse",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:purse"
+}

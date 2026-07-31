@@ -1,0 +1,25 @@
+{
+  "culture": "millenaire:indian",
+  "biome_tags": [
+    "#c:is_swamp"
+  ],
+  "name": "Adivasi ka Ghar",
+  "weight": 12,
+  "lone_building": true,
+  "radius": 30,
+  "layout": [
+    {
+      "plan": "millenaire:indian/adivasifarm",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:indian/paddy",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/spicegarden",
+      "role": "start"
+    }
+  ],
+  "allow_extra_buildings": false
+}

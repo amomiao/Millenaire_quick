@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanplayerlargefield",
+  "category": "player",
+  "native_name": "Chumuk Kuuch",
+  "max_count": 0,
+  "icon": "minecraft:jungle_fence",
+  "price": 640,
+  "reputation": 8192,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 12
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

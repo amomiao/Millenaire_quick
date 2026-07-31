@@ -1,0 +1,73 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "squidfarm",
+  "category": "houses",
+  "native_name": "Ika Sakuba",
+  "min_distance": 0.6,
+  "tags": [
+    "squids"
+  ],
+  "icon": "minecraft:black_dye",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "tags": [
+        "squids"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 13,
+            "depth": 21
+          },
+          "priority": 1000,
+          "infoAnimalSpawns": [
+            {
+              "entity": "squid"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 17,
+            "height": 13,
+            "depth": 21
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 17,
+            "height": 13,
+            "depth": 21
+          },
+          "priority": 90,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 17,
+            "height": 13,
+            "depth": 21
+          },
+          "priority": 85
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 17,
+            "height": 13,
+            "depth": 21
+          },
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

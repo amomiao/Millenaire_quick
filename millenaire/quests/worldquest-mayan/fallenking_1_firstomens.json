@@ -1,0 +1,116 @@
+{
+  "key": "fallenking_1_firstomens",
+  "chancePerHour": 1.0,
+  "maxSimultaneous": 1,
+  "minReputation": 8192,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [
+    "fallenking_1_firstomens"
+  ],
+  "villagerDefs": [
+    {
+      "key": "localshaman",
+      "villagerTypes": [
+        "mayan/mayan_shaman"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": []
+    },
+    {
+      "key": "localleader",
+      "villagerTypes": [
+        "mayan/mayan_chieftain",
+        "mayan/mayan_king",
+        "mayan/mayan_leader"
+      ],
+      "relatedTo": "localshaman",
+      "relation": "samevillage",
+      "requiredTags": [],
+      "forbiddenTags": []
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "localshaman",
+      "duration": 1048,
+      "showRequiredGoods": true,
+      "requiredGoods": {},
+      "rewardGoods": {},
+      "rewardMoney": 0,
+      "rewardReputation": 0,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    },
+    {
+      "index": 1,
+      "villagerKey": "localshaman",
+      "duration": 1048,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "minecraft:rotten_flesh": 8,
+        "minecraft:bone": 8,
+        "minecraft:spider_eye": 2
+      },
+      "rewardGoods": {},
+      "rewardMoney": 960,
+      "rewardReputation": 128,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "localshaman",
+          "tag": "fallenking_villageshaman"
+        },
+        {
+          "villagerKey": "localleader",
+          "tag": "fallenking_villageleader"
+        }
+      ],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [
+        "fallenking_1_firstomens"
+      ],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [
+        {
+          "key": "fallenkingqueststatus",
+          "value": "1"
+        }
+      ],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

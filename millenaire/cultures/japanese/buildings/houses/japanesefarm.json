@@ -1,0 +1,74 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesefarm",
+  "category": "houses",
+  "native_name": "Noujou Nojo",
+  "max_count": 2,
+  "min_distance": 0.5,
+  "male": [
+    "farmer"
+  ],
+  "female": [
+    "farmwife"
+  ],
+  "icon": "minecraft:wheat",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 1000,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 14
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 90,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 85
+        }
+      ]
+    }
+  ]
+}

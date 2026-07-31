@@ -1,0 +1,113 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "flower",
+  "category": "special",
+  "native_name": "inuuniun nautchiak",
+  "tags": [
+    "nopaths",
+    "leisure"
+  ],
+  "icon": "minecraft:dirt",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "nopaths",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 3,
+            "height": 2,
+            "depth": 2
+          },
+          "priority": 200
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "nopaths",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 2,
+            "height": 2,
+            "depth": 2
+          },
+          "priority": 200
+        }
+      ]
+    },
+    {
+      "variant": "c",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "nopaths",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 2,
+            "depth": 4
+          },
+          "priority": 200
+        }
+      ]
+    },
+    {
+      "variant": "d",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "nopaths",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 2,
+            "height": 2,
+            "depth": 5
+          },
+          "priority": 200
+        }
+      ]
+    },
+    {
+      "variant": "e",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "tags": [
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 1,
+            "height": 3,
+            "depth": 1
+          },
+          "priority": 200
+        }
+      ]
+    }
+  ]
+}

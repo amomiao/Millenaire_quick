@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Kaji",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_armysmith0.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_tachi",
+    "millenaire:craft_yumi",
+    "millenaire:craft_jg_plate",
+    "millenaire:craft_jg_legs",
+    "millenaire:craft_jg_boots",
+    "millenaire:craft_jg_helmet",
+    "millenaire:craft_jb_plate",
+    "millenaire:craft_jb_legs",
+    "millenaire:craft_jb_boots",
+    "millenaire:craft_jb_helmet",
+    "millenaire:craft_jr_plate",
+    "millenaire:craft_jr_legs",
+    "millenaire:craft_jr_boots",
+    "millenaire:craft_jr_helmet"
+  ],
+  "tags": [
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:white_wool": 10,
+    "minecraft:iron_ingot": 10,
+    "minecraft:leather": 10
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:japaneseguardplate",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "millenaire:japanese_tachi",
+  "travelbook_main_culture_villager": true
+}

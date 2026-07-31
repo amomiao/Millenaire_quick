@@ -1,0 +1,49 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "presbytery",
+  "category": "houses",
+  "native_name": "Presbytère",
+  "max_distance": 0.8,
+  "male": [
+    "priest"
+  ],
+  "icon": "minecraft:book",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 500,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 50
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 45,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

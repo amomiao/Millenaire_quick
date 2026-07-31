@@ -1,0 +1,19 @@
+{
+  "culture": "millenaire:indian",
+  "biome_tags": [
+    "#c:is_desert"
+  ],
+  "name": "Saray",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 10,
+  "min_distance_from_spawn": 1000,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:indian/deserttradeoutpost",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

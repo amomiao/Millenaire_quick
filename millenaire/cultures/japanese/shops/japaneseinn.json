@@ -1,0 +1,18 @@
+{
+  "sells": [
+    "rice",
+    "bread",
+    "udon",
+    "ikayaki",
+    "sake"
+  ],
+  "buys": [
+    "rice",
+    "wheat",
+    "chicken_raw"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "millenaire:udon"
+  ]
+}

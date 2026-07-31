@@ -1,0 +1,66 @@
+{
+  "key": "ornamentedstonecrafter",
+  "chancePerHour": 0.1,
+  "maxSimultaneous": 2,
+  "minReputation": 300,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "seljuk/turk_stonecrafter"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": [
+        "ornamentedstonecrafter_done"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 48,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "millenaire:mud_brick_seljuk_ornamented": 8
+      },
+      "rewardGoods": {},
+      "rewardMoney": 1152,
+      "rewardReputation": 2048,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "ornamentedstonecrafter_done"
+        }
+      ],
+      "villagerTagsFailure": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "ornamentedstonecrafter_done"
+        }
+      ],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "converter_skip": true,
+  "culture": "millenaire:norman",
+  "building_id": "loneroadhouse",
+  "category": "lone",
+  "native_name": "Relais",
+  "shop": "loneinn",
+  "male": [
+    "innkeepermale"
+  ],
+  "female": [
+    "innkeeperfemale"
+  ],
+  "tags": [
+    "market",
+    "drinking",
+    "alembic"
+  ],
+  "icon": "millenaire:cider",
+  "starting_goods": [
+    {
+      "item": "millenaire:cider",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "millenaire:calva",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "millenaire:tripes",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "millenaire:boudin",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 4
+    },
+    {
+      "item": "minecraft:bread",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "market",
+        "drinking",
+        "alembic"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 9,
+            "depth": 7
+          }
+        }
+      ],
+      "building_orientation": 3
+    }
+  ]
+}

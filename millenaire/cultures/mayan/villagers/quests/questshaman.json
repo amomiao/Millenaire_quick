@@ -1,0 +1,21 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Aj K'in",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_shaman0.png",
+    "millenaire:textures/entity/mayan/mayan_shaman1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [
+    "religious"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "questshaman_name",
+  "family_name_list": "questshaman_family_name",
+  "icon": "minecraft:red_mushroom"
+}

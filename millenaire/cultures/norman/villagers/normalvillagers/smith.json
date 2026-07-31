@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Forgeron",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_peasant_0.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_1.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_2.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_3.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_4.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_5.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_6.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_7.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_8.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_9.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_smith_0.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:craft_normanaxe",
+    "millenaire:craft_normanpickaxe",
+    "millenaire:craft_normanhoe",
+    "millenaire:craft_normanshovel",
+    "millenaire:craft_normanhelmet",
+    "millenaire:craft_normanplate",
+    "millenaire:craft_normanlegs",
+    "millenaire:craft_normanboots",
+    "millenaire:craft_normansword",
+    "millenaire:craft_bow",
+    "millenaire:craft_cauldron"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:iron_ingot": 10,
+    "minecraft:white_wool": 2
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "minecraft:iron_ingot",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:iron_ingot"
+}

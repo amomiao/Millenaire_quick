@@ -1,0 +1,55 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayantemple",
+  "category": "houses",
+  "native_name": "K'u-nah",
+  "tags": [
+    "praying",
+    "leisure"
+  ],
+  "icon": "millenaire:mayan_statue",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "praying",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 24,
+            "height": 10,
+            "depth": 13
+          },
+          "priority": 500,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 24,
+            "height": 10,
+            "depth": 13
+          },
+          "priority": 50
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 24,
+            "height": 10,
+            "depth": 13
+          },
+          "priority": 45
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "sells": [],
+  "buys": [
+    "stone",
+    "sandstone"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

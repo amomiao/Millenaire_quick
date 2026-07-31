@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbaye_a_organ",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "abbaye",
+    "variant": "a",
+    "level": 5
+  },
+  "native_name": "Orgue",
+  "max_count": 0,
+  "tags": [
+    "pilgrimsite",
+    "organ"
+  ],
+  "icon": "minecraft:note_block",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "pilgrimsite",
+        "organ"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 48,
+            "height": 53,
+            "depth": 112
+          },
+          "priority": 50,
+          "parent_tags": [
+            "205"
+          ],
+          "required_parent_tags": [
+            "level_6"
+          ]
+        }
+      ]
+    }
+  ]
+}

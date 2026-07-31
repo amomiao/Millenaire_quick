@@ -1,0 +1,83 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Yanlız Madenci",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_old_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_0.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_1.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_2.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_3.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_4.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_5.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_6.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_7.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_ayran",
+    "millenaire:mine_stone",
+    "millenaire:craft_mineiron",
+    "millenaire:dry_brick",
+    "millenaire:gather_brick",
+    "millenaire:craft_sandstone_seljuk",
+    "millenaire:craft_mudbrick_sandstone",
+    "millenaire:cook_stone",
+    "millenaire:build",
+    "millenaire:bring_back_home"
+  ],
+  "tags": [
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "millenaire:mud_brick",
+    "minecraft:cobblestone",
+    "minecraft:sandstone",
+    "minecraft:stone",
+    "minecraft:sand"
+  ],
+  "required_goods": {
+    "minecraft:oak_log": 64,
+    "minecraft:spruce_log": 64,
+    "minecraft:birch_log": 64,
+    "minecraft:jungle_log": 64,
+    "minecraft:acacia_log": 64,
+    "minecraft:dark_oak_log": 64
+  },
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "minecraft:iron_pickaxe",
+  "tool_needed_classes": [
+    "pickaxes",
+    "shovels",
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_pickaxe",
+  "travelbook_held_item": "minecraft:iron_pickaxe"
+}

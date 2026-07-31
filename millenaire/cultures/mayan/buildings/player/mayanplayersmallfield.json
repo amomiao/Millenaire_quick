@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanplayersmallfield",
+  "category": "player",
+  "native_name": "Mehen Kuuch",
+  "max_count": 0,
+  "icon": "minecraft:jungle_fence",
+  "price": 128,
+  "reputation": 4096,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 4,
+            "depth": 8
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

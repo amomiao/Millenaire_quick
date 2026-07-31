@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "K'as Kanan",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayanbanditwarrior0.png",
+    "millenaire:textures/entity/mayan/mayanbanditwarrior1.png",
+    "millenaire:textures/entity/mayan/mayanbanditwarrior2.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink_cacauhaa",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "hostile",
+    "raider",
+    "noteleport",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:mayan_mace",
+  "max_health": 30,
+  "tool_needed_classes": [
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 8,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 10,
+  "travelbook_held_item": "millenaire:mayan_mace"
+}

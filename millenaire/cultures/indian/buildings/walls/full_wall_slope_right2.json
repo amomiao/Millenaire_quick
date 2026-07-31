@@ -1,0 +1,71 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "full_wall_slope_right2",
+  "category": "walls",
+  "is_wall_segment": true,
+  "native_name": "Gaanv ki Divaar",
+  "max_count": 0,
+  "tags": [
+    "wall_level_0",
+    "nopaths",
+    "wall_level_1",
+    "no_upgrade_till_wall_initialized"
+  ],
+  "icon": "minecraft:sandstone",
+  "area_to_clear_length_before": 0,
+  "area_to_clear_length_after": 0,
+  "area_to_clear_width_before": 3,
+  "area_to_clear_width_after": 0,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -5,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 6,
+            "height": 10,
+            "depth": 3
+          },
+          "priority": 500,
+          "tags": [
+            "wall_level_0",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 6,
+            "height": 11,
+            "depth": 3
+          },
+          "priority": 500,
+          "clear_tags": [
+            "wall_level_0"
+          ],
+          "tags": [
+            "nopaths",
+            "wall_level_1",
+            "no_upgrade_till_wall_initialized"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 6,
+            "height": 13,
+            "depth": 3
+          },
+          "tags": [
+            "nopaths",
+            "wall_level_1",
+            "no_upgrade_till_wall_initialized"
+          ]
+        }
+      ]
+    }
+  ]
+}

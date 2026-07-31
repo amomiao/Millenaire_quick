@@ -1,0 +1,54 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "watchtower",
+  "category": "extra",
+  "native_name": "Tour de guet",
+  "max_count": 0,
+  "min_distance": 0.5,
+  "tags": [
+    "patrol"
+  ],
+  "icon": "torch",
+  "far_from_tags": [
+    "patrol,20"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 9
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 14,
+            "depth": 9
+          },
+          "priority": 90
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 14,
+            "depth": 9
+          },
+          "priority": 85
+        }
+      ]
+    }
+  ]
+}

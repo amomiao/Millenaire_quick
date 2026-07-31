@@ -1,0 +1,21 @@
+{
+  "handler": "flower_planting",
+  "priority": 50,
+  "priorityRandom": 10,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 8,
+  "actionCooldown": 40,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "sentenceKey": "plantflowers",
+  "labelKey": "plantflowers",
+  "handlerParams": {
+    "flowers": [
+      "minecraft:dandelion",
+      "minecraft:sunflower"
+    ],
+    "seedItem": "minecraft:bone_meal"
+  },
+  "heldItems": ["minecraft:bone_meal"]
+}

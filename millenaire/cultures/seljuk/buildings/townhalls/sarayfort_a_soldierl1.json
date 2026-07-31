@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "sarayfort_a_soldierl1",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "sarayfort",
+    "variant": "a",
+    "level": 4
+  },
+  "is_town_hall": false,
+  "native_name": "Saray Asker Odasi",
+  "max_count": 0,
+  "male": [
+    "turk_soldier"
+  ],
+  "icon": "millenaire:seljuk_scimitar",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 39,
+            "height": 5,
+            "depth": 39
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

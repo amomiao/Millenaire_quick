@@ -1,0 +1,33 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Architecte",
+  "textures": [
+    "millenaire:textures/entity/norman/special/nor_architect.png"
+  ],
+  "base_scale": 1.1,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:inspect_construction"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "architect_first",
+  "family_name_list": "architect_last",
+  "icon": "minecraft:paper",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 5,
+  "travelbook_held_item": "filled_map"
+}

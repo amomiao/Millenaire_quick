@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "fort_a_temple",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "fort",
+    "variant": "a",
+    "level": 7
+  },
+  "is_town_hall": false,
+  "native_name": "Qila ka Mandir",
+  "max_count": 0,
+  "tags": [
+    "praying",
+    "pujas"
+  ],
+  "icon": "millenaire:wall_indian_statue",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -4,
+      "tags": [
+        "praying",
+        "pujas"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 30,
+            "height": 24,
+            "depth": 40
+          },
+          "priority": 600
+        }
+      ]
+    }
+  ]
+}

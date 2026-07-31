@@ -1,0 +1,118 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbaye_a_portal",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "abbaye",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Portail",
+  "max_count": 0,
+  "tags": [
+    "scaffoldings",
+    "pilgrimsite"
+  ],
+  "icon": "minecraft:spruce_door",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 48,
+            "height": 29,
+            "depth": 112
+          },
+          "priority": 650,
+          "tags": [
+            "scaffoldings"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 48,
+            "height": 12,
+            "depth": 112
+          },
+          "priority": 600,
+          "tags": [
+            "scaffoldings"
+          ],
+          "parent_tags": [
+            "10"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 48,
+            "height": 26,
+            "depth": 112
+          },
+          "priority": 500,
+          "tags": [
+            "scaffoldings"
+          ],
+          "parent_tags": [
+            "10",
+            "30"
+          ],
+          "required_parent_tags": [
+            "level_2"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 48,
+            "height": 29,
+            "depth": 112
+          },
+          "priority": 400,
+          "tags": [
+            "scaffoldings"
+          ],
+          "parent_tags": [
+            "10",
+            "30",
+            "50"
+          ],
+          "required_parent_tags": [
+            "level_2",
+            "level_3"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 48,
+            "height": 25,
+            "depth": 112
+          },
+          "priority": 250,
+          "tags": [
+            "scaffoldings",
+            "pilgrimsite"
+          ],
+          "parent_tags": [
+            "10",
+            "30",
+            "50",
+            "110"
+          ],
+          "required_parent_tags": [
+            "level_2",
+            "level_3",
+            "level_5"
+          ]
+        }
+      ]
+    }
+  ]
+}

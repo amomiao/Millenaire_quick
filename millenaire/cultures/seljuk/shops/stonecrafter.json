@@ -1,0 +1,16 @@
+{
+  "sells": [
+    "mud_brick",
+    "mudbrick_smooth",
+    "mudbrick_seljuk_ornamented",
+    "mudbrick_seljuk_decorated",
+    "brick_mould"
+  ],
+  "buys": [
+    "sand",
+    "sandstone",
+    "mud_brick"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

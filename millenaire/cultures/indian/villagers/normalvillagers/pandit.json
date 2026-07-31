@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Pandit",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_priest0.png",
+    "millenaire:textures/entity/indian/ml_priest1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:meditate",
+    "millenaire:perform_pujas",
+    "millenaire:be_puja_performer"
+  ],
+  "tags": [
+    "religious",
+    "meditates"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "millenaire:wall_indian_statue",
+  "experience_given": 2,
+  "travelbook_held_item": "minecraft:poppy"
+}

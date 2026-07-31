@@ -1,0 +1,70 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "cottonfield",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Kapaas Ka Khet",
+  "min_distance": 0.6,
+  "tags": [
+    "cottonfield",
+    "flowerfield"
+  ],
+  "icon": "millenaire:cotton",
+  "area_to_clear": 4,
+  "random_brick_colours": {
+    "white": [
+      {
+        "color": "white",
+        "weight": 50
+      },
+      {
+        "color": "light_gray",
+        "weight": 30
+      }
+    ]
+  },
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "cottonfield",
+        "flowerfield"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 3,
+            "depth": 12
+          },
+          "village_tags": [
+            "cottonfield"
+          ],
+          "infoSoils": [
+            {
+              "crop": "cotton"
+            },
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 3,
+            "depth": 12
+          },
+          "priority": 60,
+          "village_tags": [
+            "cottonfield"
+          ]
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

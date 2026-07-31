@@ -1,0 +1,120 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "lumbermanhut",
+  "category": "houses",
+  "native_name": "Hutte de bûcheron",
+  "max_count": 2,
+  "male": [
+    "lumberman"
+  ],
+  "female": [
+    "wife"
+  ],
+  "icon": "millenaire:norman_axe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 1000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 8
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 90,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 85
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 7
+          },
+          "priority": 1000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 7
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 7
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 7
+          },
+          "priority": 90,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 7
+          },
+          "priority": 85
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 400,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "minecraft:leather_boots": 4
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:leather",
+        "count": 3
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:leather_boots",
+        "count": 1
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:leather",
+    "minecraft:leather_boots"
+  ],
+  "sentenceKey": "makesteelweapons"
+}

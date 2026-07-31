@@ -1,0 +1,27 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "gifthouse",
+  "category": "player",
+  "native_name": "Okurimono Hausu",
+  "max_count": 0,
+  "icon": "minecraft:cake",
+  "is_gift": true,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 10,
+            "depth": 11
+          },
+          "priority": 1000000
+        }
+      ]
+    }
+  ]
+}

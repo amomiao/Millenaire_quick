@@ -1,0 +1,60 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "bigwell",
+  "category": "houses",
+  "native_name": "Çeşme",
+  "tags": [
+    "pathnode",
+    "patrol",
+    "leisure"
+  ],
+  "icon": "minecraft:water_bucket",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "pathnode,40"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -7,
+      "tags": [
+        "pathnode",
+        "patrol",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 14,
+            "depth": 9
+          },
+          "irrigation": 10
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 14,
+            "depth": 9
+          },
+          "irrigation": 15,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 14,
+            "depth": 9
+          },
+          "priority": 95,
+          "irrigation": 20,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

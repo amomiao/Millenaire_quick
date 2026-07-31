@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "well",
+  "category": "houses",
+  "native_name": "Ido",
+  "icon": "minecraft:water_bucket",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -8,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 13,
+            "depth": 7
+          },
+          "priority": 1000,
+          "irrigation": 10
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 13,
+            "depth": 7
+          },
+          "irrigation": 15,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

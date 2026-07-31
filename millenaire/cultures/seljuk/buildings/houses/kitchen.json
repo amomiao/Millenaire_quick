@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "kitchen",
+  "category": "houses",
+  "native_name": "Mutfak",
+  "shop": "kitchen",
+  "male": [
+    "turk_cook"
+  ],
+  "female": [
+    "turk_cookwife"
+  ],
+  "tags": [
+    "kitchen",
+    "bakery",
+    "leisure",
+    "nopaths"
+  ],
+  "starting_sub_buildings": [
+    "kitchen_a_ayran"
+  ],
+  "icon": "millenaire:ayran",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "kitchen",
+        "bakery",
+        "leisure",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 9,
+            "depth": 16
+          },
+          "priority": 600,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 9,
+            "depth": 16
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 9,
+            "depth": 16
+          },
+          "priority": 95,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 9,
+            "depth": 16
+          },
+          "priority": 90
+        }
+      ]
+    }
+  ]
+}

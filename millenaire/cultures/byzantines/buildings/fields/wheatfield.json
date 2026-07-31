@@ -1,0 +1,48 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "wheatfield",
+  "category": "fields",
+  "native_name": "Choráfi",
+  "min_distance": 0.5,
+  "tags": [
+    "wheat"
+  ],
+  "icon": "minecraft:wheat",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "wheat"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 3,
+            "depth": 13
+          },
+          "path_level": 1,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 3,
+            "depth": 13
+          },
+          "priority": 200,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

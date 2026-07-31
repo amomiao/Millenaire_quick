@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "bandittower",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Tour Des Bandits",
+  "male": [
+    "armoredbandit",
+    "armoredbandit",
+    "bandit",
+    "bandit"
+  ],
+  "icon": "millenaire:norman_sword",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 30,
+      "random": 50
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.3,
+      "fixed": 8,
+      "random": 20
+    },
+    {
+      "item": "millenaire:norman_sword",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_leggings",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_helmet",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:cider",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:calva",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -10,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 20,
+            "depth": 9
+          },
+          "priority": 5
+        }
+      ]
+    }
+  ]
+}

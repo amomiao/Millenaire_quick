@@ -1,0 +1,18 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "pilgrimsite",
+  "requiredTag": null,
+  "basePriority": 10,
+  "priorityRandom": 30,
+  "durationTicks": 600,
+  "reoccurDelayTicks": -1,
+  "allowRandomMoves": true,
+  "leisure": true,
+  "targetPosType": null,
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "heldItems": null,
+  "heldItemsDestination": null,
+  "goalKey": "pilgrimage"
+}

@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "weaver",
+  "category": "houses",
+  "native_name": "Yün Ustalığı",
+  "shop": "weaver",
+  "male": [
+    "turk_weaver"
+  ],
+  "female": [
+    "turk_weaverwife"
+  ],
+  "tags": [
+    "woolcrafter"
+  ],
+  "icon": "millenaire:wall_carpet_small",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "woolcrafter"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 120,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 11
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 11
+          },
+          "priority": 90,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

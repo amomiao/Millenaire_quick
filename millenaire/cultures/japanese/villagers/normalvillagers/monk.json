@@ -1,0 +1,27 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Souryo",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_monk0.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [
+    "religious",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:paper",
+  "tool_needed_classes": [
+    "toolssword"
+  ]
+}

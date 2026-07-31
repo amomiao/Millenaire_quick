@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "market",
+  "category": "houses",
+  "native_name": "Tunisiruq Tupiq",
+  "tags": [
+    "market",
+    "leisure"
+  ],
+  "icon": "millenaire:purse",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "market",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 13
+          },
+          "priority": 200,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 8,
+            "depth": 13
+          },
+          "priority": 80,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 8,
+            "depth": 13
+          },
+          "priority": 50,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

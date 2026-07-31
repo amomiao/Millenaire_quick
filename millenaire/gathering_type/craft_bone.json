@@ -1,0 +1,34 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "minecraft:bone_block": 128
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:bone",
+        "count": 2
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:bone_block",
+        "count": 1
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:bone_block",
+    "minecraft:bone"
+  ],
+  "sound": "stone"
+}

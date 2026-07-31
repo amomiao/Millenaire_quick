@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Soldat félon",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_nobleman_0.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_1.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_2.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_3.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_4.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_5.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_6.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_7.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_8.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_9.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_armbandit_0.png",
+        "millenaire:textures/entity/norman/male/clothes/nor_armbandit_1.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink_cider",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "heavydrinker",
+    "hostile",
+    "archer",
+    "raider",
+    "noteleport",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64,
+    "minecraft:iron_helmet": 1,
+    "minecraft:iron_chestplate": 1,
+    "minecraft:iron_leggings": 1,
+    "minecraft:iron_boots": 1,
+    "minecraft:iron_sword": 1
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "minecraft:iron_sword",
+  "max_health": 60,
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "items_needed": [
+    "millenaire:norman_chestplate",
+    "millenaire:norman_helmet",
+    "millenaire:norman_leggings",
+    "millenaire:norman_boots"
+  ],
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 10,
+  "travelbook_held_item": "minecraft:iron_sword"
+}

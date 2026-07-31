@@ -1,0 +1,100 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "church_a_sanctuary",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "church",
+    "variant": "a",
+    "level": 0
+  },
+  "is_town_hall": false,
+  "native_name": "Ásylo",
+  "max_count": 0,
+  "tags": [
+    "praying"
+  ],
+  "icon": "millenaire:wall_byzantine_icon_medium",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -5,
+      "tags": [
+        "praying"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 50,
+            "height": 13,
+            "depth": 33
+          },
+          "priority": 90000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 400,
+          "parent_tags": [
+            "apse"
+          ],
+          "required_parent_tags": [
+            "stage1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 50,
+            "height": 22,
+            "depth": 33
+          },
+          "priority": 200,
+          "parent_tags": [
+            "apse"
+          ],
+          "required_parent_tags": [
+            "stage1",
+            "stage2"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 50,
+            "height": 22,
+            "depth": 33
+          },
+          "parent_tags": [
+            "apse"
+          ],
+          "required_parent_tags": [
+            "stage1",
+            "stage2"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 50,
+            "height": 25,
+            "depth": 33
+          },
+          "parent_tags": [
+            "apse"
+          ],
+          "required_parent_tags": [
+            "stage1",
+            "stage2"
+          ]
+        }
+      ]
+    }
+  ]
+}

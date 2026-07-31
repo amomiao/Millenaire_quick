@@ -1,0 +1,51 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Aqalugniaqtuq",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_male.png",
+    "millenaire:textures/entity/inuit/inuit_male2.png",
+    "millenaire:textures/entity/inuit/inuit_male4.png",
+    "millenaire:textures/entity/inuit/inuit_male5.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png",
+    "millenaire:textures/entity/inuit/inuit_male8.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink",
+    "millenaire:bring_back_home",
+    "millenaire:fishinuit"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:fishing_rod": 1
+  },
+  "bring_back_home_goods": [
+    "minecraft:cod",
+    "minecraft:bone_block",
+    "millenaire:seafood_raw"
+  ],
+  "collect_goods": [
+    "minecraft:cod",
+    "minecraft:bone_block"
+  ],
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:fishing_rod",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:fishing_rod",
+  "travelbook_held_item_off_hand": "minecraft:cod"
+}

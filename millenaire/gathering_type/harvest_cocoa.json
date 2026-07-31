@@ -1,0 +1,19 @@
+{
+    "handler": "cocoa_harvesting",
+    "priority": 100,
+    "priorityRandom": 10,
+    "scanRadius": 32,
+    "batchRadius": 8,
+    "maxActionsPerTask": 16,
+    "actionCooldown": 10,
+    "stuckTimeout": 4000,
+    "arrivalRange": 8,
+    "walkSpeed": 0.6,
+    "villageLimit": { "minecraft:cocoa_beans": 512 },
+    "maxSimultaneousTotal": 2,
+    "minimumHour": -1,
+    "maximumHour": 12500,
+    "handlerParams": {
+        "soilSubtype": "cacao"
+    }
+}

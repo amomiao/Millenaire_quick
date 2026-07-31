@@ -1,0 +1,15 @@
+{
+  "sells": [
+    "egg",
+    "feather",
+    "chicken_raw",
+    "chicken_cooked"
+  ],
+  "buys": [
+    "wheat",
+    "seeds",
+    "chicken_raw"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

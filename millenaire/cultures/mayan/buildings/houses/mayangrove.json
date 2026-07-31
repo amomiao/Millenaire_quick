@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayangrove",
+  "category": "houses",
+  "native_name": "K'aax",
+  "min_distance": 0.6,
+  "tags": [
+    "grove"
+  ],
+  "icon": "minecraft:jungle_sapling",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "grove"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 10
+          },
+          "priority": 1000,
+          "path_width": 1,
+          "infoTreeSpawns": [
+            {
+              "sapling": "jungle"
+            },
+            {
+              "sapling": "oak"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 10
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 10
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 10
+          },
+          "priority": 90,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

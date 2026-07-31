@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "largefort_a_barrack",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "largefort",
+    "variant": "a",
+    "level": 6
+  },
+  "is_town_hall": false,
+  "native_name": "Salle des gardes",
+  "max_count": 0,
+  "male": [
+    "guard",
+    "guard"
+  ],
+  "icon": "millenaire:norman_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 31,
+            "height": 20,
+            "depth": 35
+          },
+          "priority": 900,
+          "priority_move_in": 15
+        }
+      ]
+    }
+  ]
+}

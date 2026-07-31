@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Emporas",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.f.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.g.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.h.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.i.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/byz.merch.1.a.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/byz.merch.2.a.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:visit_inn",
+    "millenaire:visit_building"
+  ],
+  "tags": [
+    "visitor",
+    "localmerchant"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:purse",
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "experience_given": 3
+}

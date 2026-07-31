@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "toolsmith",
+  "category": "houses",
+  "native_name": "Demirci",
+  "shop": "toolsmith",
+  "male": [
+    "turk_toolsmith"
+  ],
+  "female": [
+    "turk_peasantwife"
+  ],
+  "tags": [
+    "forge",
+    "nopaths"
+  ],
+  "icon": "minecraft:iron_ingot",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "forge",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 5,
+            "depth": 18
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 18
+          },
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 18
+          }
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 18
+          }
+        }
+      ]
+    }
+  ]
+}

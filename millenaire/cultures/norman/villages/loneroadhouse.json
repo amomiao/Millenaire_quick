@@ -1,0 +1,22 @@
+{
+  "culture": "millenaire:norman",
+  "biome_tags": [
+    "#c:is_plains",
+    "#c:is_forest",
+    "#c:is_birch_forest"
+  ],
+  "name": "Relais",
+  "weight": 10,
+  "lone_building": true,
+  "namelist": "loneinns",
+  "radius": 15,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:norman/loneroadhouse",
+      "role": "centre"
+    }
+  ],
+  "icon": "millenaire:cider",
+  "allow_extra_buildings": false
+}

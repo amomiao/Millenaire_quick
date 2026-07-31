@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "largepeasanthouse_a_secondary",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "largepeasanthouse",
+    "variant": "a",
+    "level": 2
+  },
+  "native_name": "Dusra Ghar",
+  "max_count": 0,
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "minecraft:iron_shovel",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 35,
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

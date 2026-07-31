@@ -1,0 +1,26 @@
+{
+  "culture": "millenaire:inuits",
+  "name": "Unatannik tupiq",
+  "weight": 21,
+  "lone_building": true,
+  "radius": 10,
+  "min_distance_from_spawn": 600,
+  "biome_tags": [
+    "minecraft:taiga",
+    "#c:is_cold",
+    "minecraft:snowy_plains",
+    "minecraft:snowy_taiga",
+    "minecraft:frozen_river",
+    "minecraft:snowy_slopes",
+    "#c:is_forest",
+    "minecraft:dark_forest"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:inuits/banditshack",
+      "role": "centre"
+    }
+  ],
+  "carries_raid": true,
+  "allow_extra_buildings": false
+}

@@ -1,0 +1,60 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "armoury",
+  "category": "houses",
+  "native_name": "Sfuyaunnat Tupiq",
+  "shop": "armoury",
+  "tags": [
+    "armoury"
+  ],
+  "icon": "millenaire:furplate",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "armoury"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 5,
+            "depth": 8
+          },
+          "priority": 300
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 35,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 8
+          }
+        }
+      ]
+    }
+  ]
+}

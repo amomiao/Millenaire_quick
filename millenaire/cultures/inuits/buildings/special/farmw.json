@@ -1,0 +1,49 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "farmw",
+  "category": "special",
+  "native_name": "Puviaq",
+  "max_count": 2,
+  "tags": [
+    "wheat",
+    "farm"
+  ],
+  "icon": "minecraft:wheat",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "wheat",
+        "farm"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 3,
+            "depth": 6
+          },
+          "priority": 300,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 4,
+            "depth": 6
+          },
+          "priority": 40
+        }
+      ]
+    }
+  ]
+}

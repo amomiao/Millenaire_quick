@@ -1,0 +1,20 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "",
+  "requiredTag": null,
+  "basePriority": 10,
+  "priorityRandom": 30,
+  "durationTicks": 600,
+  "reoccurDelayTicks": -1,
+  "allowRandomMoves": true,
+  "leisure": true,
+  "targetPosType": "leisurePos",
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 1,
+  "heldItems": [
+    "minecraft:compass"
+  ],
+  "heldItemsDestination": null,
+  "goalKey": "lookout"
+}

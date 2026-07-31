@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "olivepress",
+  "category": "nodes",
+  "native_name": "Elaiotriveíon",
+  "shop": "olivepress",
+  "tags": [
+    "pathnode",
+    "olivepress",
+    "leisure",
+    "patrol"
+  ],
+  "icon": "millenaire:oliveoil",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "pathnode,10"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "pathnode",
+        "olivepress",
+        "leisure",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 5,
+            "depth": 18
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 5,
+            "depth": 18
+          },
+          "priority": 400
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 5,
+            "depth": 18
+          },
+          "priority": 200,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 5,
+            "depth": 18
+          }
+        }
+      ]
+    }
+  ]
+}

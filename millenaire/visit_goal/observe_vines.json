@@ -1,0 +1,18 @@
+{
+  "type": "observeVillager",
+  "targetGoalTag": null,
+  "targetGoalIds": [
+    "millenaire:harvest_vines",
+    "millenaire:plant_vines"
+  ],
+  "basePriority": 5,
+  "priorityRandom": 10,
+  "durationTicks": 600,
+  "reoccurDelayTicks": 12000,
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "buildingTag": null,
+  "requiredTag": null,
+  "heldItems": null,
+  "goalKey": "observe_vines"
+}

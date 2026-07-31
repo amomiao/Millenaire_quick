@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "bison",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Kulavak",
+  "max_count": 0,
+  "tags": [
+    "cattle",
+    "agricultural"
+  ],
+  "icon": "minecraft:leather",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "tags": [
+        "cattle"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 1,
+            "depth": 10
+          },
+          "priority": 37,
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

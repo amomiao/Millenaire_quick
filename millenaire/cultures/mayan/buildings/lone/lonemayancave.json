@@ -1,0 +1,52 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "lonemayancave",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Ch'en",
+  "icon": "minecraft:dirt",
+  "starting_goods": [
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.8,
+      "fixed": 10,
+      "random": 10
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 6
+    },
+    {
+      "item": "millenaire:mayan_gold_block",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 6
+    },
+    {
+      "item": "millenaire:mayan_statue",
+      "probability": 0.8,
+      "fixed": 2,
+      "random": 4
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -4,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 12,
+            "depth": 8
+          },
+          "priority": 3000
+        }
+      ]
+    }
+  ]
+}

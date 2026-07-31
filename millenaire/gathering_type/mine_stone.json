@@ -1,0 +1,28 @@
+{
+  "handler": "mining",
+  "priority": 35,
+  "priorityRandom": 10,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 8,
+  "actionCooldown": 70,
+  "stuckTimeout": 200,
+  "arrivalRange": 5,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "minecraft:cobblestone": 1024
+  },
+  "maxSimultaneousTotal": 1,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "sourceSubtype": "stone",
+    "loot": [
+      {
+        "item": "minecraft:cobblestone",
+        "count": 1
+      }
+    ]
+  },
+  "sentenceKey": "mining"
+}

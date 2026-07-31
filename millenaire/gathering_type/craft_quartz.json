@@ -1,0 +1,34 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "minecraft:quartz_block": 1024
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "requiredTag": "quartz",
+    "inputs": [
+      {
+        "item": "minecraft:polished_diorite",
+        "count": 2
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:quartz_block",
+        "count": 1
+      }
+    ]
+  },
+  "sentenceKey": "makequartz",
+  "labelKey": "makequartz",
+  "sound": "stone",
+  "tag": "tag_construction"
+}

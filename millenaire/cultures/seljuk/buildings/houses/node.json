@@ -1,0 +1,54 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "node",
+  "category": "houses",
+  "native_name": "Yol düğümü",
+  "tags": [
+    "pathnode",
+    "patrol"
+  ],
+  "icon": "millenaire:path_gravel",
+  "far_from_tags": [
+    "pathnode,40"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "pathnode",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 9
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 9
+          },
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 9
+          },
+          "priority": 95,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

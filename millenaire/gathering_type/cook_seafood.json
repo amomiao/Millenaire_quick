@@ -1,0 +1,33 @@
+{
+  "handler": "smelting",
+  "priority": 80,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "itemsBalance": {
+    "millenaire:seafood_raw": "millenaire:seafood_cooked"
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "millenaire:seafood_raw",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "millenaire:seafood_cooked",
+        "count": 1
+      }
+    ],
+    "minimumToCook": 1
+  },
+  "sentenceKey": "cookfishslab",
+  "labelKey": "cookfishslab",
+  "heldItems": [
+    "millenaire:seafood_raw"
+  ]
+}

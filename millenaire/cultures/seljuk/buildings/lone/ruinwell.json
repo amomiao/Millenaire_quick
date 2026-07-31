@@ -1,0 +1,25 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "ruinwell",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Yıkık Çeşme",
+  "icon": "minecraft:sand",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -4,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 7,
+            "depth": 9
+          }
+        }
+      ]
+    }
+  ]
+}

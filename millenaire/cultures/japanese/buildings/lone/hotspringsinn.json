@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "hotspringsinn",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Onsenmachi",
+  "shop": "japaneseinn",
+  "male": [
+    "innkeeper"
+  ],
+  "female": [
+    "innkeeperwife"
+  ],
+  "starting_sub_buildings": [
+    "hotspringsinn_a_market",
+    "hotspringsinn_a_kitchen"
+  ],
+  "icon": "minecraft:red_bed",
+  "starting_goods": [
+    {
+      "item": "millenaire:rice",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "millenaire:udon",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "millenaire:ikayaki",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "millenaire:sake",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 4
+    },
+    {
+      "item": "minecraft:bread",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 65,
+            "height": 14,
+            "depth": 84
+          }
+        }
+      ]
+    }
+  ]
+}

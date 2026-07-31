@@ -1,0 +1,64 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Taş Tüccarı",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_old_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/wool/wool_0.png",
+        "millenaire:textures/entity/turks/male/wool/wool_2.png",
+        "millenaire:textures/entity/turks/male/wool/wool_4.png",
+        "millenaire:textures/entity/turks/male/wool/wool_6.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "millenaire:purse",
+  "base_attack_strength": 5,
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "millenaire:path_dirt": 32,
+    "millenaire:path_gravel": 32,
+    "millenaire:path_gravel_slab": 32,
+    "minecraft:stone": 64,
+    "minecraft:cobblestone": 64,
+    "millenaire:mud_brick": 64,
+    "millenaire:mud_brick_smooth": 32,
+    "millenaire:mud_brick_seljuk_ornamented": 32,
+    "millenaire:mud_brick_seljuk_decorated": 32,
+    "minecraft:sand": 64,
+    "minecraft:sandstone": 64,
+    "minecraft:raw_iron": 16,
+    "minecraft:coal": 16,
+    "minecraft:iron_ingot": 4
+  }
+}

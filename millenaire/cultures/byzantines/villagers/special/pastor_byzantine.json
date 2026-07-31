@@ -1,0 +1,67 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Iereus",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.f.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/byz.priest.1.a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/byz.priest.1.b.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/byz.priest.1.c.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:hold_service",
+    "millenaire:drink_wine",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_books",
+    "millenaire:craft_paper_woodpulp",
+    "millenaire:teach",
+    "millenaire:craft_fresco",
+    "millenaire:craft_icon_small",
+    "millenaire:craft_icon_medium",
+    "millenaire:craft_icon_large"
+  ],
+  "tags": [
+    "religious"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:writable_book": 1
+  },
+  "required_goods": {
+    "minecraft:quartz_block": 32,
+    "minecraft:purple_dye": 64,
+    "millenaire:silk": 64,
+    "minecraft:leather": 2,
+    "minecraft:paper": 6,
+    "minecraft:oak_log": 16,
+    "minecraft:spruce_log": 16,
+    "minecraft:birch_log": 16,
+    "minecraft:jungle_log": 16,
+    "minecraft:acacia_log": 16,
+    "minecraft:dark_oak_log": 16
+  },
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:wall_byzantine_icon_medium",
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 2
+}

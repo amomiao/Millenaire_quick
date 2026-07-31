@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "questguardtower",
+  "category": "lone",
+  "native_name": "Cha'an Ka'nal",
+  "male": [
+    "questkingscout",
+    "questkingscout"
+  ],
+  "tags": [
+    "nopaths",
+    "worldquest"
+  ],
+  "icon": "millenaire:mayan_mace",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 6,
+            "height": 9,
+            "depth": 6
+          }
+        }
+      ]
+    }
+  ]
+}

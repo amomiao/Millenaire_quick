@@ -1,0 +1,34 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Chitrakaar",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_scultor0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_decoratedbricks",
+    "millenaire:craft_paintedbucketwhite"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:painted_brick_white": 32,
+    "minecraft:acacia_log": 8
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:decorated_brick_white",
+  "items_needed": [
+    "minecraft:iron_sword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5
+}

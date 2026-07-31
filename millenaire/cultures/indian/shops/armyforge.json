@@ -1,0 +1,13 @@
+{
+  "sells": [
+    "iron_helmet",
+    "iron_chestplate",
+    "iron_leggings",
+    "iron_boots",
+    "iron_sword",
+    "bow"
+  ],
+  "buys": [],
+  "buys_optional": [],
+  "deliver_to": []
+}

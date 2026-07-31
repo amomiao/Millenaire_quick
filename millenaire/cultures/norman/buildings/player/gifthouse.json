@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "gifthouse",
+  "category": "player",
+  "native_name": "Maison bonus",
+  "max_count": 0,
+  "icon": "minecraft:cake",
+  "is_gift": true,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

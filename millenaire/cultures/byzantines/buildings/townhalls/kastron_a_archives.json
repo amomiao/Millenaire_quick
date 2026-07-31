@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "kastron_a_archives",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "kastron",
+    "variant": "a",
+    "level": 10
+  },
+  "is_town_hall": false,
+  "native_name": "Thematikón Archeiofylákion",
+  "max_count": 0,
+  "tags": [
+    "archives"
+  ],
+  "icon": "minecraft:book",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "archives"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 34,
+            "height": 18,
+            "depth": 38
+          },
+          "priority": 90,
+          "signs": "1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45"
+        }
+      ]
+    }
+  ]
+}

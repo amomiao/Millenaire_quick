@@ -1,0 +1,100 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "church_a_school",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "church",
+    "variant": "a",
+    "level": 2
+  },
+  "is_town_hall": false,
+  "native_name": "Scholeíon",
+  "max_count": 0,
+  "tags": [
+    "school"
+  ],
+  "icon": "minecraft:writable_book",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -5,
+      "tags": [
+        "school"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 250,
+          "parent_tags": [
+            "transept1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 50,
+            "height": 22,
+            "depth": 33
+          },
+          "priority": 200,
+          "parent_tags": [
+            "transept1",
+            "schoolcomplete"
+          ],
+          "required_parent_tags": [
+            "stage2"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 50,
+            "height": 25,
+            "depth": 33
+          },
+          "priority": 150,
+          "parent_tags": [
+            "transept1",
+            "schoolcomplete"
+          ],
+          "required_parent_tags": [
+            "stage2",
+            "narthex"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 50,
+            "height": 25,
+            "depth": 33
+          },
+          "parent_tags": [
+            "transept1",
+            "schoolcomplete"
+          ],
+          "required_parent_tags": [
+            "stage2",
+            "narthex"
+          ]
+        }
+      ]
+    }
+  ]
+}

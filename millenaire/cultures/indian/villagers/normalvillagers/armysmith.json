@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Sena ka Loohaar",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_armysmith0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_steelsword",
+    "millenaire:craft_steelchest",
+    "millenaire:craft_steelboots",
+    "millenaire:craft_steellegs",
+    "millenaire:craft_steelhelmet",
+    "millenaire:craft_bow"
+  ],
+  "tags": [
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:iron_ingot": 10,
+    "minecraft:white_wool": 2
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:iron_chestplate",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:iron_ingot"
+}

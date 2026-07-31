@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "lonemayancornfarm",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Sa'at Maya Maize Makan",
+  "icon": "millenaire:rice",
+  "starting_goods": [
+    {
+      "item": "millenaire:maize",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 40
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.3,
+      "fixed": 2,
+      "random": 2
+    },
+    {
+      "item": "minecraft:chicken",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.4,
+      "fixed": 4,
+      "random": 9
+    },
+    {
+      "item": "minecraft:bow",
+      "probability": 0.6,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "minecraft:arrow",
+      "probability": 0.8,
+      "fixed": 10,
+      "random": 30
+    },
+    {
+      "item": "minecraft:pumpkin",
+      "probability": 0.6,
+      "fixed": 1,
+      "random": 5
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 17
+          },
+          "priority": 3000
+        }
+      ]
+    }
+  ]
+}

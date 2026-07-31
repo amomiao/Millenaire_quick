@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "theatre",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Archaío Théatro",
+  "icon": "minecraft:sandstone",
+  "starting_goods": [
+    {
+      "item": "minecraft:book",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:clothes_byz_wool",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 5
+    },
+    {
+      "item": "millenaire:clothes_byz_silk",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 1
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 6,
+            "depth": 18
+          }
+        }
+      ]
+    }
+  ]
+}

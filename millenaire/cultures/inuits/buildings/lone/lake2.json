@@ -1,0 +1,33 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "lake2",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Sikuliaq",
+  "max_count": 0,
+  "tags": [
+    "lake"
+  ],
+  "icon": "minecraft:ice",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "tags": [
+        "lake"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 10
+          },
+          "priority": 13
+        }
+      ]
+    }
+  ]
+}

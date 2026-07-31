@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Ta'as Tz'on",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_crafter0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_mayanmace",
+    "millenaire:craft_mayanaxe",
+    "millenaire:craft_mayanpickaxe",
+    "millenaire:craft_mayanshovel",
+    "millenaire:craft_mayanhoe",
+    "millenaire:craft_obsidianflake"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:obsidian": 10
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:obsidian_flake",
+  "tool_needed_classes": [
+    "axes"
+  ],
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:obsidian_flake",
+  "travelbook_held_item_off_hand": "millenaire:mayan_mace"
+}

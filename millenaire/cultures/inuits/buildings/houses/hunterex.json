@@ -1,0 +1,59 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "hunterex",
+  "category": "houses",
+  "native_name": "Afuniaqti Tupiq",
+  "male": [
+    "inuit_hunter"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "icon": "minecraft:bone",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 5,
+            "depth": 8
+          },
+          "priority": 300
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 30,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 8
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "playerhousemed2",
+  "category": "player",
+  "native_name": "Orta Boyutlu Hane",
+  "max_count": 0,
+  "icon": "millenaire:denier_argent",
+  "price": 4096,
+  "reputation": 8192,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 14
+          },
+          "priority": 1000000,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

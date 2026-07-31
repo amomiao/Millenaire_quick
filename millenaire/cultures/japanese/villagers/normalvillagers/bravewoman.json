@@ -1,0 +1,56 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Jojoufu",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_bravewoman1.png",
+    "millenaire:textures/entity/japanese/japanese_bravewoman2.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:bring_back_home",
+    "millenaire:harvest_wheat_home",
+    "millenaire:plant_wheat_home",
+    "millenaire:plant_rice",
+    "millenaire:craft_thatchfromwheat",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "archer",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:wheat_seeds": 100,
+    "millenaire:rice": 50,
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64
+  },
+  "bring_back_home_goods": [
+    "minecraft:wheat",
+    "millenaire:rice"
+  ],
+  "collect_goods": [
+    "minecraft:wheat_seeds",
+    "millenaire:rice",
+    "minecraft:wheat"
+  ],
+  "gender": "female",
+  "first_name_list": "high_caste_women_names",
+  "family_name_list": "high_caste_family_names",
+  "male_child": "boy",
+  "female_child": "girl",
+  "icon": "millenaire:rice",
+  "tool_needed_classes": [
+    "rangedweapons",
+    "hoes"
+  ],
+  "travelbook_held_item": "minecraft:bow"
+}

@@ -1,0 +1,191 @@
+{
+  "culture": "millenaire:seljuk",
+  "biome_tags": [
+    "#c:is_desert",
+    "#c:is_badlands",
+    "#c:is_savanna"
+  ],
+  "name": "Dini Köy",
+  "weight": 10,
+  "layout": [
+    {
+      "plan": "millenaire:seljuk/thmosque",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:seljuk/lumbermanshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mill",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/brick",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/cowfarm",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/kitchen",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cowfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/sheepfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cottonfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/hamambath",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/bigwell",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/well",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/market",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/barrackssmall",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/brick",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/cowfarm",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/smallmosque",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/abdesthane",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/cesme",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/golgealti",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplant",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplantsmall",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/node",
+      "role": "secondary"
+    }
+  ],
+  "selling_price_overrides": {
+    "cobblestone": 5,
+    "yogurt": 9,
+    "leather": 9,
+    "book": 64,
+    "bookshelf": 256,
+    "pistachios": 7,
+    "mudbrick_smooth": 10,
+    "mudbrick_seljuk_ornamented": 12,
+    "mudbrick_seljuk_decorated": 20
+  },
+  "buying_price_overrides": {
+    "cobblestone": 3,
+    "yogurt": 4,
+    "book": 45,
+    "bookshelf": 320,
+    "pistachios": 5,
+    "mudbrick_smooth": 8,
+    "mudbrick_seljuk_ornamented": 10,
+    "mudbrick_seljuk_decorated": 17
+  },
+  "icon": "minecraft:book",
+  "carries_raid": true,
+  "hill_qualifier": "Tepede",
+  "mountain_qualifier": "Dağda",
+  "desert_qualifier": "Çölde",
+  "forest_qualifier": "Ormanda",
+  "lava_qualifier": "Yanar",
+  "lake_qualifier": "Gölde",
+  "ocean_qualifier": "Denizli",
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "player_buildings": [
+    "millenaire:seljuk/playersmall1",
+    "millenaire:seljuk/playersmall2",
+    "millenaire:seljuk/playerhousegift",
+    "millenaire:seljuk/playerhousesmall",
+    "millenaire:seljuk/playerhousemed",
+    "millenaire:seljuk/playerhousemed2"
+  ],
+  "inner_wall_type": "mudbrickwalls",
+  "inner_wall_radius": 35,
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:sjkr,Color:15}]}}"
+  ],
+  "max_simultaneous_wall_constructions": 2,
+  "never": [
+    "weaver",
+    "stonecraftsman",
+    "toolsmith",
+    "pistachiotrees",
+    "barracks",
+    "fishery",
+    "armoury",
+    "mine_brick",
+    "inn",
+    "watchtower",
+    "imamshouse",
+    "mosque",
+    "olivefarm",
+    "passnode",
+    "cottonfield"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "handler": "sapling_planting",
+  "priority": 2000,
+  "scanRadius": 48,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 20,
+  "stuckTimeout": 4000,
+  "arrivalRange": 5,
+  "walkSpeed": 0.6,
+  "maxSimultaneousInBuilding": 1,
+  "minimumHour": 0,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "buildingTag": "lumbermanorchard",
+    "sapling": "millenaire:apple_tree_sapling"
+  },
+  "sentenceKey": "plantsaplingappletree",
+  "labelKey": "plantsaplingappletree"
+}

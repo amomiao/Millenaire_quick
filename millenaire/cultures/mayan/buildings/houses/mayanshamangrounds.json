@@ -1,0 +1,49 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanshamangrounds",
+  "category": "houses",
+  "native_name": "Ah Waay Su'uk",
+  "male": [
+    "shaman"
+  ],
+  "female": [
+    "shamanwife"
+  ],
+  "tags": [
+    "despawnallmobs",
+    "nopaths"
+  ],
+  "icon": "minecraft:red_mushroom",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "despawnallmobs",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 50,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

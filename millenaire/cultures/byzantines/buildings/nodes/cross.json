@@ -1,0 +1,90 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "cross",
+  "category": "nodes",
+  "native_name": "Stavrós",
+  "max_count": 2,
+  "tags": [
+    "pathnode",
+    "leisure",
+    "patrol",
+    "garden"
+  ],
+  "icon": "minecraft:diamond",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 9
+          },
+          "tags": [
+            "pathnode",
+            "leisure",
+            "patrol"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 9
+          },
+          "priority": 400,
+          "tags": [
+            "pathnode",
+            "leisure",
+            "patrol",
+            "garden"
+          ],
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 9
+          },
+          "priority": 200,
+          "path_level": 1,
+          "tags": [
+            "pathnode",
+            "leisure",
+            "patrol",
+            "garden"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 9
+          },
+          "tags": [
+            "pathnode",
+            "leisure",
+            "patrol",
+            "garden"
+          ]
+        }
+      ]
+    }
+  ]
+}

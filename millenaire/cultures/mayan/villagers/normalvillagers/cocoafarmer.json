@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Ka'kau' We'matz",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_farmer0.png",
+    "millenaire:textures/entity/mayan/mayan_farmer1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cacauhaa",
+    "millenaire:harvest_cocoa",
+    "millenaire:plant_cocoa",
+    "millenaire:craft_cacauhaa"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:cocoa_beans"
+  ],
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:cocoa_beans",
+  "tool_needed_classes": [
+    "toolssword",
+    "hoes"
+  ],
+  "default_weapon": "minecraft:wooden_hoe",
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:cocoa_beans"
+}

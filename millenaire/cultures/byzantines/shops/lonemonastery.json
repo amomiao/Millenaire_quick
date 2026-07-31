@@ -1,0 +1,29 @@
+{
+  "sells": [
+    "byzantine_fresco",
+    "wall_byzantine_icon_small",
+    "wall_byzantine_icon_medium",
+    "wall_byzantine_icon_large",
+    "bread",
+    "carrot",
+    "book"
+  ],
+  "buys": [
+    "stone_hoe",
+    "winefancy",
+    "winebasic",
+    "cooked_cod",
+    "bread"
+  ],
+  "buys_optional": [
+    "iron_hoe",
+    "norman_hoe",
+    "mayan_hoe",
+    "diamond_hoe",
+    "byzantine_hoe"
+  ],
+  "deliver_to": [
+    "minecraft:bread",
+    "minecraft:carrot"
+  ]
+}

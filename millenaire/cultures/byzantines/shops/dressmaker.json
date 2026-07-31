@@ -1,0 +1,27 @@
+{
+  "sells": [
+    "carpet_purple",
+    "carpet_yellow",
+    "clothes_byz_wool",
+    "clothes_byz_silk",
+    "wall_byzantine_icon_small",
+    "wall_byzantine_icon_medium",
+    "wall_byzantine_icon_large"
+  ],
+  "buys": [
+    "silk",
+    "wool_white",
+    "dye_purple",
+    "dye_yellow",
+    "bone",
+    "dye_white"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:purple_dye",
+    "minecraft:yellow_dye",
+    "millenaire:silk",
+    "minecraft:bone",
+    "minecraft:white_dye"
+  ]
+}

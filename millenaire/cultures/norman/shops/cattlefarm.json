@@ -1,0 +1,15 @@
+{
+  "sells": [
+    "leather",
+    "beef_raw",
+    "beef_cooked",
+    "tripes",
+    "bone"
+  ],
+  "buys": [
+    "wheat",
+    "beef_raw"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

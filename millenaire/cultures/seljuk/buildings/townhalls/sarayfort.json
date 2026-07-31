@@ -1,0 +1,105 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "sarayfort",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Saray",
+  "shop": "townhall",
+  "max_count": 0,
+  "male": [
+    "turk_vali"
+  ],
+  "female": [
+    "turk_richwoman"
+  ],
+  "tags": [
+    "leisure",
+    "patrol"
+  ],
+  "starting_sub_buildings": [
+    "sarayfort_a_imams"
+  ],
+  "icon": "millenaire:seljuk_helmet",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "leisure",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 39,
+            "height": 10,
+            "depth": 39
+          },
+          "priority": 800,
+          "signs": "2,1,3,5,7,8,6,4,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 39,
+            "height": 10,
+            "depth": 39
+          },
+          "priority": 650,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 39,
+            "height": 11,
+            "depth": 39
+          },
+          "priority": 580
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 39,
+            "height": 12,
+            "depth": 39
+          },
+          "priority": 500,
+          "sub_buildings": [
+            "sarayfort_a_market"
+          ],
+          "path_level": 1,
+          "rebuild_path": true
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 39,
+            "height": 17,
+            "depth": 39
+          },
+          "priority": 440,
+          "sub_buildings": [
+            "sarayfort_a_soldierl1",
+            "sarayfort_a_soldierr1"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 39,
+            "height": 17,
+            "depth": 39
+          },
+          "priority": 420,
+          "sub_buildings": [
+            "sarayfort_a_soldierl2",
+            "sarayfort_a_soldierr2"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "largeguardhouse",
+  "category": "marvel",
+  "native_name": "Caserne",
+  "max_count": 0,
+  "male": [
+    "orderguard",
+    "orderguard",
+    "orderguard",
+    "orderguard"
+  ],
+  "tags": [
+    "autospawnvillagers"
+  ],
+  "icon": "millenaire:norman_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "autospawnvillagers"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 15
+          },
+          "priority": 15000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 11,
+            "depth": 15
+          },
+          "priority": 800
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 11,
+            "depth": 15
+          },
+          "priority": 800,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Fylaks",
+  "textures": [
+    "millenaire:textures/entity/byzanz/male/byz.peasant.a.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.b.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.c.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.d.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.e.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.f.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.g.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.h.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.i.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.j.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.k.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.guard.1.a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.guard.1.b.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.guard.1.c.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.guard.2.a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.guard.2.b.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.guard.2.c.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.guard.2.d.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:patrol",
+    "millenaire:training"
+  ],
+  "tags": [
+    "helpInAttacks",
+    "raider",
+    "archer",
+    "heavydrinker"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:byzantine_helmet",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 6,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 10,
+  "hiring_cost": "20"
+}

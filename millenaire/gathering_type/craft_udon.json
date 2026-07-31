@@ -1,0 +1,41 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "millenaire:udon": 64
+  },
+  "maxSimultaneousInBuilding": 1,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "buildingTag": "Oven",
+    "inputs": [
+      {
+        "item": "minecraft:wheat",
+        "count": 2
+      },
+      {
+        "item": "minecraft:cooked_chicken",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "millenaire:udon",
+        "count": 1
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:wheat",
+    "minecraft:cooked_chicken",
+    "millenaire:udon"
+  ],
+  "tag": "tag_producefood"
+}

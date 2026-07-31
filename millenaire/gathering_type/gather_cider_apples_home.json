@@ -1,0 +1,30 @@
+{
+  "handler": "fruit_harvesting",
+  "priority": 80,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 16,
+  "actionCooldown": 80,
+  "stuckTimeout": 4000,
+  "arrivalRange": 8,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "millenaire:cider_apple": 512
+  },
+  "maxSimultaneousInBuilding": 2,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "targetBlock": "millenaire:apple_tree_leaves",
+    "ageProperty": "age",
+    "ripeAge": 3,
+    "resetAge": 0,
+    "harvestItem": "millenaire:cider_apple",
+    "harvestCount": 1
+  },
+  "sentenceKey": "gatherciderapples",
+  "labelKey": "gatherciderapples",
+  "heldItems": [
+    "millenaire:cider_apple"
+  ]
+}

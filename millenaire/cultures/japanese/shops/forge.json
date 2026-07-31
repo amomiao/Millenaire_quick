@@ -1,0 +1,13 @@
+{
+  "sells": [
+    "iron_axe",
+    "iron_pickaxe",
+    "iron_shovel",
+    "iron_hoe"
+  ],
+  "buys": [
+    "iron_ingot"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

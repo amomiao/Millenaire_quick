@@ -1,0 +1,188 @@
+{
+  "culture": "millenaire:seljuk",
+  "name": "Küçük Yönetilen Köy",
+  "weight": 0,
+  "player_controlled": true,
+  "layout": [
+    {
+      "plan": "millenaire:seljuk/hamlettownhallplayer",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:seljuk/lumbermanshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/fishery",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/imamshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/stonecraftsman",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mine_brick",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/smallmosque",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/playersmall1",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playersmall2",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousegift",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousesmall",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousemed",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousemed2",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/kitchen",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/market",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cowfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/sheepfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/mill",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/fishery",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/pistachiotrees",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/sugarcanefarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/weaver",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/toolsmith",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/mine_brick",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/brick",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/stonecraftsman",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/barrackssmall",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/well",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/bigwell",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/smallmosque",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/abdesthane",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cesme",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/golgealti",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/passnode",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplant",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplantsmall",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/hamambath",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/node",
+      "role": "core"
+    }
+  ],
+  "icon": "millenaire:seljuk_helmet",
+  "carries_raid": true,
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "outer_wall_type": "borderposts",
+  "radius": 70,
+  "never": [
+    "armoury",
+    "cottonfield",
+    "cottonfarm",
+    "olivefarm",
+    "barracks",
+    "watchtower",
+    "mosque",
+    "inn"
+  ],
+  "allow_extra_buildings": false
+}

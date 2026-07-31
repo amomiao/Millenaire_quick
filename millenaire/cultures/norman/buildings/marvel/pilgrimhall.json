@@ -1,0 +1,42 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "pilgrimhall",
+  "category": "marvel",
+  "native_name": "Dortoir des pélerins",
+  "max_count": 0,
+  "visitors": [
+    "pilgrim",
+    "pilgrim",
+    "pilgrim",
+    "pilgrim",
+    "pilgrimfemale",
+    "pilgrimfemale"
+  ],
+  "icon": "millenaire:straw_bed",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 13
+          },
+          "priority": 10000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 10,
+            "depth": 13
+          }
+        }
+      ]
+    }
+  ]
+}

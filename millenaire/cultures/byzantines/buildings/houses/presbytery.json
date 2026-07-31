@@ -1,0 +1,100 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "presbytery",
+  "category": "houses",
+  "native_name": "Presbytéreion",
+  "male": [
+    "pastor_byzantine"
+  ],
+  "tags": [
+    "loom",
+    "fresco1"
+  ],
+  "icon": "millenaire:wall_byzantine_icon_small",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 7,
+            "depth": 18
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 400,
+          "sub_buildings": [
+            "presbytery_a_classroom"
+          ],
+          "tags": [
+            "loom",
+            "fresco1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 20,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 200,
+          "path_level": 1,
+          "tags": [
+            "loom",
+            "fresco1"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 20,
+            "height": 11,
+            "depth": 18
+          },
+          "priority": 150,
+          "tags": [
+            "loom",
+            "fresco1"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 20,
+            "height": 11,
+            "depth": 18
+          },
+          "tags": [
+            "loom",
+            "fresco1"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 20,
+            "height": 11,
+            "depth": 18
+          },
+          "priority": 90,
+          "tags": [
+            "loom",
+            "fresco1"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "church",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Ierá moní",
+  "shop": "thorthodoxo",
+  "max_count": 0,
+  "male": [
+    "metropolit_byzantine"
+  ],
+  "tags": [
+    "leisure",
+    "stage1",
+    "stage2",
+    "narthex"
+  ],
+  "icon": "millenaire:wall_byzantine_icon_large",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -5,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 50,
+            "height": 13,
+            "depth": 33
+          },
+          "sub_buildings": [
+            "church_a_sanctuary"
+          ],
+          "signs": "3,2,1,0,5,4,7,8,6",
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 500,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 420,
+          "sub_buildings": [
+            "church_a_warehouse",
+            "church_a_school"
+          ],
+          "tags": [
+            "leisure",
+            "stage1"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 400,
+          "sub_buildings": [
+            "church_a_chamber1",
+            "church_a_chamber2"
+          ],
+          "tags": [
+            "leisure",
+            "stage1"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 400,
+          "tags": [
+            "leisure",
+            "stage1"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 390,
+          "tags": [
+            "leisure",
+            "stage1"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 250,
+          "tags": [
+            "leisure",
+            "stage1"
+          ]
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 250,
+          "path_level": 1,
+          "rebuild_path": true,
+          "tags": [
+            "leisure",
+            "stage1"
+          ]
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 50,
+            "height": 22,
+            "depth": 33
+          },
+          "priority": 200,
+          "required_tags": [
+            "transept1",
+            "transept2",
+            "apse"
+          ],
+          "tags": [
+            "leisure",
+            "stage1",
+            "stage2"
+          ]
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 50,
+            "height": 22,
+            "depth": 33
+          },
+          "priority": 200,
+          "tags": [
+            "leisure",
+            "stage1",
+            "stage2",
+            "narthex"
+          ]
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 50,
+            "height": 25,
+            "depth": 33
+          },
+          "priority": 150,
+          "tags": [
+            "leisure",
+            "stage1",
+            "stage2",
+            "narthex"
+          ]
+        },
+        {
+          "level": 11,
+          "footprint": {
+            "width": 50,
+            "height": 25,
+            "depth": 33
+          },
+          "tags": [
+            "leisure",
+            "stage1",
+            "stage2",
+            "narthex"
+          ]
+        },
+        {
+          "level": 12,
+          "footprint": {
+            "width": 50,
+            "height": 25,
+            "depth": 33
+          },
+          "tags": [
+            "leisure",
+            "stage1",
+            "stage2",
+            "narthex"
+          ]
+        },
+        {
+          "level": 13,
+          "footprint": {
+            "width": 50,
+            "height": 25,
+            "depth": 33
+          },
+          "priority": 90,
+          "tags": [
+            "leisure",
+            "stage1",
+            "stage2",
+            "narthex"
+          ]
+        }
+      ]
+    }
+  ]
+}

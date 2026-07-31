@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbey_a_altar",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "abbey",
+    "variant": "a",
+    "level": 1
+  },
+  "is_town_hall": false,
+  "native_name": "Autel de l'Abbaye",
+  "max_count": 0,
+  "tags": [
+    "praying"
+  ],
+  "icon": "minecraft:white_carpet",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "praying"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 32,
+            "height": 2,
+            "depth": 32
+          },
+          "priority": 5000
+        }
+      ]
+    }
+  ]
+}

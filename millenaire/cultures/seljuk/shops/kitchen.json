@@ -1,0 +1,35 @@
+{
+  "sells": [
+    "beef_cooked",
+    "cooked_mutton",
+    "cooked_cod",
+    "chicken_cooked",
+    "ayran",
+    "yogurt",
+    "pide",
+    "helva",
+    "lokum",
+    "pistachios",
+    "apple"
+  ],
+  "buys": [
+    "yogurt",
+    "egg",
+    "wheat",
+    "sugar"
+  ],
+  "buys_optional": [
+    "apple",
+    "pistachios",
+    "beef_cooked",
+    "chicken_cooked",
+    "cooked_mutton",
+    "cooked_cod",
+    "egg",
+    "fishraw",
+    "chicken_raw",
+    "mutton_raw",
+    "beef_raw"
+  ],
+  "deliver_to": []
+}

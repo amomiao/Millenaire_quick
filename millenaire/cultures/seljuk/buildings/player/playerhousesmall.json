@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "playerhousesmall",
+  "category": "player",
+  "native_name": "Küçük Ev",
+  "max_count": 0,
+  "icon": "millenaire:denier",
+  "price": 4096,
+  "reputation": 6192,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 9,
+            "depth": 12
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

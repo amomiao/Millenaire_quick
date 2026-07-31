@@ -1,0 +1,112 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "council",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Aargi",
+  "shop": "inuittownhall",
+  "max_count": 0,
+  "male": [
+    "inuit_farmer"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "tags": [
+    "patrol",
+    "cattle"
+  ],
+  "icon": "millenaire:snow_brick",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "tags": [
+        "patrol",
+        "cattle"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 8,
+            "depth": 22
+          },
+          "priority": 1000,
+          "signs": "0,2,1,3,5,7,8,6,4",
+          "infoSources": [
+            {
+              "type": "snow"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 8,
+            "depth": 22
+          },
+          "priority": 800
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 20,
+            "height": 8,
+            "depth": 22
+          },
+          "priority": 400,
+          "rebuild_path": true,
+          "infoAnimalSpawns": [
+            {
+              "entity": "wolf"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 22
+          }
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 22
+          },
+          "priority": 80
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 20,
+            "height": 9,
+            "depth": 22
+          },
+          "priority": 20
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 20,
+            "height": 11,
+            "depth": 22
+          }
+        }
+      ]
+    }
+  ]
+}

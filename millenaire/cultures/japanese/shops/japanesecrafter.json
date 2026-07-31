@@ -1,0 +1,10 @@
+{
+  "sells": [
+    "paper"
+  ],
+  "buys": [
+    "rice"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

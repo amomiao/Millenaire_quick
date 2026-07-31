@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "lonepinegrove",
+  "category": "lone",
+  "native_name": "Álsos Peukon",
+  "tags": [
+    "grove"
+  ],
+  "icon": "minecraft:spruce_sapling",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "grove"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 3,
+            "depth": 7
+          },
+          "path_level": 1,
+          "path_width": 1,
+          "infoTreeSpawns": [
+            {
+              "sapling": "pine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

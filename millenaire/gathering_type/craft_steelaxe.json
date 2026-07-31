@@ -1,0 +1,37 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 400,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "minecraft:iron_axe": 2
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "requiredTag": "forge",
+    "inputs": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:iron_axe",
+        "count": 1
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:iron_ingot",
+    "minecraft:iron_axe"
+  ],
+  "sentenceKey": "maketools",
+  "sound": "metal",
+  "tag": "tag_smithing"
+}

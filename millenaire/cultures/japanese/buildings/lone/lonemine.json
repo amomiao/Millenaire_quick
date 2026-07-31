@@ -1,0 +1,72 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "lonemine",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Kouku",
+  "shop": "lonemine",
+  "male": [
+    "loneminer",
+    "loneminer"
+  ],
+  "icon": "minecraft:iron_pickaxe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 11,
+            "depth": 20
+          },
+          "ground_level": -6,
+          "infoSources": [
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 17,
+            "depth": 20
+          },
+          "ground_level": -8,
+          "infoSources": [
+            {
+              "type": "sandstone"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 20,
+            "height": 17,
+            "depth": 20
+          },
+          "ground_level": -8
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 20,
+            "height": 17,
+            "depth": 20
+          },
+          "ground_level": -8,
+          "infoSources": [
+            {
+              "type": "clay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

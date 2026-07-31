@@ -1,0 +1,41 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 1200,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "millenaire:mayan_statue": 8
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:stone",
+        "count": 5
+      },
+      {
+        "item": "minecraft:sandstone",
+        "count": 5
+      }
+    ],
+    "outputs": [
+      {
+        "item": "millenaire:mayan_statue",
+        "count": 1
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:stone",
+    "minecraft:sandstone",
+    "millenaire:mayan_statue"
+  ],
+  "sentenceKey": "makemayanstatue",
+  "labelKey": "makemayanstatue",
+  "sound": "stone"
+}

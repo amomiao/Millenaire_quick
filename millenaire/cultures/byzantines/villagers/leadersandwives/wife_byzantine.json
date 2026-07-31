@@ -1,0 +1,124 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Gynaika",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_1.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_2.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_3.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_4.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_5.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_6.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_7.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_8.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_9.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_10.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_11.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_12.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_13.png",
+    "millenaire:textures/entity/byzanz/nfemale/byz_female_14.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_1_a.png",
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_1_b.png",
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_1_c.png",
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_1_d.png",
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_1_e.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_2_a.png",
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_2_b.png",
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_2_c.png",
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_2_d.png",
+        "millenaire:textures/entity/byzanz/nfemale/clothes/byz_dress_2_e.png"
+      ]
+    },
+    "natural": {
+      "layer1": [
+        "millenaire:textures/entity/byzanz/nfemale/hair/byz_braid_1.png",
+        "millenaire:textures/entity/byzanz/nfemale/hair/byz_braid_2.png",
+        "millenaire:textures/entity/byzanz/nfemale/hair/byz_braid_3.png",
+        "millenaire:textures/entity/byzanz/nfemale/hair/byz_bun_1.png",
+        "millenaire:textures/entity/byzanz/nfemale/hair/byz_bun_2.png",
+        "millenaire:textures/entity/byzanz/nfemale/hair/byz_curls_1.png"
+      ]
+    }
+  },
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:listen_to_speech_2",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_dirtwall",
+    "millenaire:craft_pathslabs",
+    "millenaire:craft_pathgravel",
+    "millenaire:craft_pathsandstone",
+    "millenaire:craft_strawbed",
+    "millenaire:build_path",
+    "millenaire:clear_old_path",
+    "millenaire:mine_gravel_byz",
+    "millenaire:mine_clay_byz",
+    "millenaire:mine_sand_byz",
+    "millenaire:plant_vines",
+    "millenaire:harvest_vines",
+    "millenaire:craft_bread",
+    "millenaire:fetch_bread_byz",
+    "millenaire:fetch_iron_byz",
+    "millenaire:fetch_sandstone_byz",
+    "millenaire:shear_sheep",
+    "millenaire:gather_snails",
+    "millenaire:gather_olives",
+    "millenaire:craft_oliveoil",
+    "millenaire:plant_olive_saplings"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:olive_tree_sapling": 10
+  },
+  "bring_back_home_goods": [
+    "millenaire:grapes",
+    "minecraft:white_wool",
+    "minecraft:gray_wool",
+    "minecraft:light_gray_wool",
+    "minecraft:black_wool",
+    "minecraft:brown_wool",
+    "minecraft:pink_wool",
+    "minecraft:purple_dye",
+    "millenaire:olives"
+  ],
+  "collect_goods": [
+    "minecraft:white_wool",
+    "minecraft:gray_wool",
+    "minecraft:light_gray_wool",
+    "minecraft:black_wool",
+    "minecraft:brown_wool",
+    "minecraft:pink_wool"
+  ],
+  "gender": "female",
+  "first_name_list": "greek_women_names",
+  "family_name_list": "greek_family_names",
+  "male_child": "boy_byzantine",
+  "female_child": "girl_byzantine",
+  "icon": "millenaire:souvlaki",
+  "tool_needed_classes": [
+    "shovels"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 2,
+  "default_weapon": "minecraft:wooden_axe"
+}

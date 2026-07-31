@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japaneseplot2",
+  "category": "player",
+  "native_name": "Chuugata Chisho",
+  "max_count": 0,
+  "icon": "minecraft:oak_fence",
+  "price": 2048,
+  "reputation": 1024,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 3,
+            "depth": 10
+          },
+          "priority": 1000000
+        }
+      ]
+    }
+  ]
+}

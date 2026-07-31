@@ -1,0 +1,18 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "mosquefemaleside",
+  "requiredTag": null,
+  "basePriority": 10,
+  "priorityRandom": 10,
+  "durationTicks": 200,
+  "reoccurDelayTicks": 3200,
+  "allowRandomMoves": false,
+  "leisure": false,
+  "targetPosType": null,
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "heldItems": null,
+  "heldItemsDestination": null,
+  "goalKey": "pray_muslim"
+}

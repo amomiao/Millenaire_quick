@@ -1,0 +1,65 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Epicheirimatia Yphasmata",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/byzanz/female/byz.female.a.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.b.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.c.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.d.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.e.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.f.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.g.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.h.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.i.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.j.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.k.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.l.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.m.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.n.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblefemale/clothes/foreign/byz.ft.tex.1.a.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 10,
+  "gender": "female",
+  "first_name_list": "greek_women_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:clothes_byz_wool",
+  "base_attack_strength": 5,
+  "experience_given": 3,
+  "foreign_merchant_stock": {
+    "minecraft:white_carpet": 64,
+    "minecraft:orange_carpet": 64,
+    "minecraft:magenta_carpet": 64,
+    "minecraft:light_blue_carpet": 64,
+    "minecraft:yellow_carpet": 64,
+    "minecraft:green_carpet": 64,
+    "minecraft:pink_carpet": 64,
+    "minecraft:gray_carpet": 64,
+    "minecraft:light_gray_carpet": 64,
+    "minecraft:cyan_carpet": 64,
+    "minecraft:purple_carpet": 64,
+    "minecraft:blue_carpet": 64,
+    "minecraft:brown_carpet": 64,
+    "minecraft:red_carpet": 64,
+    "minecraft:black_carpet": 64,
+    "millenaire:clothes_byz_wool": 8,
+    "millenaire:clothes_byz_silk": 1
+  }
+}

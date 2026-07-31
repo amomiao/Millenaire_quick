@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "loneshrine",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Chota Mandir",
+  "male": [
+    "pandit"
+  ],
+  "icon": "millenaire:wall_indian_statue",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 10,
+            "depth": 8
+          }
+        }
+      ]
+    }
+  ]
+}

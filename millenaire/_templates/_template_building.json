@@ -1,0 +1,35 @@
+{
+  "_comment": "Skeleton building plan set. Place under millenaire-custom/<submod>/cultures/<culture>/buildings/<category>/<id>.json with the corresponding NBT template co-located as <id>_a_0.nbt in the same folder. Fields marked 'default' may be omitted.",
+  "_template_note": "Phase 2 ContentFs (spec §6.8): the explicit 'template:' field is FORBIDDEN. The NBT path is derived from the JSON's path and the (variant, level) tuple. Co-locate <id>_<variant>_<level>.nbt next to the JSON.",
+  "building_id": "my_building",
+  "culture": "millenaire:<culture>",
+  "category": "houses",
+  "_category_options": "townhalls | houses | special | extra | player | lone (default: houses)",
+  "native_name": "My Building",
+  "max_count": 1,
+  "_max_count_default": 1,
+  "tags": [],
+  "_tags_note": "Root-level tags attach to the building itself. Level-level tags are cumulative across levels (iso-legacy).",
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": 0,
+      "_ground_level_note": "Factorise at variant scope when constant across all levels; otherwise set per-level. Default 0.",
+      "_building_orientation_note": "Optional at variant scope (overrides the plan-set default) when variants have different fronts. Resolution: variant -> plan-set -> 1.",
+      "levels": [
+        {
+          "level": 0,
+          "_nbt_note": "NBT lookup is path-relative: the loader resolves my_building_a_0.nbt sibling to this JSON. Do NOT add a 'template:' field — the loader rejects it.",
+          "footprint": { "width": 9, "height": 6, "depth": 9 },
+          "_priority_default": "100 (omit when default)",
+          "_tags_note": "Per-level tags are cumulative with previous levels (iso-legacy). Omit when identical to the previous level's cumulative tag set."
+        }
+      ]
+    }
+  ],
+  "male": null,
+  "female": null,
+  "_default_weapon": "Optional: item id used by military villagers (e.g. 'minecraft:iron_sword'). Legacy tokens (e.g. 'sabre') are mapped at convert time.",
+  "_cost_note": "infoCost is no longer supported; building cost is computed from the NBT template. Use the BuildingCostExporter in-game command to inspect the material cost of a plan.",
+  "_omit_defaults_note": "Fields equal to their loader default may be omitted for readability: model=male, base_scale=1.0, is_child=false, category=houses, max_count=1, building_orientation=1, terrain_policy=clear_and_flatten, construction_order=bottom_up, level.priority=100, ground_level=0, tags=[]."
+}

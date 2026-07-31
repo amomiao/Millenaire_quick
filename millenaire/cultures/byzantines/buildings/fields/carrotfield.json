@@ -1,0 +1,48 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "carrotfield",
+  "category": "fields",
+  "native_name": "Oporokalliérgia",
+  "min_distance": 0.5,
+  "tags": [
+    "carrot"
+  ],
+  "icon": "minecraft:carrot",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "carrot"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 3,
+            "depth": 13
+          },
+          "path_level": 1,
+          "infoSoils": [
+            {
+              "crop": "carrot"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 3,
+            "depth": 13
+          },
+          "priority": 200,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

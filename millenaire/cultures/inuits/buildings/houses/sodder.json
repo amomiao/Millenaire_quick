@@ -1,0 +1,74 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "sodder",
+  "category": "houses",
+  "native_name": "Ivruq Tupiq",
+  "male": [
+    "inuit_sodder"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "tags": [
+    "nopaths"
+  ],
+  "icon": "millenaire:sod_birch",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -3,
+      "tags": [
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 300,
+          "infoSources": [
+            {
+              "type": "snow"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 200,
+          "infoSources": [
+            {
+              "type": "snow"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 80
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

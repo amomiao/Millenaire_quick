@@ -1,0 +1,55 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "pergola",
+  "category": "nodes",
+  "native_name": "Klematariá",
+  "max_count": 2,
+  "tags": [
+    "pathnode",
+    "garden",
+    "leisure",
+    "patrol"
+  ],
+  "icon": "minecraft:acacia_sapling",
+  "area_to_clear": 2,
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "pathnode",
+        "garden",
+        "leisure",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 8
+          },
+          "path_level": 2,
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 8
+          }
+        }
+      ]
+    }
+  ]
+}

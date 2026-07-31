@@ -1,0 +1,17 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "loneinn_a_stall_0",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "loneinn",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Marché isolée",
+  "tags": [
+    "market"
+  ],
+  "icon": "minecraft:red_bed",
+  "variants": []
+}

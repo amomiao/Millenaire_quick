@@ -1,0 +1,11 @@
+{
+  "music_lightning_strikes": {
+    "category": "records",
+    "sounds": [
+      {
+        "name": "modpack:music/lightning_strikes",
+        "stream": true
+      }
+    ]
+  }
+}

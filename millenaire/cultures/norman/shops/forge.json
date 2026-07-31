@@ -1,0 +1,11 @@
+{
+  "sells": [
+    "norman_axe",
+    "norman_pickaxe",
+    "norman_shovel",
+    "norman_hoe"
+  ],
+  "buys": [],
+  "buys_optional": [],
+  "deliver_to": []
+}

@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "foodprephouse",
+  "category": "houses",
+  "native_name": "Niqi Tupiq",
+  "male": [
+    "inuit_husband"
+  ],
+  "female": [
+    "inuit_chef"
+  ],
+  "icon": "millenaire:inuitbearstew",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 300,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

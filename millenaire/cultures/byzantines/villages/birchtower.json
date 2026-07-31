@@ -1,0 +1,17 @@
+{
+  "culture": "millenaire:byzantines",
+  "biome_tags": [
+    "#c:is_birch_forest"
+  ],
+  "name": "Mono Paratiritio",
+  "weight": 0,
+  "lone_building": true,
+  "radius": 10,
+  "layout": [
+    {
+      "plan": "millenaire:byzantines/birchtower",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

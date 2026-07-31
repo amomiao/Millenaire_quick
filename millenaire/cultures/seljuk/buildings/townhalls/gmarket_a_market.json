@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "gmarket_a_market",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "gmarket",
+    "variant": "a",
+    "level": 2
+  },
+  "is_town_hall": false,
+  "native_name": "Çarşı",
+  "max_count": 0,
+  "tags": [
+    "market"
+  ],
+  "icon": "millenaire:purse",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "market"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 40,
+            "height": 6,
+            "depth": 40
+          },
+          "priority": 1000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 40,
+            "height": 6,
+            "depth": 40
+          },
+          "priority": 200,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 40,
+            "height": 6,
+            "depth": 40
+          },
+          "priority": 120
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "chiefhouse",
+  "converter_skip": true,
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Mukhiya Ka Ghar",
+  "shop": "townhall",
+  "max_count": 0,
+  "male": [
+    "villagechief"
+  ],
+  "female": [
+    "richwoman"
+  ],
+  "tags": [
+    "leisure"
+  ],
+  "icon": "millenaire:decorated_brick_white",
+  "area_to_clear": 5,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 600,
+          "signs": "2,1,3,5,7,8,6,4,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 600,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 580
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 560
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 540
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 520
+        }
+      ],
+      "building_orientation": 1
+    },
+    {
+      "variant": "b",
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 600,
+          "signs": "2,1,3,5,7,8,6,4,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 600,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 13,
+            "depth": 22
+          },
+          "ground_level": -5,
+          "priority": 580
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 17,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 560
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 15,
+            "height": 21,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 540
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 15,
+            "height": 25,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 520
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 15,
+            "height": 29,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 500
+        }
+      ],
+      "building_orientation": 1
+    }
+  ]
+}

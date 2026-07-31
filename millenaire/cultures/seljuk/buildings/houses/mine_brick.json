@@ -1,0 +1,204 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "mine_brick",
+  "category": "houses",
+  "native_name": "Mayın ve Tuğla yapımı",
+  "min_distance": 0.5,
+  "male": [
+    "turk_miner"
+  ],
+  "female": [
+    "turk_peasantwife"
+  ],
+  "tags": [
+    "brickkiln",
+    "nopaths",
+    "ironmine"
+  ],
+  "icon": "minecraft:iron_pickaxe",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -6,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 11,
+            "depth": 17
+          },
+          "priority": 600,
+          "tags": [
+            "brickkiln",
+            "nopaths"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sandstone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 11,
+            "depth": 17
+          },
+          "tags": [
+            "brickkiln",
+            "nopaths"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sand"
+            },
+            {
+              "type": "sandstone"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 14,
+            "depth": 17
+          },
+          "priority": 95,
+          "path_level": 1,
+          "tags": [
+            "brickkiln",
+            "nopaths",
+            "ironmine"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sandstone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 14,
+            "depth": 17
+          },
+          "priority": 90,
+          "tags": [
+            "brickkiln",
+            "nopaths",
+            "ironmine"
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 3,
+      "ground_level": -8,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 13,
+            "depth": 18
+          },
+          "priority": 600,
+          "tags": [
+            "brickkiln",
+            "nopaths"
+          ],
+          "infoSources": [
+            {
+              "type": "sandstone"
+            },
+            {
+              "type": "sand"
+            },
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 18,
+            "height": 13,
+            "depth": 18
+          },
+          "tags": [
+            "brickkiln",
+            "nopaths"
+          ],
+          "infoSources": [
+            {
+              "type": "sand"
+            },
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 18,
+            "height": 16,
+            "depth": 18
+          },
+          "priority": 95,
+          "path_level": 1,
+          "tags": [
+            "brickkiln",
+            "nopaths",
+            "ironmine"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sandstone"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 18,
+            "height": 16,
+            "depth": 18
+          },
+          "priority": 90,
+          "tags": [
+            "brickkiln",
+            "nopaths",
+            "ironmine"
+          ]
+        }
+      ]
+    }
+  ]
+}

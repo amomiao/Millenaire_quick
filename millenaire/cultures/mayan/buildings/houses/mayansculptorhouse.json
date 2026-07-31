@@ -1,0 +1,70 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayansculptorhouse",
+  "category": "houses",
+  "native_name": "Uxul Otoch",
+  "shop": "mayansculptor",
+  "male": [
+    "sculptor"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_statue",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 800,
+          "priority_move_in": 50
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 75
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 70
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 65,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

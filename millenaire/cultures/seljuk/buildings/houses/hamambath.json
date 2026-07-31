@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "hamambath",
+  "category": "houses",
+  "native_name": "Hamam",
+  "tags": [
+    "bath"
+  ],
+  "starting_sub_buildings": [
+    "hamambath_a_female"
+  ],
+  "icon": "minecraft:water_bucket",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "tags": [
+        "bath"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 12,
+            "depth": 21
+          },
+          "priority": 1000,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 12,
+            "depth": 21
+          },
+          "priority": 50
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 13,
+            "depth": 21
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 19,
+            "height": 13,
+            "depth": 21
+          },
+          "priority": 35
+        }
+      ]
+    }
+  ]
+}

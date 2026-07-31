@@ -1,0 +1,82 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "smelter",
+  "category": "houses",
+  "native_name": "Chytírion",
+  "male": [
+    "smelter_byzantine"
+  ],
+  "female": [
+    "artisanwife_byzantine"
+  ],
+  "tags": [
+    "glass"
+  ],
+  "icon": "minecraft:coal",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 7,
+            "depth": 18
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 18,
+            "height": 8,
+            "depth": 18
+          },
+          "priority": 400,
+          "tags": [
+            "glass"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 18,
+            "height": 8,
+            "depth": 18
+          },
+          "priority": 200,
+          "path_level": 1,
+          "tags": [
+            "glass"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 18,
+            "height": 8,
+            "depth": 18
+          },
+          "priority": 150,
+          "tags": [
+            "glass"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 18
+          },
+          "tags": [
+            "glass"
+          ]
+        }
+      ]
+    }
+  ]
+}

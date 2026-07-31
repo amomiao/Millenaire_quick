@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "lonemonastery_dorms",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "lonemonastery",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Thálamos",
+  "male": [
+    "loneabbot_byzantine",
+    "lonemonk_byzantine",
+    "lonemonk_byzantine"
+  ],
+  "tags": [
+    "library"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "library"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 26,
+            "height": 12,
+            "depth": 26
+          }
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "library"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 26,
+            "height": 12,
+            "depth": 26
+          }
+        }
+      ]
+    }
+  ]
+}

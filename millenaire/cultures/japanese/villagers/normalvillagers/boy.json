@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Otokonoko",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_boy0.png",
+    "millenaire:textures/entity/japanese/japanese_boy1.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:child_become_adult",
+    "millenaire:play",
+    "millenaire:play_with_friends",
+    "millenaire:observe_agriculture",
+    "millenaire:observe_construction",
+    "millenaire:observe_smithing",
+    "millenaire:observe_produce_alcohol",
+    "millenaire:observe_produce_food",
+    "millenaire:child_eat_apple"
+  ],
+  "tags": [
+    "child"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:cornflower",
+  "base_attack_strength": 1,
+  "default_weapon": "minecraft:wooden_sword",
+  "alt_native_name": "Danshi",
+  "alt_key": "japanese_teenagermale",
+  "travelbook_held_item": "minecraft:apple"
+}

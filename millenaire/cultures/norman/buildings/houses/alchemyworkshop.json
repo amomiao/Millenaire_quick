@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "alchemyworkshop",
+  "category": "houses",
+  "native_name": "Atelier d'alchimie",
+  "shop": "alchemyworkshop",
+  "male": [
+    "alchemistapprentice"
+  ],
+  "tags": [
+    "worldquest"
+  ],
+  "icon": "minecraft:glass_bottle",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "worldquest"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 12
+          },
+          "priority": 800,
+          "path_level": 1,
+          "infoSoils": [
+            {
+              "crop": "netherwart"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Adivasi Vyaapaari",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_peasant0.png",
+    "millenaire:textures/entity/indian/ml_peasant1.png",
+    "millenaire:textures/entity/indian/ml_peasant2.png",
+    "millenaire:textures/entity/indian/ml_peasant3.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 20,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:turmeric",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:turmeric",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "minecraft:oak_log": 128,
+    "millenaire:rice": 64,
+    "millenaire:turmeric": 16
+  }
+}

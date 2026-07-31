@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "largeinn_a_tavern",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "largeinn",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Taverne",
+  "shop": "tavern",
+  "max_count": 0,
+  "tags": [
+    "drinking",
+    "cider"
+  ],
+  "icon": "millenaire:cider",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "tags": [
+        "drinking",
+        "cider"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 28,
+            "height": 14,
+            "depth": 32
+          }
+        }
+      ]
+    }
+  ]
+}

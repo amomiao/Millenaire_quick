@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Kanan",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_warrior0.png",
+    "millenaire:textures/entity/mayan/mayan_warrior1.png",
+    "millenaire:textures/entity/mayan/mayan_warrior2.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink_cacauhaa",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "hostile",
+    "raider",
+    "noteleport",
+    "archer",
+    "noresurrect",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:bow",
+  "max_health": 30,
+  "tool_needed_classes": [
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 8,
+  "default_weapon": "minecraft:iron_sword",
+  "experience_given": 15
+}

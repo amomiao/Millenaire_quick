@@ -1,0 +1,170 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "fort",
+  "converter_skip": true,
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Qila",
+  "shop": "townhall",
+  "max_count": 0,
+  "male": [
+    "rajputgeneral"
+  ],
+  "female": [
+    "richwoman"
+  ],
+  "tags": [
+    "leisure",
+    "nopaths"
+  ],
+  "icon": "minecraft:diamond_sword",
+  "area_to_clear": 5,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -4,
+      "tags": [
+        "leisure",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 600,
+          "signs": "5,3,1,2,4,6,8,7,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 600,
+          "rebuild_path": true,
+          "extra_simultaneous_wall_constructions": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 580
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 560
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 540
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 520
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 500
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 480,
+          "sub_buildings": [
+            "fort_a_temple"
+          ]
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 460,
+          "sub_buildings": [
+            "fort_a_cistern"
+          ]
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 440,
+          "sub_buildings": [
+            "fort_a_forge",
+            "fort_a_soldierhouse",
+            "fort_a_soldierhouse2"
+          ]
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          }
+        },
+        {
+          "level": 11,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          }
+        },
+        {
+          "level": 12,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          }
+        },
+        {
+          "level": 13,
+          "footprint": {
+            "width": 30,
+            "height": 24,
+            "depth": 40
+          }
+        }
+      ]
+    }
+  ]
+}

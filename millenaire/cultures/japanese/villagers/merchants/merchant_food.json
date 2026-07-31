@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Shokuryo shonin",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_peasant_wife0.png",
+    "millenaire:textures/entity/japanese/japanese_peasant_wife1.png"
+  ],
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 20,
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:ikayaki",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:ikayaki",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "millenaire:rice": 32,
+    "minecraft:wheat": 32,
+    "minecraft:chicken": 8,
+    "minecraft:cooked_cod": 8,
+    "minecraft:egg": 4,
+    "millenaire:udon": 4,
+    "millenaire:ikayaki": 4
+  }
+}

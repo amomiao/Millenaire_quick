@@ -1,0 +1,164 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "playerpalace",
+  "converter_skip": true,
+  "category": "player",
+  "is_town_hall": true,
+  "native_name": "Mahal",
+  "shop": "townhall",
+  "max_count": 0,
+  "tags": [
+    "leisure",
+    "playerth",
+    "nopaths"
+  ],
+  "icon": "minecraft:diamond",
+  "area_to_clear": 5,
+  "random_brick_colours": {
+    "white": [
+      {
+        "color": "white",
+        "weight": 50
+      }
+    ]
+  },
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "leisure",
+        "playerth",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 44,
+            "height": 7,
+            "depth": 32
+          },
+          "priority": 600,
+          "signs": "5,3,1,2,4,6,8,7,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 44,
+            "height": 7,
+            "depth": 32
+          },
+          "priority": 600
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 44,
+            "height": 8,
+            "depth": 32
+          },
+          "priority": 580,
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 44,
+            "height": 8,
+            "depth": 32
+          },
+          "priority": 560
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 44,
+            "height": 8,
+            "depth": 32
+          },
+          "priority": 540
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 44,
+            "height": 9,
+            "depth": 32
+          },
+          "priority": 520,
+          "rebuild_path": true
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 44,
+            "height": 9,
+            "depth": 32
+          },
+          "priority": 500
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 44,
+            "height": 9,
+            "depth": 32
+          },
+          "priority": 480
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 44,
+            "height": 9,
+            "depth": 32
+          },
+          "priority": 460,
+          "rebuild_path": true
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 44,
+            "height": 9,
+            "depth": 32
+          },
+          "priority": 460,
+          "sub_buildings": [
+            "palace_temple"
+          ]
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 44,
+            "height": 18,
+            "depth": 32
+          },
+          "priority": 460
+        },
+        {
+          "level": 11,
+          "footprint": {
+            "width": 44,
+            "height": 18,
+            "depth": 32
+          },
+          "priority": 460,
+          "rebuild_path": true
+        },
+        {
+          "level": 12,
+          "footprint": {
+            "width": 44,
+            "height": 18,
+            "depth": 32
+          },
+          "priority": 460
+        }
+      ],
+      "building_orientation": 1
+    }
+  ]
+}

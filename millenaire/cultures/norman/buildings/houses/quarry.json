@@ -1,0 +1,177 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "quarry",
+  "category": "houses",
+  "native_name": "Carrière",
+  "min_distance": 0.6,
+  "male": [
+    "miner"
+  ],
+  "female": [
+    "wife"
+  ],
+  "icon": "millenaire:norman_pickaxe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -8,
+      "tags": [
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 1000,
+          "abstracted_production": [
+            "sand,16",
+            "cobblestone,128"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "abstracted_production": [
+            "sand,16",
+            "cobblestone,128"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 95,
+          "abstracted_production": [
+            "sand,16",
+            "cobblestone,128"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 90,
+          "path_level": 1,
+          "abstracted_production": [
+            "sand,16",
+            "cobblestone,128",
+            "stone,64"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 85,
+          "abstracted_production": [
+            "sand,16",
+            "cobblestone,128",
+            "stone,64"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 80,
+          "abstracted_production": [
+            "sand,16",
+            "cobblestone,128",
+            "stone,64"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 75,
+          "abstracted_production": [
+            "sand,16",
+            "cobblestone,128",
+            "stone,64"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            },
+            {
+              "type": "sand"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

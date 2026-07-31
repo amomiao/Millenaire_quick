@@ -1,0 +1,83 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Eleveuse bovine",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/norman/female/nor_wife_0.png",
+    "millenaire:textures/entity/norman/female/nor_wife_1.png",
+    "millenaire:textures/entity/norman/female/nor_wife_2.png",
+    "millenaire:textures/entity/norman/female/nor_wife_3.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/female/clothes/nor_housewife_0.png",
+        "millenaire:textures/entity/norman/female/clothes/nor_housewife_1.png",
+        "millenaire:textures/entity/norman/female/clothes/nor_housewife_2.png",
+        "millenaire:textures/entity/norman/female/clothes/nor_housewife_2.png"
+      ],
+      "layer1": [
+        "millenaire:textures/entity/norman/female/hair/nor_blond.png",
+        "millenaire:textures/entity/norman/female/hair/nor_brown.png",
+        "millenaire:textures/entity/norman/female/hair/nor_darkb.png",
+        "millenaire:textures/entity/norman/female/hair/nor_lightb.png",
+        "millenaire:textures/entity/norman/female/hair/nor_red.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:gather_goods",
+    "millenaire:bring_back_home",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:get_goods_for_household",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path",
+    "millenaire:craft_bread",
+    "millenaire:slaughter_cow_norman",
+    "millenaire:craft_tripes"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:beef",
+    "minecraft:cooked_beef",
+    "minecraft:leather",
+    "millenaire:tripes",
+    "minecraft:bone"
+  ],
+  "collect_goods": [
+    "minecraft:leather",
+    "minecraft:beef",
+    "minecraft:cooked_beef",
+    "millenaire:tripes",
+    "minecraft:bone"
+  ],
+  "required_goods": {
+    "minecraft:wheat": 16,
+    "minecraft:beef": 8
+  },
+  "gender": "female",
+  "first_name_list": "women_names",
+  "family_name_list": "family_names",
+  "male_child": "boy",
+  "female_child": "girl",
+  "icon": "millenaire:tripes",
+  "tool_needed_classes": [
+    "shovels",
+    "pickaxes"
+  ],
+  "default_weapon": "minecraft:wooden_axe",
+  "travelbook_held_item": "minecraft:iron_axe",
+  "travelbook_held_item_off_hand": "minecraft:beef"
+}

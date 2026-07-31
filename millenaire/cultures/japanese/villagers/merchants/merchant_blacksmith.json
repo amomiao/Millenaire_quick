@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Kajiya no shōnin",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_crafter0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:japaneseguardplate",
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:japaneseguardplate",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "millenaire:japanese_tachi": 1,
+    "minecraft:iron_pickaxe": 2,
+    "minecraft:iron_axe": 2,
+    "minecraft:iron_shovel": 2,
+    "minecraft:iron_hoe": 2,
+    "millenaire:japaneseguardboots": 1,
+    "millenaire:japaneseguardhelmet": 1,
+    "millenaire:japaneseguardlegs": 1,
+    "millenaire:japaneseguardplate": 1
+  }
+}

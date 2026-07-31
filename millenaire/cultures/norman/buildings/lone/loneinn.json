@@ -1,0 +1,99 @@
+{
+  "converter_skip": true,
+  "culture": "millenaire:norman",
+  "building_id": "loneinn",
+  "category": "lone",
+  "native_name": "Auberge Isolée",
+  "shop": "loneinn",
+  "male": [
+    "innkeepermale"
+  ],
+  "female": [
+    "innkeeperfemale"
+  ],
+  "tags": [
+    "leisure",
+    "market",
+    "drinking",
+    "alembic",
+    "oven"
+  ],
+  "starting_sub_buildings": [
+    "loneinn_a_stall_0"
+  ],
+  "icon": "minecraft:red_bed",
+  "starting_goods": [
+    {
+      "item": "millenaire:cider",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "millenaire:calva",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "millenaire:tripes",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "millenaire:boudin",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 4
+    },
+    {
+      "item": "minecraft:bread",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 9,
+            "depth": 17
+          },
+          "signs": "0,1,2,3,4,5,6,7,8",
+          "tags": [
+            "leisure",
+            "market",
+            "drinking",
+            "alembic"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 13,
+            "height": 9,
+            "depth": 17
+          },
+          "priority": 0,
+          "sub_buildings": [
+            "loneinn_a_stall_1"
+          ],
+          "tags": [
+            "leisure",
+            "market",
+            "drinking",
+            "alembic",
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

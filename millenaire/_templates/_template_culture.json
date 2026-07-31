@@ -1,0 +1,29 @@
+{
+  "_comment": "Skeleton culture definition. Rename the file and drop it under millenaire-custom/cultures/<your_culture_id>/culture.json.",
+  "_id_rules": "Culture ID (the directory name) must be lowercase alphanumeric: [a-z0-9]+. No underscores, no hyphens.",
+  "display_name": "My Culture",
+  "native_language": "en",
+  "known_crops": ["wheat_seeds"],
+  "travel_book": {
+    "_comment": "Category keys shown in the Travel Book. Reuse keys from an existing culture (see cultures/norman/culture.json) unless you add new ones via language files.",
+    "villager_categories": ["leader", "villager"],
+    "building_categories": ["townhall", "house"],
+    "trade_good_categories": ["construction", "agriculture"],
+    "category_icons": {
+      "leader": "minecraft:iron_sword",
+      "villager": "minecraft:bread",
+      "townhall": "minecraft:stone_bricks",
+      "house": "minecraft:oak_planks",
+      "construction": "minecraft:cobblestone",
+      "agriculture": "minecraft:wheat"
+    },
+    "category_names": {
+      "leader": "travelbook.category.leader",
+      "villager": "travelbook.category.villager",
+      "townhall": "travelbook.category.townhall",
+      "house": "travelbook.category.house",
+      "construction": "travelbook.category.construction",
+      "agriculture": "travelbook.category.agriculture"
+    }
+  }
+}

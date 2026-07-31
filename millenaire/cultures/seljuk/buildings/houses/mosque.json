@@ -1,0 +1,103 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "mosque",
+  "category": "houses",
+  "native_name": "Cami",
+  "tags": [
+    "mosque",
+    "nopaths"
+  ],
+  "starting_sub_buildings": [
+    "mosque_a_femaleside"
+  ],
+  "icon": "minecraft:book",
+  "fixed_orientation": "east",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -6,
+      "tags": [
+        "mosque",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 21,
+            "depth": 17
+          },
+          "village_tags": [
+            "mosque_built"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 24,
+            "depth": 17
+          },
+          "path_level": 1,
+          "village_tags": [
+            "mosque_built"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 20,
+            "height": 25,
+            "depth": 17
+          },
+          "priority": 75,
+          "village_tags": [
+            "mosque_built"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 20,
+            "height": 25,
+            "depth": 17
+          },
+          "priority": 70,
+          "sub_buildings": [
+            "mosque_a_archive"
+          ],
+          "village_tags": [
+            "mosque_built"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 20,
+            "height": 25,
+            "depth": 17
+          },
+          "priority": 25,
+          "village_tags": [
+            "mosque_built"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 20,
+            "height": 25,
+            "depth": 17
+          },
+          "priority": 20,
+          "path_level": 2,
+          "village_tags": [
+            "mosque_built"
+          ]
+        }
+      ]
+    }
+  ]
+}

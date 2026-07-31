@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "questcamphouse",
+  "category": "lone",
+  "native_name": "Kanan Otoch",
+  "male": [
+    "questkingwarrior",
+    "questkingwarrior",
+    "questkingscout"
+  ],
+  "tags": [
+    "nopaths",
+    "worldquest"
+  ],
+  "icon": "millenaire:mayan_mace",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 4
+    },
+    {
+      "item": "millenaire:masa",
+      "probability": 1.0,
+      "fixed": 3,
+      "random": 5
+    },
+    {
+      "item": "minecraft:bow",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "minecraft:arrow",
+      "probability": 1.0,
+      "fixed": 16,
+      "random": 32
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 5,
+            "depth": 7
+          }
+        }
+      ]
+    }
+  ]
+}

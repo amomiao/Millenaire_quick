@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:mayan",
+  "biome_tags": [
+    "#c:is_swamp",
+    "#c:is_jungle"
+  ],
+  "name": "Lost Maya Corn Farm",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 15,
+  "layout": [
+    {
+      "plan": "millenaire:mayan/lonemayancornfarm",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

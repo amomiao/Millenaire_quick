@@ -1,0 +1,72 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Mitlik",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_female.png",
+    "millenaire:textures/entity/inuit/inuit_female2.png",
+    "millenaire:textures/entity/inuit/inuit_female3.png",
+    "millenaire:textures/entity/inuit/inuit_female4.png",
+    "millenaire:textures/entity/inuit/inuit_female5.png",
+    "millenaire:textures/entity/inuit/inuit_female6.png"
+  ],
+  "base_scale": 0.75,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:craft_inuit_carving",
+    "millenaire:craft_bone",
+    "millenaire:craft_spade",
+    "millenaire:craft_snow_bricks_from_nothing",
+    "millenaire:craft_icebrick",
+    "millenaire:craft_snowwall",
+    "millenaire:craft_stone_cauldron",
+    "millenaire:craft_arrowinuit"
+  ],
+  "tags": [
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:inuittrident": 4,
+    "millenaire:inuit_carving": 8,
+    "millenaire:furhelmet": 1,
+    "millenaire:furplate": 2,
+    "millenaire:furlegs": 2,
+    "millenaire:furboots": 1,
+    "millenaire:inuitbow": 3,
+    "minecraft:arrow": 64,
+    "millenaire:ulu": 2,
+    "millenaire:wall_hide_hanging": 4,
+    "millenaire:bearmeat_cooked": 12,
+    "millenaire:wolfmeat_cooked": 8,
+    "minecraft:cooked_beef": 4,
+    "minecraft:cooked_cod": 6,
+    "millenaire:seafood_cooked": 3,
+    "millenaire:inuitbearstew": 4,
+    "millenaire:inuitmeatystew": 2,
+    "millenaire:inuitpotatostew": 2
+  },
+  "required_goods": {
+    "minecraft:bone": 20,
+    "minecraft:bone_block": 10
+  },
+  "gender": "female",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "male_child": "inuit_boy",
+  "female_child": "inuit_girl",
+  "icon": "millenaire:inuit_carving",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "millenaire:inuit_carving",
+  "travelbook_held_item_off_hand": "minecraft:bone"
+}

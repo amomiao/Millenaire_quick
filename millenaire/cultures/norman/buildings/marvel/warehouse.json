@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "warehouse",
+  "category": "marvel",
+  "is_town_hall": true,
+  "native_name": "Entrepôt",
+  "shop": "notredame",
+  "max_count": 0,
+  "male": [
+    "architect"
+  ],
+  "tags": [
+    "marvelth"
+  ],
+  "icon": "chest",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "marvelth"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 10,
+            "depth": 24
+          },
+          "priority": 1000,
+          "signs": "10,3,1,2,5,9,8,7,6,4,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 14,
+            "depth": 24
+          }
+        }
+      ]
+    }
+  ]
+}

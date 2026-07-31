@@ -1,0 +1,105 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "sheepfarm",
+  "category": "houses",
+  "native_name": "Boskótopos",
+  "max_count": 2,
+  "min_distance": 0.6,
+  "male": [
+    "shepherd_byzantine"
+  ],
+  "female": [
+    "wife_byzantine"
+  ],
+  "tags": [
+    "sheeps",
+    "oven"
+  ],
+  "icon": "minecraft:mutton",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "sheeps",
+        "oven"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 5,
+            "depth": 19
+          },
+          "village_tags": [
+            "clothes"
+          ],
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            },
+            {
+              "crop": "flower"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "sheep"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 5,
+            "depth": 19
+          },
+          "priority": 400,
+          "village_tags": [
+            "clothes"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 19
+          },
+          "priority": 200,
+          "path_level": 1,
+          "village_tags": [
+            "clothes"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 19
+          },
+          "priority": 150,
+          "village_tags": [
+            "clothes"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 19
+          },
+          "village_tags": [
+            "clothes"
+          ]
+        }
+      ]
+    }
+  ]
+}

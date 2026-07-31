@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "bakery",
+  "category": "special",
+  "native_name": "Boulangerie",
+  "shop": "bakery",
+  "tags": [
+    "bakery",
+    "leisure"
+  ],
+  "icon": "minecraft:bread",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "bakery",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 8
+          },
+          "priority": 800,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 8
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 8
+          },
+          "priority": 75
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 8
+          },
+          "priority": 70,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

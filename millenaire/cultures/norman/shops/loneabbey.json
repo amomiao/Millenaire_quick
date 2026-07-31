@@ -1,0 +1,26 @@
+{
+  "sells": [
+    "bread",
+    "beef_raw",
+    "bookshelf",
+    "dye_red"
+  ],
+  "buys": [
+    "wood",
+    "wood_pine",
+    "wood_birch",
+    "wood_jungle",
+    "wood_acacia",
+    "wood_darkoak",
+    "bone",
+    "winebasic",
+    "norman_shovel"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:bread",
+    "minecraft:beef",
+    "minecraft:bookshelf",
+    "minecraft:red_dye"
+  ]
+}

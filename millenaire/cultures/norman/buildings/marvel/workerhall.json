@@ -1,0 +1,47 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "workerhall",
+  "category": "marvel",
+  "native_name": "Dortoirs",
+  "max_count": 0,
+  "male": [
+    "marvelbuilder",
+    "marvelbuilder",
+    "marvelbuilder",
+    "marvelbuilder",
+    "marvelbuilder",
+    "marvelbuilder",
+    "marvelbuilder",
+    "marvelbuilder"
+  ],
+  "icon": "millenaire:norman_shovel",
+  "far_from_tags": [
+    "marvel,80"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 13
+          },
+          "priority": 10000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 10,
+            "depth": 13
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "sells": [
+    "bread",
+    "tripes",
+    "boudin",
+    "calva",
+    "cider"
+  ],
+  "buys": [
+    "cider_apple",
+    "porkchop_raw",
+    "beef_raw"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

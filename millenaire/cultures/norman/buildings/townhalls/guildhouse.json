@@ -1,0 +1,126 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "guildhouse",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Place du village",
+  "shop": "townhall",
+  "max_count": 0,
+  "male": [
+    "guildmaster"
+  ],
+  "tags": [
+    "leisure"
+  ],
+  "icon": "minecraft:paper",
+  "area_to_clear": 5,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 28,
+            "height": 10,
+            "depth": 24
+          },
+          "priority": 600,
+          "signs": "5,3,1,2,4,0,8,7,6"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 28,
+            "height": 12,
+            "depth": 24
+          },
+          "priority": 600,
+          "native_name": "Hall de la Guilde",
+          "rebuild_path": true,
+          "extra_simultaneous_wall_constructions": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 28,
+            "height": 12,
+            "depth": 24
+          },
+          "priority": 580
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 28,
+            "height": 13,
+            "depth": 24
+          },
+          "priority": 560,
+          "extra_simultaneous_wall_constructions": 2
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 28,
+            "height": 13,
+            "depth": 24
+          },
+          "priority": 540,
+          "path_level": 2,
+          "rebuild_path": true
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 28,
+            "height": 17,
+            "depth": 24
+          },
+          "priority": 520
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 28,
+            "height": 17,
+            "depth": 24
+          },
+          "priority": 500
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 28,
+            "height": 25,
+            "depth": 24
+          },
+          "priority": 480
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 28,
+            "height": 25,
+            "depth": 24
+          },
+          "priority": 460
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 28,
+            "height": 25,
+            "depth": 24
+          },
+          "priority": 440
+        }
+      ]
+    }
+  ]
+}

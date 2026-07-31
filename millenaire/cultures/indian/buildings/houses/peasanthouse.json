@@ -1,0 +1,232 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "peasanthouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Kisaan Ka Ghar",
+  "max_count": 4,
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "minecraft:iron_shovel",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 40,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 25,
+          "rebuild_path": true
+        }
+      ],
+      "building_orientation": 2
+    },
+    {
+      "variant": "b",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 1000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 200,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 190
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 180,
+          "rebuild_path": true,
+          "tags": [
+            "chicken",
+            "oven"
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 85,
+          "tags": [
+            "chicken",
+            "oven"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 80,
+          "tags": [
+            "chicken",
+            "oven"
+          ]
+        }
+      ],
+      "building_orientation": 2
+    },
+    {
+      "variant": "c",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 9
+          },
+          "priority": 1000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 9
+          },
+          "priority": 200,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 9
+          },
+          "priority": 190
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 9
+          },
+          "priority": 180,
+          "rebuild_path": true,
+          "tags": [
+            "chicken",
+            "oven"
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 9
+          },
+          "priority": 85,
+          "tags": [
+            "chicken",
+            "oven"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 80,
+          "tags": [
+            "chicken",
+            "oven"
+          ]
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

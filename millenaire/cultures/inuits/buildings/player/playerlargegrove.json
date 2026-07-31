@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "playerlargegrove",
+  "category": "player",
+  "native_name": "Napaaqtuq Nuna",
+  "max_count": 0,
+  "icon": "minecraft:birch_fence",
+  "price": 2816,
+  "reputation": 3200,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 4,
+            "depth": 18
+          },
+          "priority": 3000,
+          "infoTreeSpawns": [
+            {
+              "sapling": "pine"
+            },
+            {
+              "sapling": "birch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesehut",
+  "category": "player",
+  "native_name": "Mokuzoukaoku",
+  "max_count": 0,
+  "icon": "millenaire:denier",
+  "price": 1600,
+  "reputation": 1024,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 15
+          },
+          "priority": 1000000
+        }
+      ]
+    }
+  ]
+}

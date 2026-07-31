@@ -1,0 +1,42 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "guardroom",
+  "category": "marvel",
+  "native_name": "Salle de garde",
+  "max_count": 0,
+  "male": [
+    "guard",
+    "guard",
+    "guard",
+    "guard",
+    "guard",
+    "guard"
+  ],
+  "icon": "minecraft:iron_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 13
+          },
+          "priority": 10000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 10,
+            "depth": 13
+          }
+        }
+      ]
+    }
+  ]
+}

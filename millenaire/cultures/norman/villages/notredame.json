@@ -1,0 +1,54 @@
+{
+  "culture": "millenaire:norman",
+  "biome_tags": [
+    "#c:is_plains",
+    "#c:is_forest"
+  ],
+  "name": "Notre Dame",
+  "weight": 0,
+  "namelist": "notredame",
+  "layout": [
+    {
+      "plan": "millenaire:norman/warehouse",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:norman/workerhall",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:norman/abbaye",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:norman/largeguardhouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:norman/largeinn",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:norman/residence",
+      "role": "core"
+    }
+  ],
+  "buying_price_overrides": {
+    "timber_frame_plain": 20,
+    "timber_frame_cross": 24
+  },
+  "icon": "millenaire:rosette",
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathslabs"
+  ],
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:sc,Color:11},{Pattern:sc,Color:11},{Pattern:sc,Color:11}]}}"
+  ],
+  "max_simultaneous_constructions": 6,
+  "radius": 140,
+  "special_type": "marvel",
+  "allow_extra_buildings": false
+}

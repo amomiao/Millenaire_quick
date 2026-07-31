@@ -1,0 +1,35 @@
+{
+  "handler": "smelting",
+  "priority": 150,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "maxSimultaneousInBuilding": 1,
+  "itemsBalance": {
+    "millenaire:mud_brick": "millenaire:painted_brick_white"
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "millenaire:mud_brick",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "millenaire:painted_brick_white",
+        "count": 1
+      }
+    ],
+    "buildingTag": "brickkiln",
+    "minimumToCook": 8
+  },
+  "sentenceKey": "cookbrick",
+  "labelKey": "cookbrick",
+  "heldItems": [
+    "millenaire:mud_brick"
+  ]
+}

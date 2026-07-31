@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:mayan",
+  "biome_tags": [
+    "#c:is_jungle",
+    "#c:is_dark_forest"
+  ],
+  "name": "Lost Stone Mine",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 15,
+  "layout": [
+    {
+      "plan": "millenaire:mayan/lonemayanmining",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

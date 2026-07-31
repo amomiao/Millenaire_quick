@@ -1,0 +1,37 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 800,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "minecraft:iron_sword": 2
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "requiredTag": "armoury",
+    "inputs": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 2
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:iron_sword",
+        "count": 1
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:iron_ingot",
+    "minecraft:iron_sword"
+  ],
+  "sentenceKey": "makesteelweapons",
+  "sound": "metal",
+  "tag": "tag_smithing"
+}

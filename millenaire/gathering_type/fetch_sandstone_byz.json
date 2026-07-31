@@ -1,0 +1,21 @@
+{
+  "handler": "take_from_building",
+  "priority": 100,
+  "priorityRandom": 20,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 1,
+  "actionCooldown": 20,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "buildingTag": "centralworkshop",
+    "collectGood": "minecraft:sandstone",
+    "maxCollect": 256,
+    "minimumPickup": 128
+  },
+  "sentenceKey": "takefrombuilding",
+  "labelKey": "takefrombuilding"
+}

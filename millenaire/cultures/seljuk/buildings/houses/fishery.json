@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "fishery",
+  "category": "houses",
+  "native_name": "Balıkçılık",
+  "shop": "fishery",
+  "min_distance": 0.5,
+  "male": [
+    "turk_fisherman"
+  ],
+  "female": [
+    "turk_peasantwife"
+  ],
+  "tags": [
+    "fishingspot"
+  ],
+  "icon": "minecraft:fishing_rod",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -5,
+      "tags": [
+        "fishingspot"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 24,
+            "height": 10,
+            "depth": 24
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 24,
+            "height": 10,
+            "depth": 24
+          },
+          "priority": 180
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 24,
+            "height": 10,
+            "depth": 24
+          },
+          "priority": 110,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Lakarhara",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_lumberman0.png",
+    "millenaire:textures/entity/indian/ml_lumberman1.png",
+    "millenaire:textures/entity/indian/ml_lumberman2.png",
+    "millenaire:textures/entity/indian/ml_lumberman3.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:chop_trees",
+    "millenaire:plant_saplings",
+    "millenaire:gather_goods",
+    "millenaire:bring_back_home",
+    "millenaire:craft_woodenbars"
+  ],
+  "tags": [
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:oak_sapling": 10
+  },
+  "bring_back_home_goods": [
+    "minecraft:oak_log",
+    "minecraft:spruce_log",
+    "minecraft:birch_log",
+    "minecraft:jungle_log",
+    "minecraft:acacia_log",
+    "minecraft:dark_oak_log"
+  ],
+  "collect_goods": [
+    "minecraft:oak_log",
+    "minecraft:spruce_log",
+    "minecraft:birch_log",
+    "minecraft:jungle_log",
+    "minecraft:acacia_log",
+    "minecraft:dark_oak_log",
+    "minecraft:oak_sapling",
+    "minecraft:spruce_sapling",
+    "minecraft:birch_sapling",
+    "minecraft:jungle_sapling",
+    "minecraft:acacia_sapling",
+    "minecraft:dark_oak_sapling"
+  ],
+  "required_goods": {
+    "minecraft:acacia_log": 5
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:iron_axe",
+  "tool_needed_classes": [
+    "axes"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "hiring_cost": "16",
+  "travelbook_held_item": "minecraft:iron_axe",
+  "travelbook_held_item_off_hand": "minecraft:acacia_log"
+}

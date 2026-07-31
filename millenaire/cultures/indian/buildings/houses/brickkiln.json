@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "brickkiln",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Int Bhatta",
+  "min_distance": 0.6,
+  "tags": [
+    "brickkiln"
+  ],
+  "icon": "millenaire:mud_brick",
+  "random_brick_colours": {
+    "white": [
+      {
+        "color": "white",
+        "weight": 50
+      },
+      {
+        "color": "light_gray",
+        "weight": 30
+      }
+    ]
+  },
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "brickkiln"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 5,
+            "depth": 13
+          },
+          "priority": 1000,
+          "path_width": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 5,
+            "depth": 13
+          },
+          "priority": 1000
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 5,
+            "depth": 13
+          }
+        }
+      ],
+      "building_orientation": 3
+    }
+  ]
+}

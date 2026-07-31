@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesemarket",
+  "category": "houses",
+  "native_name": "Ichiba",
+  "tags": [
+    "market",
+    "leisure"
+  ],
+  "icon": "millenaire:purse",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "tags": [
+        "market",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 25,
+            "height": 8,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 600,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 25,
+            "height": 8,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 60
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 25,
+            "height": 8,
+            "depth": 22
+          },
+          "ground_level": -1,
+          "priority": 55
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 25,
+            "height": 9,
+            "depth": 22
+          },
+          "ground_level": -2,
+          "priority": 50,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

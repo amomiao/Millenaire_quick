@@ -1,0 +1,163 @@
+{
+  "culture": "millenaire:seljuk",
+  "biome_tags": [
+    "#c:is_desert",
+    "#c:is_savanna"
+  ],
+  "name": "Küçük Sanat Köyü",
+  "weight": 10,
+  "layout": [
+    {
+      "plan": "millenaire:seljuk/hamlettownhall",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:seljuk/lumbermanshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/fishery",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/imamshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/stonecraftsman",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mine_brick",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/smallmosque",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousegift",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/kitchen",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/sheepfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/weaver",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/market",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/barrackssmall",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/toolsmith",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/abdesthane",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/cesme",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/node",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplant",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplantsmall",
+      "role": "secondary"
+    }
+  ],
+  "selling_price_overrides": {
+    "cotton": 8,
+    "wheat": 4,
+    "bread": 12,
+    "yogurt": 14,
+    "ayran": 25,
+    "wall_carpet_large": 384,
+    "wall_carpet_medium": 320,
+    "wall_carpet_small": 256,
+    "clothes_seljuk_cotton": 256,
+    "clothes_seljuk_wool": 128
+  },
+  "buying_price_overrides": {
+    "cotton": 5,
+    "wheat": 3,
+    "bread": 10,
+    "yogurt": 11,
+    "ayran": 23,
+    "mud_brick": 2,
+    "mudbrick_seljuk_ornamented": 4,
+    "mudbrick_seljuk_decorated": 10
+  },
+  "icon": "millenaire:brick_mould",
+  "carries_raid": true,
+  "hill_qualifier": "Tepede",
+  "mountain_qualifier": "Dağda",
+  "desert_qualifier": "Çölde",
+  "forest_qualifier": "Ormanda",
+  "lava_qualifier": "Yanar",
+  "lake_qualifier": "Gölde",
+  "ocean_qualifier": "Denizli",
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "player_buildings": [
+    "millenaire:seljuk/playersmall1",
+    "millenaire:seljuk/playersmall2",
+    "millenaire:seljuk/playerhousesmall",
+    "millenaire:seljuk/playerhousemed",
+    "millenaire:seljuk/playerhousemed2"
+  ],
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:sjkr,Color:12}]}}"
+  ],
+  "radius": 70,
+  "never": [
+    "golgealti",
+    "pistachiotrees",
+    "sugarcanefarm",
+    "watchtower",
+    "mosque",
+    "armoury",
+    "inn",
+    "hamambath",
+    "barracks",
+    "cowfarm",
+    "cottonfield",
+    "cottonfarm",
+    "olivefarm",
+    "passnode"
+  ]
+}

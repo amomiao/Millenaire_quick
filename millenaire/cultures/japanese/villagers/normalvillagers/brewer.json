@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Touji",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_brewer.png"
+  ],
+  "base_scale": 0.93,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:patrol",
+    "millenaire:bring_back_home",
+    "millenaire:craft_sake"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:rice": 30
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:sake",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 7,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "millenaire:sake"
+}

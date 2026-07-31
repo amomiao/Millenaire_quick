@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "oldsheepfarm",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Apomonomeno Boske Probaton",
+  "shop": "specialshop",
+  "male": [
+    "oldshepherd_byzantine"
+  ],
+  "tags": [
+    "sheeps",
+    "autospawnvillagers"
+  ],
+  "icon": "minecraft:white_wool",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "sheeps",
+        "autospawnvillagers"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 6,
+            "depth": 12
+          },
+          "sub_buildings": [
+            "oldsheepfarm_a_special"
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "sheep"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Tunisiruq",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_male.png",
+    "millenaire:textures/entity/inuit/inuit_male2.png",
+    "millenaire:textures/entity/inuit/inuit_male4.png",
+    "millenaire:textures/entity/inuit/inuit_male5.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png",
+    "millenaire:textures/entity/inuit/inuit_male8.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:visit_inn",
+    "millenaire:visit_building"
+  ],
+  "tags": [
+    "visitor",
+    "localmerchant"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:purse",
+  "travelbook_held_item": "millenaire:purse"
+}

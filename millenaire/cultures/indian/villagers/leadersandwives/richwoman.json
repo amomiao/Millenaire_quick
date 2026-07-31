@@ -1,0 +1,27 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Malkin",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_rich_woman0.png",
+    "millenaire:textures/entity/indian/ml_rich_woman1.png",
+    "millenaire:textures/entity/indian/ml_rich_woman2.png",
+    "millenaire:textures/entity/indian/ml_rich_woman3.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "high_caste_women_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "minecraft:diamond"
+}

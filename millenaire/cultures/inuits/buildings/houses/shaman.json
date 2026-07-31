@@ -1,0 +1,49 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "shaman",
+  "category": "houses",
+  "native_name": "Angakok Tupiq",
+  "male": [
+    "inuit_shaman0"
+  ],
+  "icon": "minecraft:bone_block",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 7,
+            "depth": 12
+          },
+          "priority": 300,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 7,
+            "depth": 12
+          },
+          "priority": 60
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 7,
+            "depth": 12
+          },
+          "priority": 35,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

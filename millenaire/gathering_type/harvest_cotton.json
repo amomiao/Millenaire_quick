@@ -1,0 +1,32 @@
+{
+  "handler": "harvesting",
+  "priority": 40,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 16,
+  "actionCooldown": 10,
+  "stuckTimeout": 4000,
+  "arrivalRange": 8,
+  "walkSpeed": 0.6,
+  "villageLimit": {
+    "millenaire:cotton": 256
+  },
+  "maxSimultaneousInBuilding": 1,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "reoccurDelay": -1,
+  "handlerParams": {
+    "targetBlock": "millenaire:crop_cotton",
+    "targetState": {
+      "age": 7
+    },
+    "soilSubtype": "cotton",
+    "buildingTag": "cottonfield",
+    "irrigationBonusCrop": "millenaire:cotton"
+  },
+  "sentenceKey": "harvestcotton",
+  "labelKey": "harvestcotton",
+  "heldItems": [
+    "millenaire:cotton"
+  ]
+}

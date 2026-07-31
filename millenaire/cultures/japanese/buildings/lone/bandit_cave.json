@@ -1,0 +1,73 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "bandit_cave",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Iwamuro No Hito",
+  "male": [
+    "bandit",
+    "bandit"
+  ],
+  "icon": "minecraft:iron_sword",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 50
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:japanese_tachi",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_leggings",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_helmet",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:rice",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 8
+    },
+    {
+      "item": "millenaire:udon",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 4
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 13,
+            "depth": 19
+          }
+        }
+      ]
+    }
+  ]
+}

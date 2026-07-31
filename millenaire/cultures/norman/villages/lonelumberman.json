@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:norman",
+  "biome_tags": [
+    "#c:is_forest",
+    "#c:is_birch_forest"
+  ],
+  "name": "Bûcheron solitaire",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 30,
+  "layout": [
+    {
+      "plan": "millenaire:norman/lonelumbermanhut",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:norman/lonegrove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:norman/loneorchard",
+      "role": "core"
+    }
+  ],
+  "path_materials": [
+    "pathdirt"
+  ],
+  "allow_extra_buildings": false
+}

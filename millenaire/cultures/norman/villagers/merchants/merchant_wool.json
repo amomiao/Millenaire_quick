@@ -1,0 +1,61 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Marchand de textiles",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_nobleman_0.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_1.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_2.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_3.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_4.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_5.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_6.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_7.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_8.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_9.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_merchwool_0.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "merchant_wool_first_names",
+  "family_name_list": "merchant_wool_family_names",
+  "icon": "minecraft:red_wool",
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:red_wool",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "minecraft:cactus": 64,
+    "minecraft:white_wool": 64,
+    "minecraft:orange_wool": 64,
+    "minecraft:magenta_wool": 64,
+    "minecraft:light_blue_wool": 64,
+    "minecraft:yellow_wool": 64,
+    "minecraft:green_wool": 64,
+    "minecraft:pink_wool": 64,
+    "minecraft:gray_wool": 64,
+    "minecraft:light_gray_wool": 64,
+    "minecraft:cyan_wool": 64,
+    "minecraft:purple_wool": 64,
+    "minecraft:blue_wool": 64,
+    "minecraft:brown_wool": 64,
+    "minecraft:red_wool": 64,
+    "minecraft:black_wool": 64,
+    "minecraft:lime_wool": 64
+  }
+}

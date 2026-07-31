@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbey_a_cell_1",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "abbey",
+    "variant": "a",
+    "level": 3
+  },
+  "is_town_hall": false,
+  "native_name": "Cellule de moine",
+  "max_count": 0,
+  "male": [
+    "monk"
+  ],
+  "icon": "minecraft:book",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 32,
+            "height": 2,
+            "depth": 32
+          },
+          "priority": 5000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "playerlargehouse",
+  "category": "player",
+  "native_name": "Sugruk Tupiq",
+  "max_count": 0,
+  "icon": "millenaire:denier_or",
+  "price": 6142,
+  "reputation": 24576,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 3000
+        }
+      ]
+    }
+  ]
+}

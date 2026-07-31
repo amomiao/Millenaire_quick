@@ -1,0 +1,59 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanlargepeasanthouse",
+  "category": "houses",
+  "native_name": "Hach Noh Otoch",
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_shovel",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 13,
+            "depth": 15
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 12,
+            "depth": 15
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 12,
+            "depth": 15
+          },
+          "priority": 70,
+          "sub_buildings": [
+            "mayanlargepeasanthouse_a_secondary"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 13,
+            "depth": 15
+          }
+        }
+      ]
+    }
+  ]
+}

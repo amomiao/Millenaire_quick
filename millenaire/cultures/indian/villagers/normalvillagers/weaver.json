@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Julaaha",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_scultor0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_carpet_white",
+    "millenaire:craft_carpet_blue",
+    "millenaire:craft_carpet_red",
+    "millenaire:craft_dyewool_red",
+    "millenaire:craft_dyewool_blue",
+    "millenaire:craft_woolfromcotton",
+    "millenaire:craft_bannercotton"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:cotton": 32,
+    "minecraft:white_wool": 64,
+    "minecraft:light_blue_dye": 8,
+    "minecraft:red_dye": 8
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:cotton",
+  "items_needed": [
+    "minecraft:iron_sword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:cotton",
+  "travelbook_held_item_off_hand": "minecraft:white_wool"
+}

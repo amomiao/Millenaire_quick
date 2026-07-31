@@ -1,0 +1,34 @@
+{
+  "sells": [
+    "wool_white",
+    "clothes_seljuk_wool",
+    "clothes_seljuk_cotton",
+    "seljukturban",
+    "wall_carpet_small",
+    "wall_carpet_medium",
+    "wall_carpet_large",
+    "wool_cyan",
+    "wool_blue",
+    "wool_red",
+    "wool_green",
+    "carpet_green",
+    "carpet_lightblue",
+    "carpet_blue",
+    "carpet_cyan",
+    "carpet_red",
+    "carpet_white"
+  ],
+  "buys": [
+    "string",
+    "leather",
+    "wool_white",
+    "cotton"
+  ],
+  "buys_optional": [
+    "dye_light_blue",
+    "dye_red",
+    "dye_green",
+    "dye_yellow"
+  ],
+  "deliver_to": []
+}

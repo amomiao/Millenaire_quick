@@ -1,0 +1,47 @@
+{
+  "display_name": "Indian",
+  "native_language": "hi",
+  "map_icon": "millenaire:village_indian",
+  "culture_banner_nbt": "{BlockEntityTag:{Base:11,Patterns:[{Pattern:ind,Color:1}]}}",
+  "panel_texture": "millenaire:textures/entity/panels/indian.png",
+  "known_crops": ["rice", "turmeric", "cotton"],
+  "travel_book": {
+    "villager_categories": ["leader", "villager", "lonevillager", "visitor"],
+    "building_categories": ["townhall", "house", "othervillage", "lonebuilding", "playerbuilding"],
+    "trade_good_categories": ["construction", "agriculture", "crafting", "tools", "weapons", "playeritem"],
+    "category_icons": {
+      "leader": "minecraft:iron_sword",
+      "villager": "minecraft:bread",
+      "lonevillager": "minecraft:compass",
+      "visitor": "minecraft:map",
+      "townhall": "minecraft:sandstone",
+      "house": "minecraft:terracotta",
+      "othervillage": "minecraft:barrel",
+      "lonebuilding": "minecraft:lantern",
+      "playerbuilding": "minecraft:gold_ingot",
+      "construction": "minecraft:sandstone",
+      "agriculture": "millenaire:turmeric",
+      "crafting": "minecraft:crafting_table",
+      "tools": "minecraft:iron_pickaxe",
+      "weapons": "minecraft:iron_sword",
+      "playeritem": "minecraft:gold_ingot"
+    },
+    "category_names": {
+      "leader": "travelbook.category.leader",
+      "villager": "travelbook.category.villager",
+      "lonevillager": "travelbook.category.lonevillager",
+      "visitor": "travelbook.category.visitor",
+      "townhall": "travelbook.category.townhall",
+      "house": "travelbook.category.house",
+      "othervillage": "travelbook.category.othervillage",
+      "lonebuilding": "travelbook.category.lonebuilding",
+      "playerbuilding": "travelbook.category.playerbuilding",
+      "construction": "travelbook.category.construction",
+      "agriculture": "travelbook.category.agriculture",
+      "crafting": "travelbook.category.crafting",
+      "tools": "travelbook.category.tools",
+      "weapons": "travelbook.category.weapons",
+      "playeritem": "travelbook.category.playeritem"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanwell",
+  "category": "nodes",
+  "native_name": "Ch’en",
+  "tags": [
+    "pathnode",
+    "leisure"
+  ],
+  "icon": "minecraft:water_bucket",
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -4,
+      "tags": [
+        "pathnode",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 6,
+            "height": 9,
+            "depth": 6
+          },
+          "priority": 1000,
+          "irrigation": 5,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

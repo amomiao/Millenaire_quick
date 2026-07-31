@@ -1,0 +1,90 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "gmarket",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Büyük Çarşı",
+  "shop": "townhall",
+  "max_count": 0,
+  "male": [
+    "turk_richtrader"
+  ],
+  "female": [
+    "turk_richwoman"
+  ],
+  "tags": [
+    "leisure",
+    "patrol"
+  ],
+  "starting_sub_buildings": [
+    "gmarket_a_inn"
+  ],
+  "icon": "millenaire:purse",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "leisure",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 40,
+            "height": 10,
+            "depth": 40
+          },
+          "priority": 1000,
+          "signs": "2,1,3,5,7,8,6,4,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 40,
+            "height": 10,
+            "depth": 40
+          },
+          "priority": 900,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 40,
+            "height": 10,
+            "depth": 40
+          },
+          "priority": 750,
+          "sub_buildings": [
+            "gmarket_a_market"
+          ],
+          "path_level": 1,
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 40,
+            "height": 10,
+            "depth": 40
+          },
+          "priority": 320
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 40,
+            "height": 10,
+            "depth": 40
+          },
+          "priority": 200,
+          "path_level": 2,
+          "rebuild_path": true
+        }
+      ]
+    }
+  ]
+}

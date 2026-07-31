@@ -1,0 +1,77 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "sakebrewery",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Tsukurizakaya",
+  "shop": "japanesetownhall",
+  "max_count": 0,
+  "male": [
+    "brewer"
+  ],
+  "female": [
+    "brewerwife"
+  ],
+  "tags": [
+    "oven"
+  ],
+  "icon": "millenaire:sake",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "oven"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 26,
+            "height": 13,
+            "depth": 30
+          },
+          "priority": 600,
+          "signs": "3,1,2,0,5,7,8,6,4"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 26,
+            "height": 13,
+            "depth": 30
+          },
+          "priority": 580
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 26,
+            "height": 13,
+            "depth": 30
+          },
+          "priority": 560
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 26,
+            "height": 13,
+            "depth": 30
+          },
+          "priority": 540
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 26,
+            "height": 13,
+            "depth": 30
+          },
+          "priority": 520
+        }
+      ]
+    }
+  ]
+}

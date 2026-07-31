@@ -1,0 +1,79 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "chapel",
+  "category": "uninhabited",
+  "native_name": "Parekklísi",
+  "tags": [
+    "praying"
+  ],
+  "icon": "millenaire:wall_byzantine_icon_medium",
+  "fixed_orientation": "south",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "praying"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 19
+          },
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 19
+          },
+          "priority": 400
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 19
+          },
+          "priority": 210,
+          "path_level": 2
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 19
+          },
+          "priority": 190
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 16,
+            "height": 14,
+            "depth": 19
+          },
+          "priority": 110
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 16,
+            "height": 14,
+            "depth": 19
+          },
+          "priority": 90
+        }
+      ]
+    }
+  ]
+}

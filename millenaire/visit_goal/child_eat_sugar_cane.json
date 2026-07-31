@@ -1,0 +1,20 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "sugarplantation",
+  "requiredTag": null,
+  "basePriority": 0,
+  "priorityRandom": 15,
+  "durationTicks": 20000,
+  "reoccurDelayTicks": 600000,
+  "allowRandomMoves": true,
+  "leisure": true,
+  "targetPosType": null,
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "heldItems": null,
+  "heldItemsDestination": [
+    "minecraft:sugar_cane"
+  ],
+  "goalKey": "child_eat_sugar_cane"
+}

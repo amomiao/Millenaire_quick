@@ -1,0 +1,26 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Aj K'in",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_shaman0.png",
+    "millenaire:textures/entity/mayan/mayan_shaman1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:tend_sacrifices",
+    "millenaire:perform_pujas",
+    "millenaire:be_puja_performer"
+  ],
+  "tags": [
+    "religious",
+    "performssacrifices"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "minecraft:red_mushroom"
+}

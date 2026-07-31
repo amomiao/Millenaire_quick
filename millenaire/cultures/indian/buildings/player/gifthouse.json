@@ -1,0 +1,27 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "gifthouse",
+  "category": "player",
+  "native_name": "Uphar Ghar",
+  "max_count": 0,
+  "icon": "minecraft:cake",
+  "is_gift": true,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 9,
+            "depth": 10
+          },
+          "priority": 1000000
+        }
+      ]
+    }
+  ]
+}

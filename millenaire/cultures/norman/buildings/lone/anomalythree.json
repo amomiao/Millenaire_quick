@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "anomalythree",
+  "category": "lone",
+  "native_name": "Anomalie Trois",
+  "tags": [
+    "worldquest"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "worldquest"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 12,
+            "depth": 30
+          }
+        }
+      ]
+    }
+  ]
+}

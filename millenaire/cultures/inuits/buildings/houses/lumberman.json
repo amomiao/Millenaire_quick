@@ -1,0 +1,52 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "lumberman",
+  "category": "houses",
+  "native_name": "Qirriuqtuq Tupiq",
+  "max_count": 2,
+  "min_distance": 0.3,
+  "male": [
+    "inuit_lumberman"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "icon": "minecraft:stone_axe",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 5,
+            "depth": 9
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 9
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 5,
+            "height": 8,
+            "depth": 9
+          },
+          "priority": 40,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

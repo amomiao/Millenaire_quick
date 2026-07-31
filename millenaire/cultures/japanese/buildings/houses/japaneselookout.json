@@ -1,0 +1,110 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japaneselookout",
+  "category": "houses",
+  "native_name": "Bourou",
+  "min_distance": 0.8,
+  "tags": [
+    "patrol"
+  ],
+  "icon": "torch",
+  "far_from_tags": [
+    "patrol,50"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 7,
+            "depth": 13
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 17,
+            "height": 7,
+            "depth": 13
+          },
+          "priority": 90
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 17,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 85
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 17,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 80,
+          "path_level": 1
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 13
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 13
+          },
+          "priority": 90
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 13
+          },
+          "priority": 85
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 13,
+            "height": 12,
+            "depth": 13
+          },
+          "priority": 80,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

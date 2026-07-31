@@ -1,0 +1,72 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "armoury",
+  "category": "houses",
+  "native_name": "Cephanelik",
+  "shop": "armoury",
+  "male": [
+    "turk_armourysmith"
+  ],
+  "female": [
+    "turk_peasantwife"
+  ],
+  "tags": [
+    "armoury",
+    "forge",
+    "patrol"
+  ],
+  "icon": "millenaire:seljuk_chestplate",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "armoury",
+        "forge",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 7,
+            "depth": 16
+          },
+          "priority": 350,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 7,
+            "depth": 16
+          },
+          "priority": 200,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 180
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 120
+        }
+      ]
+    }
+  ]
+}

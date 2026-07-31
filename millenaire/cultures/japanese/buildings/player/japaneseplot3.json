@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japaneseplot3",
+  "category": "player",
+  "native_name": "Eki Tochi",
+  "max_count": 0,
+  "icon": "minecraft:oak_fence",
+  "price": 4096,
+  "reputation": 4096,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 2,
+            "depth": 16
+          },
+          "priority": 1000000,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

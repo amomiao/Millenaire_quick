@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "K'as Aj",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayanfemalebandit0.png",
+    "millenaire:textures/entity/mayan/mayanfemalebandit1.png"
+  ],
+  "base_scale": 0.8,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink_cacauhaa",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "hostile",
+    "archer",
+    "raider",
+    "noteleport",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64
+  },
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:mayan_mace",
+  "max_health": 15,
+  "tool_needed_classes": [
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 6,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 10,
+  "travelbook_held_item": "millenaire:mayan_mace"
+}

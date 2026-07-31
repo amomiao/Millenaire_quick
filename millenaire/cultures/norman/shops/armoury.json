@@ -1,0 +1,13 @@
+{
+  "sells": [
+    "norman_helmet",
+    "norman_chestplate",
+    "norman_leggings",
+    "norman_boots",
+    "norman_sword",
+    "bow"
+  ],
+  "buys": [],
+  "buys_optional": [],
+  "deliver_to": []
+}

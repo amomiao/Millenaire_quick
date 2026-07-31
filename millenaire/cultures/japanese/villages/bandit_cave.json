@@ -1,0 +1,26 @@
+{
+  "culture": "millenaire:japanese",
+  "name": "Iwamuro no Hito",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 20,
+  "min_distance_from_spawn": 600,
+  "show_town_hall_signs": true,
+  "biome_tags": [
+    "#c:is_mountain",
+    "#c:is_forest",
+    "minecraft:taiga",
+    "minecraft:dark_forest",
+    "minecraft:jagged_peaks",
+    "#c:is_plains",
+    "#c:is_jungle"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:japanese/bandit_cave",
+      "role": "centre"
+    }
+  ],
+  "carries_raid": true,
+  "allow_extra_buildings": false
+}

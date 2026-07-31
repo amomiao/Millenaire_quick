@@ -1,0 +1,47 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Dame",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/norman/female/nor_lady_0.png",
+    "millenaire:textures/entity/norman/female/nor_lady_1.png",
+    "millenaire:textures/entity/norman/female/nor_lady_2.png",
+    "millenaire:textures/entity/norman/female/nor_lady_3.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/female/clothes/nor_dame_0.png",
+        "millenaire:textures/entity/norman/female/clothes/nor_dame_1.png",
+        "millenaire:textures/entity/norman/female/clothes/nor_dame_2.png"
+      ],
+      "layer1": [
+        "millenaire:textures/entity/norman/female/hair/nor_blond.png",
+        "millenaire:textures/entity/norman/female/hair/nor_brown.png",
+        "millenaire:textures/entity/norman/female/hair/nor_darkb.png",
+        "millenaire:textures/entity/norman/female/hair/nor_lightb.png",
+        "millenaire:textures/entity/norman/female/hair/nor_red.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_tapestry",
+    "millenaire:gardening_norman"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "women_names",
+  "family_name_list": "noble_family_names",
+  "icon": "millenaire:wall_tapestry",
+  "travelbook_held_item": "millenaire:wall_tapestry",
+  "travelbook_held_item_off_hand": "minecraft:white_wool"
+}

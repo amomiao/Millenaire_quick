@@ -1,0 +1,64 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Modistros",
+  "textures": [
+    "millenaire:textures/entity/byzanz/male/byz.peasant.a.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.b.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.c.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.d.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.e.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.f.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.g.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.h.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.i.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.j.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.k.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/male/clothes/byz.miner.1.a.png",
+        "millenaire:textures/entity/byzanz/male/clothes/byz.miner.1.b.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/male/clothes/byz.miner.2.a.png",
+        "millenaire:textures/entity/byzanz/male/clothes/byz.miner.2.b.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:listen_to_speech_2",
+    "millenaire:craft_carpetyellow",
+    "millenaire:craft_carpetpurple",
+    "millenaire:craft_icon_small",
+    "millenaire:craft_icon_medium",
+    "millenaire:craft_icon_large"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:silk": 64,
+    "minecraft:white_wool": 128,
+    "minecraft:purple_dye": 128,
+    "minecraft:yellow_dye": 128
+  },
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:byzantine_tiles_slab",
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 5,
+  "experience_given": 5
+}

@@ -1,0 +1,21 @@
+{
+  "culture": "millenaire:norman",
+  "biome_tags": [
+    "#c:is_plains",
+    "#c:is_forest"
+  ],
+  "name": "Auberge isolée",
+  "weight": 10,
+  "lone_building": true,
+  "namelist": "loneinns",
+  "radius": 15,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:norman/loneinn",
+      "role": "centre"
+    }
+  ],
+  "icon": "minecraft:red_bed",
+  "allow_extra_buildings": false
+}

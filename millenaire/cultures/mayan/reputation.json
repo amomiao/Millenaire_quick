@@ -1,0 +1,18 @@
+{
+  "labels": [
+    { "threshold": -1024, "key": "reputation.millenaire.mayan.public_enemy" },
+    { "threshold": -256, "key": "reputation.millenaire.mayan.unpleasant_outsider" },
+    { "threshold": -64, "key": "reputation.millenaire.mayan.nuisance" },
+    { "threshold": 0, "key": "reputation.millenaire.mayan.stranger" },
+    { "threshold": 256, "key": "reputation.millenaire.mayan.familiarity" },
+    { "threshold": 512, "key": "reputation.millenaire.mayan.known_face" },
+    { "threshold": 1024, "key": "reputation.millenaire.mayan.regular_visitor" },
+    { "threshold": 2048, "key": "reputation.millenaire.mayan.fellow_stone_miner" },
+    { "threshold": 4096, "key": "reputation.millenaire.mayan.favourite_trader" },
+    { "threshold": 8192, "key": "reputation.millenaire.mayan.friend_of_village" },
+    { "threshold": 16384, "key": "reputation.millenaire.mayan.resourceful_ally" },
+    { "threshold": 32768, "key": "reputation.millenaire.mayan.one_of_us" },
+    { "threshold": 131072, "key": "reputation.millenaire.mayan.natural_leader" },
+    { "threshold": 524288, "key": "reputation.millenaire.mayan.great_stone_god" }
+  ]
+}

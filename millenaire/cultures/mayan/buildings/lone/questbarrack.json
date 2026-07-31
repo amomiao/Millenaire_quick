@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "questbarrack",
+  "category": "lone",
+  "tags": ["worldquest"],
+  "native_name": "Kanan Otoch",
+  "male": [
+    "questkingelitewarrior",
+    "questkingwarrior",
+    "questkingwarrior",
+    "questkingwarrior"
+  ],
+  "icon": "millenaire:mayan_mace",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 4
+    },
+    {
+      "item": "millenaire:masa",
+      "probability": 1.0,
+      "fixed": 3,
+      "random": 5
+    },
+    {
+      "item": "minecraft:bow",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "minecraft:arrow",
+      "probability": 1.0,
+      "fixed": 16,
+      "random": 32
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 15
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 13
+          }
+        }
+      ]
+    }
+  ]
+}

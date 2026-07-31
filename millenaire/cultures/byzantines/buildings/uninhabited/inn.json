@@ -1,0 +1,86 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "inn",
+  "category": "uninhabited",
+  "native_name": "Pandocheíon",
+  "max_count": 0,
+  "male": [
+    "merchant_byzantine"
+  ],
+  "tags": [
+    "inn",
+    "leisure"
+  ],
+  "icon": "minecraft:red_bed",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 6,
+            "depth": 16
+          },
+          "signs": "1,0",
+          "tags": [
+            "inn"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 7,
+            "depth": 16
+          },
+          "priority": 400,
+          "tags": [
+            "inn"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 7,
+            "depth": 16
+          },
+          "priority": 210,
+          "tags": [
+            "inn"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 16
+          },
+          "priority": 190,
+          "path_level": 1,
+          "tags": [
+            "inn"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 16
+          },
+          "tags": [
+            "inn",
+            "leisure"
+          ]
+        }
+      ]
+    }
+  ]
+}

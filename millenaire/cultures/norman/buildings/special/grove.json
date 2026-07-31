@@ -1,0 +1,87 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "grove",
+  "category": "special",
+  "native_name": "Bosquet",
+  "min_distance": 0.6,
+  "tags": [
+    "grove"
+  ],
+  "icon": "minecraft:oak_sapling",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "grove",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 1000,
+          "path_width": 1,
+          "abstracted_production": [
+            "wood,64",
+            "wood_darkoak,64",
+            "wood_pine,64"
+          ],
+          "infoTreeSpawns": [
+            {
+              "sapling": "oak"
+            },
+            {
+              "sapling": "pine"
+            },
+            {
+              "sapling": "dark_oak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "grove",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 6,
+            "depth": 14
+          },
+          "priority": 1000,
+          "path_width": 1,
+          "abstracted_production": [
+            "wood,64",
+            "wood_darkoak,64",
+            "wood_pine,64"
+          ],
+          "infoTreeSpawns": [
+            {
+              "sapling": "pine"
+            },
+            {
+              "sapling": "dark_oak"
+            },
+            {
+              "sapling": "oak"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

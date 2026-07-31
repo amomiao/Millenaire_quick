@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Kidemonas",
+  "textures": [
+    "millenaire:textures/entity/byzanz/keepertemperate.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:patrol",
+    "millenaire:training"
+  ],
+  "tags": [
+    "helpInAttacks",
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "torch",
+  "base_attack_strength": 15,
+  "default_weapon": "minecraft:iron_sword",
+  "experience_given": 10,
+  "hiring_cost": "30"
+}

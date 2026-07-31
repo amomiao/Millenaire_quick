@@ -1,0 +1,34 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "sadhutree",
+  "category": "lone",
+  "native_name": "Sadhu Ke Peer",
+  "male": [
+    "sadhu"
+  ],
+  "tags": [
+    "despawnallmobs",
+    "worldquest"
+  ],
+  "icon": "vishnu_amulet",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -2,
+      "tags": [
+        "despawnallmobs"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 31,
+            "depth": 20
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Tunisiruq",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_male8.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 20,
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:wall_hide_hanging",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:wall_hide_hanging",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "millenaire:ulu": 4,
+    "millenaire:snow_brick": 64,
+    "minecraft:ice": 64,
+    "millenaire:ice_brick": 64,
+    "millenaire:inuit_carving": 8,
+    "millenaire:wall_hide_hanging": 16,
+    "millenaire:sod_birch": 32,
+    "millenaire:sod_spruce": 32,
+    "millenaire:sod_oak": 32,
+    "minecraft:cauldron": 4
+  }
+}

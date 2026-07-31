@@ -1,0 +1,32 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Raja",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_raja0.png",
+    "millenaire:textures/entity/indian/ml_raja1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:inspect_construction"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "minecraft:diamond",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:diamond_sword"
+}

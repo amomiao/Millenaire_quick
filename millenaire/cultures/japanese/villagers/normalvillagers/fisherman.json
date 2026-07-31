@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Ryoushi",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_fisherman0.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_sake",
+    "millenaire:bring_back_home",
+    "millenaire:fish",
+    "millenaire:cook_fish"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:cod",
+    "minecraft:cooked_cod"
+  ],
+  "required_goods": {
+    "minecraft:oak_log": 16,
+    "minecraft:spruce_log": 16,
+    "minecraft:birch_log": 16,
+    "minecraft:jungle_log": 16,
+    "minecraft:acacia_log": 16,
+    "minecraft:dark_oak_log": 16
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:fishing_rod",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "minecraft:fishing_rod",
+  "travelbook_held_item_off_hand": "minecraft:cod"
+}

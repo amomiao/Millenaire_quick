@@ -1,0 +1,41 @@
+{
+  "handler": "smelting",
+  "priority": 100,
+  "priorityRandom": 10,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "villageLimit": {
+    "minecraft:glass": 128
+  },
+  "buildingLimit": {
+    "minecraft:glass": 128
+  },
+  "itemsBalance": {
+    "minecraft:sandstone": "minecraft:glass"
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:sand",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:glass",
+        "count": 1
+      }
+    ],
+    "minimumToCook": 32,
+    "buildingTag": "glass"
+  },
+  "sentenceKey": "cooking",
+  "labelKey": "cooking",
+  "heldItems": [
+    "minecraft:sand"
+  ]
+}

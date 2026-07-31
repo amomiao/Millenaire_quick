@@ -1,0 +1,159 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbaye_a_choir_top",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "abbaye",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Chœur (Sud)",
+  "max_count": 0,
+  "tags": [
+    "scaffoldings",
+    "pilgrimsite"
+  ],
+  "icon": "minecraft:chiseled_stone_bricks",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 48,
+            "height": 20,
+            "depth": 112
+          },
+          "priority": 650,
+          "tags": [
+            "scaffoldings"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 48,
+            "height": 11,
+            "depth": 112
+          },
+          "priority": 600,
+          "tags": [
+            "scaffoldings"
+          ],
+          "parent_tags": [
+            "4"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 48,
+            "height": 18,
+            "depth": 112
+          },
+          "priority": 550,
+          "tags": [
+            "scaffoldings"
+          ],
+          "parent_tags": [
+            "4"
+          ],
+          "required_parent_tags": [
+            "14"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 48,
+            "height": 20,
+            "depth": 112
+          },
+          "priority": 500,
+          "tags": [
+            "scaffoldings"
+          ],
+          "parent_tags": [
+            "4",
+            "24"
+          ],
+          "required_parent_tags": [
+            "14",
+            "level_2"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 48,
+            "height": 25,
+            "depth": 112
+          },
+          "priority": 450,
+          "tags": [
+            "scaffoldings"
+          ],
+          "parent_tags": [
+            "4",
+            "24"
+          ],
+          "required_parent_tags": [
+            "14",
+            "level_2"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 48,
+            "height": 29,
+            "depth": 112
+          },
+          "priority": 400,
+          "tags": [
+            "scaffoldings"
+          ],
+          "parent_tags": [
+            "4",
+            "24",
+            "44"
+          ],
+          "required_parent_tags": [
+            "14",
+            "level_2",
+            "level_3"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 48,
+            "height": 53,
+            "depth": 112
+          },
+          "priority": 250,
+          "tags": [
+            "scaffoldings",
+            "pilgrimsite"
+          ],
+          "parent_tags": [
+            "4",
+            "24",
+            "44",
+            "104"
+          ],
+          "required_parent_tags": [
+            "14",
+            "level_2",
+            "level_3",
+            "level_5"
+          ]
+        }
+      ]
+    }
+  ]
+}

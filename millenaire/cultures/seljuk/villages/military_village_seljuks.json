@@ -1,0 +1,200 @@
+{
+  "culture": "millenaire:seljuk",
+  "biome_tags": [
+    "#c:is_desert",
+    "#c:is_badlands"
+  ],
+  "name": "Askeri Saray",
+  "weight": 5,
+  "layout": [
+    {
+      "plan": "millenaire:seljuk/sarayfort",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:seljuk/lumbermanshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/fishery",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mine_brick",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mosque",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/inn",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/barracks",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/toolsmith",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/armoury",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/stonecraftsman",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/mine_brick",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/watchtower",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/brick",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/abdesthane",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/well",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/kitchen",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/cowfarm",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/brick",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/bigwell",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/hamambath",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/watchtower",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/smallmosque",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/abdesthane",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/cesme",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/golgealti",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/passnode",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplant",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplantsmall",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:seljuk/node",
+      "role": "secondary"
+    }
+  ],
+  "selling_price_overrides": {
+    "iron_ingot": 30,
+    "iron_nugget": 3,
+    "cotton": 9,
+    "wheat": 5,
+    "bread": 14,
+    "pide": 35,
+    "wool_white": 11
+  },
+  "buying_price_overrides": {
+    "iron_ingot": 27,
+    "iron_nugget": 2,
+    "cotton": 6,
+    "wheat": 4,
+    "bread": 12,
+    "pide": 32,
+    "mud_brick": 2,
+    "mudbrick_seljuk_ornamented": 4,
+    "mudbrick_seljuk_decorated": 10
+  },
+  "icon": "millenaire:seljuk_scimitar",
+  "carries_raid": true,
+  "hill_qualifier": "Tepede",
+  "mountain_qualifier": "Dağda",
+  "desert_qualifier": "Çölde",
+  "forest_qualifier": "Ormanda",
+  "lava_qualifier": "Yanar",
+  "lake_qualifier": "Gölde",
+  "ocean_qualifier": "Denizli",
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "player_buildings": [
+    "millenaire:seljuk/playersmall1",
+    "millenaire:seljuk/playersmall2",
+    "millenaire:seljuk/playerhousegift",
+    "millenaire:seljuk/playerhousesmall",
+    "millenaire:seljuk/playerhousemed",
+    "millenaire:seljuk/playerhousemed2"
+  ],
+  "inner_wall_type": "mudbrickwalls",
+  "inner_wall_radius": 35,
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:sjk,Color:15},{Pattern:sjkm,Color:0}]}}"
+  ],
+  "max_simultaneous_wall_constructions": 2,
+  "never": [
+    "market",
+    "sheepfarm",
+    "weaver",
+    "cottonfield",
+    "cottonfarm",
+    "imamshouse",
+    "olivefarm",
+    "sugarcanefarm",
+    "mill",
+    "wheatpaddy"
+  ]
+}

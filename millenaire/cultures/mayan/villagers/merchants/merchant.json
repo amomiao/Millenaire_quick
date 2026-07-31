@@ -1,0 +1,27 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Ajpay",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_merchant0.png",
+    "millenaire:textures/entity/mayan/mayan_merchant1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:visit_inn",
+    "millenaire:visit_building"
+  ],
+  "tags": [
+    "visitor",
+    "localmerchant"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:purse",
+  "travelbook_held_item": "millenaire:purse"
+}

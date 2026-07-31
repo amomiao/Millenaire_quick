@@ -1,0 +1,31 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayancamp_jail",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "mayancamp",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "K'as Maya",
+  "max_count": 0,
+  "icon": "millenaire:mayan_mace",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -9,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 30,
+            "height": 20,
+            "depth": 31
+          }
+        }
+      ]
+    }
+  ]
+}

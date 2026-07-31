@@ -1,0 +1,22 @@
+{
+  "culture": "millenaire:norman",
+  "biome_tags": [],
+  "name": "Bûcheron solitaire",
+  "weight": 0,
+  "lone_building": true,
+  "radius": 30,
+  "layout": [
+    {
+      "plan": "millenaire:norman/lonelumbermantaigahut",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:norman/lonegrovetaiga",
+      "role": "start"
+    }
+  ],
+  "path_materials": [
+    "pathdirt"
+  ],
+  "allow_extra_buildings": false
+}

@@ -1,0 +1,153 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesepagoda",
+  "category": "houses",
+  "native_name": "Buttou",
+  "male": [
+    "monk"
+  ],
+  "tags": [
+    "praying",
+    "leisure"
+  ],
+  "icon": "minecraft:gold_block",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "praying",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 21,
+            "height": 17,
+            "depth": 21
+          },
+          "priority": 500,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 21,
+            "height": 17,
+            "depth": 21
+          },
+          "priority": 50
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 21,
+            "height": 17,
+            "depth": 21
+          },
+          "priority": 45
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 21,
+            "height": 26,
+            "depth": 21
+          },
+          "priority": 40
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 21,
+            "height": 26,
+            "depth": 21
+          },
+          "priority": 35,
+          "path_level": 2
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 21,
+            "height": 33,
+            "depth": 21
+          },
+          "priority": 30
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "praying",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 21,
+            "height": 17,
+            "depth": 21
+          },
+          "priority": 500,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 21,
+            "height": 17,
+            "depth": 21
+          },
+          "priority": 50
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 21,
+            "height": 17,
+            "depth": 21
+          },
+          "priority": 45
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 21,
+            "height": 26,
+            "depth": 21
+          },
+          "priority": 40
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 21,
+            "height": 26,
+            "depth": 21
+          },
+          "priority": 35,
+          "path_level": 2
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 21,
+            "height": 33,
+            "depth": 21
+          },
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

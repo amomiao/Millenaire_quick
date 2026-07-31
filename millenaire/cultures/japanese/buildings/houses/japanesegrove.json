@@ -1,0 +1,69 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesegrove",
+  "category": "houses",
+  "native_name": "Kodachi",
+  "min_distance": 0.6,
+  "tags": [
+    "grove"
+  ],
+  "icon": "minecraft:spruce_sapling",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "grove"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 3,
+            "depth": 12
+          },
+          "priority": 1000,
+          "path_width": 1,
+          "infoTreeSpawns": [
+            {
+              "sapling": "pine"
+            },
+            {
+              "sapling": "oak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "grove"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 3,
+            "depth": 14
+          },
+          "priority": 1000,
+          "path_width": 1,
+          "infoTreeSpawns": [
+            {
+              "sapling": "pine"
+            },
+            {
+              "sapling": "oak"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

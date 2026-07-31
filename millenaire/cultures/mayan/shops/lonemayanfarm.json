@@ -1,0 +1,11 @@
+{
+  "sells": [
+    "maize"
+  ],
+  "buys": [
+    "stone",
+    "cobblestone"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

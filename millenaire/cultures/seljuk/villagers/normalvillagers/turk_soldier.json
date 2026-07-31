@@ -1,0 +1,59 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Asker",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cloth/turk_soldier_0.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_soldier_1.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray_male_muslim",
+    "millenaire:take_bath",
+    "millenaire:drink_ayran",
+    "millenaire:get_goods_for_household",
+    "millenaire:patrol",
+    "millenaire:training"
+  ],
+  "tags": [
+    "helpInAttacks",
+    "raider",
+    "archer"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "millenaire:seljuk_scimitar",
+  "max_health": 40,
+  "villager_config": "muslimrules",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 12,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 15,
+  "hiring_cost": "20",
+  "travelbook_held_item": "millenaire:seljuk_bow"
+}

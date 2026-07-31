@@ -1,0 +1,81 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Askeri Demirci",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_old_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cloth/turk_soldier_0.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_soldier_1.png"
+      ],
+      "layer1": [
+        "millenaire:textures/entity/turks/male/cloth/turk_armourysmith_layer.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray_male_muslim",
+    "millenaire:take_bath",
+    "millenaire:drink_ayran",
+    "millenaire:craft_scimitar",
+    "millenaire:craft_seljuk_bow",
+    "millenaire:craft_seljuk_helmet",
+    "millenaire:craft_seljuk_plate",
+    "millenaire:craft_seljuk_legs",
+    "millenaire:craft_seljuk_boots",
+    "millenaire:craft_seljuk_turban",
+    "millenaire:craft_bow",
+    "millenaire:craft_arrow_seljuk",
+    "millenaire:craft_leather_chest",
+    "millenaire:craft_leather_boots",
+    "millenaire:craft_leather_legs",
+    "millenaire:craft_leather_helmet",
+    "millenaire:cook_iron_ore",
+    "millenaire:craft_iron"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:iron_nugget": 12,
+    "minecraft:iron_ingot": 15,
+    "minecraft:raw_iron": 8,
+    "minecraft:oak_log": 16,
+    "minecraft:white_wool": 15,
+    "minecraft:leather": 15
+  },
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "millenaire:seljuk_chestplate",
+  "villager_config": "muslimrules",
+  "tool_needed_classes": [
+    "pickaxes",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:seljuk_chestplate"
+}

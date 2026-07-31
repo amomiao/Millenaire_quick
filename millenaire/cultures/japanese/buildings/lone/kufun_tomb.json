@@ -1,0 +1,54 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "kufun_tomb",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Kofun",
+  "icon": "millenaire:denier_argent",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 50
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 31,
+            "height": 18,
+            "depth": 31
+          }
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 37,
+            "height": 20,
+            "depth": 58
+          }
+        }
+      ]
+    }
+  ]
+}

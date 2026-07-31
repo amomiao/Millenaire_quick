@@ -1,0 +1,27 @@
+{
+  "sells": [
+    "seljukscimitar",
+    "seljukbow",
+    "bow",
+    "arrow",
+    "seljukturban",
+    "seljukhelmet",
+    "seljukplate",
+    "seljuklegs",
+    "seljukboots",
+    "leather_helmet",
+    "leather_chestplate",
+    "leather_leggings",
+    "leather_boots"
+  ],
+  "buys": [
+    "iron_ingot",
+    "iron_nugget",
+    "leather",
+    "wool_white"
+  ],
+  "buys_optional": [
+    "ironore"
+  ],
+  "deliver_to": []
+}

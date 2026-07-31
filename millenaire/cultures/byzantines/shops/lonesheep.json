@@ -1,0 +1,24 @@
+{
+  "sells": [
+    "wool_white",
+    "mutton_raw",
+    "cooked_mutton",
+    "feta",
+    "leather",
+    "bone",
+    "wheat"
+  ],
+  "buys": [
+    "wood_pine",
+    "wood_acacia",
+    "winefancy",
+    "wheat"
+  ],
+  "buys_optional": [
+    "wood",
+    "wood_birch",
+    "wood_jungle",
+    "wood_darkoak"
+  ],
+  "deliver_to": []
+}

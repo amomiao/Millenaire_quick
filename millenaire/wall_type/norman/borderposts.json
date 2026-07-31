@@ -1,0 +1,15 @@
+{
+  "culture": "millenaire:norman",
+  "key": "borderposts",
+  "tower_plan_set": "millenaire:norman/borderpost",
+  "gateway_plan_set": "millenaire:norman/borderpost_gate",
+  "corner_plan_set": "millenaire:norman/borderpost_corner",
+  "wall_spawn": false,
+  "tower_spawn": true,
+  "gateway_spawn": true,
+  "corner_spawn": true,
+  "cap_spawn": false,
+  "walls_between_towers": 50,
+  "nb_smooth_runs": 3,
+  "max_y_delta": 15
+}

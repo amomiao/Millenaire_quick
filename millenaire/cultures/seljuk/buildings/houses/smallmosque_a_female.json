@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "smallmosque_a_female",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "smallmosque",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Kadınlar Tarafı",
+  "max_count": 0,
+  "tags": [
+    "mosquefemaleside"
+  ],
+  "icon": "minecraft:book",
+  "fixed_orientation": "north",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "tags": [
+        "mosquefemaleside"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 13,
+            "depth": 14
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Garde de l'Ordre",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_nobleman_0.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_1.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_2.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_3.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_4.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_5.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_6.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_7.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_8.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_9.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_orderguard_0.png"
+      ]
+    }
+  },
+  "base_scale": 1.05,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "archer",
+    "raider",
+    "religious",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:norman_helmet": 1
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "noble_family_names",
+  "icon": "millenaire:norman_sword",
+  "max_health": 90,
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "millenaire:norman_sword",
+  "experience_given": 20,
+  "travelbook_held_item": "millenaire:norman_sword"
+}

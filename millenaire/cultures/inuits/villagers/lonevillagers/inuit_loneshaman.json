@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Angakok",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_shaman.png",
+    "millenaire:textures/entity/inuit/inuit_shaman2.png",
+    "millenaire:textures/entity/inuit/inuit_shaman3.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink"
+  ],
+  "tags": [
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:path_snow": 6,
+    "millenaire:sod_spruce": 3,
+    "millenaire:sod_birch": 3,
+    "millenaire:sod_oak": 3,
+    "millenaire:sod_jungle": 2,
+    "millenaire:sod_acacia": 3,
+    "millenaire:sod_dark_oak": 2,
+    "minecraft:leather": 4,
+    "millenaire:furhelmet": 1,
+    "millenaire:furplate": 2,
+    "millenaire:furlegs": 2,
+    "millenaire:furboots": 1,
+    "millenaire:straw_bed": 4,
+    "minecraft:bone": 8,
+    "minecraft:bone_block": 4,
+    "millenaire:snow_wall": 6,
+    "millenaire:snow_brick": 6,
+    "minecraft:snow_block": 6,
+    "minecraft:ice": 4,
+    "millenaire:ice_brick": 4,
+    "millenaire:fire_pit": 2,
+    "millenaire:inuit_carving": 8,
+    "millenaire:wall_hide_hanging": 8,
+    "millenaire:dirt_wall": 6,
+    "minecraft:cauldron": 2
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:cauldron",
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:bone",
+  "experience_given": 7,
+  "travelbook_held_item": "minecraft:bone"
+}

@@ -1,0 +1,28 @@
+{
+  "handler": "mining",
+  "priority": 30,
+  "priorityRandom": 10,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 8,
+  "actionCooldown": 70,
+  "stuckTimeout": 200,
+  "arrivalRange": 5,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "minecraft:gravel": 1024
+  },
+  "maxSimultaneousTotal": 1,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "sourceSubtype": "gravel",
+    "loot": [
+      {
+        "item": "minecraft:gravel",
+        "count": 1
+      }
+    ]
+  },
+  "sentenceKey": "mining"
+}

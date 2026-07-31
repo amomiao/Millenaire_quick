@@ -1,0 +1,313 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "inuksuit",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Inuksuit",
+  "max_count": 0,
+  "icon": "minecraft:cobblestone",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:denier_or",
+      "probability": 0.25,
+      "fixed": 0,
+      "random": 1
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "millenaire:bearmeat_raw",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:wolfmeat_raw",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:beef",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:porkchop",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:chicken",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:rabbit",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:mutton",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:cod",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:seafood_raw",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:potato",
+      "probability": 0.13,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:carrot",
+      "probability": 0.13,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:wheat",
+      "probability": 0.13,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:ulu",
+      "probability": 0.33,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:arrow",
+      "probability": 0.5,
+      "fixed": 10,
+      "random": 30
+    },
+    {
+      "item": "minecraft:leather_leggings",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:spruce_log",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:birch_log",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:oak_log",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:jungle_log",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:acacia_log",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:dark_oak_log",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_spruce",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_birch",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_oak",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_jungle",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_acacia",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_dark_oak",
+      "probability": 0.25,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:bone",
+      "probability": 0.5,
+      "fixed": 3,
+      "random": 7
+    },
+    {
+      "item": "minecraft:coarse_dirt",
+      "probability": 0.25,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:leather",
+      "probability": 0.75,
+      "fixed": 8,
+      "random": 24
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 1,
+            "height": 4,
+            "depth": 3
+          },
+          "priority": 28
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 1,
+            "height": 4,
+            "depth": 3
+          },
+          "priority": 28
+        }
+      ]
+    },
+    {
+      "variant": "c",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 1,
+            "height": 5,
+            "depth": 3
+          },
+          "priority": 28
+        }
+      ]
+    },
+    {
+      "variant": "d",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 1,
+            "height": 5,
+            "depth": 3
+          },
+          "priority": 28
+        }
+      ]
+    },
+    {
+      "variant": "e",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 1,
+            "height": 5,
+            "depth": 3
+          },
+          "priority": 28
+        }
+      ]
+    },
+    {
+      "variant": "f",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 1,
+            "height": 5,
+            "depth": 3
+          },
+          "priority": 28
+        }
+      ]
+    }
+  ]
+}

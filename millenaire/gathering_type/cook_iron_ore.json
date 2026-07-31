@@ -1,0 +1,36 @@
+{
+  "handler": "smelting",
+  "priority": 1000,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "minecraft:iron_ingot": 256
+  },
+  "itemsBalance": {
+    "minecraft:raw_iron": "minecraft:iron_ingot"
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:raw_iron",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:iron_ingot",
+        "count": 1
+      }
+    ],
+    "minimumToCook": 1
+  },
+  "sentenceKey": "cooking",
+  "labelKey": "cooking",
+  "heldItems": [
+    "minecraft:raw_iron"
+  ]
+}

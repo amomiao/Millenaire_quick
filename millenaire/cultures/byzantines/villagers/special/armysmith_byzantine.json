@@ -1,0 +1,70 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Hoplosidirourgos",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.f.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.g.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.h.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.i.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.asmith.1.a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.asmith.1.b.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.asmith.1.c.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.asmith.2.a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.asmith.2.b.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.asmith.2.c.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:craft_byzantinelegs",
+    "millenaire:craft_byzantineboots",
+    "millenaire:craft_byzantinechest",
+    "millenaire:craft_byzantinehelmet",
+    "millenaire:craft_byzantinemace",
+    "millenaire:craft_bow",
+    "millenaire:craft_arrow",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:iron_ingot": 20,
+    "minecraft:leather": 10,
+    "minecraft:white_wool": 2,
+    "minecraft:feather": 2,
+    "minecraft:flint": 2
+  },
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:byzantine_chestplate",
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 5,
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:byzantine_chestplate"
+}

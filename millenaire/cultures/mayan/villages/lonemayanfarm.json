@@ -1,0 +1,17 @@
+{
+  "culture": "millenaire:mayan",
+  "biome_tags": [
+    "#c:is_jungle"
+  ],
+  "name": "Maya Makan",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 15,
+  "layout": [
+    {
+      "plan": "millenaire:mayan/lonemayanfarm",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

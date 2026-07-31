@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanbigwell",
+  "category": "nodes",
+  "native_name": "Nah Ch’en",
+  "tags": [
+    "pathnode",
+    "leisure"
+  ],
+  "icon": "minecraft:water_bucket",
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "tags": [
+        "pathnode",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 10
+          },
+          "priority": 1000,
+          "irrigation": 10,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

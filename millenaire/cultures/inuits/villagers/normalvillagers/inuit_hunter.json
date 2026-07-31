@@ -1,0 +1,86 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Afuniaqti",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_hunter1.png",
+    "millenaire:textures/entity/inuit/inuit_hunter2.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png"
+  ],
+  "base_scale": 1.15,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:drink",
+    "millenaire:gather_goods",
+    "millenaire:bring_back_home",
+    "millenaire:deliver_resources_shop",
+    "millenaire:patrol",
+    "millenaire:slaughter_cow_inuit",
+    "millenaire:craft_bearsteak",
+    "millenaire:craft_bearstew",
+    "millenaire:craft_meatstew1",
+    "millenaire:craft_meatstew2",
+    "millenaire:craft_meatstew3",
+    "millenaire:craft_meatstew4",
+    "millenaire:craft_meatstew5",
+    "millenaire:craft_meatstew6"
+  ],
+  "tags": [
+    "archer",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:leather_helmet": 1,
+    "minecraft:leather_chestplate": 1,
+    "minecraft:leather_leggings": 1,
+    "minecraft:leather_boots": 1,
+    "minecraft:wooden_sword": 1,
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64,
+    "minecraft:wheat": 16
+  },
+  "bring_back_home_goods": [
+    "minecraft:beef",
+    "minecraft:leather",
+    "minecraft:bone",
+    "minecraft:rotten_flesh",
+    "millenaire:bearmeat_raw"
+  ],
+  "collect_goods": [
+    "minecraft:leather",
+    "minecraft:beef",
+    "millenaire:bearmeat_raw",
+    "minecraft:rotten_flesh",
+    "minecraft:bone"
+  ],
+  "required_goods": {
+    "millenaire:bearmeat_raw": 8,
+    "minecraft:spruce_log": 8,
+    "minecraft:beef": 16,
+    "minecraft:porkchop": 16,
+    "minecraft:mutton": 16,
+    "minecraft:chicken": 16,
+    "minecraft:cod": 32,
+    "minecraft:rabbit": 16
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:inuitbow",
+  "max_health": 30,
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 7,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 12,
+  "travelbook_held_item": "millenaire:inuitbow",
+  "travelbook_held_item_off_hand": "minecraft:beef"
+}

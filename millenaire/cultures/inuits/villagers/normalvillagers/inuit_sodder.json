@@ -1,0 +1,65 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Ivruq",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_male.png",
+    "millenaire:textures/entity/inuit/inuit_male2.png",
+    "millenaire:textures/entity/inuit/inuit_male4.png",
+    "millenaire:textures/entity/inuit/inuit_male5.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png",
+    "millenaire:textures/entity/inuit/inuit_male8.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:bring_back_home",
+    "millenaire:rest",
+    "millenaire:craft_shoveldirt",
+    "millenaire:craft_shoveldirt2",
+    "millenaire:craft_packsodspruce",
+    "millenaire:craft_packsodbirch",
+    "millenaire:craft_dirtwall_inuit",
+    "millenaire:patrol",
+    "millenaire:craft_firepit"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:bone",
+    "minecraft:rotten_flesh",
+    "minecraft:dirt",
+    "millenaire:sod_birch",
+    "millenaire:sod_spruce",
+    "millenaire:sod_oak",
+    "millenaire:sod_jungle"
+  ],
+  "collect_goods": [
+    "minecraft:rotten_flesh",
+    "minecraft:bone",
+    "minecraft:dirt"
+  ],
+  "required_goods": {
+    "minecraft:dirt": 32,
+    "minecraft:coarse_dirt": 32,
+    "minecraft:spruce_log": 16,
+    "minecraft:birch_log": 16
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:sod_birch",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_shovel",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:sod_birch"
+}

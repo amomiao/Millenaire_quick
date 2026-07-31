@@ -1,0 +1,80 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "smallmosque",
+  "category": "houses",
+  "native_name": "Cami",
+  "tags": [
+    "mosque",
+    "nopaths"
+  ],
+  "starting_sub_buildings": [
+    "smallmosque_a_female"
+  ],
+  "icon": "minecraft:book",
+  "fixed_orientation": "north",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "leisure,30",
+    "mosque,40"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "tags": [
+        "mosque",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 13,
+            "depth": 14
+          },
+          "village_tags": [
+            "mosque_built"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 13,
+            "depth": 14
+          },
+          "path_level": 1,
+          "village_tags": [
+            "mosque_built"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 13,
+            "depth": 14
+          },
+          "priority": 75,
+          "village_tags": [
+            "mosque_built"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 13,
+            "depth": 14
+          },
+          "priority": 70,
+          "village_tags": [
+            "mosque_built"
+          ]
+        }
+      ]
+    }
+  ]
+}

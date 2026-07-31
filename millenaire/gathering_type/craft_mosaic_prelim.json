@@ -1,0 +1,41 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "villageLimit": {
+    "millenaire:byzantine_mosaic_red": 128
+  },
+  "itemsBalance": {
+    "millenaire:byzantine_tiles": "millenaire:byzantine_mosaic_red"
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "requiredTag": "tiles",
+    "inputs": [
+      {
+        "item": "minecraft:polished_diorite",
+        "count": 1
+      },
+      {
+        "item": "millenaire:byzantine_tiles",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "millenaire:byzantine_mosaic_red",
+        "count": 2
+      }
+    ]
+  },
+  "sentenceKey": "makemosaic",
+  "labelKey": "makemosaic",
+  "sound": "stone",
+  "tag": "tag_construction"
+}

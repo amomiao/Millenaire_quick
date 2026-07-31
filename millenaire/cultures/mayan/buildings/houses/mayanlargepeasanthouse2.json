@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanlargepeasanthouse2",
+  "category": "houses",
+  "native_name": "Yalam Otoch",
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_shovel",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 5,
+            "depth": 13
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 4,
+            "depth": 13
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 3,
+            "depth": 13
+          },
+          "priority": 70,
+          "sub_buildings": [
+            "mayanlargepeasanthouse2_a_secondary"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 11,
+            "height": 5,
+            "depth": 13
+          },
+          "priority": 30,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

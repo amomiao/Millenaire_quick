@@ -1,0 +1,21 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanlargepeasanthouse_a_secondary",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "mayanlargepeasanthouse",
+    "variant": "a",
+    "level": 2
+  },
+  "native_name": "Hach Noh Nah",
+  "max_count": 0,
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_shovel",
+  "variants": []
+}

@@ -1,0 +1,31 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Angakok",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_shaman.png",
+    "millenaire:textures/entity/inuit/inuit_shaman2.png",
+    "millenaire:textures/entity/inuit/inuit_shaman3.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:hold_service",
+    "millenaire:drink",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "religious"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:cauldron",
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:bone",
+  "experience_given": 7
+}

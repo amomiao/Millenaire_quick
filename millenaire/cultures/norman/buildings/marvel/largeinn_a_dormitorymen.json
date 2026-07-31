@@ -1,0 +1,42 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "largeinn_a_dormitorymen",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "largeinn",
+    "variant": "a",
+    "level": 1
+  },
+  "native_name": "Dortoir des hommes",
+  "max_count": 0,
+  "visitors": [
+    "pilgrim",
+    "pilgrim",
+    "pilgrim",
+    "pilgrim",
+    "pilgrim"
+  ],
+  "icon": "millenaire:straw_bed",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 28,
+            "height": 14,
+            "depth": 32
+          },
+          "priority": 1000,
+          "parent_tags": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ]
+}

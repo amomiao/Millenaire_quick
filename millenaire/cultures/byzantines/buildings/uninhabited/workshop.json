@@ -1,0 +1,61 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "workshop",
+  "category": "uninhabited",
+  "native_name": "Ergastíreion",
+  "shop": "centralworkshop",
+  "tags": [
+    "centralworkshop",
+    "pathnode"
+  ],
+  "icon": "minecraft:crafting_table",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "centralworkshop",
+        "pathnode"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 400
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 200,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          }
+        }
+      ]
+    }
+  ]
+}

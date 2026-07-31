@@ -1,0 +1,55 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Agathempora",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/byzanz/female/byz.female.a.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.b.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.c.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.d.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.e.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.f.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.g.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.h.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.i.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.j.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.k.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.l.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.m.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.n.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblefemale/clothes/foreign/byz.ft.fod.1.a.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "greek_women_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:olives",
+  "base_attack_strength": 5,
+  "experience_given": 3,
+  "foreign_merchant_stock": {
+    "millenaire:winefancy": 4,
+    "millenaire:grapes": 8,
+    "minecraft:bread": 16,
+    "minecraft:cooked_beef": 8,
+    "minecraft:cooked_cod": 8,
+    "millenaire:olives": 16,
+    "minecraft:cake": 1
+  }
+}

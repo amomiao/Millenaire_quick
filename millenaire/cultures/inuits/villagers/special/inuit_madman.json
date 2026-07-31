@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Unatannik",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_bandit.png",
+    "millenaire:textures/entity/inuit/inuit_hunter1.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png",
+    "millenaire:textures/entity/inuit/inuit_shaman.png"
+  ],
+  "base_scale": 1.11,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "heavydrinker",
+    "hostile",
+    "raider",
+    "noteleport",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:inuittrident": 1,
+    "millenaire:furlegs": 1,
+    "millenaire:furboots": 1
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:inuittrident",
+  "max_health": 42,
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 7,
+  "experience_given": 10,
+  "travelbook_held_item": "millenaire:inuittrident"
+}

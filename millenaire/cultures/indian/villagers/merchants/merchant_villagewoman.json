@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Gaanv ki Murkha",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_peasant_wife0.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife1.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife2.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife3.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife4.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife5.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife6.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 20,
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:vegcurry",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:vegcurry",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "millenaire:rice": 64,
+    "millenaire:turmeric": 16,
+    "minecraft:chicken": 16,
+    "millenaire:rasgulla": 16,
+    "millenaire:vegcurry": 8,
+    "millenaire:chickencurry": 8
+  }
+}

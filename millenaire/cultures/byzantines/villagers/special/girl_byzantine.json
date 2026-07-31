@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Koritsaki",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/byzanz/girl0.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:child_become_adult",
+    "millenaire:play",
+    "millenaire:play_with_friends",
+    "millenaire:observe_vines",
+    "millenaire:observe_construction",
+    "millenaire:observe_produce_food",
+    "millenaire:observe_produce_alcohol",
+    "millenaire:listen_to_speech_2",
+    "millenaire:child_eat_grapes",
+    "millenaire:attend_class",
+    "millenaire:steal_tulip_red"
+  ],
+  "tags": [
+    "child"
+  ],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "greek_women_names",
+  "family_name_list": "greek_family_names",
+  "icon": "minecraft:pink_tulip",
+  "base_attack_strength": 1,
+  "alt_native_name": "Koritsi",
+  "alt_key": "teenagerfemale"
+}

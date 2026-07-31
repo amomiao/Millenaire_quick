@@ -1,0 +1,1221 @@
+{
+  "goods": [
+    {
+      "id": "dirt_wall",
+      "item": "millenaire:dirt_wall",
+      "selling_price": 1,
+      "category": "construction"
+    },
+    {
+      "id": "pathsnow",
+      "item": "millenaire:path_snow",
+      "selling_price": 1,
+      "category": "construction"
+    },
+    {
+      "id": "wood",
+      "item": "minecraft:oak_log",
+      "selling_price": 2,
+      "buying_price": 1,
+      "reserved_quantity": 128,
+      "target_quantity": 1024,
+      "foreign_merchant_price": 3,
+      "category": "construction"
+    },
+    {
+      "id": "wood_pine",
+      "item": "minecraft:spruce_log",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "wood_birch",
+      "item": "minecraft:birch_log",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "wood_jungle",
+      "item": "minecraft:jungle_log",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "wood_acacia",
+      "item": "minecraft:acacia_log",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "wood_darkoak",
+      "item": "minecraft:dark_oak_log",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "wood_any",
+      "item": "#minecraft:logs",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "cobblestone",
+      "item": "minecraft:cobblestone",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 64,
+      "category": "construction"
+    },
+    {
+      "id": "stone",
+      "item": "minecraft:stone",
+      "selling_price": 5,
+      "buying_price": 3,
+      "reserved_quantity": 128,
+      "target_quantity": 1024,
+      "category": "construction"
+    },
+    {
+      "id": "coarse_dirt",
+      "item": "minecraft:coarse_dirt",
+      "selling_price": 2,
+      "buying_price": 1,
+      "category": "construction"
+    },
+    {
+      "id": "dirt",
+      "item": "minecraft:dirt",
+      "selling_price": 2,
+      "buying_price": 1,
+      "category": "construction"
+    },
+    {
+      "id": "wool_white",
+      "item": "minecraft:white_wool",
+      "selling_price": 10,
+      "buying_price": 8,
+      "target_quantity": 64,
+      "foreign_merchant_price": 12,
+      "category": "construction"
+    },
+    {
+      "id": "wheat",
+      "item": "minecraft:wheat",
+      "selling_price": 3,
+      "buying_price": 2,
+      "reserved_quantity": 10,
+      "target_quantity": 128,
+      "foreign_merchant_price": 4,
+      "category": "agriculture"
+    },
+    {
+      "id": "leather",
+      "item": "minecraft:leather",
+      "selling_price": 20,
+      "buying_price": 15,
+      "foreign_merchant_price": 25,
+      "category": "crafting"
+    },
+    {
+      "id": "bread",
+      "item": "minecraft:bread",
+      "selling_price": 10,
+      "buying_price": 8,
+      "reserved_quantity": 5,
+      "target_quantity": 10,
+      "foreign_merchant_price": 32,
+      "category": "agriculture"
+    },
+    {
+      "id": "egg",
+      "item": "minecraft:egg",
+      "selling_price": 4,
+      "buying_price": 2,
+      "foreign_merchant_price": 6,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "rotten_flesh",
+      "item": "minecraft:rotten_flesh",
+      "selling_price": 2,
+      "buying_price": 1,
+      "foreign_merchant_price": 2,
+      "category": "crafting"
+    },
+    {
+      "id": "chicken_raw",
+      "item": "minecraft:chicken",
+      "selling_price": 20,
+      "buying_price": 12,
+      "foreign_merchant_price": 32,
+      "category": "agriculture"
+    },
+    {
+      "id": "chicken_cooked",
+      "item": "minecraft:cooked_chicken",
+      "selling_price": 28,
+      "buying_price": 20,
+      "foreign_merchant_price": 48,
+      "category": "agriculture"
+    },
+    {
+      "id": "rabbit",
+      "item": "minecraft:rabbit",
+      "selling_price": 20,
+      "buying_price": 12,
+      "foreign_merchant_price": 32,
+      "category": "agriculture"
+    },
+    {
+      "id": "beef_cooked",
+      "item": "minecraft:cooked_beef",
+      "selling_price": 28,
+      "buying_price": 20,
+      "foreign_merchant_price": 48,
+      "category": "agriculture"
+    },
+    {
+      "id": "beef_raw",
+      "item": "minecraft:beef",
+      "selling_price": 16,
+      "buying_price": 10,
+      "foreign_merchant_price": 48,
+      "category": "agriculture"
+    },
+    {
+      "id": "porkchop_cooked",
+      "item": "minecraft:cooked_porkchop",
+      "selling_price": 28,
+      "buying_price": 20,
+      "foreign_merchant_price": 48,
+      "category": "agriculture"
+    },
+    {
+      "id": "fishraw",
+      "item": "minecraft:cod",
+      "selling_price": 5,
+      "buying_price": 3,
+      "target_quantity": 192,
+      "category": "agriculture"
+    },
+    {
+      "id": "cooked_cod",
+      "item": "minecraft:cooked_cod",
+      "selling_price": 7,
+      "buying_price": 5,
+      "target_quantity": 192,
+      "foreign_merchant_price": 16,
+      "category": "agriculture"
+    },
+    {
+      "id": "tripes",
+      "item": "millenaire:tripes",
+      "buying_price": 160,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "boudin",
+      "item": "millenaire:boudin",
+      "buying_price": 64,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "wah",
+      "item": "millenaire:wah",
+      "buying_price": 160,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "masa",
+      "item": "millenaire:masa",
+      "buying_price": 48,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "udon",
+      "item": "millenaire:udon",
+      "buying_price": 40,
+      "foreign_merchant_price": 32,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "ikayaki",
+      "item": "millenaire:ikayaki",
+      "buying_price": 160,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "cooked_mutton",
+      "item": "minecraft:cooked_mutton",
+      "buying_price": 32,
+      "category": "agriculture"
+    },
+    {
+      "id": "souvlaki",
+      "item": "millenaire:souvlaki",
+      "buying_price": 160,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "potato",
+      "item": "minecraft:potato",
+      "selling_price": 10,
+      "buying_price": 8,
+      "reserved_quantity": 5,
+      "target_quantity": 10,
+      "foreign_merchant_price": 32,
+      "category": "agriculture"
+    },
+    {
+      "id": "cider",
+      "item": "millenaire:cider",
+      "buying_price": 80,
+      "foreign_merchant_price": 128,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "sake",
+      "item": "millenaire:sake",
+      "buying_price": 140,
+      "reserved_quantity": 2,
+      "target_quantity": 5,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "cake",
+      "item": "minecraft:cake",
+      "buying_price": 64,
+      "foreign_merchant_price": 128,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "cookie",
+      "item": "minecraft:cookie",
+      "buying_price": 4,
+      "foreign_merchant_price": 8,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "calva",
+      "item": "millenaire:calva",
+      "buying_price": 160,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "feta",
+      "item": "millenaire:feta",
+      "buying_price": 96,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "cacauhaa",
+      "item": "millenaire:cacauhaa",
+      "buying_price": 160,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "winefancy",
+      "item": "millenaire:winefancy",
+      "buying_price": 160,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "winebasic",
+      "item": "millenaire:winebasic",
+      "buying_price": 80,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "rasgulla",
+      "item": "millenaire:rasgulla",
+      "selling_price": 128,
+      "buying_price": 120,
+      "reserved_quantity": 8,
+      "foreign_merchant_price": 192,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "vegcurry",
+      "item": "millenaire:vegcurry",
+      "selling_price": 32,
+      "buying_price": 30,
+      "foreign_merchant_price": 40,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "chickencurry",
+      "item": "millenaire:chickencurry",
+      "selling_price": 128,
+      "buying_price": 120,
+      "foreign_merchant_price": 192,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "rice",
+      "item": "millenaire:rice",
+      "selling_price": 32,
+      "buying_price": 12,
+      "target_quantity": 128,
+      "foreign_merchant_price": 48,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "turmeric",
+      "item": "millenaire:turmeric",
+      "selling_price": 64,
+      "buying_price": 50,
+      "target_quantity": 64,
+      "foreign_merchant_price": 90,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "grapes",
+      "item": "millenaire:grapes",
+      "selling_price": 2,
+      "buying_price": 1,
+      "target_quantity": 512,
+      "foreign_merchant_price": 2,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "maize",
+      "item": "millenaire:maize",
+      "selling_price": 3,
+      "buying_price": 2,
+      "reserved_quantity": 16,
+      "target_quantity": 32,
+      "foreign_merchant_price": 3,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_pickaxe",
+      "item": "millenaire:norman_pickaxe",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_axe",
+      "item": "millenaire:norman_axe",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_shovel",
+      "item": "millenaire:norman_shovel",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_hoe",
+      "item": "millenaire:norman_hoe",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "stone_pickaxe",
+      "item": "minecraft:stone_pickaxe",
+      "buying_price": 3,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "stone_axe",
+      "item": "minecraft:stone_axe",
+      "buying_price": 3,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "stone_shovel",
+      "item": "minecraft:stone_shovel",
+      "buying_price": 1,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "stone_hoe",
+      "item": "minecraft:stone_hoe",
+      "buying_price": 2,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "iron_pickaxe",
+      "item": "minecraft:iron_pickaxe",
+      "selling_price": 128,
+      "buying_price": 64,
+      "reserved_quantity": 1,
+      "target_quantity": 1,
+      "foreign_merchant_price": 125,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "iron_axe",
+      "item": "minecraft:iron_axe",
+      "selling_price": 128,
+      "buying_price": 64,
+      "reserved_quantity": 1,
+      "target_quantity": 1,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "iron_shovel",
+      "item": "minecraft:iron_shovel",
+      "selling_price": 128,
+      "buying_price": 64,
+      "reserved_quantity": 1,
+      "target_quantity": 1,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "iron_hoe",
+      "item": "minecraft:iron_hoe",
+      "selling_price": 128,
+      "buying_price": 64,
+      "reserved_quantity": 1,
+      "target_quantity": 1,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_pickaxe",
+      "item": "minecraft:diamond_pickaxe",
+      "buying_price": 576,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_axe",
+      "item": "minecraft:diamond_axe",
+      "buying_price": 576,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_shovel",
+      "item": "minecraft:diamond_shovel",
+      "buying_price": 192,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_hoe",
+      "item": "minecraft:diamond_hoe",
+      "buying_price": 384,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "mayan_pickaxe",
+      "item": "millenaire:mayan_pickaxe",
+      "buying_price": 448,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "mayan_axe",
+      "item": "millenaire:mayan_axe",
+      "buying_price": 448,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "mayan_shovel",
+      "item": "millenaire:mayan_shovel",
+      "buying_price": 448,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "mayan_hoe",
+      "item": "millenaire:mayan_hoe",
+      "buying_price": 448,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_pickaxe",
+      "item": "millenaire:byzantine_pickaxe",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_axe",
+      "item": "millenaire:byzantine_axe",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_shovel",
+      "item": "millenaire:byzantine_shovel",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_hoe",
+      "item": "millenaire:byzantine_hoe",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "bow",
+      "item": "minecraft:bow",
+      "selling_price": 40,
+      "buying_price": 32,
+      "foreign_merchant_price": 30,
+      "category": "weapons"
+    },
+    {
+      "id": "arrow",
+      "item": "minecraft:arrow",
+      "buying_price": 4,
+      "foreign_merchant_price": 8,
+      "category": "weapons"
+    },
+    {
+      "id": "stone_sword",
+      "item": "minecraft:stone_sword",
+      "buying_price": 2,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "leather_helmet",
+      "item": "minecraft:leather_helmet",
+      "selling_price": 100,
+      "buying_price": 75,
+      "category": "weapons"
+    },
+    {
+      "id": "leather_chestplate",
+      "item": "minecraft:leather_chestplate",
+      "selling_price": 160,
+      "buying_price": 120,
+      "category": "weapons"
+    },
+    {
+      "id": "leather_leggings",
+      "item": "minecraft:leather_leggings",
+      "selling_price": 140,
+      "buying_price": 105,
+      "category": "weapons"
+    },
+    {
+      "id": "leather_boots",
+      "item": "minecraft:leather_boots",
+      "selling_price": 80,
+      "buying_price": 60,
+      "category": "weapons"
+    },
+    {
+      "id": "furhelmet",
+      "item": "millenaire:furhelmet",
+      "selling_price": 150,
+      "buying_price": 125,
+      "foreign_merchant_price": 225,
+      "category": "weapons"
+    },
+    {
+      "id": "furplate",
+      "item": "millenaire:furplate",
+      "selling_price": 240,
+      "buying_price": 200,
+      "foreign_merchant_price": 360,
+      "category": "weapons"
+    },
+    {
+      "id": "furlegs",
+      "item": "millenaire:furlegs",
+      "selling_price": 210,
+      "buying_price": 175,
+      "foreign_merchant_price": 315,
+      "category": "weapons"
+    },
+    {
+      "id": "furboots",
+      "item": "millenaire:furboots",
+      "selling_price": 120,
+      "buying_price": 100,
+      "foreign_merchant_price": 315,
+      "category": "weapons"
+    },
+    {
+      "id": "iron_sword",
+      "item": "minecraft:iron_sword",
+      "selling_price": 64,
+      "buying_price": 60,
+      "foreign_merchant_price": 50,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "iron_helmet",
+      "item": "minecraft:iron_helmet",
+      "selling_price": 64,
+      "buying_price": 60,
+      "foreign_merchant_price": 150,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "iron_chestplate",
+      "item": "minecraft:iron_chestplate",
+      "selling_price": 256,
+      "buying_price": 192,
+      "foreign_merchant_price": 200,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "iron_leggings",
+      "item": "minecraft:iron_leggings",
+      "selling_price": 192,
+      "buying_price": 128,
+      "foreign_merchant_price": 175,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "iron_boots",
+      "item": "minecraft:iron_boots",
+      "selling_price": 128,
+      "buying_price": 64,
+      "foreign_merchant_price": 100,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_helmet",
+      "item": "minecraft:diamond_helmet",
+      "buying_price": 960,
+      "foreign_merchant_price": 6400,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_sword",
+      "item": "minecraft:diamond_sword",
+      "buying_price": 384,
+      "foreign_merchant_price": 2560,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_chestplate",
+      "item": "minecraft:diamond_chestplate",
+      "buying_price": 1536,
+      "foreign_merchant_price": 10240,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_leggings",
+      "item": "minecraft:diamond_leggings",
+      "buying_price": 1344,
+      "foreign_merchant_price": 8960,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "diamond_boots",
+      "item": "minecraft:diamond_boots",
+      "buying_price": 768,
+      "foreign_merchant_price": 5120,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "yumibow",
+      "item": "millenaire:yumibow",
+      "buying_price": 384,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japanese_tachi",
+      "item": "millenaire:japanese_tachi",
+      "buying_price": 160,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseguardboots",
+      "item": "millenaire:japaneseguardboots",
+      "buying_price": 96,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseguardhelmet",
+      "item": "millenaire:japaneseguardhelmet",
+      "buying_price": 192,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseguardlegs",
+      "item": "millenaire:japaneseguardlegs",
+      "buying_price": 256,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseguardplate",
+      "item": "millenaire:japaneseguardplate",
+      "buying_price": 384,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseblueboots",
+      "item": "millenaire:japaneseblueboots",
+      "buying_price": 256,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japanesebluehelmet",
+      "item": "millenaire:japanesebluehelmet",
+      "buying_price": 384,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japanesebluelegs",
+      "item": "millenaire:japanesebluelegs",
+      "buying_price": 768,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseblueplate",
+      "item": "millenaire:japaneseblueplate",
+      "buying_price": 1152,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseredboots",
+      "item": "millenaire:japaneseredboots",
+      "buying_price": 256,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseredhelmet",
+      "item": "millenaire:japaneseredhelmet",
+      "buying_price": 384,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseredlegs",
+      "item": "millenaire:japaneseredlegs",
+      "buying_price": 768,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "japaneseredplate",
+      "item": "millenaire:japaneseredplate",
+      "buying_price": 1152,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "mayan_mace",
+      "item": "millenaire:mayan_mace",
+      "buying_price": 448,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_sword",
+      "item": "millenaire:norman_sword",
+      "buying_price": 5120,
+      "foreign_merchant_price": 8192,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_helmet",
+      "item": "millenaire:norman_helmet",
+      "buying_price": 800,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_chestplate",
+      "item": "millenaire:norman_chestplate",
+      "selling_price": 1280,
+      "buying_price": 1200,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_leggings",
+      "item": "millenaire:norman_leggings",
+      "buying_price": 640,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "norman_boots",
+      "item": "millenaire:norman_boots",
+      "buying_price": 400,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_mace",
+      "item": "millenaire:byzantine_mace",
+      "buying_price": 4096,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_helmet",
+      "item": "millenaire:byzantine_helmet",
+      "buying_price": 768,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_chestplate",
+      "item": "millenaire:byzantine_chestplate",
+      "buying_price": 1280,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_leggings",
+      "item": "millenaire:byzantine_leggings",
+      "buying_price": 512,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "byzantine_boots",
+      "item": "millenaire:byzantine_boots",
+      "buying_price": 384,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "bearmeat_raw",
+      "item": "millenaire:bearmeat_raw",
+      "selling_price": 32,
+      "buying_price": 28,
+      "foreign_merchant_price": 48,
+      "category": "agriculture"
+    },
+    {
+      "id": "bearmeat_cooked",
+      "item": "millenaire:bearmeat_cooked",
+      "selling_price": 48,
+      "buying_price": 40,
+      "foreign_merchant_price": 64,
+      "category": "agriculture"
+    },
+    {
+      "id": "wolfmeat_raw",
+      "item": "millenaire:wolfmeat_raw",
+      "selling_price": 16,
+      "buying_price": 14,
+      "foreign_merchant_price": 24,
+      "category": "agriculture"
+    },
+    {
+      "id": "wolfmeat_cooked",
+      "item": "millenaire:wolfmeat_cooked",
+      "selling_price": 24,
+      "buying_price": 20,
+      "foreign_merchant_price": 32,
+      "category": "agriculture"
+    },
+    {
+      "id": "inuitbearstew",
+      "item": "millenaire:inuitbearstew",
+      "selling_price": 128,
+      "buying_price": 120,
+      "foreign_merchant_price": 192,
+      "category": "agriculture"
+    },
+    {
+      "id": "inuitmeatystew",
+      "item": "millenaire:inuitmeatystew",
+      "selling_price": 128,
+      "buying_price": 120,
+      "reserved_quantity": 8,
+      "foreign_merchant_price": 192,
+      "category": "agriculture"
+    },
+    {
+      "id": "inuitpotatostew",
+      "item": "millenaire:inuitpotatostew",
+      "selling_price": 32,
+      "buying_price": 30,
+      "foreign_merchant_price": 40,
+      "category": "agriculture"
+    },
+    {
+      "id": "porkchop_raw",
+      "item": "minecraft:porkchop",
+      "selling_price": 20,
+      "buying_price": 15,
+      "foreign_merchant_price": 32,
+      "category": "agriculture"
+    },
+    {
+      "id": "seafood_raw",
+      "item": "millenaire:seafood_raw",
+      "selling_price": 24,
+      "buying_price": 18,
+      "target_quantity": 24,
+      "category": "agriculture"
+    },
+    {
+      "id": "seafood_cooked",
+      "item": "millenaire:seafood_cooked",
+      "selling_price": 32,
+      "buying_price": 28,
+      "target_quantity": 38,
+      "foreign_merchant_price": 16,
+      "category": "agriculture"
+    },
+    {
+      "id": "mutton_raw",
+      "item": "minecraft:mutton",
+      "selling_price": 18,
+      "buying_price": 12,
+      "category": "agriculture"
+    },
+    {
+      "id": "baked_potato",
+      "item": "minecraft:baked_potato",
+      "selling_price": 14,
+      "buying_price": 10,
+      "foreign_merchant_price": 38,
+      "category": "agriculture"
+    },
+    {
+      "id": "ulu",
+      "item": "millenaire:ulu",
+      "selling_price": 64,
+      "buying_price": 32,
+      "target_quantity": 10,
+      "auto_generate": true,
+      "foreign_merchant_price": 64,
+      "category": "construction"
+    },
+    {
+      "id": "snowwall",
+      "item": "millenaire:snow_wall",
+      "selling_price": 24,
+      "buying_price": 16,
+      "foreign_merchant_price": 48,
+      "category": "construction"
+    },
+    {
+      "id": "snowbrick",
+      "item": "millenaire:snow_brick",
+      "selling_price": 16,
+      "buying_price": 10,
+      "foreign_merchant_price": 32,
+      "category": "construction"
+    },
+    {
+      "id": "icebrick",
+      "item": "millenaire:ice_brick",
+      "selling_price": 16,
+      "buying_price": 10,
+      "foreign_merchant_price": 32,
+      "category": "construction"
+    },
+    {
+      "id": "hidehanging",
+      "item": "millenaire:wall_hide_hanging",
+      "selling_price": 1024,
+      "buying_price": 768,
+      "target_quantity": 16,
+      "foreign_merchant_price": 1280,
+      "category": "construction"
+    },
+    {
+      "id": "inuitbow",
+      "item": "millenaire:inuitbow",
+      "selling_price": 512,
+      "buying_price": 384,
+      "foreign_merchant_price": 640,
+      "category": "weapons"
+    },
+    {
+      "id": "inuittrident",
+      "item": "millenaire:inuittrident",
+      "selling_price": 240,
+      "buying_price": 160,
+      "foreign_merchant_price": 256,
+      "category": "weapons"
+    },
+    {
+      "id": "straw_bed",
+      "item": "millenaire:straw_bed",
+      "selling_price": 40,
+      "buying_price": 20,
+      "foreign_merchant_price": 42,
+      "category": "construction"
+    },
+    {
+      "id": "sugar_cane",
+      "item": "minecraft:sugar_cane",
+      "selling_price": 10,
+      "buying_price": 5,
+      "foreign_merchant_price": 48,
+      "category": "agriculture"
+    },
+    {
+      "id": "sugar",
+      "item": "minecraft:sugar",
+      "selling_price": 4,
+      "buying_price": 2,
+      "foreign_merchant_price": 4,
+      "category": "agriculture"
+    },
+    {
+      "id": "diamond",
+      "item": "minecraft:diamond",
+      "selling_price": 65536,
+      "buying_price": 49152,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "gold_ingot",
+      "item": "minecraft:gold_ingot",
+      "selling_price": 80,
+      "buying_price": 64,
+      "foreign_merchant_price": 64,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "enderpearl",
+      "item": "minecraft:ender_pearl",
+      "selling_price": 48,
+      "buying_price": 32,
+      "foreign_merchant_price": 64,
+      "category": "crafting"
+    },
+    {
+      "id": "bone",
+      "item": "minecraft:bone",
+      "selling_price": 3,
+      "buying_price": 2,
+      "foreign_merchant_price": 8,
+      "category": "crafting"
+    },
+    {
+      "id": "purse",
+      "item": "millenaire:purse",
+      "selling_price": 2048,
+      "auto_generate": true,
+      "category": "playeritem"
+    },
+    {
+      "id": "summoning_wand",
+      "item": "millenaire:summoning_wand",
+      "selling_price": 8192,
+      "auto_generate": true,
+      "category": "playeritem"
+    },
+    {
+      "id": "timber_frame_cross",
+      "item": "millenaire:timber_frame_cross",
+      "selling_price": 26,
+      "buying_price": 16,
+      "reserved_quantity": 128,
+      "target_quantity": 1024,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "timber_frame_plain",
+      "item": "millenaire:timber_frame_plain",
+      "selling_price": 40,
+      "buying_price": 20,
+      "reserved_quantity": 128,
+      "target_quantity": 1024,
+      "category": "foreigntrade"
+    },
+    {
+      "id": "ice",
+      "item": "minecraft:ice",
+      "selling_price": 960,
+      "buying_price": 768,
+      "target_quantity": 100,
+      "foreign_merchant_price": 1024,
+      "category": "construction"
+    },
+    {
+      "id": "sod_oak",
+      "item": "millenaire:sod_oak",
+      "selling_price": 5,
+      "buying_price": 3,
+      "target_quantity": 64,
+      "foreign_merchant_price": 7,
+      "category": "construction"
+    },
+    {
+      "id": "sod_spruce",
+      "item": "millenaire:sod_spruce",
+      "selling_price": 8,
+      "buying_price": 5,
+      "reserved_quantity": 128,
+      "target_quantity": 1024,
+      "foreign_merchant_price": 10,
+      "category": "construction"
+    },
+    {
+      "id": "sod_birch",
+      "item": "millenaire:sod_birch",
+      "selling_price": 8,
+      "buying_price": 5,
+      "reserved_quantity": 128,
+      "target_quantity": 1024,
+      "foreign_merchant_price": 10,
+      "category": "construction"
+    },
+    {
+      "id": "sod_jungle",
+      "item": "millenaire:sod_jungle",
+      "selling_price": 5,
+      "buying_price": 3,
+      "target_quantity": 64,
+      "foreign_merchant_price": 7,
+      "category": "construction"
+    },
+    {
+      "id": "sod_acacia",
+      "item": "millenaire:sod_acacia",
+      "selling_price": 5,
+      "buying_price": 3,
+      "target_quantity": 64,
+      "foreign_merchant_price": 7,
+      "category": "construction"
+    },
+    {
+      "id": "sod_dark_oak",
+      "item": "millenaire:sod_dark_oak",
+      "selling_price": 5,
+      "buying_price": 3,
+      "target_quantity": 64,
+      "foreign_merchant_price": 7,
+      "category": "construction"
+    },
+    {
+      "id": "inuitcarving",
+      "item": "millenaire:inuit_carving",
+      "selling_price": 1024,
+      "buying_price": 768,
+      "target_quantity": 16,
+      "foreign_merchant_price": 1280,
+      "category": "construction"
+    },
+    {
+      "id": "boneblock",
+      "item": "minecraft:bone_block",
+      "selling_price": 24,
+      "buying_price": 18,
+      "target_quantity": 16,
+      "foreign_merchant_price": 32,
+      "category": "construction"
+    },
+    {
+      "id": "cauldron",
+      "item": "minecraft:cauldron",
+      "selling_price": 320,
+      "buying_price": 256,
+      "target_quantity": 6,
+      "foreign_merchant_price": 256,
+      "category": "construction"
+    },
+    {
+      "id": "fire_pit",
+      "item": "millenaire:fire_pit",
+      "selling_price": 192,
+      "buying_price": 128,
+      "target_quantity": 6,
+      "foreign_merchant_price": 256,
+      "category": "construction"
+    },
+    {
+      "id": "banner_white",
+      "item": "minecraft:white_banner",
+      "selling_price": 64,
+      "buying_price": 58,
+      "reserved_quantity": 4,
+      "target_quantity": 16,
+      "category": "construction"
+    }
+  ]
+}

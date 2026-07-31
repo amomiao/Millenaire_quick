@@ -1,0 +1,70 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "deserttradeoutpost",
+  "converter_skip": true,
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Saray",
+  "shop": "deserttradeoutpost",
+  "male": [
+    "lonetrader",
+    "soldier"
+  ],
+  "icon": "minecraft:lapis_lazuli",
+  "starting_goods": [
+    {
+      "item": "millenaire:rice",
+      "probability": 1.0,
+      "fixed": 32,
+      "random": 32
+    },
+    {
+      "item": "millenaire:turmeric",
+      "probability": 1.0,
+      "fixed": 16,
+      "random": 16
+    },
+    {
+      "item": "minecraft:chicken",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 8
+    },
+    {
+      "item": "minecraft:lapis_lazuli",
+      "probability": 0.8,
+      "fixed": 32,
+      "random": 32
+    },
+    {
+      "item": "minecraft:diamond",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.8,
+      "fixed": 8,
+      "random": 16
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -5,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 11
+          },
+          "priority": 5
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

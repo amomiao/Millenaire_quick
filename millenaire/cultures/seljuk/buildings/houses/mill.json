@@ -1,0 +1,96 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "mill",
+  "category": "houses",
+  "native_name": "Değirmen",
+  "shop": "mill",
+  "min_distance": 0.3,
+  "male": [
+    "turk_miller"
+  ],
+  "female": [
+    "turk_peasantwife"
+  ],
+  "tags": [
+    "mill"
+  ],
+  "icon": "minecraft:bread",
+  "area_to_clear": 4,
+  "far_from_tags": [
+    "mill,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "mill"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 700,
+          "village_tags": [
+            "mill_built"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 9,
+            "depth": 12
+          },
+          "priority": 400,
+          "village_tags": [
+            "mill_built"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 9,
+            "depth": 12
+          },
+          "priority": 155,
+          "path_level": 1,
+          "rebuild_path": true,
+          "village_tags": [
+            "mill_built"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 12
+          },
+          "priority": 40,
+          "village_tags": [
+            "mill_built"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 14,
+            "height": 11,
+            "depth": 12
+          },
+          "priority": 20,
+          "village_tags": [
+            "mill_built"
+          ]
+        }
+      ]
+    }
+  ]
+}

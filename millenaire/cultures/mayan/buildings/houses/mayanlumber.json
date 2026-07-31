@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanlumber",
+  "category": "houses",
+  "native_name": "B'aat Winik Nah",
+  "male": [
+    "lumberman"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_axe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 5,
+            "depth": 11
+          },
+          "priority": 1000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 5,
+            "depth": 11
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 5,
+            "depth": 11
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 90
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 85
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 80,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

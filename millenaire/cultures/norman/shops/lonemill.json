@@ -1,0 +1,18 @@
+{
+  "sells": [
+    "bread",
+    "cake",
+    "sugar"
+  ],
+  "buys": [
+    "cider",
+    "calva",
+    "norman_hoe",
+    "norman_shovel"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:wheat",
+    "minecraft:sugar_cane"
+  ]
+}

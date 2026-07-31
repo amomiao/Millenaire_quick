@@ -1,0 +1,19 @@
+{
+  "culture": "millenaire:indian",
+  "biome_tags": [
+    "#c:is_desert",
+    "#c:is_jungle"
+  ],
+  "name": "Chota Mandir",
+  "weight": 5,
+  "lone_building": true,
+  "radius": 12,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:indian/loneshrine",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

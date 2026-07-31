@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "hamlettownhallplayer_a_inn",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "hamlettownhallplayer",
+    "variant": "a",
+    "level": 0
+  },
+  "is_town_hall": false,
+  "native_name": "Belediye Bina Konağı",
+  "max_count": 0,
+  "male": [
+    "turk_localmerchant"
+  ],
+  "tags": [
+    "inn"
+  ],
+  "icon": "minecraft:red_bed",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "inn"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 23,
+            "height": 3,
+            "depth": 28
+          },
+          "priority": 1000,
+          "signs": "1,0"
+        }
+      ]
+    }
+  ]
+}

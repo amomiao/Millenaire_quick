@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "kitchen_a_ayran",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "kitchen",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Mutfak",
+  "max_count": 0,
+  "tags": [
+    "godrinkayran"
+  ],
+  "icon": "millenaire:ayran",
+  "area_to_clear": 1,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "godrinkayran"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 6,
+            "depth": 16
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

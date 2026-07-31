@@ -1,0 +1,55 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Kyria",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblefemale/byz.rich.female.a.png",
+    "millenaire:textures/entity/byzanz/noblefemale/byz.rich.female.b.png",
+    "millenaire:textures/entity/byzanz/noblefemale/byz.rich.female.c.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblefemale/clothes/byz.richf.1.a.png",
+        "millenaire:textures/entity/byzanz/noblefemale/clothes/byz.richf.1.b.png"
+      ]
+    }
+  },
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:get_goods_for_household",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:craft_book_fancy",
+    "millenaire:craft_icon_fancy",
+    "millenaire:gardening_byz"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:oak_log": 10,
+    "minecraft:spruce_log": 5,
+    "minecraft:jungle_log": 10,
+    "minecraft:birch_log": 10,
+    "minecraft:acacia_log": 5,
+    "minecraft:dark_oak_log": 10,
+    "minecraft:leather": 10
+  },
+  "gender": "female",
+  "first_name_list": "greek_women_names",
+  "family_name_list": "greek_family_names",
+  "male_child": "boy_byzantine",
+  "female_child": "girl_byzantine",
+  "icon": "millenaire:silk",
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 1
+}

@@ -1,0 +1,25 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "lonebuddha",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Daibutsu",
+  "icon": "minecraft:poppy",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 16,
+            "depth": 22
+          }
+        }
+      ]
+    }
+  ]
+}

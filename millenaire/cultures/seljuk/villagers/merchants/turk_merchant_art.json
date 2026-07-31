@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Sanat Tüccarı",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_old_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/wool/wool_0.png",
+        "millenaire:textures/entity/turks/male/wool/wool_2.png",
+        "millenaire:textures/entity/turks/male/wool/wool_4.png",
+        "millenaire:textures/entity/turks/male/wool/wool_6.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "millenaire:purse",
+  "base_attack_strength": 5,
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "minecraft:white_banner": 16,
+    "minecraft:painting": 32,
+    "millenaire:wall_carpet_large": 4,
+    "millenaire:wall_carpet_medium": 6,
+    "millenaire:wall_carpet_small": 8,
+    "minecraft:white_dye": 64,
+    "minecraft:orange_dye": 64,
+    "minecraft:magenta_dye": 64,
+    "minecraft:light_blue_dye": 64,
+    "minecraft:yellow_dye": 64,
+    "minecraft:green_dye": 64,
+    "minecraft:gray_dye": 64,
+    "minecraft:light_gray_dye": 64,
+    "minecraft:cyan_dye": 64,
+    "minecraft:purple_dye": 64,
+    "minecraft:lapis_lazuli": 64,
+    "minecraft:cocoa_beans": 64,
+    "minecraft:red_dye": 64,
+    "minecraft:black_dye": 64
+  }
+}

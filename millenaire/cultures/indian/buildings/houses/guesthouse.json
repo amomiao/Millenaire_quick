@@ -1,0 +1,61 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "guesthouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Chota Saraay",
+  "max_count": 0,
+  "tags": [
+    "inn"
+  ],
+  "icon": "millenaire:straw_bed",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "inn"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 6
+          },
+          "priority": 600,
+          "signs": "1,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 6
+          },
+          "priority": 60
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 8,
+            "depth": 6
+          },
+          "priority": 55
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 8,
+            "depth": 6
+          }
+        }
+      ],
+      "building_orientation": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Rajput Senapati",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_rajput_leader0.png",
+    "millenaire:textures/entity/indian/ml_rajput_leader1.png"
+  ],
+  "base_scale": 1.1,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "minecraft:diamond_sword",
+  "max_health": 60,
+  "tool_needed_classes": [
+    "armour",
+    "toolssword"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 20,
+  "travelbook_held_item": "minecraft:iron_sword",
+  "travelbook_main_culture_villager": true
+}

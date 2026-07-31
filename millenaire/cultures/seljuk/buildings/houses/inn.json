@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "inn",
+  "category": "houses",
+  "native_name": "Konak",
+  "male": [
+    "turk_localmerchant"
+  ],
+  "tags": [
+    "inn"
+  ],
+  "icon": "minecraft:red_bed",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "inn"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 600,
+          "path_width": 3,
+          "signs": "1,0",
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 200
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 15
+          },
+          "priority": 75,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 15
+          },
+          "priority": 50
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Alchimiste",
+  "textures": [
+    "millenaire:textures/entity/norman/special/alchemist.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "alchemist_first",
+  "family_name_list": "alchemist_last",
+  "icon": "alchemist_amulet",
+  "experience_given": 2,
+  "travelbook_held_item": "minecraft:paper",
+  "travelbook_held_item_off_hand": "minecraft:glass_bottle"
+}

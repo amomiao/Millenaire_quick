@@ -1,0 +1,32 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Nuunjul Aj K'in",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_shaman0.png",
+    "millenaire:textures/entity/mayan/mayan_shaman1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cacauhaa",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:spider_eye",
+  "travelbook_held_item": "minecraft:spider_eye",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "minecraft:spider_eye": 8,
+    "minecraft:rotten_flesh": 64,
+    "minecraft:bone": 16,
+    "minecraft:flint": 32
+  }
+}

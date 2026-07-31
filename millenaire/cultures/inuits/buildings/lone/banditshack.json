@@ -1,0 +1,180 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "banditshack",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Unatannik Tupiq",
+  "max_count": 0,
+  "male": [
+    "inuit_madman",
+    "inuit_madman",
+    "inuit_madman2"
+  ],
+  "icon": "minecraft:wooden_sword",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:inuitbow",
+      "probability": 0.67,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furhelmet",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furplate",
+      "probability": 0.67,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:furlegs",
+      "probability": 0.67,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:furboots",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:leather_helmet",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:leather_chestplate",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "minecraft:leather_leggings",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:leather_boots",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:inuittrident",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:inuitbow",
+      "probability": 0.67,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:arrow",
+      "probability": 0.5,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "millenaire:ulu",
+      "probability": 0.25,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "millenaire:inuitbearstew",
+      "probability": 2.0,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:bearmeat_cooked",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "minecraft:wooden_sword",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "minecraft:bone",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "minecraft:white_dye",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 42
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 7
+          },
+          "priority": 7,
+          "infoTreeSpawns": [
+            {
+              "sapling": "pine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 7,
+            "depth": 12
+          },
+          "priority": 7,
+          "infoTreeSpawns": [
+            {
+              "sapling": "birch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

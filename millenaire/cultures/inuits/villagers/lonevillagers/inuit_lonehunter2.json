@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Afuniaqti",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_hunter1.png",
+    "millenaire:textures/entity/inuit/inuit_hunter2.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png"
+  ],
+  "base_scale": 1.15,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:drink",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "archer",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:inuitbow": 1,
+    "minecraft:arrow": 64,
+    "millenaire:furhelmet": 1,
+    "millenaire:furplate": 1,
+    "millenaire:furlegs": 1,
+    "millenaire:furboots": 1
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:inuitbow",
+  "max_health": 30,
+  "tool_needed_classes": [
+    "armour",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 7,
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:inuitbow",
+  "travelbook_held_item_off_hand": "minecraft:beef"
+}

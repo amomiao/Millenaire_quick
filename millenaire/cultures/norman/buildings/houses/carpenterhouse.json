@@ -1,0 +1,71 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "carpenterhouse",
+  "category": "houses",
+  "native_name": "Maison du charpentier",
+  "max_count": 2,
+  "male": [
+    "carpenter"
+  ],
+  "female": [
+    "wife"
+  ],
+  "icon": "millenaire:timber_frame_cross",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 8,
+            "depth": 15
+          },
+          "priority": 800,
+          "priority_move_in": 20
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 15
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 15
+          },
+          "priority": 75,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 15
+          },
+          "priority": 60,
+          "path_level": 2
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 15,
+            "height": 10,
+            "depth": 15
+          },
+          "priority": 55
+        }
+      ]
+    }
+  ]
+}

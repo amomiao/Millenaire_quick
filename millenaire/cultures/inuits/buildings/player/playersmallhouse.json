@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "playersmallhouse",
+  "category": "player",
+  "native_name": "Mikiruq Tupiq",
+  "max_count": 0,
+  "icon": "millenaire:denier",
+  "price": 384,
+  "reputation": 4096,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 3000
+        }
+      ]
+    }
+  ]
+}

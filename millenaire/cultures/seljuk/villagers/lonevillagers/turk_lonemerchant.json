@@ -1,0 +1,60 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Tüccar",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_old_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cotton/cotton_0.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_1.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_2.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_3.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_4.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_5.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_6.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_7.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_ayran",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "millenaire:purse",
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:purse"
+}

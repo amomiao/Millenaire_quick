@@ -1,0 +1,56 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "well",
+  "category": "nodes",
+  "native_name": "Tandurust",
+  "tags": [
+    "pathnode",
+    "leisure"
+  ],
+  "icon": "minecraft:water_bucket",
+  "area_to_clear": 4,
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -8,
+      "tags": [
+        "pathnode",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 10
+          },
+          "priority": 1000,
+          "irrigation": 5
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 10
+          },
+          "irrigation": 10,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 10
+          }
+        }
+      ]
+    }
+  ]
+}

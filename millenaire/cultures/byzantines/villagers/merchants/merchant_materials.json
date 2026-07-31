@@ -1,0 +1,51 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Mettalemporos",
+  "textures": [
+    "millenaire:textures/entity/byzanz/male/byz.peasant.a.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.b.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.c.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.d.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.e.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.f.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.g.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.h.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.i.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.j.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.k.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/foreign/byz.ft.mat.1.a.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:byzantine_tiles",
+  "base_attack_strength": 5,
+  "experience_given": 3,
+  "foreign_merchant_stock": {
+    "millenaire:byzantine_tiles": 32,
+    "minecraft:sandstone": 64,
+    "minecraft:cobblestone": 64,
+    "minecraft:stone": 32,
+    "millenaire:stained_glass_white": 32,
+    "minecraft:polished_diorite": 64,
+    "minecraft:quartz_block": 32
+  }
+}

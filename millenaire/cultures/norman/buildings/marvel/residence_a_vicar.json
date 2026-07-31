@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "residence_a_vicar",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "residence",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Chambre du vicaire",
+  "max_count": 0,
+  "male": [
+    "vicar"
+  ],
+  "tags": [
+    "autospawnvillagers"
+  ],
+  "icon": "minecraft:book",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "autospawnvillagers"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 26,
+            "height": 22,
+            "depth": 30
+          },
+          "priority": 300
+        }
+      ]
+    }
+  ]
+}

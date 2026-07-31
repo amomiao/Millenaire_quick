@@ -1,0 +1,88 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanbandits",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "K'as Koloh-che'",
+  "max_count": 2,
+  "male": [
+    "mayanbanditwarrior",
+    "mayanbanditwarrior",
+    "mayanbanditwarrior"
+  ],
+  "icon": "millenaire:mayan_mace",
+  "starting_goods": [
+    {
+      "item": "millenaire:maize",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 16
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.3,
+      "fixed": 2,
+      "random": 2
+    },
+    {
+      "item": "minecraft:chicken",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 8
+    },
+    {
+      "item": "millenaire:mayan_statue",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.8,
+      "fixed": 4,
+      "random": 15
+    },
+    {
+      "item": "minecraft:bow",
+      "probability": 0.8,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "minecraft:arrow",
+      "probability": 0.8,
+      "fixed": 10,
+      "random": 30
+    },
+    {
+      "item": "minecraft:pumpkin",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 5
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 8,
+            "depth": 15
+          },
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

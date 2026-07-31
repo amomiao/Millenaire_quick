@@ -1,0 +1,26 @@
+{
+  "handler": "paddy_harvesting",
+  "priority": 40,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 16,
+  "actionCooldown": 10,
+  "stuckTimeout": 4000,
+  "arrivalRange": 8,
+  "walkSpeed": 0.6,
+  "villageLimit": {
+    "millenaire:rice": 512
+  },
+  "maxSimultaneousInBuilding": 2,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "reoccurDelay": -1,
+  "handlerParams": {
+    "soilSubtype": "rice",
+    "buildingTag": "paddy",
+    "irrigationBonusCrop": "millenaire:rice"
+  },
+  "heldItems": [
+    "millenaire:rice"
+  ]
+}

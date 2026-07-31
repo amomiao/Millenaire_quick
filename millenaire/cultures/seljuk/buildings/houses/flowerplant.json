@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "flowerplant",
+  "category": "houses",
+  "native_name": "Çiçek bahçesi",
+  "tags": [
+    "garden",
+    "leisure",
+    "flowerfield"
+  ],
+  "icon": "minecraft:poppy",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "garden",
+        "leisure",
+        "flowerfield"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 10
+          },
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

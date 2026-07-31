@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "playersmallhouse",
+  "converter_skip": true,
+  "category": "player",
+  "native_name": "Chota Ghar",
+  "max_count": 0,
+  "icon": "millenaire:denier",
+  "price": 960,
+  "reputation": 4096,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 1000000
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

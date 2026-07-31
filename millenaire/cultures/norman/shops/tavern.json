@@ -1,0 +1,12 @@
+{
+  "sells": [
+    "cider",
+    "calva"
+  ],
+  "buys": [],
+  "buys_optional": [],
+  "deliver_to": [
+    "millenaire:cider",
+    "millenaire:calva"
+  ]
+}

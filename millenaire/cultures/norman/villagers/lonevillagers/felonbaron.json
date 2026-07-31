@@ -1,0 +1,52 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Baron félon",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_nobleman_0.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_1.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_2.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_3.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_4.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_5.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_6.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_7.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_8.png",
+    "millenaire:textures/entity/norman/male/nor_nobleman_9.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_baron_0.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink_cider",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "heavydrinker",
+    "hostile",
+    "noteleport",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:norman_chestplate": 1,
+    "millenaire:norman_helmet": 1,
+    "millenaire:norman_leggings": 1,
+    "millenaire:norman_boots": 1,
+    "millenaire:norman_sword": 1
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "noble_family_names",
+  "icon": "millenaire:norman_sword",
+  "max_health": 30,
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 40,
+  "travelbook_held_item": "millenaire:norman_sword"
+}

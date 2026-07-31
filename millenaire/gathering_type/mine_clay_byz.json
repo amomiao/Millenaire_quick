@@ -1,0 +1,30 @@
+{
+  "handler": "mining",
+  "priority": 50,
+  "priorityRandom": 10,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 8,
+  "actionCooldown": 70,
+  "stuckTimeout": 200,
+  "arrivalRange": 5,
+  "walkSpeed": 0.6,
+  "villageLimit": {
+    "minecraft:clay_ball": 1028
+  },
+  "maxSimultaneousInBuilding": 2,
+  "maxSimultaneousTotal": 1,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "sourceSubtype": "clay",
+    "buildingTag": "sandpit",
+    "loot": [
+      {
+        "item": "minecraft:clay_ball",
+        "count": 16
+      }
+    ]
+  },
+  "sentenceKey": "mining"
+}

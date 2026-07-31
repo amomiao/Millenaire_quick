@@ -1,0 +1,78 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Paroikos",
+  "textures": [
+    "millenaire:textures/entity/byzanz/male/byz.peasant.a.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.b.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.c.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.d.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.e.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.f.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.g.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.h.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.i.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.j.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.k.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/male/clothes/byz.farmer.1.a.png",
+        "millenaire:textures/entity/byzanz/male/clothes/byz.farmer.1.b.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/male/clothes/byz.farmer.2.a.png",
+        "millenaire:textures/entity/byzanz/male/clothes/byz.farmer.2.b.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:listen_to_speech",
+    "millenaire:bring_back_home",
+    "millenaire:harvest_wheat",
+    "millenaire:plant_wheat",
+    "millenaire:harvest_carrot",
+    "millenaire:plant_carrot"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:wheat_seeds": 100
+  },
+  "bring_back_home_goods": [
+    "minecraft:wheat",
+    "minecraft:carrot"
+  ],
+  "collect_goods": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:carrot"
+  ],
+  "required_goods": {
+    "minecraft:wheat_seeds": 16
+  },
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "minecraft:wheat",
+  "tool_needed_classes": [
+    "hoes"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:wooden_hoe",
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:wheat"
+}

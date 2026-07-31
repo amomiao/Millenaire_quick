@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Muurtikaar",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_scultor0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_indianstatue",
+    "millenaire:craft_sandstonecarved",
+    "millenaire:craft_redsandstonecarved",
+    "millenaire:craft_ochresandstonecarved"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:stone": 20,
+    "minecraft:sandstone": 20,
+    "minecraft:red_sandstone": 20,
+    "millenaire:sandstone_carved": 15,
+    "millenaire:red_sandstone_carved": 5
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:sandstone",
+  "items_needed": [
+    "minecraft:iron_sword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:wall_indian_statue",
+  "travelbook_held_item_off_hand": "minecraft:sandstone"
+}

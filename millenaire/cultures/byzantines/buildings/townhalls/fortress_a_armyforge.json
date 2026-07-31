@@ -1,0 +1,72 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "fortress_a_armyforge",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "fortress",
+    "variant": "a",
+    "level": 4
+  },
+  "is_town_hall": false,
+  "native_name": "Hóplosydirourgeíon",
+  "shop": "armyforge",
+  "max_count": 0,
+  "male": [
+    "armysmith_byzantine"
+  ],
+  "tags": [
+    "armoury",
+    "forge"
+  ],
+  "icon": "anvil",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -4,
+      "tags": [
+        "armoury",
+        "forge"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 400,
+          "parent_tags": [
+            "armyforge"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 200,
+          "parent_tags": [
+            "armyforge"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 150,
+          "parent_tags": [
+            "armyforge"
+          ]
+        }
+      ]
+    }
+  ]
+}

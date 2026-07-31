@@ -1,0 +1,210 @@
+{
+  "culture": "millenaire:seljuk",
+  "name": "Yönetilen Saray",
+  "weight": 0,
+  "player_controlled": true,
+  "layout": [
+    {
+      "plan": "millenaire:seljuk/sarayfortplayer",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:seljuk/lumbermanshouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mill",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mine_brick",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/mosque",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/inn",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:seljuk/playersmall1",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playersmall2",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousegift",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousesmall",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousemed",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/playerhousemed2",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/peasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/kitchen",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/market",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cowfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/sheepfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/wheatpaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/fishery",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/pistachiotrees",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/sugarcanefarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cottonfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/weaver",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/toolsmith",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/mine_brick",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/brick",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/stonecraftsman",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/armoury",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/barrackssmall",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/barracks",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/watchtower",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/well",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/bigwell",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/hamambath",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cottonfield",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/smallmosque",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/olivefarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/abdesthane",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/cesme",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/golgealti",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/passnode",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplant",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/flowerplantsmall",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:seljuk/node",
+      "role": "core"
+    }
+  ],
+  "icon": "millenaire:seljuk_helmet",
+  "carries_raid": true,
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "inner_wall_type": "mudbrickwalls",
+  "inner_wall_radius": 35,
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:sjk,Color:12}]}}"
+  ],
+  "max_simultaneous_wall_constructions": 2,
+  "never": [
+    "imamshouse"
+  ],
+  "allow_extra_buildings": false
+}

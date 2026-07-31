@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Shilpee",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_lumberman0.png",
+    "millenaire:textures/entity/indian/ml_lumberman1.png",
+    "millenaire:textures/entity/indian/ml_lumberman2.png",
+    "millenaire:textures/entity/indian/ml_lumberman3.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_charpoybed",
+    "millenaire:craft_woodenbarsindian",
+    "millenaire:craft_woodenbarsrosette"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:acacia_log": 20
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:wooden_bars_indian",
+  "items_needed": [
+    "minecraft:iron_sword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5
+}

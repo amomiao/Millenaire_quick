@@ -1,0 +1,18 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "drinking",
+  "requiredTag": null,
+  "basePriority": 50,
+  "priorityRandom": 30,
+  "durationTicks": 400,
+  "reoccurDelayTicks": 12000,
+  "allowRandomMoves": true,
+  "leisure": true,
+  "targetPosType": null,
+  "minimumHour": 10000,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "heldItems": null,
+  "heldItemsDestination": null,
+  "goalKey": "drink"
+}

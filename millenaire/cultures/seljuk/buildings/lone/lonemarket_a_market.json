@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "lonemarket_a_market",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "lonemarket",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Çarşı",
+  "max_count": 0,
+  "tags": [
+    "market"
+  ],
+  "icon": "millenaire:purse",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "market"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 25,
+            "height": 3,
+            "depth": 25
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

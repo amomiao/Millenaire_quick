@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Amiq",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_shaman.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:deliver_resources_shop",
+    "millenaire:craft_tanned_hide",
+    "millenaire:craft_hide_hanging",
+    "millenaire:craft_leather",
+    "millenaire:craft_inuitbow",
+    "millenaire:craft_bannerleather"
+  ],
+  "tags": [
+    "chief",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:cauldron": 24,
+    "millenaire:snow_brick": 48
+  },
+  "bring_back_home_goods": [
+    "minecraft:bone",
+    "minecraft:rotten_flesh"
+  ],
+  "collect_goods": [
+    "minecraft:rotten_flesh",
+    "minecraft:bone"
+  ],
+  "required_goods": {
+    "minecraft:leather": 8,
+    "minecraft:bone": 2,
+    "millenaire:bearmeat_cooked": 4,
+    "millenaire:wolfmeat_cooked": 4,
+    "millenaire:inuitbearstew": 4,
+    "millenaire:inuitmeatystew": 4,
+    "millenaire:inuitpotatostew": 8,
+    "millenaire:seafood_cooked": 16,
+    "minecraft:baked_potato": 64
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "millenaire:tannedhide",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 6,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:tannedhide"
+}

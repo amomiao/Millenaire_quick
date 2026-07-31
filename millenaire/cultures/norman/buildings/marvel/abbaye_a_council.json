@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbaye_a_council",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "abbaye",
+    "variant": "a",
+    "level": 5
+  },
+  "native_name": "Chambre du conseil",
+  "max_count": 0,
+  "icon": "minecraft:blue_carpet",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 48,
+            "height": 53,
+            "depth": 112
+          },
+          "parent_tags": [
+            "203"
+          ],
+          "required_parent_tags": [
+            "level_6"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "sarayfort_a_imams",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "sarayfort",
+    "variant": "a",
+    "level": 0
+  },
+  "is_town_hall": false,
+  "native_name": "Imamin Evi",
+  "max_count": 0,
+  "male": [
+    "turk_imam"
+  ],
+  "female": [
+    "turk_imamswife"
+  ],
+  "icon": "minecraft:red_bed",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 39,
+            "height": 3,
+            "depth": 39
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

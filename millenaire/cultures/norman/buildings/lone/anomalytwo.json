@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "anomalytwo",
+  "category": "lone",
+  "native_name": "Anomalie Deux",
+  "tags": [
+    "worldquest"
+  ],
+  "starting_goods": [
+    {
+      "item": "minecraft:nether_wart",
+      "probability": 1.0,
+      "fixed": 16,
+      "random": 0
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "tags": [
+        "worldquest"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 25
+          },
+          "infoSoils": [
+            {
+              "crop": "netherwart"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

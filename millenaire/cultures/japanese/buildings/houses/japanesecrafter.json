@@ -1,0 +1,142 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesecrafter",
+  "category": "houses",
+  "native_name": "Shugi Ie",
+  "shop": "japanesecrafter",
+  "male": [
+    "crafter"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "tags": [
+    "oven"
+  ],
+  "icon": "millenaire:timber_frame_cross",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 800,
+          "priority_move_in": 20
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 13,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 50,
+          "tags": [
+            "oven"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 13,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 75,
+          "tags": [
+            "oven"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 13,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 70,
+          "tags": [
+            "oven"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 13,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 65,
+          "path_level": 1,
+          "tags": [
+            "oven"
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "oven"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 800,
+          "priority_move_in": 20
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 75
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 70,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 65
+        }
+      ]
+    }
+  ]
+}

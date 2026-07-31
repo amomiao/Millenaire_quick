@@ -1,0 +1,34 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Niviaqsialugruaq",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_female.png",
+    "millenaire:textures/entity/inuit/inuit_female2.png",
+    "millenaire:textures/entity/inuit/inuit_female3.png",
+    "millenaire:textures/entity/inuit/inuit_female4.png",
+    "millenaire:textures/entity/inuit/inuit_female5.png",
+    "millenaire:textures/entity/inuit/inuit_female6.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:child_become_adult",
+    "millenaire:play"
+  ],
+  "tags": [
+    "child"
+  ],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:pink_tulip",
+  "base_attack_strength": 2,
+  "default_weapon": "minecraft:bone",
+  "alt_native_name": "Uumaaba",
+  "alt_key": "teenagerfemale"
+}

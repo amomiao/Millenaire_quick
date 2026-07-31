@@ -1,0 +1,294 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "fortress",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Froúrion",
+  "shop": "thstratiotike",
+  "max_count": 0,
+  "male": [
+    "centurio_byzantine"
+  ],
+  "female": [
+    "baroness_byzantine"
+  ],
+  "tags": [
+    "leisure",
+    "patrol",
+    "wallcomplete"
+  ],
+  "icon": "millenaire:byzantine_mace",
+  "area_to_clear": 5,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -4,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 41,
+            "height": 15,
+            "depth": 40
+          },
+          "sub_buildings": [
+            "fortress_a_barracks"
+          ],
+          "signs": "3,2,1,0,5,4,7,8,6",
+          "tags": [
+            "leisure",
+            "patrol"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 41,
+            "height": 15,
+            "depth": 40
+          },
+          "priority": 450,
+          "tags": [
+            "leisure",
+            "patrol"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 41,
+            "height": 15,
+            "depth": 40
+          },
+          "priority": 450,
+          "rebuild_path": true,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 400,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 400,
+          "sub_buildings": [
+            "fortress_a_armyforge"
+          ],
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 250,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 210,
+          "required_tags": [
+            "barrackscomplete"
+          ],
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 200,
+          "path_level": 1,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 200,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 200,
+          "required_tags": [
+            "armyforge"
+          ],
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 200,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 11,
+          "footprint": {
+            "width": 41,
+            "height": 17,
+            "depth": 40
+          },
+          "priority": 150,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 12,
+          "footprint": {
+            "width": 41,
+            "height": 18,
+            "depth": 40
+          },
+          "priority": 120,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 13,
+          "footprint": {
+            "width": 41,
+            "height": 18,
+            "depth": 40
+          },
+          "priority": 120,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 14,
+          "footprint": {
+            "width": 41,
+            "height": 18,
+            "depth": 40
+          },
+          "priority": 120,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 15,
+          "footprint": {
+            "width": 41,
+            "height": 18,
+            "depth": 40
+          },
+          "priority": 120,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 16,
+          "footprint": {
+            "width": 41,
+            "height": 21,
+            "depth": 40
+          },
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        },
+        {
+          "level": 17,
+          "footprint": {
+            "width": 41,
+            "height": 21,
+            "depth": 40
+          },
+          "priority": 200,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wallcomplete"
+          ]
+        }
+      ]
+    }
+  ]
+}

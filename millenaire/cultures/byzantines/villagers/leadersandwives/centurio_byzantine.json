@@ -1,0 +1,59 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Kentarios",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.f.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.g.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.h.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.i.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.centurio.1.a.png"
+      ]
+    },
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.centurio.2.a.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks",
+    "raider",
+    "archer"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "minecraft:golden_sword",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 17,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 22,
+  "alt_native_name": "Parakentarios",
+  "travelbook_held_item": "millenaire:byzantine_mace"
+}

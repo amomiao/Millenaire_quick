@@ -1,0 +1,149 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "cattlefarm",
+  "category": "houses",
+  "native_name": "Elevage bovin",
+  "shop": "cattlefarm",
+  "male": [
+    "cattlefarmermale"
+  ],
+  "female": [
+    "cattlefarmerfemale"
+  ],
+  "tags": [
+    "cattle",
+    "oven"
+  ],
+  "icon": "millenaire:tripes",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 23,
+            "height": 11,
+            "depth": 16
+          },
+          "priority": 1000,
+          "tags": [
+            "cattle"
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 23,
+            "height": 11,
+            "depth": 16
+          },
+          "priority": 200,
+          "tags": [
+            "cattle"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 23,
+            "height": 11,
+            "depth": 16
+          },
+          "priority": 190,
+          "tags": [
+            "cattle"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 23,
+            "height": 11,
+            "depth": 16
+          },
+          "priority": 180,
+          "tags": [
+            "cattle",
+            "oven"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 23,
+            "height": 11,
+            "depth": 16
+          },
+          "priority": 85,
+          "tags": [
+            "cattle",
+            "oven"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 23,
+            "height": 11,
+            "depth": 16
+          },
+          "priority": 80,
+          "path_level": 1,
+          "tags": [
+            "cattle",
+            "oven"
+          ],
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 23,
+            "height": 11,
+            "depth": 16
+          },
+          "priority": 75,
+          "tags": [
+            "cattle",
+            "oven"
+          ],
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 23,
+            "height": 11,
+            "depth": 16
+          },
+          "priority": 70,
+          "tags": [
+            "cattle",
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

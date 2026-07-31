@@ -1,0 +1,20 @@
+{
+  "sells": [
+    "byzantine_mace",
+    "byzantine_boots",
+    "byzantine_leggings",
+    "byzantine_chestplate",
+    "byzantine_helmet",
+    "bow",
+    "iron_axe",
+    "iron_pickaxe",
+    "iron_shovel",
+    "iron_hoe"
+  ],
+  "buys": [
+    "iron_ingot",
+    "leather"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

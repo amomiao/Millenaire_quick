@@ -1,0 +1,12 @@
+{
+  "sells": [
+    "bottle",
+    "nether_wart",
+    "akwardpotion"
+  ],
+  "buys": [
+    "glass"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

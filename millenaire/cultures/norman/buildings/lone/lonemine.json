@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "lonemine",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Mine",
+  "shop": "lonemine",
+  "max_count": 0,
+  "male": [
+    "loneminer"
+  ],
+  "female": [
+    "lonewife"
+  ],
+  "tags": [
+    "leisure"
+  ],
+  "icon": "millenaire:norman_pickaxe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -5,
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 11,
+            "depth": 10
+          },
+          "priority": 3000,
+          "infoSources": [
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 12,
+            "depth": 10
+          },
+          "infoSources": [
+            {
+              "type": "stone"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

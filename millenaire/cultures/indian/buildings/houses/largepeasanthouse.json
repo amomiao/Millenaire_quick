@@ -1,0 +1,91 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "largepeasanthouse",
+  "category": "houses",
+  "native_name": "Bhare Ghar",
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "tags": [
+    "chicken",
+    "oven"
+  ],
+  "icon": "minecraft:iron_shovel",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 800
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 200
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "sub_buildings": [
+            "largepeasanthouse_a_secondary"
+          ],
+          "rebuild_path": true,
+          "tags": [
+            "chicken",
+            "oven"
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 6,
+            "depth": 15
+          },
+          "priority": 80,
+          "tags": [
+            "chicken",
+            "oven"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 15,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 85,
+          "tags": [
+            "chicken",
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

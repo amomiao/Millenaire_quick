@@ -1,0 +1,69 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "watchtower",
+  "category": "military",
+  "native_name": "Parateritírion",
+  "max_count": 4,
+  "min_distance": 0.8,
+  "male": [
+    "guard_byzantine"
+  ],
+  "female": [
+    "wife_byzantine"
+  ],
+  "tags": [
+    "patrol"
+  ],
+  "icon": "torch",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "patrol,50"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 12,
+            "depth": 13
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 13,
+            "height": 16,
+            "depth": 13
+          },
+          "priority": 400
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 13,
+            "height": 16,
+            "depth": 13
+          },
+          "priority": 200,
+          "path_level": 2
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 13,
+            "height": 17,
+            "depth": 13
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "questcave",
+  "category": "lone",
+  "tags": ["worldquest"],
+  "native_name": "Kak Actun",
+  "max_count": 0,
+  "starting_sub_buildings": [
+    "questcave_door"
+  ],
+  "icon": "millenaire:mayan_mace",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 50,
+            "height": 11,
+            "depth": 30
+          }
+        }
+      ]
+    }
+  ]
+}

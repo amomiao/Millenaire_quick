@@ -1,0 +1,85 @@
+{
+  "converter_skip": true,
+  "culture": "millenaire:norman",
+  "building_id": "loneabbey",
+  "category": "lone",
+  "native_name": "Abbaye",
+  "shop": "loneabbey",
+  "male": [
+    "loneabbot",
+    "lonemonk",
+    "lonemonk"
+  ],
+  "tags": [
+    "cattle",
+    "bakery",
+    "leisure"
+  ],
+  "starting_sub_buildings": [
+    "loneabbey_a_altar"
+  ],
+  "icon": "minecraft:book",
+  "fixed_orientation": "south",
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "cattle",
+        "bakery",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 21,
+            "height": 9,
+            "depth": 25
+          },
+          "priority": 3000,
+          "signs": "3,4,0,1,2,5,6,7,8",
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 21,
+            "height": 9,
+            "depth": 25
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 21,
+            "height": 17,
+            "depth": 25
+          }
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 21,
+            "height": 21,
+            "depth": 25
+          },
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

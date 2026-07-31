@@ -1,0 +1,83 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "forge",
+  "category": "houses",
+  "native_name": "Forge",
+  "shop": "forge",
+  "male": [
+    "smith"
+  ],
+  "female": [
+    "wife"
+  ],
+  "tags": [
+    "forge",
+    "patrol"
+  ],
+  "icon": "minecraft:iron_ingot",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "forge",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 13
+          },
+          "priority": 800,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 13
+          },
+          "priority": 80,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 13
+          }
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 13
+          }
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 13
+          }
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 13
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -30,7 +30,7 @@ usernamecache.json
 # 本地运行的可执行文件与客户端文件
 packwiz.exe
 *.jar
-*.json
+/*.json
 
 # 但要保留你手动写的 README
 !README.md

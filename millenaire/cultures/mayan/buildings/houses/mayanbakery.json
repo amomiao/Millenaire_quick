@@ -1,0 +1,92 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanbakery",
+  "category": "houses",
+  "native_name": "Chak",
+  "tags": [
+    "bakery",
+    "oven",
+    "leisure"
+  ],
+  "icon": "millenaire:wah",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "tags": [
+        "bakery",
+        "oven",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 800
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 75
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 8
+          },
+          "priority": 70,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 8
+          },
+          "priority": 65
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 8
+          },
+          "priority": 60
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 8
+          },
+          "priority": 55
+        }
+      ]
+    }
+  ]
+}

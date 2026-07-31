@@ -1,0 +1,119 @@
+{
+  "culture": "millenaire:japanese",
+  "biome_tags": [
+    "#c:is_taiga",
+    "#c:is_hill"
+  ],
+  "name": "Gunjiteki Mura",
+  "weight": 10,
+  "layout": [
+    {
+      "plan": "millenaire:japanese/japanesefort",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:japanese/japaneselmh",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesefarm",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesegrove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesefishery",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesepeasanth",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesepeasanth",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japaneseinn",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesepaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneselookout",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesecrafter",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesesamuraih",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesequarry",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneseforge",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesearmyforge",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesearchive",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:japanese/japanesemarket",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:japanese/chickenfarm",
+      "role": "secondary"
+    }
+  ],
+  "icon": "millenaire:japanese_tachi",
+  "carries_raid": true,
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "player_buildings": [
+    "millenaire:japanese/japaneseplot1",
+    "millenaire:japanese/japaneseplot2",
+    "millenaire:japanese/japaneseplot3",
+    "millenaire:japanese/japanesehut",
+    "millenaire:japanese/japanesehouse",
+    "millenaire:japanese/japanesehousemedium",
+    "millenaire:japanese/japanesehouselarge",
+    "millenaire:japanese/japanesearcheryrange",
+    "millenaire:japanese/gifthouse"
+  ],
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:jam,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:jam,Color:15}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:jam,Color:15}]}}",
+    "{BlockEntityTag:{Base:5,Patterns:[{Pattern:jam,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:jam,Color:15}]}}"
+  ],
+  "never": [
+    "japanesepagoda",
+    "japanesepalace",
+    "japaneseshintoshrine",
+    "japanesefarmbig",
+    "japanesekitchen",
+    "bath",
+    "well",
+    "squidfarm"
+  ]
+}

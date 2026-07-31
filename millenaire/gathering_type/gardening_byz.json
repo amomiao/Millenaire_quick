@@ -1,0 +1,27 @@
+{
+  "handler": "flower_planting",
+  "priority": 70,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 16,
+  "actionCooldown": 10,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "reoccurDelay": -1,
+  "handlerParams": {
+    "flowers": [
+      "minecraft:red_tulip",
+      "minecraft:pink_tulip",
+      "minecraft:white_tulip",
+      "minecraft:orange_tulip"
+    ],
+    "buildingTag": "garden"
+  },
+  "heldItems": [
+    "minecraft:wheat_seeds",
+    "minecraft:water_bucket"
+  ],
+  "leisure": true
+}

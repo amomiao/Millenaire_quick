@@ -1,0 +1,19 @@
+{
+  "culture": "millenaire:norman",
+  "biome_tags": [
+    "#c:is_plains",
+    "#c:is_birch_forest"
+  ],
+  "name": "Ferme en ruine",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 10,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:norman/ruinedfarm",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

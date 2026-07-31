@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "armoury",
+  "category": "houses",
+  "native_name": "Armurerie",
+  "shop": "armoury",
+  "male": [
+    "smith"
+  ],
+  "female": [
+    "wife"
+  ],
+  "tags": [
+    "armoury"
+  ],
+  "icon": "millenaire:norman_chestplate",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "armoury"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 800,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 7,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 75,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 7,
+            "height": 9,
+            "depth": 13
+          }
+        }
+      ]
+    }
+  ]
+}

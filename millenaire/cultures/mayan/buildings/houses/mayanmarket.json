@@ -1,0 +1,82 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanmarket",
+  "category": "houses",
+  "native_name": "Ciwic",
+  "tags": [
+    "market",
+    "leisure"
+  ],
+  "icon": "millenaire:purse",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "market",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 600
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 60
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 55,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 50
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 45
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 15,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 40
+        }
+      ]
+    }
+  ]
+}

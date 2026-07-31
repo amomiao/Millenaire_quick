@@ -1,0 +1,19 @@
+{
+  "sells": [
+    "udon",
+    "chicken_cooked"
+  ],
+  "buys": [
+    "wheat",
+    "rice",
+    "chicken_raw"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:wheat",
+    "millenaire:rice",
+    "minecraft:chicken",
+    "minecraft:cooked_chicken",
+    "millenaire:udon"
+  ]
+}

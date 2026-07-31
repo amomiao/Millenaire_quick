@@ -1,0 +1,112 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Aşçının Hanımı",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/turks/female/turk_female_0.png",
+    "millenaire:textures/entity/turks/female/turk_female_1.png",
+    "millenaire:textures/entity/turks/female/turk_female_2.png",
+    "millenaire:textures/entity/turks/female/turk_female_3.png",
+    "millenaire:textures/entity/turks/female/turk_female_4.png",
+    "millenaire:textures/entity/turks/female/turk_female_5.png",
+    "millenaire:textures/entity/turks/female/turk_female_6.png",
+    "millenaire:textures/entity/turks/female/turk_female_7.png",
+    "millenaire:textures/entity/turks/female/turk_female_8.png",
+    "millenaire:textures/entity/turks/female/turk_female_9.png",
+    "millenaire:textures/entity/turks/female/turk_female_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_0.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_1.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_2.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_3.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_4.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_5.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_6.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_7.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_8.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_9.png",
+        "millenaire:textures/entity/turks/female/cloth/turk_peasantwife_10.png"
+      ]
+    },
+    "clothes_seljuk_wool": {
+      "layer0": [
+        "millenaire:textures/entity/turks/female/wool/wool_0.png",
+        "millenaire:textures/entity/turks/female/wool/wool_1.png",
+        "millenaire:textures/entity/turks/female/wool/wool_2.png",
+        "millenaire:textures/entity/turks/female/wool/wool_3.png",
+        "millenaire:textures/entity/turks/female/wool/wool_4.png",
+        "millenaire:textures/entity/turks/female/wool/wool_5.png",
+        "millenaire:textures/entity/turks/female/wool/wool_6.png",
+        "millenaire:textures/entity/turks/female/wool/wool_7.png"
+      ]
+    },
+    "natural": {
+      "layer1": [
+        "millenaire:textures/entity/turks/female/hair/turk_lbrown.png",
+        "millenaire:textures/entity/turks/female/hair/turk_lblond.png",
+        "millenaire:textures/entity/turks/female/hair/turk_lblack.png",
+        "millenaire:textures/entity/turks/female/hair/turk_dbrown.png",
+        "millenaire:textures/entity/turks/female/hair/turk_dblack.png",
+        "millenaire:textures/entity/turks/female/hair/turk_brown.png",
+        "millenaire:textures/entity/turks/female/hair/turk_blond.png",
+        "millenaire:textures/entity/turks/female/hair/turk_hijab_0.png",
+        "millenaire:textures/entity/turks/female/hair/turk_hijab_1.png",
+        "millenaire:textures/entity/turks/female/hair/turk_hijab_2.png",
+        "millenaire:textures/entity/turks/female/hair/turk_hijab_3.png",
+        "millenaire:textures/entity/turks/female/hair/turk_hijab_4.png",
+        "millenaire:textures/entity/turks/female/hair/turk_hijab_5.png",
+        "millenaire:textures/entity/turks/female/hair/turk_hijab_6.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray_female_muslim",
+    "millenaire:take_bath_female",
+    "millenaire:drink_ayran",
+    "millenaire:craft_hay",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:bring_back_home",
+    "millenaire:cook_beef_kitchen",
+    "millenaire:cook_mutton_kitchen",
+    "millenaire:cook_fish_kitchen",
+    "millenaire:cook_chicken_kitchen",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:beef",
+    "minecraft:mutton",
+    "minecraft:chicken",
+    "minecraft:cod",
+    "millenaire:yogurt",
+    "minecraft:bread",
+    "minecraft:wheat"
+  ],
+  "required_goods": {
+    "minecraft:oak_log": 4
+  },
+  "gender": "female",
+  "first_name_list": "turk_low_caste_women_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "male_child": "turk_boy",
+  "female_child": "turk_girl",
+  "icon": "millenaire:ayran",
+  "villager_config": "muslimrules",
+  "items_needed": [
+    "millenaire:clothes_seljuk_wool"
+  ],
+  "experience_given": 2,
+  "travelbook_held_item": "millenaire:ayran"
+}

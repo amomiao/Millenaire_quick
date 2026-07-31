@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "residence_a_orderoutpost",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "residence",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Direction de l'ordre",
+  "max_count": 0,
+  "male": [
+    "ordervicar"
+  ],
+  "tags": [
+    "autospawnvillagers"
+  ],
+  "icon": "millenaire:norman_chestplate",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "autospawnvillagers"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 26,
+            "height": 22,
+            "depth": 30
+          },
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

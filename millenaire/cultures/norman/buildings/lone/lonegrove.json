@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "lonegrove",
+  "category": "lone",
+  "native_name": "Bosquet Isolé",
+  "max_count": 0,
+  "tags": [
+    "grove"
+  ],
+  "icon": "minecraft:oak_sapling",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "grove"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 4,
+            "depth": 12
+          },
+          "path_width": 1,
+          "infoTreeSpawns": [
+            {
+              "sapling": "oak"
+            },
+            {
+              "sapling": "birch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

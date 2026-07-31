@@ -1,0 +1,19 @@
+{
+  "culture": "millenaire:mayan",
+  "biome_tags": [
+    "#c:is_swamp",
+    "#c:is_jungle",
+    "#c:is_dark_forest"
+  ],
+  "name": "Ch'en",
+  "weight": 0,
+  "lone_building": true,
+  "radius": 15,
+  "layout": [
+    {
+      "plan": "millenaire:mayan/lonemayancave",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

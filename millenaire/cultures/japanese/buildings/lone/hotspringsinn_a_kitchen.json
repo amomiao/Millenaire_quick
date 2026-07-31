@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "hotspringsinn_a_kitchen",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "hotspringsinn",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Onsenmachi",
+  "max_count": 0,
+  "female": [
+    "innservant"
+  ],
+  "icon": "millenaire:udon",
+  "variants": []
+}

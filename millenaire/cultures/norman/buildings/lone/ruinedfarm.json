@@ -1,0 +1,97 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "ruinedfarm",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Ferme en ruine",
+  "max_count": 0,
+  "icon": "minecraft:wheat",
+  "starting_goods": [
+    {
+      "item": "minecraft:bread",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.2,
+      "fixed": 2,
+      "random": 2
+    },
+    {
+      "item": "minecraft:wheat",
+      "probability": 0.5,
+      "fixed": 8,
+      "random": 8
+    },
+    {
+      "item": "millenaire:norman_shovel",
+      "probability": 0.2,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_hoe",
+      "probability": 0.2,
+      "fixed": 1,
+      "random": 0
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 5
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 17
+          },
+          "priority": 5
+        }
+      ]
+    },
+    {
+      "variant": "c",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 9
+          },
+          "priority": 5
+        }
+      ]
+    }
+  ]
+}

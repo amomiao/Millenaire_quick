@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "jungletower",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Mono Paratiritio",
+  "shop": "lonetower",
+  "male": [
+    "keepertropical_byzantine"
+  ],
+  "icon": "minecraft:jungle_log",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 13,
+            "depth": 7
+          }
+        }
+      ]
+    }
+  ]
+}

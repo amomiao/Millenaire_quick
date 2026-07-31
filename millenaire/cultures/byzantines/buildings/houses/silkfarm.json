@@ -1,0 +1,90 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "silkfarm",
+  "category": "houses",
+  "native_name": "Ektrofí Metaxoskólika",
+  "min_distance": 0.6,
+  "male": [
+    "silkfarmer_byzantine"
+  ],
+  "female": [
+    "lady_byzantine"
+  ],
+  "tags": [
+    "silkwormfarm"
+  ],
+  "icon": "millenaire:silk",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "silkwormfarm"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 7,
+            "depth": 22
+          },
+          "priority_move_in": 15,
+          "village_tags": [
+            "clothes"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 17,
+            "height": 7,
+            "depth": 22
+          },
+          "priority": 200,
+          "path_level": 1,
+          "village_tags": [
+            "clothes"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 17,
+            "height": 12,
+            "depth": 22
+          },
+          "priority": 200,
+          "village_tags": [
+            "clothes"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 17,
+            "height": 12,
+            "depth": 22
+          },
+          "priority": 110,
+          "village_tags": [
+            "clothes"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 17,
+            "height": 12,
+            "depth": 22
+          },
+          "village_tags": [
+            "clothes"
+          ]
+        }
+      ]
+    }
+  ]
+}

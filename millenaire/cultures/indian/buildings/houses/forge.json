@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "forge",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Bhati",
+  "shop": "forge",
+  "male": [
+    "smith"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "tags": [
+    "forge"
+  ],
+  "icon": "minecraft:iron_ingot",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "forge"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 800,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          }
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          }
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

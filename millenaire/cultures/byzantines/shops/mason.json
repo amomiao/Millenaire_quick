@@ -1,0 +1,17 @@
+{
+  "sells": [
+    "polished_diorite",
+    "quartz",
+    "byzantine_tiles",
+    "byzantine_mosaic_red"
+  ],
+  "buys": [
+    "diorite",
+    "brick"
+  ],
+  "buys_optional": [
+    "polished_diorite",
+    "bricks"
+  ],
+  "deliver_to": []
+}

@@ -1,0 +1,72 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "hunter",
+  "category": "houses",
+  "native_name": "Afuniaqti Tupiq",
+  "male": [
+    "inuit_hunter"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "tags": [
+    "cattle",
+    "sheeps"
+  ],
+  "icon": "minecraft:bone",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "cattle",
+        "sheeps"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 5,
+            "depth": 8
+          },
+          "priority": 400,
+          "infoAnimalSpawns": [
+            {
+              "entity": "wolf"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 30,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 8
+          }
+        }
+      ]
+    }
+  ]
+}

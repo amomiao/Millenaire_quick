@@ -1,0 +1,235 @@
+{
+  "culture": "millenaire:byzantines",
+  "name": "Paroikia",
+  "weight": 0,
+  "player_controlled": true,
+  "layout": [
+    {
+      "plan": "millenaire:byzantines/playerfortress",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:byzantines/pinegrove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:byzantines/acaciagrove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:byzantines/woodcutter",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:byzantines/architect",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:byzantines/mine",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:byzantines/sandpit",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:byzantines/smelter",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:byzantines/workshop",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:byzantines/acaciagrove",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/acaciagrovesmall",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/architect",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/archives",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/carrotfield",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/chapel",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/cross",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/dressmaker",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/farm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/fishfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/garden",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/inn",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/market",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/mason",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/mine",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/olivepress",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/olivetree",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/pergola",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/pinegrove",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/pinegrovesmall",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/presbytery",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/sandpit",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/sheepfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/silkfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/smelter",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/taverna",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/toolsmith",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/vineyard",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/watchtower",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/wheatfield",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/windmill",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/woodcutter",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/workerhouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/workshop",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/playerhut",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/playerhouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:byzantines/villaurbana",
+      "role": "core"
+    }
+  ],
+  "icon": "millenaire:byzantine_helmet",
+  "carries_raid": true,
+  "path_materials": [
+    "pathgravel",
+    "pathslabs",
+    "pathsandstone"
+  ],
+  "banner_json": [
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:byz,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:byz,Color:15}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:byz,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:byz,Color:15}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:byz,Color:15}]}}",
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:vh,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:vh,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:vh,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:vh,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:vh,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:vh,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:vh,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:vh,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:vhr,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:vhr,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:vhr,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:vhr,Color:11},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:vhr,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:vhr,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:vhr,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:vhr,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:12,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:12},{Pattern:byz,Color:12},{Pattern:byz,Color:12},{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:4},{Pattern:byz,Color:4},{Pattern:byz,Color:4},{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:0},{Pattern:byz,Color:0},{Pattern:byz,Color:0},{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:1},{Pattern:byz,Color:1},{Pattern:byz,Color:1},{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:by1,Color:15},{Pattern:by2,Color:15},{Pattern:byz,Color:14},{Pattern:byz,Color:14},{Pattern:byz,Color:14},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:by1,Color:0},{Pattern:by2,Color:0},{Pattern:byz,Color:14},{Pattern:byz,Color:14},{Pattern:byz,Color:14},{Pattern:byz,Color:15}]}}"
+  ],
+  "max_simultaneous_constructions": 2,
+  "allow_extra_buildings": false
+}

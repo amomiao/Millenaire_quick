@@ -1,0 +1,19 @@
+{
+  "labels": [
+    { "threshold": -4096, "key": "reputation.millenaire.byzantines.apparent_barbarian" },
+    { "threshold": -1024, "key": "reputation.millenaire.byzantines.public_enemy" },
+    { "threshold": -256, "key": "reputation.millenaire.byzantines.unpleasant_outsider" },
+    { "threshold": -64, "key": "reputation.millenaire.byzantines.nuisance" },
+    { "threshold": 0, "key": "reputation.millenaire.byzantines.stranger" },
+    { "threshold": 256, "key": "reputation.millenaire.byzantines.familiarity" },
+    { "threshold": 512, "key": "reputation.millenaire.byzantines.known_face" },
+    { "threshold": 1024, "key": "reputation.millenaire.byzantines.regular_visitor" },
+    { "threshold": 2048, "key": "reputation.millenaire.byzantines.fellow_civilized_man" },
+    { "threshold": 4096, "key": "reputation.millenaire.byzantines.favourite_trader" },
+    { "threshold": 8192, "key": "reputation.millenaire.byzantines.friend_of_village" },
+    { "threshold": 16384, "key": "reputation.millenaire.byzantines.respectable_ally" },
+    { "threshold": 32768, "key": "reputation.millenaire.byzantines.one_of_us" },
+    { "threshold": 131072, "key": "reputation.millenaire.byzantines.natural_leader" },
+    { "threshold": 524288, "key": "reputation.millenaire.byzantines.next_caesar" }
+  ]
+}

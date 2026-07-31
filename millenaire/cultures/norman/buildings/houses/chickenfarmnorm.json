@@ -1,0 +1,79 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "chickenfarmnorm",
+  "category": "houses",
+  "native_name": "Elevage de volailles",
+  "shop": "sheepchickenfarm",
+  "male": [
+    "shepherd"
+  ],
+  "female": [
+    "shepherdf"
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "icon": "minecraft:egg",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "chicken"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 13
+          },
+          "priority": 1000,
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 13
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 13
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 13
+          },
+          "priority": 90
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 13
+          },
+          "priority": 85,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

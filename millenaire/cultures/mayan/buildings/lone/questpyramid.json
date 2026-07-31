@@ -1,0 +1,93 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "questpyramid",
+  "category": "lone",
+  "tags": ["worldquest"],
+  "native_name": "Keban Muul",
+  "male": [
+    "questfallenking",
+    "questkingelitewarrior",
+    "questkingelitewarrior",
+    "questkingelitewarrior",
+    "questkingelitewarrior"
+  ],
+  "starting_sub_buildings": [
+    "questpyramid_guards",
+    "questpyramid_jail",
+    "questpyramid_pit"
+  ],
+  "icon": "millenaire:mayan_mace",
+  "starting_goods": [
+    {
+      "item": "minecraft:arrow",
+      "probability": 1.0,
+      "fixed": 64,
+      "random": 256
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 15
+    },
+    {
+      "item": "minecraft:diamond",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 8
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "probability": 1.0,
+      "fixed": 16,
+      "random": 32
+    },
+    {
+      "item": "millenaire:mayan_gold_block",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 20
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.8,
+      "fixed": 4,
+      "random": 15
+    },
+    {
+      "item": "millenaire:denier_or",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:wah",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "millenaire:cacauhaa",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 6
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -30,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 38,
+            "height": 47,
+            "depth": 38
+          }
+        }
+      ]
+    }
+  ]
+}

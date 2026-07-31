@@ -1,0 +1,21 @@
+{
+  "handler": "take_from_building",
+  "priority": 60,
+  "priorityRandom": 10,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 1,
+  "actionCooldown": 20,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "buildingTag": "centralworkshop",
+    "collectGood": "minecraft:iron_ingot",
+    "maxCollect": 32,
+    "minimumPickup": 4
+  },
+  "sentenceKey": "takefrombuilding",
+  "labelKey": "takefrombuilding"
+}

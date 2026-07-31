@@ -1,0 +1,33 @@
+{
+  "handler": "smelting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "minecraft:cooked_cod": 60
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:cod",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:cooked_cod",
+        "count": 1
+      }
+    ],
+    "buildingTag": "kitchen"
+  },
+  "sentenceKey": "cookFish",
+  "labelKey": "cookFish",
+  "heldItems": [
+    "minecraft:cooked_cod"
+  ]
+}

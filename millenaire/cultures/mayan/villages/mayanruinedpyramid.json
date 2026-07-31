@@ -1,0 +1,20 @@
+{
+  "culture": "millenaire:mayan",
+  "biome_tags": [
+    "#c:is_jungle",
+    "#c:is_dark_forest"
+  ],
+  "name": "Sa'at Muul",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 15,
+  "min_distance_from_spawn": 1000,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:mayan/mayanruinedpyramid",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

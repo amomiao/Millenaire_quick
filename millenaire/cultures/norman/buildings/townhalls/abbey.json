@@ -1,0 +1,197 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbey",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Abbaye",
+  "shop": "townhall",
+  "max_count": 0,
+  "male": [
+    "abbot"
+  ],
+  "tags": [
+    "leisure",
+    "nopaths"
+  ],
+  "starting_sub_buildings": [
+    "abbey_a_cell_0"
+  ],
+  "icon": "millenaire:stained_glass_green_blue",
+  "fixed_orientation": "east",
+  "area_to_clear": 5,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 32,
+            "height": 9,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 600,
+          "signs": "3,2,1,4,5,7,8,6,0",
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 32,
+            "height": 9,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 580,
+          "sub_buildings": [
+            "abbey_a_altar"
+          ],
+          "rebuild_path": true,
+          "extra_simultaneous_wall_constructions": 1,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -6,
+          "priority": 560,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 540,
+          "sub_buildings": [
+            "abbey_a_cell_1"
+          ],
+          "extra_simultaneous_wall_constructions": 2,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 32,
+            "height": 24,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 520,
+          "tags": [
+            "leisure",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 32,
+            "height": 29,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 500,
+          "path_level": 2,
+          "tags": [
+            "leisure",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 32,
+            "height": 34,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 480,
+          "tags": [
+            "leisure",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 32,
+            "height": 39,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 460,
+          "tags": [
+            "leisure",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 32,
+            "height": 44,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 440,
+          "sub_buildings": [
+            "abbey_a_cell_2"
+          ],
+          "tags": [
+            "leisure",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 32,
+            "height": 49,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 420,
+          "tags": [
+            "leisure",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 32,
+            "height": 54,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 400,
+          "sub_buildings": [
+            "abbey_a_tower"
+          ],
+          "tags": [
+            "leisure",
+            "nopaths"
+          ]
+        }
+      ]
+    }
+  ]
+}

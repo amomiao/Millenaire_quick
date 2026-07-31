@@ -1,0 +1,75 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Mettalourgos",
+  "textures": [
+    "millenaire:textures/entity/byzanz/male/byz.peasant.a.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.b.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.c.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.d.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.e.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.f.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.g.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.h.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.i.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.j.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.k.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/male/clothes/byz.smith.1.a.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/male/clothes/byz.smith.2.a.png",
+        "millenaire:textures/entity/byzanz/male/clothes/byz.smith.2.b.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:listen_to_speech",
+    "millenaire:craft_steelpickaxe",
+    "millenaire:craft_steelaxe",
+    "millenaire:craft_steelshovel",
+    "millenaire:craft_steelhoe",
+    "millenaire:craft_stonepickaxe",
+    "millenaire:craft_stoneaxe",
+    "millenaire:craft_stoneshovel",
+    "millenaire:craft_stonehoe",
+    "millenaire:craft_byzantinelegs",
+    "millenaire:craft_byzantineboots",
+    "millenaire:craft_byzantinechest",
+    "millenaire:craft_byzantinehelmet",
+    "millenaire:craft_byzantinemace",
+    "millenaire:craft_bow",
+    "millenaire:craft_arrow"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:cobblestone": 20,
+    "minecraft:iron_ingot": 74,
+    "minecraft:leather": 10,
+    "minecraft:white_wool": 2,
+    "minecraft:feather": 2,
+    "minecraft:flint": 2
+  },
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "minecraft:iron_ingot",
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 5,
+  "experience_given": 5
+}

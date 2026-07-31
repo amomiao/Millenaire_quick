@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanplayerestate",
+  "category": "player",
+  "native_name": "Noh Muul",
+  "max_count": 0,
+  "icon": "millenaire:denier_or",
+  "price": 16384,
+  "reputation": 32768,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 24,
+            "height": 14,
+            "depth": 23
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

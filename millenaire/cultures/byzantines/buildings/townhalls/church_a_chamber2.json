@@ -1,0 +1,56 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "church_a_chamber2",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "church",
+    "variant": "a",
+    "level": 3
+  },
+  "is_town_hall": false,
+  "native_name": "Thálamos",
+  "max_count": 0,
+  "male": [
+    "monk_byzantine"
+  ],
+  "tags": [
+    "loom",
+    "fresco1"
+  ],
+  "icon": "minecraft:red_bed",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -5,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 50,
+            "height": 14,
+            "depth": 33
+          },
+          "priority": 200
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 50,
+            "height": 22,
+            "depth": 33
+          },
+          "priority": 400,
+          "tags": [
+            "loom",
+            "fresco1"
+          ],
+          "required_parent_tags": [
+            "schoolcomplete"
+          ]
+        }
+      ]
+    }
+  ]
+}

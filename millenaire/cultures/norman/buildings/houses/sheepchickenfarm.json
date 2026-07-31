@@ -1,0 +1,100 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "sheepchickenfarm",
+  "category": "houses",
+  "native_name": "Elevage ovin",
+  "shop": "sheepchickenfarm",
+  "male": [
+    "shepherd"
+  ],
+  "female": [
+    "shepherdf"
+  ],
+  "tags": [
+    "sheeps",
+    "chicken"
+  ],
+  "icon": "minecraft:white_wool",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "sheeps",
+        "chicken"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 25
+          },
+          "priority": 1000,
+          "infoAnimalSpawns": [
+            {
+              "entity": "sheep"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 25
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 25
+          },
+          "priority": 95,
+          "infoAnimalSpawns": [
+            {
+              "entity": "sheep"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 18,
+            "height": 10,
+            "depth": 25
+          },
+          "priority": 90
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 18,
+            "height": 11,
+            "depth": 25
+          },
+          "priority": 85,
+          "path_level": 1,
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 18,
+            "height": 11,
+            "depth": 25
+          },
+          "priority": 80
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "market",
+  "category": "uninhabited",
+  "native_name": "Agorá",
+  "tags": [
+    "market",
+    "pathnode",
+    "leisure"
+  ],
+  "icon": "millenaire:purse",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "market",
+        "pathnode",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 25,
+            "height": 7,
+            "depth": 17
+          },
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 25,
+            "height": 7,
+            "depth": 17
+          },
+          "priority": 400
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 25,
+            "height": 10,
+            "depth": 17
+          },
+          "priority": 200
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 25,
+            "height": 10,
+            "depth": 17
+          },
+          "priority": 110,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 25,
+            "height": 10,
+            "depth": 17
+          },
+          "priority": 90,
+          "native_name": "Basiliki"
+        }
+      ]
+    }
+  ]
+}

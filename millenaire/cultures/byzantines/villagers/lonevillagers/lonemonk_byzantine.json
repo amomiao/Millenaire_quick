@@ -1,0 +1,69 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Rasóforos",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.religious.f.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/religious/byz_monk_1_a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/religious/byz_monk_1_b.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:get_goods_for_household",
+    "millenaire:harvest_wheat",
+    "millenaire:plant_wheat",
+    "millenaire:harvest_carrot",
+    "millenaire:plant_carrot",
+    "millenaire:craft_bread",
+    "millenaire:study"
+  ],
+  "tags": [
+    "religious",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:wheat_seeds": 100,
+    "minecraft:writable_book": 1
+  },
+  "bring_back_home_goods": [
+    "minecraft:wheat",
+    "minecraft:carrot"
+  ],
+  "collect_goods": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:carrot"
+  ],
+  "required_goods": {
+    "minecraft:wheat_seeds": 16,
+    "minecraft:carrot": 16
+  },
+  "gender": "male",
+  "first_name_list": "greek_father",
+  "family_name_list": "greek_monk_names",
+  "icon": "millenaire:wall_byzantine_icon_medium",
+  "tool_needed_classes": [
+    "hoes"
+  ],
+  "base_attack_strength": 5,
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:book"
+}

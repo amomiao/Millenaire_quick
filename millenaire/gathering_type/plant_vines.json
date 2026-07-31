@@ -1,0 +1,23 @@
+{
+  "handler": "planting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 16,
+  "actionCooldown": 10,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "maxSimultaneousInBuilding": 2,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "reoccurDelay": -1,
+  "handlerParams": {
+    "cropBlock": "millenaire:crop_vine",
+    "soilBlock": "minecraft:farmland",
+    "soilSubtype": "vine",
+    "buildingTag": "vineyard"
+  },
+  "heldItems": [
+    "millenaire:grapes"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "sells": [
+    "mayan_axe",
+    "mayan_pickaxe",
+    "mayan_hoe",
+    "mayan_shovel",
+    "mayan_mace"
+  ],
+  "buys": [
+    "obsidian"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

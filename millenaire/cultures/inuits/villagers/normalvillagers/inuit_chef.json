@@ -1,0 +1,98 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Niqi",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_female.png",
+    "millenaire:textures/entity/inuit/inuit_female2.png",
+    "millenaire:textures/entity/inuit/inuit_female3.png",
+    "millenaire:textures/entity/inuit/inuit_female4.png",
+    "millenaire:textures/entity/inuit/inuit_female5.png",
+    "millenaire:textures/entity/inuit/inuit_female6.png"
+  ],
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:bring_back_home",
+    "millenaire:craft_bread",
+    "millenaire:cook_fish",
+    "millenaire:cook_seafood",
+    "millenaire:craft_meatstew5",
+    "millenaire:craft_meatstew7",
+    "millenaire:cook_steak",
+    "millenaire:craft_meatstew1",
+    "millenaire:cook_potato",
+    "millenaire:craft_potatostew",
+    "millenaire:craft_bearsteak",
+    "millenaire:craft_bearstew",
+    "millenaire:craft_meatstew2",
+    "millenaire:craft_meatstew3",
+    "millenaire:craft_meatstew4",
+    "millenaire:craft_meatstew6",
+    "millenaire:plant_potato",
+    "millenaire:plant_wheat",
+    "millenaire:harvest_wheat",
+    "millenaire:harvest_potato",
+    "millenaire:plant_potato_home",
+    "millenaire:plant_wheat_home",
+    "millenaire:harvest_wheat_home",
+    "millenaire:harvest_potato_home"
+  ],
+  "tags": [
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:potato": 16,
+    "millenaire:bearmeat_raw": 6
+  },
+  "bring_back_home_goods": [
+    "minecraft:potato",
+    "minecraft:wheat"
+  ],
+  "collect_goods": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:beef",
+    "millenaire:bearmeat_raw",
+    "minecraft:cod",
+    "millenaire:seafood_raw"
+  ],
+  "required_goods": {
+    "minecraft:wheat": 9,
+    "minecraft:cod": 32,
+    "millenaire:seafood_raw": 16,
+    "minecraft:beef": 16,
+    "minecraft:potato": 64,
+    "millenaire:bearmeat_raw": 16,
+    "minecraft:porkchop": 16,
+    "minecraft:mutton": 16,
+    "minecraft:chicken": 16,
+    "minecraft:rabbit": 16,
+    "minecraft:oak_log": 64,
+    "minecraft:spruce_log": 64,
+    "minecraft:birch_log": 64
+  },
+  "gender": "female",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "male_child": "inuit_boy",
+  "female_child": "inuit_girl",
+  "icon": "millenaire:inuitbearstew",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "items_needed": [
+    "minecraft:wooden_hoe"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_hoe",
+  "travelbook_held_item": "millenaire:inuitbearstew",
+  "travelbook_held_item_off_hand": "millenaire:bearmeat_raw"
+}

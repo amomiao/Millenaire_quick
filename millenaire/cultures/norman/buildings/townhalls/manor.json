@@ -1,0 +1,179 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "manor",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Manoir",
+  "shop": "townhall",
+  "max_count": 0,
+  "male": [
+    "seneschal"
+  ],
+  "female": [
+    "lady"
+  ],
+  "tags": [
+    "leisure",
+    "garden"
+  ],
+  "starting_sub_buildings": [
+    "manor_a_inn"
+  ],
+  "icon": "minecraft:bookshelf",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -9,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 600,
+          "signs": "5,3,1,2,4,6,8,0,7",
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 600,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 600,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 580,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 560,
+          "rebuild_path": true,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 540,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 520,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 35,
+            "height": 26,
+            "depth": 25
+          },
+          "priority": 500,
+          "tags": [
+            "leisure"
+          ]
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 35,
+            "height": 26,
+            "depth": 25
+          },
+          "priority": 480,
+          "tags": [
+            "leisure",
+            "garden"
+          ],
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 35,
+            "height": 26,
+            "depth": 25
+          },
+          "priority": 460,
+          "tags": [
+            "leisure",
+            "garden"
+          ]
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 35,
+            "height": 26,
+            "depth": 25
+          },
+          "priority": 440,
+          "tags": [
+            "leisure",
+            "garden"
+          ],
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

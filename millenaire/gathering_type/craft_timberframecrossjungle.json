@@ -1,0 +1,37 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "millenaire:timber_frame_cross": 256
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:jungle_log",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "millenaire:timber_frame_cross",
+        "count": 4
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:jungle_log",
+    "minecraft:jungle_planks",
+    "millenaire:timber_frame_cross"
+  ],
+  "sentenceKey": "maketimberframe",
+  "labelKey": "maketimberframe",
+  "sound": "wood"
+}

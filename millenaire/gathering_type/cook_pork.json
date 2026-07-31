@@ -1,0 +1,35 @@
+{
+  "handler": "smelting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "minecraft:cooked_porkchop": 16
+  },
+  "itemsBalance": {
+    "minecraft:porkchop": "minecraft:cooked_porkchop"
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:porkchop",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:cooked_porkchop",
+        "count": 1
+      }
+    ]
+  },
+  "sentenceKey": "cookpork",
+  "labelKey": "cookpork",
+  "heldItems": [
+    "minecraft:porkchop"
+  ]
+}

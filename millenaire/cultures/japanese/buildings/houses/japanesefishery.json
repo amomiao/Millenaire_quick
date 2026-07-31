@@ -1,0 +1,107 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesefishery",
+  "category": "houses",
+  "native_name": "Tsuribori",
+  "shop": "fishery",
+  "min_distance": 0.6,
+  "male": [
+    "fisherman"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "tags": [
+    "fishingspot",
+    "oven"
+  ],
+  "icon": "minecraft:fishing_rod",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 9,
+            "depth": 22
+          },
+          "priority": 1000,
+          "tags": [
+            "fishingspot"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 9,
+            "depth": 22
+          },
+          "priority": 200,
+          "native_name": "Gyogyo",
+          "tags": [
+            "fishingspot",
+            "oven"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 9,
+            "depth": 22
+          },
+          "priority": 95,
+          "tags": [
+            "fishingspot",
+            "oven"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 22
+          },
+          "priority": 90,
+          "tags": [
+            "fishingspot",
+            "oven"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 22
+          },
+          "priority": 85,
+          "path_level": 1,
+          "tags": [
+            "fishingspot",
+            "oven"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 22
+          },
+          "priority": 80,
+          "tags": [
+            "fishingspot",
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

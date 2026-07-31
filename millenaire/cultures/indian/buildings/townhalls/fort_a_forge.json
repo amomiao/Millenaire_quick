@@ -1,0 +1,47 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "fort_a_forge",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "fort",
+    "variant": "a",
+    "level": 9
+  },
+  "is_town_hall": false,
+  "native_name": "Qila Ka Bhati",
+  "shop": "armyforge",
+  "max_count": 0,
+  "male": [
+    "armysmith"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "tags": [
+    "armoury"
+  ],
+  "icon": "minecraft:iron_chestplate",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -4,
+      "tags": [
+        "armoury"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 800,
+          "priority_move_in": 15
+        }
+      ]
+    }
+  ]
+}

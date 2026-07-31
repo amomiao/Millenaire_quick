@@ -1,0 +1,19 @@
+{
+  "labels": [
+    { "threshold": -4096, "key": "reputation.millenaire.seljuk.scourge" },
+    { "threshold": -1024, "key": "reputation.millenaire.seljuk.public_enemy" },
+    { "threshold": -256, "key": "reputation.millenaire.seljuk.unpleasant_outsider" },
+    { "threshold": -64, "key": "reputation.millenaire.seljuk.nuisance" },
+    { "threshold": 0, "key": "reputation.millenaire.seljuk.stranger" },
+    { "threshold": 256, "key": "reputation.millenaire.seljuk.familiarity" },
+    { "threshold": 512, "key": "reputation.millenaire.seljuk.known_face" },
+    { "threshold": 1024, "key": "reputation.millenaire.seljuk.regular_visitor" },
+    { "threshold": 2048, "key": "reputation.millenaire.seljuk.fellow_wanderer" },
+    { "threshold": 4096, "key": "reputation.millenaire.seljuk.favourite_trader" },
+    { "threshold": 8192, "key": "reputation.millenaire.seljuk.friend_of_village" },
+    { "threshold": 16384, "key": "reputation.millenaire.seljuk.respectable_ally" },
+    { "threshold": 32768, "key": "reputation.millenaire.seljuk.one_of_us" },
+    { "threshold": 131072, "key": "reputation.millenaire.seljuk.natural_leader" },
+    { "threshold": 524288, "key": "reputation.millenaire.seljuk.next_great_sultan" }
+  ]
+}

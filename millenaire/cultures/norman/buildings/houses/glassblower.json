@@ -1,0 +1,137 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "glassblower",
+  "category": "houses",
+  "native_name": "Atelier du verrier",
+  "shop": "glassblower",
+  "male": [
+    "glassblower"
+  ],
+  "female": [
+    "herbalist"
+  ],
+  "icon": "millenaire:stained_glass_yellow_red",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 800,
+          "abstracted_production": [
+            "rosette,16",
+            "stained_glass_white,16",
+            "stained_glass_yellow,16",
+            "stained_glass_yellow_red,16",
+            "stained_glass_red_blue,16",
+            "stained_glass_green_blue,16"
+          ],
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 17,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 80,
+          "abstracted_production": [
+            "rosette,16",
+            "stained_glass_white,16",
+            "stained_glass_yellow,16",
+            "stained_glass_yellow_red,16",
+            "stained_glass_red_blue,16",
+            "stained_glass_green_blue,16"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 17,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 75,
+          "abstracted_production": [
+            "rosette,16",
+            "stained_glass_white,16",
+            "stained_glass_yellow,16",
+            "stained_glass_yellow_red,16",
+            "stained_glass_red_blue,16",
+            "stained_glass_green_blue,16"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 17,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 70,
+          "path_level": 1,
+          "abstracted_production": [
+            "rosette,16",
+            "stained_glass_white,16",
+            "stained_glass_yellow,16",
+            "stained_glass_yellow_red,16",
+            "stained_glass_red_blue,16",
+            "stained_glass_green_blue,16"
+          ],
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 17,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 65,
+          "abstracted_production": [
+            "rosette,16",
+            "stained_glass_white,16",
+            "stained_glass_yellow,16",
+            "stained_glass_yellow_red,16",
+            "stained_glass_red_blue,16",
+            "stained_glass_green_blue,16"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 17,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 60,
+          "path_level": 2,
+          "abstracted_production": [
+            "rosette,16",
+            "stained_glass_white,16",
+            "stained_glass_yellow,16",
+            "stained_glass_yellow_red,16",
+            "stained_glass_red_blue,16",
+            "stained_glass_green_blue,16"
+          ]
+        }
+      ]
+    }
+  ]
+}

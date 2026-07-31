@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Keibou",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_guard.png",
+    "millenaire:textures/entity/japanese/japanese_warrior1.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_sake",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "archer",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "millenaire:japanese_tachi",
+  "max_health": 30,
+  "villager_config": "japaneseweaponpriority",
+  "tool_needed_classes": [
+    "toolssword",
+    "armour",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "hiring_cost": "32",
+  "travelbook_held_item": "millenaire:japanese_tachi"
+}

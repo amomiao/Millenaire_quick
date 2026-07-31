@@ -1,0 +1,79 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "chickenfarm",
+  "category": "houses",
+  "native_name": "Youkeijou",
+  "min_distance": 0.6,
+  "male": [
+    "chickenfarmer"
+  ],
+  "female": [
+    "farmwife"
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "icon": "minecraft:feather",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "chicken"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 21,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 1000,
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 21,
+            "height": 9,
+            "depth": 12
+          },
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 21,
+            "height": 9,
+            "depth": 12
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 21,
+            "height": 9,
+            "depth": 12
+          },
+          "priority": 90
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 21,
+            "height": 9,
+            "depth": 12
+          },
+          "priority": 85
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "largefort_a_armoury",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "largefort",
+    "variant": "a",
+    "level": 5
+  },
+  "is_town_hall": false,
+  "native_name": "Armurerie",
+  "shop": "armoury",
+  "max_count": 0,
+  "male": [
+    "smith"
+  ],
+  "female": [
+    "wife"
+  ],
+  "tags": [
+    "armoury"
+  ],
+  "icon": "millenaire:norman_chestplate",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "armoury"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 31,
+            "height": 19,
+            "depth": 35
+          },
+          "priority": 800,
+          "priority_move_in": 15
+        }
+      ]
+    }
+  ]
+}

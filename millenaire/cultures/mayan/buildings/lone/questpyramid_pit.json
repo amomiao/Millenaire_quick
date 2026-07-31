@@ -1,0 +1,31 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "questpyramid_pit",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "questpyramid",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Keban Muul",
+  "max_count": 0,
+  "icon": "millenaire:mayan_mace",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -30,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 38,
+            "height": 46,
+            "depth": 38
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "borderpost_gate",
+  "category": "walls",
+  "is_border_building": true,
+  "native_name": "Gaanv ka Kinaara",
+  "max_count": 0,
+  "tags": [
+    "borderpostsign",
+    "patrol"
+  ],
+  "icon": "minecraft:white_banner",
+  "area_to_clear": 1,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "borderpostsign",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 5,
+            "depth": 3
+          }
+        }
+      ]
+    }
+  ]
+}

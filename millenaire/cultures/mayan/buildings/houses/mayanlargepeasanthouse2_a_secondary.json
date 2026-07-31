@@ -1,0 +1,65 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanlargepeasanthouse2_a_secondary",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "mayanlargepeasanthouse2",
+    "variant": "a",
+    "level": 2
+  },
+  "native_name": "Ni'nah",
+  "max_count": 0,
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_shovel",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 13
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 30
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "full_wall_gateway",
+  "category": "walls",
+  "is_wall_segment": true,
+  "native_name": "Gaanv ka Dvaar",
+  "max_count": 0,
+  "tags": [
+    "borderpostsign",
+    "pathnode",
+    "wall_level_0",
+    "patrol",
+    "wall_level_1"
+  ],
+  "icon": "minecraft:white_banner",
+  "area_to_clear_length_before": 0,
+  "area_to_clear_length_after": 0,
+  "area_to_clear_width_before": 6,
+  "area_to_clear_width_after": 6,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -5,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 9
+          },
+          "tags": [
+            "borderpostsign",
+            "pathnode",
+            "wall_level_0",
+            "patrol"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 16,
+            "depth": 9
+          },
+          "priority": 2000,
+          "path_level": 1,
+          "clear_tags": [
+            "wall_level_0"
+          ],
+          "tags": [
+            "borderpostsign",
+            "pathnode",
+            "patrol",
+            "wall_level_1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 17,
+            "depth": 9
+          },
+          "tags": [
+            "borderpostsign",
+            "pathnode",
+            "patrol",
+            "wall_level_1"
+          ]
+        }
+      ]
+    }
+  ]
+}

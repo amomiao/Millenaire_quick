@@ -1,0 +1,54 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "wheatpaddy",
+  "category": "houses",
+  "native_name": "Buğday Tarlası",
+  "max_count": 3,
+  "tags": [
+    "wheatpaddy",
+    "nopaths",
+    "agricultural"
+  ],
+  "icon": "minecraft:wheat",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "wheatpaddy",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 3,
+            "depth": 11
+          },
+          "priority": 1000,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 3,
+            "depth": 11
+          },
+          "priority": 150,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

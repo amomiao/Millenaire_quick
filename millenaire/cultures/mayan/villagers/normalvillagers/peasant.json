@@ -1,0 +1,57 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Winik",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_peasant0.png",
+    "millenaire:textures/entity/mayan/mayan_peasant1.png",
+    "millenaire:textures/entity/mayan/mayan_peasant2.png",
+    "millenaire:textures/entity/mayan/mayan_peasant3.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:bring_back_home",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path",
+    "millenaire:slaughter_chicken",
+    "millenaire:harvest_maize",
+    "millenaire:plant_maize",
+    "millenaire:cook_chicken"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:egg",
+    "minecraft:feather",
+    "minecraft:leather",
+    "minecraft:white_wool",
+    "minecraft:chicken",
+    "minecraft:cooked_chicken",
+    "millenaire:maize"
+  ],
+  "collect_goods": [
+    "minecraft:egg",
+    "minecraft:feather",
+    "minecraft:chicken"
+  ],
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:mayan_shovel",
+  "tool_needed_classes": [
+    "toolssword",
+    "hoes",
+    "shovels",
+    "pickaxes"
+  ],
+  "default_weapon": "minecraft:wooden_hoe",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:mayan_shovel",
+  "travelbook_held_item_off_hand": "minecraft:dirt"
+}

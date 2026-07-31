@@ -1,0 +1,35 @@
+{
+  "handler": "smelting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "minecraft:cooked_chicken": 60
+  },
+  "itemsBalance": {
+    "minecraft:chicken": "minecraft:cooked_chicken"
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:chicken",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:cooked_chicken",
+        "count": 1
+      }
+    ]
+  },
+  "sentenceKey": "cookchicken",
+  "labelKey": "cookchicken",
+  "heldItems": [
+    "minecraft:chicken"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "farmp",
+  "category": "special",
+  "native_name": "Puviaq",
+  "max_count": 2,
+  "min_distance": 0.4,
+  "tags": [
+    "potato",
+    "farm"
+  ],
+  "icon": "minecraft:potato",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "potato",
+        "farm"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 6,
+            "height": 3,
+            "depth": 8
+          },
+          "priority": 200,
+          "infoSoils": [
+            {
+              "crop": "potato"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 6,
+            "height": 3,
+            "depth": 8
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 6,
+            "height": 4,
+            "depth": 8
+          },
+          "priority": 40,
+          "path_level": 1
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "potato",
+        "farm"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 2,
+            "depth": 5
+          },
+          "priority": 200,
+          "infoSoils": [
+            {
+              "crop": "potato"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 3,
+            "depth": 5
+          },
+          "priority": 40
+        }
+      ]
+    }
+  ]
+}

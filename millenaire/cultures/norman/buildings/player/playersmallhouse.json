@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "playersmallhouse",
+  "category": "player",
+  "native_name": "Petite maison",
+  "max_count": 0,
+  "icon": "millenaire:denier",
+  "price": 640,
+  "reputation": 4096,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 1000000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayancamp_dig",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "mayancamp",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Ajaw Cah",
+  "max_count": 0,
+  "icon": "millenaire:mayan_mace",
+  "starting_goods": [
+    {
+      "item": "minecraft:ghast_tear",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 0
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -9,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 30,
+            "height": 20,
+            "depth": 31
+          }
+        }
+      ]
+    }
+  ]
+}

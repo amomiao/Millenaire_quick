@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "playerlargehouse",
+  "category": "player",
+  "native_name": "Maison bourgeoise",
+  "max_count": 0,
+  "icon": "millenaire:denier_argent",
+  "price": 4096,
+  "reputation": 8192,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -7,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 15,
+            "depth": 12
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

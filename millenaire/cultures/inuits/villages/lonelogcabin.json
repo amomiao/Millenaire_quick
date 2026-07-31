@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:inuits",
+  "biome_tags": [
+    "#c:is_snowy"
+  ],
+  "name": "Qirriuq Tupiq",
+  "weight": 12,
+  "lone_building": true,
+  "radius": 5,
+  "min_distance_from_spawn": 420,
+  "layout": [
+    {
+      "plan": "millenaire:inuits/lonelogcabin",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

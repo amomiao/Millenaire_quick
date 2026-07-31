@@ -1,0 +1,80 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "hunterth",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Afuniaqti Tupiq",
+  "shop": "inuittownhall",
+  "max_count": 0,
+  "male": [
+    "inuit_hunterth"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "tags": [
+    "patrol"
+  ],
+  "icon": "minecraft:bone",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 5,
+            "depth": 17
+          },
+          "priority": 1000,
+          "signs": "0,2,1,3,5,7,8,6,4",
+          "infoAnimalSpawns": [
+            {
+              "entity": "wolf"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 18,
+            "height": 6,
+            "depth": 17
+          },
+          "priority": 500,
+          "infoAnimalSpawns": [
+            {
+              "entity": "wolf"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 18,
+            "height": 6,
+            "depth": 17
+          },
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 18,
+            "height": 6,
+            "depth": 17
+          },
+          "priority": 50,
+          "rebuild_path": true
+        }
+      ]
+    }
+  ]
+}

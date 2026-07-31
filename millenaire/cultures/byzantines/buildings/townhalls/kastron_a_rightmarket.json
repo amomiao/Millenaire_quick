@@ -1,0 +1,141 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "kastron_a_rightmarket",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "kastron",
+    "variant": "a",
+    "level": 0
+  },
+  "is_town_hall": false,
+  "native_name": "Ágora",
+  "max_count": 0,
+  "tags": [
+    "market",
+    "leisure",
+    "patrol"
+  ],
+  "icon": "millenaire:clothes_byz_silk",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "market",
+        "leisure",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 34,
+            "height": 9,
+            "depth": 38
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 34,
+            "height": 9,
+            "depth": 38
+          },
+          "priority": 99999,
+          "native_name": "Dexiá Ágora",
+          "parent_tags": [
+            "wall4"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "priority": 400,
+          "parent_tags": [
+            "wall4"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "priority": 200,
+          "parent_tags": [
+            "wall4"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "priority": 150,
+          "parent_tags": [
+            "wall4",
+            "finish3"
+          ],
+          "required_parent_tags": [
+            "wall1"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "parent_tags": [
+            "wall4",
+            "finish3"
+          ],
+          "required_parent_tags": [
+            "wall1",
+            "finish1",
+            "finish2",
+            "finish4"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "parent_tags": [
+            "wall4",
+            "finish3"
+          ],
+          "required_parent_tags": [
+            "wall1",
+            "finish1",
+            "finish2",
+            "finish4"
+          ]
+        }
+      ]
+    }
+  ]
+}

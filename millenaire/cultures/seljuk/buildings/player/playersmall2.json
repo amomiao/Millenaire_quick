@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "playersmall2",
+  "category": "player",
+  "native_name": "Duvarlı Küçük Alan",
+  "max_count": 0,
+  "icon": "millenaire:mud_brick",
+  "price": 256,
+  "reputation": 4096,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 4,
+            "depth": 12
+          },
+          "priority": 1000000
+        }
+      ]
+    }
+  ]
+}

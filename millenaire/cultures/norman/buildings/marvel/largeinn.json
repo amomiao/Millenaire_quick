@@ -1,0 +1,61 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "largeinn",
+  "category": "marvel",
+  "native_name": "Auberge",
+  "max_count": 0,
+  "male": [
+    "host"
+  ],
+  "female": [
+    "hostess"
+  ],
+  "tags": [
+    "autospawnvillagers",
+    "leisure"
+  ],
+  "starting_sub_buildings": [
+    "largeinn_a_tavern"
+  ],
+  "icon": "minecraft:red_bed",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 28,
+            "height": 14,
+            "depth": 32
+          },
+          "path_level": 1,
+          "tags": [
+            "autospawnvillagers"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 28,
+            "height": 14,
+            "depth": 32
+          },
+          "native_name": "Dortoir des pélerins",
+          "sub_buildings": [
+            "largeinn_a_dormitorymen",
+            "largeinn_a_dormitorywomen"
+          ],
+          "path_level": 2,
+          "rebuild_path": true,
+          "tags": [
+            "autospawnvillagers",
+            "leisure"
+          ]
+        }
+      ]
+    }
+  ]
+}

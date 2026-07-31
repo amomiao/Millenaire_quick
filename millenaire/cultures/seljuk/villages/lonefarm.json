@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:seljuk",
+  "biome_tags": [
+    "#c:is_savanna"
+  ],
+  "name": "Çiftlik",
+  "weight": 8,
+  "lone_building": true,
+  "radius": 15,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:seljuk/lonefarm",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

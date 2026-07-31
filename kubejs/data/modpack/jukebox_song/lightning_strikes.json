@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "modpack:music_lightning_strikes"
+  },
+  "description": {
+    "color": "gold",
+    "text": "你将如闪电般归来"
+  },
+  "length_in_seconds": 281.0,
+  "comparator_output": 15
+}

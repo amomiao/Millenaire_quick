@@ -1,0 +1,322 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "polarbearcave",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Nanuk Mitjuktipa",
+  "max_count": 0,
+  "icon": "millenaire:bearmeat_raw",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 84
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 3,
+      "random": 8
+    },
+    {
+      "item": "millenaire:denier_or",
+      "probability": 0.25,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "millenaire:bearmeat_raw",
+      "probability": 1.25,
+      "fixed": 8,
+      "random": 42
+    },
+    {
+      "item": "millenaire:wolfmeat_raw",
+      "probability": 2.25,
+      "fixed": 2,
+      "random": 42
+    },
+    {
+      "item": "minecraft:beef",
+      "probability": 2.25,
+      "fixed": 2,
+      "random": 42
+    },
+    {
+      "item": "minecraft:porkchop",
+      "probability": 2.25,
+      "fixed": 2,
+      "random": 42
+    },
+    {
+      "item": "minecraft:chicken",
+      "probability": 2.25,
+      "fixed": 2,
+      "random": 42
+    },
+    {
+      "item": "minecraft:rabbit",
+      "probability": 2.25,
+      "fixed": 2,
+      "random": 42
+    },
+    {
+      "item": "minecraft:mutton",
+      "probability": 2.25,
+      "fixed": 2,
+      "random": 42
+    },
+    {
+      "item": "minecraft:cod",
+      "probability": 2.25,
+      "fixed": 2,
+      "random": 42
+    },
+    {
+      "item": "millenaire:seafood_raw",
+      "probability": 2.25,
+      "fixed": 2,
+      "random": 42
+    },
+    {
+      "item": "minecraft:potato",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:carrot",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:wheat",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:ulu",
+      "probability": 0.33,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:spruce_log",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:birch_log",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:oak_log",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:jungle_log",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:acacia_log",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:dark_oak_log",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_spruce",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_birch",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_oak",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_jungle",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_acacia",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "millenaire:sod_dark_oak",
+      "probability": 0.15,
+      "fixed": 2,
+      "random": 5
+    },
+    {
+      "item": "minecraft:coarse_dirt",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:leather",
+      "probability": 1.75,
+      "fixed": 8,
+      "random": 24
+    },
+    {
+      "item": "millenaire:inuitbow",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furhelmet",
+      "probability": 1.5,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:furplate",
+      "probability": 1.67,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:furlegs",
+      "probability": 1.67,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:furboots",
+      "probability": 1.5,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:leather_helmet",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:leather_chestplate",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "minecraft:leather_leggings",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:leather_boots",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:inuittrident",
+      "probability": 0.75,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:arrow",
+      "probability": 1.5,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "millenaire:ulu",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "minecraft:wooden_sword",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "minecraft:wooden_shovel",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "minecraft:wooden_axe",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "minecraft:bone",
+      "probability": 3.0,
+      "fixed": 10,
+      "random": 42
+    },
+    {
+      "item": "minecraft:white_dye",
+      "probability": 1.5,
+      "fixed": 10,
+      "random": 42
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 30,
+          "infoAnimalSpawns": [
+            {
+              "entity": "polar_bear"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

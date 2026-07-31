@@ -1,0 +1,77 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "watchtower",
+  "category": "houses",
+  "native_name": "Kule",
+  "min_distance": 0.3,
+  "male": [
+    "turk_soldier"
+  ],
+  "tags": [
+    "patrol"
+  ],
+  "starting_sub_buildings": [
+    "watchtower_a_patrol"
+  ],
+  "icon": "torch",
+  "far_from_tags": [
+    "patrol,20"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 16,
+            "depth": 10
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 16,
+            "depth": 10
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 17,
+            "depth": 10
+          },
+          "priority": 85
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 17,
+            "depth": 10
+          },
+          "priority": 85,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 17,
+            "depth": 10
+          },
+          "priority": 85
+        }
+      ]
+    }
+  ]
+}

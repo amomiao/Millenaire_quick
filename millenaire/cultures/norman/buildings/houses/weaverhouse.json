@@ -1,0 +1,119 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "weaverhouse",
+  "category": "houses",
+  "native_name": "Atelier du tisseur",
+  "shop": "weaver",
+  "male": [
+    "weaver"
+  ],
+  "female": [
+    "herbalist"
+  ],
+  "icon": "minecraft:red_carpet",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 800,
+          "abstracted_production": [
+            "carpet_white,8",
+            "carpet_yellow,8",
+            "carpet_red,8"
+          ],
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 80,
+          "abstracted_production": [
+            "carpet_white,8",
+            "carpet_yellow,8",
+            "carpet_red,8"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 75,
+          "abstracted_production": [
+            "carpet_white,8",
+            "carpet_yellow,8",
+            "carpet_red,8"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 70,
+          "path_level": 1,
+          "abstracted_production": [
+            "carpet_white,8",
+            "carpet_yellow,8",
+            "carpet_red,8"
+          ],
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 65,
+          "abstracted_production": [
+            "carpet_white,8",
+            "carpet_yellow,8",
+            "carpet_red,8"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 60,
+          "path_level": 2,
+          "abstracted_production": [
+            "carpet_white,8",
+            "carpet_yellow,8",
+            "carpet_red,8"
+          ]
+        }
+      ]
+    }
+  ]
+}

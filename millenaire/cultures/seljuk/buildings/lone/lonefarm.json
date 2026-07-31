@@ -1,0 +1,59 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "lonefarm",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Çiftlik",
+  "shop": "lonefarm",
+  "male": [
+    "turk_lonefarmer"
+  ],
+  "female": [
+    "turk_peasantwife"
+  ],
+  "tags": [
+    "slaughtercowseljuk",
+    "cattle",
+    "slaughtersheepseljuk",
+    "sheeps",
+    "wheatpaddy"
+  ],
+  "icon": "minecraft:wheat",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "slaughtercowseljuk",
+        "cattle",
+        "slaughtersheepseljuk",
+        "sheeps",
+        "wheatpaddy"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 24,
+            "height": 8,
+            "depth": 28
+          },
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            },
+            {
+              "entity": "sheep"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

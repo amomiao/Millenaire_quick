@@ -1,0 +1,30 @@
+{
+  "handler": "mining",
+  "priority": 35,
+  "priorityRandom": 10,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 8,
+  "actionCooldown": 70,
+  "stuckTimeout": 200,
+  "arrivalRange": 5,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "millenaire:snow_brick": 1024
+  },
+  "maxSimultaneousInBuilding": 2,
+  "maxSimultaneousTotal": 1,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "sourceSubtype": "snow",
+    "buildingTag": "inuitmining",
+    "loot": [
+      {
+        "item": "millenaire:snow_brick",
+        "count": 2
+      }
+    ]
+  },
+  "sentenceKey": "mining"
+}

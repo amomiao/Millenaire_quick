@@ -1,0 +1,23 @@
+{
+  "handler": "harvesting",
+  "priority": 1,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 16,
+  "actionCooldown": 10,
+  "stuckTimeout": 4000,
+  "arrivalRange": 8,
+  "walkSpeed": 0.6,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "reoccurDelay": 120000,
+  "handlerParams": {
+    "targetBlock": "minecraft:orange_tulip",
+    "soilSubtype": "flower",
+    "skipDrops": true,
+    "buildingTag": "garden"
+  },
+  "sentenceKey": "stealflower",
+  "labelKey": "stealflower",
+  "leisure": true
+}

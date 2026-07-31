@@ -1,0 +1,19 @@
+{
+  "sells": [
+    "path_gravel",
+    "path_slabs",
+    "path_sandstone"
+  ],
+  "buys": [
+    "sand",
+    "iron_nugget"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:sand",
+    "millenaire:path_gravel",
+    "millenaire:path_slabs",
+    "millenaire:path_sandstone",
+    "minecraft:iron_nugget"
+  ]
+}

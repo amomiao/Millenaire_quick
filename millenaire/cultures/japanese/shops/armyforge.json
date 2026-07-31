@@ -1,0 +1,24 @@
+{
+  "sells": [
+    "japaneseguardboots",
+    "japaneseguardhelmet",
+    "japaneseguardlegs",
+    "japaneseguardplate",
+    "japaneseblueboots",
+    "japanesebluehelmet",
+    "japanesebluelegs",
+    "japaneseblueplate",
+    "japaneseredboots",
+    "japaneseredhelmet",
+    "japaneseredlegs",
+    "japaneseredplate",
+    "japanese_tachi",
+    "yumibow"
+  ],
+  "buys": [
+    "iron_ingot",
+    "leather"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

@@ -1,0 +1,42 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "archives",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Puraalekhagar",
+  "tags": [
+    "archives"
+  ],
+  "icon": "sign",
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "archives"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 20
+          },
+          "priority": 300,
+          "signs": "0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 20
+          },
+          "priority": 40,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

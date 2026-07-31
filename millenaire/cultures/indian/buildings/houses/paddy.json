@@ -1,0 +1,60 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "paddy",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Chaaval Ka Ket",
+  "max_count": 2,
+  "min_distance": 0.6,
+  "tags": [
+    "paddy"
+  ],
+  "icon": "millenaire:rice",
+  "random_brick_colours": {
+    "white": [
+      {
+        "color": "white",
+        "weight": 50
+      },
+      {
+        "color": "light_gray",
+        "weight": 30
+      }
+    ]
+  },
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "paddy"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 4,
+            "depth": 11
+          },
+          "priority": 5000,
+          "path_width": 1,
+          "infoSoils": [
+            {
+              "crop": "rice"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 4,
+            "depth": 11
+          }
+        }
+      ],
+      "building_orientation": 3
+    }
+  ]
+}

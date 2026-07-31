@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Femme Seule",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/norman/female/nor_wife_0.png",
+    "millenaire:textures/entity/norman/female/nor_wife_1.png",
+    "millenaire:textures/entity/norman/female/nor_wife_2.png",
+    "millenaire:textures/entity/norman/female/nor_wife_3.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/female/clothes/nor_housewife_0.png",
+        "millenaire:textures/entity/norman/female/clothes/nor_housewife_1.png",
+        "millenaire:textures/entity/norman/female/clothes/nor_housewife_2.png",
+        "millenaire:textures/entity/norman/female/clothes/nor_housewife_2.png"
+      ],
+      "layer1": [
+        "millenaire:textures/entity/norman/female/hair/nor_blond.png",
+        "millenaire:textures/entity/norman/female/hair/nor_brown.png",
+        "millenaire:textures/entity/norman/female/hair/nor_darkb.png",
+        "millenaire:textures/entity/norman/female/hair/nor_lightb.png",
+        "millenaire:textures/entity/norman/female/hair/nor_red.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:drink_cider",
+    "millenaire:craft_cider",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path",
+    "millenaire:craft_bread",
+    "millenaire:craft_sugar",
+    "millenaire:craft_cake",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "millenaire:cider"
+  ],
+  "gender": "female",
+  "first_name_list": "women_names",
+  "family_name_list": "family_names",
+  "icon": "millenaire:norman_shovel",
+  "tool_needed_classes": [
+    "shovels",
+    "pickaxes"
+  ],
+  "default_weapon": "minecraft:wooden_axe"
+}

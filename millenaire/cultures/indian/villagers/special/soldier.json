@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Rajput Sainik",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_rajput_warrior0.png",
+    "millenaire:textures/entity/indian/ml_rajput_warrior1.png",
+    "millenaire:textures/entity/indian/ml_rajput_warrior2.png"
+  ],
+  "base_scale": 1.1,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "archer",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:iron_sword",
+  "max_health": 30,
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 10,
+  "hiring_cost": "32",
+  "travelbook_held_item": "minecraft:iron_sword"
+}

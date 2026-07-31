@@ -1,0 +1,36 @@
+{
+  "handler": "slaughter",
+  "priority": 50,
+  "scanRadius": 25,
+  "batchRadius": 25,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 20,
+  "stuckTimeout": 4000,
+  "arrivalRange": 1,
+  "walkSpeed": 0.7,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "maxSimultaneousTotal": 1,
+  "handlerParams": {
+    "animalType": "minecraft:sheep",
+    "buildingTag": "slaughtersheepseljuk",
+    "requiredTag": "slaughtersheepseljuk",
+    "damage": 4.0,
+    "bonusItems": [
+      {
+        "item": "minecraft:leather",
+        "chance": 50
+      },
+      {
+        "item": "minecraft:bone",
+        "chance": 100
+      },
+      {
+        "item": "minecraft:mutton",
+        "chance": 100
+      }
+    ]
+  },
+  "sentenceKey": "slaughteranimal",
+  "labelKey": "slaughtersheep"
+}

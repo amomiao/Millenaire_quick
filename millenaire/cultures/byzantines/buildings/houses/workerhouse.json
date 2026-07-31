@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "workerhouse",
+  "category": "houses",
+  "native_name": "Oikía Ergatón",
+  "max_count": 2,
+  "male": [
+    "worker_byzantine"
+  ],
+  "female": [
+    "artisanwife_byzantine"
+  ],
+  "icon": "minecraft:stone_shovel",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 5,
+            "depth": 10
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 10
+          },
+          "priority": 200
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 10
+          },
+          "priority": 200,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 10
+          },
+          "priority": 200
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 10
+          }
+        }
+      ]
+    }
+  ]
+}

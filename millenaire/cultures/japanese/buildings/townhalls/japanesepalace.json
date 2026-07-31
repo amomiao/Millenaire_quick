@@ -1,0 +1,108 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesepalace",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Kumonjo",
+  "shop": "japanesetownhall",
+  "max_count": 0,
+  "male": [
+    "kuge"
+  ],
+  "female": [
+    "richwoman"
+  ],
+  "tags": [
+    "oven",
+    "leisure",
+    "nopaths"
+  ],
+  "icon": "millenaire:paper_wall",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "oven",
+        "leisure",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 35,
+            "height": 12,
+            "depth": 27
+          },
+          "priority": 600,
+          "signs": "2,1,3,5,0,7,8,6,4"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 35,
+            "height": 12,
+            "depth": 27
+          },
+          "priority": 600
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 35,
+            "height": 12,
+            "depth": 27
+          },
+          "priority": 580
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 35,
+            "height": 12,
+            "depth": 27
+          },
+          "priority": 560
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 35,
+            "height": 12,
+            "depth": 27
+          },
+          "priority": 540,
+          "rebuild_path": true
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 35,
+            "height": 12,
+            "depth": 27
+          },
+          "priority": 520
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 35,
+            "height": 12,
+            "depth": 27
+          },
+          "priority": 500
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 35,
+            "height": 12,
+            "depth": 27
+          }
+        }
+      ]
+    }
+  ]
+}

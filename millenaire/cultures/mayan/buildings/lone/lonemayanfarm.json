@@ -1,0 +1,51 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "lonemayanfarm",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Maya Makan",
+  "shop": "lonemayanfarm",
+  "male": [
+    "lonemayanfarmer"
+  ],
+  "female": [
+    "lonemayanpeasantwife"
+  ],
+  "tags": [
+    "maizefarm",
+    "chicken"
+  ],
+  "icon": "millenaire:maize",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "maizefarm",
+        "chicken"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 10,
+            "depth": 20
+          },
+          "priority": 3000,
+          "infoSoils": [
+            {
+              "crop": "maize"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

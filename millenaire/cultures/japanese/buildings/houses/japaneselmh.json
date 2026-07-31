@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japaneselmh",
+  "category": "houses",
+  "native_name": "Kikori Koya",
+  "max_count": 2,
+  "male": [
+    "lumberman"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "minecraft:iron_axe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 1000
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 13
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 90,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 13
+          },
+          "priority": 85
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Moine",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_oldman_0.png",
+    "millenaire:textures/entity/norman/male/nor_oldman_1.png",
+    "millenaire:textures/entity/norman/male/nor_oldman_2.png",
+    "millenaire:textures/entity/norman/male/nor_oldman_3.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_priest_0.png",
+        "millenaire:textures/entity/norman/male/clothes/nor_priest_1.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:get_goods_for_household",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_resources_for_shops",
+    "millenaire:craft_books"
+  ],
+  "tags": [
+    "religious",
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:leather": 8,
+    "minecraft:oak_log": 8
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "minecraft:book",
+  "experience_given": 2,
+  "travelbook_held_item": "minecraft:bookshelf"
+}

@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanarmyforge",
+  "category": "houses",
+  "native_name": "Ah Tz'on Si' Took",
+  "shop": "mayanarmyforge",
+  "min_distance": 0.5,
+  "male": [
+    "armysmith"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "minecraft:leather_chestplate",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 800,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 6,
+            "depth": 8
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 7,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 75
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 7,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 70,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

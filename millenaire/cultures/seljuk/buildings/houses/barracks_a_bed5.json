@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "barracks_a_bed5",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "barracks",
+    "variant": "a",
+    "level": 2
+  },
+  "native_name": "Asker Odasi",
+  "max_count": 0,
+  "male": [
+    "turk_soldier"
+  ],
+  "icon": "millenaire:seljuk_scimitar",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 7,
+            "depth": 20
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

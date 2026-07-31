@@ -1,0 +1,82 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "banditfort",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Zokuto No Bakusha",
+  "male": [
+    "bandit",
+    "bandit",
+    "bandit",
+    "bandit",
+    "bandit",
+    "bandit"
+  ],
+  "icon": "millenaire:japanese_tachi",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 30,
+      "random": 64
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.8,
+      "fixed": 2,
+      "random": 6
+    },
+    {
+      "item": "millenaire:japanese_tachi",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_leggings",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_helmet",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:rice",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 32
+    },
+    {
+      "item": "millenaire:udon",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 8
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -4,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 51,
+            "height": 17,
+            "depth": 53
+          },
+          "infoTreeSpawns": [
+            {
+              "sapling": "pine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

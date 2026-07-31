@@ -1,0 +1,42 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "lonemarket",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Ticaret Noktası",
+  "male": [
+    "turk_lonemerchant",
+    "turk_lonesoldier",
+    "turk_lonesoldier"
+  ],
+  "starting_sub_buildings": [
+    "lonemarket_a_market"
+  ],
+  "icon": "millenaire:purse",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 50,
+      "random": 256
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 25,
+            "height": 6,
+            "depth": 25
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

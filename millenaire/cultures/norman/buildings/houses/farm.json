@@ -1,0 +1,162 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "farm",
+  "category": "houses",
+  "native_name": "Ferme",
+  "max_count": 2,
+  "min_distance": 0.5,
+  "male": [
+    "farmer"
+  ],
+  "female": [
+    "wife"
+  ],
+  "icon": "minecraft:wheat",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 1000,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 95,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 90,
+          "path_level": 1,
+          "infoSoils": [
+            {
+              "crop": "carrot"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 85
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 8,
+            "depth": 16
+          },
+          "priority": 1000,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 8,
+            "depth": 16
+          },
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 8,
+            "depth": 16
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 15,
+            "height": 8,
+            "depth": 16
+          },
+          "priority": 90,
+          "path_level": 1,
+          "infoSoils": [
+            {
+              "crop": "carrot"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 15,
+            "height": 8,
+            "depth": 16
+          },
+          "priority": 85
+        }
+      ]
+    }
+  ]
+}

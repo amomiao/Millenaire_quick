@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanalter",
+  "category": "houses",
+  "native_name": "K'eyem",
+  "tags": [
+    "sacrifices"
+  ],
+  "icon": "millenaire:mayan_statue",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -2,
+      "tags": [
+        "sacrifices"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 12,
+            "depth": 13
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 12,
+            "depth": 13
+          },
+          "priority": 50,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 12,
+            "depth": 13
+          },
+          "priority": 45
+        }
+      ]
+    }
+  ]
+}

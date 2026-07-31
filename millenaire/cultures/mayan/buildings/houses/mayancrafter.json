@@ -1,0 +1,67 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayancrafter",
+  "category": "houses",
+  "native_name": "Kob Took",
+  "shop": "mayancrafter",
+  "male": [
+    "crafter"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "tags": [
+    "oven"
+  ],
+  "icon": "millenaire:mayan_gold_block",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "oven"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 800,
+          "priority_move_in": 50
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 75
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 70,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

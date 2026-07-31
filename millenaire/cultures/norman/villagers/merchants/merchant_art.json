@@ -1,0 +1,61 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Marchand d'art",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.f.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.g.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.h.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.i.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_merchart_0.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "merchant_art_first_names",
+  "family_name_list": "merchant_art_family_names",
+  "icon": "minecraft:painting",
+  "base_attack_strength": 5,
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:painting",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "millenaire:wall_tapestry": 8,
+    "minecraft:painting": 32,
+    "minecraft:white_dye": 64,
+    "minecraft:orange_dye": 64,
+    "minecraft:magenta_dye": 64,
+    "minecraft:light_blue_dye": 64,
+    "minecraft:yellow_dye": 64,
+    "minecraft:green_dye": 64,
+    "minecraft:pink_dye": 64,
+    "minecraft:gray_dye": 64,
+    "minecraft:light_gray_dye": 64,
+    "minecraft:cyan_dye": 64,
+    "minecraft:purple_dye": 64,
+    "minecraft:lapis_lazuli": 64,
+    "minecraft:cocoa_beans": 64,
+    "minecraft:red_dye": 64,
+    "minecraft:black_dye": 64
+  }
+}

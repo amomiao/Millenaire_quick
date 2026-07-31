@@ -1,0 +1,67 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "soldierhouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Sainik Ka Ghar",
+  "min_distance": 0.5,
+  "male": [
+    "soldier"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "minecraft:iron_sword",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 50
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          }
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 10,
+            "depth": 10
+          }
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

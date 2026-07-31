@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesearcheryrange",
+  "category": "player",
+  "native_name": "Yaba",
+  "max_count": 0,
+  "icon": "minecraft:arrow",
+  "price": 4096,
+  "reputation": 32768,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 4,
+            "depth": 22
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Haydut Lideri",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_old_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cloth/turk_soldier_0.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_soldier_1.png"
+      ]
+    },
+    "clothes_seljuk_cotton": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cotton/cotton_5.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_6.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_7.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:patrol",
+    "millenaire:training",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_scimitar",
+    "millenaire:craft_bandit_steel_helmet",
+    "millenaire:craft_bandit_steel_chest",
+    "millenaire:craft_bandit_steel_legs",
+    "millenaire:craft_bandit_steel_boots",
+    "millenaire:craft_steelaxe",
+    "millenaire:craft_stoneaxe",
+    "millenaire:craft_steelsword",
+    "millenaire:craft_stonesword",
+    "millenaire:craft_bow",
+    "millenaire:craft_arrow_seljuk",
+    "millenaire:craft_bandit_leather_chest",
+    "millenaire:craft_bandit_leather_boots",
+    "millenaire:craft_bandit_leather_legs",
+    "millenaire:craft_bandit_leather_helmet",
+    "millenaire:cook_iron_ore",
+    "millenaire:craft_iron"
+  ],
+  "tags": [
+    "heavydrinker",
+    "hostile",
+    "archer",
+    "raider",
+    "noteleport",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:oak_log": 16,
+    "millenaire:seljuk_bow": 1,
+    "minecraft:arrow": 16
+  },
+  "collect_goods": [
+    "minecraft:oak_log",
+    "minecraft:iron_ingot",
+    "minecraft:raw_iron",
+    "minecraft:cobblestone",
+    "minecraft:leather",
+    "minecraft:iron_axe",
+    "minecraft:stone_axe",
+    "minecraft:stone_sword",
+    "minecraft:iron_sword",
+    "minecraft:iron_boots",
+    "minecraft:iron_leggings",
+    "minecraft:iron_chestplate",
+    "minecraft:iron_helmet",
+    "minecraft:leather_chestplate",
+    "minecraft:leather_boots",
+    "minecraft:leather_leggings",
+    "minecraft:leather_helmet",
+    "minecraft:bow",
+    "millenaire:cider",
+    "millenaire:ayran"
+  ],
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "minecraft:stone_sword",
+  "max_health": 80,
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "items_needed": [
+    "millenaire:clothes_seljuk_cotton"
+  ],
+  "base_attack_strength": 6,
+  "default_weapon": "minecraft:stone_sword",
+  "experience_given": 20,
+  "travelbook_held_item": "minecraft:stone_sword"
+}

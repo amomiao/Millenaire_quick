@@ -1,0 +1,93 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "banditcamp",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Soyguncu Kampı",
+  "shop": "bandits",
+  "max_count": 0,
+  "male": [
+    "turk_banditleader",
+    "turk_bandit",
+    "turk_bandit"
+  ],
+  "tags": [
+    "armoury",
+    "patrol",
+    "leisure"
+  ],
+  "icon": "minecraft:stone_sword",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 50
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_boots",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_chestplate",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_leggings",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_helmet",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:ayran",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 2
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -5,
+      "tags": [
+        "armoury",
+        "patrol",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 10
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

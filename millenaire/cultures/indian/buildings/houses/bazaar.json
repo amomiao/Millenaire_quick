@@ -1,0 +1,91 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "bazaar",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Bazaar",
+  "tags": [
+    "market",
+    "leisure"
+  ],
+  "icon": "millenaire:purse",
+  "area_to_clear": 6,
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "tags": [
+        "market",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 7,
+            "depth": 10
+          },
+          "ground_level": -1,
+          "priority": 600
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 6,
+            "depth": 10
+          },
+          "ground_level": -1,
+          "priority": 60
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 6,
+            "depth": 10
+          },
+          "ground_level": -1,
+          "priority": 55,
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 19,
+            "height": 7,
+            "depth": 10
+          },
+          "ground_level": -1,
+          "priority": 50,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 19,
+            "height": 7,
+            "depth": 10
+          },
+          "ground_level": -1,
+          "priority": 45
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 19,
+            "height": 8,
+            "depth": 10
+          },
+          "ground_level": -2,
+          "priority": 40,
+          "rebuild_path": true
+        }
+      ],
+      "building_orientation": 3
+    }
+  ]
+}

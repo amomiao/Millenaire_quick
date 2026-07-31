@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbaye_a_pulpit",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "abbaye",
+    "variant": "a",
+    "level": 5
+  },
+  "native_name": "Chaire",
+  "max_count": 0,
+  "tags": [
+    "pulpit"
+  ],
+  "icon": "minecraft:oak_planks",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "pulpit"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 48,
+            "height": 53,
+            "depth": 112
+          },
+          "parent_tags": [
+            "207"
+          ],
+          "required_parent_tags": [
+            "level_6"
+          ]
+        }
+      ]
+    }
+  ]
+}

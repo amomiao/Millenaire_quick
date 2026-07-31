@@ -1,0 +1,55 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "lake",
+  "category": "houses",
+  "native_name": "Sikuliaq",
+  "max_count": 0,
+  "tags": [
+    "cattle",
+    "lake",
+    "inuitmining",
+    "nopaths"
+  ],
+  "icon": "minecraft:ice",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "tags": [
+        "cattle",
+        "lake",
+        "inuitmining",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 4,
+            "depth": 10
+          },
+          "priority": 1000,
+          "sub_buildings": [
+            "lake_a_fisherman"
+          ],
+          "infoSources": [
+            {
+              "type": "snow"
+            },
+            {
+              "type": "ice"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "woods_shrine",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Yashiro",
+  "icon": "minecraft:oak_sapling",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 10
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 9,
+            "depth": 17
+          }
+        }
+      ]
+    }
+  ]
+}

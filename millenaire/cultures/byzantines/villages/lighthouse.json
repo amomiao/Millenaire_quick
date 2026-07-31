@@ -1,0 +1,24 @@
+{
+  "culture": "millenaire:byzantines",
+  "biome_tags": [
+    "#c:is_plains",
+    "#c:is_forest"
+  ],
+  "name": "Fáros",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 40,
+  "min_distance_from_spawn": 600,
+  "minimum_biome_validity": 0.25,
+  "layout": [
+    {
+      "plan": "millenaire:byzantines/pharos",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:byzantines/lonepinegrove",
+      "role": "start"
+    }
+  ],
+  "allow_extra_buildings": false
+}

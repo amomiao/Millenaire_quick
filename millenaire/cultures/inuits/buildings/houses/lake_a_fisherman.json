@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "lake_a_fisherman",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "lake",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Alluaq Tupiq",
+  "max_count": 0,
+  "male": [
+    "inuit_fisherman"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "tags": [
+    "cattle",
+    "fishingspot",
+    "nopaths"
+  ],
+  "icon": "minecraft:fishing_rod",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -3,
+      "tags": [
+        "cattle",
+        "fishingspot",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 1000000,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 3000
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 10,
+            "depth": 10
+          },
+          "priority": 50
+        }
+      ]
+    }
+  ]
+}

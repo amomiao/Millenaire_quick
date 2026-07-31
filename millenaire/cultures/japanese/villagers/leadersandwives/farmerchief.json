@@ -1,0 +1,48 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Chokan",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_peasant1.png"
+  ],
+  "base_scale": 0.93,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:patrol",
+    "millenaire:bring_back_home",
+    "millenaire:harvest_wheat_home",
+    "millenaire:plant_wheat_home",
+    "millenaire:inspect_construction"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:wheat_seeds": 100
+  },
+  "bring_back_home_goods": [
+    "minecraft:wheat"
+  ],
+  "collect_goods": [
+    "minecraft:wheat_seeds",
+    "millenaire:rice",
+    "minecraft:wheat"
+  ],
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:diamond_hoe",
+  "tool_needed_classes": [
+    "hoes",
+    "toolssword"
+  ],
+  "base_attack_strength": 7,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "minecraft:iron_hoe",
+  "travelbook_held_item_off_hand": "minecraft:wheat"
+}

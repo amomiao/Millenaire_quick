@@ -1,0 +1,67 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "armourerhouse",
+  "category": "houses",
+  "native_name": "Sfuyaunnat Tupiq",
+  "shop": "armoury",
+  "male": [
+    "inuit_smith"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "tags": [
+    "armoury"
+  ],
+  "icon": "millenaire:furplate",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "armoury"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 300,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 35,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          }
+        }
+      ]
+    }
+  ]
+}

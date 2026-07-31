@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "indiandesertedfarm",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Sunsan Har",
+  "icon": "millenaire:turmeric",
+  "starting_goods": [
+    {
+      "item": "millenaire:rice",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "millenaire:turmeric",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 14
+          }
+        }
+      ]
+    }
+  ]
+}

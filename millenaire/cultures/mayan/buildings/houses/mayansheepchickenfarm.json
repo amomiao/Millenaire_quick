@@ -1,0 +1,136 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayansheepchickenfarm",
+  "category": "houses",
+  "native_name": "Ah Kax Makan",
+  "shop": "mayansheepchickenfarm",
+  "min_distance": 0.5,
+  "male": [
+    "chickenfarmer"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "tags": [
+    "chicken",
+    "oven",
+    "nopaths"
+  ],
+  "icon": "minecraft:feather",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "chicken",
+        "oven",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 1000,
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 8,
+            "depth": 12
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 90,
+          "path_level": 1
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "chicken",
+        "oven"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 1000,
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 90
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 85,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

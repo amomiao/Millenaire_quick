@@ -1,0 +1,31 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Irniq",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_male2.png",
+    "millenaire:textures/entity/inuit/inuit_male4.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_shaman3.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:child_become_adult",
+    "millenaire:play"
+  ],
+  "tags": [
+    "child"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:cornflower",
+  "base_attack_strength": 2,
+  "default_weapon": "minecraft:bone",
+  "alt_native_name": "Irniq",
+  "alt_key": "teenagermale"
+}

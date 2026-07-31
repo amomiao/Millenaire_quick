@@ -1,0 +1,69 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "pandithouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Pandit Ka Ghar",
+  "male": [
+    "pandit"
+  ],
+  "female": [
+    "panditayin"
+  ],
+  "icon": "minecraft:book",
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 50
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 45
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 40
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 35,
+          "path_level": 1
+        }
+      ],
+      "building_orientation": 1
+    }
+  ]
+}

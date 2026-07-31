@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Tz'on",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_crafter0.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_stoneaxe",
+    "millenaire:craft_stonepickaxe",
+    "millenaire:craft_stoneshovel",
+    "millenaire:craft_stonehoe",
+    "millenaire:craft_mayangoldblock",
+    "millenaire:craft_bannerfeather"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:cobblestone": 10,
+    "minecraft:stone": 10,
+    "minecraft:leather": 10,
+    "minecraft:feather": 10
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:mayan_gold_block",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:mayan_gold_block"
+}

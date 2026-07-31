@@ -1,0 +1,35 @@
+{
+  "handler": "crafting",
+  "priority": 200,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "millenaire:paint_bucket_white": 16
+  },
+  "maxSimultaneousTotal": 1,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:acacia_log",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "millenaire:paint_bucket_white",
+        "count": 1
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:acacia_planks",
+    "millenaire:paint_bucket_white"
+  ],
+  "sound": "wood"
+}

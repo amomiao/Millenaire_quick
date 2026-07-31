@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Kokushi",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_overseer1.png"
+  ],
+  "base_scale": 0.93,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "chief",
+    "archer",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "minecraft:iron_sword",
+  "max_health": 25,
+  "tool_needed_classes": [
+    "toolssword",
+    "rangedweapons",
+    "armour"
+  ],
+  "base_attack_strength": 7,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "minecraft:iron_sword"
+}

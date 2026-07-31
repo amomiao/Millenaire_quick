@@ -1,0 +1,42 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "lonecowfarm",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Inek Çiftliği",
+  "shop": "lonecowfarm",
+  "male": [
+    "turk_lonecowfarmer"
+  ],
+  "tags": [
+    "slaughtercowseljuk",
+    "cattle"
+  ],
+  "icon": "minecraft:beef",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "slaughtercowseljuk",
+        "cattle"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 6,
+            "depth": 21
+          },
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "pantheon",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Panthéon",
+  "tags": [
+    "hof",
+    "despawnallmobs"
+  ],
+  "icon": "sign",
+  "area_to_clear": 6,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "hof",
+        "despawnallmobs"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 93,
+            "height": 89,
+            "depth": 128
+          }
+        }
+      ]
+    }
+  ]
+}

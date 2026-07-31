@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "ruinedfort",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Purana Qila",
+  "icon": "minecraft:iron_sword",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.2,
+      "fixed": 2,
+      "random": 2
+    },
+    {
+      "item": "millenaire:rice",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 8
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "probability": 0.4,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_chestplate",
+      "probability": 0.4,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "probability": 0.8,
+      "fixed": 1,
+      "random": 2
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 10,
+            "depth": 14
+          }
+        }
+      ]
+    }
+  ]
+}

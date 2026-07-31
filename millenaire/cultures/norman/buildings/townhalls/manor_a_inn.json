@@ -1,0 +1,52 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "manor_a_inn",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "manor",
+    "variant": "a",
+    "level": 0
+  },
+  "is_town_hall": false,
+  "native_name": "Chambre d' amis",
+  "max_count": 0,
+  "male": [
+    "merchant"
+  ],
+  "tags": [
+    "inn"
+  ],
+  "icon": "minecraft:red_bed",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -9,
+      "tags": [
+        "inn"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 600,
+          "signs": "1,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 35,
+            "height": 21,
+            "depth": 25
+          },
+          "priority": 500
+        }
+      ]
+    }
+  ]
+}

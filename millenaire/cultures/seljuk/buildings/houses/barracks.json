@@ -1,0 +1,70 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "barracks",
+  "category": "houses",
+  "native_name": "Kışla",
+  "starting_sub_buildings": [
+    "barracks_a_bed0",
+    "barracks_a_bed1",
+    "barracks_a_patrol0",
+    "barracks_a_patrol1",
+    "barracks_a_patrol2",
+    "barracks_a_training"
+  ],
+  "icon": "millenaire:seljuk_scimitar",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 7,
+            "depth": 20
+          },
+          "priority": 450
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 10,
+            "depth": 20
+          },
+          "priority": 190,
+          "sub_buildings": [
+            "barracks_a_bed2",
+            "barracks_a_bed3"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 20,
+            "height": 10,
+            "depth": 20
+          },
+          "priority": 150,
+          "sub_buildings": [
+            "barracks_a_bed4",
+            "barracks_a_bed5"
+          ],
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 20,
+            "height": 10,
+            "depth": 20
+          },
+          "priority": 130
+        }
+      ]
+    }
+  ]
+}

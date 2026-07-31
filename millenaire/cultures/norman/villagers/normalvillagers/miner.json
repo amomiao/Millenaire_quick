@@ -1,0 +1,70 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Mineur",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_peasant_0.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_1.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_2.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_3.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_4.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_5.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_6.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_7.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_8.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_9.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_miner_0.png",
+        "millenaire:textures/entity/norman/male/clothes/nor_miner_1.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:bring_back_home",
+    "millenaire:mine_stone",
+    "millenaire:mine_sand",
+    "millenaire:cook_stone"
+  ],
+  "tags": [
+    "heavydrinker",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:cobblestone",
+    "minecraft:glass",
+    "minecraft:stone",
+    "minecraft:sand"
+  ],
+  "required_goods": {
+    "minecraft:oak_log": 32,
+    "minecraft:spruce_log": 32,
+    "minecraft:birch_log": 64,
+    "minecraft:jungle_log": 64,
+    "minecraft:acacia_log": 64,
+    "minecraft:dark_oak_log": 32
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "millenaire:norman_pickaxe",
+  "tool_needed_classes": [
+    "shovels",
+    "pickaxes",
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_pickaxe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:norman_pickaxe",
+  "travelbook_held_item_off_hand": "minecraft:cobblestone"
+}

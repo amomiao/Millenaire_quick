@@ -1,0 +1,36 @@
+{
+  "handler": "crafting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 5,
+  "actionCooldown": 400,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "minecraft:blue_carpet": 64
+  },
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:blue_wool",
+        "count": 2
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:blue_carpet",
+        "count": 3
+      }
+    ]
+  },
+  "heldItems": [
+    "minecraft:blue_wool",
+    "minecraft:blue_carpet"
+  ],
+  "sentenceKey": "makecarpet",
+  "labelKey": "makecarpet",
+  "sound": "wool"
+}

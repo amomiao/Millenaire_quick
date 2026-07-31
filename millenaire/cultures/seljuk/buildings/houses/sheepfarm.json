@@ -1,0 +1,85 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "sheepfarm",
+  "category": "houses",
+  "native_name": "Koyun Çiftliği",
+  "shop": "sheepfarm",
+  "min_distance": 0.3,
+  "male": [
+    "turk_shepherd"
+  ],
+  "female": [
+    "turk_shepherdwife"
+  ],
+  "tags": [
+    "slaughtersheepseljuk",
+    "sheeps"
+  ],
+  "icon": "minecraft:mutton",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "slaughtersheepseljuk",
+        "sheeps"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 21,
+            "height": 6,
+            "depth": 17
+          },
+          "priority": 600,
+          "infoAnimalSpawns": [
+            {
+              "entity": "sheep"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 21,
+            "height": 6,
+            "depth": 17
+          },
+          "priority": 150
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 21,
+            "height": 8,
+            "depth": 17
+          },
+          "priority": 95,
+          "path_level": 1,
+          "infoAnimalSpawns": [
+            {
+              "entity": "sheep"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 21,
+            "height": 8,
+            "depth": 17
+          },
+          "priority": 90,
+          "infoAnimalSpawns": [
+            {
+              "entity": "sheep"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

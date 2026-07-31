@@ -1,0 +1,77 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Naunbat",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_shaman3.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:drink",
+    "millenaire:bring_back_home",
+    "millenaire:deliver_resources_shop",
+    "millenaire:plant_wheat_home",
+    "millenaire:harvest_wheat_home",
+    "millenaire:plant_wheat",
+    "millenaire:harvest_wheat",
+    "millenaire:plant_potato_home",
+    "millenaire:harvest_potato_home",
+    "millenaire:plant_potato",
+    "millenaire:harvest_potato",
+    "millenaire:craft_potatostew",
+    "millenaire:craft_leather",
+    "millenaire:craft_tanned_hide",
+    "millenaire:craft_hide_hanging",
+    "millenaire:craft_bannerleather",
+    "millenaire:craft_shoveldirt",
+    "millenaire:craft_dirtwall_inuit"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:wheat_seeds": 8,
+    "minecraft:potato": 16,
+    "minecraft:cauldron": 16,
+    "millenaire:snow_brick": 48
+  },
+  "bring_back_home_goods": [
+    "minecraft:wheat",
+    "minecraft:potato",
+    "minecraft:rotten_flesh",
+    "minecraft:bone"
+  ],
+  "collect_goods": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:potato",
+    "minecraft:rotten_flesh",
+    "minecraft:bone"
+  ],
+  "required_goods": {
+    "minecraft:potato": 64,
+    "minecraft:leather": 8
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:potato",
+  "tool_needed_classes": [
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "items_needed": [
+    "minecraft:wooden_hoe"
+  ],
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:wooden_hoe",
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:wooden_hoe",
+  "travelbook_held_item_off_hand": "minecraft:potato"
+}

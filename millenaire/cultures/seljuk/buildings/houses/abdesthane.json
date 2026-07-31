@@ -1,0 +1,42 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "abdesthane",
+  "category": "houses",
+  "native_name": "Abdesthane",
+  "tags": [
+    "leisure"
+  ],
+  "icon": "minecraft:water_bucket",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -3,
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "irrigation": 5
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "irrigation": 10,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

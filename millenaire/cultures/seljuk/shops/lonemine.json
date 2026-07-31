@@ -1,0 +1,18 @@
+{
+  "sells": [
+    "mud_brick",
+    "sandstone",
+    "cobblestone",
+    "stone",
+    "iron_nugget"
+  ],
+  "buys": [
+    "ayran"
+  ],
+  "buys_optional": [
+    "wood",
+    "iron_pickaxe",
+    "iron_shovel"
+  ],
+  "deliver_to": []
+}

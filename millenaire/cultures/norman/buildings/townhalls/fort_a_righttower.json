@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "fort_a_righttower",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "fort",
+    "variant": "a",
+    "level": 7
+  },
+  "is_town_hall": false,
+  "native_name": "Tour de garde",
+  "max_count": 0,
+  "male": [
+    "guard"
+  ],
+  "icon": "millenaire:norman_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -5,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "priority": 900
+        }
+      ]
+    }
+  ]
+}

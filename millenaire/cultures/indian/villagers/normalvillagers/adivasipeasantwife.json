@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Mahilaa adivasi",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_peasant_wife0.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife1.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife2.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife3.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife4.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife5.png",
+    "millenaire:textures/entity/indian/ml_peasant_wife6.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:plant_rice",
+    "millenaire:harvest_rice",
+    "millenaire:plant_turmeric",
+    "millenaire:harvest_turmeric",
+    "millenaire:plant_sugar_cane",
+    "millenaire:harvest_sugar_cane",
+    "millenaire:craft_rasgulla"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "male_child": "boy",
+  "female_child": "girl",
+  "icon": "millenaire:rice",
+  "tool_needed_classes": [
+    "hoes"
+  ],
+  "default_weapon": "minecraft:wooden_hoe",
+  "travelbook_held_item": "minecraft:iron_hoe",
+  "travelbook_held_item_off_hand": "minecraft:sugar_cane"
+}

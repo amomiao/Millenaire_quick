@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Nuunjul Aaj Inic",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_lumberman0.png",
+    "millenaire:textures/entity/mayan/mayan_lumberman1.png",
+    "millenaire:textures/entity/mayan/mayan_lumberman2.png",
+    "millenaire:textures/entity/mayan/mayan_lumberman3.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cacauhaa",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 20,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:beef",
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:beef",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "minecraft:beef": 16,
+    "minecraft:porkchop": 16,
+    "minecraft:chicken": 16,
+    "minecraft:leather": 32,
+    "minecraft:feather": 16,
+    "minecraft:arrow": 64,
+    "minecraft:bow": 2
+  }
+}

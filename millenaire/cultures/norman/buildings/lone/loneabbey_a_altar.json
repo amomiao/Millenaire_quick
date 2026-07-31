@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "loneabbey_a_altar",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "loneabbey",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Autel",
+  "tags": [
+    "praying"
+  ],
+  "icon": "minecraft:yellow_carpet",
+  "fixed_orientation": "north",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "praying"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 21,
+            "height": 3,
+            "depth": 25
+          },
+          "priority": 3000
+        }
+      ]
+    }
+  ]
+}

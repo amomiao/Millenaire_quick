@@ -1,0 +1,14 @@
+{
+  "_comment": "Skeleton village type. Place under cultures/<culture>/village_type/<name>.json. Exactly one layout entry with role=centre is required.",
+  "culture": "millenaire:<culture>",
+  "name": "My Village",
+  "weight": 0,
+  "_weight_comment": "0 = no natural spawn (use /millenaire spawn to test). Set to 10+ once ready for natural spawn.",
+  "biome_tags": ["#c:is_plains"],
+  "_biome_tags_comment": "Either biome tags (start with #) or exact biome ResourceLocations. See the vanilla biome registry for valid values.",
+  "layout": [
+    { "plan": "millenaire:<culture>/my_townhall", "role": "centre" },
+    { "plan": "millenaire:<culture>/my_house", "role": "start" }
+  ],
+  "_layout_roles_comment": "Valid roles: centre, start, secondary, optional. Exactly one entry must be role=centre (the townhall)."
+}

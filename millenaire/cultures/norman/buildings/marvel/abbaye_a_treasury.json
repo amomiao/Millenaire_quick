@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abbaye_a_treasury",
+  "category": "marvel",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "abbaye",
+    "variant": "a",
+    "level": 5
+  },
+  "native_name": "Trésor de l'église",
+  "max_count": 0,
+  "icon": "minecraft:gold_ingot",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 48,
+            "height": 53,
+            "depth": 112
+          },
+          "priority": 50,
+          "parent_tags": [
+            "208"
+          ],
+          "required_parent_tags": [
+            "level_6"
+          ]
+        }
+      ]
+    }
+  ]
+}

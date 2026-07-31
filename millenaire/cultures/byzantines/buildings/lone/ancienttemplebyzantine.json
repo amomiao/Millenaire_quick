@@ -1,0 +1,24 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "ancienttemplebyzantine",
+  "category": "lone",
+  "native_name": "Archiao Nao",
+  "icon": "minecraft:stone",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 6,
+            "depth": 9
+          }
+        }
+      ]
+    }
+  ]
+}

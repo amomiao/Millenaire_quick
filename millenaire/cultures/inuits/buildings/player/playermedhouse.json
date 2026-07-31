@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "playermedhouse",
+  "category": "player",
+  "native_name": "Tupiq",
+  "max_count": 0,
+  "icon": "millenaire:denier_argent",
+  "price": 2688,
+  "reputation": 12288,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -5,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 11,
+            "depth": 7
+          },
+          "priority": 3000
+        }
+      ]
+    }
+  ]
+}

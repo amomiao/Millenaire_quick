@@ -1,0 +1,32 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "feloncastle",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Château félon",
+  "male": [
+    "felonbaron",
+    "felonsoldier",
+    "felonsoldier",
+    "felonsoldier",
+    "felonsoldier"
+  ],
+  "icon": "millenaire:norman_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 12,
+            "depth": 24
+          }
+        }
+      ]
+    }
+  ]
+}

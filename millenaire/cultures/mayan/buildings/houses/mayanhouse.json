@@ -1,0 +1,262 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanhouse",
+  "category": "houses",
+  "native_name": "Maya Otoch",
+  "max_count": 2,
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_shovel",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 30,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 25
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 25
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 20
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 15
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 10,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 10,
+          "path_level": 1
+        }
+      ]
+    },
+    {
+      "variant": "c",
+      "building_orientation": 2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 25
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 20
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 15,
+          "path_level": 1
+        }
+      ]
+    },
+    {
+      "variant": "d",
+      "building_orientation": 0,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 8,
+            "depth": 6
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 8,
+            "depth": 6
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 8,
+            "depth": 6
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 8,
+            "depth": 6
+          },
+          "priority": 30,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "gifthut",
+  "category": "player",
+  "native_name": "Oíkia Áxion",
+  "max_count": 0,
+  "icon": "minecraft:cake",
+  "area_to_clear": 3,
+  "is_gift": true,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 11,
+            "depth": 12
+          },
+          "priority": 1000000,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

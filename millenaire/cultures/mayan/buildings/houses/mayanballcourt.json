@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanballcourt",
+  "category": "houses",
+  "native_name": "Jalab",
+  "tags": [
+    "leisure"
+  ],
+  "icon": "minecraft:stone_bricks",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 11,
+            "depth": 22
+          },
+          "priority": 400,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

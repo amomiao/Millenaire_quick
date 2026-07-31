@@ -1,0 +1,30 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Apprenti alchimiste",
+  "textures": [
+    "millenaire:textures/entity/norman/special/alchemistapprentice.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:drink_cider",
+    "millenaire:craft_glassbottles",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:glass": 32
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "minecraft:glass_bottle",
+  "experience_given": 2,
+  "travelbook_held_item": "minecraft:nether_wart",
+  "travelbook_held_item_off_hand": "minecraft:glass_bottle"
+}

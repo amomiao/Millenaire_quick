@@ -1,0 +1,29 @@
+{
+  "sells": [
+    "dirt_wall",
+    "japaneseguardboots",
+    "japaneseguardhelmet",
+    "japaneseguardlegs",
+    "japaneseguardplate",
+    "japaneseblueboots",
+    "japanesebluehelmet",
+    "japanesebluelegs",
+    "japaneseblueplate",
+    "japaneseredboots",
+    "japaneseredhelmet",
+    "japaneseredlegs",
+    "japaneseredplate",
+    "japanese_tachi",
+    "yumibow",
+    "rice"
+  ],
+  "buys": [
+    "iron_ingot",
+    "ikayaki",
+    "udon",
+    "chicken_raw",
+    "leather"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

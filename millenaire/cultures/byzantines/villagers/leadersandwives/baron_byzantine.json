@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Akrita",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.f.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.g.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.h.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.i.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/byz.baron.1.a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/byz.baron.1.b.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:inspect_construction",
+    "millenaire:give_speech"
+  ],
+  "tags": [
+    "chief"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:byzantine_helmet",
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 6
+}

@@ -1,0 +1,18 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "pulpit",
+  "requiredTag": null,
+  "basePriority": 50,
+  "priorityRandom": 30,
+  "durationTicks": 600,
+  "reoccurDelayTicks": 12000,
+  "allowRandomMoves": false,
+  "leisure": true,
+  "targetPosType": "craftingPos",
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "heldItems": null,
+  "heldItemsDestination": null,
+  "goalKey": "preach_on_pulpit"
+}

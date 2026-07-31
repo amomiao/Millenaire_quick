@@ -1,0 +1,131 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "taverna",
+  "category": "houses",
+  "native_name": "Tavérna",
+  "shop": "taverna",
+  "male": [
+    "host_byzantine"
+  ],
+  "female": [
+    "hostesse_byzantine"
+  ],
+  "tags": [
+    "tavern",
+    "drinking",
+    "leisure",
+    "kitchen",
+    "garden"
+  ],
+  "icon": "millenaire:winefancy",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 7,
+            "depth": 22
+          },
+          "path_level": 1,
+          "tags": [
+            "tavern",
+            "drinking",
+            "leisure"
+          ],
+          "village_tags": [
+            "taverna"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 7,
+            "depth": 22
+          },
+          "priority": 200,
+          "tags": [
+            "tavern",
+            "drinking",
+            "leisure",
+            "kitchen"
+          ],
+          "village_tags": [
+            "taverna"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 7,
+            "depth": 22
+          },
+          "priority": 200,
+          "path_level": 1,
+          "tags": [
+            "tavern",
+            "drinking",
+            "leisure",
+            "kitchen",
+            "garden"
+          ],
+          "village_tags": [
+            "taverna"
+          ],
+          "infoSoils": [
+            {
+              "crop": "flower"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 22
+          },
+          "priority": 110,
+          "tags": [
+            "tavern",
+            "drinking",
+            "leisure",
+            "kitchen",
+            "garden"
+          ],
+          "village_tags": [
+            "taverna"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 22
+          },
+          "tags": [
+            "tavern",
+            "drinking",
+            "leisure",
+            "kitchen",
+            "garden"
+          ],
+          "village_tags": [
+            "taverna"
+          ]
+        }
+      ]
+    }
+  ]
+}

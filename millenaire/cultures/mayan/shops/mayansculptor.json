@@ -1,0 +1,10 @@
+{
+  "sells": [],
+  "buys": [
+    "stone",
+    "sandstone",
+    "gold_ingot"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

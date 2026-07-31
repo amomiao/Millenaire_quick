@@ -1,0 +1,331 @@
+{
+  "culture": "millenaire:indian",
+  "biome_tags": [
+    "#c:is_jungle",
+    "#c:is_savanna"
+  ],
+  "name": "Mahal",
+  "weight": 10,
+  "layout": [
+    {
+      "plan": "millenaire:indian/palace",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:indian/largepeasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/grove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/lumbermanhouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/quarry",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/inn",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/brickkiln",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/paddy",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:indian/largepeasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:indian/largepeasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:indian/quarry",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:indian/hindushrine",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:indian/craftsmanhouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:indian/brickkiln",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:indian/painterhouse",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:indian/scultorhouse",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:indian/quarry",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:indian/archives",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:indian/soldierhouse",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:indian/villagetree",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:indian/pandithouse",
+      "role": "secondary"
+    }
+  ],
+  "selling_price_overrides": {
+    "sugar_cane": 20,
+    "iron_ingot": 0,
+    "indian_statue": 384
+  },
+  "buying_price_overrides": {
+    "sugar_cane": 18,
+    "iron_ingot": 0,
+    "indian_statue": 352
+  },
+  "icon": "millenaire:rasgulla",
+  "qualifiers": [
+    "Mahal"
+  ],
+  "path_materials": [
+    "pathdirt",
+    "pathsandstone"
+  ],
+  "player_buildings": [
+    "millenaire:indian/playersmallfield",
+    "millenaire:indian/playersmallhouse",
+    "millenaire:indian/playerlargefield",
+    "millenaire:indian/playerhugefield",
+    "millenaire:indian/playerestate",
+    "millenaire:indian/gifthouse"
+  ],
+  "inner_wall_type": "sandstonewalls",
+  "inner_wall_radius": 50,
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in1,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in1,Color:0}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in1,Color:15}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in1,Color:4}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in1,Color:11}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in1,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in1,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in1,Color:4}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in1,Color:11}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in1,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in1,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in1,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in2,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in2,Color:0}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in2,Color:15}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in2,Color:4}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in2,Color:11}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in2,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in2,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in2,Color:4}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in2,Color:11}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in2,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in2,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in2,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in3,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in3,Color:0}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in3,Color:15}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in3,Color:4}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in3,Color:11}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in3,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in3,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in3,Color:4}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in3,Color:11}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in3,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in3,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in3,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in4,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in4,Color:0}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in4,Color:15}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in4,Color:4}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in4,Color:11}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in4,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in4,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in4,Color:4}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in4,Color:11}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in4,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in4,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in4,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in5,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in5,Color:0}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in5,Color:15}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:in5,Color:4}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in5,Color:11}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in5,Color:0}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in5,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:in5,Color:4}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in5,Color:11}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in5,Color:0}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in5,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:in5,Color:1}]}}"
+  ],
+  "never": [
+    "sugarplantation",
+    "villagetemple",
+    "forge",
+    "armyforge",
+    "spicegarden",
+    "cottonfield",
+    "weaverhouse"
+  ],
+  "brick_colour_themes": [
+    {
+      "name": "light",
+      "weight": 50,
+      "colours": {
+        "other": [
+          {
+            "color": "white",
+            "weight": 50
+          },
+          {
+            "color": "yellow",
+            "weight": 50
+          },
+          {
+            "color": "gray",
+            "weight": 30
+          },
+          {
+            "color": "light_gray",
+            "weight": 30
+          }
+        ]
+      }
+    },
+    {
+      "name": "jodhpur",
+      "weight": 20,
+      "colours": {
+        "white": [
+          {
+            "color": "light_blue",
+            "weight": 50
+          },
+          {
+            "color": "blue",
+            "weight": 50
+          },
+          {
+            "color": "cyan",
+            "weight": 30
+          },
+          {
+            "color": "purple",
+            "weight": 30
+          }
+        ],
+        "other": [
+          {
+            "color": "light_blue",
+            "weight": 50
+          },
+          {
+            "color": "cyan",
+            "weight": 40
+          },
+          {
+            "color": "blue",
+            "weight": 30
+          },
+          {
+            "color": "purple",
+            "weight": 30
+          }
+        ]
+      }
+    },
+    {
+      "name": "rajput",
+      "weight": 30,
+      "colours": {
+        "white": [
+          {
+            "color": "brown",
+            "weight": 50
+          },
+          {
+            "color": "orange",
+            "weight": 50
+          },
+          {
+            "color": "magenta",
+            "weight": 10
+          }
+        ],
+        "other": [
+          {
+            "color": "brown",
+            "weight": 50
+          },
+          {
+            "color": "orange",
+            "weight": 40
+          },
+          {
+            "color": "magenta",
+            "weight": 20
+          }
+        ]
+      }
+    },
+    {
+      "name": "jaipur",
+      "weight": 10,
+      "colours": {
+        "white": [
+          {
+            "color": "red",
+            "weight": 50
+          },
+          {
+            "color": "pink",
+            "weight": 30
+          }
+        ],
+        "other": [
+          {
+            "color": "white",
+            "weight": 50
+          },
+          {
+            "color": "gray",
+            "weight": 40
+          }
+        ]
+      }
+    }
+  ],
+  "hamlets": [
+    "millenaire:indian/agricole_hamlet",
+    "millenaire:indian/fort_hamlet"
+  ]
+}

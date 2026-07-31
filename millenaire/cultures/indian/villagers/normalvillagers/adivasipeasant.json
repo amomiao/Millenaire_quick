@@ -1,0 +1,75 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Adivasi Kisaan",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_peasant0.png",
+    "millenaire:textures/entity/indian/ml_peasant1.png",
+    "millenaire:textures/entity/indian/ml_peasant2.png",
+    "millenaire:textures/entity/indian/ml_peasant3.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:bring_back_home",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path",
+    "millenaire:dry_brick",
+    "millenaire:gather_brick",
+    "millenaire:cook_indian_brick",
+    "millenaire:cook_stone",
+    "millenaire:plant_rice",
+    "millenaire:harvest_rice",
+    "millenaire:plant_turmeric",
+    "millenaire:harvest_turmeric",
+    "millenaire:slaughter_chicken",
+    "millenaire:plant_sugar_cane",
+    "millenaire:harvest_sugar_cane",
+    "millenaire:cook_chicken"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "millenaire:mud_brick",
+    "millenaire:rice",
+    "millenaire:turmeric",
+    "minecraft:chicken",
+    "minecraft:sugar_cane",
+    "minecraft:cooked_chicken"
+  ],
+  "collect_goods": [
+    "minecraft:chicken",
+    "minecraft:egg",
+    "minecraft:feather"
+  ],
+  "required_goods": {
+    "millenaire:rice": 10,
+    "minecraft:oak_log": 16,
+    "minecraft:spruce_log": 16,
+    "minecraft:birch_log": 16,
+    "minecraft:jungle_log": 16,
+    "minecraft:acacia_log": 16,
+    "minecraft:dark_oak_log": 16
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:rice",
+  "tool_needed_classes": [
+    "hoes",
+    "toolssword",
+    "shovels",
+    "pickaxes"
+  ],
+  "items_needed": [
+    "minecraft:iron_sword"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_hoe",
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:iron_hoe",
+  "travelbook_held_item_off_hand": "millenaire:rice"
+}

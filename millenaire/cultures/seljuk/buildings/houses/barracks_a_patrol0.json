@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "barracks_a_patrol0",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "barracks",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Devriye",
+  "max_count": 0,
+  "tags": [
+    "patrol"
+  ],
+  "icon": "millenaire:seljuk_scimitar",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 6,
+            "depth": 20
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

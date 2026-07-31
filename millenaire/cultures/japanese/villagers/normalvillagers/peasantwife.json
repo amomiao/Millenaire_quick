@@ -1,0 +1,57 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Tsuma",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_peasant_wife0.png",
+    "millenaire:textures/entity/japanese/japanese_peasant_wife1.png",
+    "millenaire:textures/entity/japanese/japanese_peasant_wife2.png",
+    "millenaire:textures/entity/japanese/japanese_peasant_wife3.png"
+  ],
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_thatchfromwheat",
+    "millenaire:harvest_rice",
+    "millenaire:plant_rice",
+    "millenaire:craft_udon_kitchen",
+    "millenaire:cook_chicken_kitchen",
+    "millenaire:slaughter_squid",
+    "millenaire:craft_dirtwall",
+    "millenaire:craft_pathdirt",
+    "millenaire:craft_pathgravel",
+    "millenaire:craft_pathgravelslabs"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:oak_log": 16,
+    "minecraft:spruce_log": 16,
+    "minecraft:birch_log": 16,
+    "minecraft:jungle_log": 16,
+    "minecraft:acacia_log": 16,
+    "minecraft:dark_oak_log": 16,
+    "minecraft:wheat": 16,
+    "minecraft:cooked_chicken": 1
+  },
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "male_child": "boy",
+  "female_child": "girl",
+  "icon": "millenaire:udon",
+  "tool_needed_classes": [
+    "hoes"
+  ],
+  "default_weapon": "minecraft:wooden_hoe",
+  "travelbook_held_item": "millenaire:udon"
+}

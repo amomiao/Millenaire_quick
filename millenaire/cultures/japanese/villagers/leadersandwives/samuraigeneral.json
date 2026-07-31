@@ -1,0 +1,36 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Shukun",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_warrior_master0.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "chief",
+    "archer",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "millenaire:japanesebluehelmet",
+  "max_health": 60,
+  "villager_config": "japaneseweaponpriority",
+  "tool_needed_classes": [
+    "toolssword",
+    "armour",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "millenaire:japanese_tachi"
+}

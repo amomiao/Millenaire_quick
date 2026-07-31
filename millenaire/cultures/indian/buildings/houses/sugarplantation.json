@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "sugarplantation",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Gannaa Baagaana",
+  "min_distance": 0.6,
+  "tags": [
+    "sugarplantation",
+    "nopaths"
+  ],
+  "icon": "minecraft:sugar_cane",
+  "area_to_clear": 4,
+  "random_brick_colours": {
+    "white": [
+      {
+        "color": "white",
+        "weight": 50
+      },
+      {
+        "color": "light_gray",
+        "weight": 30
+      }
+    ]
+  },
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "sugarplantation",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 3,
+            "depth": 5
+          },
+          "priority": 1000,
+          "path_width": 1,
+          "infoSoils": [
+            {
+              "crop": "sugarcane"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 3,
+            "depth": 5
+          }
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

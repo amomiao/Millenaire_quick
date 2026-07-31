@@ -1,0 +1,171 @@
+{
+  "culture": "millenaire:japanese",
+  "name": "Shiyuuchi",
+  "weight": 0,
+  "player_controlled": true,
+  "layout": [
+    {
+      "plan": "millenaire:japanese/japaneseplayerpalace",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:japanese/japaneselmh",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesefarm",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesegrove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesepeasanth",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japanesepeasanth",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:japanese/japaneselmh",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesepeasanth",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesefarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/chickenfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesefishery",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesequarry",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesecrafter",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneseforge",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesearmyforge",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesesamuraih",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesegrove",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesepaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesekitchen",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/squidfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneseshintoshrine",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesepagoda",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesearchive",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesezen",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneselookout",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneseinn",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesemarket",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/bath",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/well",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneseplot1",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneseplot2",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japaneseplot3",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesehut",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesehouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesehousemedium",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesehouselarge",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:japanese/japanesearcheryrange",
+      "role": "core"
+    }
+  ],
+  "icon": "millenaire:japanesebluehelmet",
+  "carries_raid": true,
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "banner_json": [
+    "{BlockEntityTag:{Base:0,Patterns:[{Pattern:jar,Color:15}]}}",
+    "{BlockEntityTag:{Base:4,Patterns:[{Pattern:jar,Color:15}]}}",
+    "{BlockEntityTag:{Base:2,Patterns:[{Pattern:jar,Color:15}]}}",
+    "{BlockEntityTag:{Base:5,Patterns:[{Pattern:jar,Color:15}]}}",
+    "{BlockEntityTag:{Base:1,Patterns:[{Pattern:jar,Color:15}]}}"
+  ],
+  "allow_extra_buildings": false
+}

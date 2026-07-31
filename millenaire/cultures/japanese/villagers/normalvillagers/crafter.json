@@ -1,0 +1,48 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Saikushi",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_crafter0.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_paperwall",
+    "millenaire:craft_timberframeplainoak",
+    "millenaire:craft_timberframeplainbirch",
+    "millenaire:craft_timberframeplainpine",
+    "millenaire:craft_timberframeplainjungle",
+    "millenaire:craft_timberframeplainacacia",
+    "millenaire:craft_timberframeplaindarkoak",
+    "millenaire:craft_paperrice",
+    "millenaire:craft_bannerrice",
+    "millenaire:craft_strawbed"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:rice": 16,
+    "minecraft:paper": 8,
+    "minecraft:oak_log": 24,
+    "minecraft:spruce_log": 24,
+    "minecraft:jungle_log": 24,
+    "minecraft:birch_log": 24,
+    "minecraft:acacia_log": 24,
+    "minecraft:dark_oak_log": 24
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:timber_frame_plain",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 5,
+  "travelbook_held_item": "millenaire:timber_frame_plain"
+}

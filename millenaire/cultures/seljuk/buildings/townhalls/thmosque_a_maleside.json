@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "thmosque_a_maleside",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "thmosque",
+    "variant": "a",
+    "level": 0
+  },
+  "is_town_hall": false,
+  "native_name": "Camii",
+  "max_count": 0,
+  "tags": [
+    "mosque"
+  ],
+  "icon": "minecraft:book",
+  "fixed_orientation": "east",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -6,
+      "tags": [
+        "mosque"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 21,
+            "depth": 17
+          }
+        }
+      ]
+    }
+  ]
+}

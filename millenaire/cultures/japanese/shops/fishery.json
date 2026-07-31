@@ -1,0 +1,11 @@
+{
+  "sells": [
+    "cooked_cod"
+  ],
+  "buys": [],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:cooked_cod",
+    "minecraft:cod"
+  ]
+}

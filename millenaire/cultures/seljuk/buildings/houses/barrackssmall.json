@@ -1,0 +1,78 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "barrackssmall",
+  "category": "houses",
+  "native_name": "Küccük Kışla",
+  "male": [
+    "turk_soldier"
+  ],
+  "tags": [
+    "training",
+    "patrol"
+  ],
+  "icon": "millenaire:seljuk_scimitar",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "training",
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 10,
+            "depth": 19
+          },
+          "priority": 450
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 10,
+            "depth": 19
+          },
+          "priority": 190,
+          "sub_buildings": [
+            "barrackssmall_a_bed1",
+            "barrackssmall_a_patrol"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 10,
+            "depth": 19
+          },
+          "priority": 150,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 19,
+            "height": 10,
+            "depth": 19
+          },
+          "priority": 130
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 19,
+            "height": 10,
+            "depth": 19
+          },
+          "priority": 90
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "fort_a_soldierhouse",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "fort",
+    "variant": "a",
+    "level": 9
+  },
+  "is_town_hall": false,
+  "native_name": "Sena-nivaas",
+  "max_count": 0,
+  "male": [
+    "soldier"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "minecraft:iron_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -4,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 30,
+            "height": 19,
+            "depth": 40
+          },
+          "priority": 900
+        }
+      ]
+    }
+  ]
+}

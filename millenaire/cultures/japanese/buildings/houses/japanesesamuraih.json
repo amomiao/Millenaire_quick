@@ -1,0 +1,131 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesesamuraih",
+  "category": "houses",
+  "native_name": "Heisha",
+  "max_count": 3,
+  "min_distance": 0.5,
+  "male": [
+    "samurai"
+  ],
+  "female": [
+    "bravewoman"
+  ],
+  "icon": "millenaire:japanese_tachi",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 15
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 15
+          },
+          "priority": 90
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 18,
+            "height": 10,
+            "depth": 15
+          },
+          "priority": 85
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 18,
+            "height": 10,
+            "depth": 15
+          },
+          "priority": 80
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 18,
+            "height": 10,
+            "depth": 15
+          },
+          "priority": 75,
+          "path_level": 1
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 17,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 90
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 17,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 85
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 17,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 80
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 17,
+            "height": 11,
+            "depth": 13
+          },
+          "priority": 75,
+          "path_level": 1
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 17,
+            "height": 11,
+            "depth": 13
+          }
+        }
+      ]
+    }
+  ]
+}

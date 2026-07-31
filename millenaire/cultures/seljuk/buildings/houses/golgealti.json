@@ -1,0 +1,34 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "golgealti",
+  "category": "houses",
+  "native_name": "Gölge altı",
+  "tags": [
+    "leisure"
+  ],
+  "icon": "minecraft:white_wool",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "leisure,40"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 9
+          }
+        }
+      ]
+    }
+  ]
+}

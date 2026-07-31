@@ -1,0 +1,69 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "stonecraftsman",
+  "category": "houses",
+  "native_name": "Taş Ustalığı",
+  "shop": "stonecrafter",
+  "male": [
+    "turk_stonecrafter"
+  ],
+  "female": [
+    "turk_peasantwife"
+  ],
+  "tags": [
+    "brickkiln",
+    "stonecrafter"
+  ],
+  "icon": "minecraft:cobblestone",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "brickkiln",
+        "stonecrafter"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 20
+          },
+          "priority": 600
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 20
+          },
+          "priority": 150,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 20
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 20
+          },
+          "priority": 90
+        }
+      ]
+    }
+  ]
+}

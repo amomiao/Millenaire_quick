@@ -1,0 +1,51 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abandonedmill",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Moulin abandonné",
+  "icon": "minecraft:bread",
+  "starting_goods": [
+    {
+      "item": "minecraft:bread",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 6
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    },
+    {
+      "item": "minecraft:wheat",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "millenaire:norman_hoe",
+      "probability": 0.2,
+      "fixed": 1,
+      "random": 0
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 12
+          }
+        }
+      ]
+    }
+  ]
+}

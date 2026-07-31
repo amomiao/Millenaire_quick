@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "playerhouse",
+  "category": "player",
+  "native_name": "Megáli Oikía",
+  "max_count": 0,
+  "icon": "millenaire:denier_argent",
+  "price": 4096,
+  "reputation": 8192,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 13
+          },
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "handler": "chopping",
+  "priority": 125,
+  "priorityRandom": 10,
+  "priorityInvPenaltyItems": ["#minecraft:logs"],
+  "priorityInvPenaltyBase": 125,
+  "scanRadius": 48,
+  "batchRadius": 5,
+  "maxActionsPerTask": 20,
+  "actionCooldown": 15,
+  "stuckTimeout": 4000,
+  "arrivalRange": 8,
+  "walkSpeed": 0.6,
+  "minimumHour": 0,
+  "maximumHour": 12500,
+  "townhallLimit": {
+    "#minecraft:logs": 4096
+  },
+  "maxSimultaneousInBuilding": 1,
+  "handlerParams": {
+    "buildingTag": "grove"
+  }
+}

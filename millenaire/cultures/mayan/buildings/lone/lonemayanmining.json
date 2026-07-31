@@ -1,0 +1,89 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "lonemayanmining",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Sa'at Tunich In-ti'a'al",
+  "icon": "millenaire:mayan_pickaxe",
+  "starting_goods": [
+    {
+      "item": "millenaire:maize",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 40
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "minecraft:stone",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 55
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.4,
+      "fixed": 4,
+      "random": 11
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "probability": 0.6,
+      "fixed": 3,
+      "random": 17
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 30
+    },
+    {
+      "item": "minecraft:cobblestone",
+      "probability": 1.0,
+      "fixed": 40,
+      "random": 64
+    },
+    {
+      "item": "minecraft:stone_pickaxe",
+      "probability": 0.8,
+      "fixed": 1,
+      "random": 3
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -8,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 15,
+            "depth": 12
+          },
+          "infoSources": [
+            {
+              "type": "sand"
+            },
+            {
+              "type": "stone"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

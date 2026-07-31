@@ -1,0 +1,85 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "cowfarm",
+  "category": "houses",
+  "native_name": "Inek Çiftliği",
+  "shop": "cowfarm",
+  "min_distance": 0.2,
+  "male": [
+    "turk_cowfarmer"
+  ],
+  "female": [
+    "turk_cowfarmerwife"
+  ],
+  "tags": [
+    "slaughtercowseljuk",
+    "cattle"
+  ],
+  "icon": "minecraft:beef",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "slaughtercowseljuk",
+        "cattle"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 6,
+            "depth": 21
+          },
+          "priority": 600,
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 17,
+            "height": 6,
+            "depth": 21
+          },
+          "priority": 200
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 17,
+            "height": 8,
+            "depth": 21
+          },
+          "priority": 190,
+          "path_level": 1,
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 17,
+            "height": 8,
+            "depth": 21
+          },
+          "priority": 180,
+          "infoAnimalSpawns": [
+            {
+              "entity": "cow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

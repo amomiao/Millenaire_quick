@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japaneseplot1",
+  "category": "player",
+  "native_name": "Shakuchi",
+  "max_count": 0,
+  "icon": "minecraft:oak_fence",
+  "price": 1024,
+  "reputation": 256,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 3,
+            "depth": 8
+          },
+          "priority": 1000000
+        }
+      ]
+    }
+  ]
+}

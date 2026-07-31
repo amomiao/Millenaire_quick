@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Vyapari",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_merchant0.png",
+    "millenaire:textures/entity/indian/ml_merchant1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:visit_inn",
+    "millenaire:visit_building"
+  ],
+  "tags": [
+    "visitor",
+    "localmerchant"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:purse",
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:purse"
+}

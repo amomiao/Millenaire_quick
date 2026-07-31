@@ -1,0 +1,70 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "lonemayanpyramid",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Muul",
+  "icon": "minecraft:chiseled_stone_bricks",
+  "starting_goods": [
+    {
+      "item": "millenaire:maize",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 16
+    },
+    {
+      "item": "millenaire:denier_or",
+      "probability": 0.4,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 28,
+      "random": 44
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.6,
+      "fixed": 16,
+      "random": 22
+    },
+    {
+      "item": "millenaire:mayan_gold_block",
+      "probability": 0.8,
+      "fixed": 18,
+      "random": 26
+    },
+    {
+      "item": "millenaire:mayan_statue",
+      "probability": 0.8,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 10
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 38,
+            "height": 18,
+            "depth": 38
+          },
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

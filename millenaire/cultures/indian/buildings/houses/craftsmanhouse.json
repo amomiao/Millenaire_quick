@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "craftsmanhouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Shilpee Ka Ghar",
+  "male": [
+    "craftsman"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:wooden_bars_indian",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 5000,
+          "priority_move_in": 50
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 150
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 60
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 9,
+            "height": 6,
+            "depth": 10
+          }
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 10
+          }
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 10
+          }
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

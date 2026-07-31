@@ -1,0 +1,34 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Kuramoto",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_brewerwoman.png"
+  ],
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:bring_back_home",
+    "millenaire:craft_sake",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:rice": 30
+  },
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "male_child": "boy",
+  "female_child": "girl",
+  "icon": "millenaire:sake",
+  "tool_needed_classes": [
+    "hoes"
+  ],
+  "travelbook_held_item": "millenaire:sake"
+}

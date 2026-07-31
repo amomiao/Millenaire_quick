@@ -1,0 +1,44 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "scultorhouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Muurtikaar Ka Ghar",
+  "shop": "sculptor",
+  "male": [
+    "sculptor"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:ochre_sandstone_carved",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 800,
+          "priority_move_in": 50
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 70
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Yanlız Çoban",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_old_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_0.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_1.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_2.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_3.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_4.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_5.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_6.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_7.png"
+      ]
+    },
+    "clothes_seljuk_cotton": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cotton/cotton_0.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_1.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_2.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_3.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_4.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_5.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_6.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_7.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:gather_goods",
+    "millenaire:bring_back_home",
+    "millenaire:slaughter_cow_seljuk",
+    "millenaire:shear_sheep",
+    "millenaire:slaughter_sheep_seljuk",
+    "millenaire:craft_yogurt",
+    "millenaire:craft_hay",
+    "millenaire:breed_cattle",
+    "millenaire:breed_sheep",
+    "millenaire:breed_chicken",
+    "millenaire:breed_pigs",
+    "millenaire:plant_wheat_paddy",
+    "millenaire:harvest_wheat_paddy"
+  ],
+  "tags": [
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:beef",
+    "minecraft:leather",
+    "millenaire:yogurt",
+    "minecraft:bone",
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:mutton",
+    "minecraft:white_wool",
+    "minecraft:gray_wool",
+    "minecraft:light_gray_wool",
+    "minecraft:black_wool",
+    "minecraft:brown_wool",
+    "minecraft:pink_wool"
+  ],
+  "collect_goods": [
+    "minecraft:beef",
+    "minecraft:leather",
+    "millenaire:yogurt",
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:mutton"
+  ],
+  "required_goods": {
+    "minecraft:wheat": 16
+  },
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "minecraft:iron_hoe",
+  "tool_needed_classes": [
+    "axes"
+  ],
+  "items_needed": [
+    "millenaire:clothes_seljuk_cotton"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:iron_hoe"
+}

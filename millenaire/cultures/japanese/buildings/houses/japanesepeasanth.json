@@ -1,0 +1,175 @@
+{
+  "culture": "millenaire:japanese",
+  "building_id": "japanesepeasanth",
+  "category": "houses",
+  "native_name": "Noufu Ie",
+  "max_count": 3,
+  "male": [
+    "peasant"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "minecraft:iron_shovel",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 35,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 25
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 25,
+          "path_level": 1
+        }
+      ]
+    },
+    {
+      "variant": "c",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 35
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 25,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

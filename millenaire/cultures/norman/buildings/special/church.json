@@ -1,0 +1,87 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "church",
+  "category": "special",
+  "native_name": "Chapelle",
+  "tags": [
+    "praying"
+  ],
+  "icon": "millenaire:stained_glass_green_blue",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "praying"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 9,
+            "depth": 27
+          },
+          "priority": 10
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 9,
+            "depth": 27
+          },
+          "priority": 60
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 9,
+            "depth": 27
+          },
+          "priority": 55
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 15,
+            "depth": 27
+          },
+          "priority": 50,
+          "native_name": "Eglise",
+          "path_level": 2
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 14,
+            "height": 15,
+            "depth": 27
+          },
+          "priority": 45
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 14,
+            "height": 15,
+            "depth": 27
+          },
+          "priority": 40
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 14,
+            "height": 15,
+            "depth": 27
+          },
+          "priority": 35
+        }
+      ]
+    }
+  ]
+}

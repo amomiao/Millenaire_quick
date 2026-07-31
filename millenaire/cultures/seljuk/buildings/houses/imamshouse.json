@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "imamshouse",
+  "category": "houses",
+  "native_name": "Imamın Evi",
+  "male": [
+    "turk_imam"
+  ],
+  "female": [
+    "turk_imamswife"
+  ],
+  "icon": "minecraft:red_bed",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 6,
+            "depth": 11
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 50
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 11
+          },
+          "priority": 35,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

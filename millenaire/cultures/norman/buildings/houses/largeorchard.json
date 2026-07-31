@@ -1,0 +1,151 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "largeorchard",
+  "category": "houses",
+  "native_name": "Cidrerie",
+  "shop": "orchard",
+  "male": [
+    "ciderproducer"
+  ],
+  "female": [
+    "wife"
+  ],
+  "tags": [
+    "childrenorchard",
+    "alembic"
+  ],
+  "icon": "millenaire:calva",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 8,
+            "depth": 23
+          },
+          "priority": 1000,
+          "tags": [
+            "nopaths",
+            "childrenorchard"
+          ],
+          "abstracted_production": [
+            "cider_apple,64",
+            "cider,4",
+            "calva,1"
+          ],
+          "infoTreeSpawns": [
+            {
+              "sapling": "apple"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 8,
+            "depth": 23
+          },
+          "priority": 1000,
+          "tags": [
+            "nopaths",
+            "childrenorchard"
+          ],
+          "abstracted_production": [
+            "cider_apple,64",
+            "cider,4",
+            "calva,1"
+          ],
+          "infoTreeSpawns": [
+            {
+              "sapling": "apple"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 8,
+            "depth": 23
+          },
+          "priority": 1000,
+          "tags": [
+            "nopaths",
+            "childrenorchard"
+          ],
+          "abstracted_production": [
+            "cider_apple,64",
+            "cider,4",
+            "calva,1"
+          ],
+          "infoTreeSpawns": [
+            {
+              "sapling": "apple"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 19,
+            "height": 8,
+            "depth": 23
+          },
+          "priority": 1000,
+          "tags": [
+            "nopaths",
+            "childrenorchard"
+          ],
+          "abstracted_production": [
+            "cider_apple,64",
+            "cider,4",
+            "calva,1"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 19,
+            "height": 8,
+            "depth": 23
+          },
+          "priority": 1000,
+          "tags": [
+            "nopaths",
+            "childrenorchard"
+          ],
+          "abstracted_production": [
+            "cider_apple,64",
+            "cider,4",
+            "calva,1"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 19,
+            "height": 8,
+            "depth": 23
+          },
+          "priority": 1000,
+          "tags": [
+            "nopaths",
+            "childrenorchard",
+            "alembic"
+          ],
+          "abstracted_production": [
+            "cider_apple,64",
+            "cider,4",
+            "calva,1"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "sells": [
+    "bread"
+  ],
+  "buys": [],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:wheat"
+  ]
+}

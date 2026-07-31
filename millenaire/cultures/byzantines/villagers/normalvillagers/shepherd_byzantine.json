@@ -1,0 +1,100 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Boskos",
+  "textures": [
+    "millenaire:textures/entity/byzanz/male/byz.peasant.a.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.b.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.c.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.d.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.e.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.f.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.g.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.h.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.i.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.j.png",
+    "millenaire:textures/entity/byzanz/male/byz.peasant.k.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/male/clothes/byz.sheep.1.a.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/male/clothes/byz.sheep.2.a.png",
+        "millenaire:textures/entity/byzanz/male/clothes/byz.sheep.2.b.png",
+        "millenaire:textures/entity/byzanz/male/clothes/byz.sheep.2.c.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:listen_to_speech",
+    "millenaire:bring_back_home",
+    "millenaire:slaughter_sheep_byz2",
+    "millenaire:shear_sheep",
+    "millenaire:breed_cattle",
+    "millenaire:breed_sheep",
+    "millenaire:breed_chicken",
+    "millenaire:breed_pigs",
+    "millenaire:cook_lamb",
+    "millenaire:harvest_wheat_home",
+    "millenaire:plant_wheat_home"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:wheat_seeds": 100
+  },
+  "bring_back_home_goods": [
+    "minecraft:mutton",
+    "minecraft:cooked_mutton",
+    "millenaire:feta",
+    "minecraft:leather",
+    "minecraft:bone",
+    "minecraft:white_wool",
+    "minecraft:wheat",
+    "minecraft:wheat_seeds"
+  ],
+  "collect_goods": [
+    "minecraft:mutton",
+    "minecraft:cooked_mutton",
+    "millenaire:feta",
+    "minecraft:leather",
+    "minecraft:white_wool",
+    "minecraft:bone",
+    "minecraft:wheat_seeds",
+    "minecraft:wheat"
+  ],
+  "required_goods": {
+    "minecraft:wheat": 20,
+    "minecraft:oak_log": 16,
+    "minecraft:spruce_log": 16,
+    "minecraft:birch_log": 16,
+    "minecraft:jungle_log": 16,
+    "minecraft:acacia_log": 16,
+    "minecraft:dark_oak_log": 16
+  },
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "minecraft:white_wool",
+  "tool_needed_classes": [
+    "axes",
+    "hoes"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 2,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 2
+}

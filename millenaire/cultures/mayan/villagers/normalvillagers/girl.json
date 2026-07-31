@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:mayan",
+  "native_name": "Mijin",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/mayan/mayan_girl0.png",
+    "millenaire:textures/entity/mayan/mayan_girl1.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:child_become_adult",
+    "millenaire:play",
+    "millenaire:play_with_friends",
+    "millenaire:observe_agriculture",
+    "millenaire:observe_construction",
+    "millenaire:observe_smithing",
+    "millenaire:observe_produce_food",
+    "millenaire:child_eat_cacao_beans"
+  ],
+  "tags": [
+    "child"
+  ],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:pink_tulip",
+  "base_attack_strength": 1,
+  "alt_native_name": "Al",
+  "alt_key": "mayan_teenagerfemale",
+  "travelbook_held_item": "minecraft:cocoa_beans"
+}

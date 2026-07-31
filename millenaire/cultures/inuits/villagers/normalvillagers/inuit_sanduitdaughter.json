@@ -1,0 +1,32 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Niviaqsialugruaq",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/inuit/sanduit_female2.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:child_become_adult",
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:play"
+  ],
+  "tags": [
+    "child",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:diamond_sword": 1
+  },
+  "gender": "female",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:sand",
+  "base_attack_strength": 2,
+  "default_weapon": "minecraft:diamond_sword",
+  "alt_native_name": "Uumaaba"
+}

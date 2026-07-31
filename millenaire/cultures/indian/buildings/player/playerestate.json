@@ -1,0 +1,31 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "playerestate",
+  "converter_skip": true,
+  "category": "player",
+  "native_name": "Bangla",
+  "max_count": 0,
+  "icon": "millenaire:denier_or",
+  "area_to_clear": 5,
+  "price": 16384,
+  "reputation": 32768,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 24,
+            "height": 16,
+            "depth": 23
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ],
+      "building_orientation": 1
+    }
+  ]
+}

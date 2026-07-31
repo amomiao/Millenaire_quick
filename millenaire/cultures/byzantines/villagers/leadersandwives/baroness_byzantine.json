@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Akritissa",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblefemale/byz.rich.female.a.png",
+    "millenaire:textures/entity/byzanz/noblefemale/byz.rich.female.b.png",
+    "millenaire:textures/entity/byzanz/noblefemale/byz.rich.female.c.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblefemale/clothes/byz.richf.1.a.png",
+        "millenaire:textures/entity/byzanz/noblefemale/clothes/byz.richf.1.b.png"
+      ]
+    }
+  },
+  "base_scale": 0.99,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_book_fancy",
+    "millenaire:craft_icon_fancy"
+  ],
+  "tags": [],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "greek_women_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:silk",
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 2
+}

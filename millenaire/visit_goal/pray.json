@@ -1,0 +1,18 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "praying",
+  "requiredTag": null,
+  "basePriority": 10,
+  "priorityRandom": 30,
+  "durationTicks": 600,
+  "reoccurDelayTicks": 12000,
+  "allowRandomMoves": false,
+  "leisure": true,
+  "targetPosType": null,
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "heldItems": null,
+  "heldItemsDestination": null,
+  "goalKey": "pray"
+}

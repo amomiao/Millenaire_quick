@@ -1,0 +1,56 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "villagetree",
+  "converter_skip": true,
+  "category": "nodes",
+  "native_name": "Gaanv Ke Peer",
+  "tags": [
+    "pathnode",
+    "leisure"
+  ],
+  "icon": "minecraft:acacia_sapling",
+  "area_to_clear": 4,
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "pathnode",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 3,
+            "depth": 7
+          },
+          "priority": 700
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 3,
+            "depth": 7
+          },
+          "priority": 70,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 3,
+            "depth": 7
+          }
+        }
+      ],
+      "building_orientation": 0
+    }
+  ]
+}

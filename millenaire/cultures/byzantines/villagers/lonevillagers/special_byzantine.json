@@ -1,0 +1,37 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Boskokrator",
+  "textures": [
+    "millenaire:textures/entity/byzanz/male/boskos.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/byz.patriarch.2.a.png"
+      ]
+    }
+  },
+  "base_scale": 1.2,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [
+    "seller",
+    "defender",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:byzantine_mace": 1
+  },
+  "gender": "male",
+  "first_name_list": "greek_special_first",
+  "family_name_list": "greek_special_last",
+  "icon": "minecraft:white_wool",
+  "max_health": 600,
+  "base_attack_strength": 100,
+  "default_weapon": "millenaire:byzantine_mace",
+  "experience_given": 100
+}

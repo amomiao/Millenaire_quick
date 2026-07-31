@@ -1,0 +1,83 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Boskopoula",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/byzanz/female/byz.female.a.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.b.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.c.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.d.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.e.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.f.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.g.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.h.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.i.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.j.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.k.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.l.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.m.png",
+    "millenaire:textures/entity/byzanz/female/byz.female.n.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/female/clothes/byz.sheepf.1.a.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/female/clothes/byz.sheepf.2.a.png",
+        "millenaire:textures/entity/byzanz/female/clothes/byz.sheepf.2.b.png",
+        "millenaire:textures/entity/byzanz/female/clothes/byz.sheepf.2.c.png"
+      ]
+    }
+  },
+  "base_scale": 0.91,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:bring_back_home",
+    "millenaire:slaughter_sheep_byz",
+    "millenaire:shear_sheep"
+  ],
+  "tags": [
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:mutton",
+    "minecraft:cooked_mutton",
+    "millenaire:feta",
+    "minecraft:leather",
+    "minecraft:white_wool",
+    "minecraft:gray_wool",
+    "minecraft:light_gray_wool",
+    "minecraft:black_wool",
+    "minecraft:brown_wool",
+    "minecraft:pink_wool"
+  ],
+  "collect_goods": [
+    "minecraft:mutton",
+    "minecraft:cooked_mutton",
+    "millenaire:feta",
+    "minecraft:leather",
+    "minecraft:white_wool",
+    "minecraft:gray_wool",
+    "minecraft:light_gray_wool",
+    "minecraft:black_wool",
+    "minecraft:brown_wool",
+    "minecraft:pink_wool"
+  ],
+  "gender": "female",
+  "first_name_list": "greek_women_names",
+  "family_name_list": "greek_family_names",
+  "icon": "minecraft:white_wool",
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 2,
+  "experience_given": 2
+}

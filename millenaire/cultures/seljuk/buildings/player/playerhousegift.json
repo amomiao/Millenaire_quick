@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "playerhousegift",
+  "category": "player",
+  "native_name": "Köylü Ev",
+  "max_count": 0,
+  "icon": "minecraft:cake",
+  "is_gift": true,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 9,
+            "depth": 11
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

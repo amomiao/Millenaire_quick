@@ -1,0 +1,86 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "tannery",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Ieeiaqsiruq",
+  "shop": "inuittownhall",
+  "max_count": 0,
+  "male": [
+    "inuit_tanner"
+  ],
+  "female": [
+    "inuit_wife"
+  ],
+  "icon": "minecraft:leather",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 1000,
+          "signs": "1,2,3,0,4,5,7,6,8",
+          "infoSources": [
+            {
+              "type": "snow"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 11
+          },
+          "priority": 700
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 11
+          },
+          "priority": 500,
+          "rebuild_path": true
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 11
+          },
+          "priority": 300
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 16,
+            "height": 10,
+            "depth": 11
+          }
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 16,
+            "height": 12,
+            "depth": 11
+          },
+          "priority": 40
+        }
+      ]
+    }
+  ]
+}

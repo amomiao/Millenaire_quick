@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Larki",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_girl0.png",
+    "millenaire:textures/entity/indian/ml_girl1.png"
+  ],
+  "is_child": true,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:child_become_adult",
+    "millenaire:play",
+    "millenaire:play_with_friends",
+    "millenaire:observe_agriculture",
+    "millenaire:observe_construction",
+    "millenaire:observe_smithing",
+    "millenaire:observe_produce_food",
+    "millenaire:child_eat_sugar_cane"
+  ],
+  "tags": [
+    "child"
+  ],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:pink_tulip",
+  "villager_config": "indiannobeef",
+  "base_attack_strength": 1,
+  "alt_native_name": "Kishori",
+  "alt_key": "indian_teenagerfemale",
+  "travelbook_held_item": "minecraft:sugar_cane"
+}

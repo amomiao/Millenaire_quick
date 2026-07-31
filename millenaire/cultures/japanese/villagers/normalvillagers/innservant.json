@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Gejo",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_peasant_wife0.png",
+    "millenaire:textures/entity/japanese/japanese_peasant_wife1.png"
+  ],
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:bring_back_home",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:cook_chicken",
+    "millenaire:craft_udon"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:wheat": 16,
+    "minecraft:chicken": 16
+  },
+  "gender": "female",
+  "first_name_list": "low_caste_women_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "millenaire:udon",
+  "tool_needed_classes": [
+    "hoes"
+  ],
+  "travelbook_held_item": "millenaire:udon"
+}

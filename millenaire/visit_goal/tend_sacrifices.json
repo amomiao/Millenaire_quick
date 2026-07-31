@@ -1,0 +1,18 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "sacrifices",
+  "requiredTag": null,
+  "basePriority": 200,
+  "priorityRandom": 0,
+  "durationTicks": 600,
+  "reoccurDelayTicks": -1,
+  "allowRandomMoves": false,
+  "leisure": true,
+  "targetPosType": null,
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "heldItems": null,
+  "heldItemsDestination": null,
+  "goalKey": "gopray"
+}

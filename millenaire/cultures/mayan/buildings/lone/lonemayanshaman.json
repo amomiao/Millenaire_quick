@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "lonemayanshaman",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Ah Waay Su'uk",
+  "male": [
+    "lonemayanshaman"
+  ],
+  "female": [
+    "lonemayanshamanwife"
+  ],
+  "tags": [
+    "chicken"
+  ],
+  "icon": "minecraft:red_mushroom",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "chicken"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 10,
+            "depth": 20
+          },
+          "priority": 30,
+          "infoAnimalSpawns": [
+            {
+              "entity": "chicken"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

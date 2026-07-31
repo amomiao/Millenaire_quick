@@ -1,0 +1,61 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanobsidiancrafter",
+  "category": "houses",
+  "native_name": "Ta'as Kob Took",
+  "shop": "mayanobsidiancrafter",
+  "male": [
+    "obsidiancrafter"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:obsidian_flake",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 800,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 75
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 11
+          },
+          "priority": 70,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

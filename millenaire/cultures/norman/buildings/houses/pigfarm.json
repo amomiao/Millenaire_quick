@@ -1,0 +1,108 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "pigfarm",
+  "category": "houses",
+  "native_name": "Elevage porcin",
+  "shop": "pigfarm",
+  "male": [
+    "pigherd"
+  ],
+  "female": [
+    "pigherdf"
+  ],
+  "tags": [
+    "pigs",
+    "oven"
+  ],
+  "icon": "millenaire:boudin",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 1000,
+          "tags": [
+            "pigs"
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "pig"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 200,
+          "tags": [
+            "pigs"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 190,
+          "tags": [
+            "pigs"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 180,
+          "tags": [
+            "pigs",
+            "oven"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 85,
+          "path_level": 1,
+          "tags": [
+            "pigs",
+            "oven"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 18
+          },
+          "priority": 80,
+          "tags": [
+            "pigs",
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "watchtower_a_soldier0",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "watchtower",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Asker odasi",
+  "max_count": 0,
+  "male": [
+    "turk_soldier"
+  ],
+  "icon": "millenaire:seljuk_scimitar",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "sells": [
+    "wood_pine",
+    "charcoal"
+  ],
+  "buys": [
+    "winefancy",
+    "wood_pine",
+    "wood_acacia"
+  ],
+  "buys_optional": [
+    "wood",
+    "wood_birch",
+    "wood_jungle",
+    "wood_darkoak"
+  ],
+  "deliver_to": []
+}

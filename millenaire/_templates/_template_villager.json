@@ -1,0 +1,13 @@
+{
+  "_comment": "Skeleton villager type. Place under cultures/<culture>/villager_type/<name>.json.",
+  "id": "millenaire:<culture>/my_villager",
+  "culture": "millenaire:<culture>",
+  "native_name": "My Villager",
+  "role": "villager",
+  "gender": "male",
+  "_gender_options": "male | female",
+  "goals": [],
+  "_goals_comment": "List of goal ResourceLocations (e.g. millenaire:chop_trees). Invalid references are logged as WARN.",
+  "tags": [],
+  "starting_inv": {}
+}

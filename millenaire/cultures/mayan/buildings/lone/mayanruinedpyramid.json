@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanruinedpyramid",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Sa'at Muul",
+  "icon": "millenaire:mayan_gold_block",
+  "starting_goods": [
+    {
+      "item": "millenaire:maize",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 16
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.2,
+      "fixed": 2,
+      "random": 2
+    },
+    {
+      "item": "millenaire:mayan_gold_block",
+      "probability": 0.5,
+      "fixed": 2,
+      "random": 20
+    },
+    {
+      "item": "millenaire:mayan_statue",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 4
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.8,
+      "fixed": 10,
+      "random": 10
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 13,
+            "depth": 15
+          },
+          "priority": 10
+        }
+      ]
+    }
+  ]
+}

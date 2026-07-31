@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:byzantines",
+  "biome_tags": [
+    "#c:is_forest",
+    "#c:is_hill"
+  ],
+  "name": "Monastíri",
+  "weight": 10,
+  "lone_building": true,
+  "namelist": "religious_villages",
+  "radius": 40,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:byzantines/lonemonastery",
+      "role": "centre"
+    }
+  ],
+  "banner_json": [
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:14,Patterns:[{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:sc,Color:0},{Pattern:sc,Color:0},{Pattern:sc,Color:0}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:sc,Color:5},{Pattern:sc,Color:5},{Pattern:sc,Color:5}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:sc,Color:0},{Pattern:sc,Color:0},{Pattern:sc,Color:0}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:sc,Color:4},{Pattern:sc,Color:4},{Pattern:sc,Color:4}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:sc,Color:5},{Pattern:sc,Color:5},{Pattern:sc,Color:5}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:sc,Color:1},{Pattern:sc,Color:1},{Pattern:sc,Color:1}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:byz,Color:5},{Pattern:byz,Color:5}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:byz,Color:5},{Pattern:byz,Color:5}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:byz,Color:1},{Pattern:byz,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:byz,Color:1},{Pattern:byz,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:cr,Color:0},{Pattern:cr,Color:0},{Pattern:cr,Color:0}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:cr,Color:5},{Pattern:cr,Color:5},{Pattern:cr,Color:5}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:0},{Pattern:cr,Color:0},{Pattern:cr,Color:0}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:4},{Pattern:cr,Color:4},{Pattern:cr,Color:4}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:5},{Pattern:cr,Color:5},{Pattern:cr,Color:5}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:1},{Pattern:cr,Color:1},{Pattern:cr,Color:1}]}}",
+    "{BlockEntityTag:{Base:11,Patterns:[{Pattern:cr,Color:5},{Pattern:cr,Color:5},{Pattern:cr,Color:5},{Pattern:byz,Color:11},{Pattern:byz,Color:11},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:0},{Pattern:cr,Color:0},{Pattern:cr,Color:0},{Pattern:byz,Color:15},{Pattern:byz,Color:15},{Pattern:byz,Color:11}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:4},{Pattern:cr,Color:4},{Pattern:cr,Color:4},{Pattern:byz,Color:15},{Pattern:byz,Color:15},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:5},{Pattern:cr,Color:5},{Pattern:cr,Color:5},{Pattern:byz,Color:15},{Pattern:byz,Color:15},{Pattern:byz,Color:0}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:1},{Pattern:cr,Color:1},{Pattern:cr,Color:1},{Pattern:byz,Color:15},{Pattern:byz,Color:15},{Pattern:byz,Color:0}]}}"
+  ],
+  "allow_extra_buildings": false
+}

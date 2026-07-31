@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Sfuyaunnat",
+  "textures": [
+    "millenaire:textures/entity/inuit/inuit_male.png",
+    "millenaire:textures/entity/inuit/inuit_male2.png",
+    "millenaire:textures/entity/inuit/inuit_male4.png",
+    "millenaire:textures/entity/inuit/inuit_male5.png",
+    "millenaire:textures/entity/inuit/inuit_male6.png",
+    "millenaire:textures/entity/inuit/inuit_male7.png",
+    "millenaire:textures/entity/inuit/inuit_male8.png"
+  ],
+  "base_scale": 0.95,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:get_resources_for_shops",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_woodenaxeinuit",
+    "millenaire:craft_woodenhoeinuit",
+    "millenaire:craft_woodenpickaxeinuit",
+    "millenaire:craft_woodenshovelinuit",
+    "millenaire:craft_spear",
+    "millenaire:craft_inuitbow",
+    "millenaire:craft_arrowinuit",
+    "millenaire:craft_bowinuit",
+    "millenaire:craft_spade",
+    "millenaire:craft_leather_helmet_inuit",
+    "millenaire:craft_leather_chest_inuit",
+    "millenaire:craft_leather_legs_inuit",
+    "millenaire:craft_leather_boots_inuit",
+    "millenaire:craft_furboots",
+    "millenaire:craft_furplate",
+    "millenaire:craft_furhelmet",
+    "millenaire:craft_furlegs"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:leather_boots": 2,
+    "minecraft:leather_helmet": 2,
+    "minecraft:leather_leggings": 2,
+    "minecraft:leather_chestplate": 2,
+    "minecraft:leather": 32,
+    "millenaire:tannedhide": 32,
+    "minecraft:bone": 16,
+    "minecraft:oak_log": 32,
+    "minecraft:spruce_log": 32
+  },
+  "gender": "male",
+  "first_name_list": "inuit_names",
+  "family_name_list": "inuit_names",
+  "icon": "minecraft:leather_chestplate",
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:leather",
+  "travelbook_held_item_off_hand": "millenaire:furplate"
+}

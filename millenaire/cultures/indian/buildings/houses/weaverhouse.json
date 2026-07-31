@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "weaverhouse",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Julaahaa Ka Ghar",
+  "male": [
+    "weaver"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:cotton",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 60
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 6,
+            "depth": 10
+          }
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 10
+          }
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 10
+          }
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

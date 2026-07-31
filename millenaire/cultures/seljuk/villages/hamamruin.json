@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:seljuk",
+  "biome_tags": [
+    "#c:is_desert"
+  ],
+  "name": "Yıkık Hamam",
+  "weight": 5,
+  "lone_building": true,
+  "radius": 5,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:seljuk/bath_abandoned",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

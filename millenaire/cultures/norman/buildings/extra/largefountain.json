@@ -1,0 +1,65 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "largefountain",
+  "category": "extra",
+  "native_name": "Grande fontaine",
+  "tags": [
+    "pathnode",
+    "leisure"
+  ],
+  "icon": "minecraft:stone",
+  "area_to_clear": 3,
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "tags": [
+        "pathnode",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 4,
+            "depth": 9
+          },
+          "priority": 750
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 4,
+            "depth": 9
+          },
+          "priority": 70,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 4,
+            "depth": 9
+          },
+          "priority": 65,
+          "path_level": 2
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 9,
+            "height": 5,
+            "depth": 9
+          }
+        }
+      ]
+    }
+  ]
+}

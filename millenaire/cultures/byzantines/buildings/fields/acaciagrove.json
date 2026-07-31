@@ -1,0 +1,48 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "acaciagrove",
+  "category": "fields",
+  "native_name": "Álsos Akakías",
+  "max_count": 0,
+  "min_distance": 0.6,
+  "tags": [
+    "grove"
+  ],
+  "icon": "minecraft:acacia_sapling",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "grove"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 3,
+            "depth": 13
+          },
+          "infoTreeSpawns": [
+            {
+              "sapling": "acacia"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 4,
+            "depth": 13
+          },
+          "priority": 80,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

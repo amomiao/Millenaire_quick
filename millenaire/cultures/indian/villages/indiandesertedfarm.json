@@ -1,0 +1,19 @@
+{
+  "culture": "millenaire:indian",
+  "biome_tags": [
+    "#c:is_jungle",
+    "#c:is_savanna"
+  ],
+  "name": "Sunsan Ghar",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 10,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:indian/indiandesertedfarm",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

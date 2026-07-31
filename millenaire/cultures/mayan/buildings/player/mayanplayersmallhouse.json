@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanplayersmallhouse",
+  "category": "player",
+  "native_name": "Ix La' Nah",
+  "max_count": 0,
+  "icon": "millenaire:denier",
+  "price": 960,
+  "reputation": 4096,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 1000000,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

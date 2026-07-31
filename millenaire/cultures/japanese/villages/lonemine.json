@@ -1,0 +1,18 @@
+{
+  "culture": "millenaire:japanese",
+  "biome_tags": [
+    "#c:is_taiga"
+  ],
+  "name": "Kouku",
+  "weight": 10,
+  "lone_building": true,
+  "radius": 20,
+  "show_town_hall_signs": true,
+  "layout": [
+    {
+      "plan": "millenaire:japanese/lonemine",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

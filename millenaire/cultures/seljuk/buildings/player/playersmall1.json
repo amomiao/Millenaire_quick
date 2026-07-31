@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "playersmall1",
+  "category": "player",
+  "native_name": "Küçük Alan",
+  "max_count": 0,
+  "icon": "minecraft:oak_fence",
+  "price": 128,
+  "reputation": 2048,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 5,
+            "depth": 12
+          },
+          "priority": 1000000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Gaanv ka Mukhiya",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_chief0.png",
+    "millenaire:textures/entity/indian/ml_chief1.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:patrol",
+    "millenaire:inspect_construction"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "minecraft:paper",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:paper"
+}

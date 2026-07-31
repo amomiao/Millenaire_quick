@@ -1,0 +1,13 @@
+{
+  "sells": [
+    "wool_white",
+    "mutton_raw",
+    "leather",
+    "bone"
+  ],
+  "buys": [
+    "wheat"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

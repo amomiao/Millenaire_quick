@@ -1,0 +1,49 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "vineyard",
+  "category": "fields",
+  "native_name": "Amplónas",
+  "max_count": 2,
+  "min_distance": 0.6,
+  "tags": [
+    "vineyard"
+  ],
+  "icon": "millenaire:grapes",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "tags": [
+        "vineyard"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 4,
+            "depth": 13
+          },
+          "path_level": 1,
+          "infoSoils": [
+            {
+              "crop": "vine"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 4,
+            "depth": 13
+          },
+          "priority": 200,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

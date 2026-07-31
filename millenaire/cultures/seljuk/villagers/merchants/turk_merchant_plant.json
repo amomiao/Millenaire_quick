@@ -1,0 +1,65 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Bitki Tüccarı",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_old_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_old_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/wool/wool_0.png",
+        "millenaire:textures/entity/turks/male/wool/wool_1.png",
+        "millenaire:textures/entity/turks/male/wool/wool_3.png",
+        "millenaire:textures/entity/turks/male/wool/wool_5.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant"
+  ],
+  "spawn_weight": 20,
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "millenaire:purse",
+  "base_attack_strength": 5,
+  "experience_given": 3,
+  "travelbook_held_item": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "minecraft:wheat_seeds": 64,
+    "minecraft:wheat": 64,
+    "minecraft:melon_seeds": 64,
+    "minecraft:pumpkin_seeds": 64,
+    "millenaire:rice": 64,
+    "millenaire:grapes": 20,
+    "millenaire:olives": 16,
+    "minecraft:oak_sapling": 32,
+    "minecraft:spruce_sapling": 32,
+    "minecraft:birch_sapling": 32,
+    "millenaire:pistachio_tree_sapling": 16,
+    "minecraft:pumpkin": 16,
+    "minecraft:sugar_cane": 32,
+    "minecraft:poppy": 64,
+    "minecraft:dandelion": 64
+  }
+}

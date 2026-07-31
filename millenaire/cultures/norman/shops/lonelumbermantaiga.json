@@ -1,0 +1,12 @@
+{
+  "sells": [
+    "wood_pine"
+  ],
+  "buys": [
+    "bread",
+    "norman_axe",
+    "norman_shovel"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

@@ -1,0 +1,93 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "cottonfarm",
+  "category": "houses",
+  "native_name": "Pamuk Üretimi",
+  "male": [
+    "turk_cottonfarmer"
+  ],
+  "female": [
+    "turk_peasantwife"
+  ],
+  "tags": [
+    "cotton"
+  ],
+  "icon": "millenaire:cotton",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "cotton"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 500,
+          "village_tags": [
+            "cotton_built"
+          ],
+          "infoSoils": [
+            {
+              "crop": "cotton"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 18,
+            "height": 6,
+            "depth": 12
+          },
+          "rebuild_path": true,
+          "village_tags": [
+            "cotton_built"
+          ],
+          "infoSoils": [
+            {
+              "crop": "cotton"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 12
+          },
+          "priority": 75,
+          "path_level": 1,
+          "village_tags": [
+            "cotton_built"
+          ],
+          "infoSoils": [
+            {
+              "crop": "cotton"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 18,
+            "height": 9,
+            "depth": 12
+          },
+          "priority": 70,
+          "village_tags": [
+            "cotton_built"
+          ]
+        }
+      ]
+    }
+  ]
+}

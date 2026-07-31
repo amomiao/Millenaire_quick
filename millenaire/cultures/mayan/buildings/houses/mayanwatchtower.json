@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanwatchtower",
+  "category": "houses",
+  "native_name": "Cha'an Ka'nal",
+  "max_count": 2,
+  "min_distance": 0.8,
+  "tags": [
+    "patrol"
+  ],
+  "icon": "torch",
+  "far_from_tags": [
+    "patrol,50"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 13,
+            "depth": 9
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 13,
+            "depth": 9
+          },
+          "priority": 90,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

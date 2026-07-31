@@ -1,0 +1,81 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "questcave_door",
+  "category": "lone",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "questcave",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Kak Actun",
+  "max_count": 0,
+  "icon": "millenaire:mayan_mace",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier_or",
+      "probability": 1.0,
+      "fixed": 8,
+      "random": 0
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 1.0,
+      "fixed": 32,
+      "random": 0
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 32,
+      "random": 0
+    },
+    {
+      "item": "minecraft:diamond_sword",
+      "probability": 1.0,
+      "fixed": 4,
+      "random": 0
+    },
+    {
+      "item": "minecraft:diamond_helmet",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 0
+    },
+    {
+      "item": "minecraft:diamond_chestplate",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 0
+    },
+    {
+      "item": "minecraft:diamond_boots",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 0
+    },
+    {
+      "item": "minecraft:diamond_leggings",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 0
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 50,
+            "height": 11,
+            "depth": 30
+          }
+        }
+      ]
+    }
+  ]
+}

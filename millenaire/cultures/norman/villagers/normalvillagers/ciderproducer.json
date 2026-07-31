@@ -1,0 +1,68 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Cidriculteur",
+  "textures": [
+    "millenaire:textures/entity/norman/male/nor_peasant_0.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_1.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_2.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_3.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_4.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_5.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_6.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_7.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_8.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_9.png",
+    "millenaire:textures/entity/norman/male/nor_peasant_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/norman/male/clothes/nor_lumberman_0.png",
+        "millenaire:textures/entity/norman/male/clothes/nor_lumberman_1.png",
+        "millenaire:textures/entity/norman/male/clothes/nor_lumberman_2.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_cider",
+    "millenaire:bring_back_home",
+    "millenaire:gather_goods",
+    "millenaire:gather_cider_apples_home",
+    "millenaire:plant_sapling_appletree_home",
+    "millenaire:craft_ciderhome",
+    "millenaire:craft_calvahome"
+  ],
+  "tags": [
+    "heavydrinker",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "millenaire:apple_tree_sapling": 10
+  },
+  "bring_back_home_goods": [
+    "millenaire:cider_apple"
+  ],
+  "collect_goods": [
+    "millenaire:cider_apple"
+  ],
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "millenaire:cider",
+  "tool_needed_classes": [
+    "axes"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "hiring_cost": "16",
+  "travelbook_held_item": "millenaire:cider",
+  "travelbook_held_item_off_hand": "millenaire:cider_apple"
+}

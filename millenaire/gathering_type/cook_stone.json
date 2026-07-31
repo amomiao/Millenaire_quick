@@ -1,0 +1,35 @@
+{
+  "handler": "smelting",
+  "priority": 100,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "townhallLimit": {
+    "minecraft:stone": 2048
+  },
+  "itemsBalance": {
+    "minecraft:cobblestone": "minecraft:stone"
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:cobblestone",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:stone",
+        "count": 1
+      }
+    ]
+  },
+  "sentenceKey": "cooking",
+  "labelKey": "cooking",
+  "heldItems": [
+    "minecraft:cobblestone"
+  ]
+}

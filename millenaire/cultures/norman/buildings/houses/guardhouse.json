@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "guardhouse",
+  "category": "houses",
+  "native_name": "Maison du garde",
+  "male": [
+    "guard"
+  ],
+  "female": [
+    "wife"
+  ],
+  "tags": [
+    "patrol"
+  ],
+  "icon": "millenaire:norman_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 9,
+            "depth": 9
+          },
+          "priority": 900
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 12,
+            "depth": 9
+          },
+          "priority": 90,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 12,
+            "depth": 9
+          }
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 12,
+            "depth": 9
+          }
+        }
+      ]
+    }
+  ]
+}

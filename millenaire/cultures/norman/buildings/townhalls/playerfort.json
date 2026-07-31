@@ -1,0 +1,185 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "playerfort",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Fort",
+  "shop": "townhall",
+  "max_count": 0,
+  "tags": [
+    "patrol",
+    "leisure",
+    "playerth",
+    "nopaths"
+  ],
+  "icon": "millenaire:norman_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 600,
+          "signs": "2,1,3,5,7,8,6,4,0",
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 600,
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 580,
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 560,
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 540,
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 520,
+          "rebuild_path": true,
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 32,
+            "height": 15,
+            "depth": 32
+          },
+          "ground_level": -1,
+          "priority": 500,
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 32,
+            "height": 19,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 480,
+          "sub_buildings": [
+            "fort_a_lefttower",
+            "fort_a_righttower"
+          ],
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 32,
+            "height": 24,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 460,
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 32,
+            "height": 24,
+            "depth": 32
+          },
+          "ground_level": -5,
+          "priority": 440,
+          "tags": [
+            "patrol",
+            "leisure",
+            "playerth",
+            "nopaths"
+          ]
+        }
+      ]
+    }
+  ]
+}

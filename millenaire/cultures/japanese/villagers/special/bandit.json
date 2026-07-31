@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Hito",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_bandit.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:drink_sake",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "heavydrinker",
+    "hostile",
+    "archer",
+    "raider",
+    "noteleport",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:iron_sword",
+  "max_health": 25,
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "base_attack_strength": 8,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 10,
+  "hiring_cost": "32",
+  "travelbook_held_item": "minecraft:iron_sword"
+}

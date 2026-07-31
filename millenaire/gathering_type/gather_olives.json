@@ -1,0 +1,34 @@
+{
+  "handler": "fruit_harvesting",
+  "priority": 80,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 16,
+  "actionCooldown": 60,
+  "stuckTimeout": 4000,
+  "arrivalRange": 8,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "millenaire:olives": 512
+  },
+  "villageLimit": {
+    "millenaire:olives": 1024
+  },
+  "maxSimultaneousInBuilding": 2,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "targetBlock": "millenaire:olive_tree_leaves",
+    "ageProperty": "age",
+    "ripeAge": 3,
+    "resetAge": 0,
+    "harvestItem": "millenaire:olives",
+    "harvestCount": 1,
+    "buildingTag": "olives"
+  },
+  "sentenceKey": "gatherolives",
+  "labelKey": "gatherolives",
+  "heldItems": [
+    "millenaire:olives"
+  ]
+}

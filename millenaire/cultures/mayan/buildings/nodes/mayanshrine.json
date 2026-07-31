@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanshrine",
+  "category": "nodes",
+  "native_name": "Wayib",
+  "tags": [
+    "pathnode",
+    "leisure"
+  ],
+  "icon": "millenaire:mayan_statue",
+  "far_from_tags": [
+    "pathnode,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "pathnode",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 5,
+            "depth": 5
+          },
+          "priority": 750,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 6,
+            "depth": 5
+          },
+          "priority": 70
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "kastron",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "Kástron",
+  "shop": "themporikos",
+  "max_count": 0,
+  "male": [
+    "baron_byzantine"
+  ],
+  "female": [
+    "baroness_byzantine"
+  ],
+  "tags": [
+    "leisure",
+    "patrol",
+    "wall1",
+    "balcony",
+    "finish4"
+  ],
+  "icon": "millenaire:purse",
+  "area_to_clear": 5,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 34,
+            "height": 7,
+            "depth": 38
+          },
+          "sub_buildings": [
+            "kastron_a_leftmarket",
+            "kastron_a_rightmarket",
+            "kastron_a_inn"
+          ],
+          "signs": "3,2,1,0,5,4,7,8,6",
+          "tags": [
+            "leisure",
+            "patrol"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 34,
+            "height": 9,
+            "depth": 38
+          },
+          "priority": 450,
+          "rebuild_path": true,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 34,
+            "height": 9,
+            "depth": 38
+          },
+          "priority": 400,
+          "path_level": 1,
+          "required_tags": [
+            "wall2",
+            "wall3",
+            "wall4"
+          ],
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 34,
+            "height": 12,
+            "depth": 38
+          },
+          "priority": 400,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 34,
+            "height": 13,
+            "depth": 38
+          },
+          "priority": 200,
+          "required_tags": [
+            "innup"
+          ],
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1",
+            "balcony"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 34,
+            "height": 13,
+            "depth": 38
+          },
+          "priority": 200,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1",
+            "balcony"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 34,
+            "height": 13,
+            "depth": 38
+          },
+          "priority": 200,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1",
+            "balcony"
+          ]
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 34,
+            "height": 13,
+            "depth": 38
+          },
+          "priority": 150,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1",
+            "balcony"
+          ]
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "priority": 120,
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1",
+            "balcony",
+            "finish4"
+          ]
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "priority": 110,
+          "required_tags": [
+            "finish1",
+            "finish2",
+            "finish3"
+          ],
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1",
+            "balcony",
+            "finish4"
+          ]
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 34,
+            "height": 15,
+            "depth": 38
+          },
+          "sub_buildings": [
+            "kastron_a_archives"
+          ],
+          "tags": [
+            "leisure",
+            "patrol",
+            "wall1",
+            "balcony",
+            "finish4"
+          ]
+        }
+      ]
+    }
+  ]
+}

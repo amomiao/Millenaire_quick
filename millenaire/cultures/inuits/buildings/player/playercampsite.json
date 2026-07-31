@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:inuits",
+  "building_id": "playercampsite",
+  "category": "player",
+  "native_name": "Ikualavik",
+  "max_count": 0,
+  "icon": "millenaire:denier_argent",
+  "price": 1280,
+  "reputation": 2560,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 3,
+            "depth": 13
+          },
+          "priority": 3000
+        }
+      ]
+    }
+  ]
+}

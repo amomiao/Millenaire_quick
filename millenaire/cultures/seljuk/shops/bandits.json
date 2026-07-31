@@ -1,0 +1,14 @@
+{
+  "sells": [],
+  "buys": [
+    "iron_ingot"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:cobblestone",
+    "minecraft:oak_log",
+    "minecraft:leather",
+    "minecraft:iron_ingot",
+    "minecraft:raw_iron"
+  ]
+}

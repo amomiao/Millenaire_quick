@@ -1,0 +1,38 @@
+{
+  "culture": "millenaire:seljuk",
+  "building_id": "watchtower_a_patrol",
+  "category": "houses",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "watchtower",
+    "variant": "a",
+    "level": 0
+  },
+  "native_name": "Devriye",
+  "max_count": 0,
+  "tags": [
+    "patrol"
+  ],
+  "icon": "millenaire:seljuk_scimitar",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 2,
+            "depth": 10
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

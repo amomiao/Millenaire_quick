@@ -1,0 +1,67 @@
+{
+  "culture": "millenaire:byzantines",
+  "native_name": "Skoutatos",
+  "textures": [
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.a.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.b.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.c.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.d.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.e.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.f.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.g.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.h.png",
+    "millenaire:textures/entity/byzanz/noblemale/byz.military.i.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.soldier.1.a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.soldier.1.b.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.soldier.1.c.png"
+      ]
+    },
+    "clothes_byz_wool": {
+      "layer0": [
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.soldier.2.a.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.soldier.2.b.png",
+        "millenaire:textures/entity/byzanz/noblemale/clothes/military/byz.soldier.2.c.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink_wine",
+    "millenaire:get_goods_for_household",
+    "millenaire:patrol",
+    "millenaire:training",
+    "millenaire:build"
+  ],
+  "tags": [
+    "helpInAttacks",
+    "raider",
+    "archer"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "greek_men_names",
+  "family_name_list": "greek_family_names",
+  "icon": "millenaire:byzantine_mace",
+  "tool_needed_classes": [
+    "shovels",
+    "armour",
+    "toolssword",
+    "rangedweapons"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_wool"
+  ],
+  "base_attack_strength": 12,
+  "default_weapon": "minecraft:wooden_sword",
+  "experience_given": 15,
+  "hiring_cost": "20",
+  "travelbook_held_item": "millenaire:byzantine_mace"
+}

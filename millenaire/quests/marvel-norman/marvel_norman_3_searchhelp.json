@@ -1,0 +1,64 @@
+{
+  "key": "marvel_norman_3_searchhelp",
+  "chancePerHour": 1.0,
+  "maxSimultaneous": 1,
+  "minReputation": 0,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [
+    "marvel_norman_3_searchhelp"
+  ],
+  "villagerDefs": [
+    {
+      "key": "marvelarchitect",
+      "villagerTypes": [
+        "norman/architect"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": [
+        "normanmarvel_architect"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "marvelarchitect",
+      "duration": 48,
+      "showRequiredGoods": true,
+      "requiredGoods": {},
+      "rewardGoods": {},
+      "rewardMoney": 0,
+      "rewardReputation": 0,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "marvelarchitect",
+          "tag": "normanmarvel_architect"
+        }
+      ],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [
+        "normanmarvel_search_help",
+        "marvel_norman_3_searchhelp"
+      ],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

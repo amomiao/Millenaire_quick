@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanmining",
+  "category": "houses",
+  "native_name": "Tunich In-ti'a'al",
+  "min_distance": 0.6,
+  "male": [
+    "miner"
+  ],
+  "female": [
+    "peasantwife"
+  ],
+  "icon": "millenaire:mayan_pickaxe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -8,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 15,
+            "depth": 12
+          },
+          "priority": 1000,
+          "infoSources": [
+            {
+              "type": "sandstone"
+            },
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 15,
+            "depth": 12
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 95
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 90
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 16,
+            "height": 16,
+            "depth": 12
+          },
+          "priority": 85,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

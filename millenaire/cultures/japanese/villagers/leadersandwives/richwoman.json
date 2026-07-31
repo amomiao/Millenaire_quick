@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:japanese",
+  "native_name": "Reifujin",
+  "model": "female_symmetrical",
+  "textures": [
+    "millenaire:textures/entity/japanese/japanese_lady_woman0.png",
+    "millenaire:textures/entity/japanese/japanese_lady_woman1.png"
+  ],
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "high_caste_women_names",
+  "family_name_list": "high_caste_family_names",
+  "icon": "minecraft:gold_ingot"
+}

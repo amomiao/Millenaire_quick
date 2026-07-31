@@ -1,0 +1,90 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Taş Ustası",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_0.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_1.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_2.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_3.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_4.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_5.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_6.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_7.png"
+      ]
+    },
+    "clothes_seljuk_cotton": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cotton/cotton_0.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_1.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_2.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_3.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_4.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_5.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_6.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_7.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray_male_muslim",
+    "millenaire:take_bath",
+    "millenaire:drink_ayran",
+    "millenaire:craft_sandstone_seljuk",
+    "millenaire:craft_mudbrick_sandstone",
+    "millenaire:craft_mudbrick_decorated",
+    "millenaire:craft_mudbrick_ornamented",
+    "millenaire:craft_mudbrick_smooth",
+    "millenaire:gather_brick",
+    "millenaire:cook_stone",
+    "millenaire:bring_back_home"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:oak_log": 8,
+    "millenaire:mud_brick": 16,
+    "millenaire:mud_brick_seljuk_ornamented": 8,
+    "millenaire:mud_brick_seljuk_decorated": 8,
+    "minecraft:cobblestone": 8,
+    "minecraft:stone": 8,
+    "minecraft:sandstone": 8,
+    "minecraft:sand": 8
+  },
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "millenaire:mud_brick",
+  "villager_config": "muslimrules",
+  "tool_needed_classes": [
+    "pickaxes",
+    "toolssword"
+  ],
+  "items_needed": [
+    "millenaire:clothes_seljuk_cotton"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_pickaxe",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:iron_pickaxe"
+}

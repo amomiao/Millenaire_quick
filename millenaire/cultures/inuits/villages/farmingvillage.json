@@ -1,0 +1,248 @@
+{
+  "culture": "millenaire:inuits",
+  "biome_tags": [
+    "#c:is_snowy_plains"
+  ],
+  "name": "Nautchiaqabvik",
+  "weight": 7,
+  "layout": [
+    {
+      "plan": "millenaire:inuits/tannery",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:inuits/farmp",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/flower",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/flower",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/lumberman",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/grove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/lake",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/foodprephouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/sodder",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:inuits/farmw",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/flower",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/guesthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/farmp",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/foodpreparer",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/carver",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/hunterex",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:inuits/grove",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/shaman",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/market",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/offering1",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:inuits/animistic",
+      "role": "secondary"
+    }
+  ],
+  "selling_price_overrides": {
+    "bread": 7
+  },
+  "buying_price_overrides": {
+    "cobblestone": 2,
+    "stone": 4,
+    "bread": 5
+  },
+  "icon": "millenaire:inuitpotatostew",
+  "path_materials": [
+    "pathsnow"
+  ],
+  "player_buildings": [
+    "millenaire:inuits/playeriglu",
+    "millenaire:inuits/playercampsite",
+    "millenaire:inuits/playerlargegrove",
+    "millenaire:inuits/playersmallhouse",
+    "millenaire:inuits/playermedhouse",
+    "millenaire:inuits/playerlargehouse"
+  ],
+  "outer_wall_type": "borderposts",
+  "banner_json": [
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:tts,Color:2},{Pattern:bts,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:tts,Color:3},{Pattern:bts,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:7},{Pattern:tts,Color:2},{Pattern:bts,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:7},{Pattern:tts,Color:3},{Pattern:bts,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:mc,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:mc,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:mc,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:3},{Pattern:mc,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:14},{Pattern:mc,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:2},{Pattern:mc,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:3},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:3},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:3},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:7},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:7},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:7},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:14},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:14},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:14},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:15},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:15},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:15},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:2},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:2},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:2},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:7},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:7},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:7},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:14},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:14},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:14},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:15},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:15},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:15},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:2},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:2},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:2},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:3},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:3},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:3},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:14},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:14},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:14},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:2},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:2},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:2},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:3},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:3},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:3},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:7},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:7},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:7},{Pattern:iu2,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:15},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:15},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:15},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:2},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:2},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:2},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:3},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:3},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:3},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:7},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:7},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:7},{Pattern:iu2,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:14},{Pattern:iu2,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:14},{Pattern:iu2,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:14},{Pattern:iu2,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:3},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:3},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:3},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:7},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:7},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:7},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:14},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:14},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:14},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:15},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:15},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:2},{Pattern:hh,Color:15},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:2},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:2},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:2},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:7},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:7},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:7},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:14},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:14},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:14},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:15},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:15},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:3},{Pattern:hh,Color:15},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:2},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:2},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:2},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:3},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:3},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:3},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:14},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:14},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:7},{Pattern:hh,Color:14},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:2},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:2},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:2},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:3},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:3},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:3},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:7},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:7},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:7},{Pattern:iu3,Color:15}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:15},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:15},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:14},{Pattern:hh,Color:15},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:2},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:2},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:2},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:3},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:3},{Pattern:iu3,Color:7}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:3},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:7},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:7},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:7},{Pattern:iu3,Color:14}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:14},{Pattern:iu3,Color:2}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:14},{Pattern:iu3,Color:3}]}}",
+    "{BlockEntityTag:{Base:15,Patterns:[{Pattern:hhb,Color:15},{Pattern:hh,Color:14},{Pattern:iu3,Color:7}]}}"
+  ],
+  "never": [
+    "hunter",
+    "shamanistic",
+    "council",
+    "offering",
+    "offering2"
+  ]
+}

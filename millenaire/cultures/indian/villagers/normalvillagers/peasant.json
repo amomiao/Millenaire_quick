@@ -1,0 +1,65 @@
+{
+  "culture": "millenaire:indian",
+  "native_name": "Kisaan",
+  "textures": [
+    "millenaire:textures/entity/indian/ml_peasant0.png",
+    "millenaire:textures/entity/indian/ml_peasant1.png",
+    "millenaire:textures/entity/indian/ml_peasant2.png",
+    "millenaire:textures/entity/indian/ml_peasant3.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:bring_back_home",
+    "millenaire:build",
+    "millenaire:build_path",
+    "millenaire:clear_old_path",
+    "millenaire:dry_brick",
+    "millenaire:gather_brick",
+    "millenaire:cook_indian_brick",
+    "millenaire:gather_from_brick_kiln"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "millenaire:mud_brick",
+    "millenaire:painted_brick_white",
+    "millenaire:rice",
+    "millenaire:turmeric",
+    "minecraft:chicken",
+    "minecraft:sugar_cane",
+    "minecraft:cooked_chicken"
+  ],
+  "collect_goods": [
+    "minecraft:chicken",
+    "minecraft:egg",
+    "minecraft:feather"
+  ],
+  "required_goods": {
+    "minecraft:oak_log": 16,
+    "minecraft:spruce_log": 16,
+    "minecraft:birch_log": 16,
+    "minecraft:jungle_log": 16,
+    "minecraft:acacia_log": 16,
+    "minecraft:dark_oak_log": 16
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "low_caste_family_names",
+  "icon": "minecraft:iron_shovel",
+  "tool_needed_classes": [
+    "hoes",
+    "shovels",
+    "pickaxes",
+    "toolssword"
+  ],
+  "default_weapon": "minecraft:wooden_hoe",
+  "experience_given": 3,
+  "travelbook_held_item": "minecraft:iron_shovel",
+  "travelbook_held_item_off_hand": "minecraft:dirt"
+}

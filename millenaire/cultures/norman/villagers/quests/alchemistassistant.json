@@ -1,0 +1,24 @@
+{
+  "culture": "millenaire:norman",
+  "native_name": "Assistant",
+  "textures": [
+    "millenaire:textures/entity/norman/special/alchemistassistant.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "alchemistassistant_first",
+  "family_name_list": "alchemistassistant_last",
+  "icon": "alchemistexplosive",
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_pickaxe",
+  "experience_given": 8,
+  "travelbook_held_item": "alchemistexplosive"
+}

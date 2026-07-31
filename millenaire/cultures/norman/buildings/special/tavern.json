@@ -1,0 +1,74 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "tavern",
+  "category": "special",
+  "native_name": "Taverne",
+  "shop": "tavern",
+  "tags": [
+    "drinking",
+    "leisure"
+  ],
+  "icon": "millenaire:cider",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "drinking",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 10,
+            "depth": 12
+          },
+          "priority": 800,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 10,
+            "depth": 12
+          },
+          "priority": 160
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 10,
+            "depth": 12
+          },
+          "priority": 150
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 9,
+            "height": 11,
+            "depth": 12
+          },
+          "priority": 70,
+          "path_level": 2
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 9,
+            "height": 11,
+            "depth": 12
+          }
+        }
+      ]
+    }
+  ]
+}

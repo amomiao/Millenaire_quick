@@ -1,0 +1,36 @@
+{
+  "handler": "smelting",
+  "priority": 50,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 3,
+  "actionCooldown": 100,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "buildingLimit": {
+    "minecraft:cooked_mutton": 60
+  },
+  "itemsBalance": {
+    "minecraft:mutton": "minecraft:cooked_mutton"
+  },
+  "handlerParams": {
+    "inputs": [
+      {
+        "item": "minecraft:mutton",
+        "count": 1
+      }
+    ],
+    "outputs": [
+      {
+        "item": "minecraft:cooked_mutton",
+        "count": 1
+      }
+    ],
+    "buildingTag": "kitchen"
+  },
+  "sentenceKey": "cookMutton",
+  "labelKey": "cookMutton",
+  "heldItems": [
+    "minecraft:cooked_mutton"
+  ]
+}

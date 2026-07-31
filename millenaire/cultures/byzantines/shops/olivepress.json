@@ -1,0 +1,15 @@
+{
+  "sells": [
+    "olive_tree_sapling",
+    "olives",
+    "oliveoil"
+  ],
+  "buys": [
+    "olives"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "millenaire:olives",
+    "millenaire:oliveoil"
+  ]
+}

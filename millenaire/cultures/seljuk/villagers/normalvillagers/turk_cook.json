@@ -1,0 +1,108 @@
+{
+  "culture": "millenaire:seljuk",
+  "native_name": "Aşçı",
+  "textures": [
+    "millenaire:textures/entity/turks/male/turk_male_0.png",
+    "millenaire:textures/entity/turks/male/turk_male_1.png",
+    "millenaire:textures/entity/turks/male/turk_male_2.png",
+    "millenaire:textures/entity/turks/male/turk_male_3.png",
+    "millenaire:textures/entity/turks/male/turk_male_4.png",
+    "millenaire:textures/entity/turks/male/turk_male_5.png",
+    "millenaire:textures/entity/turks/male/turk_male_6.png",
+    "millenaire:textures/entity/turks/male/turk_male_7.png",
+    "millenaire:textures/entity/turks/male/turk_male_8.png",
+    "millenaire:textures/entity/turks/male/turk_male_9.png",
+    "millenaire:textures/entity/turks/male/turk_male_10.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_0.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_1.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_2.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_3.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_4.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_5.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_6.png",
+        "millenaire:textures/entity/turks/male/cloth/turk_peasant_7.png"
+      ]
+    },
+    "clothes_seljuk_cotton": {
+      "layer0": [
+        "millenaire:textures/entity/turks/male/cotton/cotton_0.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_1.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_2.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_3.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_4.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_5.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_6.png",
+        "millenaire:textures/entity/turks/male/cotton/cotton_7.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray_male_muslim",
+    "millenaire:drink_ayran",
+    "millenaire:take_bath",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_ayran_kitchen",
+    "millenaire:craft_pide_beef",
+    "millenaire:craft_pide_mutton",
+    "millenaire:craft_sugar",
+    "millenaire:craft_helva",
+    "millenaire:craft_lokum",
+    "millenaire:cook_beef_kitchen",
+    "millenaire:cook_mutton_kitchen",
+    "millenaire:cook_fish_kitchen",
+    "millenaire:cook_chicken_kitchen",
+    "millenaire:craft_bread"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:beef",
+    "minecraft:mutton",
+    "minecraft:chicken",
+    "minecraft:cod",
+    "millenaire:yogurt",
+    "minecraft:bread",
+    "minecraft:wheat"
+  ],
+  "required_goods": {
+    "millenaire:pistachios": 32,
+    "minecraft:mutton": 8,
+    "minecraft:cooked_mutton": 4,
+    "minecraft:cooked_beef": 4,
+    "minecraft:beef": 8,
+    "millenaire:yogurt": 8,
+    "minecraft:bread": 16,
+    "minecraft:cod": 32,
+    "minecraft:chicken": 8,
+    "minecraft:wheat": 16,
+    "minecraft:sugar_cane": 8,
+    "minecraft:sugar": 8,
+    "millenaire:helva": 8,
+    "millenaire:lokum": 8
+  },
+  "gender": "male",
+  "first_name_list": "turk_men_names",
+  "family_name_list": "turk_low_caste_family_names",
+  "icon": "millenaire:ayran",
+  "villager_config": "muslimrules",
+  "tool_needed_classes": [
+    "axes",
+    "toolssword"
+  ],
+  "items_needed": [
+    "millenaire:clothes_seljuk_cotton"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:pide"
+}

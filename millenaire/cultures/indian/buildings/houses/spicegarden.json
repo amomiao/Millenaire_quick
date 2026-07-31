@@ -1,0 +1,60 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "spicegarden",
+  "converter_skip": true,
+  "category": "houses",
+  "native_name": "Masaalaa Udyaan",
+  "min_distance": 0.6,
+  "tags": [
+    "spicegarden"
+  ],
+  "icon": "millenaire:turmeric",
+  "area_to_clear": 4,
+  "random_brick_colours": {
+    "white": [
+      {
+        "color": "white",
+        "weight": 50
+      },
+      {
+        "color": "light_gray",
+        "weight": 30
+      }
+    ]
+  },
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "tags": [
+        "spicegarden"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 3,
+            "depth": 8
+          },
+          "priority": 1000,
+          "path_width": 1,
+          "infoSoils": [
+            {
+              "crop": "turmeric"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 5,
+            "height": 3,
+            "depth": 8
+          }
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

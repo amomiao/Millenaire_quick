@@ -1,0 +1,31 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "pharos",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Pharos",
+  "shop": "lonetower",
+  "male": [
+    "keeper_byzantine"
+  ],
+  "icon": "torch",
+  "area_to_clear": 7,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 25,
+            "depth": 14
+          },
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

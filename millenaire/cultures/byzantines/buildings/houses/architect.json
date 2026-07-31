@@ -1,0 +1,77 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "architect",
+  "category": "houses",
+  "native_name": "Oikía Architékton",
+  "male": [
+    "architect_byzantine"
+  ],
+  "female": [
+    "lady_byzantine"
+  ],
+  "icon": "minecraft:iron_shovel",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 10
+          },
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 400
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 11,
+            "depth": 10
+          },
+          "priority": 200,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 11,
+            "height": 11,
+            "depth": 10
+          },
+          "priority": 200
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 11,
+            "height": 11,
+            "depth": 10
+          },
+          "priority": 150
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 11,
+            "height": 11,
+            "depth": 10
+          }
+        }
+      ]
+    }
+  ]
+}

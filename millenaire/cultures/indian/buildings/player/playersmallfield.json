@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:indian",
+  "building_id": "playersmallfield",
+  "converter_skip": true,
+  "category": "player",
+  "native_name": "Choti Saajisa",
+  "max_count": 0,
+  "icon": "minecraft:acacia_fence",
+  "price": 128,
+  "reputation": 4096,
+  "variants": [
+    {
+      "variant": "a",
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 3,
+            "depth": 8
+          },
+          "priority": 1000000
+        }
+      ],
+      "building_orientation": 2
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "culture": "millenaire:inuits",
+  "native_name": "Marchant viking",
+  "textures": [
+    "millenaire:textures/entity/norman/special/vikingmerchant.png"
+  ],
+  "base_scale": 1.1,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 5,
+  "gender": "male",
+  "first_name_list": "merchant_viking_first_names",
+  "family_name_list": "merchant_viking_family_names",
+  "icon": "skoll_hati_amulet",
+  "max_health": 30,
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:iron_axe",
+  "experience_given": 10,
+  "travelbook_held_item": "skoll_hati_amulet",
+  "travelbook_held_item_off_hand": "millenaire:purse",
+  "foreign_merchant_stock": {
+    "millenaire:cider": 16
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "culture": "millenaire:byzantines",
+  "building_id": "toolsmith",
+  "category": "houses",
+  "native_name": "Sidirourgío",
+  "shop": "toolsmith",
+  "male": [
+    "toolsmith_byzantine"
+  ],
+  "female": [
+    "artisanwife_byzantine"
+  ],
+  "tags": [
+    "forge"
+  ],
+  "icon": "anvil",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "forge"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 14
+          },
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 14
+          },
+          "priority": 200
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 6,
+            "depth": 14
+          },
+          "priority": 200,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 14
+          },
+          "priority": 110
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 9,
+            "depth": 14
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "labels": [
+    { "threshold": -1024, "key": "reputation.millenaire.indian.public_enemy" },
+    { "threshold": -256, "key": "reputation.millenaire.indian.unpleasant_outsider" },
+    { "threshold": -64, "key": "reputation.millenaire.indian.nuisance" },
+    { "threshold": 0, "key": "reputation.millenaire.indian.stranger" },
+    { "threshold": 256, "key": "reputation.millenaire.indian.familiarity" },
+    { "threshold": 512, "key": "reputation.millenaire.indian.known_face" },
+    { "threshold": 1024, "key": "reputation.millenaire.indian.regular_visitor" },
+    { "threshold": 2048, "key": "reputation.millenaire.indian.fellow_neighbor" },
+    { "threshold": 4096, "key": "reputation.millenaire.indian.favourite_trader" },
+    { "threshold": 8192, "key": "reputation.millenaire.indian.friend_of_village" },
+    { "threshold": 16384, "key": "reputation.millenaire.indian.ally" },
+    { "threshold": 32768, "key": "reputation.millenaire.indian.one_of_us" },
+    { "threshold": 131072, "key": "reputation.millenaire.indian.natural_leader" },
+    { "threshold": 524288, "key": "reputation.millenaire.indian.overachieving_rajput" }
+  ]
+}
