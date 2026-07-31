@@ -1,3 +1,16 @@
+# 手动管理的内容
+packwiz.exe
+/*.jar
+/*.json
+
+# 禁用jei的world:里面记录了具体世界的收藏等内容
+config\jei\world\*
+# ipn内容手动管理 忽略全部 放行白名单
+config/inventoryprofilesnext/*
+!config/inventoryprofilesnext/integrationHints/
+!config/inventoryprofilesnext/inventoryprofiles.json
+!config/inventoryprofilesnext/refillDisabledSlots.txt
+
 # ==========================================
 # 1. 运行垃圾、缓存与环境文件 (全部忽略)
 # ==========================================
@@ -15,10 +28,8 @@ screenshots/
 xaero/
 XaeroWaypoints_BACKUP*/
 *-natives/
-
 # 开发维护工具
 .dev
-
 # 本地临时状态与缓存标记
 .qmenu_opened.marker
 command_history.txt
@@ -26,25 +37,16 @@ options.txt
 TrashSlotSaveState.json
 usercache.json
 usernamecache.json
-
-# 本地运行的可执行文件与客户端文件
-packwiz.exe
-*.jar
-/*.json
-
 # 但要保留你手动写的 README
 !README.md
-
 # ==========================================
 # 2. Mod 文件夹 (只保留 packwiz 的 .pw.toml)
 # ==========================================
 # 忽略所有实体 .jar 包
 mods/*.jar
-
 # 强制追踪 packwiz 生成的 .pw.toml 元数据
 !mods/*.pw.toml
 !mods/**/*.pw.toml
-
 # ==========================================
 # 3. 光影与材质包 (如需要分发光影/材质包请自行删掉下方对应行)
 # ==========================================
