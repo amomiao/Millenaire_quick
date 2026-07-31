@@ -1,0 +1,529 @@
+architect_byzantine.construction=$name! Visste du at romerne er de beste arkitektene?
+architect_byzantine.construction=$name! Se på meg når jeg reiser en vakker bygning.
+architect_byzantine.construction=Denne bygningen blir praktfull!
+architect_byzantine.construction=Den er ikke ferdig ennå, men jeg ser allerede skjønnheten i arbeidet mitt.
+architect_byzantine.construction=Jeg bygger slike omfattende strukturer. Bygging er virkelig den vakreste kunstformen som finnes.
+architect_byzantine.construction=Roma ble ikke bygget på én dag — den ble bygget blokk for blokk.
+architect_byzantine.construction=Arkitekturen vår er overlegen alle andre bygninger i hele verden.
+architect_byzantine.construction=Å bygge på romersk vis er den beste måten å bygge på.
+architect_byzantine.construction=Liker du stilen min?
+architect_byzantine.construction=Jeg har bygget så lenge jeg kan huske. Byggingen har blitt livet mitt.
+
+architect_byzantine.getresourcesforbuild=Hvor får landsbyen alle disse blokkene fra?
+architect_byzantine.getresourcesforbuild=Jeg trenger blokker for å reise de beste byggverkene!
+architect_byzantine.getresourcesforbuild=Enhver bygning begynner med blokkene.
+architect_byzantine.getresourcesforbuild=Jeg må velge ut blokkene nøye selv.
+architect_byzantine.getresourcesforbuild=Hvordan klarer du å bære så mange blokker når du bygger, $name?
+architect_byzantine.getresourcesforbuild=Den verste delen av byggingen er å skaffe blokkene.
+
+architect_byzantine.godrink=Nok bygging! Jeg trenger litt vin!
+architect_byzantine.godrink=Jeg trenger en drink som kan inspirere meg!
+architect_byzantine.godrink=Enhver god arkitekt trenger en drink ved dagens slutt.
+architect_byzantine.godrink=Byggingen gjør meg tørst på vin.
+
+architect_byzantine.gopray=Jeg håper Gud gir meg inspirasjon til neste bygning!
+architect_byzantine.gopray=Hvorfor skapte Gud meg til arkitekt?
+architect_byzantine.gopray=Å be er en viktig del av romersk byggekunst.
+architect_byzantine.gopray=Han forstår problemene arkitekter har.
+
+architect_byzantine.gorest=Hvis jeg ikke får sove, kan jeg komme til å rote til en bygning.
+architect_byzantine.gorest=Jeg kan ikke bygge når jeg er trett.
+architect_byzantine.gorest=Det er vanskelig å bygge i mørket.
+architect_byzantine.gorest=Jeg er ferdig med å bygge for i dag.
+architect_byzantine.gorest=Kanskje jeg drømmer om å bygge verdens beste bygninger!
+
+architect_byzantine.gosocialise=Ingen i denne landsbyen forstår hvor strevsomt det er å bygge.
+architect_byzantine.gosocialise=Enhver arkitekt trenger inspirasjon fra andre.
+architect_byzantine.gosocialise=Arkitekter trenger tilbakemeldinger for å blomstre.
+architect_byzantine.gosocialise=Hva synes landsbyen om bygningene mine?
+
+//armysmith_byzantine.MakeIndianTools=Romerske verktøy er de beste i verden.
+armysmith_byzantine.makebyzantinemace=Ikke forsøk å angripe noen som ble utrustet av meg.
+armysmith_byzantine.makebyzantinemace=Denne stridsklubben skal sende barbarene langt av sted!
+armysmith_byzantine.makebyzantinemace=Å smi en stridsklubbe er vanskeligere enn å svinge den.
+armysmith_byzantine.makebyzantinemace=Hæren trenger stridsklubber.
+
+armysmith_byzantine.gopray=En god smed må be nå og da.
+armysmith_byzantine.gopray=Hvorfor skapte Gud meg til smed?
+armysmith_byzantine.gopray=Å be er en viktig del av romersk håndverk.
+armysmith_byzantine.gopray=Han forstår problemene smedene har.
+
+armysmith_byzantine.gorest=I morgen skal jeg smi enda vakrere ting!
+armysmith_byzantine.gorest=Jeg er ferdig med å smi for i dag.
+armysmith_byzantine.gorest=Kanskje jeg drømmer om å smi verdens beste våpen!
+armysmith_byzantine.gorest=Kanskje jeg drømmer om å smi verdens beste rustning!
+armysmith_byzantine.gorest=Kanskje jeg drømmer om å smi verdens beste verktøy!
+
+armysmith_byzantine.gosocialise=Jeg skal høre om noen trenger at jeg smir noe.
+armysmith_byzantine.gosocialise=Jeg håper landsbyen setter pris på verktøyene mine.
+
+armysmith_byzantine.godrink=Nok smiing! Jeg trenger litt vin!
+armysmith_byzantine.godrink=Jeg trenger en drink som kan inspirere meg!
+armysmith_byzantine.godrink=Enhver god smed trenger en drink ved dagens slutt.
+armysmith_byzantine.godrink=Smiing gjør meg tørst på vin.
+
+armysmith_byzantine.makearrow=$name, bruker du mange piler på eventyrene dine?
+armysmith_byzantine.makearrow=Enhver bue trenger en god pil.
+armysmith_byzantine.makearrow=Hver pil jeg lager, skal skade en fiende av riket.
+armysmith_byzantine.makearrow=Den romerske hæren trenger piler for å beskytte oss mot fremmede.
+
+armysmith_byzantine.makebow=Den romerske hæren trenger buer.
+armysmith_byzantine.makebow=Hei! Liker du buene mine, $name?
+armysmith_byzantine.makebow=Enhver god bue kommer fra det beste treverket.
+armysmith_byzantine.makebow=Denne buen vil beseire mange barbarer. Jeg er sannelig en mester i buemakerkunsten.
+
+armysmith_byzantine.makebyzantineboots=Den romerske hæren trenger støvler!
+armysmith_byzantine.makebyzantineboots=Romerne lager de beste støvlene i verden.
+armysmith_byzantine.makebyzantineboots=Noen må lage soldatenes støvler...
+armysmith_byzantine.makebyzantineboots=Vi lager de beste støvlene.
+armysmith_byzantine.makebyzantineboots=Hei! Liker du støvlene mine, $name?
+armysmith_byzantine.makebyzantineboots=Jeg føler meg som en altfor opphøyd skomaker.
+armysmith_byzantine.makebyzantineboots=All rustningssmiing er viktig! Selv støvlene som sitter på føttene dine!
+
+armysmith_byzantine.makebyzantinechest=Den romerske hæren trenger brystplater!
+armysmith_byzantine.makebyzantinechest=Romerne lager de beste brystplatene i verden.
+armysmith_byzantine.makebyzantinechest=Hei! Liker du rustningen min, $name?
+armysmith_byzantine.makebyzantinechest=Vi lager den beste rustningen.
+armysmith_byzantine.makebyzantinechest=Denne bør tåle flere slag enn du gjør.
+armysmith_byzantine.makebyzantinechest=Jeg føler meg som en altfor opphøyd skjortemaker.
+
+armysmith_byzantine.makebyzantinehelmet=Den romerske hæren trenger hjelmer!
+armysmith_byzantine.makebyzantinehelmet=Noen må lage soldatenes hjelmer...
+armysmith_byzantine.makebyzantinehelmet=Romerne lager de beste støvlene i verden.
+armysmith_byzantine.makebyzantinehelmet=Hei! Liker du hjelmene mine, $name?
+armysmith_byzantine.makebyzantinehelmet=Vi lager de beste hjelmene.
+armysmith_byzantine.makebyzantinehelmet=Jeg føler meg som en altfor opphøyd hattemaker.
+
+armysmith_byzantine.makebyzantinelegs=Den romerske hæren trenger benskinner!
+armysmith_byzantine.makebyzantinelegs=Noen må lage soldatenes benskinner...
+armysmith_byzantine.makebyzantinelegs=Romerne lager de beste benskinnene i verden.
+armysmith_byzantine.makebyzantinelegs=Hei! Liker du benskinnene mine, $name?
+armysmith_byzantine.makebyzantinelegs=Vi lager de beste benskinnene.
+armysmith_byzantine.makebyzantinelegs=Jeg føler meg som en altfor opphøyd buksemaker.
+
+armysmith_byzantine.makesteelaxe=Du kan ikke felle trær uten en øks!
+armysmith_byzantine.makesteelaxe=Jeg smir fantastiske økser.
+armysmith_byzantine.makesteelaxe=Romerske økser er blant de beste i verden!
+armysmith_byzantine.makesteelaxe=Tømmerhoggerne trenger at vi smir øksene deres.
+armysmith_byzantine.makesteelaxe=Hvordan smir du øksene dine, $name?
+
+armysmith_byzantine.makesteelhoe=Du kan ikke dyrke jorda uten jordbruksredskaper!
+armysmith_byzantine.makesteelhoe=Jeg smir fantastiske jordbruksredskaper.
+armysmith_byzantine.makesteelhoe=Romerske jordbruksredskaper er blant de beste i verden!
+armysmith_byzantine.makesteelhoe=Bøndene trenger at vi smir redskapene deres.
+armysmith_byzantine.makesteelhoe=Hvordan smir du jordbruksredskapene dine, $name?
+
+armysmith_byzantine.makesteelpickaxe=Du kan ikke bryte malm uten en hakke!
+armysmith_byzantine.makesteelpickaxe=Jeg smir sterke hakker.
+armysmith_byzantine.makesteelpickaxe=Romerske hakker er blant de beste i verden!
+armysmith_byzantine.makesteelpickaxe=Gruvearbeiderne trenger at vi smir hakkene deres.
+armysmith_byzantine.makesteelpickaxe=Hvordan smir du hakkene dine, $name?
+
+armysmith_byzantine.makesteelshovel=Du kan verken bygge eller grave uten en spade!
+armysmith_byzantine.makesteelshovel=Jeg smir holdbare spader.
+armysmith_byzantine.makesteelshovel=Romerske spader er blant de beste i verden!
+armysmith_byzantine.makesteelshovel=Arkitektene trenger at vi smir spadene deres.
+armysmith_byzantine.makesteelshovel=Hvordan smir du spadene dine, $name?
+
+//artisan_byzantine.makePainting=Romerkunsten er den mest avanserte i verden.
+
+artisan_byzantine.gopray=En god håndverker må be nå og da.
+artisan_byzantine.gopray=Hvorfor skapte Gud meg til håndverker?
+artisan_byzantine.gopray=Å be er en viktig del av romersk håndverk.
+artisan_byzantine.gopray=Han forstår problemene håndverkeren har.
+
+artisan_byzantine.gorest=I morgen skal jeg lage enda vakrere ting!
+artisan_byzantine.gorest=Jeg er ferdig med å lage ting for i dag.
+artisan_byzantine.gorest=Kanskje jeg drømmer om å lage verdens beste murstein!
+artisan_byzantine.gorest=Kanskje jeg drømmer om å lage verdens beste takstein!
+
+artisan_byzantine.gosocialise=Jeg skal høre om noen trenger at jeg lager noe.
+artisan_byzantine.gosocialise=Jeg håper landsbyen setter pris på taksteinene mine.
+artisan_byzantine.gosocialise=Jeg håper landsbyen setter pris på mursteinene mine.
+
+artisan_byzantine.godrink=Nok arbeid! Jeg trenger litt vin!
+artisan_byzantine.godrink=Jeg trenger en drink som kan inspirere meg!
+artisan_byzantine.godrink=Enhver god håndverker trenger en drink ved dagens slutt.
+artisan_byzantine.godrink=Håndverket gjør meg tørst på vin.
+
+artisan_byzantine.greeting=Livet mitt er mye bedre enn noen andres som bor her.
+artisan_byzantine.greeting=Hei $name! Trenger du noen eksklusive romerblokker?
+
+artisan_byzantine.makebrick=Noen må lage mursteinene.
+artisan_byzantine.makebrick=Landsbyen trenger at jeg lager murstein til veggene deres.
+artisan_byzantine.makebrick=Romersk murstein er blant de vakreste blokkene i verden!
+artisan_byzantine.makebrick=Vi arbeider i kulissene mens byggerne får all æren.
+artisan_byzantine.makebrick=Selv ikke de beste byggerne kan bygge uten blokker.
+artisan_byzantine.makebrick=Hvem fant på å gjøre leire om til murstein?
+
+artisan_byzantine.makebookshelves=Noen må sette bøkene i hyllene.
+artisan_byzantine.makebookshelves=Landsbyen trenger at jeg lager bokhyllene deres.
+artisan_byzantine.makebookshelves=Romerske bøker er blant de beste å lese i hele verden!
+artisan_byzantine.makebookshelves=Vi arbeider i kulissene mens skribentene får all æren.
+artisan_byzantine.makebookshelves=Av og til blar jeg i bøkene før jeg setter dem i hylla — jeg skulle ønske jeg kunne lese.
+artisan_byzantine.makebookshelves=Hvem fant på å skrive ting ned?
+
+artisan_byzantine.makebyzantinetiles=Noen må lage takstein.
+artisan_byzantine.makebyzantinetiles=Landsbyen trenger at jeg lager takene deres.
+artisan_byzantine.makebyzantinetiles=Romersk takstein er blant de vakreste blokkene i verden!
+artisan_byzantine.makebyzantinetiles=Vi arbeider i kulissene mens byggerne får all æren.
+artisan_byzantine.makebyzantinetiles=Selv ikke de beste byggerne kan bygge uten blokker.
+artisan_byzantine.makebyzantinetiles=Hvem fant på å gjøre leire om til tak?
+
+artisanwife_byzantine.gopray=Å be er en viktig del av romersk håndverk.
+artisanwife_byzantine.gopray=Jeg håper Gud hjelper meg å lage de beste klærne!
+artisanwife_byzantine.gopray=Hvorfor skapte Gud en arkitekts hustru?
+
+artisanwife_byzantine.gosocialise=Å! Jeg lagde skjorta til han der!
+artisanwife_byzantine.gosocialise=Her er jeg kjent som arkitektens hustru.
+artisanwife_byzantine.gosocialise=Jeg er lei av å bli kalt «arkitektens hustru».
+
+artisanwife_byzantine.makeclothes_byz_silk=Jeg lager noen av de fineste klærne i landsbyen!
+artisanwife_byzantine.makeclothes_byz_silk=Romersk silke er det beste stoffet i verden!
+artisanwife_byzantine.makeclothes_byz_silk=Silkeklær er viktigere enn å ha et fint hus.
+artisanwife_byzantine.makeclothes_byz_silk=$name, har du gått i silke før?
+artisanwife_byzantine.makeclothes_byz_silk=Alle trenger klær, særlig om man vil være siviliserte.
+artisanwife_byzantine.makeclothes_byz_silk=Sann skjønnhet ligger ikke i blokker, den ligger i klærne.
+artisanwife_byzantine.makeclothes_byz_silk=Det er en grunn til at det er jeg som vever dette, og ikke mannen min.
+artisanwife_byzantine.makeclothes_byz_silk=Å veve klær i silke er bare for de edleste kvinnene.
+artisanwife_byzantine.makeclothes_byz_silk=Jeg er rett og slett glad for å ha et virkelig arbeid å gjøre.
+
+artisanwife_byzantine.makeclothes_byz_wool=Jeg lager noen av de fineste ullklærne i landsbyen!
+artisanwife_byzantine.makeclothes_byz_wool=Fine klær er viktigere enn å ha et flott hus.
+artisanwife_byzantine.makeclothes_byz_wool=$name, har du gått i ull før?
+artisanwife_byzantine.makeclothes_byz_wool=Sann skjønnhet ligger ikke i blokker, den ligger i klærne.
+artisanwife_byzantine.makeclothes_byz_wool=Alle trenger klær, særlig om man vil være siviliserte.
+artisanwife_byzantine.makeclothes_byz_wool=Det er en grunn til at det er jeg som vever dette, og ikke mannen min.
+artisanwife_byzantine.makeclothes_byz_wool=Ikke enhver kvinne kan veve med ull.
+artisanwife_byzantine.makeclothes_byz_wool=Jeg er rett og slett glad for å ha et virkelig arbeid å gjøre.
+
+artisanwife_byzantine.delivergoodshousehold=Slike ting er det eneste jeg får gjort her.
+artisanwife_byzantine.gethousethresources=Mannen min har endelig levert ressursene sine, slik jeg ba ham om.
+artisanwife_byzantine.getgoodshousehold=På tide å ta seg av familien min.
+artisanwife_byzantine.greeting=Jeg kunne utrettet så mye mer her om jeg var mann, om bare...
+artisanwife_byzantine.greeting=Vår oppgave er å holde styr på mennene våre.
+
+baron_byzantine.greeting=$name, landsbyen min har de beste varene til salgs!
+baron_byzantine.greeting=Goddag, velstående reisende!
+baron_byzantine.greeting=Vil du hjelpe til med å holde øye med bøndene, $name?
+
+baron_byzantine.godrink=Nok styring! Jeg trenger en drink.
+baron_byzantine.godrink=Jeg fortjener å drikke den beste vinen!
+baron_byzantine.godrink=Jeg bør sjekke om vertshuset går med overskudd.
+baron_byzantine.godrink=Enhver mektig person må drikke, ellers dør hun av stress!
+
+baron_byzantine.gopray=Hvorfor skapte Gud meg til baron?
+baron_byzantine.gopray=Å be er en viktig del av romersk styresett.
+baron_byzantine.gopray=Han forstår problemene baroner har.
+baron_byzantine.gopray=Landsbyen min trenger svar fra Gud!
+
+baron_byzantine.gorest=Nok mas med bøndene! Jeg trenger litt søvn.
+baron_byzantine.gorest=*Gjesp* Jeg kan ikke lede bønder når jeg er trett.
+baron_byzantine.gorest=På tide å sove under silketeppet mitt.
+baron_byzantine.gorest=Alle trenger søvn, særlig når man leder en landsby.
+
+baron_byzantine.gosocialise=Hvorfor ser de dumme bøndene bare på meg som «baronen»?
+baron_byzantine.gosocialise=He he he, la oss se om han har betalt skatten sin.
+baron_byzantine.gosocialise=På tide å inspirere de fattige til å tjene denarer!
+baron_byzantine.gosocialise=Må jeg virkelig snakke med simpelt folk?
+baron_byzantine.gosocialise=Som baron må jeg snakke med folket mitt, selv om jeg ikke har lyst.
+
+baron_byzantine.inspectconstruction=Jeg må forsikre meg om at bøndene ikke har rotet noe til.
+baron_byzantine.inspectconstruction=Denne bygningen vil gi landsbyen min fortjeneste.
+baron_byzantine.inspectconstruction=Det er vakkert å se landsbyen sin bli rikere.
+baron_byzantine.inspectconstruction=Jeg vet at Roma ikke ble bygget på én dag, men hvorfor er arkitekten min så treg?
+baron_byzantine.inspectconstruction=Det er min jobb å sørge for at bygningene blir reist riktig.
+baron_byzantine.inspectconstruction=Arkitektene mine gjør som regel et godt arbeid, men jeg må alltid sjekke dem.
+
+boy_byzantine.becomeadult=På tide å bli en sterk mann!
+boy_byzantine.becomeadult=Jeg er gammel nok til å ha et yrke!
+boy_byzantine.becomeadult=Jeg trenger et arbeid nå.
+boy_byzantine.becomeadult=Dagene mine som ung gutt er forbi.
+
+boy_byzantine.goplay=Jeg vil slåss med noen!
+boy_byzantine.goplay=Jeg vil leke «Slå barbaren»!
+boy_byzantine.goplay=Jeg skal vise alle at jeg er stor og sterk!
+boy_byzantine.goplay=På tide å leke «soldat».
+
+boy_byzantine.gopray=Jeg vil lære om Gud!
+boy_byzantine.gopray=Kan Gud fortelle meg om de voksne?
+boy_byzantine.gopray=Hvordan ber man?
+boy_byzantine.gopray=Jeg vil ikke be! Jeg vil leke i stedet!
+
+boy_byzantine.childobservesmithing=Når jeg blir stor, vil jeg også bli smed. Eller soldat. Eller general!
+
+centurio_byzantine.godrink=Enhver mektig person må drikke, ellers dør de av stress!
+centurio_byzantine.godrink=Som soldat trenger jeg vin; som centurion trenger jeg det enda mer.
+centurio_byzantine.godrink=Jeg trenger å slappe av, ellers blir jeg ubrukelig når barbarene kommer.
+
+centurio_byzantine.gopray=Hvorfor skapte Gud meg til strategos?
+centurio_byzantine.gopray=Å be er en viktig del av romersk krigføring.
+centurio_byzantine.gopray=Han forstår problemene en strategos har.
+centurio_byzantine.gopray=Hæren min trenger svar fra Gud!
+
+centurio_byzantine.gorest=Nok mas med soldatene! Jeg trenger litt søvn.
+centurio_byzantine.gorest=På tide å ta av rustningen og legge seg.
+centurio_byzantine.gorest=*Gjesp* Jeg kan ikke lede soldater når jeg er trett.
+centurio_byzantine.gorest=Alle trenger søvn, særlig når man leder en landsby.
+
+centurio_byzantine.gosocialise=På tide å styrke soldatenes kampånd!
+centurio_byzantine.gosocialise=En god måte å vinne lojalitet på er å rådføre seg med folket sitt.
+centurio_byzantine.gosocialise=Jeg trenger flere rekrutter til hæren!
+centurio_byzantine.gosocialise=Mine underordnede må kjenne forsvarsplanene mine.
+centurio_byzantine.gosocialise=Mine underordnede må kjenne angrepsplanene mine.
+centurio_byzantine.gosocialise=Folket må forstå trusselen om et barbarangrep!
+centurio_byzantine.gosocialise=Jeg må minne alle om at vi må være klare til å kjempe når som helst!
+
+centurio_byzantine.huntmonster=Selv som centurion kan jeg ikke bli rusten som soldat.
+centurio_byzantine.huntmonster=Hvor er mine underordnede? Dette burde de tatt seg av.
+centurio_byzantine.huntmonster=Jeg er en strategos av Romerriket, og du tror du kan beseire meg? Ha!
+
+centurio_byzantine.inspectconstruction=Det er vakkert å se landsbyen sin bli sterkere.
+
+farmiller_wife_byzantine.delivergoodshousehold=Slike ting er det eneste jeg får gjort her.
+farmiller_wife_byzantine.gethousethresources=Mannen min har endelig levert ressursene sine, slik jeg ba ham om.
+farmiller_wife_byzantine.getgoodshousehold=På tide å ta seg av familien min.
+farmiller_wife_byzantine.greeting=Jeg kunne utrettet så mye mer her om jeg var mann, om bare...
+farmiller_wife_byzantine.greeting=Vår oppgave er å holde styr på mennene våre.
+
+girl_byzantine.childobserveproducefood=Det er en god ting at mennene ikke lager mat — de ville brent alt.
+
+keeperbirch_byzantine.greeting=Det er så kjedelig her, det er aldri noe som skjer...
+keeperbirch_byzantine.greeting=Det er jobben min å holde øye med disse områdene.
+keeperbirch_byzantine.greeting=Vær hilset, reisende. Jeg lurer på hvordan du endte opp på dette avsidesliggende stedet.
+keeperbirch_byzantine.greeting=Hvordan kunne noen tro at noen burde bli stasjonert her...
+
+keeperoak_byzantine.greeting=Folket her som kaller seg normannere, de minner meg om vårt praktfulle rike.
+keeperoak_byzantine.greeting=Det er så kjedelig her, det er aldri noe som skjer...
+keeperoak_byzantine.greeting=Det er jobben min å holde øye med disse områdene.
+keeperoak_byzantine.greeting=Vær hilset, reisende. Jeg lurer på hvordan du endte opp på dette avsidesliggende stedet.
+keeperoak_byzantine.greeting=Hvordan kunne noen tro at noen burde bli stasjonert her...
+
+keeperpine_byzantine.greeting=Denne kulden er forferdelig. Ikke rart at det ikke er noen her.
+keeperpine_byzantine.greeting=Det er så kjedelig her, det er aldri noe som skjer...
+keeperpine_byzantine.greeting=Det er jobben min å holde øye med disse områdene.
+keeperpine_byzantine.greeting=Vær hilset, reisende. Jeg lurer på hvordan du endte opp på dette avsidesliggende stedet.
+keeperpine_byzantine.greeting=Hvordan kunne noen tro at noen burde bli stasjonert her...
+
+keepertropical_byzantine.greeting=Det er så kjedelig her, det er aldri noe som skjer...
+keepertropical_byzantine.greeting=Det er jobben min å holde øye med disse områdene.
+keepertropical_byzantine.greeting=Det er så varmt her. Jeg kan ikke forstå hvordan disse inderne kan bo i disse landområdene.
+keepertropical_byzantine.greeting=Har du sett det underlige mayafolket noen gang? Bygningene deres ser ut som om de kan falle sammen hvert øyeblikk.
+keepertropical_byzantine.greeting=Vær hilset, reisende. Jeg lurer på hvordan du endte opp på dette avsidesliggende stedet.
+keepertropical_byzantine.greeting=Hvordan kunne noen tro at noen burde bli stasjonert her...
+
+lumberman_byzantine.bringbackresourceshome=Forhåpentligvis er dette nok til at landsbyen kan blomstre!
+lumberman_byzantine.bringbackresourceshome=Jeg er en svært vellykket tømmerhogger — sekken min er full av stokker!
+lumberman_byzantine.bringbackresourceshome=Jeg bærer mange trær, men av en eller annen grunn er de ikke tunge.
+lumberman_byzantine.bringbackresourceshome=Det var et godt utført arbeid.
+lumberman_byzantine.bringbackresourceshome=Min kone må være stolt av alt treet jeg bringer med meg.
+
+lumberman_byzantine.choptrees=Alle bygninger her omkring trenger tre, og å skaffe det er min jobb!
+lumberman_byzantine.choptrees=Enda et tre felt, mer ved til landsbyen!
+lumberman_byzantine.choptrees=Ett tre til felt, mer ved til landsbyen!
+lumberman_byzantine.choptrees=$name, har du noen gang felt et tre før?
+lumberman_byzantine.choptrees=Frem til hogsttreet!
+lumberman_byzantine.choptrees=Dø tre dø! HAHAHA! Dø! Dø! Dø! Ha— Å, hei der $name! Ingenting... rart... skjer her.
+lumberman_byzantine.choptrees=Jeg vil ikke drepe deg, men jeg må... Farvel, tre!
+lumberman_byzantine.choptrees=Har du noen gang lurt på hvorfor felte trær flyter her, $name? Det er veldig rart. Uansett hva jeg gjør, flyter de alltid, og jeg må bryte treet oppover bit for bit. Det er så slitsomt.
+
+lumberman_byzantine.gathergoods=Hei $name! Ikke ta det der!
+lumberman_byzantine.gathergoods=Trærne vokste godt denne gangen — så mange stokker og spirer.
+lumberman_byzantine.gathergoods=Jeg håper landsbyen trenger alle disse stokkene.
+lumberman_byzantine.gathergoods=Det var et stort tre! Nå kan landsbyen bruke stokkene.
+lumberman_byzantine.gathergoods=Se på alle de nye stokkene og spirene jeg fikk av å felle trærne!
+lumberman_byzantine.gathergoods=Fint ungtre der borte.
+
+lumberman_byzantine.plantsaplings=Disse spirene er så små at jeg av og til ikke kan tro at de skal bli så store.
+lumberman_byzantine.plantsaplings=Du er så søt, lille spire — får meg nesten til å glemme at jeg skal felle deg når du blir stor.
+lumberman_byzantine.plantsaplings=$name, vil du plante en spire?
+lumberman_byzantine.plantsaplings=Trærne vokser så fort her — på noen få dager går de fra liten spire til fullvoksent tre.
+lumberman_byzantine.plantsaplings=Å plante er den enkleste jobben — alt jeg trenger å gjøre er å sette dem i bakken.
+lumberman_byzantine.plantsaplings=Snart vil dette være et stort, majestetisk tre! Og da vil jeg hogge det ned.
+
+merchant_art.greeting=Ingen by i verden kan måle seg med Konstantinopels skjønnhet og makt.
+merchant_art.greeting=Vi er de siste sanne romere!
+
+miner_byzantine.mining=Jobben min er å knuse stein og frakte den til smelting, det er alt.
+miner_byzantine.mining=Armen min verker av å bruke denne hakken hver eneste dag.
+miner_byzantine.mining=Én blokk, to blokker, tre blokker, fire blokker — det tar aldri slutt. Bare det samme om og om igjen.
+miner_byzantine.mining=Én blokk, to blokker, tre — vent, er det gull? Er det? JEG FANT GULL! GULL! GULL! Jeg er rik! HAHA — å, det var bare jern som glimtet i dårlig lys. Tilbake til å bryte jern og kull...
+miner_byzantine.mining=Åtti blokker, åttien blokker, åttito blokker, åttitre blokker...
+miner_byzantine.mining=Hei! Hvordan klarer du å bære så mange blokker og bryte så fort? Det tar meg timer å gjøre det du gjør på en dag.
+miner_byzantine.mining=*Host* *Host* — jeg hater å arbeide med kull.
+miner_byzantine.mining=I denne jobben trengs styrke og utholdenhet. Men ingen legger merke til det...
+miner_byzantine.mining=Jeg er stolt av å være en romersk statsborger som jobber for det vidunderlige riket, selv innen dette vanskelige arbeidsfeltet.
+
+metropolit_byzantine.makebooks=Bøkene mine er noen av de beste manuskriptene som finnes der ute.
+
+metropolit_byzantine.gopray=Hvorfor skapte Gud meg til en av sine mest verdsatte tjenere?
+metropolit_byzantine.gopray=Som patriark må jeg lede bønnen.
+metropolit_byzantine.gopray=Jeg forstår problemene Han har.
+metropolit_byzantine.gopray=Han forstår problemene patriarker har.
+metropolit_byzantine.gopray=Landsbyen min trenger svar fra Gud!
+
+metropolit_byzantine.gorest=Alle trenger søvn, særlig når man leder en landsby.
+metropolit_byzantine.gorest=*Gjesp* Jeg kan ikke lede prestene når jeg er trett.
+
+metropolit_byzantine.inspectconstruction=Det er vakkert å se landsbyen sin komme nærmere Gud.
+
+pastor_byzantine.makebooks=Bøkene mine er noen av de beste manuskriptene som finnes der ute.
+
+//smith_byzantine.MakeIndianTools=Romerske verktøy er de beste i verden.
+
+smith_byzantine.gopray=En god smed må be nå og da.
+smith_byzantine.gopray=Hvorfor skapte Gud meg til smed?
+smith_byzantine.gopray=Å be er en viktig del av romersk håndverk.
+smith_byzantine.gopray=Han forstår problemene smedene har.
+
+smith_byzantine.gorest=I morgen skal jeg smi enda vakrere ting!
+smith_byzantine.gorest=Jeg er ferdig med å smi for i dag.
+smith_byzantine.gorest=Kanskje jeg drømmer om å smi verdens beste verktøy!
+
+smith_byzantine.gosocialise=Jeg skal høre om noen trenger at jeg smir noe.
+smith_byzantine.gosocialise=Jeg håper landsbyen setter pris på verktøyene mine.
+
+smith_byzantine.godrink=Nok smiing! Jeg trenger litt vin!
+smith_byzantine.godrink=Jeg trenger en drink som kan inspirere meg!
+smith_byzantine.godrink=Enhver god smed trenger en drink ved dagens slutt.
+smith_byzantine.godrink=Smiing gjør meg tørst på vin.
+
+smith_byzantine.makesteelaxe=Du kan ikke felle trær uten en øks!
+smith_byzantine.makesteelaxe=Jeg smir fantastiske økser.
+smith_byzantine.makesteelaxe=Romerske økser er blant de beste i verden!
+smith_byzantine.makesteelaxe=Tømmerhoggerne trenger at vi smir øksene deres.
+smith_byzantine.makesteelaxe=Hvordan smir du øksene dine, $name?
+
+smith_byzantine.makesteelhoe=Du kan ikke dyrke jorda uten jordbruksredskaper!
+smith_byzantine.makesteelhoe=Jeg smir fantastiske jordbruksredskaper.
+smith_byzantine.makesteelhoe=Romerske jordbruksredskaper er blant de beste i verden!
+smith_byzantine.makesteelhoe=Bøndene trenger at vi smir redskapene deres.
+smith_byzantine.makesteelhoe=Hvordan smir du jordbruksredskapene dine, $name?
+
+smith_byzantine.makesteelpickaxe=Du kan ikke bryte malm uten en hakke!
+smith_byzantine.makesteelpickaxe=Jeg smir sterke hakker.
+smith_byzantine.makesteelpickaxe=Romerske hakker er blant de beste i verden!
+smith_byzantine.makesteelpickaxe=Gruvearbeiderne trenger at vi smir hakkene deres.
+smith_byzantine.makesteelpickaxe=Hvordan smir du hakkene dine, $name?
+
+smith_byzantine.makesteelshovel=Du kan verken bygge eller grave uten en spade!
+smith_byzantine.makesteelshovel=Jeg smir holdbare spader.
+smith_byzantine.makesteelshovel=Romerske spader er blant de beste i verden!
+smith_byzantine.makesteelshovel=Arkitektene trenger at vi smir spadene deres.
+smith_byzantine.makesteelshovel=Hvordan smir du spadene dine, $name?
+
+villager.greeting=Hallo, $name!
+villager.greeting=En skjønn dag, er det ikke?
+villager.greeting=Det kommer til å regne. Snart.
+villager.greeting=Ingen by i verden kan måle seg med Konstantinopel.
+villager.greeting=Vi er ikke grekere, vi er romere.
+villager.greeting=Vi er de siste sanne romere.
+villager.greeting=Sol deg i vår sivilisasjons ære mens du er her.
+villager.greeting=Velkommen til landsbyen, $name!
+villager.greeting=Se! Der er $name!
+villager.greeting=Vi bysantinere er de siste sanne romere. Sol deg i vår sivilisasjons ære.
+
+villager.becomeadult=Endelig har jeg blitt en romersk statsborger!
+
+villager.huntmonster=Jeg må drepe denne barbaren!
+
+villager.goplay=Jeg tror jeg skal gå ut for å leke.
+villager.goplay=Jeg går og leker nå.
+villager.goplay=$name! Vil du leke med meg?
+villager.goplay=Jeg vil løpe!
+
+villager.calltoarms=Romerriket er under angrep! Til våpen!
+villager.calltoarms=Barbarene er her! Forsvar landsbyen vår for enhver pris!
+
+villager.childeatgrapes=Jeg sverger på at disse druene falt av seg selv!
+
+villager.childobservevines=De voksne burde slutte å sløse med smakfulle druer ved å lage den fæle vinen av dem!
+villager.childobserveconstruction=En dag skal jeg besøke Konstantinopel og se hvordan ekte romerske bygninger ser ut!
+villager.childobserveproducealcohol=Jeg smakte vin en gang, det er motbydelig.
+
+villager.gorest=Hvis jeg ikke får sove, kan det skje uhell.
+villager.gorest=Jeg er sliten, på tide å dra hjem for å legge meg.
+villager.gorest=Jeg tror jeg skal gå å legge meg for å sove.
+
+villager.makebread=Brødet lukter godt allerede...
+
+villager.gopray=Jeg ledes av Den hellige Fader.
+villager.gopray=Å Herre, du himmelbårne og barmhjertige.
+villager.gopray=Mennene tilber, og geistligheten synger sine bønner!
+villager.gopray=Hill deg, jomfrunymfe!
+villager.gopray=Å hellige Maria, store seierrike hærfører!
+villager.gopray=Du som frelser meg fra det onde, jeg takker deg...
+villager.gopray=Folket skal be for deg, gjennom alle tider, amen.
+
+villager.godrink=På tide å skjenke seg litt frisk romersk vin!
+villager.godrink=Jeg trenger en drink.
+villager.godrink=Vinen skyller bekymringene mine bort.
+villager.godrink=Visste du at romersk vin er den beste i verden?
+villager.godrink=Det er lenge siden jeg har tatt meg et glass.
+
+wife_byzantine.delivergoodshousehold=Slike ting er de eneste tingene jeg kan gjøre her.
+wife_byzantine.gethousethresources=Mannen min har endelig levert ressursene sine slik jeg sa at han skulle gjøre.
+wife_byzantine.cooking=Matlaging er skikkelig gøy.
+wife_byzantine.getgoodshousehold=På tide å ta vare på husholdningen.
+wife_byzantine.greeting=Jeg kunne utrettet så mye mer her om jeg var mann, om bare...
+wife_byzantine.greeting=Vår oppgave er å kontrollere mennene våre.
+
+villager.givespeech=Romerriket er stort, og landsbyen vår er den største.
+villager.givespeech=Landsbyen vår må takke sitt lederskap for all sin storhet.
+villager.givespeech=Vi romere har de beste lederne og det beste folket.
+
+villager.listentospeech=Han har rett!
+villager.listentospeech=Ære være oss!
+villager.listentospeech=Vi kan beseire hvem som helst!
+villager.listentospeech=Ære være Gud og vår sendebud-leder!
+
+special_byzantine.greeting=Tjenesten din vil bli belønnet, $name.
+special_byzantine.calltoarms=Sett ikke lykken din på prøve, barn.
+special_byzantine.gopray=Bøy deg for meg …
+
+oldshepherd_byzantine.greeting=Troen min holdt meg gående …
+oldshepherd_byzantine.greeting=Hjelp meg å oppfylle drømmen min, $name, så skal du bli belønnet …
+oldshepherd_byzantine.calltoarms=For Boskokrator!
+oldshepherd_byzantine=Hellige Boskokrator, velsign meg og sauene mine.
+
+merchant_armour.greeting=Bare de fineste rustninger og våpen!
+merchant_armour.keepstall=Velkommen, velkommen! Jeg har de beste sverdene du kan finne!
+
+merchant_dyes.greeting=Jeg kommer i farger hver dag! Vent, jeg er jo ikke inder.
+merchant_dyes.keepstall=Kom og se! Fargestoffer fra hele verden!
+
+merchant_food.greeting=Hva sier du til litt deilig souvlaki, $name?
+merchant_food.keepstall=All den maten du noen gang kunne ønske å spise!
+
+merchant_materials.greeting=Kom og kjøp de fineste byggematerialene! Ryggen min og jeg takker deg.
+merchant_materials.keepstall=Sand, stein og murstein! Diorit og kvarts!
+
+merchant_relics.greeting=Jeg selger verdifullt håndverk og hellige gjenstander, $name.
+merchant_relics.keepstall=Kom og se toppen av romersk håndverk.
+
+merchant_textiles.greeting=Seriøst, $name? Dette skinnet?
+merchant_textiles.keepstall=Moderne tepper og klær, akkurat som de har i Konstantinopel!
+
+loneabbot_byzantine.greeting=Velkommen, $name. Du kan hvile etter reisen, du er trygg her.
+lonemonk_byzantine.greeting=Jeg har ingenting å tilby deg, $name.
+
+loneabbot_byzantine.gosocialise=Jeg gleder meg til å dele studiene mine.
+
+lonemonk_byzantine.gosocialise=Jeg gleder meg til å dele studiene mine.
+lonemonk_byzantine.plantseeds=Måtte Gud velsigne disse frøene.
+lonemonk_byzantine.collectcrop=Disse avlingene er en gave fra Gud selv.
+lonemonk_byzantine.makebread=Sønnens store offer vil bli innledet med dette brødet.
+
+villager.plantseeds=Jeg har en følelse av at vi får en rik høst i år.
+villager.collectcrop=Jeg visste det! En rik høst!
+
+villager.gostudy=Vær så snill, ikke forstyrr meg, $name.
+
+villager.gotreerelax=Dette skyggefulle stedet er helt perfekt …
+villager.gotreerelax=Jeg kunne sittet under dette treet hele dagen …
+
+villager.relight=Guds kjærlighet er mitt eneste ønske!
+villager.golookout=I dag kommer det et skip. Jeg vet det.
+villager.golookout=En kjedelig jobb, men jeg blir i det minste betalt.
+villager.sellercoming=Jeg kommer straks!
+villager.tradecomplete=Tusen takk, lykke til med handelen!

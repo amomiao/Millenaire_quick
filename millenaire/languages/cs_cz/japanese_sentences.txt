@@ -1,0 +1,65 @@
+female.becomeadult=Jednou bych chtěla být matkou.
+
+male.becomeadult=Chci se stát válečníkem.
+
+villager.becomeadult=Je čas dospět.
+
+villager.bringbackresourceshome=Práce, práce, práce...
+
+villager.choptrees=Jdu pokácet pár stromů.
+
+villager.constructionstepbystep=Otec mě naučil stavět.
+villager.constructionstepbystep=Doufám, že se kami má stavba bude líbit.
+
+villager.delivergoodshousehold=Přinesl jsem jídlo z tržiště.
+
+villager.gathergoods=Potřebuji nějaké zásoby.
+
+villager.getgoodshousehold=Tohle potřebuji doma.
+
+villager.gethouseresources=Musím si něco donést z domova.
+
+villager.getresourcesforbuild=Potřebuji víc materiálu.
+
+villager.goplay=Chci si hrát.
+
+villager.childobserveagriculture=Matka říká, že pěstování rýže je důležité, ale mně to přijde tak nudné...
+villager.childobserveconstruction=Až budu velký, budu stavět pagody. Ze zlata!
+villager.childobservesmithing=Naše zbraně a zbroje vypadají nejlépe!
+villager.childobserveproducefood=Proč se tu musí všechno dělat z rýže? Rýží už jsem přesycen!
+villager.childobserveproducealcohol=Když jsem naposledy ochutnal saké, bylo mi špatně.
+
+villager.childeatapple=Tento svět je kouzelný! Jablka rostou na každém stromě!
+
+villager.maketools=Už mnoho let kovám ty nejlepší nástroje.
+
+villager.makeweapons=Tajemství nejlepších zbraní mi předal můj mistr.
+
+villager.plantsaplings=Zasadím tyto sazenice.
+
+villager.slaughterchicken=Budeš pro někoho dobrou hostinou.
+
+villager.calltoarms=Chopte se zbraní!
+villager.calltoarms=Braňte vesnici!
+villager.calltoarms=Budou litovat dne, kdy nás napadli!
+
+villager.gopray.chosen=Uklidni svou mysl.
+villager.gopray=Pomodlím se k bohyni Uga-no-Mintamě za bohatou úrodu.
+villager.gopray=Kami, ochraňuj nás před zlem.
+
+villager.gorest=Potřebuji si odpočinout.
+villager.gorest=Ach, čas jít spát.
+villager.gorest=Jsem příliš unaven.
+
+villager.greeting=Vítej.
+villager.greeting=Jak se máš, $name-san?
+villager.greeting=Dobrý den, $name-san!
+villager.greeting=Jak se máš?
+villager.greeting=Co je nového?
+villager.greeting=Těší mě.
+villager.greeting=Zdravím.
+villager.construction=Otec mě naučil umění stavět.
+villager.construction=Doufám, že kami uznají mou práci.
+villager.sellercoming=Hned jsem u tebe!
+villager.tradecomplete=Mnohokrát děkuji, přijď zas.
+

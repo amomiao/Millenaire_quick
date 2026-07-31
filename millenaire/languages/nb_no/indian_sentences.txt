@@ -1,0 +1,78 @@
+
+
+villager.greeting=Det er veldig varmt i dag.
+villager.greeting=Har alle det bra i hjemmet?
+villager.greeting=Hvordan står det til?
+villager.greeting=Hva er nytt?
+villager.greeting=Er du fra den andre siden av havet?
+villager.greeting=Vær hilset, $name-ji!
+villager.greeting=Hvorfor regner det ikke?
+pandit.greeting=Ha et langt liv.
+merchant_oriental.greeting=Fred være med deg, broder!
+merchant_adivasi.greeting=Jeg har akkurat ankommet fra skogen
+merchant_villagewoman.greeting=Å reise er tøft for en enslig kvinne
+
+male.gorest=Nå vil jeg gå og hvile meg.
+male.gorest=Jeg er sliten.
+male.gorest=Jeg har arbeidet siden i dag morges.
+
+female.gorest=Nå vil jeg gå og hvile meg.
+female.gorest=Jeg er sliten.
+female.gorest=Jeg har arbeidet siden i dag morges.
+
+villager.gopray=Gud, du er vårt eneste håp.
+villager.gopray=Kjære Gud, måtte avlingene bli gode denne gangen.
+
+lumberman.bringbackresourceshome=Det vil bli vanskelig å bære så mye tre tilbake til hjemmet.
+lumberman.choptrees=Det ser ut til at jeg vil tilbringe livet mitt med å kutte ned disse trærne.
+lumberman.gathergoods=Nå vil jeg samle sammen alt treet.
+lumberman.plantsaplings=Jo flere trær jeg planter, jo enklere blir livet senere.
+
+peasant.drybrick=Hvor mange mursteiner trenger du for å bygge et hus?
+peasant.gatherbrick=Solen er sterk, de tørker raskt i dag.
+peasant.cookbrick=Se så fint som disse mursteinene koker i ilden.
+villager.plantrice=Dersom det regner sterkt, så vil avlingene bli gode i år.
+villager.harvestrice=På grunn av de gode regnperiodene denne gangen, så er avlingene gode også.
+villager.plantturmeric=Når alt kommer til stykket, så trenger vi alle gurkemeie.
+villager.harvestturmeric=All denne høstingen av gurkemeie gjør hendene mine gule.
+peasant.slaughterchicken=Jeg har hatt nok av vegetarkarri!
+
+peasantwife.gethousethresources=Alt ender alltid opp i utleierens hus.
+peasantwife.getgoodshousehold=Uansett hvor mye du skaffer for familien, så blir det aldri nok!
+peasantwife.delivergoodshousehold=Hvordan vil jeg kunne bære all denne maten alene?
+peasantwife.makerasgulla=Barna elsker rasgulla.
+
+
+peasant.getresourcesforbuild=La meg se, et tonn med murstein, to tonn med stein.
+peasant.construction=Vår arkitektur er verdenskjent.
+peasant.construction=Når jeg blir ferdig med dette så vil jeg lage en rød festning.
+
+villager.goplay=Jeg elsker å leke med jord.
+villager.becomeadult=Nok leking, på tide å arbeide.
+male.becomeadult=Jeg ønsket å bli en stor kriger når jeg var yngre...
+female.becomeadult=Jeg drømte om å gifte meg med en prins...
+
+villager.gopray.chosen=På tide å besøke tempelet igjen.
+pandit.gopray.chosen=Hvis ikke jeg vil ta meg av tempelet, hvem vil gjøre det da?
+
+villager.calltoarms=Fienden skal beseires!
+villager.calltoarms=Seieren vil bli vår.
+villager.calltoarms=Ta opp våpen, alle sammen!
+
+smith.maketools=Alle bruker verktøyene mine, og allikevel ser alle ned på meg.
+armysmith.makeweapons=Å lage våpen er mye mer prestisjefylt enn å lage verktøy!
+sculptor.scult=Det å lage skulpturer er kunsten om hullet og klumpen.
+
+merchant_oriental.keepstall=Se Persias herligheter!
+merchant_adivasi.keepstall=Alt er avlet av familien min, dypt inne i jungelen.
+merchant_villagewoman.keepstall=Hjemmelagd mat for sultne reisende!
+peasant.slaughterchicken=Jeg hater høner. De er bråkete og duger ikke til annet enn å bli spist.
+female.sellercoming=Jeg er på vei!
+villager.childeatsugarcane=Mor sier det ødelegger tennene, men det er så godt!
+villager.childobserveagriculture=Å plante avlinger hele dagen virker så kjedelig. Jeg vil ha et liv med eventyr!
+villager.childobserveconstruction=Bygging ser ut til å være for mye arbeid for meg.
+villager.childobserveproducefood=Mor lager de beste rasgullaene.
+villager.childobservesmithing=For sterke armer!
+villager.inspectconstruction=Jeg liker å se byggmesterne våre lage så fine arbeider.
+villager.sellercoming=Jeg er på vei!
+villager.tradecomplete=Handelen er gjort, kom snart igjen.

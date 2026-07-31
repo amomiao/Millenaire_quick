@@ -1,0 +1,65 @@
+female.becomeadult=Egy nap anya szeretnék lenni.
+
+male.becomeadult=Harcos szeretnék lenni.
+
+villager.becomeadult=Ideje felnőni.
+
+villager.bringbackresourceshome=Munka, munka, munka...
+
+villager.choptrees=Megyek, kivágok néhány fát.
+
+villager.constructionstepbystep=Apám tanított meg építeni.
+villager.constructionstepbystep=Remélem, a kamiknak tetszeni fog az építményem.
+
+villager.delivergoodshousehold=Hoztam ételt a piacról.
+
+villager.gathergoods=Szükségem van némi készletre.
+
+villager.getgoodshousehold=Ezekre van szükségem otthon.
+
+villager.gethouseresources=Haza kell mennem valamiért.
+
+villager.getresourcesforbuild=Több alapanyag kell.
+
+villager.goplay=Játszani szeretnék.
+
+villager.childobserveagriculture=Anyám szerint a rizstermesztés fontos, de nekem olyan unalmasnak tűnik...
+villager.childobserveconstruction=Talán ha nagyobb leszek, pagodákat fogok építeni. Aranyból!
+villager.childobservesmithing=A mi fegyvereink és páncéljaink néznek ki a legmenőbben!
+villager.childobserveproducefood=Miért kell itt mindent rizsből készíteni? Elegem van a rizsből!
+villager.childobserveproducealcohol=Múltkor rosszul lettem a sakétól.
+
+villager.childeatapple=Ez a világ varázslatos! Minden fán nő alma!
+
+villager.maketools=Sok éve készítem a legfinomabb szerszámokat.
+
+villager.makeweapons=A legkiválóbb fegyverek titkait a mesteremtől kaptam.
+
+villager.plantsaplings=Elültetem ezeket a csemetéket.
+
+villager.slaughterchicken=Jó étkül szolgálsz majd valakinek.
+
+villager.calltoarms=Fegyvert ragadni!
+villager.calltoarms=Védjétek meg a falut!
+villager.calltoarms=Megbánják még a napot, amikor megtámadtak minket!
+
+villager.gopray.chosen=Csendesítsd el az elméd.
+villager.gopray=Imádkozom Uga-no-Mintama istennőhöz a bőséges termésért.
+villager.gopray=Kamik, óvjatok meg minket a gonosztól.
+
+villager.gorest=Pihennem kell.
+villager.gorest=Ó, ideje aludni.
+villager.gorest=Túl fáradt vagyok.
+
+villager.greeting=Üdvözöllek.
+villager.greeting=Hogy vagy, $name-san?
+villager.greeting=Jó napot, $name-san!
+villager.greeting=Hogy vagy?
+villager.greeting=Mi újság?
+villager.greeting=Örvendek.
+villager.greeting=Szervusz.
+villager.construction=Apám tanított meg az építés művészetére.
+villager.construction=Remélem, a kamik kegyesek lesznek a munkámhoz.
+villager.sellercoming=Máris jövök!
+villager.tradecomplete=Köszönöm szépen, gyere máskor is.
+

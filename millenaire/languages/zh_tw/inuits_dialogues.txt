@@ -1,0 +1,134 @@
+
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;美女，你今晚要做什麼？
+v2;40;$targetfirstname，我已經告訴過你了，我答應了另一個！
+
+
+newchat;key:beautiful,weigth:10
+v1;0;我們在哪裡？這不是我以前見過的任何地方。它看起來一樣，但感覺不同。
+v2;30;巫師們說我們在願意幫助的神靈的聖地，這就是為什麼這裡如此神奇！
+
+
+newchat;key:carribou,weigth:10
+v1;0;所有的馴鹿都在哪裡？ 我想吃馴鹿肉。
+v2;30;我們有很多次狩獵，但沒有人找到任何馴鹿。
+v2;60;我們發現了很多看起來像野牛的東西！
+v1;60;我討厭野牛，馴鹿比它好。
+v2;90;那就吃魚吧，我們有很多。
+
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;這裡沒有什麼可做的。
+v2;30;很好，很安靜。
+v1;60;還有無聊……
+v2;75;你可以挖個洞，或者造雪屋！
+v1;110;igluvijaq?! /我自己的雪屋？！
+
+
+newchat;key:endermen,weigth:10
+v1;0;你聽說過長者說那些又高、又瘦、又恐怖的人嗎？
+v2;30;他們是影子人嗎？我不知道……
+v1;60;這是有道理的！如果我們真的在一個神聖的土地上，他們會那樣變態？！
+v2;90;但是，如果我們在一個被祝福的土地上，為什麼影子人還會在這裡？
+v2;120;哦……呃，我不知道……
+
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;我喜歡食物製備者的肉香味。
+v2;30;我不知道我通常喜歡我的生肉，它改變了口味。
+v1;60;嘿，我喜歡改變口味！
+
+
+newchat;key:hunting,weigth:10
+v1;0;我又提高了我的技能。
+v2;30;你很快就會成為一個偉大的獵人！
+v1;90;你真的這麼認為嗎？
+
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;那些日本人當然知道如何準備魚！
+v2;30;"nirrimaatsiutit" iqaluk? uugitsanguivuq, ii? /“準備”魚？你的意思是他們做飯，對吧？
+v1;60;不，我的意思是他們用這些精心製作的方法和口味準備他們的食物。
+v2;90;食物可以嚐到不同的口味而不被放壞？
+v1;120;是的，下次我去的時候你應該和我一起去！
+
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;我爸爸比你強壯多了。
+v2;30;我爸爸是村裡最強壯的，你個笨蛋！
+v1;60;做夢吧。我爸爸能在兩分鐘內打敗你。
+
+
+newchat;key:kys,weigth:10
+v1;0;長者什麼時候去死？
+v2;30;我認為我們不需要在這裡做這件事，這個新的世界會更包容！
+v1;60;我猜……但是看到她還活著真是不可思議。
+
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;我喜歡雪
+v2;42;對因紐特人來說是件好事！
+
+
+newchat;key:meat,weigth:10
+v1;0;我想我們的肉店生意不景氣，我恨我們的肉用完了。
+v1;30;肉和燉肉不一樣……
+v2;60;但是大多數燉肉都有肉嗎？
+v1;90;是的，但它不一樣……
+
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;哦，看野牛在這裡多麼虛弱。
+v2;42;外國商人叫他們“牛……”
+
+//a shaman and another guy
+//alapittuk, muruaneq, qanir, aakka kikkitigaa? / 我不明白，雪在地上，雪在天上，為什麼我們不會因凍傷而死呢？
+//uqalaittuq unillarvik Sanna! / 我確信這確實是塞德娜神聖的聖地！
+
+//a shaman0 and another guy
+//alapittuk, muruaneq, qanir, aakka kikkitigaa? / 我不明白，雪在地上，雪在天上，為什麼我們不會因凍傷而死呢？
+//uqalaittuq unillarvik Sanna! / 我確信這確實是塞德娜神聖的聖地！
+
+newchat;key:murderer,weigth:10
+v1;0;你聽說他出事後發生了什麼事嗎？
+v2;30;不管是不是意外，殺人都是錯誤的。
+v1;60;是的，但是我們需要把他踢出村莊嗎？我聽說他一個人瘋了。
+v2;90;我們必須這樣做！至少這裡不冷，他不會凍死在那裡。
+v1;120;這樣好些了嗎？現在他被迫獨自生活了！
+
+
+newchat;key:normans,weigth:5
+v1;0;我遇到一些奇怪的人，他們稱自己為諾曼人？
+v2;30;是的，諾曼人很棒，但他們還需要很多。
+v1;60;你什麼意思？
+v2;90;有一次他們來了，我把我房子裡的東西都給了他，但他貌似還需要更多東西。
+v1;120;窮鬼。
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;下雪了嗎？
+v2;30;看起來像雪，但好像不冷。
+
+
+newchat;key:seasons,weigth:10
+v1;0;你認為今年的狩獵會很好嗎？
+v2;30;誰知道我們的天氣是什麼？
+v1;60;季節在這裡完全沒有意義。
+
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;我羨慕薩滿，希望我能像他們一樣說話。
+v2;30;你能看到巫師會教你嗎？
+v1;60;也許吧……但有些神靈是可怕的。
+v2;70;對，總會有可怕的神靈值得我們關注。
+
+
+newchat;key:sunset,weigth:10
+v1;0;我累了，今天過得不夠快……
+
+
+newchat;key:visitors,weigth:10
+v1;0; 這個地方很奇怪，到處都是奇怪的人。
+v2;30;你是說 $name？
+v1;60;嗯，$name 只是一個人，我指的是所有其他人。
+

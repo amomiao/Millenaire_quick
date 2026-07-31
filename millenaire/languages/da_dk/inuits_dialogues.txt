@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Nå, skønne, hvad laver du i aften?
+v2;40;$targetfirstname, jeg har jo allerede sagt det: jeg er lovet bort til en anden!
+
+newchat;key:beautiful,weigth:10
+v1;0;Hvor er vi? Det er ikke noget sted, jeg har set før. Det ligner det samme, men føles anderledes.
+v2;30;Shamanerne siger, at vi er i det velsignede land med de hjælpsomme ånder; derfor er her så fantastisk!
+
+newchat;key:carribou,weigth:10
+v1;0;Hvor er alle karibuerne? Jeg savner karibukød.
+v2;30;Vi har været på mange jagter, men ingen har fundet en eneste karibu.
+v2;60;Vi har dog fundet masser af noget, der ligner bison!
+v1;60;Ad, jeg hader bison; karibu er bedre.
+v2;90;Så spis fisk; det har vi masser af.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Der er ikke meget at lave heromkring.
+v2;30;Det er godt, fredeligt.
+v1;60;Og kedeligt ...
+v2;75;Du kunne grave et hul eller bygge en sne-iglo!
+v1;110;Min egen sne-iglo?!
+
+newchat;key:endermen,weigth:10
+v1;0;Har du hørt, hvad de ældre siger om de høje, tynde og uhyggelige folk?
+v2;30;At de er Skyggefolket? Det ved jeg nu ikke ...
+v1;60;Det giver mening, ikke? Hvis vi virkelig er i et velsignet land, ville de være forvredne på den måde!
+v2;90;Men hvis vi er i et velsignet land, hvorfor er Skyggefolket så overhovedet her?
+v2;120;Åh ... øh, det ved jeg ikke ...
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Jeg elsker duften af kød, der bliver tilberedt hos madlavningskonen.
+v2;30;Det ved jeg nu ikke; jeg foretrækker normalt mit kød råt, det ændrer smagen.
+v1;60;Hej, jeg kan godt lide den ændrede smag!
+
+newchat;key:hunting,weigth:10
+v1;0;Jeg har forbedret mine evner igen.
+v2;30;Du er hurtigt på vej til at blive en stor jæger!
+v1;90;Synes du virkelig det?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;De japanere ved virkelig, hvordan man tilbereder fisk!
+v2;30;"Tilbereder" fisk? Du mener bare, at de tilbereder den, ikke?
+v1;60;Nej, jeg mener, at de serverer deres mad med alle disse forfinede metoder og smage.
+v2;90;Kan mad smage anderledes uden bare at være fordærvet?
+v1;120;Ja, du burde komme med mig næste gang, jeg besøger dem!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Min far er meget stærkere end din.
+v2;30;Min far er den stærkeste i landsbyen, din fjols!
+v1;60;Bliv ved med at drømme. Min far kan slå din på under to minutter.
+
+newchat;key:kys,weigth:10
+v1;0;Hvornår tager den ældre afsted for at dø?
+v2;30;Jeg synes ikke, vi behøver at gøre det her; denne nye verden er meget mere imødekommende!
+v1;60;Det er nok rigtigt ... men det er underligt at se hende stadig i live.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Jeg kan godt lide sne.
+v2;42;Det er en god ting for en Inuit!
+
+newchat;key:meat,weigth:10
+v1;0;Jeg tror, vores kødlagre er ved at slippe op; jeg hader, når vi løber tør.
+v1;30;Kød er bare ikke det samme som gryderetter ...
+v2;60;Men de fleste gryderetter har vel kød i sig?
+v1;90;Jo, men det er bare ikke det samme ...
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Ad, se hvor små og svagelige bisonerne er her.
+v2;42;Den fremmede handelsmand kalder dem "køer ..?"
+
+newchat;key:murderer,weigth:10
+v1;0;Har du hørt, hvad der skete med ham efter ulykken?
+v2;30;Ulykke eller ej, det er forkert at slå folk ihjel.
+v1;60;Ja, men var vi nødt til at smide ham ud af landsbyen? Jeg har hørt, at han er blevet vanvittig alene.
+v2;90;Det var vi nødt til! I det mindste er det ikke koldt her, og han fryser ikke ihjel derude.
+v1;120;Er det bedre? Nu er han tvunget til at leve helt alene!
+
+newchat;key:normans,weigth:5
+v1;0;Jeg mødte nogle mærkelige folk; de kalder sig selv normannere?
+v2;30;Ja, normannerne er gode nok, men de har sandelig brug for meget.
+v1;60;Hvad mener du?
+v2;90;En kom forbi forleden dag, og jeg tømte mit hus for at give ham ting; han havde tilsyneladende bare brug for mere.
+v1;120;Stakkels mand.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Sner det?
+v2;30;Det ligner sne, men det føles ikke koldt.
+
+newchat;key:seasons,weigth:10
+v1;0;Tror du, jagten bliver god i år?
+v2;30;Hvem ved, med det vejr vi har haft.
+v1;60;Årstiderne giver ingen mening her.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Jeg misunder shamanerne; jeg ville ønske, jeg kunne tale med ånderne, som de gør.
+v2;30;Du kunne jo spørge, om shamanen vil lære dig det?
+v1;60;Måske ... men nogle ånder er uhyggelige.
+v2;70;Rigtigt, der vil altid være uhyggelige ånder, man skal passe på.
+
+newchat;key:sunset,weigth:10
+v1;0;Jeg er træt, dagen går ikke hurtigt nok ...
+
+newchat;key:visitors,weigth:10
+v1;0; Dette sted er underligt, det er fuldt af mærkelige folk.
+v2;30;Du mener som $name?
+v1;60;Tja, $name er jo bare én person; jeg mener alle de andre.

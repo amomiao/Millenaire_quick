@@ -1,0 +1,133 @@
+turk_boy.greeting=I will be so strong when I grow up!
+
+villager.bringbackresourceshome=It's finally time to relax.
+villager.collectcrop=Time to harvest.
+villager.plantseeds=I will plant these seeds now.
+
+turk_soldier.greeting=I'm the guard of this place. Tell me if something happens.
+
+guildmaster.greeting=I sell all kinds of artisans.
+
+turk_soldier.greeting=I was the knight of our Sultan once $name.
+turk_soldier.greeting=I only fear Allah.
+turk_soldier.greeting=Anatolia is now our home.
+turk_soldier.patrol=I serve the law.
+turk_soldier.patrol=I am the sword of the weak.
+
+turk_richwoman.greeting=Welcome to my palace.
+turk_richwoman.greeting=My old house wasn't this good.
+
+turk_lumberman.bringbackresourceshome=These woods will come in handy.
+turk_lumberman.choptrees=Give me power Allah.
+turk_lumberman.gathergoods=I might need this sapling.
+turk_lumberman.plantsaplings=I should plant this sapling.
+
+turk_miner.cooking=Time to cook.
+turk_miner.mining=The blacksmith will like these.
+turk_miner.mining=Not everyone can become a miner.
+
+orderguard.patrol=I only fear Allah!
+orderguard.calltoarms=Leave this place!
+orderguard.patrol=It's our duty to protect these places.
+orderguard.calltoarms=Gather up brothers!
+orderguard.greetings=Have a nice day.
+orderguard.greetings=It's nice to see you.
+
+merchant.keepstall=I sell every kind of luxuries!
+merchant.greeting=Anatolia is so rich!
+merchant.greeting=Come and check my products.
+
+merchant.keepstall=I have all the herbs one can ever need.
+merchant.greeting=I like anyone who likes herbs.
+
+turk_imam.gopray.chosen=Allah sees everything we do.
+turk_imam.greeting=May Allah help you.
+
+turk_armourysmith.makeseljuktools=We need these to protect ourselves.
+turk_armourysmith.makeseljukweapons=With the will of Allah this armor will protect our soldiers.
+
+
+villager.becomeadult=Time to serve my country!
+
+villager.goplay=I like to play.
+
+
+villager.brewpotions=I like being an alchemist.
+
+villager.calltoarms=To arms! Allah is with us!
+villager.calltoarms=To arms,soldiers,to arms!
+villager.calltoarms=Ya Allah!
+villager.calltoarms=Allah give us power!
+
+villager.childeatapple=Why are all apple's red?
+
+villager.childobserveagriculture=Farmers are important for our country!
+villager.childobserveconstruction=Why won't men help the women?
+villager.childobserveproducefood=I am so hungry!
+villager.childobservesmithing=That iron must be so hot!
+
+villager.godrinkayran=Can you please give me a drink?
+villager.godrinkayran=Ayran is the best drink around here.
+
+villager.gopray.chosen=It's time to pray
+villager.gopray=Allah help me.
+
+villager.gorest=I am tired.
+villager.gorest=I deserve to sleep.
+villager.gorest=Today was a good day.
+villager.gorest=I need to sleep.
+
+villager.greeting=Welcome to Anatolia!
+villager.greeting=Have a nice day.
+villager.greeting=Peace be upon you, $name!
+villager.greeting=It's nice to see you again.
+villager.greeting=Have I seen you before?
+
+villager.makewallcarpetlarge=These will look so good on the walls!
+villager.makewallcarpetsmall=These will look so good on the walls!
+villager.makewallcarpetmedium=These will look so good on the walls!
+
+villager.inspectconstruction=Our people are always hardworking!
+
+villager.makeglassbottles=This bottle will be a great use for us.
+
+
+turk_merchant_weapon.keepstall=I sell every kind of weapons.
+turk_merchant_weapon.greeting=Welcome to the shop of the best merchant around here.
+
+turk_peasantwife.delivergoodshousehold= It's also my duty to help my family.
+
+turk_peasantwife.gethousethresources=My husband is returning home with resources.
+turk_peasantwife.getresourcesforbuild=Time to get resources for building!
+
+turk_cook.makelokum=Our delights are so delicious.
+turk_cook.makepidebeef=Our Pide is so delicious.
+turk_cook.makepidemutton=Our Pide is so delicious.
+
+turk_cowfarmer.makeyogurt=It will be good together with the meal.
+
+turk_cook.makeayran=I should make ayran to keep our men refreshed.
+
+villager.construction=Help me , Allah.
+villager.construction=Woman are also important for this country!
+villager.construction=Men and women should help each other.
+
+turk_peasantwife.getgoodshousehold=Why do they send me to everything?
+
+turk_merchant_wool.keepstall=All the wools are here!
+turk_merchant_wool.greeting=Anadolunun hayvanlar için harika!/Anatolia is great for animals!
+
+ghaznavid_merchant.keepstall=Come and trade with me.
+ghaznavid_merchant.keepstall=You won't regret it if you trade with me.
+ghaznavid_merchant.greeting=I came from very far lands to trade with my Muslim brothers.
+ghaznavid_merchant.greeting=We are all brothers.#
+
+
+
+
+
+
+
+
+villager.sellercoming=I am coming right away!
+villager.tradecomplete=May you prosper, we await you again.

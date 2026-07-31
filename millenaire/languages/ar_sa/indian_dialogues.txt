@@ -1,0 +1,141 @@
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;مرّ زمن طويل منذ أن شربتُ الكحول.
+v2;50;هناك رجل يجلس تحت شجرة البانيان خارج القرية ويبيع الكحول والفول السوداني.
+v1;110;حقاً؟ ظننتُ أن بيع الكحول ممنوع في القرية!
+v2;160;لا تُخبر أحداً آخر.
+v1;200;حسناً، سنذهب إلى هناك مساء اليوم.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;هل تساءلت يوماً كيف يكون مذاق لحم البقر؟
+v2;60;لحم البقر؟ لكنّ أكله يخالف ديننا!
+v1;120;لكن لو كان لذيذاً...؟
+v2;180;هل أنت بربري نورماني؟
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;هل أحضرتَ لي بعض الألعاب؟
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;لديّ أصدقاء كثيرون.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;أمي لا تسمح لي باللعب بعد حلول الظلام.
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;أهلاً!
+v2;50;هل رأيتَ ذلك؟
+v1;100;رأيتُ ماذا؟
+v2;150;رأيتُ... زاحفاً!
+v1;200;حقاً؟
+v2;250;نعم! كان مرعباً جداً! فجّر شجرة هناك!
+v1;300;لكن مهلاً، شجرتي المفضّلة كانت هناك... وااااااا
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;أهلاً!
+v2;50;هل رأيتَ ذلك؟
+v1;100;رأيتُ ماذا؟
+v2;150;رأيتُ... زومبي!
+v1;200;حقاً؟
+v2;250;نعم! كان مرعباً جداً! حتى أنه قال لي إنه سيأكلك!
+v1;300;آهههه! ماما! زومبي سيأكلني!
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;اشترى رئيس القرية لزوجته أساور ذهبية.
+v1;60;أما أنت فلم تشترِ لي أيّ مجوهرات قطّ...
+v2;110;كان عليكِ أن تتزوجي رجلاً ثرياً.
+v1;160;لكن حينها كان عليّ دفع مهر أكبر.
+v2;200;إذن عليكِ أن تشعري بالامتنان لوجود زوج مثلي.
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;قطعتُ كمية كبيرة من الخشب اليوم.
+v2;60;ستحوّل غابتنا إلى صحراء!
+v1;120;لا تقلق، الأشجار هنا تنمو بنفسها تقريباً.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;قصري صار صغيراً جداً.
+v2;60;لكن يا مهراجا، إنه الأكبر في البلاد!
+v1;120;لكنّه يبدو صغيراً بالنسبة لي.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;الحصن القوي هو أفضل دفاع ضد أعدائنا.
+v2;60;أيّ أعداء يا جنرال؟
+v1;100;النورمان وبقية البرابرة.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;زوجي ثريّ وموقّر.
+v2;50;آه نعم! هذا صحيح.
+v1;110;ومع ذلك، لا يحضر لي شيئاً أبداً.
+v2;160;لمَ لا؟ بالأمس فقط أحضر لكِ ثلاث ساريات.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;اشترى زوجي خمسين تولا من الذهب اليوم.
+v2;60;خمسون تولا من الذهب! ليس لديّ سوى عشرة تولا...
+v1;120;لنأمل أن تكون النجوم في صفّكِ.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;حصلتُ على فرصة عظيمة لصنع التماثيل.
+v2;50;ذلك لأنك تصنع تماثيل جيدة جداً.
+v1;100;أصنع التماثيل منذ زمن.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;نحتاج إلى مزيد من المعاول.
+v2;50;أنا مشغول الآن.
+v1;100;نحتاج إلى مجارف أيضاً.
+v2;150;أوف! لديّ عمل كثير!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname، أعتقد أن هناك قطّاع طرق يتربّصون قرب قريتنا!
+v2;50;لا تقلقي، سأحمي القرية.
+v1;100;أنت قوي جداً!
+v1;130;ووسيم أيضاً.
+v1;150;لو لم يكن شاربك...
+v2;200;لا كلمة عن شاربي!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;يا سيدي، المحصول ليس جيداً هذا العام.
+v2;40;ذلك لأنك كسول! اعمل أكثر!
+v1;80;لكن لم تمطر أبداً...
+v2;120;ليس ذنبي. أريد إيجار أرضي.
+v1;170;لكن ليس لديّ مال.
+v2;210;إذن أعِد لي الأرض.
+v1;260;لكن لن يبقى لي شيء!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;اذهب، أحضر صحن قرابين للبوجا.
+v2;40;سأحضرها فوراً.
+v1;80;علينا أن نُرضي الآلهة.
+v1;130;حينها فقط سيأتي المطر في وقته.
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;لا تمطر.
+v2;30;لا تقلق. ستمطر.
+v1;60;تقول نفس الشيء كل عام...
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;ذاك التاجر يبني بيتاً جديداً بجانب بيته.
+v2;60;بيت آخر؟ لكن لمَ يحتاج إلى بيت جديد؟
+v1;90;البيت الجديد لابنه.
+v1;140;حين يتزوج ابنه، سيكون الأب والابن متجاورَين.
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;نعم! إنها تُمطر!
+v2;40;هذا القليل من المطر لن يجدي نفعاً...
+v1;80;أفضل من ألّا تمطر أبداً.
+v1;120;لكن كيف ستنمو محاصيلنا؟
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;أريد راسجولا. أشعر بجوع شديد!
+v2;60;لا. ينبغي أن تأكل الأرز فقط.
+v1;120;لكنّي أكلتُ منه هذا الصباح بالفعل!
+v1;180;وأمس، وقبل أمس...
+v2;220;وعليك أن تأكله الليلة، وغداً، ولبقية حياتك!
+
+newchat;key:sandstone,weigth:10
+v1;0;قريتنا تتقدم، أليس كذلك؟
+v2;40;لكن لا يزال هناك الكثير لإنجازه.
+v1;80;حقاً؟
+v2;100;بلا شك!
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;الجو حار جداً!
+v2;30;الحرارة تجعلني أُجَنّ.
+v1;70;متى ستمطر؟

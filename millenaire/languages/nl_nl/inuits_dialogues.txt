@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Hé schoonheid, wat doe je vanavond?
+v2;40;$targetfirstname, dat heb ik al gezegd: ik ben aan iemand anders beloofd!
+
+newchat;key:beautiful,weigth:10
+v1;0;Waar zijn we toch? Dit is een plek die ik nog nooit eerder heb gezien. Het ziet er hetzelfde uit, maar het voelt anders.
+v2;30;De sjamanen zeggen dat we in het gezegende land van de behulpzame geesten zijn, daarom is het hier zo wonderbaarlijk!
+
+newchat;key:carribou,weigth:10
+v1;0;Waar zijn alle kariboes? Ik mis kariboevlees.
+v2;30;We hebben veel gejaagd, maar niemand heeft een kariboe gevonden.
+v2;60;Wel hebben we volop dieren gevonden die op bizons lijken!
+v1;60;Bah, ik haat bison, kariboe is veel beter.
+v2;90;Neem dan vis, daar hebben we genoeg van.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Er is hier niet veel te doen.
+v2;30;Het is goed, vredig.
+v1;60;En saai...
+v2;75;Je kunt een gat graven, of een sneeuwiglo bouwen!
+v1;110;Mijn eigen sneeuwiglo?!
+
+newchat;key:endermen,weigth:10
+v1;0;Heb je gehoord wat de oudste zegt over die lange, magere, angstaanjagende wezens?
+v2;30;Dat het de Schaduwmensen zijn? Ik weet het niet...
+v1;60;Het klopt wel! Als we werkelijk in een gezegend land zijn, zouden ze zo verwrongen zijn!
+v2;90;Maar als we in een gezegend land zijn, waarom zijn de Schaduwmensen hier dan überhaupt?
+v2;120;Oh... eh, ik weet het niet...
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Ik hou van de geur van vlees dat klaargemaakt wordt door de voedselbereider.
+v2;30;Ik weet het niet, meestal eet ik mijn vlees liever rauw, het verandert de smaak.
+v1;60;Hé, ik vind die veranderde smaak juist lekker!
+
+newchat;key:hunting,weigth:10
+v1;0;Ik heb mijn vaardigheden weer verbeterd.
+v2;30;Je wordt al snel een groot jager!
+v1;90;Denk je dat echt?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Die Japanners weten zeker hoe je vis moet bereiden!
+v2;30;"Bereiden", vis? Je bedoelt gewoon dat ze hem koken, toch?
+v1;60;Nee, ik bedoel dat ze hun eten serveren met allerlei verfijnde methoden en smaken.
+v2;90;Kan eten anders smaken zonder bedorven te zijn?
+v1;120;Ja, je moet eens met me meegaan als ik daar weer langsga!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mijn papa is veel sterker dan die van jou.
+v2;30;Mijn papa is de sterkste van het dorp, sufkop!
+v1;60;Droom maar lekker verder. Mijn papa kan de jouwe in nog geen twee minuten verslaan.
+
+newchat;key:kys,weigth:10
+v1;0;Wanneer gaat de oudste weg om te sterven?
+v2;30;Ik denk niet dat we dat hier nog hoeven te doen, deze nieuwe wereld is veel gastvrijer!
+v1;60;Misschien... maar het is wel vreemd om haar nog steeds in leven te zien.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Ik hou van sneeuw.
+v2;42;Maar goed ook voor een Inuit!
+
+newchat;key:meat,weigth:10
+v1;0;Ik denk dat onze vleesvoorraad bijna op is, ik haat het als we er geen meer hebben.
+v1;30;Vlees is gewoon niet hetzelfde als stoofpot...
+v2;60;Maar in de meeste stoofpotten zit toch vlees?
+v1;90;Ja, maar het is gewoon niet hetzelfde...
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Bah, kijk eens hoe klein en ziekelijk de bizons hier zijn.
+v2;42;De vreemde koopman noemt ze "koeien..?"
+
+newchat;key:murderer,weigth:10
+v1;0;Heb je gehoord wat er met hem gebeurd is na het ongeluk?
+v2;30;Ongeluk of niet, mensen doden is verkeerd.
+v1;60;Ja, maar moesten we hem echt uit het dorp verbannen? Ik heb gehoord dat hij gek is geworden in zijn eentje.
+v2;90;Het moest! Hier is het tenminste niet koud en zal hij niet doodvriezen.
+v1;120;Is dat beter? Nu wordt hij gedwongen alleen te leven!
+
+newchat;key:normans,weigth:5
+v1;0;Ik heb een paar vreemde mensen ontmoet, ze noemen zichzelf Normandiërs?
+v2;30;Ja, de Normandiërs zijn aardig, maar ze hebben veel nodig.
+v1;60;Hoe bedoel je?
+v2;90;Er kwam er laatst een langs en ik heb mijn hele huis leeggemaakt om hem spullen te geven, en blijkbaar had hij nog steeds meer nodig.
+v1;120;Arme kerel.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Sneeuwt het?
+v2;30;Het ziet eruit als sneeuw, maar het lijkt niet koud.
+
+newchat;key:seasons,weigth:10
+v1;0;Denk je dat de jacht dit jaar goed zal zijn?
+v2;30;Wie weet, met het weer dat we gehad hebben.
+v1;60;Seizoenen kloppen hier niet.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Ik benijd de sjamanen, ik wou dat ik met de geesten kon spreken zoals zij.
+v2;30;Misschien wil de sjamaan je het leren?
+v1;60;Misschien... maar sommige geesten zijn eng.
+v2;70;Klopt, er zullen altijd enge geesten zijn waar je voor moet uitkijken.
+
+newchat;key:sunset,weigth:10
+v1;0;Ik ben moe, vandaag gaat niet snel genoeg voorbij...
+
+newchat;key:visitors,weigth:10
+v1;0; Deze plek is vreemd, hij zit vol met rare mensen.
+v2;30;Bedoel je zoals $name?
+v1;60;Nou, $name is maar één persoon, ik bedoel al die anderen.

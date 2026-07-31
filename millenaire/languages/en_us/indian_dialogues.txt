@@ -1,0 +1,267 @@
+//* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+//* First half of the line (till the /) is in the villagers' language and must be kept as-is, second part should be translated
+
+//Note to translators: the version in devanagari (Hindi script) is for reference purpose. It will not show in game.                                             
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;It's so hot!
+v2;30;The heat is driving me mad.
+v1;70;When will it rain?
+
+//कीतनी गर्मी है!
+//मैं इस गर्मी से पागल हो गया हूं |
+//बारीश कब होगी ?
+
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;It’s not raining.
+v2;30;Don't worry. It will rain.
+v1;60;You say the same thing every year...
+
+//बारिश नही हो रही है |
+//बारिश होगी| चिन्ता मत करो|
+//तुम हर साल यही कहते हो ...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Yes! It is raining!
+v2;40;Such little rain will do nothing...
+v1;80;It's better than having no rain at all.
+v1;120;But how will our crops grow?
+
+
+//अरे! बारिश हो रही है!
+//इतनी सी बारिश से क्या होगा ...        
+//सूखे से तो बेह्तर है। 
+//लेकिन फसल कैसे होगी?        
+
+newchat;key:sandstone,weigth:10
+v1;0;Our village is making progress, no?
+v2;40;But there is still a lot that must be done.
+v1;80;Really?
+v2;100;Definitely!
+
+//हमारा गांव प्रगति कर रहा है, है ना?
+//हाँ, लेकिन अभी बहुत काम बाकी है |
+//सच में?
+//बिल्कुल!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Go, get a plate of offerings for the puja.
+v2;40;I'll get it immediately.
+v1;80;We must appease the gods.
+v1;130;Only then will the rain come on time.
+
+
+//जाओ, पूजा के लिए एके थाली ले आओ|
+//तुरंत ले आता हूं |        
+//भगवान को प्रभावित करना आवश्यक है |
+//तब ही बारिश समय पर आएगी |        
+
+
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Have you ever wondered how cow meat tastes?
+v2;60;Cow's meat? But eating it is against our dharma!
+v1;120;But what if it is tasty...?
+v2;180;Are you a Norman barbarian?
+
+//कभी सोचा है, गाय का मांस का क्या स्वाद हो सकता है?
+//गाय का मांस? लेकिन यह धर्म के खिलाफ है!
+//लेकिन शायद वह स्वादिष्ट है...?        
+//क्या तुम नोरमंडी के जंगली हो
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;I want a rasgulla. I am feeling very hungry!
+v2;60;No. You should eat only rice.
+v1;120;But I ate some this morning already!
+v1;180;And yesterday, and the day before...
+v2;220;And you will have to eat it tonight, tomorrow, and for the rest of your life!
+
+//मैं रसगुल्ला चाहता हु। मुझे भूख  लग रहा है ।
+//नहीं | तुम्हे सिर्फ चावल खाना चाहिए |
+//लेकिन मैंने  सुबह ही  यह खाया है!
+//और कल भी, परसों भि…        
+//तो तुम यही आज रात को, कल, और जीवन भर खाना!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;I cut loads of wood today.
+v2;60;You'll turn our forest into a desert!
+v1;120;Don't worry, here trees grow almost by themselves.
+
+//अज मैने बहुत ज़्यादा  लकड़ी काटीं  !
+//तुम हमारे गाँव को रेगिस्तान में बदल दोगे !
+//परेशान  मत हो, यहाँ बिना कुछ किये ही पेड़ बढते हैं। 
+
+
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;My palace has become very small.
+v2;60;But Maharaj, it is the biggest in the land!
+v1;120;But to me it feels small.
+
+
+//मेरा महल बहुत छोटा हो गया है |        
+//लेकिन महाराज, यह इस क्षेत्र में सबसे बड़ा है!
+//लेकिन मुझे यह छोटा लगने लगा है |
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;A strong fort is the best defense against our enemies.
+v2;60;What enemies, General?
+v1;100;The Normans and other barbarians.
+
+//एक शक्तिशाली किले हमारे दुश्मनों के खिलाफ सबसे अच्छा बचाव है |
+//कौन से दुश्मन, सेनापति?        
+//ये नॉर्मन और अन्य जंगली लोग |        
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;My husband is rich and respectable.
+v2;50;Oh yes! It is true.
+v1;110;Yet, he never gets anything for me.
+v2;160;Why not? Just yesterday he got you three saris.
+
+//मेरा पति अमीर और प्रसिद्ध है |        
+//जी हाँ! ये सच है |
+//पर वे मेरे लिये कभी कुछ लाते नही है |
+//क्यों नहीं? कल ही उन्होंने तुम्हारे लिये तीन साड़ियाँ खरीदा थी|
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;My husband bought fifty tolas of gold today.
+v2;60;Fifty tolas of gold! I have just 10 tolas...
+v1;120;Let’s hope that the stars line up in your favour.
+
+
+//आज मेरे पति ने मेरे लिये 50 तोला सोना खरीदा |        
+//50 तोला सोना! मेरे पास सिर्फ 10 तोला सोना है ...        
+//आशा है कि सितारों तुम्हारे पक्ष में होंगे|                                
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;I have got a great opportunity to make statues.
+v2;50;That's because you make very good statues.
+v1;100;I've been making statues for quite some time.
+
+//मुझे प्रतिमाओं बनाने का अच्छा मौका मिला है|        
+//तुम बहुत अच्छे मूर्तियों बना ते हो|        
+//मैं 15 साल से मूर्ति बना रहा हूं |        
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;We need more pickaxes.
+v2;50;I am busy right now.
+v1;100;We need shovels as well.
+v2;150;Uff! I have to do so much work!
+
+//हमें और फावडों की जरूरत है |
+//मैं काम मैं व्यस्त हूँ|        
+//फावड़ियों की भी जरूरत है |        
+//उफ़फ़! मुझे कितना काम करना पडता है !        
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, I think there are bandits lurking near our village!
+v2;50;Don't worry, I will protect the village.
+v1;100;You are so strong!
+v1;130;And handsome, too.
+v1;150;If it weren't for your moustache...
+v2;200;Not a word about my moustache!
+
+
+//<targetname>, शायद गांव के निकट डाकू है!
+//चिंता मत करो, मैं गाँव की रक्षा करूंगा|        
+//तुम बहुत शक्तिशाली हो!        
+//और सुंदर भी |        
+//अगर आप के पास मूंछें न होती ...        
+//मेरी मूंछ के बारे में कुछ भी न कहो!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ My lord, the harvest is not good this year.
+v2;40;That's because you are lazy! Do more work!
+v1;80;But it hasn't rained at all...
+v2;120;It's not my fault. I want my rent money.
+v1;170;But I have no money.
+v2;210;Then give me back the land.
+v1;260;But I will have nothing left!
+
+//सेनापति, इस साल फसल अच्छी नहीं है |
+//तू आलसी है! ज्यादा काम कर!        
+//लेकिन बारिश ही नही हुई ...        
+//मेरी गलती नहीं है| मुझे अपना पैसा चाहिए |        
+//लेकिन मेरे पास पैसे नही है |        
+//फिर मुझे मेरी जमीन दो|        
+//मेरी पास कुछ भी नही रह जाएगा!        
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;That trader is building a new house next to his own.
+v2;60;Another house? But why does he need a new one?
+v1;90;The new house is for his son.
+v1;140;When his son will get married, both father and son will be next to each other.
+
+
+//वह व्यापारी अपने घर के बगल में एक नया घर बना रहे है|
+//एक और घर? पर क्यों?        
+//वह नया घर अपने बेटे के लिए है |        
+//जब उनके बेटे की शादी होगी, तब दोनों पास में होंगे |
+
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;The village chief got his wife gold bracelets.
+v1;60;But you've never gotten any jewellery for me...
+v2;110;You should have married a rich man.
+v1;160;But then I would have had to pay more dowry.
+v2;200;Then you should feel blessed to have a husband like me.
+
+//गांव के मुखिये ने अपनी पत्नी के लिये सोने के कंगन लाये|        
+//वाह! पर आप मेरे लिये कुछ नही लाते...        
+//तुम्हे एक अमीर आदमी से शादी करनी चाहए थी |        
+//लेकिन मुझे और दहेज देना पडता|                
+//फिर तुम्हे भाग्यावान लगना चाहिए की मैं तुम्हारा पति हूं|
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;I haven't had alcohol for a long time.
+v2;50;There is a man who sits under the banyan tree outside the village and sells alcohol and peanuts.
+v1;110;Really? I thought it was forbidden to sell alcohol in the village!
+v2;160;Don't tell anyone else.
+v1;200;Ok, let’s go there today in the evening.
+
+
+//मैने कई दिनों से शराब नही पिया है|
+//गांव के बहार एक आदमी शराब और मूंगफली बेचता है |
+//सच? मैंने सोचा था की गांव में शराब पर प्रतिबंध लगा दिया है|        
+//यह किसी और को मत बताना|         
+//चलो हम आज शाम को वहाँ
+//चलो, हम आज शाम को वहाँ
+
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Did you get me some toys?
+
+
+//क्या आप ने मेरे लिये खिलौने लेय?
+
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;I have many friends.
+
+
+//मेरे पास बहुत सारे दोस्त हैं |
+
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;My mother doesn't allow me to play after dark.
+
+
+//मेरी माँ शाम को खेलने नही देती है |
+
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Hello!
+v2;50;Did you see that?
+v1;100;See what?
+v2;150;I saw... a zombie!
+v1;200;Really?
+v2;250;Yes! It was so scary! It even told me that it would eat you!
+v1;300;Ahhhhh! Mommy! A zombie is going to eat me!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Hello!
+v2;50;Did you see that?
+v1;100;See what?
+v2;150;I saw... a creeper!
+v1;200;Really?
+v2;250;Yes! It was so scary! It blew up a tree over there!
+v1;300;But wait, my favorite tree was over there... WAAAAAAAA

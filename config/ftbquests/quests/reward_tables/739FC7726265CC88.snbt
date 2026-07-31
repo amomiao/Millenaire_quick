@@ -1,0 +1,23 @@
+{
+	id: "739FC7726265CC88"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "5995EC163FC9FF1D", item: { count: 1, id: "comforts:sleeping_bag_white" } }
+		{ id: "70514E3207F1E143", item: { count: 1, id: "comforts:sleeping_bag_orange" } }
+		{ id: "4C0FC8205F068298", item: { count: 1, id: "comforts:sleeping_bag_magenta" } }
+		{ id: "5161CEB784F8ADD4", item: { count: 1, id: "comforts:sleeping_bag_light_blue" } }
+		{ id: "14C3045EC821D369", item: { count: 1, id: "comforts:sleeping_bag_yellow" } }
+		{ id: "441FF458C5E1A72F", item: { count: 1, id: "comforts:sleeping_bag_lime" } }
+		{ id: "5085DABB7781D006", item: { count: 1, id: "comforts:sleeping_bag_pink" } }
+		{ id: "24F39EF1A874B5E8", item: { count: 1, id: "comforts:sleeping_bag_gray" } }
+		{ id: "63413CBF3F4B4E5C", item: { count: 1, id: "comforts:sleeping_bag_light_gray" } }
+		{ id: "6DF76A4E0E82E8DE", item: { count: 1, id: "comforts:sleeping_bag_cyan" } }
+		{ id: "2CC4B5C9B7ADE545", item: { count: 1, id: "comforts:sleeping_bag_purple" } }
+		{ id: "21078AC868609195", item: { count: 1, id: "comforts:sleeping_bag_blue" } }
+		{ id: "3FD060521640AD34", item: { count: 1, id: "comforts:sleeping_bag_brown" } }
+		{ id: "34EA029A65CC7CAF", item: { count: 1, id: "comforts:sleeping_bag_green" } }
+		{ id: "0520AEBABC92F6A8", item: { count: 1, id: "comforts:sleeping_bag_red" } }
+		{ id: "597DC3C5E93EBEF4", item: { count: 1, id: "comforts:sleeping_bag_black" } }
+	]
+}

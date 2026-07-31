@@ -1,0 +1,83 @@
+
+
+villager.greeting=Il fait très chaud aujourd'hui.
+villager.greeting=Tout le monde va bien à la maison ?
+villager.greeting=Comment vont les choses ?
+villager.greeting=Quelles sont les nouvelles ?
+villager.greeting=Venez-vous de l'autre côté de l'océan ?
+villager.greeting=Salutations, $name-ji !
+villager.greeting=Pourquoi ne pleut-il pas ?
+pandit.greeting=Ayez une longue vie.
+merchant_oriental.greeting=La paix soit avec vous, frère!
+merchant_adivasi.greeting=Je viens d'arriver de la forêt.
+merchant_villagewoman.greeting=C'est dur de voyager pour une vieille femme
+
+male.gorest=Maintenant, je vais aller me reposer.
+male.gorest=Je suis fatigué.
+male.gorest=Je travaille depuis ce matin.
+
+female.gorest=Maintenant, je vais aller me repoer.
+female.gorest=Je suis fatiguée.
+female.gorest=je travaille depuis ce matin.
+
+villager.gopray=Dieu, tu es notre seul espoir.
+villager.gopray=Dieu, faites que la récolte soit bonne, cette fois.
+
+villager.inspectconstruction=J'aime voir nos maçons produire de tels ouvrages.
+
+
+lumberman.bringbackresourceshome=Cela va être difficile de rammener tout ce bois à la maison.
+lumberman.choptrees=Il semble que je vais passer ma vie à couper ces arbres.
+lumberman.gathergoods=Maintenant, je vais rassembler tout le bois.
+lumberman.plantsaplings=Plus je plante d'arbres, plus la vie sera facile.
+
+peasant.drybrick=De combien de briques avons-nous besoin pour construire une maison ?
+peasant.gatherbrick=Le soleil est fort, elles sèchent vite aujourd'hui.
+peasant.cookbrick=Regarde comme les briques cuisent bien dans le feu.
+villager.plantrice=Il pleut à verse, la récolte sera bonne cette année.
+villager.harvestrice=À cause de bonnes pluies cette fois, la récolte sera bonne aussi.
+villager.plantturmeric=Après tout, chacun a besoin de curcuma.
+villager.harvestturmeric=Cette récolte de curcuma rend mes mains jaunes.
+peasant.slaughterchicken=J'ai eu assez de curry végétarien!
+peasant.slaughterchicken=Je déteste les poulet. Ils sont bruyants et ne font rien à part se faire manger.
+
+peasantwife.gethousethresources=Tout finit toujours dans la maison du propriétaire.
+peasantwife.getgoodshousehold=Peu importe ce que vous faite pour cette famille, ce n'est jamais assez !
+peasantwife.delivergoodshousehold=Comment vais-je transporter tout cette nourriture tout seul ?
+peasantwife.makerasgulla=Les enfants adorent les rasgullas.
+
+
+peasant.getresourcesforbuild=Voyons voir, une tonne de briques, deux tonnes de pierres...
+peasant.construction=L'architecture hindoue est renommée à travers le monde.
+peasant.construction=Quand j'en aurai fini avec ceci, je ferai un fort rouge.
+
+villager.goplay=J'aime jouer dans la boue.
+
+villager.childobserveagriculture=Cultiver des plantes toute la journée a l'air si ennuyeux. Je veux une vie d'aventures !
+villager.childobserveconstruction=La construction, c'est trop de travail pour moi.
+villager.childobservesmithing=Quels bras forts !
+villager.childobserveproducefood=Ma mère fait les meilleurs rasgullas.
+
+villager.childeatsugarcane=Maman dit que ça abîme les dents, mais c'est tellement bon !
+
+villager.becomeadult=J'ai assez joué, il est temps de travailler.
+male.becomeadult=Je voulais devenir un grand guerrier quand j'étais jeune...
+female.becomeadult=J'ai rêvé que je me mariais avec un prince...
+
+villager.gopray.chosen=Il est temps de revisiter le temple.
+pandit.gopray.chosen=Si je ne me soucie pas du temple, qui le fera ?
+
+villager.calltoarms=Battez les ennemis !
+villager.calltoarms=La victoire sera notre.
+villager.calltoarms=Que tout le monde prenne les armes !
+
+smith.maketools=Tout le monde utilise mes outils, et tout le monde me méprise.
+armysmith.makeweapons=Forger des armes, c'est tellement plus prestigieux que de fabriquer des outils!
+sculptor.scult=La sculpture est l'art du trou et de la bosse.
+
+merchant_oriental.keepstall=Regardez, les merveilles de la Perse !
+merchant_adivasi.keepstall=Tout est cultivé par ma famille, loin dans la forêt.
+merchant_villagewoman.keepstall=De la bonne cuisine familiale pour les voyageurs affamés !
+female.sellercoming=J'arrive tout de suite !
+villager.sellercoming=J'arrive tout de suite !
+villager.tradecomplete=Marché conclu, revenez nous voir.

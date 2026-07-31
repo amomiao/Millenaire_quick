@@ -1,0 +1,143 @@
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Det är så varmt!
+v2;30;Värmen gör mig galen.
+v1;70;När kommer det att regna?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Det regnar inte.
+v2;30;Oroa dig inte. Det kommer regna.
+v1;60;Du säger samma sak varje år....
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Ja! Det regnar!
+v2;40;Så lite regn gör ingen nytta...
+v1;80;Det är bättre än inget regn alls.
+v1;120;Men hur ska våra grödor gro?
+
+newchat;key:sandstone,weigth:10
+v1;0;Vår by gör framsteg, inte sant?
+v2;40;Men det är fortfarande mycket som måste göras.
+v1;80;Verkligen?
+v2;100;Definitivt!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Gå, hämta en platta med offergåvor till puja.
+v2;40;Jag hämtar den genast.
+v1;80;Vi måste blidka gudarna.
+v1;130;Endast då kommer det att regna.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Har du någonsin undrat hur nötkött smakar?
+v2;60;Nötkött? Men att äta det är emot vår dharma!
+v1;120;Men tänk om det smakar gott...?
+v2;180;Är du en normandisk barbar?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Jag vill ha rasgulla. Jag är hungrig!
+v2;60;Nej. Du borde bara äta ris.
+v1;120;Men jag har redan ätit det i morse!
+v1;180;Och i går, och dagen innan...
+v2;220;Och du kommer få äta det i kväll, imorgon, och i resten av ditt liv!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Jag har huggit mycket trä idag.
+v2;60;Du kommer att förvandla vår skog till en öken!
+v1;120;Oroa dig inte, här växer träden nästan av sig själva.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mitt palats har blivit väldigt litet.
+v2;60;Men Maharaj, det är det största i landet!
+v1;120;Men för mig känns det litet.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Ett starkt fort är bästa försvaret mot våra fiender.
+v2;60;Vilka fiender, General?
+v1;100;Normanderna och andra barbarer.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Min man är rik och respekterad.
+v2;50;Åh ja! Det är sant.
+v1;110;Ändå ger han mig aldrig något.
+v2;160;Varför inte? Bara igår fick du tre saris av honom.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Min man köpte femtio tolas guld idag.
+v2;60;Femtio tolas guld! Jag har bara tio tolas...
+v1;120;Låt oss hoppas att stjärnorna ställer sig till din fördel.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Jag har fått ett bra tillfälle att göra statyer.
+v2;50;Det är för att du gör mycket fina statyer.
+v1;100;Jag har gjort statyer ganska länge nu.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Vi behöver fler hackor.
+v2;50;Jag är upptagen just nu.
+v1;100;Vi behöver spadar också.
+v2;150;Uff! Jag har så mycket att göra!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, jag tror att det finns banditer som lurar nära vår by!
+v2;50;Oroa dig inte, jag ska skydda byn.
+v1;100;Du är så stark!
+v1;130;Och stilig också.
+v1;150;Om det inte vore för din mustasch...
+v2;200;Inte ett ord om min mustasch!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Min herre, skörden är inte bra i år.
+v2;40;Det är för att du är lat! Arbeta mera!
+v1;80;Men det har inte regnat alls...
+v2;120;Det är inte mitt fel. Jag vill ha min arrendeavgift.
+v1;170;Men jag har inga pengar.
+v2;210;Ge mig då tillbaka marken.
+v1;260;Men då har jag inget kvar!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Den köpmannen bygger ett nytt hus bredvid sitt eget.
+v2;60;Ett till hus? Men varför behöver han ett nytt?
+v1;90;Det nya huset är till hans son.
+v1;140;När hans son gifter sig kommer far och son att bo sida vid sida.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Byhövdingen gav sin fru guldarmband.
+v1;60;Men du ger mig aldrig några smycken...
+v2;110;Du skulle ha gift dig med en rik man.
+v1;160;Men då hade jag fått betala mer i hemgift.
+v2;200;Då borde du känna dig välsignad som har en man som mig.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Jag har inte druckit alkohol på länge.
+v2;50;Det finns en man som sitter under banyanträdet utanför byn och säljer alkohol och jordnötter.
+v1;110;Verkligen? Jag trodde att det var förbjudet att sälja alkohol i byn!
+v2;160;Berätta inte för någon annan.
+v1;200;Okej, vi går dit ikväll.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Har du köpt några leksaker till mig?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Jag har många vänner.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Min mamma låter mig inte leka när det börjar bli mörkt.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Hej!
+v2;50;Såg du det?
+v1;100;Se vad?
+v2;150;Jag såg... en zombie!
+v1;200;Verkligen?
+v2;250;Ja! Det var så läskigt! Den sa till och med att den ska äta dig!
+v1;300;Ahhhh! Mamma! En zombie ska äta mig!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Hej!
+v2;50;Såg du det?
+v1;100;Se vad?
+v2;150;Jag såg... en creeper!
+v1;200;Verkligen?
+v2;250;Ja! Den var så läskig! Den sprängde ett träd där borta!
+v1;300;Vänta... mitt favoritträd stod där borta... WAAAAAAA

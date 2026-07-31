@@ -1,0 +1,146 @@
+//*  Dialoglinjer begynder med en kode som "v2;30;" der angiver, hvem der taler, og hvornår linjen vises. Kopier den nøjagtigt i din oversættelse.
+//*  Første halvdel af linjen (frem til /) er på landsbyboernes oprindelige sprog og skal bevares som den er; anden halvdel skal oversættes.
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Det er så varmt!
+v2;30;Varmen gør mig vanvittig.
+v1;70;Hvornår mon det regner?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Det regner ikke.
+v2;30;Bare rolig. Det skal nok komme til at regne.
+v1;60;Det siger du hvert år ...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Det regner! Endelig!
+v2;40;Men så lidt regn nytter ikke meget ...
+v1;80;Det er bedre end slet ingen regn.
+v1;120;Men hvordan skal vores afgrøder så gro?
+
+newchat;key:sandstone,weigth:10
+v1;0;Vores landsby skrider fremad, ikke sandt?
+v2;40;Men der er stadig meget at gøre.
+v1;80;Virkelig?
+v2;100;Uden tvivl!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Gå og hent en bakke med ofringer til pujaen.
+v2;40;Jeg går straks afsted.
+v1;80;Vi må formilde guderne.
+v1;130;Kun sådan kommer regnen til tiden.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Har du nogensinde tænkt over, hvordan oksekød smager?
+v2;60;Oksekød? Men at spise det er imod vores dharma!
+v1;120;Men hvad nu, hvis det smager godt ...?
+v2;180;Er du en normannisk barbar?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Jeg vil have en rasgulla. Jeg er meget sulten!
+v2;60;Nej. Du skal kun spise ris.
+v1;120;Men jeg har allerede spist det til middag!
+v1;180;Og i går, og i forgårs ...
+v2;220;Og du skal spise det i aften, i morgen og resten af dit liv!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Jeg har fældet en masse træ i dag.
+v2;60;Du laver vores skov om til en ørken!
+v1;120;Bare rolig, her gror træerne af sig selv.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mit palads er meget lille.
+v2;60;Men Maharaja, det er det største i landet!
+v1;120;Men for mig virker det lille.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Et stærkt fort er det bedste forsvar mod vores fjender.
+v2;60;Hvilke fjender, General?
+v1;100;Normannerne og de andre barbarer.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Min mand er rig og agtværdig.
+v2;50;Åh ja! Det er sandt.
+v1;110;Men han kommer aldrig med noget til mig.
+v2;160;Hvad mener du? I går gav han dig tre saris.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Min mand købte halvtreds tolas guld i dag.
+v2;60;Halvtreds tolas guld! Jeg har kun ti ...
+v1;120;Lad os håbe, at stjernerne står gunstigere for dig.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Jeg er heldig at kunne lave alle disse statuer.
+v2;50;Det er, fordi du skulpterer dem så godt.
+v1;100;Jeg har skulpteret dem i femten år.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Vi har brug for flere hakker.
+v2;50;Jeg er optaget lige nu.
+v1;100;Vi har også brug for skovle.
+v2;150;Uff! Jeg har så meget arbejde at lave!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, jeg tror, der lurer banditter nær vores landsby!
+v2;50;Vær ikke bange, jeg skal nok beskytte dig.
+v1;100;Du er så stærk!
+v1;130;Og så flot også!
+v1;150;Hvis bare det ikke var for dit overskæg ...
+v2;200;Ikke et ord om mit overskæg!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Herre, høsten er dårlig i år.
+v2;40;Det er fordi du er doven! Arbejd hårdere!
+v1;80;Men det har slet ikke regnet ...
+v2;120;Det er ikke min skyld. Jeg vil have mine penge.
+v1;170;Men jeg har ingen penge!
+v2;210;Så giv mig mine marker tilbage.
+v1;260;Men så har jeg intet tilbage!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Købmanden bygger et nyt hus ved siden af sit eget.
+v2;60;Endnu et hus? Men hvorfor skal han have et andet?
+v1;90;Det nye er til hans søn.
+v1;140;Når sønnen bliver gift, vil far og søn bo side om side.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Landsbyens høvding har købt guldarmbånd til sin kone.
+v1;60;Men du har aldrig købt smykker til mig ...
+v2;110;Du skulle have giftet dig med en rig mand.
+v1;160;Men så skulle jeg have betalt en større medgift.
+v2;200;Så bør du være glad for at have en mand som mig.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Det er længe siden, jeg har drukket alkohol.
+v2;50;Der sidder en mand under banyantræet ved udkanten af landsbyen, der sælger alkohol og jordnødder.
+v1;110;Virkelig? Jeg troede, det var forbudt at sælge alkohol i landsbyen!
+v2;160;Sig det ikke til nogen.
+v1;200;Aftale, vi går derhen i aften.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Har du noget legetøj med til mig?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Jeg har mange venner.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Min mor lader mig ikke gå ud om natten.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Hej!
+v2;50;Så du det?
+v1;100;Så hvad?
+v2;150;En ... zombie!
+v1;200;Virkelig?
+v2;250;Ja! Den var meget skræmmende! Og den sagde endda, at den ville æde dig!
+v1;300;Ahhhhh! Mor! En zombie vil æde mig!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Hej!
+v2;50;Så du det?
+v1;100;Så hvad?
+v2;150;En ... creeper!
+v1;200;Virkelig?
+v2;250;Ja! Jeg var meget bange! Og den sprængte et træ deromme!
+v1;300;Men vent, mit yndlingstræ stod der! Waaaaaa

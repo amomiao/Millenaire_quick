@@ -1,0 +1,141 @@
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Že dolgo nisem pil alkohola.
+v2;50;Pred vasjo, pod banjanom, sedi moški, ki prodaja alkohol in arašide.
+v1;110;Res? Mislil sem, da je v vasi prodaja alkohola prepovedana!
+v2;160;Nikomur ne povej.
+v1;200;Prav, gremo tja nocoj zvečer.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Si se kdaj vprašal, kakšen okus ima goveje meso?
+v2;60;Goveje meso? Pa to je proti naši dharmi!
+v1;120;Toda kaj, če je okusno...?
+v2;180;Si normanski barbar?
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Si mi prinesel kakšne igrače?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Imam veliko prijateljev.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Mama mi po mraku ne dovoli, da bi se igral.
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Pozdravljen!
+v2;50;Si videl?
+v1;100;Kaj sem videl?
+v2;150;Videl sem... creeperja!
+v1;200;Res?
+v2;250;Da! Tako strašen je bil! Tam je razstrelil drevo!
+v1;300;A počakaj, tam je bilo moje najljubše drevo... VAAAAAA
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Pozdravljen!
+v2;50;Si videl?
+v1;100;Kaj sem videl?
+v2;150;Videl sem... zombija!
+v1;200;Res?
+v2;250;Da! Tako strašen je bil! Celo rekel mi je, da te bo pojedel!
+v1;300;Ahhhhh! Mama! Zombi me bo pojedel!
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Vaški poglavar je ženi kupil zlate zapestnice.
+v1;60;Ti pa meni nikoli nisi kupil nakita...
+v2;110;Morala bi se poročiti z bogatašem.
+v1;160;Potem bi morala plačati večjo doto.
+v2;200;Potem bodi vesela, da imaš moža, kot sem jaz.
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Danes sem nasekal veliko lesa.
+v2;60;V puščavo nam boš spremenil gozd!
+v1;120;Brez skrbi, tu drevesa rastejo skoraj sama.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Moja palača je postala zelo majhna.
+v2;60;Maharaj, vendar je največja v deželi!
+v1;120;A meni se zdi majhna.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Močna trdnjava je najboljša obramba pred sovražniki.
+v2;60;Kateri sovražniki, general?
+v1;100;Normani in drugi barbari.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Moj mož je bogat in spoštovan.
+v2;50;Oh ja! Res je.
+v1;110;Toda nikoli ne prinese ničesar zame.
+v2;160;Kako to? Včeraj vam je prinesel tri sariji.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Mož mi je danes kupil petdeset tol zlata.
+v2;60;Petdeset tol zlata! Jaz jih imam le deset...
+v1;120;Upajmo, da se ti bodo zvezde nasmehnile.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Dobil sem odlično priložnost za izdelavo kipov.
+v2;50;Saj zato, ker delaš zelo dobre kipe.
+v1;100;Že kar nekaj časa delam kipe.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Potrebujemo več krampov.
+v2;50;Trenutno sem zaseden.
+v1;100;Potrebujemo tudi lopate.
+v2;150;Uff! Toliko dela imam!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, mislim, da blizu vasi prežijo razbojniki!
+v2;50;Brez skrbi, varoval bom vas.
+v1;100;Tako močan si!
+v1;130;In tudi čeden.
+v1;150;Če le ne bi bilo tvojih brkov...
+v2;200;Niti besede o mojih brkih!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, letošnja žetev ni dobra.
+v2;40;Zato, ker si len! Delaj več!
+v1;80;A sploh ni deževalo...
+v2;120;To ni moja krivda. Hočem najemnino.
+v1;170;Ampak nimam denarja.
+v2;210;Potem mi vrni zemljo.
+v1;260;Toda potem mi ne bo ostalo nič!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Pojdi, prinesi krožnik daritev za puja.
+v2;40;Takoj ga prinesem.
+v1;80;Bogove moramo pomiriti.
+v1;130;Le tako bo dež prišel pravi čas.
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Ne dežuje.
+v2;30;Brez skrbi. Bo deževalo.
+v1;60;Vsako leto rečeš isto...
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Tisti trgovec gradi novo hišo poleg svoje.
+v2;60;Še eno hišo? Zakaj potrebuje novo?
+v1;90;Nova hiša je za njegovega sina.
+v1;140;Ko se bo sin poročil, bosta oče in sin sosed s sosedom.
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Da! Dežuje!
+v2;40;Tako šibek dež ne bo nič koristil...
+v1;80;Bolje kot brez dežja.
+v1;120;Toda kako bodo zrasli naši pridelki?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Hočem rasgulo. Tako lačen sem!
+v2;60;Ne. Jesti smeš samo riž.
+v1;120;Toda zjutraj sem ga že jedel!
+v1;180;In včeraj, in predvčerajšnjim...
+v2;220;In jedel ga boš nocoj, jutri in vse svoje življenje!
+
+newchat;key:sandstone,weigth:10
+v1;0;Naša vas napreduje, kajne?
+v2;40;A še veliko je treba narediti.
+v1;80;Res?
+v2;100;Vsekakor!
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Tako vroče je!
+v2;30;Vročina me bo spravila ob pamet.
+v1;70;Kdaj bo deževalo?

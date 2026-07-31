@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Tak, krásko, co budeš dělat dnes večer?
+v2;40;$targetfirstname, už jsem ti to říkala, jsem zaslíbená jinému!
+
+newchat;key:beautiful,weigth:10
+v1;0;Kde to jsme? Nic takového jsem ještě neviděl. Vypadá to stejně, ale cítím to jinak.
+v2;30;Sámáni říkají, že jsme v požehnané zemi laskavých duchů, proto je tu tak úžasně!
+
+newchat;key:carribou,weigth:10
+v1;0;Kde jsou všichni karibu? Chybí mi karibí maso.
+v2;30;Měli jsme mnoho lovů, ale žádný karibu jsme nenašli.
+v2;60;Zato jsme našli spoustu něčeho, co vypadá jako bizoni!
+v1;60;Fuj, bizony nemám rád, karibu je lepší.
+v2;90;Tak si dej ryby, těch máme dost.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Není tu moc co dělat.
+v2;30;Je to dobré, klidné.
+v1;60;A nudné...
+v2;75;Můžeš vykopat díru nebo postavit sněhové iglú!
+v1;110;Vlastní sněhové iglú?!
+
+newchat;key:endermen,weigth:10
+v1;0;Slyšel jsi, co říká stařešina o těch vysokých, hubených, děsivých lidech?
+v2;30;Že jsou to Stínoví lidé? Nevím...
+v1;60;Ale dává to smysl! Jestli jsme opravdu v požehnané zemi, byli by takhle pokroucení!
+v2;90;Ale když jsme v požehnané zemi, proč jsou tu vůbec Stínoví lidé?
+v2;120;Ach... no, nevím...
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Miluji vůni masa, které se vaří u kuchaře.
+v2;30;Nevím, obvykle mám raději maso syrové, mění to chuť.
+v1;60;Hej, tahle změněná chuť se mi líbí!
+
+newchat;key:hunting,weigth:10
+v1;0;Zase jsem se zdokonalil ve svých dovednostech.
+v2;30;Stáváš se rychle skvělým lovcem!
+v1;90;Opravdu si to myslíš?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Ti Japonci opravdu umí připravit ryby!
+v2;30;"Připravit" ryby? To myslíš, že je vaří, ne?
+v1;60;Ne, podávají jídlo všemi těmi propracovanými způsoby a chutěmi.
+v2;90;Jídlo může chutnat jinak, aniž by bylo zkažené?
+v1;120;Ano, příště by ses měl jít se mnou na ně podívat!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Můj táta je mnohem silnější než ten tvůj.
+v2;30;Můj táta je nejsilnější ve vesnici, ty hlupáku!
+v1;60;Sni dál. Můj táta porazí toho tvého za dvě minuty.
+
+newchat;key:kys,weigth:10
+v1;0;Kdy stařešina odejde, aby zemřela?
+v2;30;Nemyslím, že to tu musíme dělat, tento nový svět je mnohem štědřejší!
+v1;60;Asi máš pravdu... ale je divné ji vidět ještě naživu.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Mám rád sníh.
+v2;42;To se na Inuita hodí!
+
+newchat;key:meat,weigth:10
+v1;0;Myslím, že nám docházejí zásoby masa, nesnáším, když nám dojde.
+v1;30;Maso prostě není to samé co dušená jídla...
+v2;60;Ale většina dušených jídel obsahuje maso, ne?
+v1;90;Ano, ale prostě to není ono...
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Fuj, podívej, jak jsou bizoni tady malí a slabí.
+v2;42;Cizí kupec jim říká „krávy"...
+
+newchat;key:murderer,weigth:10
+v1;0;Slyšel jsi, co se mu stalo po té nehodě?
+v2;30;Nehoda nebo ne, zabíjet lidi je špatné.
+v1;60;Ano, ale museli jsme ho vyhnat z vesnice? Slyšel jsem, že se sám zbláznil.
+v2;90;Museli jsme! Aspoň tady není zima a nezmrzne tam.
+v1;120;Je to lepší? Teď je nucený žít sám!
+
+newchat;key:normans,weigth:5
+v1;0;Potkal jsem podivné lidi, říkají si Normané?
+v2;30;Ano, Normané jsou skvělí, ale potřebují opravdu hodně věcí.
+v1;60;Jak to myslíš?
+v2;90;Jeden přišel onehdy a já mu vyprázdnil dům, jen mu pořád něco chybělo.
+v1;120;Chudák.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Sněží?
+v2;30;Vypadá to jako sníh, ale nezdá se, že by byla zima.
+
+newchat;key:seasons,weigth:10
+v1;0;Myslíš, že lov letos bude dobrý?
+v2;30;Kdo ví, s tím počasím, co máme.
+v1;60;Roční doby tady nedávají smysl.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Závidím sámánům, přál bych si mluvit s duchy jako oni.
+v2;30;Mohl bys zkusit, jestli tě sámán naučí?
+v1;60;Možná... ale někteří duchové jsou strašidelní.
+v2;70;Pravda, vždycky budou strašidelní duchové, na které je třeba dávat pozor.
+
+newchat;key:sunset,weigth:10
+v1;0;Jsem unavený, dnešek se nějak vleče...
+
+newchat;key:visitors,weigth:10
+v1;0; Tohle místo je divné, je plné podivných lidí.
+v2;30;Myslíš jako $name?
+v1;60;No, $name je jen jeden, myslím všechny ty ostatní.

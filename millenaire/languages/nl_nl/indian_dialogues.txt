@@ -1,0 +1,141 @@
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Ik heb al lang geen alcohol meer gedronken.
+v2;50;Er zit een man onder de banyanboom buiten het dorp die alcohol en pinda's verkoopt.
+v1;110;Echt? Ik dacht dat het verboden was om alcohol in het dorp te verkopen!
+v2;160;Vertel het tegen niemand anders.
+v1;200;Goed, laten we er vanavond heen gaan.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Heb jij je ooit afgevraagd hoe koeienvlees smaakt?
+v2;60;Koeienvlees? Maar dat eten is tegen onze dharma!
+v1;120;Maar als het nou eens lekker is...?
+v2;180;Ben jij een Normandische barbaar of zo?
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Heb je speelgoed voor me meegebracht?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Ik heb veel vrienden.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Mijn moeder laat me 's avonds niet meer buiten spelen.
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Hallo!
+v2;50;Heb je dat gezien?
+v1;100;Wat dan?
+v2;150;Ik zag... een creeper!
+v1;200;Echt?
+v2;250;Ja! Het was zo eng! Hij liet daar een boom ontploffen!
+v1;300;Maar wacht, mijn lievelingsboom stond daar... WAAAAAAAA
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Hallo!
+v2;50;Heb je dat gezien?
+v1;100;Wat dan?
+v2;150;Ik zag... een zombie!
+v1;200;Echt?
+v2;250;Ja! Het was zo eng! Hij zei zelfs dat hij jou zou opeten!
+v1;300;Ahhhhh! Mama! Een zombie gaat me opeten!
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Het dorpshoofd heeft zijn vrouw gouden armbanden gegeven.
+v1;60;Maar jij hebt mij nooit sieraden gegeven...
+v2;110;Dan had je maar met een rijke man moeten trouwen.
+v1;160;Maar dan had ik meer bruidsschat moeten betalen.
+v2;200;Wees dan maar dankbaar dat je een man zoals mij hebt.
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Ik heb vandaag heel veel hout gehakt.
+v2;60;Je verandert ons bos nog in een woestijn!
+v1;120;Geen zorgen, hier groeien bomen bijna vanzelf.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mijn paleis is heel klein geworden.
+v2;60;Maar Maharadja, het is het grootste van het land!
+v1;120;Voor mij voelt het toch klein.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Een sterk fort is de beste verdediging tegen onze vijanden.
+v2;60;Welke vijanden, generaal?
+v1;100;De Normandiërs en andere barbaren.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mijn man is rijk en gerespecteerd.
+v2;50;O ja! Dat is waar.
+v1;110;En toch koopt hij nooit iets voor mij.
+v2;160;Hoezo niet? Gisteren nog heeft hij je drie sari's gegeven.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Mijn man heeft vandaag vijftig tola's goud gekocht.
+v2;60;Vijftig tola's goud! Ik heb er maar tien...
+v1;120;Laten we hopen dat de sterren in jouw voordeel staan.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Ik heb een mooie kans gekregen om beelden te maken.
+v2;50;Dat komt omdat je heel goede beelden maakt.
+v1;100;Ik maak al een hele tijd beelden.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;We hebben meer houwelen nodig.
+v2;50;Ik heb het nu druk.
+v1;100;We hebben ook schoppen nodig.
+v2;150;Oef! Wat een hoop werk heb ik!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, ik denk dat er bandieten rondsluipen vlak bij ons dorp!
+v2;50;Geen zorgen, ik bescherm het dorp wel.
+v1;100;Je bent zo sterk!
+v1;130;En knap ook.
+v1;150;Als die snor er nou maar niet was...
+v2;200;Geen woord over mijn snor!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Heer, de oogst is dit jaar niet goed.
+v2;40;Dat komt omdat je lui bent! Werk harder!
+v1;80;Maar het heeft helemaal niet geregend...
+v2;120;Dat is mijn schuld niet. Ik wil mijn pachtgeld.
+v1;170;Maar ik heb geen geld.
+v2;210;Geef me dan het land terug.
+v1;260;Maar dan blijft er voor mij niets over!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Ga, haal een schaal met offergaven voor de poedja.
+v2;40;Ik ga er meteen heen.
+v1;80;We moeten de goden gunstig stemmen.
+v1;130;Alleen dan komt de regen op tijd.
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Het regent niet.
+v2;30;Geen zorgen. Het gaat regenen.
+v1;60;Dat zeg je elk jaar...
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Die handelaar bouwt een nieuw huis naast het zijne.
+v2;60;Nog een huis? Maar waarom heeft hij een nieuw nodig?
+v1;90;Het nieuwe huis is voor zijn zoon.
+v1;140;Als zijn zoon getrouwd is, wonen vader en zoon naast elkaar.
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Ja! Het regent!
+v2;40;Met zo'n beetje regen schiet je niets op...
+v1;80;Het is beter dan helemaal geen regen.
+v1;120;Maar hoe moeten onze gewassen zo groeien?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Ik wil een rasgulla. Ik heb heel veel honger!
+v2;60;Nee. Je hoort alleen rijst te eten.
+v1;120;Maar daar heb ik vanochtend al van gehad!
+v1;180;En gisteren, en eergisteren...
+v2;220;En je gaat het vanavond eten, morgen, en de rest van je leven!
+
+newchat;key:sandstone,weigth:10
+v1;0;Ons dorp gaat vooruit, vind je niet?
+v2;40;Maar er moet nog veel gebeuren.
+v1;80;Echt?
+v2;100;Absoluut!
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Wat is het heet!
+v2;30;Ik word gek van de hitte.
+v1;70;Wanneer gaat het regenen?

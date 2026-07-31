@@ -1,0 +1,338 @@
+//* Řádky dialogů začínají kódem ve stylu "v2;30;", který určuje, kdo mluví a kdy se replika objeví. Tento kód prosím přesně okopírujte do překladů.
+//* První polovina řádku (až po /) je v jazyce vesničanů a musí zůstat beze změny, druhou polovinu je třeba přeložit.
+//* Francouzsky xIflot, anglicky Teethdude, mayskou verzi TheyCallMePoncho
+
+
+
+newchat;key:stone,weigth:10;
+v1;0;Kámen je nejlepší materiál, jaký kdy existoval.
+v2;30;A když je upečený, je ještě lepší! Ať žije kámen!
+v1;60;Musíme ho dolovat! Do práce!
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Naše pyramida je nejkrásnější a nejlépe postavená.
+v2;30;To určitě. Byl jsem se podívat do jiných vesnic. Jejich pyramidy jsou taky pěkné, ale té naší se nevyrovnají!
+v1;60;Vskutku! Naše architektura je velmi původní a jedinečná.
+v2;90;Tak se moc nechvalme. Nechci být jako ti nafoukaní Byzantinci.
+v1;120;Ach ano, ti… nesnáším je. Jak může být někdo tak namyšlený!
+
+newchat;key:player,weigth:10;
+v1;0;Návštěvníků tu moc nechodí.
+v2;30;Jo, jenom $name a další zbloudilci…
+v1;60;Když mluvíme o $name, nezdá se ti, že je čím dál podivnější a unavenější?
+v2;90;Pravda. Měl by si odpočinout.
+
+newchat;key:miner,weigth:9;
+v1;0;Měli bychom najmout víc horníků.
+v2;30;Ano! Kámen, skála a rudy jsou nejlepší materiály, co existují.
+v1;60;Souhlasím… ale ve vesnici nás není dost, musíme se rozrůst.
+v2;90;A děti pracovat nemůžou. Jsou ještě moc malé.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Je čas postarat se o dům.
+v2;30;Ale to už jsi dělala včera!
+v1;60;Stejně tu nesmím dělat nic jiného.
+v2;90;Co to povídáš! Pořád si jen stěžuješ!
+v1;120;Místo abys mi vyčítal, že si stěžuju, zkus pochopit, proč si stěžuju!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Á, můj dobrý příteli $targetfirstname! Jak se ti vede?
+v2;30;Zdravím $targetfirstname! Drží mě to při životě. S obchody je to špatné.
+v1;60;Cože? Přestal jsi prodávat kámen Indům?
+v2;90;Ano. Teď, když japonští horníci na volné noze nabídli své služby, mě už nepotřebují.
+v1;120;Tak jim musíš nabídnout něco jiného.
+v2;150;Máš nějaké nápady?
+
+newchat;key:monster,weigth:5;
+v1;0;V poslední době je tu spousta příšer.
+v2;30;Doufám, že je naše stráže zvládnou odrazit.
+v1;60;Mě znepokojuje, kdyby na nás zaútočila horda těch zelených výbušných stvoření…
+v2;90;Neboj se. Máme proti nim návnady.
+v1;120;Máš pravdu. V nejhorším je tu $name. Dobře se bije a určitě nás ubrání.
+v2;150;Taky o tom nepochybuju. Nezdá se být tak špatný.
+
+newchat;key:normands,weigth:6;
+v1;0;Viděl jsi tu pleť Normanů? Jsou úplně bledí!
+v2;30;Ach ano! Takovou barvu jsem nikdy předtím neviděl. Je to zvláštní.
+v1;60;Skoro to vypadá, jako by byli prokletí…
+v2;90;Nemluv nesmysly. Jsou to lidé jako ostatní.
+v1;120;Nejspíš to alkohol je tak změnil. Určitě nebyli vždycky bílí.
+v2;150;Ale jdi, mýlíš se.
+
+newchat;key:alchimist,weigth:4;
+v1;0;Když jsem prozkoumával les, viděl jsem podivného alchymistu…
+v2;30;Tys ho taky viděl? Je úžasně divný.
+v1;60;A jak. Vyjmenovával divné přísady. Víš, co je to „lebka vyschlého kostlivce"? A „duší písek"?
+v2;90;Nevím. Ale moc uklidňující to není.
+v1;120;Ano! Říká se, že se snaží vyrobit kámen mudrců.
+v2;150;Můj milý $targetfirstname, jestli věříš zdejším drbům, hrozí, že uvěříš i tomu, že je Země kulatá.
+v1;180;Asi máš pravdu.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Uprostřed pouště jsem viděl podivné černé vejce.
+v2;30;Vážně? A jak vypadalo?
+v1;60;Bylo velké s fialovými skvrnami. Vážně velké.
+v2;90;Šels pít normanský alkohol, nebo si ze mě děláš srandu?
+v1;120;Ale… je to pravda! Nelžu!
+v2;150;Haha! Jestli si myslíš, že mě takhle nachytáš, mýlíš se!
+
+newchat;key:wither,weigth:3;
+v1;0;V lese jsem viděl divné černé stvoření.
+v2;30;Vážně? Popiš mi ho, jsem zvědavý!
+v1;60;No, byla to taková černá kostlivčí postava. Měla dvě hlavy na koncích paží a jednu na krku. A pohled studený jako led…
+v2;90;Z toho mi běhá mráz po zádech.
+v1;120;Útočili na ni Lidé z Mlhy.
+v2;150;Lidé z Mlhy? Ale jdi, ti přece neexistují! To se ti muselo zdát.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;Měli bychom postavit pekárnu. Pomohlo by to našemu obchodu!
+v2;30;Pravda. Domácím chlebem se víc spokojit nemůžeme.
+v1;60;Pojďme si promluvit s vůdcem.
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Můj táta je nejlepší, protože je drvoštěp!
+v2;30;Pche! Dřevo je k ničemu! Můj je lepší než tvůj, protože je horník!
+v1;60;Bez dřeva by tvůj táta nebyl k ničemu!
+v2;90;Jo? Hledáš si bitku?!
+v1;120;Přestaň, kámen je k ničemu, to musíš uznat.
+v2;150;Bez kamene by tvůj táta spal pod širákem!
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Bojím se, že vyrostu…
+v2;30;Proč?
+v1;60;No protože… je tam moc práce a už si nemůžeme hrát…
+v2;90;Ale ne. Uvidíš, bude to skvělé!
+v1;120;Ne… nechci, nechci, nechci!
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;Táta a máma jsou nespravedliví! Pořád si musíme uklízet pokoj!
+v2;30;Jo! Měli bychom se vzbouřit a žádat lepší zacházení!
+v1;60;Do útoku! Vzhůru na mámu!
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Hej, $targetfirstname, podívej se na tohle.
+v2;30;Zvláštní meč! A zvláštní luk! Kdes to sehnal?
+v1;60;Je to luk yumi a tachi. Japonské zbraně.
+v2;90;Jsou krásné a vypadají účinně. Jsou drahé?
+v1;120;A jak! Za samotný luk jsem utratil dva stříbrné!
+v2;150;Páni! To sis musel pořádně našetřit, než sis je koupil.
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Dobrý den, pane $targetlastname. Tak co, naše dohoda platí?
+v2;30;Ano, ano. Mám všechno. Uděláme to, jak jsme se domluvili.
+v1;60;Vždycky přesný! Rád s vámi obchoduji!
+v2;90;Ki'imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! / Potěšení je celé na mé straně. Tak… 32 klád za 8 železných ingotů. A je to!
+v1;120;Mnohokrát děkuji, pane. Hezký den.
+v2;150;Vám taky, pane $targetlastname!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Najímám tě, abys mě chránil, za 48 denárů denně.
+v2;30;Hmmm. Záleží, na jak dlouho mě najímáš, $targetfirstname.
+v1;60;Na šest dní. Mí psi nestačí na úplnou ochranu.
+v2;90;Tak to bude stříbrný denár. Méně ne.
+v1;120;To je loupež!
+v2;150;Vůbec ne, $targetfirstname. V téhle práci riskuju život.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Pokusím se vypěstovat rýži.
+v2;30;Rýži? Co to je?
+v1;60;Rostlina, kterou jsem koupil od Indů. Prý je výborná.
+v2;90;Můžu ochutnat?
+v1;120;Promiň, ale ne. Potřebuju ji, musím zasadit každé zrnko.
+v2;150;Nepovede se ti to.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;Pamatuješ si tu poslední bouři?
+v2;30;A jak! Naše úroda se napila, ale byla děsivá.
+v1;60;No, byl jsem na pláni vedle a kousek ode mě stálo prase.
+v2;90;A pak?
+v1;120;Udeřil do něj blesk a… postavilo se na zadní…
+v2;150;Vážně?! A jak vypadalo?
+v1;180;Mělo na sobě zelenou plíseň… nebo nevím, co to bylo. A taky zlatý meč.
+v2;210;Zaútočils na něj, nebo jsi utíkal?
+v1;240;Neměl jsem zbraň. Ale vypadalo to, že na mě útočit nechce. Dívalo se na mě, otáčelo hlavou a pak se potulovalo dál, jako by nevědělo, kam jde.
+v2;270;Měls použít oheň. Co když napadne vesnici?
+v1;300;Oheň mu nic nedělal. Blesk do něj uhodil ještě jednou a vůbec nic necítilo.
+
+newchat;key:recolt,weigth:10;
+v1;0;Úroda je letos bohatá.
+v2;30;Ano, ale stěžovat si by byla hloupost.
+v1;60;Samozřejmě!
+
+newchat;key:village,weigth:8;
+v1;0;Naše vesnice se mi zdá krásná.
+v2;30;Mně taky. Je velmi umělecká.
+v1;60;Díky kameni a našemu mistrovství v architektuře.
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Tolik kukuřice ke sklizni, a tak málo času…
+v2;30;Ano, a přál bych si, aby nám zůstal podíl ze sklizně.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name je dost zvláštní.
+v2;30;Ještě zvláštnější než Normané.
+v1;60;Ale odkud pochází?
+v2;90;Nejsem si jistý, nezdá se být z žádné konkrétní kultury.
+
+newchat;key:byzantins,weigth:9;
+v1;0;Ty Byzantince fakt nesnáším, myslí si, že jim patří celá Země!
+v2;30;A viděls jejich stavby?
+v1;60;Ano, viděl. Jsou opravdu zvláštní.
+v2;90;Cihly? Jaký to má smysl!
+v1;120;Dokonce používají i sklo, jako Normané.
+v2;150;Pravda, ale zdají se pokročilejší než Indové. Ti nemají v oknech nic.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;Mami! Můžu si jít hrát dál do vesnice?
+v2;30;Ne, dítě moje, nechci, aby ses zranilo.
+v1;60;Zranit čím? Tam venku to není nebezpečné.
+v2;90;Poslouchej, jsou tam nebezpečná stvoření…
+v1;120;J-jaká stvoření, mami?
+v2;150;Hrozné věci jako… creepeři.
+v1;180;C-c-creepeři?
+v2;210;Ano, dítě moje, půjdou za tebou až domů a vybuchnou ti vedle, když to nejmíň čekáš.
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Stát se válečníkem bylo nejlepší rozhodnutí mého života.
+v2;30;Proč?
+v1;60;Protože můžu vyjít ven a bojovat s nepřáteli. Je to zábavnější než sklízet kukuřici.
+v2;90;Ale můj život je bezpečnější.
+v1;120;Pravda, ale já vždycky toužil po vzrušení.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;Až vyrostu, chci být jako můj otec!
+v2;30;Slaboch?
+v1;60;Cože? Není žádný slaboch.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;To je jisté, život v mém paláci je nádherný.
+v2;30;A je to nádherný palác, můj vůdce!
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;Čím chceš být, až vyrosteš?
+v2;30;Nevím, možná válečníkem, nebo horníkem… nebo třeba sedlákem…
+v1;60;Dobrá, jednou se budeš muset rozhodnout.
+
+newchat;key:wah,weigth:9;
+v1;0;Miluju jíst Wah.
+v2;30;Já taky! Je to ta nejlepší věc, co kdo vymyslel.
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;Potřebujeme déšť pro kukuřici.
+v2;30;Přála bych si, aby pršelo.
+v1;60;Možná, když se budeme modlit, sešlou nám Duchové déšť, abychom letos měli skvělou úrodu!
+v2;90;Ano, půjdeme tam, jakmile nebudeme moc zaneprázdněné.
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;Co budeme dělat, když nás přepadne horda zombíků?
+v2;30;Neboj se, jsem nejlépe vycvičený válečník široko daleko.
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Bohaté ženy mají všechno, a přitom nepracují.
+v2;30;Ano, taky bych chtěla nemuset pracovat.
+v1;60;Věděla jsem, že jsem si měla vzít bohatšího muže.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Doufám, že jednou budu vládnout téhle vesnici.
+v2;30;Tak si dál sni, protože nahoře budu dřív já.
+v1;60;Uvidíme… uvidíme.
+
+newchat;key:indians,weigth:8;
+v1;0;Indové vypadají mírumilovněji než Normané, ne?
+v2;30;Ano, možná bychom se s nimi měli spojit.
+v1;60;Hmm… ano, pak bychom společně mohli zaútočit na Normany! Nebo i na Byzantince.
+
+newchat;key:gravity,weigth:7;
+v1;0;Dny jsou v těchhle končinách kratší.
+v2;30;Ano, a země občas vypadá, jako by se vznášela.
+v1;60;Až na štěrk… a písek.
+v2;90;Zajímalo by mě proč.
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Obsidiánové nástroje jsou nejvybroušenější.
+v2;30;Tak luxusní, a přitom je může mít každý.
+v1;60;Palcát se skvěle hodí na rozdrcení nepřítele.
+v2;90;Vážně? Strašně rád bych takový viděl v akci.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Mayská architektura je nejpevnější na světě.
+v2;30;Díky všemu tomu kameni, který dolujeme, abychom z něj postavili takové krásy.
+v1;60;Zajímalo by mě, kolik dalších kamenných domů ještě postavíme.
+v2;90;Chéen k'iin a'al, amikoo. / Jen čas to ukáže, příteli.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;Tady je málo kakaovníků. Tohle místo je nezdravé.
+v2;40;Tak nějaké zasaďme.
+v1;80;To se ti řekne! Kakaová zrnka jsou strašně drahá!
+v2;120;Ek Chuah nám pomůže.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;Nemáme dost slepic na obětování.
+v2;40;Zdá se mi, že jsem potkal $name. Kupme od něj vejce.
+v1;90;Máš pravdu, uděláme to tak.
+
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Díky Ah Munovi a Ghananovi máme dobrou úrodu. Sláva jim!
+v2;30;Poděkujeme jim při modlitbě.
+v1;80;Co bychom jim mohli nabídnout?
+v2;120;Nebuď hloupý! Naši krev, samozřejmě!
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac se hněvá. Je špatné počasí.
+v2;40;Málo se k němu modlíme.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Cože? $name má jen jednoho boha?
+V2;35;Vypadá to, že naše náboženství nebere vážně…
+v1;75;Ale jdi. Není takový hlupák, aby nevěřil v naše bohy.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Víra je naše jediná zbraň v těchto podivných končinách.
+v2;40;Vzhledem k naší situaci musíme potrestat ty, kdo urážejí naše bohy.
+v1;80;Nesmíme je rozhněvat.
+
+newchat;key:poktapok,weigth:7;
+v1;0;Miluju Pok-ta-Pok!
+v2;40;Já taky! Je to jedno z mála zdejších rozptýlení.
+v1;80;Pravda. Je nuda… a ztratil jsem poslední míč!
+
+newchat;key:year,weigth:5;
+v1;0;Věděli jsme dřív než kdokoli jiný, že rok trvá přesně 365,2420 dnů.
+v2;40;Jsme dobří ve všech oborech: v matematice, umění, zeměpisu…
+
+newchat;key:puja,weigth:6;
+v1;0;Byl jsi na modlitbě?
+v2;35;Samozřejmě! Pravý Maya tam musí jít!
+v1;80;Haha! Máš pravdu! Jakou hloupou otázku jsem to položil.
+
+newchat;key:endofworld,weigth:3;
+v1;0;Naši šamani a astrologové něco viděli.
+v2;40;Vážně? Co?
+v1;80;Vidí důležitou událost v roce 2012.
+v2;120;Páni! Nemyslíš, že plánují trochu moc dopředu?
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;„Xaire? Co to znamená ‚xaire'?"
+v1;70;Slyšel jsem, jak mě tak pozdravil jeden Byzantinec.
+v2;110;Ale jdi. Jsi Maya. Pozdrav nás v naší řeči.
+v1;150;Pravý Maya musí mít znalosti ve všech oborech.
+v2;200;Uznávám, že je dobré umět víc jazyků, ale takhle ve vesnici mluvit nebudeš!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Při příští modlitbě se obětně poranme.
+v2;40;Já už to udělal. Ty ne?
+v1;80;J-j-já si svou krev radši nechám…
+v2;120;A je to tu zas! Pokaždé, když vypadáš odhodlaně, si to rozmyslíš!
+v1;160;Ale já nechci! Nechci!
+v2;200;Ty odmítáš ctít naše bohy?!
+
+newchat;key:cacao,weigth:6;
+v1;0;Kakao je tak zdravé a chutné…
+v2;40;Zdravé možná! Ale chutné určitě ne! Wah je mnohem lepší.
+v1;80;Kakao je oblíbené jídlo bohů. Jez radši to, co ti nabízejí.
+
+newchat;key:reborn,weigth:7;
+v1;0;Jaký nádherný motýl tam letí. Možná je to náš přítel, obětovaný před čtyřmi roky?
+v2;40;Spíš bych řekl, že je to kolibřík!
+v1;80;To se my nedozvíme.

@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Cóż, piękna, co robisz dziś wieczorem?
+v2;40;$targetfirstname, już ci mówiłam, jestem obiecana komu innemu!
+
+newchat;key:beautiful,weigth:10
+v1;0;Gdzie my jesteśmy? Nigdy wcześniej takiego miejsca nie widziałem. Wygląda tak samo, a czuje się inaczej.
+v2;30;Szamani mówią, że jesteśmy w błogosławionej krainie życzliwych duchów, dlatego jest tu tak niezwykle!
+
+newchat;key:carribou,weigth:10
+v1;0;Gdzie się podziały wszystkie karibu? Tęsknię za ich mięsem.
+v2;30;Mieliśmy wiele polowań, lecz nikt nie znalazł karibu.
+v2;60;Za to znaleźliśmy pełno czegoś, co wygląda jak bizony!
+v1;60;Fuj, nie lubię bizona, karibu lepsze.
+v2;90;To jedz rybę, mamy jej mnóstwo.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Nie ma tu zbyt wiele do roboty.
+v2;30;To dobrze, spokojnie.
+v1;60;I nudno...
+v2;75;Mógłbyś wykopać dziurę albo zbudować śnieżne igloo!
+v1;110;Moje własne śnieżne igloo?!
+
+newchat;key:endermen,weigth:10
+v1;0;Słyszałeś, co starszyzna mówi o tych wysokich, chudych, strasznych istotach?
+v2;30;Że to Ludzie Cienia? Nie wiem...
+v1;60;A jednak to ma sens! Skoro naprawdę jesteśmy w błogosławionej krainie, byliby właśnie tak wykrzywieni!
+v2;90;Ale jeśli to ziemia błogosławiona, to czemu Ludzie Cienia w ogóle tu są?
+v2;120;Och... ee, nie wiem...
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Uwielbiam zapach pieczonego mięsa u kuchcika.
+v2;30;Nie wiem, ja zwykle wolę mięso na surowo, to zmienia smak.
+v1;60;Hej, mnie ten zmieniony smak akurat odpowiada!
+
+newchat;key:hunting,weigth:10
+v1;0;Znów się podszkoliłem.
+v2;30;Szybko stajesz się wielkim myśliwym!
+v1;90;Naprawdę tak myślisz?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Ci Japończycy naprawdę wiedzą, jak przyrządzić rybę!
+v2;30;"Przyrządzić" rybę? Chodzi ci o to, że ją gotują?
+v1;60;Nie, podają jedzenie z całą paradą wymyślnych metod i smaków.
+v2;90;Jedzenie może mieć inny smak bez tego, by się popsuło?
+v1;120;Tak, powinieneś następnym razem pójść ze mną do nich!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mój tata jest dużo silniejszy od twojego.
+v2;30;Mój tata jest najsilniejszy w całej wiosce, głupku!
+v1;60;Pomarzyć dobra rzecz. Mój tata pobije twojego w dwie minuty.
+
+newchat;key:kys,weigth:10
+v1;0;Kiedy starsza wyruszy, by umrzeć?
+v2;30;Nie sądzę, byśmy musieli to tutaj robić, ten nowy świat jest dużo łaskawszy!
+v1;60;Pewnie tak... ale dziwnie ją widzieć wciąż przy życiu.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Lubię śnieg.
+v2;42;Dobrze trafiło na Inuitę!
+
+newchat;key:meat,weigth:10
+v1;0;Chyba kończą się nam zapasy mięsa. Nienawidzę, kiedy się nam wyczerpuje.
+v1;30;Samo mięso to nie to samo co gulasz...
+v2;60;Ale większość gulaszów ma w sobie mięso?
+v1;90;Tak, ale to nie to samo...
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Fuj, popatrz, jakie małe i chudzielce są tu te bizony.
+v2;42;Cudzoziemski kupiec mówi na nie "krowy...?"
+
+newchat;key:murderer,weigth:10
+v1;0;Słyszałeś, co się z nim stało po wypadku?
+v2;30;Wypadek czy nie, zabijanie ludzi jest złe.
+v1;60;Tak, ale czy trzeba było wyrzucać go z wioski? Słyszałem, że oszalał, sam jeden.
+v2;90;Musieliśmy! Przynajmniej tu nie ma mrozu i nie zamarznie na śmierć.
+v1;120;Czy to lepiej? Teraz jest zmuszony żyć w samotności!
+
+newchat;key:normans,weigth:5
+v1;0;Spotkałem dziwnych ludzi, nazywają się Normanowie?
+v2;30;Tak, Normanowie są w porządku, ale wiele potrzebują.
+v1;60;Co masz na myśli?
+v2;90;Któryś wpadł na dniach, opróżniłem mu cały dom z rzeczy, a on i tak ciągle czegoś żądał.
+v1;120;Biedaczyna.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Czy pada śnieg?
+v2;30;Wygląda jak śnieg, ale nie wydaje się zimno.
+
+newchat;key:seasons,weigth:10
+v1;0;Myślisz, że łowy w tym roku będą udane?
+v2;30;Kto wie, przy takiej pogodzie.
+v1;60;Pory roku nie mają tu sensu.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Zazdroszczę szamanom, chciałbym móc rozmawiać z duchami tak jak oni.
+v2;30;Może spróbujesz zapytać szamana, czy cię nauczy?
+v1;60;Może... ale niektóre duchy są straszne.
+v2;70;To prawda, zawsze będą jakieś straszne duchy, na które trzeba uważać.
+
+newchat;key:sunset,weigth:10
+v1;0;Jestem zmęczony, dzień się dziś dłuży...
+
+newchat;key:visitors,weigth:10
+v1;0; To dziwne miejsce, pełne dziwnych ludzi.
+v2;30;Masz na myśli kogoś takiego jak $name?
+v1;60;Cóż, $name to tylko jedna osoba, mam na myśli całą resztę.

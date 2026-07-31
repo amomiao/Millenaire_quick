@@ -1,0 +1,397 @@
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Jeg kjenner at det kommer til å regne.
+v2;30;Det regnet alltid i Normandie...
+
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Landsbyen vår er vakker, synes du ikke?
+v2;30;Praktfull! Og vi arbeider hardt for det!
+
+newchat;key:sunset,weigth:10
+v1;0;Hvor stiger solen opp, igjen? Jeg glemmer det støtt.
+v2;30;I nord, så klart!
+
+newchat;key:harvest,weigth:10
+v1;0;Tror du avlingen blir god i år?
+v2;30;Hvem vet, med slikt vær som har vært.
+v1;60;Det finnes ingen årstider lenger.
+
+newchat;key:indianfood,weigth:5
+v1;0;Har du hørt om inderne?
+v2;30;Det sies at de er svært underlige.
+v1;60;Jeg har til og med hørt at maten deres brenner!
+v2;100;Som calva?
+v1;120;Nei, verre!
+
+
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Disse bysantinerne irriterer meg!
+v2;30;Ja, så du hvor høyt på strå de tar seg?
+v1;60;Alt fordi de påstår å være romere.
+v2;100;Hvilken spøk. Degenererte romere, da.
+v1;130;Vi burde slå et tokt mot dem.
+v2;160;Vi er vikinger, tross alt!
+
+newchat;key:storm,weigth:10
+v1;0;Det var et forferdelig uvær i går.
+v2;30;Ja, jeg trodde taket skulle blåse av.
+v1;60;Vi burde forsterke dem alle.
+
+newchat;key:visitors,weigth:10
+v1;0;Det vi mangler her, er besøkende.
+v2;30;Det er da $name...
+v1;60;Ja, men han er litt rar, ikke sant?
+v2;100;Det er sant at man aldri vet hva han finner på.
+
+newchat;key:christmas,weigth:10
+v1;0;Når er det jul, igjen?
+v2;30;Jeg vet ærlig talt ikke... Årstidene skifter ikke her.
+v1;80;For en underlig verden likevel.
+v2;110;Stundom ligner det nesten på Normandie...
+v2;140;Og så minnes vi at alt er annerledes.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Har du noensinne sett hertug Vilhelm?
+v2;30;Nei, aldri. Og hvem vet hvor han er nå?
+v1;60;Var han her, ville vi alt ha erobret denne nye verden!
+v2;100;Leve hertug Vilhelm!
+
+
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Har du lagt merke til at jorden her svever om vi graver under den?
+v2;40;Ja, og så?
+v1;60;I Normandie falt den...
+v2;90;I Normandie ville Gud at den skulle falle. Her vil han at den skal sveve.
+v2;150;Hvorfor kritiserer du Gud?
+
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Jeg liker regn godt.
+v2;30;En god ting for en normanner!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Hva foretrekker du, boudin eller tripes?
+v2;40;Boudin. Tripes er for tunge.
+v1;80;For tunge? Og du kaller deg normanner?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Dette landet mangler dyr.
+v2;30;Det er kuer, sauer og griser.
+v2;60;Hva mer trengs?
+v1;60;Hester? Og ponnier!
+v2;90;Så du vil ha en ponni nå, du?
+
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Tripes, det er en manns rett.
+v2;30;Tilberedt av kvinner...
+v1;60;Men med kuer slaktet av menn!
+v2;100;Og fôret av kvinner...
+
+newchat;key:countingcows,weigth:10
+v1;0;Det er ingenting å finne på her.
+v2;30;Det er fint, det er fredelig.
+v1;60;Og kjedelig...
+v2;75;Du kan jo telle kuene for å fordrive tiden.
+v1;110;Det gjorde jeg i går. Og kyllingene også.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;For en avkrok, likevel. Jeg skulle gjerne ha sett noe annet en dag...
+v2;30;De andre landsbyene er alle like.
+v1;60;Ikke en landsby! En by. Eller til og med en stor by!
+v2;90;Som hva da, Rouen? Du er gal, det er flere dager unna.
+v1;120;Rouen... eller kanskje... Hvorfor ikke Paris?
+v1;150;Tenk deg det, de sier at det skal være 25 000 mennesker der!
+v2;180;Du går fra vettet, stakkar. 25 000 mennesker på ett sted? Hvor skulle man gjøre av dem?
+
+
+
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;I slikt vær er en liten calva på sin plass!
+v2;30;I alle slags vær!
+v1;50;Skål for Normandie og dets calvavær!
+v2;70;Skål!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Når jeg blir stor, skal jeg bli landsbyhøvding!
+v2;30;Du må spise mye suppe før du kommer dit.
+v1;60;Og jeg skal få deg straffet!
+v2;70;Ja visst. I mellomtiden, av sted til arbeidet, ellers vanker det en ørefik.
+
+
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Min far er mye sterkere enn din.
+v2;30;Tøv. Min far er den sterkeste i landsbyen.
+v1;60;Drøm videre. Min far legger din i bakken på to minutter.
+v2;70;Og jorden er rund, ja?
+
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Jenter, de er til ingen nytte.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Du er kanskje en gutt, men jeg kan få deg til å gråte når jeg vil.
+v2;30;Ikke sant! Pest!
+
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Vær snill, ellers tar endermannen deg i natt!
+v2;40;Pff, jeg er for stor til å tro på slikt tull.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Si meg, vakre, hva gjør du i kveld?
+v2;40;$targetfirstname, jeg har alt sagt nei!
+v1;60;For et temperament!
+v2;80;For en tosk!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, for noen flotte muskler!
+v1;30;Hysj, ulykksalige! Om min kone hører deg...
+v2;60;Hva så, kjekken?
+v1;90;Du vet hvor sjalu hun er!
+v2;120;Og? Er du redd henne?
+v1;140;Redd? Henne? Det var da en spøk!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Fader Jakob, fader Jakob
+v2;30;Sover du? Sover du?
+v1;60;Hører du ei klokken! Hører du ei klokken!
+v2;100;Bim, bam, bom. Bim, bam, bom!
+
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Lille lerke, snille lille lerke,
+v2;0;Lille lerke, snille lille lerke,
+v1;30;Lille lerke, jeg skal ribbe deg.
+v2;30;Lille lerke, jeg skal ribbe deg.
+v1;60;Jeg skal ribbe hodet ditt.
+v2;60;Jeg skal ribbe hodet ditt.
+v1;90;Og hodet! Og hodet!
+v2;90;Og hodet! Og hodet!
+v1;120;Stakkars lerke, da...
+v2;160;Hvorfor det? Det er jo morsomt!
+
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;La oss vandre i skogen,
+v2;0;La oss vandre i skogen,
+v1;30;Så lenge ulven ikke er der.
+v2;30;Så lenge ulven ikke er der.
+v1;60;Hvis ulven var der
+v2;60;Hvis ulven var der
+v1;90;Ville han ete oss,
+v2;90;Ville han ete oss,
+v1;120;Men siden han ikke er der,
+v2;120;Men siden han ikke er der,
+v1;150;Skal han ikke ete oss.
+v2;150;Skal han ikke ete oss...
+v2;180;Du, er du sikker?
+v1;200;Feiging!
+
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Den gode kong Dagobert
+v1;30;Hadde knebuksene på vrangen.
+v1;60;Den store sankt Eligius
+v1;90;Sa til ham: Å, min konge!
+v1;120;Deres majestet
+v1;150;Sitter dårlig i buksene.
+v2;180;Dårlig i buksene? Hva betyr det?
+v1;220;At han ikke har bukser på!
+v2;250;Tøv, han er jo kongen!
+v1;280;Vel, kongen har ikke bukser!
+v2;310;Selv du har bukser, tosk!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Min sønn, det er lenge siden du har skriftet.
+v2;40;Men fader, jeg har ikke syndet!
+v1;70;Alle synder i denne falne verden.
+v2;110;Selv du, fader?
+v1;130;Vær ikke frekk! Du skal lese ti Fader Vår til bot!
+
+
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Min datter, det er lenge siden du har skriftet.
+v2;30;Det er sant, fader, og jeg har syndet!
+v1;60;Er det en kjødets synd, skal vi drøfte det annetsteds.
+v2;100;Takk, fader.
+v1;120;I mellomtiden, ti Fader Vår. Det kommer alltid til nytte!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Jeg har forbedret håndlaget mitt enda en gang.
+v1;30;Før jeg setter sammen bindingsverket, begynner jeg med...
+v2;70;Det er fascinerende.
+v1;90;Synes du?
+v2;110;Nei.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Jeg elsker å tilberede tripes. Først tappes kua for blod...
+v1;40;Så tar man ut innvollene...
+v2;60;Stopp, du gjør meg uvel!
+v1;80;Men du elsker jo tripes!
+v2;110;Og jeg vil ikke vite hvordan de blir til.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Ingen tvil, bonde er det viktigste yrket.
+v1;40;Uten meg, intet brød!
+v2;60;Jeg foretrekker tripes likevel.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Da jeg var ung, var jeg en veldig lovende lærling.
+v1;40;Guillaume Vif-Argent selv hadde øye for meg!
+v1;80;Og nå sitter jeg fast her.
+v1;110;Og må passe på et knippe tosker.
+v2;130;Hva sa du?
+v1;150;*sukk*
+
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Se på borgen min! En sann festning!
+v2;30;Du er så mektig, herre!
+v1;60;Når hertug Vilhelm vender tilbake, vil han sikkert gjøre meg til greve!
+v2;100;Leve greve $targetfirstname!
+v1;130;Leve meg!
+
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Min skjønnhet er berømt i disse landene.
+v2;30;Du er praktfull, min frue!
+v1;60;Og likevel ektet jeg en ussel liten ridder...
+v2;100;Men hans nåde vil sikkert bli greve en dag!
+v1;130;Den tosken? Ha! Hvorfor ikke pave, mens vi er i gang?
+v2;160;Hvorfor ikke, min frue! Eh... jeg mente...
+
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Epler, epler, epler!
+v1;30;Epler, epler... epler!
+v2;60;Heller sider, sider, sider, i ditt tilfelle, kanskje?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;For en ussel landsby.
+v2;30;Hei, fremmede, pass munnen din!
+v1;70;Og for en sjarmerende befolkning!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Jeg har diktet en liten vise. Vil du høre den?
+v2;40;Kom igjen!
+v1;50;Hei hå, hei hå, hei hå, hei hå...
+v2;70;Det begynner lovende...
+v1;90;Hjem fra arbeid jeg går!
+v2;110;Og jeg har mye å gjøre.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Fader Jakob, fader Jakob!
+v1;30;Svært morsomt, mitt barn.
+v2;60;Sover du? Sover du?
+v1;90;Det holder, det holder, jeg kjenner visen.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Alt er godt i grisen!
+v2;30;De lager mye bråk når du slakter dem, da.
+v1;70;Jo høyere grisen hyler, desto bedre er kjøttet!
+
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Jeg våker over den åndelige helsen til landsbyboerne.
+v2;30;Og det er nok å gjøre!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Vår landsby frykter Gud.
+v2;30;Og hans utsending, fader $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Jeg er høyt aktet ved kongen hertug Vilhelms hoff.
+v2;40;Kongen hertugen?
+v1;60;Hans majestet Vilhelm Erobreren, hertug av Normandie og konge av England, din uvitende!
+v2;100;Hvor ligger England?
+v1;120;På den andre siden av havet. Slik uvitenhet!
+v2;140;Hvilket hav, herre?
+v1;160;Slik frekkhet! Det er nok!
+
+
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Å være sauegjeter er et svært nobelt yrke.
+v2;30;Nobelt? Sauegjeter?
+v1;50;Var det ikke vi som ble valgt av Gud til å motta det gode budskapet?
+v2;90;Å, ja. Mens dere stelte med de nyfødte lammene - i desember.
+v1;130;Og hva så? Kanskje finnes det ingen årstider i Betlehem. Slik som her!
+
+
+
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;Normannernes sanne styrke ligger i deres verktøy og våpen.
+v2;40;Og altså i smedene deres?
+v1;60;Nettopp!
+
+
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Hvorfor er det alltid kvinnene som bygger?
+v2;40;Plager det deg, så tar jeg neste bygning.
+v1;80;Mener du det? Du er en perle! Husk så på gardinene, ikke glem å...
+v2;120;Nei, vet du hva, jeg lar deg ta deg av det selv.
+
+
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Jeg gikk forbi alkymistens verksted i går.
+v1;40;Det luktet forferdelig, som råtne egg!
+v2;80;Det sies at han prøver å lage de vises stein!
+v1;120;Jeg har hørt at han vil oppvekke de døde.
+v2;160;Og jeg har hørt at han vil skape et uhyre av lik!
+v1;200;Hvor grufullt!
+v2;220;Og han som var en så sjarmerende gutt...
+
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Har du besøkt de nye arkivene?
+v1;30;Der kan man se hva alle holder på med!
+v2;60;Å, virkelig... og, eh...
+v1;90;Ja, jeg så panelet ditt.
+v1;120;Du burde skamme deg.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Jeg elsker duften av brød som strømmer ut fra bakeriet.
+v2;40;Nå mangler vi bare en som kan lage croissanter.
+
+
+newchat;key:church,building:church,weigth:10
+v1;0;Kirken vår er sannelig praktfull.
+v2;30;Den viser at vi er en gudfryktig landsby.
+v1;60;Og den er større enn nabolandsbyens!
+
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Nå som vi har et vertshus, kan vi handle!
+v2;40;Med andre ord, forbipasserende kjøpmenn vil forsyne seg av våre ressurser.
+v1;80;Du har alltid vært en kyniker.
+
+
+
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Jeg elsker markedet! Så mange staselige varer!
+v2;40;Man føler seg mindre isolert nå.
+v2;80;Men ikke rikere...
+
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Kroa er sikkert det beste vi har bygd.
+v2;40;Ingen her vil hevde det motsatte!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Vi er ustoppelige. Våre mektige skip og ærefulle riddere er en svøpe for verden!
+v2;40;Og hva er fiendene våre? En gjeng romerske bedragere og mayanere som elsker stein?
+v1;80;Glem ikke snønarrene som ikke engang har begrep om penger!
+v2;120;Hahaha! Det normanniske livet er det beste i verden! Herlig cider, det beste verktøyet. Å, dette er vår gullalder.
+v1;160;Og vi får dele den!
+v2;200;Hahaha!

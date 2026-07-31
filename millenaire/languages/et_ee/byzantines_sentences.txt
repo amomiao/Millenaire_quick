@@ -1,0 +1,529 @@
+architect_byzantine.construction=$name! Kas teadsid, et roomlased on parimad arhitektid?
+architect_byzantine.construction=$name! Vaata, kuidas ma ilusat hoonet ehitan.
+architect_byzantine.construction=See hoone tuleb kaunis!
+architect_byzantine.construction=See pole veel valmis, aga ma näen oma töös juba ilu.
+architect_byzantine.construction=Ma ehitan nii peeneid struktuure. Ehitamine on tõesti kõige ilusam kunstivorm.
+architect_byzantine.construction=Roomat ei ehitatud päevaga, see ehitati plokk-haaval.
+architect_byzantine.construction=Meie arhitektuur on parem kui kõik teised hooned üle maailma.
+architect_byzantine.construction=Rooma kombel ehitamine on parim viis ehitada.
+architect_byzantine.construction=Kas sulle meeldib mu stiil?
+architect_byzantine.construction=Olen ehitanud kauem kui suudan mäletada. Ehitamisest on saanud mu elu.
+
+architect_byzantine.getresourcesforbuild=Kust küla need plokid hangib?
+architect_byzantine.getresourcesforbuild=Mul on parimate hoonete ehitamiseks plokke vaja!
+architect_byzantine.getresourcesforbuild=Iga ehitus algab plokkidest.
+architect_byzantine.getresourcesforbuild=Ma pean plokid hoolikalt ise välja valima.
+architect_byzantine.getresourcesforbuild=Kuidas sa nii palju plokke kannad, kui ehitad, $name?
+architect_byzantine.getresourcesforbuild=Ehitamise halvim osa on plokkide hankimine.
+
+architect_byzantine.godrink=Aitab ehitamisest! Mul on veini vaja!
+architect_byzantine.godrink=Mul on inspireerivat jooki vaja!
+architect_byzantine.godrink=Iga hea arhitekt vajab päeva lõpus jooki.
+architect_byzantine.godrink=Ehitamine teeb mu veinijanuliseks.
+
+architect_byzantine.gopray=Loodan, et Jumal annab mulle järgmise hoone jaoks inspiratsiooni!
+architect_byzantine.gopray=Miks tegi Jumal minust arhitekti?
+architect_byzantine.gopray=Palve on Rooma ehituse tähtis osa.
+architect_byzantine.gopray=Tema mõistab arhitektide muresid.
+
+architect_byzantine.gorest=Kui ma ei maga, võin midagi valesti ehitada.
+architect_byzantine.gorest=Ma ei suuda väsinuna ehitada.
+architect_byzantine.gorest=Pimedas on raske ehitada.
+architect_byzantine.gorest=Sain ehitamisega tänaseks ühele poole.
+architect_byzantine.gorest=Ehk näen unes, kuidas ehitan maailma parimaid hooneid!
+
+architect_byzantine.gosocialise=Keegi selles külas ei mõista ehitamise muresid.
+architect_byzantine.gosocialise=Iga arhitekt vajab teistelt inspiratsiooni.
+architect_byzantine.gosocialise=Arhitektid vajavad õitsenguks tagasisidet.
+architect_byzantine.gosocialise=Mida külarahvas mu hoonetest arvab?
+
+//armysmith_byzantine.MakeIndianTools=Roman tools are the best in world.
+armysmith_byzantine.makebyzantinemace=Ära ründa kedagi, kes kasutab mu relvi.
+armysmith_byzantine.makebyzantinemace=See nui virutab barbarid kaugele!
+armysmith_byzantine.makebyzantinemace=Nuia sepistada on raskem kui sellega võidelda.
+armysmith_byzantine.makebyzantinemace=Armee vajab nuiasid.
+
+armysmith_byzantine.gopray=Hea sepp peab aeg-ajalt palvetama.
+armysmith_byzantine.gopray=Miks tegi Jumal minust sepa?
+armysmith_byzantine.gopray=Palve on Rooma käsitöö tähtis osa.
+armysmith_byzantine.gopray=Tema mõistab seppade muresid.
+
+armysmith_byzantine.gorest=Homme sepistan veel kauneid asju!
+armysmith_byzantine.gorest=Sain käsitööga tänaseks ühele poole.
+armysmith_byzantine.gorest=Ehk näen unes, kuidas sepistan maailma parimaid relvi!
+armysmith_byzantine.gorest=Ehk näen unes, kuidas sepistan maailma parimat turvist!
+armysmith_byzantine.gorest=Ehk näen unes, kuidas sepistan maailma parimaid tööriistu!
+
+armysmith_byzantine.gosocialise=Lähen küsima, kas keegi vajab, et ma midagi sepistaksin.
+armysmith_byzantine.gosocialise=Loodan, et küla hindab mu tööriistu.
+
+armysmith_byzantine.godrink=Aitab käsitööst! Mul on veini vaja!
+armysmith_byzantine.godrink=Mul on inspireerivat jooki vaja!
+armysmith_byzantine.godrink=Iga hea sepp vajab päeva lõpus jooki.
+armysmith_byzantine.godrink=Sepistamine teeb mu veinijanuliseks.
+
+armysmith_byzantine.makearrow=$name, kas sa kasutad oma seiklustes palju nooli?
+armysmith_byzantine.makearrow=Iga vibu vajab peenikest noolt.
+armysmith_byzantine.makearrow=Iga nool, mille ma sepistan, teeb haiget ühele impeeriumi vaenlasele.
+armysmith_byzantine.makearrow=Rooma armee vajab nooli, et meid võõraste eest kaitsta.
+
+armysmith_byzantine.makebow=Rooma armee vajab vibusid.
+armysmith_byzantine.makebow=Hei! Kas sulle meeldivad mu vibud, $name?
+armysmith_byzantine.makebow=Iga hea vibu pärineb parimast puidust.
+armysmith_byzantine.makebow=See vibu alistab palju barbareid. Olen tõeline vibumeister.
+
+armysmith_byzantine.makebyzantineboots=Rooma armee vajab saapaid!
+armysmith_byzantine.makebyzantineboots=Roomlased sepistavad maailma parimaid saapaid.
+armysmith_byzantine.makebyzantineboots=Keegi peab ju sõdurite saapaid valmistama...
+armysmith_byzantine.makebyzantineboots=Meie sepistame parimaid saapaid.
+armysmith_byzantine.makebyzantineboots=Hei! Kas sulle meeldivad mu saapad, $name?
+armysmith_byzantine.makebyzantineboots=Tunnen end nagu üleülistatud saapasepp.
+armysmith_byzantine.makebyzantineboots=Iga soomus on tähtis! Isegi saapad, mis jalga lähevad!
+
+armysmith_byzantine.makebyzantinechest=Rooma armee vajab rinnasoomuseid!
+armysmith_byzantine.makebyzantinechest=Roomlased sepistavad maailma parimaid rinnasoomuseid.
+armysmith_byzantine.makebyzantinechest=Hei! Kas sulle meeldib mu turvis, $name?
+armysmith_byzantine.makebyzantinechest=Meie sepistame parimat turvist.
+armysmith_byzantine.makebyzantinechest=See peaks taluma rohkem lööke, kui sina suudad anda.
+armysmith_byzantine.makebyzantinechest=Tunnen end nagu üleülistatud särgisepp.
+
+armysmith_byzantine.makebyzantinehelmet=Rooma armee vajab kiivreid!
+armysmith_byzantine.makebyzantinehelmet=Keegi peab ju sõdurite kiivreid valmistama...
+armysmith_byzantine.makebyzantinehelmet=Roomlased sepistavad maailma parimaid saapaid.
+armysmith_byzantine.makebyzantinehelmet=Hei! Kas sulle meeldivad mu kiivrid, $name?
+armysmith_byzantine.makebyzantinehelmet=Meie sepistame parimaid kiivreid.
+armysmith_byzantine.makebyzantinehelmet=Tunnen end nagu üleülistatud mütsisepp.
+
+armysmith_byzantine.makebyzantinelegs=Rooma armee vajab säärekaitsmeid!
+armysmith_byzantine.makebyzantinelegs=Keegi peab ju sõdurite säärekaitsmeid valmistama...
+armysmith_byzantine.makebyzantinelegs=Roomlased sepistavad maailma parimaid säärekaitsmeid.
+armysmith_byzantine.makebyzantinelegs=Hei! Kas sulle meeldivad mu säärekaitsmed, $name?
+armysmith_byzantine.makebyzantinelegs=Meie sepistame parimaid säärekaitsmeid.
+armysmith_byzantine.makebyzantinelegs=Tunnen end nagu üleülistatud pükssepp.
+
+armysmith_byzantine.makesteelaxe=Sa ei saa puid raiuda ilma kirveta!
+armysmith_byzantine.makesteelaxe=Ma sepistan hämmastavaid kirveid.
+armysmith_byzantine.makesteelaxe=Rooma kirved on maailma parimate hulgas!
+armysmith_byzantine.makesteelaxe=Metsamehed vajavad meid, et nende kirveid sepistada.
+armysmith_byzantine.makesteelaxe=Kuidas sa oma kirveid sepistad, $name?
+
+armysmith_byzantine.makesteelhoe=Sa ei saa põldu harida ilma põllutööriistadeta!
+armysmith_byzantine.makesteelhoe=Ma sepistan hämmastavaid põllutööriistu.
+armysmith_byzantine.makesteelhoe=Rooma põllutööriistad on maailma parimate hulgas!
+armysmith_byzantine.makesteelhoe=Põllumehed vajavad meid, et nende tööriistu sepistada.
+armysmith_byzantine.makesteelhoe=Kuidas sa oma põllutööriistu sepistad, $name?
+
+armysmith_byzantine.makesteelpickaxe=Sa ei saa kaevata ilma kirkata!
+armysmith_byzantine.makesteelpickaxe=Ma sepistan tugevaid kirkasid.
+armysmith_byzantine.makesteelpickaxe=Rooma kirkad on maailma parimate hulgas!
+armysmith_byzantine.makesteelpickaxe=Kaevurid vajavad meid, et nende kirkasid sepistada.
+armysmith_byzantine.makesteelpickaxe=Kuidas sa oma kirkasid sepistad, $name?
+
+armysmith_byzantine.makesteelshovel=Sa ei saa ehitada ega kaevata ilma labidata!
+armysmith_byzantine.makesteelshovel=Ma sepistan vastupidavaid labidaid.
+armysmith_byzantine.makesteelshovel=Rooma labidad on maailma parimate hulgas!
+armysmith_byzantine.makesteelshovel=Arhitektid vajavad meid, et nende labidaid sepistada.
+armysmith_byzantine.makesteelshovel=Kuidas sa oma labidaid sepistad, $name?
+
+//artisan_byzantine.makePainting=Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=Hea käsitööline peab aeg-ajalt palvetama.
+artisan_byzantine.gopray=Miks tegi Jumal minust käsitöölise?
+artisan_byzantine.gopray=Palve on Rooma käsitöö tähtis osa.
+artisan_byzantine.gopray=Tema mõistab käsitöölise muresid.
+
+artisan_byzantine.gorest=Homme valmistan veel kauneid asju!
+artisan_byzantine.gorest=Sain käsitööga tänaseks ühele poole.
+artisan_byzantine.gorest=Ehk näen unes, kuidas valmistan maailma parimaid telliseid!
+artisan_byzantine.gorest=Ehk näen unes, kuidas valmistan maailma parimaid plaate!
+
+artisan_byzantine.gosocialise=Lähen küsima, kas keegi vajab, et ma midagi valmistaksin.
+artisan_byzantine.gosocialise=Loodan, et küla hindab mu plaate.
+artisan_byzantine.gosocialise=Loodan, et küla hindab mu telliseid.
+
+artisan_byzantine.godrink=Aitab käsitööst! Mul on veini vaja!
+artisan_byzantine.godrink=Mul on inspireerivat jooki vaja!
+artisan_byzantine.godrink=Iga hea käsitööline vajab päeva lõpus jooki.
+artisan_byzantine.godrink=Käsitöö teeb mu veinijanuliseks.
+
+artisan_byzantine.greeting=Ma elan paremini kui keegi teine selles külas.
+artisan_byzantine.greeting=Tere, $name! Kas vajate mõnd haruldast rooma plokki?
+
+artisan_byzantine.makebrick=Keegi peab ju telliseid valmistama.
+artisan_byzantine.makebrick=Küla vajab mind, et nende müüride jaoks telliseid valmistada.
+artisan_byzantine.makebrick=Rooma tellised on maailma kõige ilusamate plokkide hulgas!
+artisan_byzantine.makebrick=Meie töötame kulisside taga, samal ajal kui ehitajad saavad kogu au.
+artisan_byzantine.makebrick=Isegi parimad ehitajad ei suuda ilma plokkideta ehitada.
+artisan_byzantine.makebrick=Kes küll mõtles välja savi tellisteks töötlemise?
+
+artisan_byzantine.makebookshelves=Keegi peab ju raamatud riiulitele panema.
+artisan_byzantine.makebookshelves=Küla vajab mind, et nende raamaturiiuleid valmistada.
+artisan_byzantine.makebookshelves=Rooma raamatud on maailma parimate lugemiste hulgas!
+artisan_byzantine.makebookshelves=Meie töötame kulisside taga, samal ajal kui kirjanikud saavad kogu au.
+artisan_byzantine.makebookshelves=Vahel sirvin raamatuid enne riiulile panemist, sooviksin, et oskaksin lugeda.
+artisan_byzantine.makebookshelves=Kes küll mõtles välja kirjutamise?
+
+artisan_byzantine.makebyzantinetiles=Keegi peab ju katusekive valmistama.
+artisan_byzantine.makebyzantinetiles=Küla vajab mind, et nende katuseid valmistada.
+artisan_byzantine.makebyzantinetiles=Rooma kivid on maailma kõige ilusamate plokkide hulgas!
+artisan_byzantine.makebyzantinetiles=Meie töötame kulisside taga, samal ajal kui ehitajad saavad kogu au.
+artisan_byzantine.makebyzantinetiles=Isegi parimad ehitajad ei suuda ilma plokkideta ehitada.
+artisan_byzantine.makebyzantinetiles=Kes küll mõtles välja savi katuseks töötlemise?
+
+artisanwife_byzantine.gopray=Palve on Rooma käsitöö tähtis osa.
+artisanwife_byzantine.gopray=Loodan, et Jumal aitab mul valmistada parimaid rõivaid!
+artisanwife_byzantine.gopray=Miks tegi Jumal arhitekti naise?
+
+artisanwife_byzantine.gosocialise=Oh! Mina valmistasin selle mehe särgi!
+artisanwife_byzantine.gosocialise=Siin tuntakse mind kui arhitekti naist.
+artisanwife_byzantine.gosocialise=Mul on kõrini sellest, et mind tuntakse kui "arhitekti naist".
+
+artisanwife_byzantine.makeclothes_byz_silk=Ma valmistan külas mõned parimatest rõivastest!
+artisanwife_byzantine.makeclothes_byz_silk=Rooma siid on parim kangas maailmas!
+artisanwife_byzantine.makeclothes_byz_silk=Siidrõivad on tähtsamad kui uhke maja.
+artisanwife_byzantine.makeclothes_byz_silk=$name, kas oled varem siidi kandnud?
+artisanwife_byzantine.makeclothes_byz_silk=Igaüks vajab rõivaid, eriti kui tahad olla tsiviliseeritud.
+artisanwife_byzantine.makeclothes_byz_silk=Tõeline ilu pole plokkides, ilu on rõivastes.
+artisanwife_byzantine.makeclothes_byz_silk=On põhjus, miks mina seda koon, mitte mu mees.
+artisanwife_byzantine.makeclothes_byz_silk=Siidrõivaste kudumine on ainult kõige üllamate naiste pärusmaa.
+artisanwife_byzantine.makeclothes_byz_silk=Olen rõõmus, et saan päris tööd teha.
+
+artisanwife_byzantine.makeclothes_byz_wool=Ma valmistan külas mõned parimatest villastest rõivastest!
+artisanwife_byzantine.makeclothes_byz_wool=Ilusad rõivad on tähtsamad kui uhke maja.
+artisanwife_byzantine.makeclothes_byz_wool=$name, kas oled varem villast kandnud?
+artisanwife_byzantine.makeclothes_byz_wool=Tõeline ilu pole plokkides, ilu on rõivastes.
+artisanwife_byzantine.makeclothes_byz_wool=Igaüks vajab rõivaid, eriti kui tahad olla tsiviliseeritud.
+artisanwife_byzantine.makeclothes_byz_wool=On põhjus, miks mina seda koon, mitte mu mees.
+artisanwife_byzantine.makeclothes_byz_wool=Mitte iga naine ei oska villaga kududa.
+artisanwife_byzantine.makeclothes_byz_wool=Olen rõõmus, et saan päris tööd teha.
+
+artisanwife_byzantine.delivergoodshousehold=Säärased asjad on ainus, mida ma siin teha saan.
+artisanwife_byzantine.gethousethresources=Mu mees tõi lõpuks oma varud, nagu ma talle ütlesin.
+artisanwife_byzantine.getgoodshousehold=Aeg pere eest hoolitseda.
+artisanwife_byzantine.greeting=Ma võiksin siin nii palju rohkem teha, kui ma oleksin mees, kui ainult...
+artisanwife_byzantine.greeting=Meie ülesanne on oma mehi ohjes hoida.
+
+baron_byzantine.greeting=$name, minu külas on müügil parimad kaubad!
+baron_byzantine.greeting=Tere, jõukas rändur!
+baron_byzantine.greeting=Kas soovite aidata talupoegi silmas pidada, $name?
+
+baron_byzantine.godrink=Aitab valitsemisest! Mul on jooki vaja.
+baron_byzantine.godrink=Mina väärin parimat veini!
+baron_byzantine.godrink=Peaksin kontrollima, kas kõrts on tulus.
+baron_byzantine.godrink=Iga vägev inimene peab jooma, muidu sureb ta stressist!
+
+baron_byzantine.gopray=Miks tegi Jumal minust paruni?
+baron_byzantine.gopray=Palve on Rooma valitsemise tähtis osa.
+baron_byzantine.gopray=Tema mõistab paronide muresid.
+baron_byzantine.gopray=Mu küla vajab Jumalalt vastuseid!
+
+baron_byzantine.gorest=Aitab talupoegade ohjamisest! Mul on und vaja.
+baron_byzantine.gorest=*Haigutus* Ma ei suuda talupoegi juhtida, kui olen väsinud.
+baron_byzantine.gorest=Aeg minu siidisesse tekki magama.
+baron_byzantine.gorest=Igaüks vajab und, eriti kui juhid küla.
+
+baron_byzantine.gosocialise=Miks need rumalad talupojad näevad mind ainult "paruni" rollis?
+baron_byzantine.gosocialise=Hii hii hii, vaatame, kas ta on oma maksud maksnud.
+baron_byzantine.gosocialise=Aeg vaeseid inspireerida, et nad denaare teeniksid!
+baron_byzantine.gosocialise=Kas ma pean lihtrahvaga rääkima?
+baron_byzantine.gosocialise=Paruniks olles pean rahvaga rääkima, isegi kui ei taha.
+
+baron_byzantine.inspectconstruction=Pean veenduma, et talupojad poleks midagi untsu keeranud.
+baron_byzantine.inspectconstruction=See hoone toob mu külale kasumit.
+baron_byzantine.inspectconstruction=Ilu on vaadata, kuidas su küla rikkamaks muutub.
+baron_byzantine.inspectconstruction=Tean, et Roomat ei ehitatud päevaga, aga miks on mu arhitekt nii aeglane?
+baron_byzantine.inspectconstruction=Minu töö on tagada, et hooned saaksid korralikult ehitatud.
+baron_byzantine.inspectconstruction=Mu arhitektid teevad tavaliselt head tööd, aga ma pean neid alati kontrollima.
+
+boy_byzantine.becomeadult=Aeg saada tugevaks meheks!
+boy_byzantine.becomeadult=Olen piisavalt vana, et tööd teha!
+boy_byzantine.becomeadult=Mul on nüüd tööd vaja.
+boy_byzantine.becomeadult=Mu poisipõlv on möödas.
+
+boy_byzantine.goplay=Ma tahan kellegagi võidelda!
+boy_byzantine.goplay=Ma tahan mängida "Võitle barbariga"!
+boy_byzantine.goplay=Ma näitan kõigile, et olen suur ja tugev!
+boy_byzantine.goplay=Aeg "sõdurit" mängida.
+
+boy_byzantine.gopray=Ma tahan Jumala kohta õppida!
+boy_byzantine.gopray=Kas Jumal saab mulle täiskasvanutest rääkida?
+boy_byzantine.gopray=Kuidas ma palvetan?
+boy_byzantine.gopray=Ma ei taha palvetada! Ma tahan hoopis mängida!
+
+boy_byzantine.childobservesmithing=Kui ma suureks saan, tahan ka sepp olla. Või sõdur. Või kindral!
+
+centurio_byzantine.godrink=Iga vägev inimene peab jooma, muidu sureb ta stressist!
+centurio_byzantine.godrink=Sõdurina vajan ma veini, tsentuurionina veelgi enam.
+centurio_byzantine.godrink=Pean lõõgastuma, muidu olen kasutu, kui barbarid tulevad.
+
+centurio_byzantine.gopray=Miks tegi Jumal minust strategose?
+centurio_byzantine.gopray=Palve on Rooma sõjapidamise tähtis osa.
+centurio_byzantine.gopray=Tema mõistab strategose muresid.
+centurio_byzantine.gopray=Mu armee vajab Jumalalt vastuseid!
+
+centurio_byzantine.gorest=Aitab sõdurite ohjamisest! Mul on und vaja.
+centurio_byzantine.gorest=Aeg turvis seljast võtta ja magama minna.
+centurio_byzantine.gorest=*Haigutus* Ma ei suuda sõdureid juhtida, kui olen väsinud.
+centurio_byzantine.gorest=Igaüks vajab und, eriti kui juhid küla.
+
+centurio_byzantine.gosocialise=Aeg sõdurite moraali tõsta!
+centurio_byzantine.gosocialise=Hea viis lojaalsust võita on oma rahvaga nõu pidada.
+centurio_byzantine.gosocialise=Mul on armeesse rohkem värbajaid vaja!
+centurio_byzantine.gosocialise=Mu alluvad peavad teadma mu kaitseplaane.
+centurio_byzantine.gosocialise=Mu alluvad peavad teadma mu ründeplaane.
+centurio_byzantine.gosocialise=Rahvas peab mõistma barbarite rünnaku ohtu!
+centurio_byzantine.gosocialise=Pean kõigile meelde tuletama, et peame olema valmis igal hetkel võitlema!
+
+centurio_byzantine.huntmonster=Isegi tsenturionina ei tohi ma sõdurioskustes roostetada.
+centurio_byzantine.huntmonster=Kus on mu alluvad? Nemad peaksid seda tegema.
+centurio_byzantine.huntmonster=Olen Rooma keisririigi strategos ja sina arvad, et suudad mind võita? Ha!
+
+centurio_byzantine.inspectconstruction=Ilus on vaadata, kuidas küla tugevamaks muutub.
+
+farmiller_wife_byzantine.delivergoodshousehold=Säärased asjad on ainus, mida ma siin teha saan.
+farmiller_wife_byzantine.gethousethresources=Mu mees tõi lõpuks oma varud, nagu ma talle ütlesin.
+farmiller_wife_byzantine.getgoodshousehold=Aeg pere eest hoolitseda.
+farmiller_wife_byzantine.greeting=Ma võiksin siin nii palju rohkem teha, kui ma oleksin mees, kui ainult...
+farmiller_wife_byzantine.greeting=Meie ülesanne on oma mehi ohjes hoida.
+
+girl_byzantine.childobserveproducefood=On hea, et mehed ei tee süüa, nad kõrvetaksid kõik ära.
+
+keeperbirch_byzantine.greeting=Siin on nii igav, kunagi ei juhtu midagi...
+keeperbirch_byzantine.greeting=Minu töö on neid alasid valvata.
+keeperbirch_byzantine.greeting=Tervitused, rändur, ma imestan, kuidas sa sellesse kaugesse paika sattusid.
+keeperbirch_byzantine.greeting=Kes küll arvas, et siia peaks valvur seadma...
+
+keeperoak_byzantine.greeting=Need inimesed siin, kes nimetavad end normannideks, meenutavad mulle meie hiilgavat impeeriumi.
+keeperoak_byzantine.greeting=Siin on nii igav, kunagi ei juhtu midagi...
+keeperoak_byzantine.greeting=Minu töö on neid alasid valvata.
+keeperoak_byzantine.greeting=Tervitused, rändur, ma imestan, kuidas sa sellesse kaugesse paika sattusid.
+keeperoak_byzantine.greeting=Kes küll arvas, et siia peaks valvur seadma...
+
+keeperpine_byzantine.greeting=See külm on kohutav. Pole ime, et siin kedagi pole.
+keeperpine_byzantine.greeting=Siin on nii igav, kunagi ei juhtu midagi...
+keeperpine_byzantine.greeting=Minu töö on neid alasid valvata.
+keeperpine_byzantine.greeting=Tervitused, rändur, ma imestan, kuidas sa sellesse kaugesse paika sattusid.
+keeperpine_byzantine.greeting=Kes küll arvas, et siia peaks valvur seadma...
+
+keepertropical_byzantine.greeting=Siin on nii igav, kunagi ei juhtu midagi...
+keepertropical_byzantine.greeting=Minu töö on neid alasid valvata.
+keepertropical_byzantine.greeting=Siin on nii palav. Ma ei mõista, miks need indialased neil maadel elavad.
+keepertropical_byzantine.greeting=Kas oled kunagi näinud neid imelikke maiasid? Nende hooned tunduvad iga hetk varisemas.
+keepertropical_byzantine.greeting=Tervitused, rändur, ma imestan, kuidas sa sellesse kaugesse paika sattusid.
+keepertropical_byzantine.greeting=Kes küll arvas, et siia peaks valvur seadma...
+
+lumberman_byzantine.bringbackresourceshome=Loodetavasti piisab sellest, et küla õitseks!
+lumberman_byzantine.bringbackresourceshome=Olen väga edukas metsamees, mu inventar on palke täis!
+lumberman_byzantine.bringbackresourceshome=Kannan kaasas palju puid, aga millegipärast pole nad rasked.
+lumberman_byzantine.bringbackresourceshome=See oli korralikult tehtud töö.
+lumberman_byzantine.bringbackresourceshome=Mu naine peab uhke olema kogu selle puidu üle, mille tõin.
+
+lumberman_byzantine.choptrees=Iga hoone siin vajab puitu, ja seda hankida on minu töö!
+lumberman_byzantine.choptrees=Jälle üks puu maas, rohkem puitu külale!
+lumberman_byzantine.choptrees=Veel üks puu maas, rohkem puitu külale!
+lumberman_byzantine.choptrees=$name, kas oled kunagi varem puud maha raiunud?
+lumberman_byzantine.choptrees=Mine raiumispuu juurde!
+lumberman_byzantine.choptrees=Sure, puu, sure! HAHAHA! Sure! Sure! Sure! Ha- Oh, tere, $name! Midagi… imelikku… siin ei toimu.
+lumberman_byzantine.choptrees=Ma ei taha sind tappa, aga ma pean… Hüvasti, puu!
+lumberman_byzantine.choptrees=Kas oled kunagi mõelnud, miks raiutud puud siin hõljuvad, $name? Väga imelik. Mida iganes ma teen, nad hõljuvad ja ma pean puud tükkhaaval ülespoole murdma — täielik nuhtlus.
+
+lumberman_byzantine.gathergoods=Hei $name! Ära seda võta!
+lumberman_byzantine.gathergoods=Puud kasvasid seekord hästi, nii palju palke ja istikuid.
+lumberman_byzantine.gathergoods=Loodan, et küla vajab kõiki neid palke.
+lumberman_byzantine.gathergoods=See oli üks suur puu! Nüüd saab küla selle palke kasutada.
+lumberman_byzantine.gathergoods=Vaata kõiki neid uusi palke ja istikuid, mis ma puid raiudes sain!
+lumberman_byzantine.gathergoods=Tore istik seal eemal.
+
+lumberman_byzantine.plantsaplings=Need istikud on nii väiksed, vahel ei usu, et neist nii suured asjad saavad.
+lumberman_byzantine.plantsaplings=Sa oled nii armas, väike istik, peaaegu lased mul unustada, et raiun su täiskasvanuna maha.
+lumberman_byzantine.plantsaplings=$name, kas tahad istiku istutada?
+lumberman_byzantine.plantsaplings=Puud kasvavad siin nii kiiresti, paari päevaga muutuvad nad sellest pisikesest istikust täismõõdus puuks.
+lumberman_byzantine.plantsaplings=Istutamine on lihtsaim töö, kõik mida ma pean tegema, on need maapinnale asetada.
+lumberman_byzantine.plantsaplings=Varsti on sellest suur ja uhke puu! Ja siis ma raiun selle maha.
+
+merchant_art.greeting=Ükski linn maailmas ei kannata võrdlust välja Konstantinoopoli ilu ja võimsusega.
+merchant_art.greeting=Meie oleme viimased tõelised roomlased!
+
+miner_byzantine.mining=Minu töö on kive purustada ja need sulatamisele viia, see ongi kõik.
+miner_byzantine.mining=Mu käsi valutab sellest, et iga päev kirkat kasutan.
+miner_byzantine.mining=Üks plokk, kaks plokki, kolm plokki, neli plokki, see ei lõpe kunagi. Lihtsalt sama asi ikka ja jälle.
+miner_byzantine.mining=Üks plokk, kaks plokki, kolm- oota, kas see on kuld? Päriselt? MA LEIDSIN KULDA! KULDA! KULDA! Olen rikas! HAHA-oh, see oli lihtsalt vales valguses peegelduv raud. Tagasi raua ja söe juurde...
+miner_byzantine.mining=Kaheksakümmend plokki, kaheksakümmend üks plokki, kaheksakümmend kaks plokki, kaheksakümmend kolm plokki...
+miner_byzantine.mining=Hei! Kuidas sa nii palju plokke kannad ja nii kiiresti kaevad? Mul kulub tundide kaupa selleks, mida sina teed ühe päevaga.
+miner_byzantine.mining=*Köha* *Köha*, ma vihkan söega töötamist.
+miner_byzantine.mining=Selles töös on jõudu ja vastupidavust vaja. Aga keegi siin ei pane seda tähele...
+miner_byzantine.mining=Olen uhke, et olen rooma kodanik, kes töötab kuulsusrikka keisririigi heaks, isegi selles raskes töös.
+
+metropolit_byzantine.makebooks=Mu raamatud on ühed parimad käsikirjad, mis olemas on.
+
+metropolit_byzantine.gopray=Miks tegi Jumal minust ühe oma kalleimatest teenritest?
+metropolit_byzantine.gopray=Patriarhina pean ma palvet juhtima.
+metropolit_byzantine.gopray=Ma mõistan tema muresid.
+metropolit_byzantine.gopray=Tema mõistab patriarhide muresid.
+metropolit_byzantine.gopray=Mu küla vajab Jumalalt vastuseid!
+
+metropolit_byzantine.gorest=Igaüks vajab und, eriti kui juhid küla.
+metropolit_byzantine.gorest=*Haigutus* Ma ei saa preestreid juhtida, kui olen väsinud.
+
+metropolit_byzantine.inspectconstruction=Ilus on vaadata, kuidas küla Jumalale lähemale liigub.
+
+pastor_byzantine.makebooks=Mu raamatud on ühed parimad käsikirjad, mis olemas on.
+
+//smith_byzantine.MakeIndianTools=Roman tools are the best in world.
+
+smith_byzantine.gopray=Hea sepp peab aeg-ajalt palvetama.
+smith_byzantine.gopray=Miks tegi Jumal minust sepa?
+smith_byzantine.gopray=Palve on Rooma käsitöö tähtis osa.
+smith_byzantine.gopray=Tema mõistab seppade muresid.
+
+smith_byzantine.gorest=Homme sepistan veel kauneid asju!
+smith_byzantine.gorest=Sain käsitööga tänaseks ühele poole.
+smith_byzantine.gorest=Ehk näen unes, kuidas sepistan maailma parimaid tööriistu!
+
+smith_byzantine.gosocialise=Lähen küsima, kas keegi vajab, et ma midagi sepistaksin.
+smith_byzantine.gosocialise=Loodan, et küla hindab mu tööriistu.
+
+smith_byzantine.godrink=Aitab käsitööst! Mul on veini vaja!
+smith_byzantine.godrink=Mul on inspireerivat jooki vaja!
+smith_byzantine.godrink=Iga hea sepp vajab päeva lõpus jooki.
+smith_byzantine.godrink=Sepistamine teeb mu veinijanuliseks.
+
+smith_byzantine.makesteelaxe=Sa ei saa puid raiuda ilma kirveta!
+smith_byzantine.makesteelaxe=Ma sepistan hämmastavaid kirveid.
+smith_byzantine.makesteelaxe=Rooma kirved on maailma parimate hulgas!
+smith_byzantine.makesteelaxe=Metsamehed vajavad meid, et nende kirveid sepistada.
+smith_byzantine.makesteelaxe=Kuidas sa oma kirveid sepistad, $name?
+
+smith_byzantine.makesteelhoe=Sa ei saa põldu harida ilma põllutööriistadeta!
+smith_byzantine.makesteelhoe=Ma sepistan hämmastavaid põllutööriistu.
+smith_byzantine.makesteelhoe=Rooma põllutööriistad on maailma parimate hulgas!
+smith_byzantine.makesteelhoe=Põllumehed vajavad meid, et nende tööriistu sepistada.
+smith_byzantine.makesteelhoe=Kuidas sa oma põllutööriistu sepistad, $name?
+
+smith_byzantine.makesteelpickaxe=Sa ei saa kaevata ilma kirkata!
+smith_byzantine.makesteelpickaxe=Ma sepistan tugevaid kirkasid.
+smith_byzantine.makesteelpickaxe=Rooma kirkad on maailma parimate hulgas!
+smith_byzantine.makesteelpickaxe=Kaevurid vajavad meid, et nende kirkasid sepistada.
+smith_byzantine.makesteelpickaxe=Kuidas sa oma kirkasid sepistad, $name?
+
+smith_byzantine.makesteelshovel=Sa ei saa ehitada ega kaevata ilma labidata!
+smith_byzantine.makesteelshovel=Ma sepistan vastupidavaid labidaid.
+smith_byzantine.makesteelshovel=Rooma labidad on maailma parimate hulgas!
+smith_byzantine.makesteelshovel=Arhitektid vajavad meid, et nende labidaid sepistada.
+smith_byzantine.makesteelshovel=Kuidas sa oma labidaid sepistad, $name?
+
+villager.greeting=Tere, $name!
+villager.greeting=Ilus päev, kas pole?
+villager.greeting=Varsti hakkab vihma sadama.
+villager.greeting=Ükski linn maailmas ei kannata võrdlust välja Konstantinoopoliga.
+villager.greeting=Me pole kreeklased, me oleme roomlased.
+villager.greeting=Me oleme viimased tõelised roomlased.
+villager.greeting=Suple meie tsivilisatsiooni hiilguses oma siinviibimise ajal.
+villager.greeting=Tere tulemast külla, $name!
+villager.greeting=Vaata! Seal on $name!
+villager.greeting=Meie oleme viimased tõelised roomlased. Suplege meie tsivilisatsiooni valguses.
+
+villager.becomeadult=Lõpuks ometi sain rooma kodanikuks!
+
+villager.huntmonster=Pean selle barbari tapma!
+
+villager.goplay=Vist lähen õue mängima.
+villager.goplay=Lähen nüüd mängima.
+villager.goplay=$name! Kas sa tahad minuga mängida?
+villager.goplay=Ma tahan joosta!
+
+villager.calltoarms=Rooma impeeriumi rünnatakse! Relvile!
+villager.calltoarms=Barbarid on siin! Kaitskem oma küla iga hinna eest!
+
+villager.childeatgrapes=Vannun, et need viinamarjad kukkusid ise!
+
+villager.childobservevines=Täiskasvanud peaksid lõpetama maitsvate viinamarjade raiskamise selle vastiku veini valmistamiseks!
+villager.childobserveconstruction=Ühel päeval lähen Konstantinoopoli ja näen, kuidas päris rooma hooned välja näevad!
+villager.childobserveproducealcohol=Proovisin korra veini, see on jälk.
+
+villager.gorest=Kui ma ei maga, võivad õnnetused juhtuda.
+villager.gorest=Olen väsinud. Lähen koju magama.
+villager.gorest=Vist lähen magama.
+
+villager.makebread=Leib lõhnab juba hästi...
+
+villager.gopray=Mind juhib Püha Isa.
+villager.gopray=Oo Issand, sina taeva päralt ja halastav.
+villager.gopray=Mehed kummardavad, vaimulikud laulavad!
+villager.gopray=Tervist, neitsi nümf!
+villager.gopray=Oo püha Maarja, suur võiduväejuht!
+villager.gopray=Sina, kes päästad mind kurja eest, tänan sind...
+villager.gopray=Rahvas palvetab sinu eest, igavesest ajast igavesti, aamen.
+
+villager.godrink=Aeg minna värsket Rooma veini hankima!
+villager.godrink=Mul on jooki vaja.
+villager.godrink=Vein peseb mu mured minema.
+villager.godrink=Kas teadsid, et Rooma vein on parim maailmas?
+villager.godrink=On kaua aega tagasi, kui ma viimati jõin.
+
+wife_byzantine.delivergoodshousehold=Säärased asjad on ainus, mida ma siin teha saan.
+wife_byzantine.gethousethresources=Mu mees tõi lõpuks oma varud, nagu ma talle ütlesin.
+wife_byzantine.cooking=Toiduvalmistamine on tõesti tore.
+wife_byzantine.getgoodshousehold=Aeg pere eest hoolitseda.
+wife_byzantine.greeting=Ma võiksin siin nii palju rohkem teha, kui ma oleksin mees, kui ainult...
+wife_byzantine.greeting=Meie ülesanne on oma mehi ohjes hoida.
+
+villager.givespeech=Rooma impeerium on suurepärane ja meie küla on suurim.
+villager.givespeech=Meie küla peab tänama oma juhtkonda kogu selle suuruse eest.
+villager.givespeech=Meil, roomlastel, on parimad juhid ja parimad inimesed.
+
+villager.listentospeech=Tal on õigus!
+villager.listentospeech=Au meile!
+villager.listentospeech=Me võime alistada kõik!
+villager.listentospeech=Au Jumalale ja meie taeva saadetud juhile!
+
+special_byzantine.greeting=Sinu teenistus saab tasu, $name.
+special_byzantine.calltoarms=Ära katseta oma õnne, laps.
+special_byzantine.gopray=Kummarda mu ees...
+
+oldshepherd_byzantine.greeting=Mu veendumused on mind edasi viinud…
+oldshepherd_byzantine.greeting=Aita mul oma unistus täita, $name, ja sa saad tasu...
+oldshepherd_byzantine.calltoarms=Boskokratori nimel!
+oldshepherd_byzantine=Püha Boskokrator, õnnista mind ja mu lambaid.
+
+merchant_armour.greeting=Ainult parimad soomused ja relvad!
+merchant_armour.keepstall=Tere tulemast, tere tulemast! Toon teile parimad mõõgad, mida leida võib!
+
+merchant_dyes.greeting=Ma käin iga päev värvides! Oot, ma pole ju indialane.
+merchant_dyes.keepstall=Tulge ja vaadake! Värve kogu maailmast!
+
+merchant_food.greeting=Kuidas oleks maitsva souvlakiga, $name?
+merchant_food.keepstall=Kogu toit, mida iial süüa tahate!
+
+merchant_materials.greeting=Tulge ostma parimaid ehitusmaterjale! Mina ja mu selg täname teid.
+merchant_materials.keepstall=Liiv, kivi ja tellised! Dioriit ja kvarts!
+
+merchant_relics.greeting=Müün väärtuslikku käsitööd ja pühi esemeid, $name.
+merchant_relics.keepstall=Tulge ja vaadake rooma käsitöö tippu.
+
+merchant_textiles.greeting=Tõsiselt, $name? See nahk?
+merchant_textiles.keepstall=Peenimad vaibad ja rõivad, nagu Konstantinoopolis!
+
+loneabbot_byzantine.greeting=Tere tulemast, $name. Võite oma teekonnast puhata, siin olete turvaliselt.
+lonemonk_byzantine.greeting=Ma ei saa teile midagi pakkuda, $name.
+
+loneabbot_byzantine.gosocialise=Ootan pikisilmi, et oma õpinguid jagada.
+
+lonemonk_byzantine.gosocialise=Ootan pikisilmi, et oma õpinguid jagada.
+lonemonk_byzantine.plantseeds=Jumal õnnistagu neid seemneid.
+lonemonk_byzantine.collectcrop=Need viljad on kingitus Jumalalt endalt.
+lonemonk_byzantine.makebread=Poja suur ohver algab selle leivaga.
+
+villager.plantseeds=Tunnen, et sel aastal tuleb meil rikkalik saak.
+villager.collectcrop=Teadsin küll! Rikkalik saak!
+
+villager.gostudy=Palun ärge segage mind, $name.
+
+villager.gotreerelax=See varjuline paik on lihtsalt täiuslik…
+villager.gotreerelax=Võiksin selle puu all kogu päeva istuda...
+
+villager.relight=Jumala armastus on mu ainus soov!
+villager.golookout=Täna saabub laev. Ma tean seda.
+villager.golookout=Igav töö, aga vähemalt makstakse mulle.
+villager.sellercoming=Tulen otsekohe!
+villager.tradecomplete=Tuhat tänu, head äri teile!

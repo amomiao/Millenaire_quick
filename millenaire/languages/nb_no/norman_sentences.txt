@@ -1,0 +1,135 @@
+villager.greeting=Hei, $name!
+villager.greeting=En vakker dag, ikke sant?
+villager.greeting=Det kommer til å regne, jeg kjenner det på meg.
+villager.greeting=Jeg husker ikke Normandie helt slik.
+guard.greeting=Du ser litt spinkel ut, $name. Jeg skal beskytte deg om du havner i knipe.
+priest.greeting=Velsignet være du, mitt barn.
+monk.greeting=Gud være med deg, broder.
+boy.greeting=Når jeg blir stor, vil jeg bli som far.
+knight.greeting=Jeg adlyder kun kong Vilhelm, hertug av Normandie, og Gud. I den rekkefølgen.
+knight.greeting=$name, visste du at jeg kjempet ved Hastings?
+knight.greeting=Jeg tar dette landet i besittelse i hertugen av Normandies navn!
+lady.greeting=Min søster ektet en hertug. Jeg bor her.
+lady.greeting=Du skulle ha sett min fars borg. Det, det var en sann festning.
+viking_merchant.greeting=Dette landet tilhører vikingene. England likeså. Sicilia likeså. Leve oss!
+viking_merchant.greeting=I dag kommer jeg for å handle. I morgen...
+weapon_merchant.greeting=Vil du virkelig vite hvordan jeg overlevde alle disse årene på reise alene med verdifullt gods?
+plant_merchant.greeting=Noen sier jeg er en drømmer, men jeg er ikke den eneste...
+oriental_merchant.greeting=Dette landet er rikt, men måtte det være så kaldt?
+oriental_merchant.greeting=Har du vært i Córdoba? Det, det er et sivilisert sted.
+art_merchant.greeting=Folkene her er barbarer.
+art_merchant.greeting=Ingen by i verden tåler sammenligning med Konstantinopel.
+art_merchant.greeting=Vi bysantinere er de siste sanne romere. Beundre vår sivilisasjon!
+wool_merchant.greeting=Nederlandske tekstiler er de fineste vest for Cathay.
+seneschal.greeting=Jeg forvalter disse landområdene for min konge.
+seneschal.greeting=Jeg lengter etter å vende tilbake til kongens hoff.
+guildmaster.greeting=Håndverkere er intet verdt uten noen til å holde dem i ørene.
+
+knight.patrol=Jeg hersker over disse landområdene.
+knight.patrol=Makt er rett, og jeg er mektig.
+
+lady.maketapestry=Ingen her setter pris på kunst.
+lady.maketapestry=Kanskje disse stuene vil virke mindre dystre med slike tepper. Kanskje.
+
+villager.gorest=Litt hvile ville gjort meg godt...
+villager.gorest=Livet her er nokså trist.
+villager.gorest=Intet av interesse hender noensinne her.
+villager.gorest=Jeg er trett.
+villager.godrink=Det er drikke vi trenger!
+villager.godrink=En sider har aldri skadet noen.
+villager.gopray=Jeg taler til Gud, ikke til deg, $name.
+
+farmer.bringbackresourceshome=La oss bringe inn dette gylne kornet.
+farmer.collectcrop=Det ser ut som kornet er modent.
+farmer.plantseeds=Jeg sår, og jeg skal høste.
+
+lumberman.bringbackresourceshome=Selv min kone vil måtte innrømme at dette er mye tømmer.
+lumberman.choptrees=Se på meg felle dette treet!
+lumberman.gathergoods=En fin liten kvist der borte.
+lumberman.plantsaplings=Snart blir det et praktfullt tre! Og da feller jeg det.
+
+wife.gethousethresources=Det ser ut til at min mann har gjort et arbeid for én gangs skyld.
+wife.getresourcesforbuild=Av sted for å hente et tonn eller to byggematerialer. Jeg er sterkere enn jeg ser ut til!
+wife.makebread=Brødet mitt er det beste i landsbyen.
+//villager.BeSeller=Jeg kommer, jeg kommer!
+wife.makecider=Å brygge sider er ikke det verste arbeidet her omkring.
+wife.makecalva=En manns drikk, laget av en kvinne.
+wife.construction=Jeg bygger, jeg bygger, slik bare en kvinne kan!
+wife.construction=Menn har ikke den finhet som kreves til presisjonsarbeid.
+wife.construction=Dette blir en praktfull bygning.
+wife.getgoodshousehold=Hvorfor er det alltid jeg som må hente alt?
+wife.delivergoodshousehold=«Hent dette, hent hint», sier de. En vakker dag nekter jeg!
+
+villager.goplay=Jeg går ut og leker.
+villager.becomeadult=På tide å bli noe i denne verden!
+
+villager.makeboudin=Du ville ikke spist det om du visste hvordan det lages.
+
+smith.makenormantools=Normanniske verktøy er de fineste i verden.
+smith.makenormanweapons=Forsøk ikke å kjempe mot en mann jeg har utrustet.
+
+
+miner.mining=Gruvedrift er en kunst, vet du.
+miner.mining=Ingen andre i landsbyen har styrken og utholdenheten som kreves for dette arbeidet. Og tror du de er takknemlige?
+miner.cooking=Dette er ordentlig matlaging.
+
+villager.gopray.chosen=Det er lenge siden jeg sist har bedt...
+priest.gopray.chosen=Å be er hardere arbeid enn det synes.
+
+villager.calltoarms=Til våpen! Til våpen!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Alle for én!
+villager.calltoarms=Aux armes, citoyens!
+
+monk.makebooks=Var ikke forfengelighet en synd, ville jeg sagt at mine håndskrifter er de fineste i landet.
+
+priest.makeamulets=Dette bør ikke ses av utenforstående...
+
+viking_merchant.keepstall=Vikingmagi er sterk magi.
+viking_merchant.keepstall=Kom og kjøp. Jeg skal ikke fortelle deg hvilke ofre som måtte til for å gjøre disse amulettene mektige.
+weapon_merchant.keepstall=Du ønsker ikke å vite hva som hendte mannen som ga meg dette arret. Men du kan kjøpe bladet jeg brukte.
+plant_merchant.keepstall=Jeg selger alle de urter du noen gang vil få bruk for.
+oriental_merchant.keepstall=Kom og se herligheter som folk her aldri får øye på!
+art_merchant.keepstall=Perler for svin, som de sier her.
+wool_merchant.keepstall=All den rosa ullen du vil kunne ha bruk for!
+
+villager.makeglassbottles=En vellaget flaske gir en vellykket trylledrikk!
+villager.harvestwarts=Takk Gud for at jeg har hansker på.
+villager.plantwarts=Bare mester Vif-argent kunne forstått hvordan man dyrker disse vederstyggelighetene.
+villager.brewpotions=En dag skal jeg bli en mester i alkymi!
+villager.greeting=Etter en god natts søvn er jeg på beina igjen!
+orderguard.calltoarms=Vik bort, helvetes yngel!
+orderguard.calltoarms=Frykt vreden fra Den Nye Verdens Orden!
+orderguard.greetings=Jeg hilser deg i Ordenens og stormesterens navn.
+orderguard.greetings=Jeg hilser deg!
+orderguard.patrol=Jeg adlyder kun Gud.
+orderguard.patrol=Vår plikt er å beskytte dette hellige stedet.
+villager.childeatapple=Epler er gode, men hvorfor er det ingen som kan lage epleterte?
+villager.childobserveagriculture=Det sies at jordbruk er et edelt yrke, og likevel har jeg aldri sett en adelsmann drive med det!
+villager.childobserveconstruction=Det er litt rart at det bare er kvinner som bygger i landsbyen vår.
+villager.childobserveproducealcohol=Da jeg var baby, pleide mor å ha calvados i melken min så jeg skulle sove. Hikk!
+villager.childobserveproducefood=Jeg liker innmat mindre etter at jeg fikk vite hvordan det lages.
+villager.childobservesmithing=Bam! Bam! Du må smi mens jernet er varmt!
+villager.gatherciderapples=Å plukke epler er en barnelek!
+villager.gatherciderappleschildren=Mamma sier det er min tur til å plukke epler, men jeg gjorde det jo i går!
+villager.gatherciderappleschildren=Hvorfor er det barna som må plukke eplene når vi ikke engang får drikke cider?
+villager.goholdaservice=I Faderens og Sønnens og Den hellige ånds navn...
+villager.goholdaservice=Vi taler til Gud, ikke til deg, $name.
+villager.goonpilgrimage=Storslått!
+villager.goonpilgrimage=Gud velsigne denne katedralen! Gud velsigne Normandie!
+villager.goonpilgrimage=Jeg har kommet langveisfra.
+villager.goonpilgrimage=Imponerende!
+villager.goonpilgrimage=Jeg føler meg nær Gud.
+villager.goplayorgan=Hvorfor er det ingen som synger?
+villager.goplayorgan=Jeg er ensom, så ensom...
+villager.gopreachonpulpit=Pater noster qui es in caelis: Sanctificetur nomen tuum. /
+villager.gopreachonpulpit=Adveniat regnum tuum: Fiat voluntas tua, sicut in caelo, et in terra. /
+villager.gopreachonpulpit=Panem nostrum quotidianum da nobis hodie. /
+villager.gopreachonpulpit=Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. /
+villager.gopreachonpulpit=Et ne nos inducas in temtationem. Sed libera nos a malo. /
+villager.inspectconstruction=Trodde du virkelig at disse uvitende bøndene kunne bygge slike byggverk på egen hånd? Slett ikke!
+villager.makecalva=Hvilken som helst tømmerhugger kan lage cider, men for calvados trenger du en mester!
+villager.makecider=Å lage cider er ikke det verste arbeidet her omkring.
+villager.plantsaplingappletree=Hvert epletre som plantes, er flere cidertønner i sikte!
+villager.sellercoming=Jeg står til tjeneste!
+villager.tradecomplete=Handelen er gjort, måtte Gud beskytte deg!

@@ -1,0 +1,402 @@
+//*    A párbeszéd sorai egy "v2;30;" stílusú kóddal kezdődnek, ami jelzi, ki beszél és mikor jelenhet meg a sor. Kérjük, pontosan másold át ezt a kódot a fordításodba.
+//*    A sor első fele (a / jelig) a falubeliek eredeti nyelvén van, és érintetlenül kell hagyni; a második felét kell lefordítani.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Érzem, hogy esni fog.
+v2;30;Normandiában mindig esett.
+
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Szép a falunk, nem találod?
+v2;30;Pompás! És keményen dolgozunk érte!
+
+newchat;key:sunset,weigth:10
+v1;0;Hol is kel fel a nap? Mindig elfelejtem.
+v2;30;Északon, hát persze!
+
+newchat;key:harvest,weigth:10
+v1;0;Mit gondolsz, jó lesz idén a termés?
+v2;30;Ki tudja, ilyen időjárás mellett.
+v1;60;Nincsenek már évszakok.
+
+newchat;key:indianfood,weigth:5
+v1;0;Hallottál már az indiaiakról?
+v2;30;Állítólag nagyon furcsák.
+v1;60;Még azt is hallottam, hogy az ételük éget!
+v2;100;Mint a kalvádosz?
+v1;120;Nem, rosszabb!
+
+
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ezek a bizánciak az idegeimre mennek!
+v2;30;Igen, láttad, milyen fennhéjázók velünk?
+v1;60;Mindezt azért, mert rómaiaknak vallják magukat.
+v2;100;Micsoda tréfa. Elfajzott rómaiak, ennyi.
+v1;130;Portyát kéne szerveznünk ellenük.
+v2;160;Vikingek vagyunk, mégiscsak!
+
+newchat;key:storm,weigth:10
+v1;0;Borzasztó vihar volt tegnap.
+v2;30;Igen, már azt hittem, leszakad a tető.
+v1;60;Meg kéne erősíteni mindet.
+
+newchat;key:visitors,weigth:10
+v1;0;Ami hiányzik errefelé, azok a látogatók.
+v2;30;Hát itt van $name…
+v1;60;De ő egy kicsit furcsa, nem?
+v2;100;Igaz, sosem tudjuk, mire készül.
+
+newchat;key:christmas,weigth:10
+v1;0;Mikor is van karácsony?
+v2;30;Nem tudom pontosan… Itt nem váltakoznak az évszakok.
+v1;80;Micsoda furcsa világ ez.
+v2;110;Néha szinte olyan, mint Normandia…
+v2;140;Aztán eszünkbe jut, hogy minden más.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Láttad te már Vilmos herceget?
+v2;30;Nem, soha. És ki tudja, most hol lehet?
+v1;60;Ha itt volna, már meghódítottuk volna ezt az új világot!
+v2;100;Éljen Vilmos herceg!
+
+
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Vetted észre, itt a föld lebeg, ha alá ásunk.
+v2;40;Igen, és aztán?
+v1;60;Normandiában leesett…
+v2;90;Normandiában Isten azt akarta, hogy essen. Itt azt akarja, hogy lebegjen.
+v2;150;Miért kritizálod Istent?
+
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Szeretem az esőt.
+v2;30;Egy normannak az jó dolog!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Te mit szeretsz jobban, a véreshurkát vagy a pacalt?
+v2;40;A véreshurkát, a pacal túl nehéz.
+v1;80;Túl nehéz? És még normannak hívod magad?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Kevés az állat ezen a vidéken.
+v2;30;Vannak tehenek, juhok és disznók.
+v2;60;Mi kéne még?
+v1;60;Lovak? És pónik!
+v2;90;Hát most már pónit akarsz?
+
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;A pacal, az aztán igazi férfiétel.
+v2;30;Asszonyok készítik…
+v1;60;De a tehenet férfiak vágják le!
+v2;100;És asszonyok hizlalják…
+
+newchat;key:countingcows,weigth:10
+v1;0;Kevés errefelé a szórakozás.
+v2;30;Az jó, csendes a hely.
+v1;60;És unalmas…
+v2;75;Számold meg a teheneket, az is szórakozás.
+v1;110;Tegnap már megtettem. A csirkéket is.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Micsoda eldugott zug ez. Szeretnék már mást is látni egy nap…
+v2;30;A többi falu mind ugyanolyan.
+v1;60;Nem falu! Mezőváros. Vagy akár igazi város!
+v2;90;Mit, mint Rouen? Megőrültél, az napokra van innen.
+v1;120;Rouen… vagy akár… Miért ne Párizs?
+v1;150;Képzeld el, azt mondják, ott huszonötezer ember lakik!
+v2;180;Eszedet vesztetted, szegény. Huszonötezer ember egy helyen? Hová tennék őket?
+
+
+
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Ilyen időben egy kis kalvádosz kötelező!
+v2;30;Minden időben az!
+v1;50;Normandiára és kalvádoszra való idejére!
+v2;70;Egészségünkre!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Ha nagy leszek, én leszek a falu bírója!
+v2;30;Sok levest kell megenned, mire odáig eljutsz.
+v1;60;És téged megbüntettetlek!
+v2;70;Jó-jó. Addig is irány dolgozni, vagy kapsz egy pofont.
+
+
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Az én apukám sokkal erősebb, mint a tied.
+v2;30;Marhaság. Az én apukám a legerősebb a faluban.
+v1;60;Álmodozol. Az én apukám két perc alatt földre teríti a tiédet.
+v2;70;Aha, és a Föld lapos, ugye?
+
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;A lányok semmire sem jók.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Lehet, hogy fiú vagy, de megríkatlak, amikor csak akarom.
+v2;30;Egyáltalán nem igaz! Pestises!
+
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Légy jó, vagy ma éjjel elvisz a Pokoltornác Embere!
+v2;40;Pff, kinőttem már az ilyen mesékből.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Na, szépségem, mit csinálsz ma este?
+v2;40;$targetfirstname, már mondtam, hogy nem!
+v1;60;Micsoda jellem!
+v2;80;Micsoda fajankó!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, micsoda szép izmaid vannak!
+v1;30;Hallgass, szerencsétlen! Ha meghallja a feleségem…
+v2;60;És akkor mi van, jóképű?
+v1;90;Tudod jól, milyen féltékeny!
+v2;120;És? Félsz tőle?
+v1;140;Félni? Tőle? Micsoda tréfa!
+v2;160;Hah!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;János testvér, János testvér
+v2;30;Még alszol? Még alszol?
+v1;60;Szólnak a harangok! Szólnak a harangok!
+v2;100;Bim, bam, bum. Bim, bam, bum!
+
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Kis pacsirta, kedves kis pacsirta,
+v2;0;Kis pacsirta, kedves kis pacsirta,
+v1;30;Kis pacsirta, lecsupálom a tolladat.
+v2;30;Kis pacsirta, lecsupálom a tolladat.
+v1;60;Lecsupálom a tolladat a fejedről.
+v2;60;Lecsupálom a tolladat a fejedről.
+v1;90;A fejedről! A fejedről!
+v2;90;A fejedről! A fejedről!
+v1;120;Szegény pacsirta…
+v2;160;Miért? Hisz vicces!
+
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Sétálgassunk az erdőben,
+v2;0;Sétálgassunk az erdőben,
+v1;30;Amíg a farkas nincs jelen.
+v2;30;Amíg a farkas nincs jelen.
+v1;60;Ha a farkas itt volna,
+v2;60;Ha a farkas itt volna,
+v1;90;Felfalna minket,
+v2;90;Felfalna minket,
+v1;120;De mivel nincs jelen,
+v2;120;De mivel nincs jelen,
+v1;150;Nem fal fel minket.
+v2;150;Nem fal fel minket…
+v2;180;Hát, biztos vagy benne?
+v1;200;Gyáva!
+
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;A jó Dagobert király
+v1;30;Fordítva vette fel a nadrágját.
+v1;60;A nagy Szent Eligius
+v1;90;Mondta neki: Ó királyom!
+v1;120;Felséged
+v1;150;Rosszul van nadrágba bújva.
+v2;180;Rosszul nadrágba bújva? Mit jelent ez?
+v1;220;Hogy nincs is rajta nadrág!
+v2;250;Marhaság, ő a király!
+v1;280;Hát nincs nadrág a királyon!
+v2;310;Még rajtad is van nadrág, te bolond!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Fiam, régóta nem gyóntál.
+v2;40;De atyám, nem vétkeztem!
+v1;70;Mindenki vétkezik ezen a bukott világon.
+v2;110;Még te is, atyám?
+v1;130;Ne légy szemtelen! Tíz Pater Nostert mondasz penitenciaként!
+
+
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Leányom, régóta nem gyóntál.
+v2;30;Igaz, atyám, és vétkeztem!
+v1;60;Ha a test bűne, arról máshol beszéljünk.
+v2;100;Köszönöm, atyám.
+v1;120;Addig is, tíz Pater Noster. Mindig hasznos!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Megint csiszoltam a technikámon.
+v1;30;Mielőtt összeállítom a gerendavázat, először…
+v2;70;Lenyűgöző.
+v1;90;Tényleg úgy találod?
+v2;110;Nem.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Imádok pacalt készíteni. Először leszúrjuk a tehenet…
+v1;40;Aztán kivesszük a beleket…
+v2;60;Hagyd abba, undorítasz!
+v1;80;De hisz imádod a pacalt!
+v2;110;És nem akarom tudni, hogyan készül.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Semmi kétség, a földművelés a legfontosabb mesterség.
+v1;40;Nélkülem nincs kenyér!
+v2;60;Én amúgy is jobban szeretem a pacalt.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Fiatalkoromban nagyon ígéretes inas voltam.
+v1;40;Maga Guillaume Vif-Argent érdeklődött irántam!
+v1;80;És most itt ragadtam.
+v1;110;Hülyéket babusgatok.
+v2;130;Hogy mondod, mi?
+v1;150;*sóhaj*
+
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Nézd a váramat! Igazi erőd!
+v2;30;Oly hatalmas vagy, uram!
+v1;60;Mikor visszatér Vilmos herceg, biztosan gróffá tesz!
+v2;100;Éljen $targetfirstname gróf!
+v1;130;Éljek én!
+
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Szépségem messze földön híres.
+v2;30;Pompás vagy, úrnőm!
+v1;60;Mégis egy semmi kis lovaghoz mentem feleségül…
+v2;100;De őlordsága minden bizonnyal gróffá lesz egy nap!
+v1;130;Az a fajankó? Miért nem mindjárt pápa is, ha már itt tartunk?
+v2;160;Miért is ne, úrnőm! Hát… úgy értettem…
+
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Alma, alma, alma!
+v1;30;Alma, alma… alma!
+v2;60;Inkább cider, cider, cider, nem igaz, a te esetedben?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Micsoda nyomorúságos falu.
+v2;30;Hé, idegen, vigyázz, mit beszélsz!
+v1;70;És micsoda elragadó lakók!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Szereztem egy kis nótát, meghallgatod?
+v2;40;Halljuk!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v2;70;Jól kezdődik…
+v1;90;Hazafelé tartok a melóból!
+v2;110;Nekem meg sok dolgom van.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;János testvér, János testvér!
+v1;30;Nagyon vicces, gyermekem.
+v2;60;Még alszol? Még alszol?
+v1;90;Jó-jó, ismerem a nótát.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;A disznónak minden része jó!
+v2;30;De azért elég nagy lármát csapnak, mikor elvágod a torkukat.
+v1;70;Minél jobban visít a disznó, annál jobb a húsa!
+
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;A falubeliek lelki üdvére vigyázok.
+v2;30;És van mit tenni!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;A falunk istenfélő.
+v2;30;És tiszteli a képviselőjét, $targetlastname atyát.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Vilmos király-herceg udvarában nagy becsben tartanak.
+v2;40;A király-herceg?
+v1;60;Őfelsége Hódító Vilmos, Normandia hercege és Anglia királya, te tudatlan!
+v2;100;Hol van Anglia?
+v1;120;A tengeren túl. Micsoda tudatlanság!
+v2;140;Melyik tengeren túl, uram?
+v1;160;Micsoda szemtelenség! Elég legyen!
+
+
+
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Pásztornak lenni nagyon nemes mesterség.
+v2;30;Nemes? Pásztor?
+v1;50;Nem minket választott-e Isten arra, hogy elsőként halljuk az Örömhírt?
+v2;90;Ja, igen. Miközben az újszülött bárányokra vigyáztatok – decemberben.
+v1;130;És aztán? Talán Betlehemben nincsenek évszakok. Mint itt!
+
+
+
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;A normannok igazi ereje a szerszámaikban és fegyvereikben rejlik.
+v2;40;Tehát a kovácsaikban?
+v1;60;Úgy van!
+
+
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Miért mindig az asszonyok építenek?
+v2;40;Ha zavar, a következő épülettel én foglalkozom.
+v1;80;Tényleg? Édes vagy! Akkor a függönyökre ügyelj, ne felejtsd el…
+v2;120;Mégse, hagyom, hogy te csináld.
+
+
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Tegnap elsétáltam az alkimista műhelye előtt.
+v1;40;Borzalmas záptojásszag volt!
+v2;80;Azt beszélik, a bölcsek kövét próbálja előállítani!
+v1;120;Én úgy hallottam, hogy fel akarja támasztani a halottakat.
+v2;160;Én meg, hogy szörnyet készít hullákból!
+v1;200;Micsoda borzalom!
+v2;220;Pedig olyan kedves fiú volt…
+
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Voltál már az új levéltárban?
+v1;30;Ott látható, ki mit csinál!
+v2;60;Á, valóban… és, hát…
+v1;90;Igen, láttam a tábládat.
+v1;120;Szégyellned kéne magad.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Imádom a péksütemények illatát, ahogy árad a pékségből.
+v2;40;Már csak valaki kéne, aki croissant-t is tud sütni.
+
+
+newchat;key:church,building:church,weigth:10
+v1;0;A templomunk valóban pompás.
+v2;30;Megmutatja, hogy istenfélő falu vagyunk.
+v1;60;És nagyobb, mint a szomszéd faluban!
+
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Most, hogy fogadónk van, kereskedni is fogunk!
+v2;40;Más szóval, az átutazó kereskedők majd kiszolgálják magukat a készleteinkből.
+v1;80;Mindig is cinikus voltál.
+
+
+
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Imádom a piacot! Annyi pompás áru!
+v2;40;Kevésbé érezzük magunkat elszigeteltnek.
+v2;80;De gazdagabbnak sem…
+
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;A fogadó kétségkívül a legjobb dolog, amit építettünk.
+v2;40;Senki sem fog itt ennek ellentmondani!
+
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Megállíthatatlanok vagyunk. Lenyűgöző hajóink és tiszteletreméltó lovagjaink a világ csapásai!
+v2;40;És kik az ellenfeleink? Egy csapatnyi római szélhámos és Maja kőimádó.
+v1;80;Ne feledd a havas bolondokat, akiknek még a pénz fogalma sem ismert!
+v2;120;Hahaha! A normann élet a legjobb a világon! Pompás cider, legjobb szerszámok. Ó, ez a mi aranykorunk!
+v1;160;És még osztozni is tudunk benne!
+v2;200;Hahaha!

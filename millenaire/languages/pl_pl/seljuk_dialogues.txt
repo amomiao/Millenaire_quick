@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Powinienem napić się ayranu.
+v2;30;Oby gospoda nie była dziś pełna.
+v1;60;Tak, oby nie było jak wczoraj.
+v2;90;Otóż to, a po ayranie zmęczenie mi przejdzie.
+v1;120;Masz rację.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Dzień dobry. Chciałbym kupić dywan.
+v2;30;Oczywiście. Jaki sobie życzysz?
+v1;60;Nie wiem. Chciałem kupić prezent, bo dziś urodziny mojego przyjaciela. Co byś polecił?
+v2;90;A co powiesz na czerwony dywan?
+v1;120;Dobrze, świetny pomysł.
+v2;150;Ile sztuk?
+v1;180;Tylko jeden. Możesz go ładnie zapakować?
+v2;210;Oczywiście, panie. Sam go wręczysz, czy mamy go dostarczyć?
+v1;240;Sam wręczę. Dziękuję.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Dzień dobry.
+v1;30;Dobrze spałaś?
+v2;60;Tak, całkiem dobrze.
+v1;90;Co chciałabyś zjeść na śniadanie?
+v2;120;Nie wiem, a ty?
+v1;150;Też nie wiem.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Tato, powiedz, jaką najlepszą rudę kiedykolwiek wykopałeś?
+v2;30;Niech pomyślę... chyba diament.
+v1;60;Jeśli znów taki znajdziesz, dasz mi jeden, tato?
+v1;90;Czemu nie, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah widzi wszystko, co robimy, $targetfirstname.
+v2;30;To prawda, mój hodża.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Mój ojciec wciąż zarzyna niewinne zwierzęta!
+v2;30; Gdyby to mięso nie było nam potrzebne, twój ojciec by tego nie robił.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Widziałeś kiedyś napój tak dobry jak ayran, bracie?
+v2;30;Nie, jeszcze nigdy.
+v2;60;A skąd go masz? Też chcę.
+v1;90;Tu obok jest kuchnia, w której go sprzedają.
+v2;120;Dobrze, wielkie dzięki.
+v2;150;A co jeszcze tam mają?
+v1;180;Wszystko, od ryby po pide.
+v2;210;To muszę zaraz iść.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Witaj, $targetfirstname.
+v2;30;Cześć!
+v1;60;Widziałeś nowy hamam?
+v2;90;Nie, jeszcze nie.
+v1;120;Musimy go szybko odwiedzić!
+v2;150;Dobrze, to dobre wieści.
+v1;180;Tak, tak, wiesz, czystość jest częścią wiary.
+v2;210;Dobrze, chodźmy zobaczyć.
+v2;240;Co powiesz na godzinę?
+v1;270;Nie, idźmy teraz.
+v2;300;W porządku, ale po co ten pośpiech, przyjacielu?
+v2;330;A dokąd właściwie idziemy?
+v1;360;Właściwie możemy chwilę poczekać.
+v2;390;Zawsze to samo z tobą, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Widziałeś budynek tak piękny jak ten meczet, bracie?
+v2;30;Nie, jeszcze nie.
+v2;60;A kiedy go skończono? Bardzo ładny.
+v1;90;To już dłuższy czas temu.
+v2;120;Ach, dobrze.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Nocą zawsze widzę dziwne rzeczy.
+v2;30;Mówią, że zło dnia jest lepsze niż dobro nocy.
+v1;60;Masz rację, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Pora na modlitwę.
+v2;30;Nie spóźnijmy się.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Pora na modlitwę.
+v2;30;Nie spóźnijmy się.
+v1;60;Jakże byłoby pięknie, gdybyśmy mieli wspaniały meczet, $targetfirstname.
+v2;90;Otóż to, bracie.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;A jak tam praca, $targetfirstname?
+v2;30;Nic się nie zmieniło, wszystko po staremu.
+v1;60;Czy podróże ci się podobają?
+v2;90;Tak, ale nogi też bolą.
+v1;120;Masz rację, $targetfirstname.
+v2;150;Pewnie, że mam!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah miłuje swoje pracowite sługi.
+v2;30;Dlatego z radością ciężko pracuję!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Rybołówstwo to kwestia cierpliwości, wiesz, kochana?
+v2;30;Cierpliwy jesteś tylko przy łowieniu ryb!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Jak ci minął dzień?
+v2;30;Był bardzo pracowity.
+v2;60;Jestem zmęczony.
+v1;90;Chciałbyś ayranu?
+v2;120;Chętnie, tak.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Witaj, $targetfirstname.
+v1;30;Jak się dziś masz?
+v2;60;Dziękuję, dobrze.
+v1;90;A rodzina, w porządku u nich?
+v2;120;Dziękuję, też w porządku.
+v1;150;Robi się dość gorąco, prawda?
+v2;180;Tak, naprawdę gorąco.
+v1;210;Pozdrów rodzinę.
+v2;240;Dziękuję, ty też pozdrów swoją.
+v1;270;Do widzenia.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Kiedy się wprowadziłeś?
+v2;30;Dopiero w ostatni weekend.
+v1;60;Nawet nie wiedziałem, że dom został sprzedany.
+v2;90;Bardzo polubiłem ten dom, więc musiałem się wprowadzić.
+v1;120;Rozumiem, bo to nadzwyczajny dom.
+v2;150;A od ilu lat mieszkasz w swoim domu?
+v1;180;Mieszkam tu już od dawna.
+v2;210;Mam nadzieję, że jeszcze długo będziemy sąsiadami.
+v1;240;Ja też.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Czemu cię tu wczoraj nie było?
+v2;30;Nie czułem się najlepiej.
+v1;60;A co się działo?
+v2;90;Bolał mnie żołądek.
+v1;120;Czujesz się już lepiej?
+v2;150;Wciąż jeszcze niezbyt dobrze.
+v1;180;Mam ci coś przynieść, żebyś się lepiej poczuł?
+v2;210;Nie, dziękuję. Wziąłem już lekarstwo.
+v1;240;Mam nadzieję, że szybko wydobrzejesz.
+v2;270;Dziękuję.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Słyszałaś nowinę?
+v2;30;Nic nie słyszałam.
+v1;60;Mojej sąsiadce w zeszłym tygodniu urodziło się dziecko.
+v2;90;Nikt mi nie powiedział.
+v1;120;Myślałam, że wiesz.
+v2;150;Naprawdę nic mi nie mówiono.
+v1;180;To słodkie maleństwo, maszallah.
+v2;210;Och, jakież to ekscytujące.
+v1;240;No nie, naprawdę powinnaś ją odwiedzić wraz z dzieckiem.
+v2;270;Oczywiście, że pójdę.
+v1;300;Chciałam tylko, żebyś wiedziała, co się wydarzyło.
+v2;330;Doceniam to.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Chciałabyś wybrać się ze mną w pole?
+v1;30;	Kiedy chciałabyś iść?
+v1;60;A co powiesz na najbliższy piątek?
+v1;90;Przykro mi, nie mogę. Mam kolację z przyjacielem.
+v1;120;A może w następny wtorek?
+v1;150;We wtorki chodzę na lekcje do meczetu.
+v1;180;Och, może innym razem?
+v1;210;Tak, dam znać.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;A to kto?
+v2;30;Nie znam jego imienia, ale to ktoś obcy w tych ziemiach.
+v1;60;Każdy, w kim nie ma zła, jest mile widziany w tych ziemiach.
+v2;90;Masz rację.

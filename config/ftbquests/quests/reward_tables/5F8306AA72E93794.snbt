@@ -1,0 +1,23 @@
+{
+	id: "5F8306AA72E93794"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			count: 16
+			id: "01E82FDD2AD63186"
+			item: {
+				count: 1
+				id: "minecraft:chorus_fruit"
+			}
+		}
+		{
+			count: 8
+			id: "50574ADA607FA333"
+			item: {
+				count: 1
+				id: "minecraft:chorus_flower"
+			}
+		}
+	]
+}

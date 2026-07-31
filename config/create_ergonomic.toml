@@ -1,0 +1,7 @@
+[general]
+enableDepotMerge = true
+enableChainEncase = true
+enableChainTogglePipes = true
+[finiteChain]
+axialDistance = 64
+pipeMaxDistance = 64

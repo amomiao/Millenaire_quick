@@ -1,0 +1,14 @@
+The millenaire/ directory is auto-deployed by Millénaire on each new
+version of the mod, erasing all changes made to it.
+
+If you want to customise content, copy the relevant files to the
+corresponding location in millenaire-custom/, which is never
+touched by updates.
+
+Most files in millenaire-custom/ replace their equivalent in
+millenaire/. The following are additive instead:
+  - Language files (<culture>_sentences.txt, <culture>_dialogues.txt)
+  - Namelists (*.txt under cultures/<culture>/namelists/)
+  - Traded goods (traded_goods.json per culture)
+
+See docs/feat/custom-content.md for the full authoring workflow.

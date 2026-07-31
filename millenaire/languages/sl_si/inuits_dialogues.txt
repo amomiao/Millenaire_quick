@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;In, lepotica, kaj počneš nocoj?
+v2;40;$targetfirstname, sem ti že povedala, obljubljena sem drugemu!
+
+newchat;key:beautiful,weigth:10
+v1;0;Kje smo? Tega kraja še nikoli nisem videl. Izgleda enako, a se zdi drugače.
+v2;30;Šamani pravijo, da smo v blagoslovljeni deželi prijaznih duhov, zato je tu tako čudovito!
+
+newchat;key:carribou,weigth:10
+v1;0;Kam so šli vsi karibuji? Pogrešam karibujevo meso.
+v2;30;Veliko smo lovili, a nismo našli nobenega karibuja.
+v2;60;Smo pa našli veliko nečesa, kar je videti kot bizoni!
+v1;60;Joj, bizon mi je odvraten, karibu je boljši.
+v2;90;Potem pa jej ribe, teh imamo na pretek.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Tu okoli ni kaj početi.
+v2;30;Dobro je, mirno.
+v1;60;In dolgočasno...
+v2;75;Lahko bi izkopal luknjo ali sezidal snežni iglu!
+v1;110;Svoj snežni iglu?!
+
+newchat;key:endermen,weigth:10
+v1;0;Si slišal, kaj starešina pravi o tistih visokih, suhih, strašnih ljudeh?
+v2;30;Da so Ljudje senc? Ne vem...
+v1;60;Ima pa smisel! Če smo res v blagoslovljeni deželi, bi bili spačeni prav takšni!
+v2;90;Toda če smo v blagoslovljeni deželi, zakaj so Ljudje senc sploh tu?
+v2;120;O... ehh, ne vem...
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Obožujem vonj mesa, ki se kuha v kuhinji.
+v2;30;Ne vem, jaz imam meso navadno raje surovo, drugačnega okusa je.
+v1;60;Hej, meni je všeč ta spremenjeni okus!
+
+newchat;key:hunting,weigth:10
+v1;0;Spet sem izpopolnil svoje spretnosti.
+v2;30;Hitro postajaš odličen lovec!
+v1;90;Res tako misliš?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Ti Japonci pa res znajo pripraviti ribe!
+v2;30;"Pripraviti" ribe? Misliš, da jih pač skuhajo, ne?
+v1;60;Ne, postrežejo hrano z vsemi temi izpopolnjenimi metodami in okusi.
+v2;90;Hrana ima lahko drugačen okus, ne da bi bila pokvarjena?
+v1;120;Ja, naslednjič bi moral z menoj, ko jih obiščem!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Moj oče je veliko močnejši od tvojega.
+v2;30;Moj oče je najmočnejši v vasi, tepec!
+v1;60;Sanjaj. Moj oče lahko tvojega premaga v dveh minutah.
+
+newchat;key:kys,weigth:10
+v1;0;Kdaj bo starešina odšel umret?
+v2;30;Mislim, da nam tega tu ni treba početi, ta novi svet je veliko bolj prijazen!
+v1;60;Verjetno res... a čudno je videti, da je še vedno živa.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Rad imam sneg.
+v2;42;Dobro za Inuita!
+
+newchat;key:meat,weigth:10
+v1;0;Mislim, da nam bo kmalu zmanjkalo mesa, sovražim, ko ga zmanjka.
+v1;30;Meso pa res ni isto kot enolončnice...
+v2;60;Ampak večina enolončnic ima v sebi meso?
+v1;90;Ja, a vseeno ni isto...
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Uh, poglej, kako majhni in slabotni so tukajšnji bizoni.
+v2;42;Tuji trgovec jim pravi "krave..?"
+
+newchat;key:murderer,weigth:10
+v1;0;Si slišal, kaj se mu je zgodilo po nesreči?
+v2;30;Nesreča ali ne, ubijati ljudi je narobe.
+v1;60;Ja, a ali smo ga res morali izgnati iz vasi? Slišal sem, da se mu je sam zmešalo.
+v2;90;Smo morali! Vsaj tu ni mrzlo in zunaj ne bo zmrznil.
+v1;120;Je to bolje? Zdaj je prisiljen sam živeti!
+
+newchat;key:normans,weigth:5
+v1;0;Srečal sem nekaj čudnih ljudi, sebe imenujejo Normani?
+v2;30;Ja, Normani so v redu, a res veliko potrebujejo.
+v1;60;Kako to misliš?
+v2;90;Eden je pred dnevi prišel mimo in izpraznil sem hišo, da bi mu dal stvari, a je očitno potreboval še več.
+v1;120;Ubogi človek.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Sneži?
+v2;30;Izgleda kot sneg, a ne zdi se hladno.
+
+newchat;key:seasons,weigth:10
+v1;0;Misliš, da bo letos dober lov?
+v2;30;Kdo ve, s tem vremenom, kot ga imamo.
+v1;60;Letni časi tukaj nimajo smisla.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Zavidam šamanom, želim si, da bi tudi sam lahko govoril z duhovi.
+v2;30;Lahko vprašaš šamana, če te bo poučil?
+v1;60;Mogoče... a nekateri duhovi so strašni.
+v2;70;Res je, vedno bodo strašni duhovi, na katere je treba paziti.
+
+newchat;key:sunset,weigth:10
+v1;0;Utrujen sem, dan ne mine dovolj hitro...
+
+newchat;key:visitors,weigth:10
+v1;0; Ta kraj je čuden, poln je čudnih ljudi.
+v2;30;Misliš take, kot je $name?
+v1;60;No, $name je samo ena oseba, mislim na vse tiste druge.

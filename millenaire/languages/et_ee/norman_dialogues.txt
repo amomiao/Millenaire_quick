@@ -1,0 +1,358 @@
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Käisin eile alkeemiku töökoja eest läbi.
+v1;40;Seal oli mädamuna hais!
+v2;80;Räägitakse, et ta üritab tarkadekivi luua!
+v1;120;Mina kuulsin, et ta tahab surnuid ellu äratada.
+v2;160;Ja mina, et ta loob kehaosadest koletise!
+v1;200;Milline õudus!
+v2;220;Ja ta oli ometi nii kena poiss...
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Lõokene, armas lõokene,
+v2;0;Lõokene, armas lõokene,
+v1;30;Lõokene, ma kitkun su suled ära.
+v2;30;Lõokene, ma kitkun su suled ära.
+v1;60;Kitkun su peast suled.
+v2;60;Kitkun su peast suled.
+v1;90;Peast ära!
+v2;90;Peast ära!
+v1;120;Vaene lõokene siiski...
+v2;160;Miks? See on ju lõbus!
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Kas oled uut arhiivi külastanud?
+v1;30;Seal näeb, mida kõik teevad!
+v2;60;Ah tõesti... ja, hm...
+v1;90;Jah, nägin sinu tahvlit.
+v1;120;Sul peaks endast häbi olema.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Nojah, kaunitar, mida sa täna õhtul teed?
+v2;40;$targetfirstname, ma juba ütlesin sulle — ei!
+v1;60;Milline iseloom!
+v2;80;Milline lollus!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, kui kenad lihased!
+v1;30;Ole vait, lollike! Kui mu naine kuuleb...
+v2;60;Mis siis, kena mees?
+v1;90;Tead küll, kui armukade ta on!
+v2;120;Ja siis? Sa kardad teda?
+v1;140;Kardan? Teda? Sa nalja teed!
+v2;160;Hah!
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Mulle meeldib pagariärist tulev värske leiva lõhn.
+v2;40;Nüüd vajame veel kedagi, kes oskab sarvesaiu teha.
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Meie küla on ilus, kas pole?
+v2;30;Suurepärane! Ja me teeme selle nimel kõvasti tööd!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Kumba sa eelistad, verivorsti või rupskeid?
+v2;40;Verivorsti. Rupskid on liiga rasked!
+v1;80;Liiga rasked? Ja sa nimetad ennast normanniks?
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Kui ma suureks saan, olen külapealik!
+v2;30;Sa pead enne palju suppi sööma.
+v1;60;Ja ma lasen sind karistada!
+v2;70;Just nii. Aga praegu mine tööle, muidu saad laksu.
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Need bütsantslased ajavad mind närvi!
+v2;30;Kas nägid, kui ülbed nad on?
+v1;60;Kõik sellepärast, et nad väidavad end olevat roomlased.
+v2;100;Milline nali. Mandunud roomlased pigem.
+v1;130;Korraldagem nende vastu rüüsteretk!
+v2;160;Lõppude lõpuks oleme me viikingid!
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Sellise ilmaga on calva hädavajalik!
+v2;30;Iga ilmaga!
+v1;50;Terviseks Normandiale ja tema calva-ilmale!
+v2;70;Terviseks!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Olen oma oskusi taas täiendanud.
+v1;30;Nüüd, enne raamistike kokkupanekut, alustan...
+v2;70;Põnev.
+v1;90;Kas tõesti arvad nii?
+v2;110;Ei.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Mulle meeldib rupskeid valmistada. Esmalt lased lehmal verd...
+v1;40;Seejärel kogud soolikad...
+v2;60;Lõpeta ära, sa tülgastad mind!
+v1;80;Aga sulle ju maitsevad rupskid!
+v2;110;Ja ma ei tahagi teada, kuidas neid tehakse.
+
+newchat;key:christmas,weigth:10
+v1;0;Millal jõulud tulevad?
+v2;30;Ma õigupoolest ei tea... Aastaajad ei vaheldu siin.
+v1;80;Milline veider maailm.
+v2;110;Vahel tundub peaaegu Normandia moodi...
+v2;140;Ja siis näeme, et kõik on hoopis teisiti.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Meie kirik on tõeliselt suurepärane!
+v2;30;See näitab, et oleme jumalakartlik küla.
+v1;60;Ja see on suurem kui naaberküla kirik!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mu poeg, sa pole ammu pihtinud.
+v2;40;Aga isa, ma pole ju pattu teinud!
+v1;70;Selles langenud maailmas teevad kõik pattu.
+v2;110;Isegi teie, isa?
+v1;130;Aitab jultumusest! Loed patukahetsuseks kümme Meie Isa palvet!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Mu tütar, sa pole ammu pihtinud.
+v2;30;See on tõsi, isa, ja ma olen pattu teinud!
+v1;60;Kui see oli lihalik patt, arutame seda mujal.
+v2;100;Tänan, isa.
+v1;120;Vahepeal aga kümme Meie Isa palvet. Alati tuleb kasuks!
+
+newchat;key:countingcows,weigth:10
+v1;0;Siin pole eriti midagi teha.
+v2;30;Hea küll, rahulik.
+v1;60;Ja igav...
+v2;75;Miks sa ei loe lehmi?
+v1;110;Juba tehtud, eile. Ja kanad ka.
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Hea kuningas Dagobert
+v1;30;Pani püksid pahupidi.
+v1;60;Suur püha Eligius
+v1;90;Ütles talle: oh mu kuningas!
+v1;120;Teie Majesteet
+v1;150;Kannab pükse halvasti.
+v2;180;Halvasti? Mida see tähendab?
+v1;220;Et tal pole pükse!
+v2;250;Lollus, ta on ju kuningas!
+v1;280;Aga ikkagi pole kuningal pükse!
+v2;310;Isegi sul on ju pükse, lollike!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Ole tubli, muidu viib Hämarmees su täna öösel ära!
+v2;40;Pfff, ma olen sellisteks jutuks liiga vana.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Kahtlemata on talupidamine kõige tähtsam amet.
+v1;40;Ilma minuta poleks leiba!
+v2;60;Mulle meeldivad ikkagi rupskid rohkem.
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Kas oled märganud, et siin hõljub muld, kui all kaevame?
+v2;40;Jah, ja siis?
+v1;60;Normandias kukkus see alla...
+v2;90;Normandias tahtis Jumal, et see kukuks. Siin tahab ta, et see hõljuks.
+v2;150;Miks sa Jumalat kritiseerid?
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Me oleme peatamatud. Meie võimsad laevad ja auväärsed rüütlid on maailma nuhtlus!
+v2;40;Ja kes on meie vaenlased? Hunnik rooma kavaldajaid ja maia kivikummardajaid?
+v1;80;Ära unusta lumelolle, kellel pole isegi raha mõistet!
+v2;120;Hahaha! Normanni elu on maailma parim! Suurepärane siider, parimad tööriistad. Ah, see on meie kuldne ajastu!
+v1;160;Ja me jagame seda!
+v2;200;Hahaha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Vend Jaak, vend Jaak,
+v2;30;Kas sa magad veel? Kas sa magad veel?
+v1;60;Helista hommikukellad! Helista hommikukellad!
+v2;100;Ding, daing, dong. Ding, daing, dong!
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Kui ma noor olin, olin väga lootustandev õpipoiss.
+v1;40;Guillaume Vif-Argent ise tundis minu vastu huvi!
+v1;80;Ja nüüd olen siin kinni.
+v1;110;Hoolitsen lollide eest.
+v2;130;Mis, ah?
+v1;150;*ohe*
+
+newchat;key:harvest,weigth:10
+v1;0;Kas arvad, et sel aastal tuleb saak hea?
+v2;30;Kes teab, sellise ilmaga, mis meil olnud on.
+v1;60;Aastaajad ei pea siin enam paika.
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Siin on loomi vähe.
+v2;30;On ju lehmi, lambaid ja sigu.
+v2;60;Mida veel vaja on?
+v1;60;Hobuseid? Ja ponisid!
+v2;90;Kas sa tahad nüüd ponit?
+
+newchat;key:indianfood,weigth:5
+v1;0;Kas oled neist indialastest kuulnud?
+v2;30;Räägitakse, et nad on väga veidrad.
+v1;60;Olevat isegi nii, et nende toit kõrvetab!
+v2;100;Nagu calva?
+v1;120;Ei, hullem!
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Nüüd, kui meil on võõrastemaja, saame kaubelda!
+v2;40;Teisisõnu, mööduvad kaupmehed hakkavad meie varudest võtma.
+v1;80;Sa oled alati küüniline olnud.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mu isa on palju tugevam kui sinu oma.
+v2;30;Lollus. Mu isa on külas kõige tugevam.
+v1;60;Une nägu. Mu isa lööb sinu oma kahe minutiga maha.
+v2;70;Ja Maa on ümmargune, või kuidas!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Tüdrukud on tarbetud.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Sa võid küll poiss olla, aga ma võin sind nutma ajada, millal tahan.
+v2;30;Ei ole nii! Ei ole nii!
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Vaata mu lossi! Tõeline kindlus!
+v2;30;Te olete vägev, mu isand!
+v1;60;Kui hertsog Vilhelm tagasi tuleb, teeb ta minust kindlasti krahvi!
+v2;100;Elagu krahv $targetfirstname!
+v1;130;Elagu mina!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Mu ilu on neis maades legendaarne.
+v2;30;Te olete suurepärane, mu emand!
+v1;60;Ja ometi abiellusin ma tühise pisirüütliga...
+v2;100;Aga tema isandus saab ühel päeval kindlasti krahviks!
+v1;130;See lollpea? Ja miks mitte paavstiks, kui juba välja minna?
+v2;160;Miks mitte, mu emand! Hm... pidasin silmas...
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Mulle meeldib vihm.
+v2;30;Hea omadus normannile!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Käime metsa jalutamas,
+v2;0;Käime metsa jalutamas,
+v1;30;Kuni hunti seal pole.
+v2;30;Kuni hunti seal pole.
+v1;60;Kui hunt seal oleks
+v2;60;Kui hunt seal oleks
+v1;90;Sööks ta meid ära,
+v2;90;Sööks ta meid ära,
+v1;120;Aga kuna teda pole,
+v2;120;Aga kuna teda pole,
+v1;150;Ei söö ta meid.
+v2;150;Ei söö ta meid...
+v2;180;Hm, kas sa oled kindel?
+v1;200;Argpüks!
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Õunad, õunad, õunad!
+v1;30;Õunad, õunad... õunad!
+v2;60;Pigem siider, siider, siider sinu puhul, kas pole?
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Mulle meeldib turg! Nii palju kena kraami!
+v2;40;Nüüd tunneme end vähem üksildasena.
+v2;80;Aga mitte rikkamana...
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Milline armetu küla.
+v2;30;Hei võõras, valva oma keelt!
+v1;70;Ja kui meeldivad inimesed!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Olen väikese laulu välja mõelnud, kas tahad kuulda?
+v2;40;Lase tulla!
+v1;50;Heiho, heiho, heiho, heiho...
+v2;70;Lootustandev algus...
+v1;90;On aeg tööst koju minna!
+v2;110;Ja mul on palju tööd teha.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Vend Jaak, vend Jaak!
+v1;30;Väga naljakas, mu laps.
+v2;60;Kas sa magad veel? Kas sa magad veel?
+v1;90;Aitab, aitab, ma tean seda laulu.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Milline mahajäetud paik. Tahaksin kunagi midagi muud näha...
+v2;30;Teised külad on kõik samasugused.
+v1;60;Mitte küla! Aleviku. Või isegi linna!
+v2;90;Nagu mis, Rouen? Sa oled hull, see on päevade kaugusel.
+v1;120;Rouen... või ehk... Miks mitte Pariis?
+v1;150;Kujuta ette, räägitakse, et seal elab 25 000 inimest!
+v2;180;Sa lähed hulluks. 25 000 inimest ühes kohas? Kuhu nad mahuksid?
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Seas on kõik hea!
+v2;30;Aga nad teevad ikkagi palju lärmi, kui neid tapad.
+v1;70;Mida valjemini siga kiljub, seda parem on liha!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Ma hoolitsen külaelanike hingelise tervise eest.
+v2;30;Ja tööd on küll!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Meie küla kardab Jumalat.
+v2;30;Ja tema asemikku, isa $targetlastname.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Tunnen, et hakkab vihma sadama.
+v2;30;Normandias sadas alati...
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Mind hinnatakse kõrgelt kuninga, hertsog Vilhelmi õukonnas.
+v2;40;Kuninga, hertsogi?
+v1;60;Tema Majesteet Vilhelm Vallutaja, Normandia hertsog ja Inglismaa kuningas, lollpea!
+v2;100;Kus see Inglismaa on?
+v1;120;Teisel pool merd. Milline rumalus!
+v2;140;Millise mere, mu isand?
+v1;160;Milline jultumus! Aitab!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Lambakarjus olla on üllas amet.
+v2;30;Üllas? Karjus?
+v1;50;Kas mitte Jumal ei valinud meid kuulutama head sõnumit?
+v2;90;Ah jah. Sel ajal, kui te hoolitsesite vastsündinud tallede eest — detsembris.
+v1;130;Mis siis? Ehk pole Petlemmas aastaaegu. Nagu siin!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;Normannide tõeline jõud peitub nende relvades ja tööriistades.
+v2;40;Ja seega ka seppades?
+v1;60;Just nii!
+
+newchat;key:storm,weigth:10
+v1;0;Eile oli kohutav torm.
+v2;30;Tõepoolest, ma arvasin, et katus lendab minema.
+v1;60;Peaksime nad kõik tugevdama.
+
+newchat;key:sunset,weigth:10
+v1;0;Kust päike täpselt tõuseb? Ma unustan kogu aeg ära.
+v2;30;Põhjast, kust mujalt?
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Kõrts on kindlasti parim asi, mille me külla ehitanud oleme.
+v2;40;Sellele ei vaidle siin keegi vastu!
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Rupskid, see on meeste roog.
+v2;30;Mille naised valmistavad...
+v1;60;Lehmadest, kelle mehed tappisid!
+v2;100;Ja keda naised toitsid...
+
+newchat;key:visitors,weigth:10
+v1;0;Mis siin puudu jääb, on külalised.
+v2;30;On küll $name...
+v1;60;Aga ta on natuke veider, eks ole?
+v2;100;Tõsi, me ei tea kunagi, mis tal plaanis on.
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Miks ehitavad alati naised?
+v2;40;Kui see sind häirib, tegelen järgmisega ise.
+v1;80;Kas tõesti! Sa oled nii armas! Niisiis kardinate puhul ära unusta...
+v2;120;Tegelikult, lasen sul ikka ise teha.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Kas oled hertsog Vilhelmi näinud?
+v2;30;Ei, kunagi. Ja kes teab, kus ta praegu on?
+v1;60;Kui ta siin oleks, oleksime juba selle uue maailma vallutanud!
+v2;100;Elagu hertsog Vilhelm!

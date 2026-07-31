@@ -1,0 +1,338 @@
+//*  A párbeszéd-sorok egy "v2;30;" stílusú kóddal kezdődnek, amely megadja, ki beszél és mikor olvasható a párbeszéd. Kérjük, pontosan másold át ezt a kódot a fordításodba.
+//*  A sor első fele (a / előtti rész) a falulakók eredeti nyelvén van, ezért úgy kell hagyni, a második felét kell lefordítani.
+//* Francia: xIflot, angol: Teethdude, maja: TheyCallMePoncho
+
+
+
+newchat;key:stone,weigth:10;
+v1;0;A kő a létező legjobb anyag.
+v2;30;Még jobb, ha kiégetjük! Éljen a kő!
+v1;60;Bányászni kell! Munkára!
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;A piramisunk a legszebb és a legjobban megépített.
+v2;30;Az biztos. Megnéztem a többi falut. Azok is nagyon szépek, de a miénkkel egyik sem ér fel!
+v1;60;Valóban! Az építészetünk nagyon eredeti és egyedi.
+v2;90;Azért ne dicsekedjünk túl sokat. Nem szeretnék azokhoz a felfuvalkodott bizánciakhoz hasonlítani.
+v1;120;Ó igen, ők... utálom őket. Hogy lehet valaki ilyen beképzelt!
+
+newchat;key:player,weigth:10;
+v1;0;Kevés a látogató errefelé.
+v2;30;Igen, csak $name és más eltévedt emberek...
+v1;60;Apropó $name, nem találod egyre furcsábbnak és fáradtabbnak?
+v2;90;Igaz. Pihennie kellene egy kicsit.
+
+newchat;key:miner,weigth:9;
+v1;0;Több bányászt kellene felfogadnunk.
+v2;30;Igen! A kő, a szikla és az ércek a legjobb anyagok.
+v1;60;Egyetértek... de nem vagyunk elegen a faluban, növekednie kell.
+v2;90;És a gyerekeket nem dolgoztathatjuk. Túl fiatalok.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Ideje a házzal foglalkozni.
+v2;30;De már tegnap is azt csináltad!
+v1;60;Mindegy is, itt amúgy is csak ezt szabad csinálnom.
+v2;90;Ne mondd! Folyton csak panaszkodsz!
+v1;120;Ahelyett, hogy szememre hánynád a panaszkodásomat, próbáld inkább megérteni, miért panaszkodom!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Á, kedves barátom, $targetfirstname! Hogy vagy?
+v2;30;Üdv $targetfirstname! Megvagyok, ahogy bírom. Rosszul mennek az ügyek.
+v1;60;Mi? Abbahagytad a kőcserét az indiaiakkal?
+v2;90;Igen. Most, hogy a független japán bányászok felajánlották a szolgálataikat, nincs többé szükségük rám.
+v1;120;Akkor ajánlj nekik valami mást.
+v2;150;Van valami ötleted?
+
+newchat;key:monster,weigth:5;
+v1;0;Sok szörny van mostanában.
+v2;30;Remélem, az őreink el tudják majd hárítani őket.
+v1;60;Engem az aggaszt, hogy egy egész horda zöldes színű, robbanékony lény támadhat meg minket...
+v2;90;Ne aggódj. Vannak csaliink ellenük.
+v1;120;Igazad van. A legrosszabb esetben ott van $name. Jól verekszik, és biztos megvéd minket.
+v2;150;Én sem kételkedem ebben. Nem is olyan rossz fej.
+
+newchat;key:normands,weigth:6;
+v1;0;Láttad a normannok bőrének színét? Olyan sápadtak!
+v2;30;Igen! Soha nem láttam még ilyen színt. Furcsa.
+v1;60;Mintha meg lennének átkozva...
+v2;90;Ne beszélj butaságot. Ugyanolyan emberek, mint a többiek.
+v1;120;Biztos az alkohol miatt változtak meg ilyenre. Biztos vagyok benne, hogy nem voltak mindig fehérek.
+v2;150;Ugyan, tévedsz, ne légy nevetséges.
+
+newchat;key:alchimist,weigth:4;
+v1;0;Az erdőt felfedezve láttam egy furcsa alkimistát...
+v2;30;Te is láttad? Igen különös alak.
+v1;60;Az ám. Furcsa hozzávalókat sorolt fel. Tudod, mi az az "elsorvadt csontvázkoponya"? És a "lélekhomok"?
+v2;90;Nem. De nem hangzik túl megnyugtatóan.
+v1;120;Igen! Azt mondják, megpróbálja előállítani a bölcsek kövét.
+v2;150;Kedves $targetfirstname, ha hiszel az itteni pletykáknak, még azt is el fogod hinni, hogy a Föld gömbölyű.
+v1;180;Valószínűleg igazad van.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Láttam egy fura fekete tojást, kint a sivatagban.
+v2;30;Igazán? És hogy nézett ki?
+v1;60;Nagy volt, lila foltokkal. Tényleg nagy.
+v2;90;Normann piából ittál vagy csak viccelődsz velem?
+v1;120;De... igaz! Nem hazudok!
+v2;150;Hahá! Ha azt hiszed, hogy ezzel becsapsz, tévedsz!
+
+newchat;key:wither,weigth:3;
+v1;0;Az erdőben láttam egy furcsa fekete teremtményt.
+v2;30;Tényleg? Írd le, kíváncsi vagyok!
+v1;60;Hát egyfajta fekete csontváz volt. Két feje is volt a karjai végén, és egy a nyakán. És jéghideg tekintete...
+v2;90;Hideg fut le a hátamon.
+v1;120;Limbó-emberek támadták.
+v2;150;Limbó-emberek? Ugyan, ilyenek nem léteznek! Biztos csak álmodtad.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;Pékséget kellene építenünk. Az fellendítené az ügyeinket!
+v2;30;Így igaz. Nem érhetjük be a házi sütésű kenyérrel.
+v1;60;Menjünk, beszéljünk a főnökkel.
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Az én apukám a legjobb, mert favágó!
+v2;30;Ugyan! A fa semmire se jó! Az enyém jobb a tiédnél, mert bányász!
+v1;60;Fa nélkül a te apukád semmit sem érne!
+v2;90;Igen?! Te kötekedsz?!
+v1;120;Hagyd abba, a kő semmire sem jó, és kész. Be kell ismerned.
+v2;150;Kő nélkül a te apukád szabad ég alatt aludna!
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Félek felnőni...
+v2;30;Miért?
+v1;60;Hát azért, mert... túl sok a munka, és nem lehet többé játszani...
+v2;90;Dehogynem. Majd meglátod, nagyon jó!
+v1;120;Nem... nem akarom nem akarom nem akarom!
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;Apa és anya túl igazságtalanok! Mindig nekünk kell rendet raknunk a szobánkban!
+v2;30;Igen! Föl kellene lázadnunk és jobb bánásmódot követelnünk!
+v1;60;Rohamra! Irány anya!
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Hé, $targetfirstname, nézd ezt.
+v2;30;Furcsa kard! És furcsa íj! Hol szerezted?
+v1;60;Ez egy jumi íj és egy tacsi. Japán fegyverek.
+v2;90;Szépek és hatékonynak tűnnek. Sokba kerülnek?
+v1;120;De még mennyire! Csak az íjra 2 ezüstérmét kellett elszórnom!
+v2;150;Hűha! Sokat spórolhattál, mielőtt megvetted őket.
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Üdv, $targetlastname uram. Nos, áll még az alkunk?
+v2;30;Igen, igen. Minden megvan. Tegyünk úgy, ahogy megbeszéltük.
+v1;60;Mindig olyan pontos vagy! Öröm üzletet kötni veled!
+v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ Részemről az öröm. Tehát... 32 farönk 8 vasrúdért. Tessék!
+v1;120;Köszönöm szépen, uram. Szép napot.
+v2;150;Neked is, $targetlastname uram!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Felfogadlak, hogy védelmezz, cserébe napi 48 dénárért.
+v2;30;Hmmm. Attól függ, mennyi időre fogadsz fel, $targetfirstname.
+v1;60;Hat napra. A kutyáim nem elegendőek a teljes védelemhez.
+v2;90;Akkor egy ezüstdénár lesz. Annál kevesebbért nem.
+v1;120;Ez rablás!
+v2;150;Egyáltalán nem, $targetfirstname. Az életemet kockáztatom ebben a szakmában.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Megpróbálok majd rizst termeszteni.
+v2;30;Rizst? Mi az?
+v1;60;Egy növény, amit az indiaiaktól vettem. Állítólag finom.
+v2;90;Megkóstolhatom?
+v1;120;Sajnálom, de nem. Szükségem van rá, minden egyes magot el kell ültetnem.
+v2;150;Ez nem fog működni.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;Emlékszel a legutóbbi viharra?
+v2;30;Még szép! A termésünk jól megszívta az esőt, de rettenetes volt.
+v1;60;Nos, a szomszédos síkságon voltam, és volt egy disznó mellettem.
+v2;90;És aztán?
+v1;120;Belecsapott a villám és... felállt a hátsó lábaira...
+v2;150;Tényleg?! Hogy nézett ki?
+v1;180;Zöld penész volt rajta... vagy mit tudom én, mi volt az. És egy aranykard is.
+v2;210;Megtámadtad, vagy elfutottál?
+v1;240;Nem volt fegyverem. De úgy tűnt, nem akar megtámadni. Engem nézett, és forgatta a fejét. Aztán bolyongott tovább, anélkül, hogy tudta volna, hová megy.
+v2;270;A tűzzel kellett volna használnod. Ha úgy adódik, megtámadja a falut.
+v1;300;Érzéketlen volt a tűzre. Még egyszer belecsapott a villám, és semmit sem érzett.
+
+newchat;key:recolt,weigth:10;
+v1;0;Bőséges a termés ebben az évben.
+v2;30;Igen, de azon panaszkodni butaság lenne.
+v1;60;Persze!
+
+newchat;key:village,weigth:8;
+v1;0;Szépnek találom a falunkat.
+v2;30;Én is. Nagyon művészi.
+v1;60;Ez a kőnek és az építészetünk mesterségbeli tudásának köszönhető.
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Annyi kukoricát kell betakarítani, és olyan kevés az idő...
+v2;30;Igen, és bárcsak nekünk is jutna a termésből.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name elég furcsa.
+v2;30;Még a normannoknál is furcsább.
+v1;60;De honnan jön?
+v2;90;Nem vagyok biztos benne, nem úgy néz ki, mintha valamelyik kultúrából jönne.
+
+newchat;key:byzantins,weigth:9;
+v1;0;Egyáltalán nem bírom ezeket a bizánciakat, azt hiszik, hogy övék a Föld!
+v2;30;És láttad az építményeiket?
+v1;60;Igen, láttam. Tényleg furcsák.
+v2;90;Téglák? Mi értelme van?
+v1;120;Még üveget is használnak, mint a normannok.
+v2;150;Az igaz, de fejlettebbnek tűnnek, mint az indiaiak. Azok ablakaiban semmi sincs.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;Anya! Mehetek távolabb játszani a faluban?
+v2;30;Nem, gyermekem, nem akarom, hogy megsérülj.
+v1;60;Mitől sérülnék meg? Ott nem veszélyes.
+v2;90;Figyelj, vannak ott veszélyes lények...
+v1;120;M-Milyen lények, anya?
+v2;150;Szörnyű dolgok, mint... creeperek.
+v1;180;C-c-creeperek?
+v2;210;Igen, gyermekem, hazáig követnek, és akkor robbannak fel melletted, amikor a legkevésbé számítasz rá.
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Életem legjobb döntése volt, hogy harcos lettem.
+v2;30;Miért?
+v1;60;Mert ki tudok menni harcolni az ellenséggel. Sokkal szórakoztatóbb, mint kukoricát aratni.
+v2;90;De az én életem biztonságosabb.
+v1;120;Igaz, de én mindig is izgalmakra vágytam.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;Olyan akarok lenni, mint apám, ha felnövök!
+v2;30;Egy puhány?
+v1;60;Mit? Ő nem puhány.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Az biztos, hogy csodálatos az élet a palotámban.
+v2;30;És csodálatos palota is, törzsfőm!
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;Mi szeretnél lenni, ha nagy leszel?
+v2;30;Nem tudom, talán harcos, vagy bányász... vagy talán gazda...
+v1;60;Rendben, egy napon majd el kell döntened.
+
+newchat;key:wah,weigth:9;
+v1;0;Imádok Wah-t enni.
+v2;30;Én is! A legjobb dolog, amit valaha kitaláltunk.
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;Esőre van szükségünk a kukorica miatt.
+v2;30;Azt akarom, hogy essen.
+v1;60;Talán ha imádkozunk, a Szellemek esőt hoznak nekünk, hogy az idén tökéletes legyen a termés!
+v2;90;Igen, menjünk, amint nem leszünk túl elfoglaltak.
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;Mit fogunk csinálni, ha zombik hordája támad ránk?
+v2;30;Ne aggódj, én vagyok a legjobban képzett harcos a környéken.
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;A gazdag asszonyoknak mindenük megvan, mégsem dolgoznak.
+v2;30;Igen, bárcsak én is megengedhetném magamnak, hogy ne dolgozzak.
+v1;60;Tudtam, hogy gazdagabb férjet kellett volna választanom.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Remélem, egy napon én fogom uralni ezt a falut.
+v2;30;Csak álmodozz tovább, mert én előbb leszek magas pozícióban, mint te.
+v1;60;Majd meglátjuk... majd meglátjuk.
+
+newchat;key:indians,weigth:8;
+v1;0;Az indiaiak békésebbnek tűnnek, mint a normannok, nem?
+v2;30;Igen, talán szövetséget kellene kötnünk velük.
+v1;60;Hmm... igen, akkor talán együtt rajtaüthetnénk a normannokon! Vagy akár a bizánciakon is.
+
+newchat;key:gravity,weigth:7;
+v1;0;Rövidebbek itt a nappalok.
+v2;30;Igen, és néha mintha lebegne a talaj.
+v1;60;Kivéve a kavicsot... és a homokot.
+v2;90;Vajon miért?
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Az obszidiánszerszámok a legfinomabbak.
+v2;30;Olyan luxus, mégis mindenki hozzájuthat.
+v1;60;A buzogány nagyszerű az ellenség lecsapására.
+v2;90;Tényleg? Imádnám akció közben látni.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;A maja építészet a világ legszilárdabbja.
+v2;30;Köszönhetően annak a sok kőnek, amit ezekhez a szépségekhez bányászunk.
+v1;60;Vajon még hány kőházat fogunk csinálni?
+v2;90;Chéen k'iin a'al, amikoo./ Csak az idő tudja megmondani, barátom.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;Kevés kakaófa van errefelé. Egészségtelen ez a hely.
+v2;40;Ültessünk.
+v1;80;Te jó ég! A kakaómagok rendkívül drágák!
+v2;120;Ek Chuah majd segít nekünk.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;Nincs elég csirkénk az áldozathoz.
+v2;40;Úgy emlékszem, találkoztam $name-nel. Vegyünk tőle tojást?
+v1;90;Igazat beszélsz, tegyük ezt.
+
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Ah Munnak és Ghanannak köszönhetően jó a termésünk. Dicsőség nekik!
+v2;30;Köszönjük meg nekik az ima alatt.
+v1;80;Mit ajánlhatnánk fel nekik?
+v2;120;Ne légy ostoba! A vérünket, természetesen! Don't be stupid! Our blood, of course!
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac haragszik. Rossz idő van.
+v2;40;Nem imádkozunk hozzá eleget.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Hogyan? $name monoteista lenne?
+V2;35;Úgy tűnik, nem veszi komolyan a vallásunkat...
+v1;75;Ugyan. Nem olyan ostoba, hogy ne higgyen az isteneinkben.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;A hit az egyetlen fegyverünk ezeken a furcsa vidékeken.
+v2;40;A helyzetünket tekintve meg kell büntetnünk azokat, akik megsértik az isteneinket.
+v1;80;Főképp nem szabad megbántanunk őket.
+
+newchat;key:poktapok,weigth:7;
+v1;0;Imádom a Pok-ta-Pokot!
+v2;40;Én is! Be kell vallani, egyike az itteni kevés szórakozásnak.
+v1;80;Igaz. Unatkozunk... és elveszítettem az utolsó labdámat!
+
+newchat;key:year,weigth:5;
+v1;0;Mi mindenkinél hamarabb tudtuk, hogy egy év pontosan 365,2420 napig tart.
+v2;40;Minden téren ügyesek vagyunk: matematika, művészet, földrajz...
+
+newchat;key:puja,weigth:6;
+v1;0;Elmentél az imára?
+v2;35;Természetesen! Egy igazi majának el kell mennie!
+v1;80;Hahá! Igazad van! Milyen ostoba kérdést tettem fel.
+
+newchat;key:endofworld,weigth:3;
+v1;0;A sámánjaink és csillagjósaink látnak valamit.
+v2;40;Á valóban? Mi az?
+v1;80;Valami fontos eseményt látnak a 2012-es évben.
+v2;120;Hűha! Nem gondolod, hogy kicsit túl messzire tekintenek?
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;"Xaire? Hogyhogy "xaire"?"
+v1;70;Hallottam, hogy egy bizánci így köszönt nekem.
+v2;110;Ugyan. Maja vagy. Köszönj nekünk a saját nyelvünkön.
+v1;150;Egy igazi majának tudnia kell minden témakörben.
+v2;200;Megengedem, hogy jó dolog több nyelvet beszélni, de a faluban nem fogsz így beszélni!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;A következő imán csonkítsuk meg magunkat.
+v2;40;Én már megtettem. Te nem?
+v1;80;In-Inkább megtartom a véremet...
+v2;120;Tessék, megint ugyanúgy csinálsz! Valahányszor elszántnak tűnsz, meggondolod magad!
+v1;160;De nem akarom! Nem akarom!
+v2;200;Nem vagy hajlandó tisztelni az isteneinket?!
+
+newchat;key:cacao,weigth:6;
+v1;0;Milyen egészséges és finom a kakaó...
+v2;40;Egészséges, az biztos! De finom, az biztosan nem! A Wah sokkal jobb.
+v1;80;A kakaó az istenek kedvenc eledele. Inkább azt edd, amit ők kínálnak.
+
+newchat;key:reborn,weigth:7;
+v1;0;Milyen csodálatos pillangó ott. Talán a barátunk, akit négy évvel ezelőtt feláldoztunk?
+v2;40;Én inkább azt hiszem, kolibri lenne!
+v1;80;Nem mi fogjuk megtudni.

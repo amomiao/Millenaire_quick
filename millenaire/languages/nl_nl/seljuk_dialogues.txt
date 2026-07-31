@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Ik moet wat ayran drinken.
+v2;30;Ik hoop dat de herberg vandaag niet vol is.
+v1;60;Ja, ik hoop het, hopelijk niet zoals gisteren.
+v2;90;Precies, en als ik ayran drink, gaat mijn vermoeidheid weg.
+v1;120;Je hebt gelijk.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Goedendag. Ik wil graag een tapijt kopen.
+v2;30;Zeker. Wat voor tapijt zoek je?
+v1;60;Ik weet het niet. Het is vandaag de verjaardag van mijn vriend en ik wil een cadeau kopen. Wat raad je aan?
+v2;90;Wat dacht je van het rode tapijt?
+v1;120;Goed, een uitstekend idee.
+v2;150;Hoeveel wil je er hebben?
+v1;180;Slechts één. Kun je het mooi inpakken?
+v2;210;Natuurlijk, mijnheer. Geef je het zelf of brengen wij het rond?
+v1;240;Ik geef het zelf. Dank je wel.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Een fijne dag.
+v1;30;Heb je goed geslapen?
+v2;60;Ja, het was goed.
+v1;90;Wat wil je als ontbijt?
+v2;120;Ik weet het niet, en jij?
+v1;150;Ik weet het ook niet.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Papa, kun je me vertellen wat het mooiste erts is dat je hebt opgegraven?
+v2;30;Even denken.. Ik denk dat het een diamant was.
+v1;60;Als je er weer een vindt, mag ik er dan een hebben, papa?
+v1;90;Waarom niet, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah ziet alles wat we doen, $targetfirstname.
+v2;30;Ja, dat is zo, mijn hoca.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Mijn vader slacht voortdurend onschuldige dieren!
+v2;30; Maar als we dat vlees niet nodig hadden, zou je vader het niet doen.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Heb je ooit een drank gezien zo goed als ayran, broeder?
+v2;30;Nee, nog niet.
+v2;60;Waar heb je het vandaan? Ik wil het ook.
+v1;90;Er is hier in de buurt een keuken die het verkoopt.
+v2;120;Goed, hartelijk dank.
+v2;150;Wat verkopen ze daar nog meer?
+v1;180;Van vis tot pide, je kunt het zo gek niet bedenken.
+v2;210;Dan moet ik er meteen heen.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Goedendag, $targetfirstname.
+v2;30;Hé!
+v1;60;Heb je de nieuwe hamam al gezien?
+v2;90;Nee, nog niet.
+v1;120;We moeten er snel een bezoek aan brengen!
+v2;150;Goed, dat is fijn nieuws.
+v1;180;Ja, weet je, schoon zijn hoort bij ons geloof.
+v2;210;Goed dan, laten we eens gaan kijken.
+v2;240;Over een uurtje misschien.
+v1;270;Nee, laten we nu gaan.
+v2;300;Goed, waarom zo'n haast, mijn vriend?
+v2;330;Waar moeten we eigenlijk heen?
+v1;360;Eigenlijk kunnen we nog wel even wachten.
+v2;390;Dat is altijd hetzelfde liedje met jou, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Heb je ooit een gebouw zo mooi als deze moskee gezien, broeder?
+v2;30;Nee, nog niet.
+v2;60;Wanneer is hij gebouwd? Hij is prachtig.
+v1;90;Al lange tijd geleden.
+v2;120;Oh, goed dan.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Ik zie 's nachts altijd vreemde dingen.
+v2;30;Men zegt dat het kwaad van de dag beter is dan het goede van de nacht.
+v1;60;Je hebt gelijk, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Tijd om te bidden.
+v2;30;Laten we niet te laat komen.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Tijd om te bidden.
+v2;30;Laten we niet te laat komen.
+v1;60;Wat zou het mooi zijn als we een prachtige moskee hadden, $targetfirstname.
+v2;90;Precies, broeder.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Hoe gaat het op je werk, $targetfirstname?
+v2;30;Niets veranderd, alles bij het oude.
+v1;60;Geniet je van je reizen?
+v2;90;Ja, maar mijn voeten doen ook pijn.
+v1;120;Je hebt gelijk, $targetfirstname.
+v2;150;Natuurlijk heb ik gelijk!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah houdt van zijn hardwerkende dienaren.
+v2;30;Dan ben ik blij dat ik hard werk!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Vissen is een kwestie van geduld, weet je, lieverd?
+v2;30;Alleen met vissen ben je geduldig!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Hoe was je dag vandaag?
+v2;30;Behoorlijk druk.
+v2;60;Ik ben dus moe.
+v1;90;Heb je zin in een ayran?
+v2;120;Dat zou fijn zijn, ja.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Goedendag, $targetfirstname.
+v1;30;Hoe gaat het vandaag?
+v2;60;Dank je, met mij gaat het goed.
+v1;90;En je gezin, gaat het goed met hen?
+v2;120;Dank je, met hen gaat het ook goed.
+v1;150;Het wordt behoorlijk warm, niet?
+v2;180;Ja, het is echt heet.
+v1;210;Doe de groeten aan je gezin.
+v2;240;Bedankt, doe jij hetzelfde voor het jouwe.
+v1;270;Tot ziens.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Wanneer ben je verhuisd?
+v2;30;Net dit afgelopen weekend.
+v1;60;Ik wist niet eens dat het huis verkocht was.
+v2;90;Ik ben dol op dit huis, dus moest ik er wel intrekken.
+v1;120;Dat begrijp ik, want het huis is buitengewoon.
+v2;150;Hoeveel jaar woon jij al in jouw huis?
+v1;180;Ik woon hier al heel lang.
+v2;210;Ik hoop dat we nog een tijd buren blijven.
+v1;240;Ik ook.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Waarom was je hier gisteren niet?
+v2;30;Ik voelde me niet zo goed.
+v1;60;Wat scheelde eraan?
+v2;90;Ik had maagpijn.
+v1;120;Voel je je nu beter?
+v2;150;Nog niet echt.
+v1;180;Wil je iets om je beter te voelen?
+v2;210;Nee, dank je. Ik heb al wat geneesmiddelen genomen.
+v1;240;Ik hoop dat je je beter voelt.
+v2;270;Dank je.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Heb je het nieuws gehoord?
+v2;30;Ik heb niets gehoord.
+v1;60;Mijn buurvrouw heeft vorige week haar baby gekregen.
+v2;90;Niemand heeft het me verteld.
+v1;120;Ik dacht dat je het wist.
+v2;150;Niemand heeft me iets verteld.
+v1;180;Het is een schattige baby, maşallah.
+v2;210;Wow, wat geweldig.
+v1;240;Ja, je moet echt langsgaan om haar en de baby te zien.
+v2;270;Natuurlijk doe ik dat.
+v1;300;Ik wilde het je gewoon even laten weten.
+v2;330;Daar ben ik je dankbaar voor.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Wil je met mij naar het veld gaan?
+v1;30;	Wanneer wil je gaan?
+v1;60;Wat denk je van volgende vrijdag?
+v1;90;Het spijt me, dat gaat niet. Ik eet die avond met een vriend.
+v1;120;Wat denk je van de dinsdag erna?
+v1;150;Op dinsdag ga ik naar les in de moskee.
+v1;180;Oh, misschien een andere keer dan?
+v1;210;Ja, ik laat het je weten.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Wie is dat?
+v2;30;Ik ken zijn naam niet, maar hij is vreemd in deze streken.
+v1;60;Iedereen die geen kwaad in zich heeft, is welkom in deze streken.
+v2;90;Je hebt gelijk.

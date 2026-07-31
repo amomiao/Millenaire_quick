@@ -1,0 +1,82 @@
+//villager.CookBrick=Esta piedra es dura.
+//villager.DryBrick=Necesitamos piedra para hacer nuestras casas.
+//villager.GatherBrick=Llevo demasiadas piedras.
+
+female.becomeadult=Quiero un marido.
+male.becomeadult=Quiero ser cazador.
+
+mayan_shaman.gopray.chosen=La oración te protege.
+mayan_shaman.greeting=Los espíritus te protegen.
+
+villager.becomeadult=La la la la. /
+
+villager.bringbackresourceshome=Tengo que llevar demasiada madera.
+villager.choptrees=Hora de talar árboles.
+
+villager.constructionstepbystep=Necesito un compañero de trabajo fuerte.
+villager.constructionstepbystep=Trabajar, trabajar, trabajar.
+
+villager.delivergoodshousehold=Demasiada comida que llevar.
+
+villager.gathergoods=Llevaré la madera a casa.
+
+villager.getgoodshousehold=Necesito que estas cosas se lleven a casa.
+
+villager.gethouseresources=Una casa limpia es una buena casa.
+
+villager.getresourcesforbuild=Demasiadas piedras.
+
+villager.goplay=Jugaré en la hierba.
+
+villager.childobserveagriculture=Me pregunto qué pasaría si los granos de maíz se calentaran muy rápido.
+villager.childobserveconstruction=¿Por qué no podemos construir en algo más que no sea piedra, me pregunto?
+villager.childobservesmithing=Todo el mundo aquí usa obsidiana para hacer las herramientas, ¡pero debe haber algo más fuerte!
+villager.childobserveproducefood=¿Por qué los adultos obtienen todo el cacauhaa? ¡No es justo!
+
+villager.childeatcacaobeans=Los granos solos son un poco amargos. Me pregunto si estarían mejor mojados con leche.
+
+
+villager.harvestmaize=Buena lluvia, buenas cosechas.
+
+villager.harvestturmeric=Esta cosecha de especias potencia la comida.
+
+villager.maketools=Compra mis cosas.
+
+villager.makeweapons=Los brazos aquí son fuertes.
+
+villager.plantmaize=La lluvia nos envía cosechas abundantes.
+
+villager.plantsaplings=Yo planté todos esos árboles.
+
+villager.plantturmeric=La especia hace a la comida.
+
+villager.scultmayan=Algún día quiero pintar.
+
+villager.slaughterchicken=Los pollos nos dan carne.
+
+villager.calltoarms=¡Mata al enemigo!
+villager.calltoarms=¡A las armas!
+villager.calltoarms=¡El día es mío!
+
+villager.gopray.chosen=Recito la oración,
+villager.gopray=Los espíritus nos ayudan.
+villager.gopray=Los espíritus nos envían abundantes cosechas.
+
+villager.gorest=El descanso se hará cargo.
+villager.gorest=Ahora tengo que dormir.
+villager.gorest=*bostezo*
+
+villager.greeting=¿Qué hay de nuevo?
+villager.greeting=¿Cómo te tratan los espíritus?
+villager.greeting=¿Cómo está tu familia?
+villager.greeting=¡Hola, $name!
+villager.greeting=Los espíritus nos envían lluvia.
+villager.greeting=¿Dónde está tu tierra?
+villager.greeting=El cielo hoy está caliente.
+
+villager.makerasgulla=Mi hijo pequeño está enfermo.
+villager.construction=Trabajar unidos, trabajar con fuerza.
+villager.construction=Trabajo, trabajo, trabajo.
+villager.sellercoming=¡Allá voy, raudo!
+villager.tradecomplete=Que los dioses te recompensen, vuelve a vernos.
+

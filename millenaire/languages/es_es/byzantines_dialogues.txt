@@ -1,0 +1,635 @@
+//*                             Las líneas de diálogo comienzan con un código como "v2; 30;" que especifican quién está hablando y cuándo aparece la línea. Por favor cópialo exactamente en tus traducciones.
+//*                             La primera mitad de la línea (hasta el /) está en el idioma de los aldeanos y debe mantenerse tal y como está, la segunda parte es la que debe traducirse
+//* 
+//* 
+//* 
+//* 
+
+
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;¡Amo los días soleados!
+v2;30;¿Y a quién no?
+
+newchat;key:nicevillage,weigth:10
+v1;0;Siempre es un placer ver como crece nuestra pequeña aldea, ¿verdad?
+v2;30;Por supuesto, ¡y es todo gracias a nuestros esfuerzos!
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Siempre es un placer ver como crece nuestra pequeña aldea, ¿verdad?
+v2;30;¡Por supuesto! Llevamos tanto tiempo trabajando en este lugar.
+v1;60;Es casi como estar en casa, como antes de que viniésemos aquí.
+v2;90;Este es ahora nuestro hogar, es hora de aceptarlo.
+v1;120;Lo sé, lo acepto a su tiempo ...
+
+newchat;key:ishome,weigth:6
+v1;0;Siempre es un placer ver nuestro pequeño y agradable pueblo, ¿no?
+v2;30;¡Por supuesto que lo es! Llevamos tanto tiempo trabajando en este lugar.
+v1;60;Es casi como estar en casa, como antes de que viniésemos aquí.
+v2;90;Este es ahora nuestro hogar, es hora de aceptarlo.
+v1;120;Este es nuestro hogar ahora, esta conversación me ha hecho darme cuenta de ello.
+
+newchat;key:harvest,weigth:10
+v1;0;El trigo está creciendo muy bien este año, al igual que las uvas. Qué bien, ¿no?
+v2;30;Sí, eso parece: se lo debemos a este clima tan raro.
+v1;60;¡Incluso si para mí no tiene el menor sentido!
+
+newchat;key:lightning,weigth:7
+v1;0;¿Recuerdas la tormenta que tuvimos? ¡Hablo de esa tan fuerte!
+v2;30;Por supuesto. Casi arruinó nuestras cosechas. La naturaleza es impresionante, ¿eh?
+v1;60;Será impresionante. ¡Pero es que casi me cae un rayo!
+v2;100;¿No estabas en tu casa? ¡Sabes que es peligroso andar afuera durante las tormentas!
+v1;120;Vive y aprende.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ah ... ¡Souvlaki, la mejor comida!
+v2;30;Si los hombres no nos tuvieseis a nosotras para hacer la comida ...
+v1;60;¡Nos la haríamos nosotros mismos!
+v2;100;¿De verdad? ¿Cómo dices que se hace el souvlaki?
+v1;130;Emm ... Metes pescado, no, chuletas de cordero en el horno, entonces ....
+v2;190;... lo pones con queso feta en un palo. ¡Realmente no sabes cocinar!
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Cuando era joven, quería ser un explorador, descubrir nuevas tierras y conocer a gente nueva e interesantes. ¿Pero ahora? Estoy atrapado en este pequeño pueblo perdido. Quiero visitar nuevos lugares.
+v2;30;Pero no encontrarás nada nuevo en el otro pueblo. Es casi más de lo mismo.
+v1;60;No hablo de pueblos. Hablo de urbes, ¡o incluso la ciudad!
+v2;90;¿La ciudad? ¿Te refieres a Constantinopla?
+v1;120;¡Sí! El centro de nuestro glorioso imperio. Es la maravilla del mundo.
+v1;150;Hay más de 500 000 personas viviendo allí, ¡¿te lo puedes imaginar?!
+v2;180;Es imposible. ¿500 000 personas en un solo lugar? ¡Sigue soñando!
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;¡No bebas vino solo!
+v2;30;¡Beber juntos es más divertido!
+v1;50;¡Viva el vino!
+v2;70;¡Salud!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Mi padre es más fuerte que el tuyo.
+v2;30;¡No! ¡Mi papá es el más fuerte del pueblo!
+v1;60;¡No! ¡Mi papá es el más fuerte del Imperio!
+v2;90;¡Imposible! ¡Mi papá es el más fuerte del mundo!
+v1;120;¡Apuesto a que mi padre podría vencer al tuyo con menos de dos golpes!
+v2;150;¡Prepara a tu papá para una pelea!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Las chicas son tontas.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;¿Has visto mi muñeca en algun sitio? No puedo encontrarla ...
+v2;30;¡Devuélveme mi espada y la recuperarás!
+v1;60;¡Tú la robaste! ¡Ladrón!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;¿Has visto mi ropa nueva?
+v2;30;Eres una verdadera belleza cariño. ¡Todo te queda bien!
+v1;60;¡Pero no soy tan hermosa como tú!
+v2;90;Ohh eso no es cierto, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;¿Has visto mi ropa nueva?
+v2;30;Eres una belleza. Todo te queda bien, mi querida $targetfirstname!
+v1;60;¡Pero no soy tan hermosa como tú!
+v2;90;Cierto.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;¿Has visto mi ropa nueva, $targetfirstname?
+v2;30;Creo que tu ropa de antes te quedaba mucho mejor.
+v1;60;¿Qué?
+v2;70;¡Nada, nada! ¡Eres hermosa! Me gustan estas nuevas ... ¡cosas!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Entonces, ¿te gusta mi nuevo vestido?
+v2;30;Lo de antes te sentaba mejor.
+v1;60;¿QUÉ?
+v2;70;Hey $targetfirstname, es solo mi opinión.
+v1;90;¡Al menos eres honesto!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;¿Qué deberías hacer si te gusta una chica?
+v1;30;Hazle cumplidos y sé amable con ella.
+v2;60;¡No! ¡Eso es imposible! ¿Qué pensarán los demás de mí entonces?
+v1;90;Si de verdad la quisieras, no te importarían los demás.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;¿Me puedes comprar una muñeca nueva? Todos tienen una nueva, excepto yo ...
+v1;30;¿Cuál es la palabra magica?
+v2;60;¿Puedes POR FAVOR comprarme una nueva muñeca?
+v1;90;De acuerdo, ¡pero tienes que prometer que vas a limpiar tu cuarto!
+v2;120;¡Lo prometo!
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Nuestros edificios son preciosos, siempre es genial ver nuestro trabajo.
+v2;30;Esos mayas construyen estructuras muy bonitas también.
+v1;60;No me molestes con esos raritos. ¡Nuestros edificios son mucho mejores!
+v2;90;Bueno...
+v1;100;¡Traidor! ¿No tienes orgullo nacional?
+
+newchat;key:pride2,weigth:10
+v1;0;¡Los romanos podemos estar muy orgullosos de lo que hemos logrado!
+v2;30;¡Por supuesto! ¡Todo lo que ves fue hecho por nosotros!
+v1;60;¡El imperio más poderoso de la historia mundial!
+v2;90;Otras naciones se postrarán ante nuestra gloria.
+v1;120;¡Deberán de hacerlo! ¡Somos los que mandan!
+
+newchat;key:pride3,weigth:10
+v1;0;¡El imperio romano gobernará el mundo una vez más!
+v2;30;¡Lo haremos!
+v1;60;¡Todo mejorará!
+v2;90;¡Sí!
+v1;100;¡Que viva el imperio!
+v2;110;¡Viva!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Va a llover. Pronto.
+v2;30;Yo también puedo sentirlo.
+v1;60;Qué extraño. Siempre pasa la misma cantidad de días hasta que vuelve a llover.
+v2;100;¿Tú también lo crees?
+v2;125;La vida aquí es extraña, ¿verdad?
+v1;155;¡Sin lugar a duda!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;¡Mira este cerdo! Es muy mono, ¿verdad?
+v2;30;WAAAaaah, ¡fuera!
+v1;60;¿Tienes miedo de los cerdos?
+v2;80;¡N-no! No les tengo miedo!
+v1;110;¡Jajajajajaja! ¡Esto sí que es gracioso!
+
+newchat;key:weird2,weigth:1
+v2;0;Ahh ... Qué buen souvlaki. ¿Quieres un bocado?
+v1;30;*Muerde*
+v1;40;¡Gracias! Me encanta el souvlaki.
+v2;70;¡Y a quién no!
+v1;100;¿Alguna vez has probado a poner un poco de tierra en el souvlaki?
+v2;140;...
+v2;150;¿No?
+v1;170;A veces lo hago ... Ah ... Todo comenzó cuando mi souvlaki se me cayó al suelo el año pasado ... ¡Qué rico!
+v2;220;¡Espera! ¿Tiras tu souvlaki al suelo y luego te lo comes? ¿Qué demonios..?
+v1;260;¡Pero sabe bien!
+v2;280;Estás loco de remate.
+
+newchat;key:weird3,weigth:1
+v1;0;¡Quiero montar un cerdo!
+v2;30;¿Por qué?
+v1;60;¡Es divertido!
+v2;80;¿Por qué demonios montarías un cerdo?
+v1;110;¡Porque es divertido!
+v2;120;Estás loco.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;¿Ya has oído lo del secreto del leñador?
+v2;30;No, ¿qué pasa con él?
+v1;60;¡Al parecer recoge manzanas y se las vende a esos normandos!
+v2;90;¡No puede ser! ¿Y se queda con el dinero?
+v1;120;¡Por supuesto!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;¡Mi esposo dijo que un barón de esos visitará nuestra aldea pronto!
+v2;30;¿Por qué vendría él aquí?
+v2;40;Un hombre tan poderoso, fuerte y guapo ...
+v1;70;¿Qué? ¿Te gustan?
+v2;100;¡Tienes que admitir que son atractivos!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;¡Hay una fulana en el pueblo vecino!
+v1;20;¡Eso parece, incluso los hombres de nuestra aldea han ido allí!
+v2;60;¡Eso es horrible! ¡Tengo que preguntar a mi esposo!
+v1;90;El mío parece ser inocente. ¡No estoy segura si el tuyo también, querida!
+v2;120;Espero que también. Será mejor que lo sea.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;¡Me encanta ver a los niños jugando!
+v1;20;¡Me hace tener ganas de tener un bebé!
+v2;50;¿Estás segura de poder permitírtelo?
+v2;70;¡Los niños cuestan dinero!
+v1;100;¡No te preocupes! Mi hombre tiene dinero más que suficiente.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Querida mía, ¡tu hombre es un borracho!
+v2;15;¿Cómo puedes decir eso?
+v1;45;¡Tu esposo vino borracho a nuestra casa anoche!
+v1;70;Dijo que quería casarse con una oveja.
+v1;100;¡Y que habría una gran celebración de bodas!
+v1;130;Por favor, recupera el control sobre tu hombre.
+v1;150;Es realmente espeluznante.
+v2;180;Vale, vale, ¡lo castigaré!
+v2;210;¡Me quedaré con su vino!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;¡Tu pan está buenísimo! ¿Cuál es tú secreto?
+v2;30;Solo métele un poco de azúcar adentro.
+v1;60;¿De verdad? ¿Nada más?
+v2;90;¡Eso es todo! Ya verás la diferencia.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;¿Quién fue el hombre que te visitó anoche?
+v2;30;¿Qué hombre?
+v1;40;¡El hombre que se coló por tu ventana!
+v1;45;¡No creerías que no me daría cuenta!
+v2;60;¿Cómo te atreves..? Yo soy y siempre seré fiel a mi esposo.
+v1;80;Sí, sí. Yo diría eso también si fuera tú.
+v2;110;¡No es justo! No difundas rumores sobre mí.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;¡Estas nuevas herramientas de cocina son extraordinarias!
+v2;30;Sí, ¡hace que cocinar sea más fácil! ¡Es divertido!
+v1;60;¡Gracias a los herreros y artesanos, a los que se les ocurrieron estas cosas!
+v2;90;¡Sí! Por eso me encanta ser romana.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Estoy envidioso de esa gente rica.
+v1;20;¡Ellos tienen ropas de seda muy lindas!
+v2;50;Eso realmente no es justo. Ellos no hacen nada y siempre tienen las mejores cosas.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;¿Has oído hablar del barón este de un pueblo vecino?
+v2;30;Sí, ¿ese que tenía una esposa que encontraron muerta?
+v1;60;¡Ese! Mi marido me acaba de decir que el barón mismo mató a su propia esposa!
+v2;100; ¿Qué..?
+v2;130;¡Sabía que lo acabaría haciendo!
+v2;150;¡Pero nadie me creyó ...!
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;¿Alguna vez has pensado en cómo sería si tuviésemos una guerra?
+v1;30;¡Incluso en este momento hay hombres luchando por nuestro país!
+v1;55;¡Los admiro de verdad!
+v2;80;Una guerra sería terrible.
+v2;110;Creo que simplemente te gustan los soldados.
+v2;140;¡Pero igualmente tienes un marido!
+v1;170;¡Pero es que es un perezoso y además un borrachuzo!
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;¡No tenemos suficiente vino en este pueblo!
+v2;30;¡Estoy de acuerdo! ¡Necesitamos construir más bodegas!
+v1;60;¡Y más tabernas!
+v2;90;¿Qué tal si abrimos nuestra propia taberna?
+v1;120;¡Es una gran idea! Vamos a planificarlo.
+v2;150;Pero, ¿por dónde empezamos?
+v1;180;¡Además a nuestras esposas no les gustará escuchar esto!
+v2;210;¡No, vender vino romano siempre es una excusa!
+v1;240;¡Bien! Entonces, vamos a ahorrar dinero.
+v1;270;¡Cuando hayamos ganado suficiente, llevaremos a cabo el plan!
+v2;300;¡Tendremos la mejor taberna de todo el Imperio!
+v1;325;¡Sin lugar a duda!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Buena comida, buenas armas, gran arte. ¡De eso se trata nuestra nación!
+v2;30;¡Y buen vino!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Me aburre mi esposa. ¡Quiero una nueva!
+v2;30;¿ Y quién no?
+v1;60;¡Quizás deberíamos irnos del pueblo sin avisar y buscar una nueva!
+v2;90;¡Sí! Los mayas y los indios tienen esposas muy hermosas, ¿las has visto?
+v2;140;Pero ... Este pueblo estária perdido sin nosotros.
+v2;160;¡Y no te olvides de nuestros hijos!
+v1;180;¡Urgh! ¡Nuestros hijos! ¡No sobrevivirán sin un padre!
+v1;220;Pero ... ¿esto significa que tenemos que seguir aquí con nuestra vida aburrida?
+v2;255;Así es... bueno, mejor sigamos trabajando.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Es increíble lo detalladas que se ven tus pinturas.
+v2;30;Por supuesto, ¡Es por ser arte romano!
+v1;60;Como todo lo que hacemos ¡Mira nuestras hermosas casas!
+v2;90;¡Y no te olvides de nuestra gloriosa historia!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;¿Recuerdas la chica por la que nos peleamos cuando éramos niños?
+v2;30; Sí ... Fue un mal momento. Qué bien que se acabó.
+v1;60;Me alegra oír eso, ¡porque ella acaba de decirme que siempre le he gustado!
+v2;90;¿Qué? ¡Eso no es cierto!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hola guapa, ¿te gusta lo que ves?
+v2;20;*bofetada*
+v2;25;Tienes una esposa.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Oye, ¡hoy se te ve muy bien $targetfirstname!
+v2;30;¡Gracias!
+v1;60;¡Cómo siempre, querida!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hey $targetfirstname, ¿una belleza como tú querría estar con un chico guapo como yo?
+v2;40;Estás casado, y yo también.
+v2;60;¡Tú no eres fiel! ¡Se lo diré a tu esposa!
+v1;75;NO - No lo hag-
+v1;85;¡Soy su gemelo malvado!
+v2;120;¡Por supuesto que lo eres! ¡El mismo gemelo malvado que está siempre borracho!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;¿Cómo te va con tus cosas de mujer?
+v2;30;Bien, solo que, me siento un poco mal ...
+v1;60;¿Oh no qué ha pasado?
+v2;90;Mi esposo me ha gritado.
+v1;120;¿Cómo ha podido gritarle a una preciosidad como tú?
+v2;150;¡Gracias por animarme, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*urgh*
+v1;30;¿Estás bien, $targetfirstname?
+v2;50;Sí, ¡es solo que estoy trabajando duro!
+v1;70;¿Quieres que te ayude? ¿Así te sentirías mejor?
+v2;90;¡Por supuesto! ¡Gracias!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;¿Cómo te va?
+v2;30;Todo está bien, ¿y tú?
+v1;60;¡También! Gracias por preguntar.
+v1;75;¡Pero veo que hay algo que te molesta!
+v2;90;No es - nada.
+v1;110;¡Por favor, dímelo!
+v2;130;Es solo que mi vida aquí es muy aburrida.
+v2;160;¡Ojalá cuando era joven hubiese decidido ir a una ciudad!
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Hermano $targetfirstname, ¡qué bueno verte!
+v1;30;¡Acabo de encontrar nuestra vieja espada de madera!
+v1;50;¿Te acuerdas?
+v2;80;¡Espera! ¿Es la espada que nuestro padre nos dio?
+v1;110;¡Lo es! ¿Recuerdas nuestras peleas con esto?
+v2;140;¡Cómo podría olvidarlo! Todavía tengo algunas cicatrices.
+v2;170;Ahora que lo pienso ...
+v2;200;¡Fue un poco cruel por parte de nuestro padre el darnos solo una espada!
+v2;240;¡Sabría que nos pelearíamos por ella!
+v1;270;¡Supongo que está bien!
+v2;300;¡Porque la guardaste!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;¿Recuerdas al auriga que tanto amábamos en nuestra infancia?
+v2;30;Por supuesto hermana. ¡Éramos sus mayores fans!
+v1;60;Me pregunto qué habrá pasado con él.
+v1;90;No volví a saber de él ...
+v2;120;Probablemente se asentó en una aldea como la nuestra y tuvo esposa e hijos.
+v1;150;De todos modos, ¡aún espero volver a verle de nuevo!
+v2;180;¡Yo también!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, hermana mía, siempre quise saber por qué te casaste con este idiota.
+v2;30;¡Porque lo amo!
+v1;60;Y ahora tu nombre es $targetlastname. $targetlastname ¡Suena tan mal!
+v2;90;¡Oye! ¡No seas tan malo! Fuiste tú quien empezó el conflicto.
+v2;110;¡Estabas borracho!
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;¿Has oído hablar de los selyúcidas desde que llegamos aquí?
+v2;30;No, qué va, ¿crees que vinieron con nosotros a esta tierra?
+v1;60;Lo dudo, ya hemos escuchado de personas que no sabíamos que existían.
+v2;90;Supongo que tenemos que hacer nuevos enemigos en esta tierra.
+v1;120;Todavía tenemos que lidiar con los normandos.
+v2;150;Bueno, ¡somos romanos! ¡Podemos derrotar fácilmente a tales invasores, ¡Por Roma!
+v1;165;¡Por Roma!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;¿Has oído hablar de que hay una aldea normanda cercana?
+v2;30;Eso no es bueno, recuerdo que estuvieron atacando el sur de Italia antes de que viniésemos aquí.
+v1;60;Esperemos que no nos ataquen.
+v2;90;Yo también lo espero.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Me pregunto qué le pasó a Constantinopla.
+v2;30;Creo que se encuentra en la misma tierra que habitamos.
+v1;60;¿Por qué piensas eso?
+v2;90;Porque yo vivía cerca , hasta que me trasladaron a este pueblo.
+v1;120;Es cierto, mucha gente emigró desde allí. Aunque si estuviera por aquí cerca nos hubiéramos enterado hace tiempo.
+v2;150;Podría estar muy lejos.
+v1;180;Sí, pero la gloria y el esplendor de Constantinopla es tan grande que hasta la gente de la China la conoce.
+v2;210;¿No me digas que crees en esas historias sobre la China?
+v1;240;Creo que hay algo de verdad en ellas.
+v2;270;Pero hay tantos misterios sobre la China que no podemos asumir si hay algo de verdad en ellos.
+v1;300;También hay muchos misterios sobre si Constantinopla está aquí, así que tampoco podemos asumir eso.
+v2;330;Bueno, sí, pero incluso si Constantinopla no está aquí. Necesitamos expandirnos y proteger el Imperio Romano.
+v1;360;¡En eso estamos de acuerdo!
+v2;390;¡Larga vida a Roma!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Espero que no tengamos que salir a luchar contra ningún bárbaro.
+v2;30;¿Qué? Somos soldados, nuestro trabajo es salir a matar bárbaros. ¿Por qué te unirías al ejército si no te gusta luchar?
+v1;60;Pensé que ser un soldado sería más fácil, todo lo que esperaba hacer era esperar de pie y matar a algún monstruo y de vez en cuando a un bárbaro. Pero ahora cuando mato a un bárbaro, lo miro a la cara y pienso: "Tal vez no deberíamos matar a esta gente".
+v2;120;¡Piensas demasiado! Sal y mata bárbaros para Roma. ¡Nos matarían y destruirían nuestros hogares! Solo son salvajes incivilizados.
+v1;150;¿Has conocido a estas personas que tanto dices que hay que matar? No, no lo has hecho, tal vez sean diferentes de lo que nos han dicho.
+v2;180;Es cierto, podrían ser mucho peores.
+v1;210;No creo que entiendas los pensamientos que tengo ni el apuro por el que estoy pasando.
+v2;240;Soy un soldado, no un filósofo. Deberías ir a orar a Dios para que te guíe porque claramente lo necesitas.
+v1;270;Ya lo he hecho y no he recibido nada de Dios. Cuando terminé de rezar, llegué a la misma conclusión que ya antes pensaba.
+v2;300;¿Qué? ¡Claramente has renunciado a Dios para que no descubrir la verdad! ¡Vete de vuelta a rezar hasta que puedas volver a matar bárbaros!
+v1;330;¡Quizás sea esta la conclusión a la que Dios quería que llegara!
+v2;360;Más bien suena a que Dios quiere que te retires...
+
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,building:taverna,weigth:14
+
+
+
+
+
+
+
+newchat;key:cider,v1:adult,v2:adult,notbuilding:taverna,weigth:2
+
+
+
+
+
+
+
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
+
+
+
+
+
+
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
+
+
+
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
+
+
+
+
+
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
+
+
+
+
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
+
+
+
+
+
+
+
+
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+
+
+
+
+
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+
+
+
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+
+
+
+newchat;key:religious3,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+
+
+
+
+
+
+newchat;key:religious4,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+
+
+
+
+
+
+newchat;key:ticlon,v1:notvtype:pastor_byzantine-metropolit_byzantine,v2:vtype:pastor_byzantine-metropolit_byzantine,weigth:1
+
+
+
+
+
+newchat;key:nobakery,building:farm,notbuilding:windmill,v1:adult,v2:adult,weigth:15
+
+
+
+
+
+
+
+
+newchat;key:baron1,v1:adult,v1:vtype:baron_byzantine,v2:adult,v2:male,v2:notvtype:pastor_byzantine,weigth:10
+
+
+
+
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+
+
+
+newchat;key:inuits,v1:adult,v2:adult,weigth:10
+
+
+
+
+
+
+
+
+
+
+newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:taverna,weigth:20
+
+
+
+
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;¡Me encantan los días soleados!
+v2;30;¿Y a quién no?
+v1;60;A mí no.
+v2;120;¿Por qué no?
+v1;150;¡El sol quema! ¡Odio estar al aire libre!
+v2;180;¡Os comportáis como un zombi!
+v1;210;Quizá lo sea...
+
+newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
+v1;0;No me encuentro bien...
+v2;30;¿Qué os ocurre? ¿Estáis enfermo?
+v1;60;No, s-s-solo he recordado al-algo.
+v2;100;Tenéis muy mala cara. ¿Seguro que no estáis enfermo?
+v1;120;N-no, simplemente t-tengo miedo.
+v2;150;¿Y qué ha pasado?
+v1;180;Durante la ú-última tormenta, salí del p-pueblo. Sabía que no podría regresar antes de que estallase, así que me escondí bajo un árbol.
+v2;210;¡Arriesgasteis vuestra vida fuera del pueblo! ¡Podríais haber muerto!
+v1;240;Bueno, estaba a salvo. Pero entonces vi un cerdo. El r-rayo le alcanzó. Y el c-cerdo muerto... se l-levantó y se movió c-como nosotros, ¡p-persiguiéndome con una espada reluciente!
+v2;290;Decís tonterías. Debió de ser una pesadilla.
+v1;320;¡Era cierto! ¡Cierto! ¡Cierto! ¡Cierto!
+v2;350;Estáis loco. Id a beber un poco de vino y calmaos.
+v1;380;Eso h-haré. Tal v-vez ayude.
+
+newchat;key:loneVillage,weigth:10
+v1;0;Qué aburrimiento. Aquí todo es siempre igual.
+v2;30;Al menos hay tranquilidad.
+v1;60;¡Nada especial para un pueblo tan apartado como el nuestro!
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Es hora de que aprendas a cuidar de un hogar.
+v2;30;¡Genial! ¿Por dónde empezamos? ¿Puedo hacer souvlaki? ¡Porfaaa!
+v1;60;Primero veamos qué tal se te da la limpieza.
+v2;90;Vale, ¿pero luego me enseñarás a hacer souvlaki, prometido?
+v1;120;Prometido.
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Ay...
+v1;30;¡Tienes una pinta horrible! ¿Qué ha pasado?
+v2;60;Bueno, todos tienen una espada de madera menos yo.
+v2;80;¡Así que decidieron atacarme!
+v2;100;¡Tienes que conseguirme una también!
+v1;120;Veo que has usado pintura para las cicatrices y las heridas. ¡Buen intento!
+v2;150;¡Da igual! ¡Por favor, dame una espada!
+v1;180;Las espadas son peligrosas. ¡Nada de espadas para ti!
+
+newchat;key:Inuit,v1:adult,v2:adult,weigth:10
+v1;0;Antes estaba hablando con un mercader bizantino y me contó que existen pueblos muy lejanos, en la nieve.
+v2;30;¿Pueblos en la nieve?
+v1;60;Sí, los llaman «inuit».
+v2;90;¿Inuit? Qué nombre tan extraño, ¿cómo eran?
+v1;120;El mercader dijo que no creen en el dinero.
+v2;150;¿Que no creen en el dinero? ¡¿Y cómo viven?!
+v1;180;Lo comparten todo a partes iguales. Eso hizo que comerciar con ellos fuera muy difícil.
+v2;210;Pobre mercader. Al menos ya está de vuelta en el Imperio Romano, lejos de esos bárbaros.
+v1;240;¡Estoy de acuerdo! ¡El Imperio Romano es la mejor tierra para comerciar!
+
+//newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:taverna,weigth:25
+//v1;0;Geiá sou! Den faínetai na eíste polý efcharistiménoi símera / Hello! You don't seem to be very happy today.
+//v2;30;Nai, den ypárchei tavérna gia na pioúme. / Yeah, there is no tavern for us to drink at.
+//v1;60;Éfchomai na ypirche mia tavérna. Tóte tha boroúsame na pioúme romaïkó krasí. / Yeah, I wish there was a tavern. Then we could drink Roman wine.
+//v2;90;An móno... / If only...
+
+//newchat;key:soldiers1,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+//v1;0;Elpízo óti den tha chreiasteí na vgoúme éxo kai na polemísoume opoiondípote bárbaro ópote sýntoma. / I hope we don't have to go out and fight any barbarians anytime soon.
+//v2;30;Ti? Eímaste stratiótes, i douleiá mas eínai na bgoúme éxo kai na skotósoume bárbarous. Giatí tha beíte ston strató an den sas arései na agonízeste? / What? We are soldiers, our job is to go out and kill barbarians. Why would you join the army if you don't like fighting?
+//v1;60;Skéftika óti i zoi mou tha ítan efkolóteri, to móno pou perímena na káno eínai na stamatíso kai na skotóso lígous óchlous kai ton peristasiakó bárbaro. Allá tóra ótan skotóno éna várvaro, koitázo to prósopó tou kai skéftomai, "Ísos den prépei na skotónoume aftoús tous anthrópous". / I thought being a soldier would easier, all I expected to do is stand around and kill a few mobs and the occasional barbarian. But now when I kill a barbarian, I look at his face and think, "Maybe we shouldn't be killing these people."
+//v2;120;Skéftesai pára polý! Vgeíte éxo kai skotóse kana bárbaro gia ti Rómi. Tha mas skotósoun kai tha katastrépsoun ta spítia mas! Eínai móno asyneíditoi ágrioi. / You think too much! Go out and kill barbarians for Rome. They would kill us and destroy our homes! They are only uncivilized savages.
+//v1;150;Synantísate aftoús tous anthrópous pou kirýttete na skotónete? Óchi, den échete, ísos eínai diaforetikoí apó aftó pou mas eípan. / Have you met these people that you are preaching to kill? No, you have not, maybe they are different from what we were told.
+//v2;180;Pragmati, tha boroúsan na eínai polý cheiróteroi. / True, they could be much worse.
+//v1;210;Den nomízo óti katalavaínete tis sképseis kai ta deiná pou pernáo. / I don't think you understand the thoughts and plight I'm going through.
+//v2;240;Eímai stratiótis, óchi filósofos. Tha prépei na páte na prosefchitheíte sto Theó gia kathodígisi, kathós safós chreiázeste. / I'm a soldier, not a philosopher. You should go to pray to God for guidance as you clearly need some.
+//v1;270;I prosefchí voithá se periódous psychikís krísis. Tha páo na proséfchomai tóra. / Praying does help in times of mental crisis. I'll go pray now.
+//v2;300;Elpízo óti o Theós tha balei ti sýnchysi sou. / I hope God will end your confusion.
+
+//newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+//v1;0;Elpízo óti den tha chreiasteí na vgoúme éxo kai na polemísoume opoiondípote várvaro ópote sýntoma. / I hope we don't have to go out and fight any barbarians anytime soon.
+//v2;30;Ti? Eímaste stratiótes, i douleiá mas eínai na vgoúme éxo kai na skotósoume várvarous. Giatí tha beíte ston strató an den sas arései na agonízeste? / What? We are soldiers, our job is to go out and kill barbarians. Why would you join the army if you don't like fighting?
+//v1;60;Skéftika óti o stratiótis tha ítan efkolóteros, to móno pou perímena na káno eínai na stamatíso kai na skotóso lígous óchlous kai to peristasiakó várvaro. Allá tóra ótan skotóno éna várvaro, koitázo to prósopó tou kai skéftomai, "Ísos den prépei na skotónoume aftoús tous anthrópous". / I thought being a soldier would easier, all I expected to do is stand around and kill a few mobs and the occasional barbarian. But now when I kill a barbarian, I look at his face and think, "Maybe we shouldn't be killing these people."
+//v2;120;Skéftesai pára polý! Vgeíte éxo kai skotóste várvarous gia ti Rómi. Tha mas skotósoun kai tha katastrépsoun ta spítia mas! Eínai móno asyneíditoi ágrioi. / You think too much! Go out and kill barbarians for Rome. They would kill us and destroy our homes! They are only uncivilized savages.
+//v1;150;Synantísate aftoús tous anthrópous pou kirýttete na skotónete? Óchi, den échete, ísos eínai diaforetikoí apó aftó pou mas eípan. / Have you met these people that you are preaching to kill? No, you have not, maybe they are different from what we were told.
+//v2;180;Eínai alítheia óti tha boroúsan na eínai polý cheirótera. / True, they could be much worse.
+//v1;210;Den nomízo óti katalavaínete tis sképseis kai ta deiná pou pernáo. / I don't think you understand the thoughts and plight I'm going through.
+//v2;240;Eímai stratiótis, óchi filósofos. Tha prépei na páte na prosefchitheíte sto Theó gia kathodígisi, kathós safós chreiázeste kápoio. / I'm a soldier, not a philosopher. You should go to pray to God for guidance as you clearly need some.
+//v1;270;Écho ídi kai den écho típota perissótero apó ton Theó. Ótan prosefchómoun, émeina me to ídio sympérasma ópos écho tóra. / I already have and I got nothing more from God. When I prayed, I was left with the same conclusion as I have now.
+//v2;300;Ti? Échete afísei safós ton Theó gia na min sas po tin alítheia! Pigaínete píso stin prosefchí méchri na borésete na skotósete kai páli tous varvárous! / What? You clearly have forsaken God for Him to not to tell you the truth! Go back to praying until you can kill barbarians again!
+//v1;330;Ísos aftó eínai to sympérasma pou o Theós símane gia ména na écho! Tha páo na proséfchomai tóra. / Maybe this is conclusion God meant for me to have!
+//v2;360;Akoúgetai perissótero ópos o Theós thélei na syntaxiodotitheíte ... / Sounds more like God wants you to retire...
+
+newchat;key:kidsBos,v1:child,v2:child,weigth:5
+v1;0;¡Beee… Beee… Soy el rey de los pastores!
+v2;30;¡Para! ¡Lo vas a invocar con eso!
+v1;60;Oh Boskokrator, te construyo un lugar sagrado…
+v2;90;¡Cállate! ¿No sabes lo que ocurre en la leyenda?
+v1;120;¡$targetfirstname, llorica! ¡Si solo es eso, una leyenda!

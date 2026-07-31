@@ -1,0 +1,146 @@
+//* Řádky dialogů začínají kódem ve stylu "v2;30;", který určuje, kdo mluví a kdy se replika objeví. Tento kód prosím přesně okopírujte do překladů.
+//* První polovina řádku (až po /) je v jazyce vesničanů a musí zůstat beze změny, druhou polovinu je třeba přeložit.
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Je takové horko!
+v2;30;To vedro mě přivádí k šílenství.
+v1;70;Kdy už zaprší?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Neprší.
+v2;30;Neboj. Pršet bude.
+v1;60;Tohle říkáš každý rok…
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Prší! Konečně!
+v2;40;Ale tak malý deštík k ničemu nebude…
+v1;80;Pořád je to lepší než vůbec nic.
+v1;120;Ale jak budou naše plodiny růst?
+
+newchat;key:sandstone,weigth:10
+v1;0;Naše vesnice se rozrůstá, viď?
+v2;40;Ale ještě je toho hodně, co se musí udělat.
+v1;80;Opravdu?
+v2;100;Bezpochyby!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Jdi přinést podnos obětin pro púdžu.
+v2;40;Hned tam běžím.
+v1;80;Musíme usmířit bohy.
+v1;130;Jen tak deště přijdou včas.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Přemýšlel jsi někdy, jak chutná hovězí?
+v2;60;Hovězí maso? Vždyť ho jíst je proti naší dharmě!
+v1;120;Ale co kdyby chutnalo dobře…?
+v2;180;Jsi snad normanský barbar?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Chci rasgullu. Mám hrozný hlad!
+v2;60;Ne. Smíš jíst jenom rýži.
+v1;120;Ale jedl jsem ji už k obědu!
+v1;180;A včera, a předevčírem…
+v2;220;A budeš ji jíst i dnes večer, zítra a po zbytek života!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Dneska jsem nakácel hodně dřeva.
+v2;60;Z naší džungle uděláš poušť!
+v1;120;Neboj se, tady stromy rostou samy.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Můj palác je velmi malý.
+v2;60;Ale maharádžo, je to největší palác v celé zemi!
+v1;120;Mně se ale zdá malý.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Mocná pevnost je nejlepší obrana proti našim nepřátelům.
+v2;60;Jakým nepřátelům, generále?
+v1;100;Normanům a jiným barbarům.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Můj manžel je bohatý a vážený.
+v2;50;Ano, to je pravda.
+v1;110;Ale nikdy mi nic nepřinese.
+v2;160;Jak to? Vždyť ti včera přinesl tři sárí.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Můj manžel dnes koupil padesát tólů zlata.
+v2;60;Padesát tólů zlata! Já mám jen deset…
+v1;120;Doufejme, že ti budou hvězdy nakloněny.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mám štěstí, že můžu dělat všechny tyhle sochy.
+v2;50;To proto, že je sochaříš opravdu krásně.
+v1;100;Sochám se věnuju už patnáct let.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Potřebujeme víc krumpáčů.
+v2;50;Teď mám práci.
+v1;100;Potřebujeme taky lopaty.
+v2;150;Uf! Tolik práce!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, myslím, že kolem vesnice se potulují bandité!
+v2;50;Neboj se, budu vesnici chránit.
+v1;100;Jsi tak silný!
+v1;130;A pohledný taky!
+v1;150;Jen kdybys neměl ten knír…
+v2;200;Ani slovo o mém kníru!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai. / Pane, letošní úroda je špatná.
+v2;40;To proto, že jsi líný! Pracuj víc!
+v1;80;Ale vůbec nepršelo…
+v2;120;To není moje vina. Chci své peníze.
+v1;170;Ale já žádné peníze nemám!
+v2;210;Tak mi vrať pole.
+v1;260;Pak mi nezbyde nic!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Obchodník si staví nový dům vedle svého.
+v2;60;Další dům? Proč potřebuje druhý?
+v1;90;Nový dům je pro jeho syna.
+v1;140;Až se jeho syn ožení, otec a syn budou bydlet vedle sebe.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Vůdce vesnice koupil své ženě zlaté náramky.
+v1;60;Ale ty jsi mi nikdy žádný šperk nekoupil…
+v2;110;Měla sis vzít bohatého muže.
+v1;160;Ale to bych musela zaplatit větší věno.
+v2;200;Tak bys měla být šťastná, že máš takového manžela jako já.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Už je to dlouho, co jsem se napil alkoholu.
+v2;50;Před vesnicí pod banyánem sedává muž, co prodává alkohol a buráky.
+v1;110;Vážně? Myslel jsem, že je ve vesnici zakázáno prodávat alkohol!
+v2;160;Neříkej to nikomu jinému.
+v1;200;Dobrá, půjdeme tam dnes večer.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Přinesls mi hračky?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mám hodně kamarádů.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Máma mě nepustí ven v noci.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Ahoj!
+v2;50;Vidělas to?
+v1;100;Co?
+v2;150;Zombíka!
+v1;200;Vážně?
+v2;250;Jo! Byl strašně děsivý! A dokonce mi řekl, že tě sní!
+v1;300;Aaaaa! Mami! Mě sní zombík!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Ahoj!
+v2;50;Vidělas to?
+v1;100;Co?
+v2;150;Creepera!
+v1;200;Vážně?
+v2;250;Jo! Měl jsem strašný strach! A támhle vyhodil do vzduchu strom!
+v1;300;Ale počkat, tam byl můj oblíbený strom! Wáááááá

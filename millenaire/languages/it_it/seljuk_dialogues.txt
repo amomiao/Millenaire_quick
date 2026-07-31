@@ -1,0 +1,177 @@
+//* Italian translation of seljuk dialogues — auto-generated, see docs/translation-policy.md §5 it_it.
+
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Dovrei bere un po' di ayran.
+v2;30;Spero che la locanda non sia piena oggi.
+v1;60;Sì, lo spero, non dovrebbe essere come ieri.
+v2;90;Esatto, e se bevo l'ayran, la mia stanchezza passerà.
+v1;120;Hai ragione.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Salve. Vorrei comprare un tappeto.
+v2;30;Certo. Come lo vorresti?
+v1;60;Non lo so. Volevo comprare un regalo perché oggi è il compleanno del mio amico. Cosa raccomanderesti?
+v2;90;Cosa ne dici di quello rosso?
+v1;120;D'accordo, ottima idea.
+v2;150;Quanti ne vorresti?
+v1;180;Solo uno. Puoi farne una buona confezione?
+v2;210;Certo, signore. Lo consegnerete voi stesso o lo portiamo noi?
+v1;240;Lo consegnerò io stesso. Grazie.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Buona giornata.
+v1;30;Hai dormito bene?
+v2;60;Sì, abbastanza bene.
+v1;90;Cosa vorresti per colazione?
+v2;120;Non lo so, e tu?
+v1;150;Non lo so nemmeno io.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Babbo, puoi dirmi qual è il minerale più bello che hai estratto?
+v2;30;Lasciami pensare... credo fosse un diamante.
+v1;60;Se lo trovi di nuovo, me ne darai uno, babbo?
+v1;90;Perché no, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah vede tutto ciò che facciamo, $targetfirstname.
+v2;30;Sì, è vero, mio hoca.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Mio padre uccide continuamente innocenti animali!
+v2;30; Ma se quella carne non ci servisse, tuo padre non lo farebbe.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Hai mai visto una bevanda buona come l'ayran, fratello?
+v2;30;No, non ne ho ancora vista.
+v2;60;Dove l'hai presa? Ne voglio anch'io.
+v1;90;C'è una cucina qui vicino che lo vende.
+v2;120;D'accordo, grazie mille.
+v2;150;Cos'altro vendono là?
+v1;180;Puoi pensare di tutto, dal pesce al pide.
+v2;210;Dovrei andarci subito.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Salve, $targetfirstname.
+v2;30;Ehi!
+v1;60;Hai visto il nuovo hamam?
+v2;90;No, non ancora.
+v1;120;Dobbiamo andarci presto!
+v2;150;D'accordo, è una buona notizia.
+v1;180;Sì, lo è, sai, essere puliti fa parte della religione.
+v2;210;Va bene allora, andiamo a dare un'occhiata.
+v2;240;Che ne dici tra un'ora?
+v1;270;No, andiamoci adesso.
+v2;300;D'accordo, ma perché tutta questa fretta, amico mio?
+v2;330;Dove dobbiamo andare?
+v1;360;In realtà possiamo aspettare ancora un po'.
+v2;390;È sempre la stessa storia con te, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Hai mai visto un edificio bello quanto questa moschea, fratello?
+v2;30;No, non l'ho ancora visto.
+v2;60;Quando è stato fatto? È bellissimo.
+v1;90;Da tanto tempo.
+v2;120;Oh, d'accordo.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Vedo sempre cose strane di notte.
+v2;30;Dicono che il male del giorno sia meglio del bene della notte.
+v1;60;Hai ragione, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;È ora di pregare.
+v2;30;Non arriviamo in ritardo.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;È ora di pregare.
+v2;30;Non arriviamo in ritardo.
+v1;60;Come sarebbe bello se avessimo una bella moschea, talha.
+v2;90;Esatto, fratello.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Allora, come va il lavoro, $targetfirstname?
+v2;30;Nulla è cambiato, tutto come prima.
+v1;60;E i tuoi viaggi ti piacciono?
+v2;90;Sì, ma mi fanno male anche i piedi.
+v1;120;Hai ragione, $targetfirstname.
+v2;150;Certo che ho ragione!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah ama i suoi servi che lavorano duramente.
+v2;30;Quindi sono molto felice di lavorare sodo!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;La pesca è una questione di pazienza, lo sai, mia cara?
+v2;30;Sei paziente solo con la pesca!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Com'è andata la tua giornata oggi?
+v2;30;È stata piuttosto piena.
+v2;60;Quindi sono stanco.
+v1;90;Vorresti bere un ayran?
+v2;120;Sarebbe carino, sì.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Salve, $targetfirstname.
+v1;30;Come stai oggi?
+v2;60;Grazie, sto bene.
+v1;90;Come va la tua famiglia, stanno tutti bene?
+v2;120;Grazie, anche loro stanno bene.
+v1;150;Fa piuttosto caldo, non è vero?
+v2;180;Sì, fa davvero caldo.
+v1;210;Saluta la tua famiglia.
+v2;240;Grazie, saluta anche la tua.
+v1;270;Arrivederci.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Quando ti sei trasferito?
+v2;30;Proprio lo scorso fine settimana.
+v1;60;Non sapevo nemmeno che la casa fosse stata venduta.
+v2;90;Adoro davvero questa casa, perciò dovevo trasferirmi.
+v1;120;Ti capisco, perché la casa è straordinaria.
+v2;150;Da quanti anni vivi nella tua casa?
+v1;180;Vivo qui da molto tempo.
+v2;210;Spero che rimaniamo vicini ancora per un po'.
+v1;240;Anch'io.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Perché non eri qui ieri?
+v2;30;Non mi sentivo molto bene.
+v1;60;Cosa avevi che non andava?
+v2;90;Avevo lo stomaco in disordine.
+v1;120;Stai meglio adesso?
+v2;150;Non mi sento ancora troppo bene.
+v1;180;Vuoi qualcosa per sentirti meglio?
+v2;210;No, grazie. Ho già preso una medicina.
+v1;240;Spero che tu stia meglio.
+v2;270;Grazie.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Hai sentito le notizie?
+v2;30;Non ho sentito nulla.
+v1;60;La mia vicina ha avuto un bambino la settimana scorsa.
+v2;90;Nessuno me l'ha detto.
+v1;120;Pensavo lo sapessi.
+v2;150;Davvero non mi è stato detto niente.
+v1;180;È una bambina carina, maşallah.
+v2;210;Wow, che bello!
+v1;240;Lo so, dovresti davvero andare a vedere lei e il bambino.
+v2;270;Certamente lo farò.
+v1;300;Volevo solo farti sapere cos'era successo.
+v2;330;Te ne sono grata.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Ti piacerebbe venire nei campi con me?
+v1;30;	Quando vuoi andare?
+v1;60;Che ne dici di venerdì prossimo?
+v1;90;Mi dispiace, non posso. Ceno con un amico.
+v1;120;E martedì della settimana dopo?
+v1;150;Vado alle lezioni della moschea il martedì.
+v1;180;Oh, magari un'altra volta?
+v1;210;Sì, ti farò sapere.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Chi è costui?
+v2;30;Non conosco il suo nome, ma è straniero in queste terre.
+v1;60;Chiunque non abbia il male dentro è il benvenuto in queste terre.
+v2;90;Hai ragione.

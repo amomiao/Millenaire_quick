@@ -1,0 +1,60 @@
+
+boy.greeting=Mor kan sy igjen hullene i klærne dine.
+boy.greeting=Jeg vil leke.
+boy.greeting=Hvordan har du det?
+
+chef.greeting=Jeg liker å lage mat. Spis, spis!
+chef.greeting=På tide å spise.
+
+farmer.greeting=Jeg liker å dyrke jorden, særlig poteter!
+
+fisherman.greeting=Jeg liker å fiske om vinteren.
+
+girl.greeting=Jeg kan danse.
+girl.greeting=Hvordan har du det?
+girl.greeting=Jeg kan løpe.
+
+hunter.greeting=Reiser du med hundespann?
+hunter.greeting=Jeg liker å jakte om høsten.
+
+husband.greeting=Jeg må komme i gang med dagens gjøremål.
+
+lumberman.greeting=Trærne vokser så kraftige og sterke så fort her — for et vidunderlig land.
+
+oldlady.greeting=Hun forbannet dem til å flykte fra sitt rike.
+oldlady.greeting=Ikke se dem i øynene!
+oldlady.greeting=De forbannede omringer oss!?
+
+shaman.greeting=Åndene gir deg sin velsignelse.
+shaman.greeting=Jeg må tale med åndene.
+
+sodder.greeting=Jeg må samle inn til torvlegging.
+
+villager.greeting=Hallo, $name!
+villager.greeting=Nordlyset var så vakkert.
+villager.greeting=Hvordan har familien din det?
+villager.greeting=Hyggelig å treffe deg.
+villager.greeting=Hvor kommer du fra?
+villager.greeting=Har du spist allerede?
+villager.greeting=Sov du godt?
+villager.greeting=Jeg har ikke sett deg på en evighet.
+villager.greeting=Velkommen.
+villager.greeting=God dag.
+
+wife.greeting=Jorden er bare så fruktbar — avlingene vokser som besatt!
+wife.greeting=Hvordan er været der du kommer fra?
+
+art_merchant.greeting=Ingen by i verden kan måle seg med Konstantinopel!
+art_merchant.greeting=Folket her er barbarer.
+
+oriental_merchant.greeting=Dette landet er rikt, men må det være så kaldt?
+oriental_merchant.greeting=Har du vært i Córdoba? Det er et sivilisert sted.
+
+plant_merchant.greeting=Noen sier jeg er en drømmer, men jeg er ikke den eneste... /
+
+viking_merchant.greeting=I dag kommer jeg for å handle. I morgen...
+viking_merchant.greeting=Dette landet er vikingland. England er vikingland. Sicilia er vikingland. Vi hersker!
+
+weapon_merchant.greeting=Vil du vite hvordan jeg overlevde alle disse årene mens jeg reiste alene med verdifulle varer?
+villager.sellercoming=Jeg kommer!
+villager.tradecomplete=Handelen er gjort, farvel.

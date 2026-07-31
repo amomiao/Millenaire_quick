@@ -1,0 +1,228 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1D314DF889D3C993"
+	group: "6050F7ACD10CCF6C"
+	icon: {
+		id: "easy_villagers:trader"
+	}
+	id: "1D314DF889D3C993"
+	order_index: 0
+	quest_links: [
+		{
+			id: "09E914160ADC9333"
+			linked_quest: "2C195AF03F269B0A"
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			id: "61E1CF4C25408F75"
+			linked_quest: "0DFE671F3120AD5F"
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			id: "59F4930FB6081F0D"
+			linked_quest: "0D97D9B97CDB09AD"
+			x: 0.0d
+			y: -3.0d
+		}
+	]
+	quests: [
+		{
+			id: "70D38ACA599083A3"
+			rewards: [{
+				count: 16
+				id: "1917ABC49D0E5E82"
+				item: {
+					count: 1
+					id: "minecraft:hay_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A0FBD54F7AB0AE2"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			id: "411D3E6381397280"
+			tasks: [{
+				id: "5A5F436CF2C3C2E5"
+				item: { count: 1, id: "easy_villagers:trader" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["411D3E6381397280"]
+			id: "05E1C5C39028BCFF"
+			tasks: [{
+				id: "639905D9098838A4"
+				item: { count: 1, id: "easy_villagers:auto_trader" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			id: "7583FE954E45BF56"
+			tasks: [{
+				id: "3715C3A93FD2913D"
+				item: { count: 1, id: "easy_villagers:farmer" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "5AC4CEBA46AC499F"
+			tasks: [{
+				id: "3228E87DF3EDDF8C"
+				item: { count: 1, id: "easy_villagers:breeder" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			id: "59B8CE023D51007F"
+			tasks: [{
+				id: "1167F69A1C08DF5A"
+				item: { count: 1, id: "easy_villagers:converter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "64911CCC1AC3F2C1"
+			tasks: [{
+				id: "050FB1D97E58C1F7"
+				item: { count: 1, id: "easy_villagers:iron_farm" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "65E0DEDCF6E944C7"
+			tasks: [{
+				id: "3D511065CFB86308"
+				item: { count: 1, id: "easy_villagers:incubator" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:villager_spawn_egg"
+			}
+			id: "147F18159A84A150"
+			rewards: [{
+				count: 2
+				id: "741862781F184727"
+				item: {
+					components: {
+						"easy_villagers:villager": { }
+					}
+					count: 1
+					id: "easy_villagers:villager"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E01EE2C1E89A255"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "5DC2F32D85CEE149"
+			rewards: [
+				{
+					id: "7FAA09B458C4E886"
+					item: {
+						count: 1
+						id: "minecraft:dripstone_block"
+					}
+					type: "item"
+				}
+				{
+					id: "648056F2F0234A16"
+					item: {
+						count: 1
+						id: "minecraft:pointed_dripstone"
+					}
+					type: "item"
+				}
+				{
+					id: "328622E38148D30A"
+					item: {
+						count: 1
+						id: "minecraft:cauldron"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "522848897125D869"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70D38ACA599083A3"]
+			id: "5C9E061F85BB1321"
+			rewards: [{
+				id: "173F70232295D091"
+				item: {
+					count: 1
+					id: "minecraft:anvil"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "00327C5A3A54FCFD"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			id: "0EFA7589D6D1E62B"
+			rewards: [{
+				id: "67417C5959160DF8"
+				item: {
+					components: {
+						"buildinggadgets2:forge_energy": 500000
+						"buildinggadgets2:gadget_uuid": [I;
+							-315735879
+							-1479192855
+							-1164825396
+							1519382153
+						]
+					}
+					count: 1
+					id: "buildinggadgets2:gadget_building"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "571DD983A35B3E25"
+				item: { count: 1, id: "buildinggadgets2:gadget_building" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+	]
+}

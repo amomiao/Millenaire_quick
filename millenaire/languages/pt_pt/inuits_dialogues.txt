@@ -1,0 +1,106 @@
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Está a nevar?
+v2;30;Parece neve, mas não parece estar frio.
+
+newchat;key:beautiful,weigth:10
+v1;0;Onde estamos? Não é nenhum sítio que eu tenha visto antes. Parece igual, mas sente-se diferente.
+v2;30;Os xamãs dizem que estamos na terra abençoada dos espíritos benevolentes, é por isso que é tão maravilhoso aqui!
+
+newchat;key:sunset,weigth:10
+v1;0;Estou cansado, este dia não está a passar depressa suficiente...
+
+newchat;key:seasons,weigth:10
+v1;0;Achas que a caça vai ser boa este ano?
+v2;30;Quem sabe, com o tempo que tem feito.
+v1;60;As estações não fazem sentido aqui.
+
+newchat;key:normans,weigth:5
+v1;0;Conheci umas pessoas estranhas, dizem-se Normandos?
+v2;30;Sim, os Normandos são fantásticos, mas precisam mesmo de muito.
+v1;60;Como assim?
+v2;90;Um veio cá no outro dia e esvaziei a minha casa a dar-lhe coisas, parece que continuava sempre a precisar de mais.
+v1;120;Pobre homem.
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Esses japoneses sabem mesmo preparar peixe!
+v2;30;"Preparar" peixe? Queres dizer que o cozinham, não é?
+v1;60;Não, quero dizer que servem a comida com todos esses métodos e sabores elaborados.
+v2;90;A comida pode ter um sabor diferente sem estar simplesmente estragada?
+v1;120;Sim, devias vir comigo da próxima vez que os for ver!
+
+newchat;key:murderer,weigth:10
+v1;0;Ouviste o que lhe aconteceu depois do acidente?
+v2;30;Acidente ou não, matar pessoas é errado.
+v1;60;Sim, mas tínhamos de o expulsar da aldeia? Ouvi dizer que enlouqueceu sozinho.
+v2;90;Tivemos de o fazer! Pelo menos aqui não faz frio e ele não vai morrer congelado lá fora.
+v1;120;Isso é melhor? Agora é obrigado a viver sozinho!
+
+newchat;key:kys,weigth:10
+v1;0;Quando é que a anciã vai partir para morrer?
+v2;30;Acho que não precisamos de fazer isso aqui, este novo mundo é muito mais acolhedor!
+v1;60;Acho que sim... mas é estranho vê-la ainda viva.
+
+newchat;key:visitors,weigth:10
+v1;0; Este sítio é estranho, está cheio de gente esquisita.
+v2;30;Queres dizer como o $name?
+v1;60;Bem, o $name é só uma pessoa, refiro-me a todos os outros.
+
+newchat;key:endermen,weigth:10
+v1;0;Ouviste o que o ancião diz sobre aquelas pessoas altas, magras e assustadoras?
+v2;30;O quê, que são o Povo das Sombras? Não sei...
+v1;60;Faz sentido, no entanto! Se estamos mesmo numa terra abençoada, seriam retorcidos assim!
+v2;90;Mas se estamos numa terra abençoada, porque está aqui o Povo das Sombras?
+v2;120;Oh... hum, não sei...
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Gosto de neve.
+v2;42;Ainda bem, para um inuíte!
+
+newchat;key:meat,weigth:10
+v1;0;Acho que as nossas reservas de carne estão a acabar, detesto quando se esgotam.
+v1;30;A carne não é a mesma coisa que os guisados...
+v2;60;Mas a maioria dos guisados leva carne, não é?
+v1;90;Sim, mas não é a mesma coisa...
+
+newchat;key:carribou,weigth:10
+v1;0;Onde estão todos os caribus? Tenho saudades da carne de caribu.
+v2;30;Tivemos muitas caçadas, mas nenhuma encontrou caribus.
+v2;60;Encontrámos muitos do que parecem ser bisontes, no entanto!
+v1;60;Eca, detesto bisonte, o caribu é melhor.
+v2;90;Bem, então come peixe, temos muito.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Não há muito que fazer por aqui.
+v2;30;É bom, é tranquilo.
+v1;60;E aborrecido...
+v2;75;Podias cavar um buraco ou construir um iglu de neve!
+v1;110;O meu próprio iglu de neve?!
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Invejo os xamãs, gostava de poder falar com os espíritos como eles.
+v2;30;Podias ver se o xamã te ensina?
+v1;60;Talvez... mas alguns espíritos são assustadores.
+v2;70;Pois, haverá sempre espíritos assustadores com que ter cuidado.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;O meu pai é muito mais forte que o teu.
+v2;30;O meu pai é o mais forte da aldeia, tonto!
+v1;60;Continua a sonhar. O meu pai vence o teu em dois minutos.
+
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Então, beleza, o que vais fazer esta noite?
+v2;40;$targetfirstname, já te disse, estou prometida a outro!
+
+newchat;key:hunting,weigth:10
+v1;0;Melhorei novamente as minhas competências.
+v2;30;Estás rapidamente a tornar-te um grande caçador!
+v1;90;Achas mesmo?
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Adoro o cheiro da carne a cozinhar no preparador de alimentos.
+v2;30;Não sei, normalmente prefiro a minha carne crua, muda-lhe o sabor.
+v1;60;Eu gosto desse sabor alterado!
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Eca, olha como os bisontes aqui são pequenos e doentios.
+v2;42;O mercador estrangeiro chama-lhes "vacas..?"

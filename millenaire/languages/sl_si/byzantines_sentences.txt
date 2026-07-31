@@ -1,0 +1,529 @@
+architect_byzantine.construction=$name! Si vedel, da so Rimljani najboljši arhitekti?
+architect_byzantine.construction=$name! Glej, kako gradim čudovito zgradbo.
+architect_byzantine.construction=Ta zgradba bo prelepa!
+architect_byzantine.construction=Še ni končana, ampak že vidim lepoto v svojem delu.
+architect_byzantine.construction=Gradim tako dovršene strukture. Gradnja je resnično najlepša oblika umetnosti.
+architect_byzantine.construction=Rim ni bil zgrajen v enem dnevu, gradili so ga blok za blokom.
+architect_byzantine.construction=Naša arhitektura je nadrejena vsem drugim zgradbam po svetu.
+architect_byzantine.construction=Graditi po rimsko je najboljši način gradnje.
+architect_byzantine.construction=Ti je všeč moj slog?
+architect_byzantine.construction=Gradim, odkar pomnim. Gradnja je postala moje življenje.
+
+architect_byzantine.getresourcesforbuild=Od kod vas dobiva te bloke?
+architect_byzantine.getresourcesforbuild=Potrebujem bloke, da gradim najboljše strukture!
+architect_byzantine.getresourcesforbuild=Vsaka gradnja se začne pri blokih.
+architect_byzantine.getresourcesforbuild=Bloke moram sam pazljivo izbrati.
+architect_byzantine.getresourcesforbuild=Kako nosiš toliko blokov, ko gradiš, $name?
+architect_byzantine.getresourcesforbuild=Najslabši del gradnje je iskanje gradbenega materiala.
+
+architect_byzantine.godrink=Dovolj gradnje! Vino potrebujem!
+architect_byzantine.godrink=Potrebujem požirek, ki me bo navdihnil!
+architect_byzantine.godrink=Vsak dober arhitekt potrebuje pijačo ob koncu dneva.
+architect_byzantine.godrink=Od gradnje me žeja po vinu.
+
+architect_byzantine.gopray=Upam, da mi bo Bog dal navdih za mojo naslednjo zgradbo!
+architect_byzantine.gopray=Zakaj me je Bog naredil arhitekta?
+architect_byzantine.gopray=Molitev je pomemben del rimske gradnje.
+architect_byzantine.gopray=On razume težave arhitektov.
+
+architect_byzantine.gorest=Če ne spim, lahko kaj polomim pri gradnji.
+architect_byzantine.gorest=Ne morem graditi, ko sem utrujen.
+architect_byzantine.gorest=Težko je graditi v temi.
+architect_byzantine.gorest=Za danes sem končal z gradnjo.
+architect_byzantine.gorest=Morda bom sanjal, da gradim najlepše zgradbe na svetu!
+
+architect_byzantine.gosocialise=Nihče v tej vasi ne razume težav z gradnjo.
+architect_byzantine.gosocialise=Vsak arhitekt potrebuje navdih od drugih.
+architect_byzantine.gosocialise=Arhitekti potrebujejo odziv, da napredujejo.
+architect_byzantine.gosocialise=Kaj naša vas misli o mojih zgradbah?
+
+//armysmith_byzantine.MakeIndianTools=Roman tools are the best in world.
+armysmith_byzantine.makebyzantinemace=Ne napadaj nikogar, ki uporablja moje orožje.
+armysmith_byzantine.makebyzantinemace=Ta buzdovan bo barbare zalučal daleč!
+armysmith_byzantine.makebyzantinemace=Izdelati buzdovan je težje kot z njim mahati.
+armysmith_byzantine.makebyzantinemace=Vojska potrebuje buzdovane.
+
+armysmith_byzantine.gopray=Dober kovač mora vsake toliko časa moliti.
+armysmith_byzantine.gopray=Zakaj me je Bog naredil kovača?
+armysmith_byzantine.gopray=Molitev je pomemben del rimske obrti.
+armysmith_byzantine.gopray=On razume težave kovačev.
+
+armysmith_byzantine.gorest=Jutri bom izdelal še več lepih stvari!
+armysmith_byzantine.gorest=Za danes sem končal z izdelovanjem.
+armysmith_byzantine.gorest=Morda bom sanjal, da kujem najboljše orožje na svetu!
+armysmith_byzantine.gorest=Morda bom sanjal, da kujem najboljši oklep na svetu!
+armysmith_byzantine.gorest=Morda bom sanjal, da kujem najboljše orodje na svetu!
+
+armysmith_byzantine.gosocialise=Vprašal bom, ali kdo potrebuje, da mu kaj izdelam.
+armysmith_byzantine.gosocialise=Upam, da naša vas ceni moje orodje.
+
+armysmith_byzantine.godrink=Dovolj izdelovanja! Vino potrebujem!
+armysmith_byzantine.godrink=Potrebujem požirek, ki me bo navdihnil!
+armysmith_byzantine.godrink=Vsak dober kovač potrebuje pijačo ob koncu dneva.
+armysmith_byzantine.godrink=Od kovaštva me žeja po vinu.
+
+armysmith_byzantine.makearrow=$name, ali pri svojih pustolovščinah uporabljaš veliko puščic?
+armysmith_byzantine.makearrow=Vsak lok potrebuje pošteno puščico.
+armysmith_byzantine.makearrow=Vsaka puščica, ki jo izdelam, bo prizadela enega sovražnika cesarstva.
+armysmith_byzantine.makearrow=Rimska vojska potrebuje puščice, da nas varuje pred tujci.
+
+armysmith_byzantine.makebow=Rimska vojska potrebuje loke.
+armysmith_byzantine.makebow=Hej! So ti všeč moji loki, $name?
+armysmith_byzantine.makebow=Vsak dober lok izhaja iz najboljšega lesa.
+armysmith_byzantine.makebow=Ta lok bo premagal mnogo barbarov. Resnično sem mojster lokar.
+
+armysmith_byzantine.makebyzantineboots=Rimska vojska potrebuje škornje!
+armysmith_byzantine.makebyzantineboots=Rimljani izdelujemo najboljše škornje na svetu.
+armysmith_byzantine.makebyzantineboots=Nekdo mora izdelovati vojaške škornje ...
+armysmith_byzantine.makebyzantineboots=Mi izdelujemo najboljše škornje.
+armysmith_byzantine.makebyzantineboots=Hej! So ti všeč moji škornji, $name?
+armysmith_byzantine.makebyzantineboots=Počutim se kot preveč povzdignjen čevljar.
+armysmith_byzantine.makebyzantineboots=Vsako izdelovanje oklepa je pomembno! Tudi škornji, ki ti pridejo na noge!
+
+armysmith_byzantine.makebyzantinechest=Rimska vojska potrebuje oklepe!
+armysmith_byzantine.makebyzantinechest=Rimljani izdelujemo najboljše oklepe na svetu.
+armysmith_byzantine.makebyzantinechest=Hej! Ti je všeč moj oklep, $name?
+armysmith_byzantine.makebyzantinechest=Mi izdelujemo najboljše oklepe.
+armysmith_byzantine.makebyzantinechest=To bi moralo prenesti več udarcev, kot jih ti.
+armysmith_byzantine.makebyzantinechest=Počutim se kot preveč povzdignjen krojač srajc.
+
+armysmith_byzantine.makebyzantinehelmet=Rimska vojska potrebuje čelade!
+armysmith_byzantine.makebyzantinehelmet=Nekdo mora izdelovati vojaške čelade ...
+armysmith_byzantine.makebyzantinehelmet=Rimljani izdelujemo najboljše škornje na svetu.
+armysmith_byzantine.makebyzantinehelmet=Hej! So ti všeč moje čelade, $name?
+armysmith_byzantine.makebyzantinehelmet=Mi izdelujemo najboljše čelade.
+armysmith_byzantine.makebyzantinehelmet=Počutim se kot preveč povzdignjen klobučar.
+
+armysmith_byzantine.makebyzantinelegs=Rimska vojska potrebuje hlačnice!
+armysmith_byzantine.makebyzantinelegs=Nekdo mora izdelovati vojaške hlačnice ...
+armysmith_byzantine.makebyzantinelegs=Rimljani izdelujemo najboljše hlačnice na svetu.
+armysmith_byzantine.makebyzantinelegs=Hej! So ti moje hlačnice všeč, $name?
+armysmith_byzantine.makebyzantinelegs=Mi izdelujemo najboljše hlačnice.
+armysmith_byzantine.makebyzantinelegs=Počutim se kot preveč povzdignjen krojač hlač.
+
+armysmith_byzantine.makesteelaxe=Brez sekire ne moreš sekati dreves!
+armysmith_byzantine.makesteelaxe=Izdelujem osupljive sekire.
+armysmith_byzantine.makesteelaxe=Rimske sekire so med najboljšimi na svetu!
+armysmith_byzantine.makesteelaxe=Drvarji nas potrebujejo, da jim izdelamo sekire.
+armysmith_byzantine.makesteelaxe=Kako kuješ svoje sekire, $name?
+
+armysmith_byzantine.makesteelhoe=Brez kmetijskega orodja ne moreš obdelovati polj!
+armysmith_byzantine.makesteelhoe=Izdelujem osupljivo kmetijsko orodje.
+armysmith_byzantine.makesteelhoe=Rimsko kmetijsko orodje je med najboljšim na svetu!
+armysmith_byzantine.makesteelhoe=Kmetje nas potrebujejo, da jim izdelamo orodje.
+armysmith_byzantine.makesteelhoe=Kako kuješ svoje kmetijsko orodje, $name?
+
+armysmith_byzantine.makesteelpickaxe=Brez krampa ne moreš kopati!
+armysmith_byzantine.makesteelpickaxe=Izdelujem močne krampe.
+armysmith_byzantine.makesteelpickaxe=Rimski krampi so med najboljšimi na svetu!
+armysmith_byzantine.makesteelpickaxe=Rudarji nas potrebujejo, da jim izdelamo krampe.
+armysmith_byzantine.makesteelpickaxe=Kako kuješ svoje krampe, $name?
+
+armysmith_byzantine.makesteelshovel=Brez lopate ne moreš graditi ali kopati!
+armysmith_byzantine.makesteelshovel=Izdelujem trpežne lopate.
+armysmith_byzantine.makesteelshovel=Rimske lopate so med najboljšimi na svetu!
+armysmith_byzantine.makesteelshovel=Arhitekti nas potrebujejo, da jim izdelamo lopate.
+armysmith_byzantine.makesteelshovel=Kako kuješ svoje lopate, $name?
+
+//artisan_byzantine.makePainting=Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=Dober obrtnik mora vsake toliko časa moliti.
+artisan_byzantine.gopray=Zakaj me je Bog naredil obrtnika?
+artisan_byzantine.gopray=Molitev je pomemben del rimske obrti.
+artisan_byzantine.gopray=On razume težave obrtnikov.
+
+artisan_byzantine.gorest=Jutri bom izdelal še več lepih stvari!
+artisan_byzantine.gorest=Za danes sem končal z izdelovanjem.
+artisan_byzantine.gorest=Morda bom sanjal, da izdelujem najboljše opeke na svetu!
+artisan_byzantine.gorest=Morda bom sanjal, da delam najboljše ploščice na svetu!
+
+artisan_byzantine.gosocialise=Vprašal bom, ali kdo potrebuje, da mu kaj izdelam.
+artisan_byzantine.gosocialise=Upam, da naša vas ceni moje strešnike.
+artisan_byzantine.gosocialise=Upam, da naša vas ceni moje opeke.
+
+artisan_byzantine.godrink=Dovolj izdelovanja! Vino potrebujem!
+artisan_byzantine.godrink=Potrebujem požirek, ki me bo navdihnil!
+artisan_byzantine.godrink=Vsak dober obrtnik potrebuje pijačo ob koncu dneva.
+artisan_byzantine.godrink=Od obrti me žeja po vinu.
+
+artisan_byzantine.greeting=Tukaj živim bolje kot kdorkoli drug v vasi.
+artisan_byzantine.greeting=Pozdravljen, $name! Potrebuješ kakšne posebne rimske bloke?
+
+artisan_byzantine.makebrick=Nekdo mora izdelovati opeke.
+artisan_byzantine.makebrick=Vas me potrebuje, da ji izdelam opeke za zidove.
+artisan_byzantine.makebrick=Rimske opeke so med najlepšimi bloki na svetu!
+artisan_byzantine.makebrick=Mi delamo v ozadju, medtem ko vse zasluge poberejo graditelji.
+artisan_byzantine.makebrick=Niti najboljši graditelji ne morejo graditi brez blokov.
+artisan_byzantine.makebrick=Komu je padlo na pamet, da iz gline naredi opeko?
+
+artisan_byzantine.makebookshelves=Nekdo mora knjige zložiti na police.
+artisan_byzantine.makebookshelves=Vas me potrebuje, da ji izdelam knjižne police.
+artisan_byzantine.makebookshelves=Rimske knjige so med najbolje branimi na svetu!
+artisan_byzantine.makebookshelves=Mi delamo v ozadju, medtem ko vse zasluge poberejo pisci.
+artisan_byzantine.makebookshelves=Včasih pokukam v knjige, preden jih postavim na polico, želim si, da bi znal brati.
+artisan_byzantine.makebookshelves=Komu je padlo na pamet, da bi stvari zapisoval?
+
+artisan_byzantine.makebyzantinetiles=Nekdo mora izdelovati strešnike.
+artisan_byzantine.makebyzantinetiles=Vas me potrebuje, da ji izdelam strehe.
+artisan_byzantine.makebyzantinetiles=Rimski strešniki so med najlepšimi bloki na svetu!
+artisan_byzantine.makebyzantinetiles=Mi delamo v ozadju, medtem ko vse zasluge poberejo graditelji.
+artisan_byzantine.makebyzantinetiles=Niti najboljši graditelji ne morejo graditi brez blokov.
+artisan_byzantine.makebyzantinetiles=Komu je padlo na pamet, da iz gline naredi strešnike?
+
+artisanwife_byzantine.gopray=Molitev je pomemben del rimske obrti.
+artisanwife_byzantine.gopray=Upam, da mi Bog pomaga izdelati najlepša oblačila!
+artisanwife_byzantine.gopray=Zakaj je Bog ustvaril ženo arhitekta?
+
+artisanwife_byzantine.gosocialise=Oh! Tistemu fantu sem jaz sešila srajco!
+artisanwife_byzantine.gosocialise=Tukaj me poznajo kot ženo arhitekta.
+artisanwife_byzantine.gosocialise=Naveličana sem, da me imenujejo "žena arhitekta".
+
+artisanwife_byzantine.makeclothes_byz_silk=Izdelujem nekatera najlepša oblačila v vasi!
+artisanwife_byzantine.makeclothes_byz_silk=Rimska svila je najboljše blago na svetu!
+artisanwife_byzantine.makeclothes_byz_silk=Svilena oblačila so pomembnejša od imenitne hiše.
+artisanwife_byzantine.makeclothes_byz_silk=$name, si že kdaj nosil svilo?
+artisanwife_byzantine.makeclothes_byz_silk=Vsak potrebuje oblačila, še posebej, če hočeš biti civiliziran.
+artisanwife_byzantine.makeclothes_byz_silk=Prava lepota ni v blokih, lepota je v oblačilih.
+artisanwife_byzantine.makeclothes_byz_silk=Obstaja razlog, zakaj to tkem jaz in ne moj mož.
+artisanwife_byzantine.makeclothes_byz_silk=Tkanje svilenih oblačil je le za najplemenitejše ženske.
+artisanwife_byzantine.makeclothes_byz_silk=Vesela sem, da imam vsaj pravo delo.
+
+artisanwife_byzantine.makeclothes_byz_wool=Izdelujem nekatera najboljša volnena oblačila v vasi!
+artisanwife_byzantine.makeclothes_byz_wool=Lepa oblačila so pomembnejša od imenitne hiše.
+artisanwife_byzantine.makeclothes_byz_wool=$name, si že kdaj nosil volno?
+artisanwife_byzantine.makeclothes_byz_wool=Prava lepota ni v blokih, lepota je v oblačilih.
+artisanwife_byzantine.makeclothes_byz_wool=Vsak potrebuje oblačila, še posebej, če hočeš biti civiliziran.
+artisanwife_byzantine.makeclothes_byz_wool=Obstaja razlog, zakaj to tkem jaz in ne moj mož.
+artisanwife_byzantine.makeclothes_byz_wool=Vsaka ženska ne zna tkati z volno.
+artisanwife_byzantine.makeclothes_byz_wool=Vesela sem, da imam vsaj pravo delo.
+
+artisanwife_byzantine.delivergoodshousehold=Take stvari so edino, kar tu lahko počnem.
+artisanwife_byzantine.gethousethresources=Mož je končno prinesel material, kot sem mu rekla.
+artisanwife_byzantine.getgoodshousehold=Čas je, da poskrbim za družino.
+artisanwife_byzantine.greeting=Tukaj bi lahko počela toliko več, če bi bila moški, ko bi le ...
+artisanwife_byzantine.greeting=Naša naloga je, da nadzorujemo svoje može.
+
+baron_byzantine.greeting=$name, moja vas ima najboljše blago naprodaj!
+baron_byzantine.greeting=Pozdravljen, premožni popotnik!
+baron_byzantine.greeting=Hočeš pomagati paziti na kmete, $name?
+
+baron_byzantine.godrink=Dovolj vladanja! Potreboval bi en požirek.
+baron_byzantine.godrink=Zaslužim si piti najboljše vino!
+baron_byzantine.godrink=Moral bi preveriti, ali je gostilna dobičkonosna.
+baron_byzantine.godrink=Vsak mogočen človek mora piti, sicer umre od stresa!
+
+baron_byzantine.gopray=Zakaj me je Bog naredil barona?
+baron_byzantine.gopray=Molitev je pomemben del rimske vladavine.
+baron_byzantine.gopray=On razume težave, ki jih imajo baroni.
+baron_byzantine.gopray=Naša vas potrebuje odgovore od Boga!
+
+baron_byzantine.gorest=Dovolj ukvarjanja s kmeti! Potrebujem spanec.
+baron_byzantine.gorest=*zeha* Ne morem voditi kmetov, ko sem utrujen.
+baron_byzantine.gorest=Čas je za spanje pod svilenim odejom.
+baron_byzantine.gorest=Vsi potrebujejo spanec, še posebej, ko vodiš vas.
+
+baron_byzantine.gosocialise=Zakaj me ti neumni kmetje vidijo le kot "barona"?
+baron_byzantine.gosocialise=He he he, da vidimo, ali je plačal svoje davke.
+baron_byzantine.gosocialise=Čas je, da revne navdihnem k služenju denarjev!
+baron_byzantine.gosocialise=Moram res govoriti z navadnim ljudstvom?
+baron_byzantine.gosocialise=Kot baron moram govoriti s svojim ljudstvom, tudi če nočem.
+
+baron_byzantine.inspectconstruction=Moram poskrbeti, da kmetje niso česa polomili.
+baron_byzantine.inspectconstruction=Ta zgradba bo prinesla dobiček moji vasi.
+baron_byzantine.inspectconstruction=Lepota je gledati, kako tvoja vas postaja bogatejša.
+baron_byzantine.inspectconstruction=Vem, da Rim ni bil zgrajen v enem dnevu, ampak zakaj je moj arhitekt tako počasen?
+baron_byzantine.inspectconstruction=Moja naloga je poskrbeti, da so zgradbe pravilno postavljene.
+baron_byzantine.inspectconstruction=Moji arhitekti običajno delajo dobro, ampak moram jih vedno preverjati.
+
+boy_byzantine.becomeadult=Čas je, da postanem močan mož!
+boy_byzantine.becomeadult=Dovolj sem star, da grem v službo!
+boy_byzantine.becomeadult=Zdaj potrebujem delo.
+boy_byzantine.becomeadult=Mojih dni mladeniča je konec.
+
+boy_byzantine.goplay=Hočem se s kom pretepati!
+boy_byzantine.goplay=Hočem se igrati "Boj proti barbaru"!
+boy_byzantine.goplay=Vsem bom pokazal, da sem velik in močan!
+boy_byzantine.goplay=Čas je, da se igram "vojaka".
+
+boy_byzantine.gopray=Hočem se učiti o Bogu!
+boy_byzantine.gopray=Ali mi lahko Bog kaj pove o odraslih?
+boy_byzantine.gopray=Kako se moli?
+boy_byzantine.gopray=Nočem moliti! Raje bi se igral!
+
+boy_byzantine.childobservesmithing=Ko bom velik, hočem biti tudi kovač. Ali pa vojak. Ali pa general!
+
+centurio_byzantine.godrink=Vsaka mogočna oseba mora piti, sicer umre od stresa!
+centurio_byzantine.godrink=Kot vojak potrebujem vino, kot centurion pa še toliko bolj.
+centurio_byzantine.godrink=Moram se sprostiti, sicer bom neuporaben, ko pridejo barbari.
+
+centurio_byzantine.gopray=Zakaj me je Bog naredil za stratega?
+centurio_byzantine.gopray=Molitev je pomemben del rimske vojne.
+centurio_byzantine.gopray=On razume težave, ki jih imajo stratege.
+centurio_byzantine.gopray=Moja vojska potrebuje odgovore od Boga!
+
+centurio_byzantine.gorest=Dovolj ukvarjanja z vojaki! Potrebujem spanec.
+centurio_byzantine.gorest=Čas je, da snamem oklep in grem spat.
+centurio_byzantine.gorest=*zeha* Ne morem voditi vojakov, ko sem utrujen.
+centurio_byzantine.gorest=Vsi potrebujejo spanec, še posebej, ko vodiš vas.
+
+centurio_byzantine.gosocialise=Čas je, da dvignem moralo vojakov!
+centurio_byzantine.gosocialise=Dober način za pridobivanje zvestobe je posvetovati se s svojimi ljudmi.
+centurio_byzantine.gosocialise=Potrebujem več rekrutov za vojsko!
+centurio_byzantine.gosocialise=Moji podrejeni morajo poznati moje obrambne načrte.
+centurio_byzantine.gosocialise=Moji podrejeni morajo poznati moje napadalne načrte.
+centurio_byzantine.gosocialise=Ljudje morajo razumeti grožnjo barbarskega napada!
+centurio_byzantine.gosocialise=Vse moram spomniti, da moramo biti vsak trenutek pripravljeni na boj!
+
+centurio_byzantine.huntmonster=Tudi kot centurion ne smem zarjaveti v vojaški veščini.
+centurio_byzantine.huntmonster=Kje so moji podrejeni? Oni bi morali to delati.
+centurio_byzantine.huntmonster=Sem strategos rimskega cesarstva in ti misliš, da se lahko bojuješ z menoj? Ha!
+
+centurio_byzantine.inspectconstruction=Lepota je gledati, kako tvoja vas postaja močnejša.
+
+farmiller_wife_byzantine.delivergoodshousehold=Take stvari so edino, kar tu lahko počnem.
+farmiller_wife_byzantine.gethousethresources=Mož je končno prinesel material, kot sem mu rekla.
+farmiller_wife_byzantine.getgoodshousehold=Čas je, da poskrbim za družino.
+farmiller_wife_byzantine.greeting=Tukaj bi lahko počela toliko več, če bi bila moški, ko bi le ...
+farmiller_wife_byzantine.greeting=Naša naloga je, da nadzorujemo svoje može.
+
+girl_byzantine.childobserveproducefood=Dobro je, da moški ne kuhajo, vse bi prismodili.
+
+keeperbirch_byzantine.greeting=Tako dolgočasno je tukaj, nič se nikoli ne zgodi ...
+keeperbirch_byzantine.greeting=Moje delo je opazovati ta območja.
+keeperbirch_byzantine.greeting=Pozdravljen, popotnik, sprašujem se, kako si pristal v tem oddaljenem kraju.
+keeperbirch_byzantine.greeting=Kdo si je sploh izmislil, da je tukaj treba postaviti stražo...
+
+keeperoak_byzantine.greeting=Ti ljudje, ki si pravijo Normani, me spominjajo na naše veličastno cesarstvo.
+keeperoak_byzantine.greeting=Tako dolgočasno je tukaj, nič se nikoli ne zgodi ...
+keeperoak_byzantine.greeting=Moje delo je opazovati ta območja.
+keeperoak_byzantine.greeting=Pozdravljen, popotnik, sprašujem se, kako si pristal v tem oddaljenem kraju.
+keeperoak_byzantine.greeting=Kdo si je sploh izmislil, da je tukaj treba postaviti stražo...
+
+keeperpine_byzantine.greeting=Ta mraz je grozen. Nič čudnega, da tu ni nikogar.
+keeperpine_byzantine.greeting=Tako dolgočasno je tukaj, nič se nikoli ne zgodi ...
+keeperpine_byzantine.greeting=Moje delo je opazovati ta območja.
+keeperpine_byzantine.greeting=Pozdravljen, popotnik, sprašujem se, kako si pristal v tem oddaljenem kraju.
+keeperpine_byzantine.greeting=Kdo si je sploh izmislil, da je tukaj treba postaviti stražo...
+
+keepertropical_byzantine.greeting=Tako dolgočasno je tukaj, nič se nikoli ne zgodi ...
+keepertropical_byzantine.greeting=Moje delo je opazovati ta območja.
+keepertropical_byzantine.greeting=Tukaj je tako vroče. Ne razumem, zakaj ti Indijci živijo v teh deželah.
+keepertropical_byzantine.greeting=Si že kdaj videl tiste čudne Maje? Njihove zgradbe izgledajo, kot da bi se vsak hip zrušile.
+keepertropical_byzantine.greeting=Pozdravljen, popotnik, sprašujem se, kako si pristal v tem oddaljenem kraju.
+keepertropical_byzantine.greeting=Kdo si je sploh izmislil, da je tukaj treba postaviti stražo...
+
+lumberman_byzantine.bringbackresourceshome=Upam, da bo to dovolj, da bo vas uspevala!
+lumberman_byzantine.bringbackresourceshome=Zelo uspešen drvar sem, moja zaloga je polna hlodov!
+lumberman_byzantine.bringbackresourceshome=Nosim veliko dreves, a nekako sploh niso težka.
+lumberman_byzantine.bringbackresourceshome=To je bilo delo dobro opravljeno.
+lumberman_byzantine.bringbackresourceshome=Žena bo gotovo ponosna na ves les, ki sem ga prinesel.
+
+lumberman_byzantine.choptrees=Vsaka zgradba tukaj potrebuje les, in dobiti ga je moje delo!
+lumberman_byzantine.choptrees=Še eno drevo manj, več lesa za vas!
+lumberman_byzantine.choptrees=Še eno drevo dol, več lesa za vas!
+lumberman_byzantine.choptrees=$name, si že kdaj posekal drevo?
+lumberman_byzantine.choptrees=Pridi na rezalno drevo!
+lumberman_byzantine.choptrees=Umri, drevo, umri! HAHAHA! Umri! Umri! Umri! Ha- O, živjo, $name! Nič ... nenavadnega ... se ne dogaja tukaj.
+lumberman_byzantine.choptrees=Nočem te ubiti, ampak moram ... Zbogom, drevo!
+lumberman_byzantine.choptrees=Si se kdaj vprašal, zakaj posekana drevesa tukaj plavajo, $name? Zelo nenavadno. Karkoli storim, vedno plavajo in moram drevo razbijati po kosih navzgor. Prava muka.
+
+lumberman_byzantine.gathergoods=Hej $name! Tega ne jemlji!
+lumberman_byzantine.gathergoods=Drevesa so tokrat lepo zrasla, toliko hlodov in sadik.
+lumberman_byzantine.gathergoods=Upam, da naša vas potrebuje vse te hlode.
+lumberman_byzantine.gathergoods=To je bilo eno veliko drevo! Zdaj lahko vas uporabi njegove hlode.
+lumberman_byzantine.gathergoods=Poglej vse te nove hlode in sadike, ki sem jih dobil pri sekanju dreves!
+lumberman_byzantine.gathergoods=Lepa sadika tam.
+
+lumberman_byzantine.plantsaplings=Te sadike so tako majhne, včasih ne morem verjeti, da bodo postale tako velike.
+lumberman_byzantine.plantsaplings=Tako si srčkana, mala sadika, skoraj me pripraviš, da pozabim, da te bom posekal, ko zrasteš.
+lumberman_byzantine.plantsaplings=$name, hočeš posaditi sadiko?
+lumberman_byzantine.plantsaplings=Drevesa tukaj rastejo tako hitro, v nekaj dneh se iz drobne sadike spremenijo v polno drevo.
+lumberman_byzantine.plantsaplings=Sajenje je najlažje delo, vse, kar moram, je postaviti jih na tla.
+lumberman_byzantine.plantsaplings=Kmalu bo to veliko, mogočno drevo! In jaz ga bom posekal.
+
+merchant_art.greeting=Nobeno mesto na svetu se ne more primerjati z lepoto in močjo Konstantinopla.
+merchant_art.greeting=Mi smo zadnji pravi Rimljani!
+
+miner_byzantine.mining=Moje delo je razbijati skale in jih odnesti v talilnico, to je vse.
+miner_byzantine.mining=Roka me boli, ker vsak dan držim ta kramp.
+miner_byzantine.mining=En blok, dva bloka, trije bloki, štirje bloki, nikoli se ne neha. Vedno isto, znova in znova.
+miner_byzantine.mining=En blok, dva bloka, tri-- počakaj, je to zlato? Je? NAŠEL SEM ZLATO! ZLATO! ZLATO! Bogat sem! HAHA-- o, samo železo se je odbijalo v slabi svetlobi. Nazaj h kopanju železa in premoga ...
+miner_byzantine.mining=Osemdeset blokov, enainosemdeset blokov, dvainosemdeset blokov, triinosemdeset blokov ...
+miner_byzantine.mining=Hej! Kako ti nosiš toliko blokov in tako hitro kopaš? Meni vzame ure, kar ti narediš v enem dnevu.
+miner_byzantine.mining=*Kašelj* *Kašelj*, sovražim delo s premogom.
+miner_byzantine.mining=Pri tem delu sta potrebni moč in vzdržljivost. A tukaj tega nihče ne opazi ...
+miner_byzantine.mining=Ponosen sem, da sem rimski državljan in delam za veličastno cesarstvo, tudi pri tem težkem delu.
+
+metropolit_byzantine.makebooks=Moje knjige sodijo med najboljše rokopise, kar jih je.
+
+metropolit_byzantine.gopray=Zakaj me je Bog naredil za enega svojih najdražjih služabnikov?
+metropolit_byzantine.gopray=Kot patriarh moram voditi molitev.
+metropolit_byzantine.gopray=Razumem njegove težave.
+metropolit_byzantine.gopray=On razume težave, ki jih imajo patriarhi.
+metropolit_byzantine.gopray=Naša vas potrebuje odgovore od Boga!
+
+metropolit_byzantine.gorest=Vsi potrebujejo spanec, še posebej, ko vodiš vas.
+metropolit_byzantine.gorest=*zeha* Ne morem voditi duhovnikov, ko sem utrujen.
+
+metropolit_byzantine.inspectconstruction=Lepota je gledati, kako se vaša vas približuje Bogu.
+
+pastor_byzantine.makebooks=Moje knjige sodijo med najboljše rokopise, kar jih je.
+
+//smith_byzantine.MakeIndianTools=Roman tools are the best in world.
+
+smith_byzantine.gopray=Dober kovač mora vsake toliko časa moliti.
+smith_byzantine.gopray=Zakaj me je Bog naredil kovača?
+smith_byzantine.gopray=Molitev je pomemben del rimske obrti.
+smith_byzantine.gopray=On razume težave kovačev.
+
+smith_byzantine.gorest=Jutri bom izdelal še več lepih stvari!
+smith_byzantine.gorest=Za danes sem končal s kovanjem.
+smith_byzantine.gorest=Morda bom sanjal, da kujem najboljše orodje na svetu!
+
+smith_byzantine.gosocialise=Vprašal bom, ali kdo potrebuje, da mu kaj izdelam.
+smith_byzantine.gosocialise=Upam, da naša vas ceni moje orodje.
+
+smith_byzantine.godrink=Dovolj izdelovanja! Vino potrebujem!
+smith_byzantine.godrink=Potrebujem požirek, ki me bo navdihnil!
+smith_byzantine.godrink=Vsak dober kovač potrebuje pijačo ob koncu dneva.
+smith_byzantine.godrink=Od kovanja me žeja po vinu.
+
+smith_byzantine.makesteelaxe=Brez sekire ne moreš sekati dreves!
+smith_byzantine.makesteelaxe=Izdelujem osupljive sekire.
+smith_byzantine.makesteelaxe=Rimske sekire so med najboljšimi na svetu!
+smith_byzantine.makesteelaxe=Drvarji nas potrebujejo, da jim izdelamo sekire.
+smith_byzantine.makesteelaxe=Kako kuješ svoje sekire, $name?
+
+smith_byzantine.makesteelhoe=Brez kmetijskega orodja ne moreš obdelovati polj!
+smith_byzantine.makesteelhoe=Izdelujem osupljivo kmetijsko orodje.
+smith_byzantine.makesteelhoe=Rimsko kmetijsko orodje je med najboljšim na svetu!
+smith_byzantine.makesteelhoe=Kmetje nas potrebujejo, da jim izdelamo orodje.
+smith_byzantine.makesteelhoe=Kako kuješ svoje kmetijsko orodje, $name?
+
+smith_byzantine.makesteelpickaxe=Brez krampa ne moreš kopati!
+smith_byzantine.makesteelpickaxe=Izdelujem močne krampe.
+smith_byzantine.makesteelpickaxe=Rimski krampi so med najboljšimi na svetu!
+smith_byzantine.makesteelpickaxe=Rudarjem moramo skovati krampe.
+smith_byzantine.makesteelpickaxe=Kako kuješ svoje krampe, $name?
+
+smith_byzantine.makesteelshovel=Brez lopate ne moreš graditi ali kopati!
+smith_byzantine.makesteelshovel=Izdelujem trpežne lopate.
+smith_byzantine.makesteelshovel=Rimske lopate so med najboljšimi na svetu!
+smith_byzantine.makesteelshovel=Arhitekti nas potrebujejo, da jim izdelamo lopate.
+smith_byzantine.makesteelshovel=Kako kuješ svoje lopate, $name?
+
+villager.greeting=Pozdravljen, $name!
+villager.greeting=Lep dan, kajne?
+villager.greeting=Kmalu bo dež.
+villager.greeting=Nobeno mesto na svetu se ne more primerjati s Konstantinoplom.
+villager.greeting=Nismo Grki, Rimljani smo.
+villager.greeting=Mi smo zadnji pravi Rimljani.
+villager.greeting=Med svojim bivanjem tukaj se kopaj v slavi naše civilizacije.
+villager.greeting=Dobrodošel v vasi, $name!
+villager.greeting=Poglej! To je $name!
+villager.greeting=Mi smo zadnji pravi Rimljani. Kopaj se v luči naše civilizacije.
+
+villager.becomeadult=Končno sem postal rimski državljan!
+
+villager.huntmonster=Tega barbara moram ubiti!
+
+villager.goplay=Mislim, da grem ven se igrat.
+villager.goplay=Zdaj grem se igrat.
+villager.goplay=$name! Se hočeš igrati z menoj?
+villager.goplay=Tekel bi!
+
+villager.calltoarms=Rimsko cesarstvo je napadeno! Na orožje!
+villager.calltoarms=Barbari so tukaj! Branimo vas za vsako ceno!
+
+villager.childeatgrapes=Prisežem, da je to grozdje samo padlo!
+
+villager.childobservevines=Odrasli bi morali prenehati zapravljati okusno grozdje za to grozno vino!
+villager.childobserveconstruction=Nekoč bom obiskal Konstantinopel in videl, kako izgledajo prave rimske zgradbe!
+villager.childobserveproducealcohol=Enkrat sem poskusil vino, gnusno je.
+
+villager.gorest=Če ne bom spal, se lahko zgodijo nesreče.
+villager.gorest=Utrujen sem. Grem domov spat.
+villager.gorest=Mislim, da grem spat.
+
+villager.makebread=Kruh že lepo diši...
+
+villager.gopray=Sveti Oče me vodi.
+villager.gopray=O Gospod, ti nebesni in milostni.
+villager.gopray=Možje častijo, kleriki pojejo!
+villager.gopray=Pozdravljena, deviška nimfa!
+villager.gopray=O sveta Marija, veliki zmagoviti poveljnik!
+villager.gopray=Ti, ki me rešuješ pred zlim, zahvaljujem se ti ...
+villager.gopray=Ljudstvo bo molilo zate, do konca vekov, amen.
+
+villager.godrink=Čas je, da si privoščim svežega rimskega vina!
+villager.godrink=Potreboval bi en požirek.
+villager.godrink=Vino mi bo izpralo skrbi.
+villager.godrink=Si vedel, da je rimsko vino najboljše na svetu?
+villager.godrink=Dolgo nisem nič popil.
+
+wife_byzantine.delivergoodshousehold=Take stvari so edino, kar tu lahko počnem.
+wife_byzantine.gethousethresources=Mož je končno prinesel material, kot sem mu rekla.
+wife_byzantine.cooking=Kuhanje je res zabavno.
+wife_byzantine.getgoodshousehold=Čas je, da poskrbim za družino.
+wife_byzantine.greeting=Tukaj bi lahko počela toliko več, če bi bila moški, ko bi le ...
+wife_byzantine.greeting=Naša naloga je, da nadzorujemo svoje može.
+
+villager.givespeech=Rimsko cesarstvo je veliko, in naša vas je največja.
+villager.givespeech=Naša vas se mora zahvaliti svojemu vodstvu za vso to veličino.
+villager.givespeech=Mi Rimljani imamo najboljše voditelje in najboljše ljudi.
+
+villager.listentospeech=Prav ima!
+villager.listentospeech=Slava nam!
+villager.listentospeech=Premagamo lahko vsakogar!
+villager.listentospeech=Slava Bogu in našemu od Boga poslanemu voditelju!
+
+special_byzantine.greeting=Tvoja služba bo nagrajena, $name.
+special_byzantine.calltoarms=Ne preizkušaj svoje sreče, otrok.
+special_byzantine.gopray=Prikloni se pred menoj...
+
+oldshepherd_byzantine.greeting=Moja prepričanja so me ohranjala pri življenju ...
+oldshepherd_byzantine.greeting=Pomagaj mi izpolniti sanje, $name, in bil boš nagrajen…
+oldshepherd_byzantine.calltoarms=Za Boskokratorja!
+oldshepherd_byzantine=Sveti Boskokrator, prosim, blagoslovi mene in moje ovce.
+
+merchant_armour.greeting=Le najboljši oklepi in orožje!
+merchant_armour.keepstall=Dobrodošel, dobrodošel! Prinašam ti najboljše meče, kar jih lahko najdeš!
+
+merchant_dyes.greeting=Vsak dan pridem v barvah! Počakaj, saj nisem Indijec.
+merchant_dyes.keepstall=Pridi in poglej! Barvila iz vsega sveta!
+
+merchant_food.greeting=Bi okusen suvlaki, $name?
+merchant_food.keepstall=Vsa hrana, ki si jo kdaj želiš pojesti!
+
+merchant_materials.greeting=Pridi kupit najboljši gradbeni material! Jaz in moj hrbet ti bova hvaležna.
+merchant_materials.keepstall=Pesek, kamen in opeke! Diorit in kremen!
+
+merchant_relics.greeting=Prodajam dragocene izdelke in svete predmete, $name.
+merchant_relics.keepstall=Pridi in si oglej vrh rimske obrti.
+
+merchant_textiles.greeting=Resno, $name? Ta koža?
+merchant_textiles.keepstall=Modne preproge in oblačila, kot jih imajo v Konstantinoplu!
+
+loneabbot_byzantine.greeting=Dobrodošel, $name. Tu si lahko spočiješ od poti, varen si.
+lonemonk_byzantine.greeting=Žal ti ne morem ničesar ponuditi, $name.
+
+loneabbot_byzantine.gosocialise=Komaj čakam, da delim svoje znanje.
+
+lonemonk_byzantine.gosocialise=Komaj čakam, da delim svoje znanje.
+lonemonk_byzantine.plantseeds=Naj Bog blagoslovi to seme.
+lonemonk_byzantine.collectcrop=Ta pridelek je dar samega Boga.
+lonemonk_byzantine.makebread=S tem kruhom se bo začelo veliko žrtvovanje Sina.
+
+villager.plantseeds=Čutim, da bo letos bogata žetev.
+villager.collectcrop=Vedel sem! Bogata žetev!
+
+villager.gostudy=Prosim, ne moti me, $name.
+
+villager.gotreerelax=Ta senčni kotiček je preprosto popoln ...
+villager.gotreerelax=Pod tem drevesom bi lahko ostal ves dan…
+
+villager.relight=Božja ljubezen je moja edina želja!
+villager.golookout=Danes bo prišla ladja. Vem.
+villager.golookout=Dolgočasno delo, vsaj plačajo me.
+villager.sellercoming=Takoj prihajam!
+villager.tradecomplete=Tisočkrat hvala, naj ti gre dobro!

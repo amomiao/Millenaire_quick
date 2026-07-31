@@ -1,0 +1,332 @@
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Dankzij Ah Mun en Ghanan zijn onze oogsten goed. Geprezen zijn zij!
+v2;30;Laten we hen tijdens het gebed danken.
+v1;80;Wat kunnen we hen offeren?
+v2;120;Doe niet zo dom! Ons bloed natuurlijk!
+
+newchat;key:alchimist,weigth:4;
+v1;0;Toen ik door het bos liep, zag ik een rare alchemist.
+v2;30;Heb jij hem ook gezien? Hij is belachelijk vreemd.
+v1;60;En of. Hij had een lijst met rare ingrediënten. Weet jij wat "verweerde skeletschedels" of "zielzand" is?
+v2;90;Nee. En geruststellend klinkt het ook niet.
+v1;120;Inderdaad! We denken dat hij een Steen der Wijzen probeert te maken.
+v2;150;Beste $targetfirstname, als je in geruchten gaat geloven, ga je nog denken dat de aarde rond is.
+v1;180;Daar heb je waarschijnlijk gelijk in.
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac is boos. Het weer is slecht.
+v2;40;We bidden niet genoeg.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;We zouden een bakkerij moeten bouwen. Dat zou ons goeddoen.
+v2;30;Dat is waar. We kunnen niet alleen op zelfgebakken brood blijven leven.
+v1;60;Laten we met het dorpshoofd gaan praten.
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;Wat wil jij worden als je groot bent?
+v2;30;Geen idee, misschien strijder, of mijnwerker... of boer misschien...
+v1;60;Nou, op een dag zul je een keuze moeten maken.
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Ik ben bang om volwassen te worden.
+v2;30;Waarom dan?
+v1;60;Nou, omdat... er is te veel werk en we kunnen niet meer spelen...
+v2;90;Je zult zien, het is geweldig!
+v1;120;Nee... ik wil niet, ik wil niet, ik wil niet!
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Mijn vader is de beste, want hij is houthakker!
+v2;30;Pff! Hout is nutteloos! De mijne is beter, want hij is mijnwerker!
+v1;60;Zonder hout heeft jouw vader geen nut.
+v2;90;O ja!? Wil je een knokpartij?!
+v1;120;Hou op, steen is nutteloos, geef het maar toe.
+v2;150;Zonder steen zou jouw vader onder de sterren slapen!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Laten we onszelf tijdens het volgende gebed verminken.
+v2;40;Ik heb het al gedaan. Jij nog niet?
+v1;80;I-i-ik hou mijn bloed liever bij me
+v2;120;En nu doe je het weer! Elke keer als je vastberaden lijkt, bedenk je je weer!
+v1;160;Ik wil niet!
+v2;200;Weiger je onze goden te eren?!
+
+newchat;key:byzantins,weigth:9;
+v1;0;Ik kan die Byzantijnen echt niet uitstaan, ze denken dat dit land van hen is!
+v2;30;En heb je hun gebouwen gezien?
+v1;60;Ja, heel vreemd.
+v2;90;Bakstenen? Wat heeft dat voor zin!?
+v1;120;Ze gebruiken zelfs dat glasspul, net als de Normandiërs.
+v2;150;Klopt, maar ze lijken wel verder dan de Indiërs. Die hebben helemaal niets in hun ramen.
+
+newchat;key:cacao,weigth:6;
+v1;0;Cacao is gezond en heerlijk...
+v2;40;Gezond, zonder twijfel! Maar heerlijk, beslist niet! Wah is zoveel beter.
+v1;80;Cacao is het lievelingseten van de goden. Eet wat zij je aanbieden.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;Er staan hier maar weinig cacaobomen, deze plek is ongezond.
+v2;40;Laten we er wat planten.
+v1;80;Zeg jij! Cacaobonen zijn extreem duur!
+v2;120;Ek Chuah zal ons helpen.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Ik ga proberen wat rijst te verbouwen.
+v2;30;Rijst? Wat is dat?
+v1;60;Een plant die ik van de Indiërs heb gekocht. Ze zeggen dat het heerlijk is!
+v2;90;Mag ik een hapje proeven?
+v1;120;Helaas niet. Ik moet elke korrel planten.
+v2;150;Dat gaat nooit lukken.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;We hebben niet genoeg kippen om te offeren.
+v2;40;Volgens mij kwamen we $name net tegen. Laten we eieren van hem kopen.
+v1;90;Je hebt gelijk, laten we dat doen.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;Mama! Mag ik wat verder van het dorp gaan spelen?
+v2;30;Nee, mijn kind, ik wil niet dat je gewond raakt.
+v1;60;Gewond door wat? Het is daarbuiten niet gevaarlijk.
+v2;90;Luister, er zijn daarbuiten gevaarlijke wezens...
+v1;120;W-Wat voor wezens, mama?
+v2;150;Vreselijke dingen, zoals... creepers.
+v1;180;C-c-creepers?
+v2;210;Ja mijn kind, ze volgen je naar huis en ontploffen als je het 't minst verwacht.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Ik zag een vreemd zwart ei in de woestijn.
+v2;30;O echt? Hoe zag het eruit?
+v1;60;Het was groot, met paarse vlekken. Heel groot.
+v2;90;Heb je weer Normandische alcohol gedronken of maak je een grap?
+v1;120;Maar... het is waar! Ik zweer het!
+v2;150;Haha! Als je denkt dat je mij zo voor de gek kunt houden, heb je het mis!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Ik huur je in om me te beschermen, in ruil voor 48 munten per dag.
+v2;30;Hmmm. Hangt ervan af hoelang je me wilt inhuren, $targetfirstname.
+v1;60;Zes dagen. Mijn honden bieden me niet genoeg bescherming.
+v2;90;Goed, een zilveren denarius. Niet minder.
+v1;120;Dat is afzetterij!
+v2;150;Helemaal niet, $targetfirstname. Ik waag mijn leven in dit werk.
+
+newchat;key:endofworld,weigth:3;
+v1;0;Onze sjamanen en astrologen zien iets.
+v2;40;O echt? Wat dan?
+v1;80;Ze zien een belangrijke gebeurtenis in het jaar 2012.
+v2;120;Vind je niet dat ze wel erg ver vooruit plannen?
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Hallo meneer $targetlastname. Staat onze afspraak nog?
+v2;30;Ja, ja. Zoals afgesproken, ik heb alles.
+v1;60;Altijd even punctueel! Fijn om zaken met je te doen.
+v2;90;Ki'imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ Het genoegen is geheel aan mijn kant. Dus... 32 boomstammen tegen 8 ijzerstaven. Voilà!
+v1;120;Heel veel dank, meneer. Een prettige dag.
+v2;150;Insgelijks, meneer $targetlastname!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, mijn goede vriend $targetfirstname! Hoe gaat het met je?
+v2;30;Hallo $targetfirstname! Ik doe wat ik kan, de zaken gaan slecht.
+v1;60;Ben je gestopt met steen verkopen aan de Indiërs?
+v2;90;Ja. Nu onafhankelijke Japanse mijnwerkers hun diensten hebben aangeboden, hebben ze mij niet meer nodig.
+v1;120;Je hoeft hun alleen maar iets anders aan te bieden.
+v2;150;Heb jij ideeën?
+
+newchat;key:gravity,weigth:7;
+v1;0;De dagen zijn veel korter in deze streken.
+v2;30;Ja, en de grond lijkt soms te zweven.
+v1;60;Behalve grind... en zand.
+v2;90;Ik vraag me af waarom.
+
+newchat;key:indians,weigth:8;
+v1;0;De Indiërs lijken een stuk vreedzamer dan de Normandiërs, vind je niet?
+v2;30;Ja, misschien moeten we een verbond met hen sluiten.
+v1;60;Hmm... ja, misschien kunnen we samen een rooftocht tegen de Normandiërs houden, of zelfs tegen de Byzantijnen.
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Hé, $targetfirstname, kijk eens hier.
+v2;30;Wat een grappig zwaard! En een grappige boog! Waar heb je die vandaan?
+v1;60;Het is een yumi-boog en een tachi. Uit de Japanse smederij.
+v2;90;Het is mooi en doeltreffend. Was het duur?
+v1;120;En of! Ik heb twee zilveren denariën verspild aan de boog alleen al!
+v2;150;Wauw! Daar zul je heel wat voor gespaard moeten hebben.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;Ik wil net als mijn vader worden als ik groot ben!
+v2;30;Een lafaard?
+v1;60;Wat? Nee, hij is geen lafaard.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;De Mayaanse bouwkunst is de sterkste in al deze landen.
+v2;30;Het is met al die steen die we maken dat we die schoonheden bouwen.
+v1;60;Ik vraag me af hoeveel stenen huizen we er nog zullen maken?
+v2;90;Chéen k'iin a'al, amikoo./ Alleen de tijd zal het zeggen, vriend.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Geloof is ons enige wapen in deze vreemde streken.
+v2;40;Gezien onze situatie moeten we degenen die onze goden beledigen straffen.
+v1;80;We mogen ze beslist niet beledigen.
+
+newchat;key:miner,weigth:9;
+v1;0;We zouden meer mijnwerkers moeten werven.
+v2;30;O ja! Stenen en mineralen zijn de beste materialen die bestaan.
+v1;60;Mee eens... maar we zijn met te weinig in het dorp, ons aantal moet groeien.
+v2;90;En we kunnen kinderen niet aan het werk zetten. Daarvoor zijn ze te jong.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Echt? Is $name monotheïstisch?
+v2;35;Hij lijkt onze religie niet erg serieus te nemen...
+v1;75;Kom op, hij is niet dom genoeg om niet in onze goden te geloven.
+
+newchat;key:monster,weigth:5;
+v1;0;Er lopen tegenwoordig veel monsters rond.
+v2;30;Ik weet zeker dat de wachters ze wel aankunnen.
+v1;60;Wat me zorgen baart, is als er een horde van die explosieve groene wezens komt aanvallen.
+v2;90;Geen zorgen. We hebben lokmiddelen om tegen ze in te zetten.
+v1;120;Goed, in het ergste geval is er nog $name. Hij vecht goed en kan ons verdedigen.
+v2;150;Daar twijfel ik ook niet aan. Zo slecht is hij niet.
+
+newchat;key:normands,weigth:6;
+v1;0;Heb jij de huidskleur van de Normandiërs gezien? Ze zijn allemaal zo bleek!
+v2;30;O ja! Ik heb zo'n kleur nog nooit gezien. Het is vreemd.
+v1;60;Misschien zijn ze wel vervloekt...
+v2;90;Doe niet zo gek. Het zijn ook gewoon mensen.
+v1;120;Het is vast de drank die ze zo veranderd heeft. Ik weet zeker dat ze niet altijd zo zijn geweest.
+v2;150;Daar heb je het waarschijnlijk mis in.
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Obsidiaanse gereedschappen en wapens zijn de strakste.
+v2;30;Zo luxueus en toch kan iedereen er eentje hebben.
+v1;60;De strijdknots is geweldig om je vijand te verpletteren.
+v2;90;Echt? Ik zou er graag een in actie willen zien.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Het is een waar genoegen om in mijn prachtige paleis te wonen.
+v2;30;En het is een werkelijk prachtig paleis, mijn leider!
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Zoveel maïs om te oogsten, zo weinig tijd...
+v2;30;Ja, ik wou dat we een deel van de oogst kregen.
+
+newchat;key:player,weigth:10;
+v1;0;We krijgen hier niet veel bezoekers.
+v2;30;Ja, er is alleen $name en een paar andere verdwaalde mensen...
+v1;60;Over $name gesproken, vind je niet dat hij steeds vreemder en vermoeider lijkt?
+v2;90;Klopt. Hij zou wat moeten rusten.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name is wel een vreemde persoon.
+v2;30;Nog vreemder dan de Normandiërs.
+v1;60;Maar waar komt hij vandaan?
+v2;90;Geen idee, hij lijkt uit geen enkele cultuur te komen.
+
+newchat;key:poktapok,weigth:7;
+v1;0;Ik ben dol op Pok-ta-Pok!
+v2;40;Ik ook! Het is een van de weinige leuke dingen die we hier hebben.
+v1;80;Klopt. Het is saai... en ik ben mijn laatste bal kwijt!
+
+newchat;key:puja,weigth:6;
+v1;0;Ben je naar het gebed geweest?
+v2;35;Natuurlijk! Een echte Maya moet dat!
+v1;80;Haha! Inderdaad! Wat een domme vraag stelde ik.
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Onze piramide is de mooiste en de best gebouwde.
+v2;30;Klopt. Ik heb andere dorpen bezocht. Die van hen zijn heel mooi, maar niet zo elegant als die van ons!
+v1;60;Onze bouwkunst is uniek en oorspronkelijk.
+v2;90;Niet te veel opscheppen. Ik wil niet als die ijdele Byzantijnen worden.
+v1;120;O ja, uhhh... ik haat ze. Hoe kan iemand zo verwaand zijn!
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;We hebben regen nodig voor de maïs.
+v2;30;Ik wou zo dat het ging regenen.
+v1;60;Misschien dat de geesten ons regen schenken voor een perfecte oogst dit jaar als we gaan bidden.
+v2;90;Goed, laten we gaan zodra we het niet te druk hebben.
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;Papa en mama zijn oneerlijk! We moeten altijd onze kamer opruimen!
+v2;30;Ja! We moeten in opstand komen en betere behandeling eisen!
+v1;60;Vooruit, in de aanval! Doel: mama!
+
+newchat;key:reborn,weigth:7;
+v1;0;Wat een prachtige vlinder daar. Misschien is dit onze vriend, vier jaar geleden geofferd?
+v2;40;Volgens mij zou hij eerder een kolibrie zijn!
+v1;80;Wij zullen het toch nooit weten.
+
+newchat;key:recolt,weigth:10;
+v1;0;De oogst is dit jaar overvloedig.
+v2;30;Ja, en klagen zou dom zijn.
+v1;60;Inderdaad!
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Rijke vrouwen hebben het goed, die hoeven geen werk te doen.
+v2;30;Ja, ik wou dat ik zo behandeld werd.
+v1;60;Ik wist wel dat ik met iemand met meer geld had moeten trouwen.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Ik hoop dat ik op een dag over dit dorp zal heersen.
+v2;30;Blijf maar dromen, want ik sta eerder bovenaan dan jij.
+v1;60;Dat zullen we zien... dat zullen we zien.
+
+newchat;key:stone,weigth:10;
+v1;0;Steen is het beste materiaal dat er ooit heeft bestaan.
+v2;30;Het is nog beter wanneer het gebakken is! Lang leve de steen!
+v1;60;We moeten het delven! Aan het werk!
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Krijger worden was de beste beslissing van mijn leven.
+v2;30;Hoezo?
+v1;60;Omdat ik erop uit kan en helpen vechten tegen vijanden, veel leuker dan maïs oogsten.
+v2;90;Maar mijn leven is een stuk veiliger.
+v1;120;Klopt, maar ik wilde altijd al wat opwinding.
+
+newchat;key:village,weigth:8;
+v1;0;Ik vind ons dorp er mooi uitzien.
+v2;30;Ik ook. Het is heel kunstzinnig.
+v1;60;Dat komt allemaal door de steen en onze beheersing van de bouwkunst.
+
+newchat;key:wah,weigth:9;
+v1;0;Ik ben dol op het eten van Wah.
+v2;30;Ik ook! Het beste dat ooit bedacht is.
+
+newchat;key:wither,weigth:3;
+v1;0;In het bos zag ik een vreemd zwart wezen.
+v2;30;Echt? Beschrijf het, ik ben nieuwsgierig!
+v1;60;Nou, het was een soort zwart skelet, met twee koppen aan de uiteinden van zijn armen en één op zijn nek, en een blik zo koud als ijs...
+v2;90;Daar lopen rillingen van over mijn rug.
+v1;120;Endermannen vielen het aan.
+v2;150;Endermannen? Die bestaan niet, je hebt vast gedroomd.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Het is tijd om het huis schoon te maken.
+v2;30;Maar dat heb je gisteren al gedaan!
+v1;60;Hoe dan ook, hier mag ik toch niets anders doen.
+v2;90;Je klaagt altijd!
+v1;120;In plaats van je over mijn klagen te beklagen, probeer eens te begrijpen waarom ik klaag!
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;"Xaire? Wat is ""xaire""?"
+v1;70;Een Byzantijn begroette me zo.
+v2;110;Kom op. Je bent Maya. Laten we elkaar in onze eigen taal begroeten.
+v1;150;Een echte Maya moet op alle gebieden kennis hebben.
+v2;200;Ik geef je toe dat het goed is meerdere talen te kunnen spreken, maar zo ga je niet praten in het dorp!
+
+newchat;key:year,weigth:5;
+v1;0;Wij wisten als eersten dat een jaar precies 365,2420 dagen duurt.
+v2;40;We zijn op alle gebieden sterk: wiskunde, kunst, aardrijkskunde...
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;Wat gaan we doen als er een horde zombies binnenvalt?
+v2;30;Geen zorgen, ik ben de best opgeleide krijger in al deze landen.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;Heb je het laatste onweer gezien?
+v2;30;En of! Onze gewassen kregen lekker water, maar het was angstaanjagend.
+v1;60;Nou, ik was op de vlakte, en er stond een varken naast me.
+v2;90;En?
+v1;120;De bliksem sloeg in en... hij ging op zijn achterpoten staan...
+v2;150;Echt waar?! Hoe zag het eruit?
+v1;180;Hij had groene schimmel op zich... of zoiets. En een gouden zwaard ook.
+v2;210;Heb je hem aangevallen of ben je gevlucht?
+v1;240;Ik was ongewapend. Maar hij wilde mij niet aanvallen. Hij keek me aan, draaide zijn hoofd en liep weg zonder echt te weten wat er gebeurde.
+v2;270;Je had vuur moeten gebruiken. Wat als hij het dorp aanvalt?
+v1;300;Hij was ongevoelig voor vuur. De bliksem sloeg er nog een keer in en hij voelde niets.

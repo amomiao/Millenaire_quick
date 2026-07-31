@@ -1,0 +1,162 @@
+//*                 Le linee di dialogo iniziano con un codice simile a "v2;30;" che specifica chi sta parlando e quando il dialogo deve apparire. Per favore, copialo esattamente nelle tue traduzioni.
+//*                 La prima metà (fino alla /) è nella lingua del villager e deve essere lasciata com'è, la seconda parte deve essere tradotta.
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+//* 
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;È così caldo!
+v2;30;Il caldo mi sta facendo impazzire.
+v1;70;Ma quando pioverà?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Non sta piovendo.
+v2;30;Non preoccuparti. Pioverà.
+v1;60;Dici la stessa cosa ogni anno...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Sì! Sta piovendo!
+v2;40;Così poca pioggia non farà nulla...
+v1;80;Questa pioggia è comunque meglio di niente.
+v1;120;Ma come faranno a crescere le nostre piante?
+
+newchat;key:sandstone,weigth:10
+v1;0;Il nostro villaggio sta facendo progressi, no?
+v2;40;Ma c'è ancora molto da fare.
+v1;80;Davvero?
+v2;100;Di sicuro!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Va, prendi un piatto di offerte per la puja.
+v2;40;Lo prenderò immediatamente.
+v1;80;Dobbiamo placare gli dei.
+v1;130;Solo allora la pioggia arriverà in tempo.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Ti sei mai immaginato il sapore della carne di mucca?
+v2;60;Carne di mucca? Ma mangiarla va contro il nostro dharma!
+v1;120;E se fosse gustosa...?
+v2;180;Sei un barbaro Normanno?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Voglio del rasgulla. Sono veramente affamato!
+v2;60;No. Dovresti mangiare solo riso.
+v1;120;Ma ho già mangiato qualcosa questa mattina!
+v1;180;E ieri, e l'altro ieri...
+v2;220;E dovrai mangiarlo stanotte, domani, e per il resto della tua vita!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Taglio un sacco di legna oggi.
+v2;60;Trasformerai la nostra foresta in un deserto!
+v1;120;Non preoccuparti, qua gli alberi crescono quasi da soli.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Il mio palazzo è diventato molto piccolo.
+v2;60;Ma Maharaj, è il più grande in questa terra!
+v1;120;Ma per me è piccolo.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Un'imponente fortezza è la miglior difesa contro i nostri nemici.
+v2;60;Quali nemici, Generale?
+v1;100;I Normanni e altri barbari.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mio marito è ricco e rispettabile.
+v2;50;Oh sì! È vero.
+v1;110;Eppure non mi regala mai niente.
+v2;160;Come no? Giusto ieri ti ha comprato tre sari.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Mio marito ha comprato cinquanta tola d'oro oggi.
+v2;60;Cinquanta tola d'ora! Io ne ho solo 10...
+v1;120;Speriamo che le stelle si allineino in tuo favore.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Ho ricevuto un'ottima opportunità per lavorare su delle statue.
+v2;50;È perché fai ottime statue.
+v1;100;Ho fatto statue per un bel po' di tempo.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Ci servono più picconi.
+v2;50;Sono occupato adesso.
+v1;100;Ci servono anche delle pale.
+v2;150;Uff! Ho così tanto lavoro da fare!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, penso ci siano dei banditi in agguato vicino al nostro villaggio!
+v2;50;Non preoccuparti, proteggerò io il villaggio.
+v1;100;Sei così forte!
+v1;130;Ed anche bello.
+v1;150;Se non fosse per i tuoi baffi...
+v2;200;Non dire una parola sui miei baffi!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Mio signore, il raccolto non è buono quest anno.
+v2;40;È perché sei pigro! Lavora di più!
+v1;80;Ma non ha mai piovuto...
+v2;120;Non è colpa mia. Voglio i soldi dell'affitto.
+v1;170;Ma non ho soldi.
+v2;210;Allora ridammi la terra.
+v1;260;Ma non mi rimarrà niente!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Quel mercante sta costruendo un'altra casa accanto alla sua.
+v2;60;Un'altra casa? Ma perché gli serve?
+v1;90;È per suo figlio.
+v1;140;Quando suo figlio si sposerà, lui e suo padre vivranno vicino.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Il capovillaggio ha preso dei bracciali d'oro per sua moglie.
+v1;60;Tu non hai mai preso dei gioielli per me...
+v2;110;Avresti dovuto sposare un uomo ricco.
+v1;160;Ma avrei dovuto pagare più dote.
+v2;200;Allora dovresti sentirti benedetta ad avere un marito come me.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Non bevo alcol da molto tempo.
+v2;50;C'è un uomo che siede sotto l'albero di banyan fuori dal villaggio e vende alcol e noccioline.
+v1;110;Davvero? Pensavo fosse proibito vendere alcol nel villaggio!
+v2;160;Non dirlo a nessuno.
+v1;200;Ok, andiamoci questa sera.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Mi hai preso dei giocattoli?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Ho molti amici.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Mia madre non mi fa giocare di notte.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Ciao!
+v2;50;L'hai visto?
+v1;100;Visto cosa?
+v2;150;Ho visto... uno zombi!
+v1;200;Davvero?
+v2;250;Sì! Era così spaventoso! Mi ha anche detto che ti avrebbe mangiato!
+v1;300;Ahhhhh! Mammina! Uno zombi vuole mangiarmi!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Ciao!
+v2;50;L'hai visto?
+v1;100;Visto cosa?
+v2;150;Ho visto... un creeper!
+v1;200;Davvero?
+v2;250;Sì! Era così spaventoso! Ha fatto esplodere un albero laggiù!
+v1;300;Aspetta, il mio albero preferito era laggiù... WAAAAAAAA

@@ -1,0 +1,65 @@
+female.becomeadult=Algún día quiero ser madre.
+
+male.becomeadult=Quiero ser un guerrero.
+
+villager.becomeadult=Ya es momento de crecer.
+
+villager.bringbackresourceshome=Trabajar, trabajar, trabajar...
+
+villager.choptrees=Voy a talar algunos árboles.
+
+villager.constructionstepbystep=Mi padre me enseñó a construir.
+villager.constructionstepbystep=Espero que a el Kami le guste mi edificio.
+
+villager.delivergoodshousehold=Conseguí comida del mercado.
+
+villager.gathergoods=Necesito algunos suministros.
+
+villager.getgoodshousehold=Estas son cosas que necesito en casa.
+
+villager.gethouseresources=Tengo que ir a coger algo de casa.
+
+villager.getresourcesforbuild=Necesito más materiales.
+
+villager.goplay=Quiero jugar.
+
+villager.childobserveagriculture=Mi mamá dice que cultivar arroz es importante, pero a mi me parece tan aburrido...
+villager.childobserveconstruction=Quizás cuando sea mayor construya pagodas. ¡Hechas de oro!
+villager.childobservesmithing=¡Nuestras armas y armaduras son las más chulas!
+villager.childobserveproducefood=¿Por qué todo aquí tiene que hacerse con arroz? ¡Estoy harto del arroz!
+villager.childobserveproducealcohol=Estaba enfermo la última vez que probé sake.
+
+villager.childeatapple=¡Este mundo es mágico! ¡Las manzanas crecen en cada árbol!
+
+villager.maketools=Por muchos años he creado las mejores herramientas.
+
+villager.makeweapons=Los secretos de las mejores armas me fueron transmitidos por mi maestro.
+
+villager.plantsaplings=Plantaré estos brotes.
+
+villager.slaughterchicken=Servirás para hacer una buena comida a alguien.
+
+villager.calltoarms=¡Lamentarán el día que decidieron atacarnos!
+villager.calltoarms=¡Coged vuestras armas!
+villager.calltoarms=¡Defended la aldea!
+
+villager.gopray.chosen=Calma tu mente.
+villager.gopray=Kami nos protege del mal.
+villager.gopray=Rezaré a la diosa Uga-no-Mitama para tener abundantes cosechas.
+
+villager.gorest=Ah, mi hora de dormir.
+villager.gorest=Necesito descansar.
+villager.gorest=Estoy demasiado cansado
+
+villager.greeting=¿Cómo te va?
+villager.greeting=Encantado de conocerte.
+villager.greeting=¿Qué hay de nuevo?
+villager.greeting=¡Buen día, $name-san!
+villager.greeting=¿Cómo estás, $name-san?
+villager.greeting=Hey.
+villager.greeting=Bienvenido.
+villager.construction=Mi padre me enseñó el arte de construir.
+villager.construction=Ojalá los kami acojan con favor mi obra.
+villager.sellercoming=¡Voy enseguida!
+villager.tradecomplete=Mil gracias, vuelve a vernos, te lo ruego.
+

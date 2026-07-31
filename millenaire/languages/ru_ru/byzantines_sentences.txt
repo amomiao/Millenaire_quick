@@ -1,0 +1,529 @@
+architect_byzantine.construction=$name! А ты знал, что ромеи — лучшие зодчие?
+architect_byzantine.construction=$name! Смотри, как я возвожу прекрасное строение.
+architect_byzantine.construction=Это здание будет великолепным!
+architect_byzantine.construction=Ещё не закончено, но я уже вижу красоту в своей работе.
+architect_byzantine.construction=Я возвожу столь изысканные строения. Строительство — поистине прекраснейший вид искусства.
+architect_byzantine.construction=Рим не сразу строился, а блок за блоком.
+architect_byzantine.construction=Наша архитектура превосходит все прочие здания на свете.
+architect_byzantine.construction=Строить по-ромейски — лучший способ строить.
+architect_byzantine.construction=Нравится тебе мой стиль?
+architect_byzantine.construction=Я строю дольше, чем помню себя. Строительство стало моей жизнью.
+
+architect_byzantine.getresourcesforbuild=Откуда деревня берёт все эти блоки?
+architect_byzantine.getresourcesforbuild=Мне нужны блоки, чтобы возводить лучшие строения!
+architect_byzantine.getresourcesforbuild=Любая стройка начинается с блоков.
+architect_byzantine.getresourcesforbuild=Блоки я должен выбирать сам, со всем тщанием.
+architect_byzantine.getresourcesforbuild=Как ты носишь столько блоков, когда строишь, $name?
+architect_byzantine.getresourcesforbuild=Хуже всего в строительстве — добывать материалы.
+
+architect_byzantine.godrink=Хватит строить! Мне нужно вина!
+architect_byzantine.godrink=Мне нужно выпить, чтобы вдохновиться!
+architect_byzantine.godrink=Каждому хорошему зодчему нужен глоток в конце дня.
+architect_byzantine.godrink=От стройки меня тянет на вино.
+
+architect_byzantine.gopray=Надеюсь, Бог даст мне вдохновение для следующего здания!
+architect_byzantine.gopray=За что Бог сделал меня зодчим?
+architect_byzantine.gopray=Молитва — важная часть ромейского строительства.
+architect_byzantine.gopray=Он понимает беды зодчих.
+
+architect_byzantine.gorest=Если не посплю, могу что-нибудь напортачить в постройке.
+architect_byzantine.gorest=Я не могу строить, когда устал.
+architect_byzantine.gorest=Тяжело строить в темноте.
+architect_byzantine.gorest=На сегодня со стройкой покончено.
+architect_byzantine.gorest=Может быть, мне приснится, как я возвожу лучшие здания на свете!
+
+architect_byzantine.gosocialise=Никто в этой деревне не понимает тягот строительства.
+architect_byzantine.gosocialise=Каждому зодчему нужно вдохновение от других.
+architect_byzantine.gosocialise=Зодчим нужны отклики, чтобы расцветать.
+architect_byzantine.gosocialise=Что деревня думает о моих постройках?
+
+//armysmith_byzantine.MakeIndianTools=Roman tools are the best in world.
+armysmith_byzantine.makebyzantinemace=Не нападай на тех, кто пользуется моим оружием.
+armysmith_byzantine.makebyzantinemace=Эта булава отбросит варваров далеко!
+armysmith_byzantine.makebyzantinemace=Сковать булаву труднее, чем ею орудовать.
+armysmith_byzantine.makebyzantinemace=Войску нужны булавы.
+
+armysmith_byzantine.gopray=Хороший кузнец должен молиться время от времени.
+armysmith_byzantine.gopray=За что Бог сделал меня кузнецом?
+armysmith_byzantine.gopray=Молитва — важная часть ромейского ремесла.
+armysmith_byzantine.gopray=Он понимает беды кузнецов.
+
+armysmith_byzantine.gorest=Завтра я сделаю ещё больше прекрасных вещей!
+armysmith_byzantine.gorest=На сегодня с ремеслом покончено.
+armysmith_byzantine.gorest=Может быть, мне приснится, как я кую лучшее оружие на свете!
+armysmith_byzantine.gorest=Может быть, мне приснится, как я кую лучшие доспехи на свете!
+armysmith_byzantine.gorest=Может быть, мне приснится, как я кую лучшие инструменты на свете!
+
+armysmith_byzantine.gosocialise=Спрошу, не нужно ли кому, чтобы я что-нибудь сковал.
+armysmith_byzantine.gosocialise=Надеюсь, деревня ценит мои инструменты.
+
+armysmith_byzantine.godrink=Хватит с меня ремесла! Мне нужно вина!
+armysmith_byzantine.godrink=Мне нужно выпить, чтобы вдохновиться!
+armysmith_byzantine.godrink=Каждому хорошему кузнецу нужен глоток в конце дня.
+armysmith_byzantine.godrink=От кузнечного дела меня тянет на вино.
+
+armysmith_byzantine.makearrow=$name, ты много стрел расходуешь в своих странствиях?
+armysmith_byzantine.makearrow=Каждому луку нужна тонкая стрела.
+armysmith_byzantine.makearrow=Каждая выкованная мною стрела ранит врага империи.
+armysmith_byzantine.makearrow=Ромейскому войску нужны стрелы, чтобы оберегать нас от чужаков.
+
+armysmith_byzantine.makebow=Ромейскому войску нужны луки.
+armysmith_byzantine.makebow=Эй! Нравятся тебе мои луки, $name?
+armysmith_byzantine.makebow=Любой хороший лук — из лучшего дерева.
+armysmith_byzantine.makebow=Этот лук одолеет немало варваров. Я воистину мастер лучного дела.
+
+armysmith_byzantine.makebyzantineboots=Ромейскому войску нужны сапоги!
+armysmith_byzantine.makebyzantineboots=Ромеи куют лучшие сапоги в мире.
+armysmith_byzantine.makebyzantineboots=Кто-то должен ковать сапоги солдатам…
+armysmith_byzantine.makebyzantineboots=Мы куём лучшие сапоги.
+armysmith_byzantine.makebyzantineboots=Эй! Нравятся тебе мои сапоги, $name?
+armysmith_byzantine.makebyzantineboots=Я чувствую себя излишне прославленным сапожником.
+armysmith_byzantine.makebyzantineboots=Любая ковка доспеха важна! Даже сапог, что на ногах!
+
+armysmith_byzantine.makebyzantinechest=Ромейскому войску нужны кирасы!
+armysmith_byzantine.makebyzantinechest=Ромеи куют лучшие кирасы в мире.
+armysmith_byzantine.makebyzantinechest=Эй! Нравится тебе моя броня, $name?
+armysmith_byzantine.makebyzantinechest=Мы куём лучшую броню.
+armysmith_byzantine.makebyzantinechest=Эта кираса выдержит больше ударов, чем ты сам.
+armysmith_byzantine.makebyzantinechest=Чувствую себя излишне прославленным портным.
+
+armysmith_byzantine.makebyzantinehelmet=Ромейскому войску нужны шлемы!
+armysmith_byzantine.makebyzantinehelmet=Кто-то должен ковать шлемы солдатам…
+armysmith_byzantine.makebyzantinehelmet=Ромеи куют лучшие сапоги в мире.
+armysmith_byzantine.makebyzantinehelmet=Эй! Нравятся тебе мои шлемы, $name?
+armysmith_byzantine.makebyzantinehelmet=Мы куём лучшие шлемы.
+armysmith_byzantine.makebyzantinehelmet=Чувствую себя излишне прославленным шапочником.
+
+armysmith_byzantine.makebyzantinelegs=Ромейскому войску нужны поножи!
+armysmith_byzantine.makebyzantinelegs=Кто-то должен ковать поножи солдатам…
+armysmith_byzantine.makebyzantinelegs=Ромеи куют лучшие поножи в мире.
+armysmith_byzantine.makebyzantinelegs=Эй! Нравятся тебе мои поножи, $name?
+armysmith_byzantine.makebyzantinelegs=Мы куём лучшие поножи.
+armysmith_byzantine.makebyzantinelegs=Чувствую себя излишне прославленным штанным мастером.
+
+armysmith_byzantine.makesteelaxe=Без топора деревьев не нарубишь!
+armysmith_byzantine.makesteelaxe=Я кую чудесные топоры.
+armysmith_byzantine.makesteelaxe=Ромейские топоры — одни из лучших в мире!
+armysmith_byzantine.makesteelaxe=Лесорубам без нас не обойтись — кому-то надо ковать им топоры.
+armysmith_byzantine.makesteelaxe=Как ты куёшь свои топоры, $name?
+
+armysmith_byzantine.makesteelhoe=Без земледельческих орудий не возделаешь землю!
+armysmith_byzantine.makesteelhoe=Я кую отменные земледельческие орудия.
+armysmith_byzantine.makesteelhoe=Ромейские земледельческие орудия — одни из лучших в мире!
+armysmith_byzantine.makesteelhoe=Земледельцам без нас не обойтись — кому-то надо ковать им инструменты.
+armysmith_byzantine.makesteelhoe=Как ты куёшь свои земледельческие орудия, $name?
+
+armysmith_byzantine.makesteelpickaxe=Без кирки никуда!
+armysmith_byzantine.makesteelpickaxe=Я кую крепкие кирки.
+armysmith_byzantine.makesteelpickaxe=Ромейские кирки — одни из лучших в мире!
+armysmith_byzantine.makesteelpickaxe=Рудокопам без нас не обойтись — кому-то надо ковать им кирки.
+armysmith_byzantine.makesteelpickaxe=Как ты куёшь свои кирки, $name?
+
+armysmith_byzantine.makesteelshovel=Без лопаты ни построить, ни выкопать!
+armysmith_byzantine.makesteelshovel=Я кую прочные лопаты.
+armysmith_byzantine.makesteelshovel=Ромейские лопаты — одни из лучших в мире!
+armysmith_byzantine.makesteelshovel=Зодчим без нас не обойтись — кому-то надо ковать им лопаты.
+armysmith_byzantine.makesteelshovel=Как ты куёшь свои лопаты, $name?
+
+//artisan_byzantine.makePainting=Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=Хороший ремесленник должен молиться время от времени.
+artisan_byzantine.gopray=За что Бог сделал меня ремесленником?
+artisan_byzantine.gopray=Молитва — важная часть ромейского ремесла.
+artisan_byzantine.gopray=Он понимает беды ремесленника.
+
+artisan_byzantine.gorest=Завтра я сделаю ещё больше прекрасных вещей!
+artisan_byzantine.gorest=На сегодня с ремеслом покончено.
+artisan_byzantine.gorest=Может быть, мне приснится, как я делаю лучший кирпич на свете!
+artisan_byzantine.gorest=Может быть, мне приснится, как я делаю лучшую черепицу на свете!
+
+artisan_byzantine.gosocialise=Спрошу, не нужно ли кому, чтобы я что-нибудь сделал.
+artisan_byzantine.gosocialise=Надеюсь, деревня ценит мою черепицу.
+artisan_byzantine.gosocialise=Надеюсь, деревня ценит мой кирпич.
+
+artisan_byzantine.godrink=Хватит с меня ремесла! Мне нужно вина!
+artisan_byzantine.godrink=Мне нужно выпить, чтобы вдохновиться!
+artisan_byzantine.godrink=Каждому хорошему ремесленнику нужен глоток в конце дня.
+artisan_byzantine.godrink=От ремесла меня тянет на вино.
+
+artisan_byzantine.greeting=Я живу лучше всех остальных в этой деревне.
+artisan_byzantine.greeting=Здравствуй, $name! Не нужны ли тебе исключительно ромейские блоки?
+
+artisan_byzantine.makebrick=Кто-то же должен делать кирпич.
+artisan_byzantine.makebrick=Деревне нужно, чтобы я делал кирпич для стен.
+artisan_byzantine.makebrick=Ромейский кирпич — одни из самых красивых блоков в мире!
+artisan_byzantine.makebrick=Мы трудимся за кулисами, а вся слава достаётся строителям.
+artisan_byzantine.makebrick=Даже лучшие зодчие не могут строить без блоков.
+artisan_byzantine.makebrick=Кому пришло в голову превращать глину в кирпич?
+
+artisan_byzantine.makebookshelves=Кто-то же должен расставлять книги по полкам.
+artisan_byzantine.makebookshelves=Деревне нужны мои книжные полки.
+artisan_byzantine.makebookshelves=Ромейские книги — одни из лучших в мире для чтения!
+artisan_byzantine.makebookshelves=Мы трудимся за кулисами, а вся слава достаётся писателям.
+artisan_byzantine.makebookshelves=Иногда я просматриваю книги, прежде чем поставить их на полку. Жаль, что я не умею читать.
+artisan_byzantine.makebookshelves=Кому пришло в голову записывать слова?
+
+artisan_byzantine.makebyzantinetiles=Кто-то же должен делать черепицу.
+artisan_byzantine.makebyzantinetiles=Деревне нужно, чтобы я делал крыши.
+artisan_byzantine.makebyzantinetiles=Ромейская черепица — одни из самых красивых блоков в мире!
+artisan_byzantine.makebyzantinetiles=Мы трудимся за кулисами, а вся слава достаётся строителям.
+artisan_byzantine.makebyzantinetiles=Даже лучшие зодчие не могут строить без блоков.
+artisan_byzantine.makebyzantinetiles=Кому пришло в голову превращать глину в крыши?
+
+artisanwife_byzantine.gopray=Молитва — важная часть ромейского ремесла.
+artisanwife_byzantine.gopray=Надеюсь, Бог поможет мне сшить лучшие наряды!
+artisanwife_byzantine.gopray=И зачем Бог создал жену зодчего?
+
+artisanwife_byzantine.gosocialise=О! Я сшила рубашку этому парню!
+artisanwife_byzantine.gosocialise=Здесь меня знают как жену зодчего.
+artisanwife_byzantine.gosocialise=Меня уже тошнит от прозвища «жена архитектора».
+
+artisanwife_byzantine.makeclothes_byz_silk=Я шью одни из лучших одежд в деревне!
+artisanwife_byzantine.makeclothes_byz_silk=Ромейский шёлк — лучшая ткань в мире!
+artisanwife_byzantine.makeclothes_byz_silk=Шёлковая одежда важнее, чем нарядный дом.
+artisanwife_byzantine.makeclothes_byz_silk=$name, а ты раньше носил шёлк?
+artisanwife_byzantine.makeclothes_byz_silk=Каждому нужна одежда, особенно если хочешь быть цивилизованным.
+artisanwife_byzantine.makeclothes_byz_silk=Истинная красота не в блоках, красота — в одежде.
+artisanwife_byzantine.makeclothes_byz_silk=Есть причина, почему ткать это я, а не мой муж.
+artisanwife_byzantine.makeclothes_byz_silk=Ткать шёлковые одежды — удел самых благородных женщин.
+artisanwife_byzantine.makeclothes_byz_silk=Я просто рада, что у меня есть настоящее дело.
+
+artisanwife_byzantine.makeclothes_byz_wool=Я шью одни из лучших шерстяных одежд в деревне!
+artisanwife_byzantine.makeclothes_byz_wool=Хорошая одежда важнее, чем нарядный дом.
+artisanwife_byzantine.makeclothes_byz_wool=$name, а ты раньше носил шерсть?
+artisanwife_byzantine.makeclothes_byz_wool=Истинная красота не в блоках, красота — в одежде.
+artisanwife_byzantine.makeclothes_byz_wool=Каждому нужна одежда, особенно если хочешь быть цивилизованным.
+artisanwife_byzantine.makeclothes_byz_wool=Есть причина, почему ткать это я, а не мой муж.
+artisanwife_byzantine.makeclothes_byz_wool=Не всякая женщина умеет ткать из шерсти.
+artisanwife_byzantine.makeclothes_byz_wool=Я просто рада, что у меня есть настоящее дело.
+
+artisanwife_byzantine.delivergoodshousehold=Только это мне здесь и можно делать.
+artisanwife_byzantine.gethousethresources=Муж наконец-то принёс свои припасы, как я ему и велела.
+artisanwife_byzantine.getgoodshousehold=Пора позаботиться о семье.
+artisanwife_byzantine.greeting=Сколько всего я могла бы сделать здесь, будь я мужчиной, если бы только…
+artisanwife_byzantine.greeting=Наша забота — держать мужей в узде.
+
+baron_byzantine.greeting=$name, в моей деревне продаются лучшие товары!
+baron_byzantine.greeting=Здравствуй, богатый путник!
+baron_byzantine.greeting=Хочешь помочь приглядеть за крестьянами, $name?
+
+baron_byzantine.godrink=Хватит править! Мне нужно выпить.
+baron_byzantine.godrink=Я заслуживаю пить лучшее вино!
+baron_byzantine.godrink=Надо бы проверить, прибыльна ли таверна.
+baron_byzantine.godrink=Всякому могущественному человеку нужно пить, иначе он умрёт от забот!
+
+baron_byzantine.gopray=За что Бог сделал меня бароном?
+baron_byzantine.gopray=Молитва — важная часть ромейского правления.
+baron_byzantine.gopray=Он понимает беды баронов.
+baron_byzantine.gopray=Моей деревне нужны ответы от Бога!
+
+baron_byzantine.gorest=Хватит править крестьянами! Мне нужно поспать.
+baron_byzantine.gorest=*Зевок* Я не могу вести крестьян, когда устал.
+baron_byzantine.gorest=Пора в шёлковое одеяло.
+baron_byzantine.gorest=Сон нужен всем, особенно когда ты ведёшь за собой деревню.
+
+baron_byzantine.gosocialise=Почему эти глупые крестьяне видят во мне лишь «барона»?
+baron_byzantine.gosocialise=Хе-хе-хе, посмотрим, заплатил ли он подати.
+baron_byzantine.gosocialise=Пора вдохновить бедноту на заработки!
+baron_byzantine.gosocialise=Неужели мне правда нужно говорить с простым людом?
+baron_byzantine.gosocialise=Как барон, я должен говорить с народом, даже если мне не хочется.
+
+baron_byzantine.inspectconstruction=Мне надо убедиться, что крестьяне ничего не напортачили.
+baron_byzantine.inspectconstruction=Это здание принесёт прибыль моей деревне.
+baron_byzantine.inspectconstruction=Красота — это видеть, как твоя деревня богатеет.
+baron_byzantine.inspectconstruction=Я знаю, что Рим не сразу строился, но почему мой зодчий так медлит?
+baron_byzantine.inspectconstruction=Моё дело — следить, чтобы здания строились как надо.
+baron_byzantine.inspectconstruction=Мои зодчие обычно справляются хорошо, но за ними всегда надо приглядывать.
+
+boy_byzantine.becomeadult=Пора становиться сильным мужчиной!
+boy_byzantine.becomeadult=Я уже достаточно взрослый, чтобы работать!
+boy_byzantine.becomeadult=Теперь мне нужно ремесло.
+boy_byzantine.becomeadult=Мои мальчишеские дни закончились.
+
+boy_byzantine.goplay=Хочу с кем-нибудь подраться!
+boy_byzantine.goplay=Хочу поиграть в «Бой с варваром»!
+boy_byzantine.goplay=Я покажу всем, что я большой и сильный!
+boy_byzantine.goplay=Пора поиграть в «солдат».
+
+boy_byzantine.gopray=Я хочу узнать о Боге!
+boy_byzantine.gopray=А Бог расскажет мне о взрослых?
+boy_byzantine.gopray=Как же мне молиться?
+boy_byzantine.gopray=Не хочу молиться! Хочу играть!
+
+boy_byzantine.childobservesmithing=Когда вырасту, тоже стану кузнецом. Или воином. Или стратигом!
+
+centurio_byzantine.godrink=Всякому могущественному человеку нужно пить, иначе он умрёт от тревог!
+centurio_byzantine.godrink=Как воину мне нужно вино, а как стратигу — и того больше.
+centurio_byzantine.godrink=Мне нужно отдохнуть и расслабиться, иначе от меня не будет толку, когда придут варвары.
+
+centurio_byzantine.gopray=За что Бог сделал меня стратигом?
+centurio_byzantine.gopray=Молитва — важная часть ромейского ратного дела.
+centurio_byzantine.gopray=Он понимает беды стратигов.
+centurio_byzantine.gopray=Моему войску нужны ответы от Бога!
+
+centurio_byzantine.gorest=Хватит править солдатами! Мне нужно поспать.
+centurio_byzantine.gorest=Пора снять доспехи и идти спать.
+centurio_byzantine.gorest=*Зевок* Я не могу вести солдат, когда устал.
+centurio_byzantine.gorest=Сон нужен всем, особенно когда ты ведёшь за собой деревню.
+
+centurio_byzantine.gosocialise=Пора поднять боевой дух солдат!
+centurio_byzantine.gosocialise=Лучший способ заручиться верностью — советоваться со своими людьми.
+centurio_byzantine.gosocialise=Мне нужно больше рекрутов в войско!
+centurio_byzantine.gosocialise=Мои подчинённые должны знать мои планы обороны.
+centurio_byzantine.gosocialise=Мои подчинённые должны знать мои планы наступления.
+centurio_byzantine.gosocialise=Народ должен понимать, какая угроза — нападение варваров!
+centurio_byzantine.gosocialise=Я должен напомнить всем, что мы должны быть готовы к бою в любой час!
+
+centurio_byzantine.huntmonster=Даже стратигу нельзя ржаветь как воину.
+centurio_byzantine.huntmonster=Где мои подчинённые? Это должны делать они.
+centurio_byzantine.huntmonster=Я стратиг Ромейской империи, и ты думаешь, что справишься со мной? Ха!
+
+centurio_byzantine.inspectconstruction=Красота — это видеть, как твоя деревня крепнет.
+
+farmiller_wife_byzantine.delivergoodshousehold=Только это мне здесь и можно делать.
+farmiller_wife_byzantine.gethousethresources=Муж наконец-то принёс свои припасы, как я ему и велела.
+farmiller_wife_byzantine.getgoodshousehold=Пора позаботиться о семье.
+farmiller_wife_byzantine.greeting=Сколько всего я могла бы сделать здесь, будь я мужчиной, если бы только…
+farmiller_wife_byzantine.greeting=Наша забота — держать мужей в узде.
+
+girl_byzantine.childobserveproducefood=Хорошо, что мужчины не готовят, — они бы всё сожгли.
+
+keeperbirch_byzantine.greeting=Здесь так скучно, ничего никогда не происходит…
+keeperbirch_byzantine.greeting=Моё дело — следить за этими местами.
+keeperbirch_byzantine.greeting=Приветствую, путник. Удивляюсь, как ты попал в такую глушь.
+keeperbirch_byzantine.greeting=И кому только пришло в голову поставить здесь стражу...
+
+keeperoak_byzantine.greeting=Эти люди, что зовут себя норманнами, напоминают мне о нашей славной империи.
+keeperoak_byzantine.greeting=Здесь так скучно, ничего никогда не происходит…
+keeperoak_byzantine.greeting=Моё дело — следить за этими местами.
+keeperoak_byzantine.greeting=Приветствую, путник. Удивляюсь, как ты попал в такую глушь.
+keeperoak_byzantine.greeting=И кому только пришло в голову поставить здесь стражу...
+
+keeperpine_byzantine.greeting=Этот холод ужасен. Неудивительно, что здесь никого нет.
+keeperpine_byzantine.greeting=Здесь так скучно, ничего никогда не происходит…
+keeperpine_byzantine.greeting=Моё дело — следить за этими местами.
+keeperpine_byzantine.greeting=Приветствую, путник. Удивляюсь, как ты попал в такую глушь.
+keeperpine_byzantine.greeting=И кому только пришло в голову поставить здесь стражу...
+
+keepertropical_byzantine.greeting=Здесь так скучно, ничего никогда не происходит…
+keepertropical_byzantine.greeting=Моё дело — следить за этими местами.
+keepertropical_byzantine.greeting=Здесь так жарко. Не понимаю, как эти индийцы живут на этих землях.
+keepertropical_byzantine.greeting=А ты видел этих странных майя? Их здания будто вот-вот рухнут.
+keepertropical_byzantine.greeting=Приветствую, путник. Удивляюсь, как ты попал в такую глушь.
+keepertropical_byzantine.greeting=И кому только пришло в голову поставить здесь стражу...
+
+lumberman_byzantine.bringbackresourceshome=Надеюсь, этого хватит, чтобы деревня процветала!
+lumberman_byzantine.bringbackresourceshome=Я очень удачливый лесоруб, мои сумки полны брёвен!
+lumberman_byzantine.bringbackresourceshome=Я несу столько деревьев, но они отчего-то совсем не тяжёлые.
+lumberman_byzantine.bringbackresourceshome=Хорошо сделанная работа.
+lumberman_byzantine.bringbackresourceshome=Жена, должно быть, гордится тем, сколько дерева я принёс.
+
+lumberman_byzantine.choptrees=Каждое строение здесь нуждается в древесине, и добыть её — моя работа!
+lumberman_byzantine.choptrees=Ещё одно дерево повалено, ещё больше древесины для деревни!
+lumberman_byzantine.choptrees=Ещё одним деревом меньше, ещё больше древесины для деревни!
+lumberman_byzantine.choptrees=$name, а ты когда-нибудь рубил деревья?
+lumberman_byzantine.choptrees=К топору, дерево!
+lumberman_byzantine.choptrees=Умри, дерево, умри! ХА-ХА-ХА! Умри! Умри! Умри! Ха- О, привет, $name! Ничего… странного… здесь не происходит.
+lumberman_byzantine.choptrees=Я не хочу тебя убивать, но я должен… Прощай, дерево!
+lumberman_byzantine.choptrees=Ты никогда не задумывался, $name, почему срубленные деревья здесь висят в воздухе? Очень странно. Что я только ни делал — они всё равно парят, и приходится рубить их кусок за куском снизу вверх. Сущая мука.
+
+lumberman_byzantine.gathergoods=Эй, $name! Не бери этого!
+lumberman_byzantine.gathergoods=Деревья хорошо выросли в этот раз, столько брёвен и саженцев.
+lumberman_byzantine.gathergoods=Надеюсь, деревне нужны все эти брёвна.
+lumberman_byzantine.gathergoods=Вот это было огромное дерево! Теперь деревня сможет использовать его брёвна.
+lumberman_byzantine.gathergoods=Посмотри на все эти новые брёвна и саженцы, что я добыл, рубя деревья!
+lumberman_byzantine.gathergoods=Симпатичный саженец вон там.
+
+lumberman_byzantine.plantsaplings=Эти саженцы такие маленькие, иногда трудно поверить, что они вырастут такими большими.
+lumberman_byzantine.plantsaplings=Ты такой милый, маленький саженец, я почти забываю, что срублю тебя, когда ты вырастешь.
+lumberman_byzantine.plantsaplings=$name, не хочешь посадить саженец?
+lumberman_byzantine.plantsaplings=Деревья растут здесь так быстро, за несколько дней из крошечного саженца становятся настоящим деревом.
+lumberman_byzantine.plantsaplings=Сажать — самая лёгкая работа: всё, что нужно, — это положить их на землю.
+lumberman_byzantine.plantsaplings=Скоро это будет огромное величавое дерево! А я его срублю.
+
+merchant_art.greeting=Ни один город в мире не сравнится с красотой и мощью Константинополя.
+merchant_art.greeting=Мы — последние истинные римляне!
+
+miner_byzantine.mining=Моя работа — дробить камень и нести его на плавку, вот и всё.
+miner_byzantine.mining=Рука болит от того, что я каждый день машу этой киркой.
+miner_byzantine.mining=Один блок, два блока, три блока, четыре блока — этому нет конца. Одно и то же снова и снова.
+miner_byzantine.mining=Один блок, два блока, три… погоди, это что, золото? Это? Я НАШЁЛ ЗОЛОТО! ЗОЛОТО! ЗОЛОТО! Я богат! ХА-ХА-… ой, это просто железо отблескивало в плохом свете. Назад, к железу и углю…
+miner_byzantine.mining=Восемьдесят блоков, восемьдесят один блок, восемьдесят два блока, восемьдесят три блока…
+miner_byzantine.mining=Эй! Как ты носишь столько блоков и копаешь так быстро? У меня уходят часы на то, что ты делаешь за день.
+miner_byzantine.mining=*Кхе* *Кхе*, ненавижу работать с углём.
+miner_byzantine.mining=В этой работе нужны сила и выносливость. Но здесь этого никто не замечает…
+miner_byzantine.mining=Я горжусь тем, что я гражданин Ромейской империи и тружусь во славу её, даже на такой тяжёлой работе.
+
+metropolit_byzantine.makebooks=Мои книги — одни из лучших рукописей на свете.
+
+metropolit_byzantine.gopray=За что Бог сделал меня одним из самых драгоценных своих слуг?
+metropolit_byzantine.gopray=Как патриарху, мне должно вести молитву.
+metropolit_byzantine.gopray=Я понимаю те беды, что лежат на Нём.
+metropolit_byzantine.gopray=Он понимает беды патриархов.
+metropolit_byzantine.gopray=Моей деревне нужны ответы от Бога!
+
+metropolit_byzantine.gorest=Всякому нужен сон, особенно когда ты вождь деревни.
+metropolit_byzantine.gorest=*Зевок* Я не могу руководить священниками, когда я устал.
+
+metropolit_byzantine.inspectconstruction=Красота — это видеть, как твоя деревня приближается к Богу.
+
+pastor_byzantine.makebooks=Мои книги — одни из лучших рукописей на свете.
+
+//smith_byzantine.MakeIndianTools=Roman tools are the best in world.
+
+smith_byzantine.gopray=Хороший кузнец должен молиться время от времени.
+smith_byzantine.gopray=За что Бог сделал меня кузнецом?
+smith_byzantine.gopray=Молитва — важная часть ромейского ремесла.
+smith_byzantine.gopray=Он понимает беды кузнецов.
+
+smith_byzantine.gorest=Завтра я сделаю ещё больше прекрасных вещей!
+smith_byzantine.gorest=На сегодня с ремеслом покончено.
+smith_byzantine.gorest=Может быть, мне приснится, как я кую лучшие инструменты на свете!
+
+smith_byzantine.gosocialise=Спрошу, не нужно ли кому, чтобы я что-нибудь сковал.
+smith_byzantine.gosocialise=Надеюсь, деревня ценит мои инструменты.
+
+smith_byzantine.godrink=Хватит с меня ремесла! Мне нужно вина!
+smith_byzantine.godrink=Мне нужно выпить, чтобы вдохновиться!
+smith_byzantine.godrink=Каждому хорошему кузнецу нужен глоток в конце дня.
+smith_byzantine.godrink=От ремесла меня тянет на вино.
+
+smith_byzantine.makesteelaxe=Без топора деревьев не нарубишь!
+smith_byzantine.makesteelaxe=Я кую чудесные топоры.
+smith_byzantine.makesteelaxe=Ромейские топоры — одни из лучших в мире!
+smith_byzantine.makesteelaxe=Лесорубам без нас не обойтись — кому-то надо ковать им топоры.
+smith_byzantine.makesteelaxe=Как ты куёшь свои топоры, $name?
+
+smith_byzantine.makesteelhoe=Без земледельческих орудий не возделаешь землю!
+smith_byzantine.makesteelhoe=Я кую отменные земледельческие орудия.
+smith_byzantine.makesteelhoe=Ромейские земледельческие орудия — одни из лучших в мире!
+smith_byzantine.makesteelhoe=Земледельцам без нас не обойтись — кому-то надо ковать им инструменты.
+smith_byzantine.makesteelhoe=Как ты куёшь свои земледельческие орудия, $name?
+
+smith_byzantine.makesteelpickaxe=Без кирки никуда!
+smith_byzantine.makesteelpickaxe=Я кую крепкие кирки.
+smith_byzantine.makesteelpickaxe=Ромейские кирки — одни из лучших в мире!
+smith_byzantine.makesteelpickaxe=Рудокопам без нас не обойтись — кому-то надо ковать им кирки.
+smith_byzantine.makesteelpickaxe=Как ты куёшь свои кирки, $name?
+
+smith_byzantine.makesteelshovel=Без лопаты ни построить, ни выкопать!
+smith_byzantine.makesteelshovel=Я кую прочные лопаты.
+smith_byzantine.makesteelshovel=Ромейские лопаты — одни из лучших в мире!
+smith_byzantine.makesteelshovel=Зодчим без нас не обойтись — кому-то надо ковать им лопаты.
+smith_byzantine.makesteelshovel=Как ты куёшь свои лопаты, $name?
+
+villager.greeting=Здравствуй, $name!
+villager.greeting=Прекрасный день, не правда ли?
+villager.greeting=Скоро будет дождь.
+villager.greeting=Ни один город в мире не сравнится с Константинополем.
+villager.greeting=Мы не греки, мы — ромеи.
+villager.greeting=Мы — последние истинные римляне.
+villager.greeting=Купайся в славе нашей цивилизации, пока ты здесь.
+villager.greeting=Добро пожаловать в деревню, $name!
+villager.greeting=Смотри! Это $name!
+villager.greeting=Мы — последние истинные римляне. Купайся в свете нашей цивилизации.
+
+villager.becomeadult=Наконец-то я стал гражданином Ромейской империи!
+
+villager.huntmonster=Я должен убить этого варвара!
+
+villager.goplay=Думаю, я пойду играть на улицу.
+villager.goplay=Я пойду поиграю.
+villager.goplay=$name! Хочешь поиграть со мной?
+villager.goplay=Хочу побегать!
+
+villager.calltoarms=На Ромейскую империю напали! К оружию!
+villager.calltoarms=Варвары здесь! Защищайте деревню любой ценой!
+
+villager.childeatgrapes=Клянусь, этот виноград сам упал!
+
+villager.childobservevines=Взрослым давно пора перестать переводить вкусный виноград на это противное вино!
+villager.childobserveconstruction=Однажды я поеду в Константинополь и увижу, как выглядят настоящие ромейские постройки!
+villager.childobserveproducealcohol=Я однажды попробовал вино — гадость.
+
+villager.gorest=Если не посплю, могут случиться беды.
+villager.gorest=Я устал. Иду домой спать.
+villager.gorest=Пожалуй, пойду спать.
+
+villager.makebread=Хлеб уже пахнет вкусно...
+
+villager.gopray=Меня ведёт Святой Отец.
+villager.gopray=О Господи, небесный и милосердный.
+villager.gopray=Мужи молятся, клирики поют!
+villager.gopray=Слава Деве Пречистой!
+villager.gopray=О Святая Мария, великая победоносная воительница!
+villager.gopray=Ты, спасающий меня от зла, благодарю Тебя…
+villager.gopray=Народ будет молиться за тебя во веки веков, аминь.
+
+villager.godrink=Самое время раздобыть свежего ромейского вина!
+villager.godrink=Мне нужно выпить.
+villager.godrink=Вино смоет все мои печали.
+villager.godrink=А ты знал, что ромейское вино — лучшее в мире?
+villager.godrink=Давно я не пил.
+
+wife_byzantine.delivergoodshousehold=Только это мне здесь и можно делать.
+wife_byzantine.gethousethresources=Муж наконец-то принёс свои припасы, как я ему и велела.
+wife_byzantine.cooking=Готовить — это очень увлекательно.
+wife_byzantine.getgoodshousehold=Пора позаботиться о семье.
+wife_byzantine.greeting=Сколько всего я могла бы сделать здесь, будь я мужчиной, если бы только…
+wife_byzantine.greeting=Наша забота — держать мужей в узде.
+
+villager.givespeech=Ромейская империя велика, и наша деревня — самая великая.
+villager.givespeech=Наша деревня должна благодарить своих вождей за всё это величие.
+villager.givespeech=У нас, ромеев, лучшие вожди и лучшие люди.
+
+villager.listentospeech=Он прав!
+villager.listentospeech=Слава нам!
+villager.listentospeech=Мы одолеем кого угодно!
+villager.listentospeech=Слава Богу и нашему богоданному вождю!
+
+special_byzantine.greeting=Твоё служение будет вознаграждено, $name.
+special_byzantine.calltoarms=Не испытывай судьбу, дитя.
+special_byzantine.gopray=Преклонись предо мной...
+
+oldshepherd_byzantine.greeting=Мои убеждения помогли мне идти вперёд…
+oldshepherd_byzantine.greeting=Помоги мне исполнить мою мечту, $name, и будешь вознаграждён…
+oldshepherd_byzantine.calltoarms=За Боскократора!
+oldshepherd_byzantine=Святой Боскократор, благослови меня и моих овец.
+
+merchant_armour.greeting=Только лучшие доспехи и оружие!
+merchant_armour.keepstall=Добро пожаловать, добро пожаловать! Я везу тебе лучшие мечи, какие только можно найти!
+
+merchant_dyes.greeting=Я каждый день являюсь в красках! Стой, я ведь не индиец.
+merchant_dyes.keepstall=Подходи, смотри! Краски со всего света!
+
+merchant_food.greeting=Как насчёт вкуснейшего сувлаки, $name?
+merchant_food.keepstall=Любая еда, какую только пожелаешь!
+
+merchant_materials.greeting=Подходи, покупай лучшие строительные материалы! Я и моя спина будем тебе благодарны.
+merchant_materials.keepstall=Песок, камень и кирпич! Диорит и кварц!
+
+merchant_relics.greeting=Я торгую ценными изделиями и священными товарами, $name.
+merchant_relics.keepstall=Подходи, посмотри на вершину ромейского мастерства.
+
+merchant_textiles.greeting=Серьёзно, $name? Вот эта шкура?
+merchant_textiles.keepstall=Модные ковры и одежды, точь-в-точь как в Константинополе!
+
+loneabbot_byzantine.greeting=Добро пожаловать, $name. Можешь отдохнуть от странствий, здесь ты в безопасности.
+lonemonk_byzantine.greeting=Мне нечего тебе предложить, $name.
+
+loneabbot_byzantine.gosocialise=Не могу дождаться, когда поделюсь своими познаниями.
+
+lonemonk_byzantine.gosocialise=Не могу дождаться, когда поделюсь своими познаниями.
+lonemonk_byzantine.plantseeds=Да благословит Бог эти семена.
+lonemonk_byzantine.collectcrop=Этот урожай — дар самого Бога.
+lonemonk_byzantine.makebread=Великая жертва Сына начнётся с этого хлеба.
+
+villager.plantseeds=Чувствую, что в этом году у нас будет богатый урожай.
+villager.collectcrop=Я так и знал! Обильный урожай!
+
+villager.gostudy=Прошу, не отвлекай меня, $name.
+
+villager.gotreerelax=Это тенистое место просто чудесно…
+villager.gotreerelax=Я мог бы просидеть под этим деревом весь день…
+
+villager.relight=Любовь Господа — моё единственное желание!
+villager.golookout=Сегодня придёт корабль. Я это знаю.
+villager.golookout=Скучная работа, зато за неё платят.
+villager.sellercoming=Уже иду!
+villager.tradecomplete=Премного благодарен, удачной торговли!

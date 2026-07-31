@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Moral bi popiti malo ajrana.
+v2;30;Upam, da gostilna danes ni polna.
+v1;60;Ja, upam, da ne bo kot včeraj.
+v2;90;Točno, in če popijem ajran, bo utrujenost minila.
+v1;120;Prav imaš.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Pozdravljeni. Kupiti želim preprogo.
+v2;30;Seveda. Kakšno bi želeli?
+v1;60;Ne vem. Kupiti sem želel darilo, saj ima moj prijatelj danes rojstni dan. Kaj bi priporočili?
+v2;90;Kaj pa rdeča preproga?
+v1;120;V redu, odlična zamisel.
+v2;150;Koliko bi jih radi?
+v1;180;Samo eno. Mi jo lahko lepo zapakirate?
+v2;210;Seveda, gospod. Jo boste izročili sami ali jo dostavimo mi?
+v1;240;Izročil jo bom sam. Hvala.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Lep dan.
+v1;30;Si dobro spal?
+v2;60;Ja, bilo je v redu.
+v1;90;Kaj bi rad za zajtrk?
+v2;120;Ne vem, kaj pa ti?
+v1;150;Tudi jaz ne vem.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Oče, mi poveš, katero je najboljše rudno bogastvo, ki si ga izkopal?
+v2;30;Naj pomislim ... Mislim, da je bil diamant.
+v1;60;Če ga še kdaj najdeš, mi daš enega, oče?
+v1;90;Zakaj pa ne, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Alah vidi vse, kar storimo, $targetfirstname.
+v2;30;Res je, moj hodža.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Moj oče nenehno kolje nedolžne živali!
+v2;30; Toda če to meso ne bi bilo potrebno za nas, tvoj oče tega ne bi počel.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Si že videl tako dobro pijačo, kot je ajran, brat?
+v2;30;Ne, je še nisem.
+v2;60;Kje si jo dobil? Tudi jaz bi rad.
+v1;90;V bližini je kuhinja, ki ga prodaja.
+v2;120;V redu, najlepša hvala.
+v2;150;Kaj še prodajajo tam?
+v1;180;Vse si lahko misliš, od rib do pide.
+v2;210;Moram takoj iti.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Zdravo, $targetfirstname.
+v2;30;Hej!
+v1;60;Si že videl novi hamam?
+v2;90;Ne, še ne.
+v1;120;Hitro ga morava obiskati!
+v2;150;V redu, dobre novice.
+v1;180;Ja, ja, saj veš, čistoča je del vere.
+v2;210;Prav potem, pojdiva pogledat.
+v2;240;Kaj pa čez kakšno uro?
+v1;270;Ne, pojdiva zdaj.
+v2;300;Prav, čemu pa to hitenje, prijatelj?
+v2;330;Kam moramo iti?
+v1;360;Pravzaprav lahko še malo počakava.
+v2;390;Vedno isto s tabo, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Si že videl tako lepo zgradbo, kot je ta mošeja, brat?
+v2;30;Ne, je še nisem.
+v2;60;Kdaj je bila dokončana? Zelo je lepa.
+v1;90;Že kar nekaj časa je tega.
+v2;120;O, v redu.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Ponoči vedno vidim drugačne stvari.
+v2;30;Pravijo, da je zlo dneva boljše od dobrega noči.
+v1;60;Prav imaš, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Čas za molitev.
+v2;30;Pa nikar ne pridiva prepozno.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Čas za molitev.
+v2;30;Pa nikar ne pridiva prepozno.
+v1;60;Kako lepo bi bilo, če bi imeli lepo mošejo, $targetfirstname.
+v2;90;Točno tako, brat.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;In, kako gre delo, $targetfirstname?
+v2;30;Nič se ni spremenilo, vse je enako.
+v1;60;Ti potovanja prijajo?
+v2;90;Ja, a tudi noge me bolijo.
+v1;120;Prav imaš, $targetfirstname.
+v2;150;Seveda imam prav!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Alah ima rad pridne služabnike.
+v2;30;Zato sem zelo vesel, da trdo delam!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Ribolov je stvar potrpljenja, veš, draga moja?
+v2;30;Potrpežljiv si samo pri ribolovu!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Kako je bil tvoj dan?
+v2;30;Precej naporen.
+v2;60;Utrujen sem.
+v1;90;Bi rad ajran?
+v2;120;To bi bilo lepo, ja.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Pozdravljen, $targetfirstname.
+v1;30;Kako si danes?
+v2;60;Hvala, dobro sem.
+v1;90;Kako tvoja družina, so dobro?
+v2;120;Hvala, tudi oni so dobro.
+v1;150;Postaja precej vroče, kajne?
+v2;180;Ja, res je zelo vroče.
+v1;210;Pozdravi družino.
+v2;240;Hvala, tudi ti pozdravi svojo.
+v1;270;Zbogom.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Kdaj si se vselil?
+v2;30;Šele ta vikend.
+v1;60;Sploh nisem vedel, da je bila hiša prodana.
+v2;90;To hišo mi je zelo všeč, zato sem se moral vseliti.
+v1;120;Razumem, saj je hiša res nekaj posebnega.
+v2;150;Koliko let pa ti živiš v svoji hiši?
+v1;180;Tukaj živim že dolgo.
+v2;210;Upam, da ostaneva soseda še kar nekaj časa.
+v1;240;Tudi jaz.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Zakaj te včeraj ni bilo?
+v2;30;Nisem se prav dobro počutil.
+v1;60;Kaj ti je bilo?
+v2;90;Imel sem želodčne težave.
+v1;120;Se zdaj počutiš bolje?
+v2;150;Še vedno se ne počutim najbolje.
+v1;180;Bi rad kaj, da bi se bolje počutil?
+v2;210;Ne, hvala. Že sem vzel zdravilo.
+v1;240;Upam, da ti bo bolje.
+v2;270;Hvala.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Si že slišala novico?
+v2;30;Ničesar nisem slišala.
+v1;60;Moja soseda je prejšnji teden rodila otroka.
+v2;90;Nihče mi ni povedal.
+v1;120;Mislila sem, da si slišala.
+v2;150;Res mi nihče ni nič rekel.
+v1;180;Luštkan dojenček je, mašalah.
+v2;210;Vau, kako razburljivo.
+v1;240;Vem, res bi ju morala obiskati, njo in otroka.
+v2;270;Seveda jih bom.
+v1;300;Samo hotela sem ti povedati, kaj se je zgodilo.
+v2;330;Hvaležna sem za to.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Bi šla z menoj na njivo?
+v1;30;	Kdaj bi rada šla?
+v1;60;Kaj praviš na naslednji petek?
+v1;90;Žal mi je, ne morem. Sem na večerji s prijateljem.
+v1;120;Pa naslednji torek?
+v1;150;Ob torkih hodim v mošejski tečaj.
+v1;180;O, mogoče kdaj drugič?
+v1;210;Ja, ti bom povedala.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Kdo pa je to?
+v2;30;Imena ne poznam, a tem deželam je tujec.
+v1;60;Vsakdo, ki v sebi nima zla, je tem deželam dobrodošel.
+v2;90;Prav imaš.

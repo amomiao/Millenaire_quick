@@ -1,0 +1,526 @@
+//*   A párbeszéd-sorok egy "v2;30;" stílusú kóddal kezdődnek, amely megadja, ki beszél és mikor olvasható a párbeszéd. Kérjük, pontosan másold át ezt a kódot a fordításodba.
+//*   A sor első fele (a / előtti rész) a falulakók eredeti nyelvén van, ezért úgy kell hagyni, a második felét kell lefordítani.
+//*
+//*
+
+
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Szeretem a napsütéses napokat!
+v2;30;Ki ne szeretné őket?
+
+newchat;key:nicevillage,weigth:10
+v1;0;Mindig öröm látni a szép kis falunkat, nemde?
+v2;30;Persze, keményen megdolgoztunk érte!
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Szeretem a napsütéses napokat!
+v2;30;Ki ne szeretné őket?
+v1;60;Én.
+v2;120;Ugyan miért?
+v1;150;A nap égeti a bőrömet, utálok kint lenni!
+v2;180;Úgy viselkedsz, mint egy zombi!
+v1;210;Talán az is vagyok...
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Mindig öröm látni a kis falunkat, nemde?
+v2;30;Hát hogyne! Olyan keményen dolgoztunk a felépítésén.
+v1;60;Otthonosnak hat, mint mielőtt idejöttünk.
+v2;90;Most ez az otthonunk, el kell fogadnunk.
+v1;120;Tudom, eljön majd az ideje, hogy elfogadom...
+
+newchat;key:ishome,weigth:6
+v1;0;Mindig öröm látni a kis falunkat?
+v2;30;Hát hogyne! Olyan keményen dolgoztunk a felépítésén.
+v1;60;Otthonosnak hat, mint mielőtt idejöttünk.
+v2;90;Most ez az otthonunk, el kell fogadnunk.
+v1;120;Ez az otthonunk, ez a beszélgetés segített elfogadni.
+
+newchat;key:harvest,weigth:10
+v1;0;A búza valóban jól nő ebben az évben, ahogy a szőlő is. Pompás, nem?
+v2;30;Igen, úgy tűnik: Hihetetlen időjárásunk van itt, ezt meg kell köszönni.
+v1;60;Mintha érdekelne!
+
+newchat;key:lightning,weigth:7
+v1;0;Emlékszel a legutóbbi viharra?
+v2;30;Hát hogyne! Majdnem az egész termésünk tönkrement. A természet tud erőszakos lenni, mi?
+v1;60;Az erőszakos egy dolog. Engem majdnem agyoncsapott a villám!
+v2;100;Nem voltál fedett helyen? Tudod, mennyire veszélyes vihar idején kint lenni?
+v1;120;A hibáiból tanul az ember.
+
+newchat;key:lightningpig,weigth:1,v1:adult,v2:adult
+v1;0;Nem érzem jól magam...
+v2;30;Mi a baj? Beteg vagy?
+v1;60;Nem, c-c-csak egy rossz emlékre em-mlékeztem.
+v2;100;Tényleg rosszul nézel ki. Biztos, hogy nem vagy beteg?
+v1;120;Biztos, c-csak f-félek.
+v2;150;Mi az, mi van?
+v1;180;A legutóbbi viharban kint sétáltam a fa-falu mellett, és tudtam, hogy nem tudok visszamenni, mielőtt vége nem lesz a viharnak. Egy fa alá bújtam.
+v2;210;A falun kívül kockára tetted az életedet! Meghalhattál volna!
+v1;240;Mindegy is, életben voltam. De a villám belecsapott egy disznóba. És az a d-disznó... Láttam, hogy felállt a hátsó lábaira, és úgy lépkedett, mint mi, és egy fé-fényes karddal megtámadott!
+v2;290;Amit mondasz, nincs értelme. Biztos rémálom volt.
+v1;320;Igaz volt! Igaz! Igaz! Igaz!
+v2;350;Megőrültél. Igyál egy kis bort, és nyugtasd meg az idegeidet.
+v1;380;Meg-meg fogom tenni. T-talán meg-megnyugtat.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ah... A szuvlaki, az egyetlen igazán jó étel!
+v2;30;Bárcsak ti, férfiak, ugyanolyan főzési tehetséggel rendelkeznétek, mint mi, nők...
+v1;60;Magunk szeretnénk elkészíteni!
+v2;100;Tényleg? És mégis hogy főzöd?
+v1;130;Ahem... Beleteszed a halat, nem, a bárányszeleteket a kemencébe, majd, izé...
+v2;190;... Aztán teszel rá egy kis feta sajtot egy nyársra. Tényleg nem tudsz főzni!
+
+newchat;key:lonevillage,weigth:10
+v1;0;Unatkozom, itt mindig ugyanaz van.
+v2;30;Legalább nyugodt.
+v1;60;Egy ilyen eldugott falu számára semmi különös!
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Amikor kicsi voltam, felfedező akartam lenni. Új vidékeket felfedezni és új lenyűgöző embereket megismerni. De most? Itt rekedtem ebben a kis faluban, távol mindentől. El akarok menni és felfedezni új területeket!
+v2;30;De nem fogsz nagyobb különbségeket találni más falvakban. Szinte mind ugyanolyanok vagyunk.
+v1;60;Nem falvakról beszélek. Városokról beszélek, vagy akár A Városról!
+v2;90;A Városról? Konstantinápolyról beszélsz?
+v1;120;Igen! Dicső birodalmunk központjáról. Ez a világ legnagyobb csodája!
+v1;150;Több mint 500 000 ember él ott, képzeld?!
+v2;180;Számomra lehetetlennek tűnik. 500 000 ember egy helyen? Csak álmodozhatok!
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Ne igyál bort egyedül!
+v2;30;Jobb együtt inni!
+v1;50;Kösz a bort!
+v2;70;Egészségedre!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Az én apukám erősebb a tiédnél.
+v2;30;Hamis! Az én apám a legerősebb a faluban!
+v1;60;Á nem! Az én apám a legerősebb a birodalomban!
+v2;90;Lehetetlen, az én apukám a legerősebb a világon!
+v1;120;Biztos vagyok benne, hogy az én apám fél kézzel le tudja győzni a tiédet!
+v2;150;Menj és készítsd fel az apádat a harcra!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;A lányok hülyék.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Nem láttad a babámat? Nem találom...
+v2;30;Add ide a kardomat, és visszakapod.
+v1;60;Te elraboltad! Tolvaj!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Láttad az új ruhámat?
+v2;30;Gyönyörű vagy, kedvesem. Minden áll neked!
+v1;60;De nem vagyok olyan szép, mint te!
+v2;90;Ó, ez nem igaz, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Láttad az új ruhámat?
+v2;30;Egy szépség vagy. Minden áll neked, drága $targetfirstname!
+v1;60;De nem vagyok olyan szép, mint te!
+v2;90;Igaz.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Láttad az új ruhámat, $targetfirstname?
+v2;30;Szerintem a régi ruháid jobban álltak.
+v1;60;MICSODA?
+v2;70;Nem... Nem! Szép vagy! Imádom ezeket az új... izéket!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Nos, tetszik az új ruhám?
+v2;30;A régi szebb volt.
+v1;60;MICSODA?
+v2;70;Hé, $targetfirstname, ez csak a véleményem.
+v1;90;Legalább őszinte vagy!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Mit kell tenni, ha tetszik egy lány?
+v1;30;Bókolni neki és kedvesnek lenni vele.
+v2;60;Nem! Azt nem tudom megtenni! Mit fognak gondolni rólam a többiek?
+v1;90;Ha igazán szeretsz valakit, nem érdekel, hogy mit gondolnak a többiek.
+
+newchat;key:householdtry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Itt az ideje, hogy megtanítsalak, hogyan kell házat vezetni.
+v2;30;Klassz! Mivel kezdjük? Csinálhatok szuvlakit? Kéééérlek!
+v1;60;Először mutasd meg, hogyan takarítasz rendesen.
+v2;90;Rendben, de utána megmutatod, hogyan kell szuvlakit csinálni, megígéred?
+v1;120;Megígérem.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Vehetnél nekem egy új babát? Mindenkinek van egy új, csak nekem nem...
+v1;30;Mi a varázsszó?
+v2;60;Vehetnél nekem, KÉRLEK, egy új babát?
+v1;90;Rendben, de meg kell ígérned, hogy nem felelsz vissza többet!
+v2;120;Megígérem!
+
+newchat;key:woodsword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Jaj...
+v1;30;Szomorúnak látszol! Mi a baj?
+v2;60;Hát, mindenkinek van fakardja, csak nekem nincs.
+v2;80;Meg akartak támadni!
+v2;100;Nekem is kell egy, adj egyet!
+v1;120;Látom, festéket használtál a sebekhez és sebhelyekhez. Szép próbálkozás!
+v2;150;Mindegy, kérlek, adj egy kardot!
+v1;180;A kardok veszélyesek. Nem kapsz!
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Olyan szépek a lakásaink, mindig öröm látni a munkánkat!
+v2;30;A maják is nagyon szép épületeket emelnek.
+v1;60;Ne mondj ellent nekem a furcsaságaiddal. A mi épületeink a legszebbek!
+v2;90;Ahem...
+v1;100;Áruló! Nincs becsületed a hazád iránt?
+
+newchat;key:pride2,weigth:10
+v1;0;Nekünk, rómaiaknak büszkének kell lennünk arra, amit építettünk.
+v2;30;Persze! Minden, amit látsz, a mi munkánk!
+v1;60;A világtörténelem legerősebb birodalma!
+v2;90;A többi nemzetnek térdre kell borulnia dicsőségünk előtt!
+v1;120;Muszáj nekik! Mi vagyunk az urak!
+
+newchat;key:pride3,weigth:10
+v1;0;A Római Birodalom újra uralni fogja a világot!
+v2;30;Sikerülni fog!
+v1;60;Aztán minden jobb lesz!
+v2;90;Igen!
+v1;100;Dicsőség a birodalomnak!
+v2;110;Egészségedre!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Esni fog. Hamarosan.
+v2;30;Én is érzem.
+v1;60;Furcsa. Mindig ugyanannyi nap telik el két zápor között.
+v2;100;Te is észrevetted?
+v2;125;Furcsa itt az élet, nemde?
+v1;155;Biztos!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Nézd ezt a disznót, nem helyes?
+v2;30;AAAaaa! Tűnj innen!
+v1;60;Félsz a disznóktól?
+v2;80;N-nem! Persze, hogy nem!
+v1;110;Hahahahaha! Milyen vicces!
+
+newchat;key:weird2,weigth:1
+v2;0;Ahh... Jó szuvlaki. Akarsz egy falatot?
+v1;30;*Ropog*
+v1;40;Köszi! Imádom a szuvlakit.
+v2;70;Ki nem szereti!
+v1;100;Próbáltál már egy kis földet tenni a szuvlakira?
+v2;140;...
+v2;150;Nem?
+v1;170;Néha megteszem... Á... Akkor kezdődött, amikor tavaly a szuvlakim a fűbe esett... Finom!
+v2;220;Mi? Földbe ejted a szuvlakidat és úgy eszed? De, de..?
+v1;260; De tényleg ízes!
+v2;280;Be vagy zsongva.
+
+newchat;key:weird3,weigth:1
+v1;0;Egy disznón szeretnék lovagolni!
+v2;30;Miért?
+v1;60;Mert klassz!
+v2;80;Mi a fenéért akarnál egy disznón lovagolni?
+v1;110;Hát mert klassz!
+v2;120;Tisztára őrült vagy.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Hallottad már a favágó titkát?
+v2;30;Nem, mi van vele?
+v1;60;Úgy tűnik, almát szed, és eladja azoknak a normannoknak!
+v2;90;Lehetetlen! És megtartja a pénzt?
+v1;120;Természetesen!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;A férjem azt mondja, egy báró fogja hamarosan meglátogatni a falunkat!
+v2;30;Miért jönne ide?
+v2;40;Erőskezű, befolyásos és félelmetes ember...
+v1;70;Mit? Tetszenek neked az ilyen férfiak?
+v2;100;Valld be, hogy vonzók!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Van egy rossz hírű asszony a szomszéd faluban!
+v1;20;Úgy tűnik, néhányan a falunkbeli férfiak közül felkeresték!
+v2;60;Borzasztó! Beszélnem kell a férjemmel!
+v1;90;Az enyém ártatlannak tűnik. De a tiédben nem vagyok biztos, kedvesem!
+v2;120;Remélem, ő is az. Jól tenné.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Imádok gyerekeket játszani nézni!
+v1;20;Mindig kedvet kapok ahhoz, hogy gyerekem legyen!
+v2;50;Biztos, hogy meg tudod engedni magadnak?
+v2;70;A gyerekek tönkretesznek minket!
+v1;100;Ne aggódj emiatt! A férjemnek bőven van pénze.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Kedvesem, a férjed egy iszákos!
+v2;15;Hogy mered ezt mondani?
+v1;45;Az embered tegnap éjjel részegen jött el hozzánk!
+v1;70;Azt mondta nekünk, hogy feleségül akar venni egy birkát.
+v1;100;És hogy ez biztos hatalmas esküvő lesz!
+v1;130;Kérlek, fogd vissza a férjedet.
+v1;150;Tényleg kínos.
+v2;180;Rendben, rendben, megbüntetem!
+v2;210;Bormegvonás!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;A kenyered olyan finom! Mi a titkod?
+v2;30;Csak egy kis cukor a tésztához hozzáadva.
+v1;60;Tényleg? Semmi más?
+v2;90;Semmi más! Meglátod a különbséget.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Ki volt az a férfi, akit tegnap éjjel láttál?
+v2;30;Milyen férfi?
+v1;40;A férfi, aki kisurrant az ablakodon!
+v1;45;Ne hidd, hogy nem láttam!
+v2;60;Hogy merészeled..? Mindig hűséges leszek a férjemhez.
+v1;80;Igen, igen. Én is ezt mondanám, ha a helyedben lennék.
+v2;110;Ez nem igaz! Ne terjessz pletykákat rólam.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Ezek az új konyhai eszközök zseniálisak!
+v2;30;Igen, sokkal könnyebb velük főzni! Csodás!
+v1;60;Ezerszer köszönet a kovácsoknak és a kézműveseknek, akik ilyen találmányokra gondoltak!
+v2;90;Igen! Ezért vagyok büszke arra, hogy római vagyok.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Irigylem ezeket a gazdag embereket.
+v1;20;Olyan szép selyemruháik vannak!
+v2;50;Tényleg nem igazságos. Nem csinálnak semmit, mégis a legjobbakat kapják.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Hallottál arról a báróról a szomszéd faluban?
+v2;30;Igen, akinek a feleségét meggyilkolva találták?
+v1;60;Pontosan! A férjem épp most mondta nekem, hogy a báró saját kezűleg ölte meg!
+v2;100;Mi..?
+v2;130;Mindig is tudtam, hogy meg fogja tenni!
+v2;150;De senki sem hitt nekem.
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Eltöprengtél már azon, milyen lenne, ha háborúban állnánk?
+v1;30;Vannak most már férfiak, akik készek harcolni a hazánkért!
+v1;55;Csodálom őket!
+v2;80;A háború szörnyű lenne.
+v2;110;Úgy beszélsz, mint egy katona.
+v2;140;De van férjed!
+v1;170;De lusta és alkoholista!
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Nincs elég borunk ebben az átkozott faluban!
+v2;30;Egyetértek! Több szőlőültetvényt kell telepítenünk!
+v1;60;És tavernákat!
+v2;90;Miért nem nyitunk saját tavernát?
+v1;120;Jó ötlet! Meg kell terveznünk.
+v2;150;De hogyan kezdjük?
+v1;180;És a feleségeinknek sem lesz túl ínyére hallani ezt!
+v2;210;Á dehogyis, római bort árulni mindig jó kifogás!
+v1;240;Nagyon jó! Pénzt kell spórolnunk.
+v1;270;Amikor lesz elég, elérhetjük a célunkat!
+v2;300;Miénk lesz a legnagyobb taverna az egész birodalomban!
+v1;325;Egész biztos!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Jó ételek, jó fegyverek, szép művészet - ettől vagyunk nemzet!
+v2;30;És kiváló bor!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Elegem van a feleségemből. Cserélnem kell!
+v2;30;Ki nem fáradt a sajátjából?
+v1;60;Talán el kéne hagynunk a falut új feleségeket keresve!
+v2;90;Ó igen! A majáknak és az indiaiaknak nagyon szép asszonyaik vannak, tudod?
+v2;140;Ez a falu elveszett nélkülünk.
+v2;160;és ne felejtsük el a kölykeinket!
+v1;180;Argh! A gyermekeink! Apa nélkül nem élnének túl!
+v1;220;De... azt jelenti, hogy itt kell maradnunk az unalmas életünkkel?
+v2;255;Azt hiszem, ez a legjobb út.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;elég lenyűgöző látni, ahogy ezeket az ikonokat nézed.
+v2;30;Persze, ez nagy római művészet!
+v1;60;Mint minden, amit csinálunk. Nézd a pompás házainkat!
+v2;90;És ne felejtsd el a dicső történelmünket!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Emlékszel arra a lányra, akiért verekedtünk fiatalon?
+v2;30;Igen... Rossz időszak volt. Örülök, hogy vége.
+v1;60;Örülök, hogy ezt mondod, mert épp most mondta, hogy még mindig szeret!
+v2;90;Mit? Hazug!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé szépségem, tetszem neked?
+v2;20;*csatt*
+v2;25;Nős vagy.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé, igazán remekül nézel ki ma, $targetfirstname!
+v2;30;Köszönöm!
+v1;60;Szívesen, kedvesem!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé, $targetfirstname, kíván-e egy ilyen szépség, mint te, egy ilyen segítőkész férfit, mint én?
+v2;40;Nős vagy, és férjnél is vagyok.
+v2;60;Szerintem nem vagy túl hűséges! Beszélni fogok a feleségeddel!
+v1;75;NEM - nem fogod -
+v1;85;Nem én vagyok az, akire gondolsz, én vagyok a gonosz ikertestvére!
+v2;120;Persze, hogy az vagy, ugyanaz a gonosz ikertestvér, aki mindig részeg!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Hogy megy a háztartásbeli szereped?
+v2;30;Jól, jól, csak kicsit szomorú vagyok.
+v1;60;Ó, ne mondd, mi történt?
+v2;90;A férjem rám kiabált.
+v1;120;Hogyan tehette ezt egy ilyen szépség előtt?
+v2;150;Köszönöm, hogy felvidítasz, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*urgh*
+v1;30;Jól vagy, $targetfirstname?
+v2;50;Igen, fáradt vagyok a munkától.
+v1;70;Segíthetek? Talán jobban érzed magad?
+v2;90;Persze! Köszönöm szépen!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Hogy megy?
+v2;30;Minden rendben, és neked?
+v1;60;Szintén, köszönöm, hogy kérdezed!
+v1;75;De látom, hogy valami bánt!
+v2;90;Sem-mi.
+v1;110;Mondd csak!
+v2;130;Csak az, hogy az életem olyan unalmas itt.
+v2;160;Tényleg azt akartam, hogy a városba menjek, amikor fiatal voltam.
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;$targetfirstname, bátyám! Jó téged látni!
+v1;30;épp most találtam meg a régi fakardomat!
+v1;50;Emlékszel?
+v2;80;Várj, ez nem az a kard, amit apa adott nekünk?
+v1;110;Pontosan! Emlékszel a csatáinkra vele?
+v2;140;Hogy felejthetném el? Pár sebhely megmaradt belőlük.
+v2;170;Bár erről jut eszembe...
+v2;200;Kegyetlen volt az apánktól, hogy egyetlen kardot adott kettőnknek!
+v2;240;Tudta, hogy érte fogunk harcolni!
+v1;270;És igaza volt!
+v2;300;Mert te megtartottad!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Emlékszel arra a szekeresre, akit annyira szerettünk gyerekkorunkban?
+v2;30;Persze, nővérem. Mi voltunk a legnagyobb csodálói!
+v1;60;Vajon mi lett vele?
+v1;90;Soha többé nem hallottam róla...
+v2;120;Le kellett volna telepednie egy hozzánk hasonló faluban, asszonyt és gyerekeket szereznie.
+v1;150;Mindegy is, szeretném időnként újra látni!
+v2;180;Én is!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, lányom, mindig is azon tűnődöm, miért akarsz hozzámenni ehhez az ostobához.
+v2;30;Mert szeretem!
+v1;60;És most a neved $targetlastname! $targetlastname! Csúnya név!
+v2;90;Hé! Ne légy ilyen rossz! Te kezdted a vitát.
+v2;110;Ittál!
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Hallottál a szeldzsukokról, mióta ideérkeztünk?
+v2;30;Nem, gondolod, hogy ők is velünk jöttek?
+v1;60;Kétlem.
+v2;90;Sejtem, hogy itt is ellenségeket kell majd szereznünk.
+v1;120;Még a normannokkal is foglalkoznunk kell.
+v2;150;Hát, rómaiak vagyunk! Könnyen ki tudjuk irtani ezeket a banditákat, RÓMÁBA!
+v1;165;Rómába!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Hallottál a közeli normann faluról?
+v2;30;Ez nem jó, emlékszem, hogy Dél-Itáliát támadták meg, mielőtt mi idejöttünk.
+v1;60;Reméljük, hogy nem támadnak meg minket.
+v2;90;Reméljük.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Vajon mi történt Konstantinápollyal?
+v2;30;Azt hiszem, ő is velünk jött erre a földre.
+v1;60;Miért gondolod ezt?
+v2;90;Annak a városnak a közelében éltem, és idejöttem.
+v1;120;Igaz, de annyi ember él ott, hallanunk kellett volna róla.
+v2;150;Lehet, hogy nagyon messze van.
+v1;180;Igen, de Konstantinápoly dicsősége olyan nagy, hogy még a kínaiak is hallhattak róla.
+v2;210;Ne mondd, hogy hiszel azokban a Kínáról szóló pletykákban?
+v1;240;Azt hiszem, némelyik igaz.
+v2;270;De Kína olyan rejtélyes, semmiben sem lehet biztos az ember.
+v1;300;Annyi rejtély van, hogy ha Konstantinápoly itt is van, nem tudhatjuk.
+v2;330;Valóban, de még ha Konstantinápoly nincs is itt, ki kell terjesztenünk és meg kell védenünk a Római Birodalmat.
+v1;360;Ebben egyetértek veled!
+v2;390;Legyen Róma örök!
+
+newchat;key:inuit,v1:adult,v2:adult,weigth:10
+v1;0;Korábban egy bizánci kereskedővel beszéltem, és mesélt nekem messze fenn, a hóban lévő falvakról.
+v2;30;Falvak a hóban?!?
+v1;60;Igen, "inuitoknak" hívják őket.
+v2;90;Inuit? Milyen furcsa név... Hogy néznek ki?
+v1;120;A kereskedő azt mondta, hogy nem hisznek a pénzben.
+v2;150;Nem hisznek a pénzben?! Hogyan élnek akkor?
+v1;180;Egyszerűen igazságosan megosztják a dolgokat. Ez elég nehézzé teszi a kereskedést velük...
+v2;210;Szegény kereskedő... De jól van, visszatért a Római Birodalomba, távol ezektől a barbároktól!
+v1;240;Egyetértek veled! A Római Birodalom a legjobb hely a kereskedéshez!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Remélem, nem kell újra barbárok ellen harcolnunk.
+v2;30;Mi? Katonák vagyunk, ez a hivatásunk, hogy menjünk és barbárokat öljünk! Miért lépnél be a seregbe, ha nem szeretsz harcolni?
+v1;60;Azt hittem, könnyű lesz katonának lenni - megölni pár mobot és időnként egy-egy barbárt. De most, amikor megölök egyet, az arcába nézek és azt gondolom: "talán nem kellene megölnünk őket."
+v2;120;Túl sokat gondolkodsz! Menj, és ölj barbárokat Rómáért. Különben ők ölnek meg minket és pusztítják el az otthonainkat! Csak vadak.
+v1;150;Találkoztál már ezekkel az emberekkel, akiket le akarsz mészárolni? Nem! Lehet, hogy másmilyenek, mint amilyennek mondják nekünk.
+v2;180;Igaz, lehet, hogy sokkal rosszabbak.
+v1;210;Azt hiszem, nem érted a problémáimat.
+v2;240;Katona vagyok, nem filozófus. Imádkoznod kéne, egyértelműen isteni segítségre van szükséged.
+v1;270;Már próbáltam és semmit sem kaptam. A következtetéseim nem változtak.
+v2;300;Mi? Akkor egyértelműen eretnek vagy! Menj vissza imádkozni, amíg újra meg nem tudsz menni barbárokat ölni!
+v1;330;Talán Isten nem akarja, hogy ezt csináljam!
+v2;360;Inkább azt hiszem, hogy Isten azt akarja, hogy nyugdíjba menj...
+
+newchat;key:kidsbos,v1:child,v2:child,weigth:5
+v1;0;Bahhh… Bahhh…
+v2;30;Hagyd abba! Megidézed, ha ezt csinálod!
+v1;60;Ó, Boskokrator, szent helyet építek neked…
+v2;90;Hallgass! Nem tudod, mi történik a legendában?
+v1;120;$targetfirstname, sírsz, mint egy kisbaba! Ez semmi! Csak egy legenda!
+
+
+//newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+//v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Bumm! Most kipróbálhatnám az új buzogányt!
+//v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Igen! Félelmetes fegyver! Még az ellenségeket is messzire üti!
+//v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Lenyűgöző, nemde? Ezt a római remekművet semmihez sem lehet hasonlítani ebben a világban.
+//v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / Ezért lehetünk büszkék arra, hogy rómaiak vagyunk!
+
+//newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+//v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, fiam, ma nem láttalak imádkozni!
+//v2;30;Patéras $targetlastname, ego sígoura ékane. / $targetlastname atya, biztosan imádkoztam.
+
+//newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+//v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, lányom, ma nem láttalak imádkozni!
+//v2;30;Patéras $targetlastname, ego sígoura ékane. / $targetlastname atya, biztosan imádkoztam.
+
+//newchat;key:religious3,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+//v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / $targetfirstname, lányom, békében vagy önmagaddal?
+//v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / $targetlastname atya, nem vagyok békében, mióta ide érkeztünk, érzem, hogy valami más van.
+//v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó. / Gyermekem, sokan közülünk úgy érezzük, hogy itt valami más van.
+//v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / De mit tehetek? Az életem itt örökké más lesz.
+//v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Csak imádkozhatunk, mert Istennek terve van velünk.
+
+//newchat;key:religious4,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+//v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / $targetfirstname, fiam, nyugodt vagy?
+//v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / $targetlastname atya, nem vagyok nyugodt, mióta ideérkeztünk, érzem, hogy valami más van.
+//v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó. / Gyermekem, sokan közülünk úgy érezzük, hogy itt valami más van.
+//v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / De mit tehetek? Az életem itt örökké más lesz.
+//v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Csak imádkozhatunk, mert Istennek terve van velünk.
+
+//newchat;key:ticlon,v1:notvtype:pastor_byzantine-patriarch_byzantine,v2:vtype:pastor_byzantine-patriarch_byzantine,weigth:1
+//v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ $targetlastname atya, amikor imádkoztam, furcsa jeleket láttam.
+//v2;30;Paidí, ti sou édeixe o Theós? / Gyermekem, mit mutatott neked Isten?
+//v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / Atyám, a szimbólumok "Tiklón" voltak. Tudja, mit jelentenek?
+//v2;90;O Theós doulévei me mystiriódi trópo / Az Úr útjai kifürkészhetetlenek.
+
+//newchat;key:nobakery,building:farm,notbuilding:bakerybyzantine,v1:adult,v2:adult,weigth:15
+//v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / Á, ki ne akarna friss, finom kenyeret a búzafarmról?
+//v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / Tudod, hogy pékségre van szükségünk a búzából kenyeret csinálni, ugye?
+//v1;60;Prépei na me gelás. Tóra tha petháno. / Csak csúfolódhatsz velem. Most éhen halok.
+//v2;90;Limoktonó? Símera to proí fágate to proinó mou! Tha eímai o peinasménos. / Éhen halsz? Ma reggel megetted a reggelimet! Én leszek az, aki éhen hal.
+//v1;120;To chreiázomai perissótero apó eséna! / Több kell nekem, mint neked!
+//v2;150;Den xéro giatí sas miláo! / Nem tudom, miért beszélek veled!
+//v1;180;Chreiazómaste éna artopoieío, aftó eínai simantikó. / Pékségre van szükségünk, ez a fontos.
+
+

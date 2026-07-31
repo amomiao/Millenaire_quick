@@ -1,0 +1,108 @@
+//* Italian translation of inuits dialogues — auto-generated, see docs/translation-policy.md §5 it_it.
+
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Allora, bellezza, cosa fai stasera?
+v2;40;$targetfirstname, te l'ho già detto, sono promessa a un altro!
+
+newchat;key:beautiful,weigth:10
+v1;0;Dove siamo? Non è un posto che ho mai visto prima. Sembra uguale ma si sente diverso.
+v2;30;Gli sciamani dicono che siamo nella terra benedetta degli spiriti benevoli, ecco perché è così meraviglioso qui!
+
+newchat;key:carribou,weigth:10
+v1;0;Dove sono tutti i caribù? Mi manca la carne di caribù.
+v2;30;Abbiamo fatto molte cacce, ma nessuna ha trovato caribù.
+v2;60;Abbiamo però trovato un sacco di quelli che sembrano bisonti!
+v1;60;Bleah, odio il bisonte, il caribù è meglio.
+v2;90;Allora prendi il pesce, ne abbiamo in abbondanza.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Non c'è molto da fare qui in giro.
+v2;30;Va bene, è pacifico.
+v1;60;E noioso...
+v2;75;Potresti scavare un buco, o costruire un iglu di neve!
+v1;110;Il mio iglu di neve!?
+
+newchat;key:endermen,weigth:10
+v1;0;Hai sentito cosa dice l'anziano su quelle persone alte, magre e spaventose?
+v2;30;Cosa, che sono il Popolo dell'Ombra? Non lo so...
+v1;60;Ha senso però! Se siamo davvero in una terra benedetta sarebbero contorti come quello!
+v2;90;Ma se siamo in una terra benedetta perché il Popolo dell'Ombra è qui?
+v2;120;Oh... ehm, non lo so...
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Adoro il profumo della carne che cuoce dal preparatore di cibo.
+v2;30;Non so, di solito preferisco la mia carne cruda, ne cambia il gusto.
+v1;60;Ehi, a me piace quel gusto cambiato!
+
+newchat;key:hunting,weigth:10
+v1;0;Ho migliorato di nuovo le mie capacità.
+v2;30;Stai diventando rapidamente un grande cacciatore!
+v1;90;Lo pensi davvero?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Quei giapponesi sanno proprio come preparare il pesce!
+v2;30;"Preparare" il pesce? Vuoi solo dire che lo cuociono, vero?
+v1;60;No, intendo che servono il loro cibo con tutta una serie di metodi e sapori elaborati.
+v2;90;Il cibo può avere un gusto diverso senza essere semplicemente andato a male?
+v1;120;Sì, dovresti venire con me la prossima volta che vado a trovarli!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mio padre è molto più forte del tuo.
+v2;30;Mio padre è il più forte del villaggio, scemo!
+v1;60;Continua a sognare. Mio padre batte il tuo in due minuti netti.
+
+newchat;key:kys,weigth:10
+v1;0;Quando l'anziana andrà via a morire?
+v2;30;Non credo che dobbiamo farlo qui, questo nuovo mondo è molto più accomodante!
+v1;60;Suppongo... ma è strano vederla ancora viva.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Mi piace la neve.
+v2;42;Una buona cosa per un Inuit!
+
+newchat;key:meat,weigth:10
+v1;0;Penso che le nostre scorte di carne stiano per finire, odio quando ci esauriamo.
+v1;30;La carne non è proprio come gli stufati...
+v2;60;Ma la maggior parte degli stufati contiene carne, no?
+v1;90;Sì, ma non è proprio la stessa cosa...
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Bleah, guarda quanto piccoli e malaticci sono i bisonti qui.
+v2;42;Il mercante straniero li chiama "mucche...?"
+
+newchat;key:murderer,weigth:10
+v1;0;Hai sentito cosa gli è successo dopo l'incidente?
+v2;30;Incidente o no, uccidere persone è sbagliato.
+v1;60;Sì, ma dovevamo cacciarlo dal villaggio? Sento dire che è impazzito da solo.
+v2;90;Dovevamo! Almeno qui non fa freddo e non morirà congelato là fuori.
+v1;120;È meglio? Ora è costretto a vivere solo da sé!
+
+newchat;key:normans,weigth:5
+v1;0;Ho incontrato gente strana, si fanno chiamare Normanni?
+v2;30;Sì, i Normanni sono in gamba ma hanno proprio bisogno di molte cose.
+v1;60;Cosa vuoi dire?
+v2;90;Uno è passato l'altro giorno e ho svuotato la mia casa dandogli roba, e a quanto pare aveva bisogno di altro.
+v1;120;Pover'uomo.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Sta nevicando?
+v2;30;Sembra neve, ma non sembra essere fredda.
+
+newchat;key:seasons,weigth:10
+v1;0;Pensi che la caccia sarà buona quest'anno?
+v2;30;Chissà, con il tempo che abbiamo avuto.
+v1;60;Le stagioni non hanno senso qui.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Invidio gli sciamani, vorrei poter parlare con gli spiriti come fanno loro.
+v2;30;Potresti vedere se lo sciamano vuole insegnarti?
+v1;60;Forse... ma alcuni spiriti sono spaventosi.
+v2;70;Giusto, ci saranno sempre spiriti spaventosi a cui stare attenti.
+
+newchat;key:sunset,weigth:10
+v1;0;Sono stanco, oggi non passa abbastanza in fretta...
+
+newchat;key:visitors,weigth:10
+v1;0; Questo posto è strano, è pieno di gente strana.
+v2;30;Vuoi dire come $name?
+v1;60;Beh, $name è solo una persona, intendo tutti gli altri.

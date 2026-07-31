@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Jeg burde drikke noget ayran.
+v2;30;Jeg håber ikke, kroen er fuld i dag.
+v1;60;Ja, det håber jeg ikke; det må ikke blive som i går.
+v2;90;Netop, og hvis jeg drikker ayran, forsvinder min træthed.
+v1;120;Du har ret.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Goddag. Jeg vil gerne købe et tæppe.
+v2;30;Selvfølgelig. Hvordan skal det være?
+v1;60;Det ved jeg ikke. Jeg ville købe en gave, fordi det er min vens fødselsdag i dag. Hvad anbefaler du?
+v2;90;Hvad med det røde tæppe?
+v1;120;Okay, det er en god idé.
+v2;150;Hvor mange vil du have?
+v1;180;Bare ét. Kan du pakke det pænt ind?
+v2;210;Naturligvis. Vil du selv aflevere det, eller skal vi bringe det ud?
+v1;240;Jeg afleverer det selv. Tak.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Hav en god dag.
+v1;30;Sov du godt?
+v2;60;Ja, det gjorde jeg.
+v1;90;Hvad kunne du tænke dig til morgenmad?
+v2;120;Det ved jeg ikke, og du?
+v1;150;Det ved jeg heller ikke.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Far, kan du fortælle mig, hvilken malm du har gravet ud, der var den bedste?
+v2;30;Lad mig tænke ... Jeg tror, det var en diamant.
+v1;60;Hvis du finder en igen, må jeg så få en, far?
+v1;90;Hvorfor ikke, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah ser alt, hvad vi gør, $targetfirstname.
+v2;30;Ja, det er sandt, hocam.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Min far slagter hele tiden uskyldige dyr!
+v2;30; Men hvis vi ikke havde brug for kødet, ville din far ikke gøre det.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Har du nogensinde set en drik så god som ayran, bror?
+v2;30;Nej, jeg har ikke set den endnu.
+v2;60;Hvor har du fået den fra? Jeg vil også have noget.
+v1;90;Der er et køkken i nærheden, som sælger den.
+v2;120;Okay, mange tak.
+v2;150;Hvad ellers sælger de der?
+v1;180;Du kan forestille dig alt fra fisk til pide.
+v2;210;Så må jeg afsted med det samme.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Goddag, $targetfirstname.
+v2;30;Hej!
+v1;60;Har du set den nye hamam?
+v2;90;Nej, det har jeg ikke.
+v1;120;Vi må besøge den snart!
+v2;150;Okay, det er gode nyheder.
+v1;180;Ja, det er det; du ved, renlighed er en del af troen.
+v2;210;Godt, så lad os tage et kig.
+v2;240;Hvad med om en time?
+v1;270;Nej, lad os gå nu.
+v2;300;Fint, hvorfor det hastværk, min ven?
+v2;330;Hvor skal vi hen?
+v1;360;Vi kan faktisk godt vente lidt.
+v2;390;Det er altid det samme med dig, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Har du nogensinde set en bygning så smuk som denne moské, bror?
+v2;30;Nej, det har jeg ikke set endnu.
+v2;60;Hvornår blev den bygget? Den er meget flot.
+v1;90;Det er længe siden.
+v2;120;Nå, okay.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Jeg ser altid mærkelige ting om natten.
+v2;30;Man siger, at dagens onde er bedre end nattens gode.
+v1;60;Du har ret, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Tid til at bede.
+v2;30;Lad os ikke komme for sent.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Tid til at bede.
+v2;30;Lad os ikke komme for sent.
+v1;60;Hvor ville det være dejligt, hvis vi havde en smuk moské, $targetfirstname.
+v2;90;Netop, bror.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Nå, hvordan går arbejdet, $targetfirstname?
+v2;30;Intet har ændret sig, alt er det samme.
+v1;60;Nyder du så dine rejser?
+v2;90;Ja, men mine fødder gør også ondt.
+v1;120;Du har ret, $targetfirstname.
+v2;150;Selvfølgelig har jeg ret!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah elsker sine hårdtarbejdende tjenere.
+v2;30;Så jeg er meget glad for at arbejde hårdt!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Fiskeri er en tålmodighedssag, ved du, min kære?
+v2;30;Du er kun tålmodig, når det handler om fiskeri!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Hvordan var din dag i dag?
+v2;30;Det var en travl dag.
+v2;60;Så jeg er træt.
+v1;90;Kunne du tænke dig en ayran?
+v2;120;Det ville være rart, ja.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Goddag, $targetfirstname.
+v1;30;Hvordan har du det i dag?
+v2;60;Tak, jeg har det fint.
+v1;90;Hvordan har din familie det, har de det godt?
+v2;120;Tak, de har det også fint.
+v1;150;Vejret bliver ret varmt, ikke?
+v2;180;Jo, det er virkelig varmt.
+v1;210;Hils din familie.
+v2;240;Tak, hils du også din familie.
+v1;270;Farvel.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Hvornår flyttede du ind?
+v2;30;Lige forgangne weekend.
+v1;60;Jeg vidste ikke engang, at huset var blevet solgt.
+v2;90;Jeg elsker virkelig dette hus, så jeg måtte flytte ind.
+v1;120;Det forstår jeg godt, for huset er enestående.
+v2;150;Hvor mange år har du boet i dit hus?
+v1;180;Jeg har boet her i lang tid.
+v2;210;Jeg håber, vi forbliver naboer et stykke tid endnu.
+v1;240;Det håber jeg også.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Hvorfor var du her ikke i går?
+v2;30;Jeg havde det ikke rigtigt godt.
+v1;60;Hvad var der i vejen?
+v2;90;Jeg havde ondt i maven.
+v1;120;Har du det bedre nu?
+v2;150;Jeg har det ikke rigtigt godt endnu.
+v1;180;Ønsker du noget, der kan få dig til at få det bedre?
+v2;210;Nej tak. Jeg har allerede taget noget medicin.
+v1;240;Jeg håber, du får det bedre.
+v2;270;Tak.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Har du hørt nyhederne?
+v2;30;Jeg har ikke hørt noget.
+v1;60;Min nabo fik sit barn i sidste uge.
+v2;90;Ingen har sagt det til mig.
+v1;120;Jeg troede, du havde hørt det.
+v2;150;Jeg har virkelig ikke fået noget at vide.
+v1;180;Det er en sød baby, maşallah.
+v2;210;Wow, hvor spændende.
+v1;240;Ja, du burde virkelig tage hen og se hende og barnet.
+v2;270;Selvfølgelig vil jeg det.
+v1;300;Jeg ville bare lade dig vide, hvad der var sket.
+v2;330;Det sætter jeg pris på.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Kunne du tænke dig at gå med mig ud på marken?
+v1;30;	Hvornår vil du gerne afsted?
+v1;60;Hvad med næste fredag?
+v1;90;Beklager, jeg kan ikke. Jeg skal spise middag med en ven.
+v1;120;Hvad med tirsdagen efter?
+v1;150;Jeg går til undervisning i moskéen om tirsdagen.
+v1;180;Åh, måske en anden gang?
+v1;210;Ja, det skal jeg nok sige dig.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Hvem er det her?
+v2;30;Jeg kender ikke hans navn, men han er fremmed for disse lande.
+v1;60;Enhver, der ikke har ondt i sig, er velkommen i disse lande.
+v2;90;Du har ret.

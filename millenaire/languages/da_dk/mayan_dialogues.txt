@@ -1,0 +1,338 @@
+//*  Dialoglinjer starter med en kode som "v2;30;", der angiver hvem der taler og hvornår linjen vises. Kopier venligst koden præcis som den er i din oversættelse.
+//*  Første halvdel af linjen (før /) er på landsbyboernes sprog og skal bevares som den er; anden halvdel skal oversættes.
+//* Fransk af xIflot, Engelsk af Teethdude, Maya af TheyCallMePoncho
+
+
+
+newchat;key:stone,weigth:10;
+v1;0;Sten er det bedste materiale, der findes.
+v2;30;Det er endnu bedre, når den er brændt! Længe leve stenen!
+v1;60;Vi må mine! På arbejde!
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Vores pyramide er den smukkeste og bedst byggede.
+v2;30;Det er der ingen tvivl om. Jeg har set de andre landsbyer. Deres pyramider er også flotte, men de kan ikke måle sig med vores!
+v1;60;Sandt nok! Vores arkitektur er helt original og enestående.
+v2;90;Lad os nu ikke prale for meget. Jeg har ingen lyst til at ligne de forfængelige bysantinere.
+v1;120;Åh ja, dem... jeg afskyr dem. Hvordan kan man være så hovmodig!
+
+newchat;key:player,weigth:10;
+v1;0;Vi får ikke mange besøgende her omkring.
+v2;30;Nej, der er kun $name og andre vildfarne sjæle...
+v1;60;Når vi nu taler om $name, synes du ikke, at han bliver mere og mere underlig og træt?
+v2;90;Det er sandt. Han burde hvile sig lidt.
+
+newchat;key:miner,weigth:9;
+v1;0;Vi burde hverve flere minearbejdere.
+v2;30;Ja! Sten, klipper og malme er de bedste materialer, der findes.
+v1;60;Jeg er enig... men vi er ikke nok i landsbyen, den må vokse.
+v2;90;Og vi kan ikke sætte børnene i arbejde. De er for unge.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Det er tid til at tage sig af huset.
+v2;30;Men det gjorde du jo allerede i går!
+v1;60;Lige meget, jeg har ikke lov til andet her.
+v2;90;Det siger du! Du klager altid!
+v1;120;I stedet for at bebrejde mig, at jeg klager, så prøv at forstå hvorfor jeg klager!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, min gode ven $targetfirstname! Hvordan har du det?
+v2;30;Goddag $targetfirstname! Jeg klarer mig, så godt jeg kan. Forretningerne går dårligt.
+v1;60;Hvad? Er du holdt op med at handle sten med inderne?
+v2;90;Ja. Nu hvor uafhængige japanske minearbejdere har tilbudt deres tjenester, har de ikke længere brug for mig.
+v1;120;Du må jo bare tilbyde dem noget andet.
+v2;150;Har du nogen idéer?
+
+newchat;key:monster,weigth:5;
+v1;0;Der er mange uhyrer for tiden.
+v2;30;Jeg håber, at vores vagter kan klare dem.
+v1;60;Det, der bekymrer mig, er, hvis en horde af grønlige, eksplosive skabninger kommer og angriber os...
+v2;90;Tag det roligt. Vi har lokkemidler imod dem.
+v1;120;Du har ret. I værste fald er der jo $name. Han slås godt og vil forsvare os, det er jeg sikker på.
+v2;150;Det tvivler jeg heller ikke på. Han virker ikke så slem endda.
+
+newchat;key:normands,weigth:6;
+v1;0;Har du set normannernes hudfarve? De er helt blege!
+v2;30;Ja, sandelig! Jeg havde aldrig set en sådan farve før. Det er mærkeligt.
+v1;60;Man skulle tro, at de er forbandede...
+v2;90;Sig nu ikke tåbeligheder. De er mennesker som alle andre.
+v1;120;Det er uden tvivl alkoholen, der har fået dem til at skifte farve sådan. Jeg er sikker på, at de ikke altid har været hvide.
+v2;150;Hold nu op, du tager fejl.
+
+newchat;key:alchimist,weigth:4;
+v1;0;Da jeg vandrede i skoven, så jeg en sær alkymist...
+v2;30;Har du også set ham? Han er virkelig underlig.
+v1;60;Og det kan man sige. Han ramsede mærkelige ingredienser op. Ved du, hvad et "udtørret skeletkranium" er? Eller "sjælesand"?
+v2;90;Nej. Men det lyder ikke betryggende.
+v1;120;Ja! Det fortælles, at han forsøger at fremstille de vises sten.
+v2;150;Min gode $targetfirstname, hvis du tror på rygterne her, ender du med at tro, at Jorden er rund.
+v1;180;Du har sandsynligvis ret.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Jeg så et besynderligt sort æg midt i ørkenen.
+v2;30;Nå? Og hvordan så det ud?
+v1;60;Det var stort med violette pletter. Virkelig stort.
+v2;90;Har du drukket normannerøl, eller laver du sjov med mig?
+v1;120;Men... det er sandt! Jeg lyver ikke!
+v2;150;Haha! Hvis du tror, du kan narre mig sådan, tager du fejl!
+
+newchat;key:wither,weigth:3;
+v1;0;Inde i skoven så jeg en mærkelig sort skabning.
+v2;30;Virkelig? Beskriv den for mig, jeg er nysgerrig!
+v1;60;Tja, det var en slags sort skelet. Det havde to hoveder for enden af sine to arme og et hoved på halsen. Og et blik så koldt som is...
+v2;90;Det giver kuldegysninger.
+v1;120;Mænd fra Grænselandet angreb det.
+v2;150;Mænd fra Grænselandet? Hold nu op, det findes ikke! Du må have drømt.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;Vi burde bygge et bageri. Det ville sætte gang i forretningerne!
+v2;30;Det er sandt. Vi kan ikke blive ved med kun at have hjemmebagt brød.
+v1;60;Lad os tale med høvdingen.
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Min far er den bedste, for han er skovhugger!
+v2;30;Pyt! Træ er til ingen nytte! Min far er bedre end din, for han er minearbejder!
+v1;60;Uden træ ville din far være ubrugelig!
+v2;90;Nå, sådan? Vil du have prygl?
+v1;120;Hold op, sten er ikke til noget, det må man indrømme.
+v2;150;Uden sten ville din far sove under åben himmel!
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Jeg er bange for at blive voksen...
+v2;30;Hvorfor det?
+v1;60;Bah, fordi... der er for meget arbejde, og man kan ikke lege længere...
+v2;90;Jo da. Du skal nok se, det er skønt!
+v1;120;Nej... jeg vil ikke, jeg vil ikke, jeg vil ikke!
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;Mor og far er alt for uretfærdige! Vi skal altid rydde op på vores værelse!
+v2;30;Ja! Vi burde gøre oprør og kræve en bedre behandling!
+v1;60;Til angreb! Kurs mod mor!
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Hej $targetfirstname, se lige her.
+v2;30;Mærkeligt sværd! Og en mærkelig bue! Hvor har du fået det fra?
+v1;60;Det er en Yumi-bue og en Tachi. Japansk våbenudstyr.
+v2;90;Det er smukt, og det ser effektivt ud. Koster det meget?
+v1;120;Sandelig ja! Jeg måtte ofre 2 sølvmønter alene for buen!
+v2;150;Wow! Du må have sparet længe op, før du købte dem.
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Goddag, herre $targetlastname. Står vores aftale stadig ved magt?
+v2;30;Ja, ja. Jeg har det hele. Lad os gøre, som vi aftalte.
+v1;60;Altid lige punktlig! Glæden er på min side at handle med dig!
+v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ Hele fornøjelsen er på min side. Altså... 32 stammer for 8 jernbarrer. Sådan!
+v1;120;Mange tak, herre. En god dag til dig.
+v2;150;I lige måde, herre $targetlastname!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Jeg hyrer dig til at beskytte mig for 48 denarer om dagen.
+v2;30;Hmmm. Det afhænger af, hvor længe du hyrer mig, $targetfirstname.
+v1;60;Seks dage. Mine hunde er ikke nok til at sikre en fuldstændig beskyttelse.
+v2;90;Så bliver det en sølvdenar. Ikke mindre.
+v1;120;Det er tyveri!
+v2;150;Slet ikke, $targetfirstname. Jeg vover livet i dette erhverv.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Jeg vil prøve at dyrke ris.
+v2;30;Ris? Hvad er det for noget?
+v1;60;En plante, som jeg har købt af inderne. Den skal være lækker.
+v2;90;Må jeg smage?
+v1;120;Beklager, men nej. Jeg har brug for det hele, jeg skal plante hvert eneste korn.
+v2;150;Det kommer ikke til at virke.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;Kan du huske det sidste uvejr?
+v2;30;Og hvordan! Vores afgrøder fik godt af vandet, men det var skrækindjagende.
+v1;60;Tja, jeg stod på sletten ved siden af, og der var en gris ved siden af mig.
+v2;90;Og hvad så?
+v1;120;Lynet slog ned i den, og... den rejste sig op på bagbenene...
+v2;150;Virkelig?! Hvordan så den ud?
+v1;180;Den havde grøn mug på sig... eller jeg ved ikke rigtig hvad det var. Og et sværd af guld desuden.
+v2;210;Angreb du den, eller flygtede du?
+v1;240;Jeg havde intet våben. Men den så ikke ud til at ville angribe mig. Den så på mig og drejede hovedet. Derefter vandrede den omkring uden rigtig at vide, hvor den ville hen.
+v2;270;Du burde have brugt ild. Den vil måske angribe landsbyen.
+v1;300;Den var ufølsom over for ild. Lynet ramte den én gang til, og den mærkede ingenting.
+
+newchat;key:recolt,weigth:10;
+v1;0;Høsten er rigelig i år.
+v2;30;Ja, men det ville være tåbeligt at klage over det.
+v1;60;Selvfølgelig!
+
+newchat;key:village,weigth:8;
+v1;0;Jeg synes, at vores landsby er smuk.
+v2;30;Det synes jeg også. Den er meget kunstnerisk.
+v1;60;Det er takket være stenen og vores beherskelse af arkitekturen.
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Så meget majs at høste, og så lidt tid...
+v2;30;Ja, og jeg ville ønske, at en del af høsten tilfaldt os.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name er ret underlig.
+v2;30;Endnu mere underlig end normannerne.
+v1;60;Men hvor kommer han egentlig fra?
+v2;90;Jeg er ikke sikker, han ser ikke ud til at høre til nogen som helst kultur.
+
+newchat;key:byzantins,weigth:9;
+v1;0;Jeg kan virkelig ikke fordrage de bysantinere, de tror, at Jorden tilhører dem!
+v2;30;Og har du set deres byggerier?
+v1;60;Ja, jeg har set dem. De er virkelig mærkelige.
+v2;90;Mursten? Hvad er meningen!
+v1;120;De bruger endda glas, ligesom normannerne.
+v2;150;Det er sandt, men de virker mere udviklede end inderne. De har ikke noget i deres vinduer.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;Mor! Må jeg gå længere ud i landsbyen og lege?
+v2;30;Nej mit barn, jeg vil ikke have, at du kommer til skade.
+v1;60;Komme til skade af hvad? Det er ikke farligt derude.
+v2;90;Hør efter, der er farlige skabninger derude...
+v1;120;H-hvilken slags skabninger, mor?
+v2;150;Forfærdelige ting såsom... creepere.
+v1;180;C-c-creepere?
+v2;210;Ja mit barn, de følger dig hjem og eksploderer ved siden af dig, når du mindst venter det.
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;At blive kriger var den bedste beslutning i mit liv.
+v2;30;Hvorfor det?
+v1;60;Fordi jeg kan tage ud og kæmpe mod fjenderne. Det er sjovere end at høste majs.
+v2;90;Men mit liv er mere sikkert.
+v1;120;Det er sandt, men jeg har altid villet have spænding.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;Jeg vil være ligesom min far, når jeg bliver stor!
+v2;30;En tøsedreng?
+v1;60;Hvad? Han er ikke en tøsedreng.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Det er sikkert, at livet i mit palads er vidunderligt.
+v2;30;Og det er et vidunderligt palads, min høvding!
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;Hvad vil du være, når du bliver stor?
+v2;30;Jeg ved ikke, måske en kriger eller en minearbejder... eller måske en bonde...
+v1;60;Godt nok, men du må træffe et valg en dag.
+
+newchat;key:wah,weigth:9;
+v1;0;Jeg elsker at spise Wah.
+v2;30;Jeg gør også! Det er det bedste, vi har fundet på.
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;Vi har brug for regn til majsen.
+v2;30;Jeg ønsker, at det vil regne.
+v1;60;Måske, hvis vi beder, vil ånderne sende os regn, så vi får en fuldkommen høst i år!
+v2;90;Ja, lad os gøre det, så snart vi ikke har for travlt.
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;Hvad gør vi, hvis en horde af zombier invaderer os?
+v2;30;Bare rolig, jeg er den bedst trænede kriger i hele egnen.
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;De rige kvinder har alt, men de arbejder ikke.
+v2;30;Ja, jeg ville ønske, at jeg heller ikke skulle arbejde.
+v1;60;Jeg vidste, at jeg burde have giftet mig med en mand med flere penge.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Jeg håber, at jeg en dag skal herske over denne landsby.
+v2;30;Bliv ved med at drømme, for jeg vil sidde højt placeret før dig.
+v1;60;Vi får at se... vi får at se.
+
+newchat;key:indians,weigth:8;
+v1;0;Inderne virker mere fredelige end normannerne, ikke?
+v2;30;Jo, måske skulle vi alliere os med dem.
+v1;60;Hmm... ja, så kunne vi måske sammen planlægge et togt mod normannerne! Eller endda bysantinerne.
+
+newchat;key:gravity,weigth:7;
+v1;0;Dagene er kortere i disse egne.
+v2;30;Ja, og jorden ser ud til at svæve nogle gange.
+v1;60;Bortset fra grus... og sand.
+v2;90;Jeg undrer mig over hvorfor?
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Værktøjet af obsidian er det fineste forarbejdede.
+v2;30;Så luksuriøst, men alle kan få fat på det.
+v1;60;Køllen er fantastisk til at knuse sin fjende.
+v2;90;Virkelig? Jeg ville elske at se én i aktion.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Mayansk arkitektur er den mest solide i hele verden.
+v2;30;Det er takket være al den sten, vi miner, for at lave disse skønheder.
+v1;60;Mon vi mon laver mange flere stenhuse?
+v2;90;Chéen k'iin a'al, amikoo./ Kun tiden vil vise det, min ven.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;Der er få kakaotræer her omkring. Dette sted er usundt.
+v2;40;Lad os plante nogle.
+v1;80;Hvad siger du! Kakaotræfrø er ekstremt dyre!
+v2;120;Ek Chuah vil hjælpe os.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;Vi har ikke nok høns at ofre.
+v2;40;Jeg synes, jeg har mødt $name. Lad os købe æg af ham?
+v1;90;Du taler fornuftigt, lad os gøre det.
+
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Takket være Ah Mun og Ghanan er vores høster gode. Pris være dem!
+v2;30;Lad os takke dem under bønnen.
+v1;80;Hvad kunne vi tilbyde dem?
+v2;120;Vær ikke tåbelig! Vores blod, selvfølgelig!
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac er vred. Vejret er dårligt.
+v2;40;Vi beder ikke nok til ham.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Hvad? Skulle $name være monoteist?
+V2;35;Han ser ikke ud til at tage vores religion alvorligt...
+v1;75;Hold nu op. Han er ikke dum nok til ikke at tro på vores guder.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Troen er vores eneste våben i disse mærkelige egne.
+v2;40;I betragtning af vores situation må vi straffe dem, der fornærmer vores guder.
+v1;80;Vi må endelig ikke krænke dem.
+
+newchat;key:poktapok,weigth:7;
+v1;0;Jeg elsker Pok-ta-Pok!
+v2;40;Jeg gør også! Det må siges, at det er en af vores få fornøjelser her.
+v1;80;Det er sandt. Vi keder os... og jeg har mistet min sidste bold!
+
+newchat;key:year,weigth:5;
+v1;0;Vi vidste før alle andre, at et år varer præcis 365,2420 dage.
+v2;40;Vi er dygtige inden for alle områder: matematik, kunst, geografi...
+
+newchat;key:puja,weigth:6;
+v1;0;Har du været til bøn?
+v2;35;Naturligvis! En ægte maya bør gå derhen!
+v1;80;Haha! Du har ret! Sikket et dumt spørgsmål jeg stillede.
+
+newchat;key:endofworld,weigth:3;
+v1;0;Vores shamaner og vores astrologer ser noget.
+v2;40;Nå? Hvad da?
+v1;80;De ser en vigtig begivenhed i året 2012.
+v2;120;Pyha! Synes du ikke, de spår en smule for langt frem?
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;"Xaire? Hvad betyder ""xaire""?"
+v1;70;Jeg har hørt en bysantiner hilse mig på den måde.
+v2;110;Hold nu op. Du er maya. Hils os på vores eget sprog.
+v1;150;En ægte maya skal have kendskab på alle områder.
+v2;200;Jeg giver dig ret i, at det er godt at kunne tale flere sprog, men du skal ikke tale på den måde i landsbyen!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Lad os lemlæste os ved næste bøn.
+v2;40;Jeg har allerede gjort det. Har du ikke?
+v1;80;J-j-jeg foretrækker at beholde mit blod...
+v2;120;Og se nu der, du gør det samme igen! Hver gang du virker bestemt, skifter du mening!
+v1;160;Men jeg vil ikke! Jeg vil ikke!
+v2;200;Nægter du at ære vores guder?!
+
+newchat;key:cacao,weigth:6;
+v1;0;Hvor er kakaoen sund og lækker...
+v2;40;Sund, ja måske! Men lækker, bestemt ikke! Wah er meget bedre.
+v1;80;Kakao er gudernes yndlingsføde. Spis, hvad de tilbyder dig.
+
+newchat;key:reborn,weigth:7;
+v1;0;Sikken vidunderlig sommerfugl derovre. Måske er det vores ven, som blev ofret for fire år siden?
+v2;40;Jeg tror snarere, han ville være en kolibri!
+v1;80;Det bliver ikke os, der finder ud af det.

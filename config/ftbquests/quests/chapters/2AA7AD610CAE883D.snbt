@@ -1,0 +1,550 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "2AA7AD610CAE883D"
+	group: "12F8B196EA585244"
+	icon: {
+		id: "millenaire:summoning_wand"
+	}
+	id: "2AA7AD610CAE883D"
+	images: [
+		{
+			height: 1.0d
+			hover: ["一产资源"]
+			image: "minecraft:block/oak_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			hover: [
+				"人口"
+				"转载FAQ的信息"
+			]
+			image: "minecraft:item/villager_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			hover: ["军事"]
+			image: "minecraft:item/netherite_sword"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			hover: ["二产资源"]
+			image: "create:block/palettes/ornate_iron_window_end"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			click: "https://www.millenaire.org/zh-Hans/%E7%99%BE%E7%A7%91%E5%85%A8%E4%B9%A6/culture/norman/villages/walledcontrolled"
+			height: 1.0d
+			hover: [
+				"诺曼村庄建设的官方指南"
+				"点击每个房子都有逐等级视图，以及作用"
+				"其他文明往前翻找即可"
+			]
+			image: "ftbteams:textures/accept.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			hover: ["文化"]
+			image: "minecraft:item/enchanted_book"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			hover: ["经济"]
+			image: "millenaire:item/denier_or"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -3.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["390E8A7286AC71F2"]
+			icon: {
+				id: "millenaire:village_scroll"
+			}
+			id: "05F1031A2A7818CC"
+			tasks: [{
+				id: "03CEE5ED93F1F920"
+				item: { count: 1, id: "millenaire:village_scroll" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7516730754997DEE"]
+			id: "5C56BE290D104944"
+			tasks: [{
+				id: "50F6FB778C804560"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["034AAC70E08DF9EB"]
+			icon: {
+				id: "minecraft:wooden_axe"
+			}
+			id: "29D31C434BE263F9"
+			tasks: [{
+				id: "57CC03E9D52676CC"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5C56BE290D104944"]
+			id: "6F6816B50FDFF57D"
+			tasks: [{
+				id: "104824EBB747A4B8"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["05F1031A2A7818CC"]
+			icon: {
+				id: "millenaire:summoning_wand"
+			}
+			id: "7516730754997DEE"
+			tasks: [{
+				id: "1C382E48AB353EE7"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "409B787CA97EB461"
+			tasks: [{
+				id: "148EE6C04F0EE837"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			id: "174772FBC1566552"
+			tasks: [{
+				icon: {
+					id: "millenaire:village_panel"
+				}
+				id: "207DD6EE6FCD693F"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "millenaire:village_panel"
+				type: "observation"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["174772FBC1566552"]
+			id: "65CAD36DFFDCDC9C"
+			tasks: [{
+				id: "2BC08A59915CA092"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["65CAD36DFFDCDC9C"]
+			id: "670BBD8273231F41"
+			tasks: [{
+				id: "10347EE899F936A1"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["670BBD8273231F41"]
+			id: "218E6A969450A8E5"
+			tasks: [{
+				id: "6B8D5E9C07A0A5FB"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				components: {
+					"easy_villagers:villager": {
+						Age: -24000
+					}
+				}
+				id: "easy_villagers:villager"
+			}
+			id: "1616E2F6E8B8F988"
+			tasks: [{
+				id: "22315E3F6B008827"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:zombie_villager_spawn_egg"
+			}
+			id: "2D5990C6C283D959"
+			tasks: [{
+				id: "135B2FB95988083D"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F6816B50FDFF57D"]
+			id: "642217C6241B64D4"
+			tasks: [{
+				id: "589F67040E84E9EE"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7516730754997DEE"]
+			id: "3AB27129761E20EE"
+			tasks: [{
+				id: "77BBD4118E6A9462"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:chicken_spawn_egg"
+			}
+			id: "075A41D1BD39C445"
+			tasks: [{
+				id: "35C4978964936B0C"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6F6816B50FDFF57D"]
+			id: "515755572D153BC7"
+			tasks: [{
+				id: "6F57D48883EE695C"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:grindstone"
+			}
+			id: "55B41ED083468909"
+			shape: "square"
+			tasks: [{
+				id: "674AF37CBDEF3C72"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "496EC417B0E90EB9"
+			tasks: [{
+				id: "18E91A90CC2ADDC3"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "millenaire:timber_frame_cross"
+			}
+			id: "7B4E263294D5C7E9"
+			tasks: [{
+				id: "73E7FB64334BA68C"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["496EC417B0E90EB9"]
+			icon: {
+				id: "minecraft:bread"
+			}
+			id: "735D5FF58809DE6A"
+			tasks: [{
+				id: "12DD952D6AAB695B"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "156157D83C6B7DF8"
+			tasks: [{
+				id: "3D4F75A66BCB8359"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "millenaire:wall_tapestry"
+			}
+			id: "0DB47C2D530B8E0B"
+			tasks: [{
+				id: "46278BD19275B8A0"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "millenaire:stained_glass_white"
+			}
+			id: "34CCB33B98581696"
+			tasks: [{
+				id: "4B90DBA7A0CDAF31"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "3FF336056F824B41"
+			tasks: [{
+				id: "67206AD90DAA249F"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:brewing_stand"
+			}
+			id: "60BCD2F9DC1FE437"
+			tasks: [{
+				id: "408E948E7D54A67F"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			icon: {
+				id: "minecraft:player_head"
+			}
+			id: "4EB32F2BA4490612"
+			tasks: [{
+				id: "4CDA287FD5BD5623"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3D5C09C9DD576CE9"]
+			icon: {
+				id: "millenaire:cider"
+			}
+			id: "0EE1D77549B6796A"
+			tasks: [{
+				id: "3BC9B07A3E86C1F4"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "minecraft:trader_llama_spawn_egg"
+			}
+			id: "36ECCD08FB27DE4D"
+			tasks: [{
+				id: "0A8205DAE4A78E09"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:white_wool"
+			}
+			id: "360A861C347476DD"
+			tasks: [{
+				id: "01A8DC541CCBFA10"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "comforts:sleeping_bag_white"
+			}
+			id: "22F0C6634157FB2C"
+			tasks: [{
+				id: "5F171B0B834E752B"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4EB32F2BA4490612"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "36C8A114A0774D2A"
+			tasks: [{
+				id: "5858CE3F711C069F"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			icon: {
+				id: "minecraft:writable_book"
+			}
+			id: "58ED62541F958EC7"
+			tasks: [{
+				id: "0AEAE1E9A796D0BB"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:oak_sapling"
+			}
+			id: "034AAC70E08DF9EB"
+			tasks: [{
+				id: "41B7CDD08FB979EA"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				components: {
+					"minecraft:potion_contents": {
+						potion: "minecraft:water"
+					}
+				}
+				id: "minecraft:splash_potion"
+			}
+			id: "6D2E86C97788B210"
+			tasks: [{
+				id: "4ED2FB553A3EB776"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:water_bucket"
+			}
+			id: "09E437B7DCB85F2C"
+			tasks: [{
+				id: "487147152C6C0D68"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:oak_door"
+			}
+			id: "2B71E8646B0D6207"
+			tasks: [{
+				id: "2B77D7CD441CDE5F"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "millenaire:cider_apple"
+			}
+			id: "3D76F15619B30A46"
+			tasks: [{
+				id: "0A6D2FA8ED666D51"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3D76F15619B30A46"]
+			icon: {
+				id: "millenaire:calva"
+			}
+			id: "3D5C09C9DD576CE9"
+			tasks: [{
+				id: "0C835C7E7D4B89F3"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 6.0d
+		}
+	]
+}

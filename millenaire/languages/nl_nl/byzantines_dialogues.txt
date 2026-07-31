@@ -1,0 +1,474 @@
+newchat;key:Inuit,v1:adult,v2:adult,weigth:10
+v1;0;Daarnet sprak ik met een Byzantijnse handelaar en hij vertelde me over dorpen ver weg in de sneeuw.
+v2;30;Dorpen in de sneeuw?
+v1;60;Ja, ze worden "Inuit" genoemd.
+v2;90;Inuit? Wat een vreemde naam, hoe waren ze?
+v1;120;De handelaar zei dat ze niet in geld geloven.
+v2;150;Niet in geld geloven?! Hoe konden ze dan leven?
+v1;180;Ze deelden alles gelijkelijk. Daardoor was handeldrijven met hen heel moeilijk.
+v2;210;Arme handelaar. Tenminste is hij terug in het Romeinse Rijk, weg van die barbaren.
+v1;240;Mee eens! Het Romeinse Rijk is het beste land om in te handelen!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, mijn zus, ik heb me altijd afgevraagd waarom je met die sukkel getrouwd bent.
+v2;30;Omdat ik van hem hou!
+v1;60;En nu heet je $targetlastname. $targetlastname! Wat klinkt dat lelijk!
+v2;90;Hé! Doe niet zo gemeen! Jij begon de ruzie.
+v2;110; Je was dronken!
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Broer $targetfirstname, fijn om je te zien!
+v1;30;Ik heb net ons oude houten zwaard teruggevonden!
+v1;50;Weet je het nog?
+v2;80;Wacht! Is dat het zwaard dat vader ons gegeven heeft?
+v1;110;Ja! Weet je nog hoe wij ermee vochten?
+v2;140;Hoe zou ik dat kunnen vergeten! Ik heb er nog littekens van.
+v2;170;Als ik er nog eens over nadenk...
+v2;200;Het was best wreed van vader om ons maar één zwaard te geven!
+v2;240;Hij wist dat we erom zouden vechten!
+v1;270;Vond ik niet erg!
+v2;300;Omdat jij het hield!
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Heb je al van het geheim van de houthakker gehoord?
+v2;30;Nee, wat is er met hem?
+v1;60;Hij verzamelt blijkbaar appels en verkoopt ze aan die Normandiërs!
+v2;90;Niet te geloven! En hij houdt het geld?
+v1;120;Natuurlijk!
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Heb je gehoord van die baron in een naburig dorp?
+v2;30;Ja, is dat niet degene wiens vrouw vermoord werd gevonden?
+v1;60;Precies! Mijn man heeft me net verteld dat de baron zelf zijn eigen vrouw heeft vermoord!
+v2;100; Wat..?
+v2;130;Ik wist altijd al dat hij het zou doen!
+v2;150;Maar niemand geloofde me..!
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Heb jij je ooit afgevraagd hoe het zou zijn als we oorlog hadden?
+v1;30;Er zijn nu zelfs mannen die voor ons land vechten!
+v1;55;Ik bewonder ze echt!
+v2;80;Een oorlog zou verschrikkelijk zijn.
+v2;110;Volgens mij hou jij gewoon van soldaten.
+v2;140;Maar je hebt een man!
+v1;170;Ja, een luie en vaak dronken man!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Mijn man zei dat er binnenkort een baron op bezoek komt in ons dorp!
+v2;30;Waarom zou hij hier komen?
+v2;40;Zo'n machtige, sterke en knappe man...
+v1;70;Wat? Hou jij van zulke mannen?
+v2;100;Je moet toegeven dat ze aantrekkelijk zijn!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Er loopt een lichtzinnige vrouw rond in het naburige dorp!
+v1;20;Naar verluidt zijn er zelfs mannen uit ons dorp daarheen gegaan!
+v2;60;Wat een vreselijk nieuws! Ik moet mijn man eens aan de tand voelen!
+v1;90;De mijne lijkt onschuldig. Over die van jou ben ik niet zo zeker, lieve!
+v2;120;Ik hoop dat hij dat ook is. Hij kan maar beter.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Ik vind het zo leuk om kinderen te zien spelen!
+v1;20;Ik krijg er altijd zin van om een baby te krijgen!
+v2;50;Weet je zeker dat je het je kunt veroorloven?
+v2;70;Kinderen zijn duur!
+v1;100;Geen zorgen hier! Mijn man heeft meer dan genoeg geld.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Lieve, jouw man is een dronkenlap!
+v2;15;Hoe kun je dat nu zeggen?
+v1;45;Je man kwam gisteravond dronken naar ons huis!
+v1;70;Hij zei dat hij met een schaap wil trouwen.
+v1;100;En dat het een groots bruiloftsfeest zou worden!
+v1;130;Krijg toch wat grip op je man.
+v1;150;Het is echt eng.
+v2;180;Goed, goed, ik zal hem straffen!
+v2;210;Geen wijn voor hem!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Jouw brood is zo lekker! Wat is je geheim?
+v2;30;Gewoon een beetje suiker erdoor doen.
+v1;60;Echt? Niets meer?
+v2;90;Dat is alles! Je zult het verschil proeven.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Wie was die man die gisternacht bij jou op bezoek was?
+v2;30;Welke man?
+v1;40;De man die uit jouw raam kroop!
+v1;45;Denk maar niet dat ik dat niet gezien heb!
+v2;60;Hoe durf je..? Ik ben en blijf altijd trouw aan mijn man.
+v1;80;Ja, ja. Ik zou hetzelfde zeggen als ik jou was.
+v2;110;Dat is niet eerlijk! Verspreid geen geruchten over me.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Dat nieuwe keukengerei is geweldig!
+v2;30;Ja, het maakt koken zo makkelijk! Het is leuk!
+v1;60;Dank aan de smeden en ambachtslieden die zoiets bedacht hebben!
+v2;90;Ja! Daarom ben ik graag Romeinse.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Ik ben jaloers op die rijke mensen.
+v1;20;Ze hebben zulke mooie zijden kleren!
+v2;50;Dat is echt niet eerlijk. Ze doen niets en krijgen toch het mooiste.
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Toen ik jong was, wilde ik ontdekkingsreiziger worden, nieuwe landen verkennen en interessante nieuwe mensen ontmoeten. Maar nu? Ik zit vast in dit afgelegen dorpje. Ik wil nieuwe plaatsen gaan bezoeken.
+v2;30;Maar in andere dorpen vind je niet veel verschil. We lijken allemaal sterk op elkaar.
+v1;60;Ik heb het niet over dorpen. Ik heb het over steden, of zelfs DE Stad!
+v2;90;DE Stad? Bedoel je Constantinopel?
+v1;120;Ja! Het hart van ons glorieuze rijk. Het is het wonder der wereld.
+v1;150;Er wonen meer dan 500.000 mensen, stel je dat eens voor?!
+v2;180;Klinkt onmogelijk voor mij. 500.000 mensen op één plek? Blijf maar dromen!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Heb je mijn nieuwe kleren gezien?
+v2;30;Je bent een echte schoonheid, lieve. Alles staat je goed!
+v1;60;Maar ik ben niet zo mooi als jij!
+v2;90;Ohh, dat is niet waar, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Heb je mijn nieuwe kleren gezien?
+v2;30;Je bent een schoonheid. Alles staat je goed, mijn lieve $targetfirstname!
+v1;60;Maar ik ben niet zo mooi als jij!
+v2;90;Klopt.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Heb je mijn nieuwe kleren gezien, $targetfirstname?
+v2;30;Ik vond je oude kleren je veel beter staan.
+v1;60;WAT?
+v2;70;Nee... Nee! Je bent prachtig! Ik vind deze nieuwe... spullen mooi!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Nou, vind je mijn nieuwe jurk mooi?
+v2;30;De oude stond je beter.
+v1;60;WAT?
+v2;70;Hé $targetfirstname, het is maar mijn mening.
+v1;90;Tenminste ben je eerlijk!
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Ik vraag me af wat er met Constantinopel is gebeurd?
+v2;30;Ik denk dat het met ons mee is gekomen naar dit nieuwe land.
+v1;60;Waarom denk je dat?
+v2;90;Ik woonde vlak bij de grote stad en ik werd hier naartoe gebracht.
+v1;120;Klopt, maar er wonen zoveel mensen. We hadden er nu toch van moeten horen.
+v2;150;Het zou heel ver weg kunnen zijn.
+v1;180;Ja, maar de glorie en pracht van Constantinopel zijn zo groot dat zelfs mensen in China ervan gehoord hebben.
+v2;210;Geloof jij echt die verhalen over China?
+v1;240;Ik denk dat er een kern van waarheid in zit.
+v2;270;Maar over China is zoveel onbekend dat we niet kunnen aannemen dat er waarheid in zit.
+v1;300;Er is zoveel onbekend over of Constantinopel hier is dat we dat ook niet kunnen aannemen.
+v2;330;Goed, ja, maar zelfs als Constantinopel hier niet is, moeten we het Romeinse Rijk laten groeien en beschermen.
+v1;360;Daar ben ik het wel mee eens!
+v2;390;Moge Rome eeuwig blijven bestaan!
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Kun je deze nieuwe pop voor me kopen? Iedereen heeft een nieuwe behalve ik...
+v1;30;Wat is het toverwoord?
+v2;60;Kun je ALSJEBLIEFT een nieuwe pop voor me kopen?
+v1;90;Goed, maar je moet beloven dat je niet meer tegenspreekt!
+v2;120;Beloofd!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé schoonheid, vind je wat je ziet leuk?
+v2;20;*klets*
+v2;25;Je hebt een vrouw.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé, je ziet er prachtig uit vandaag, $targetfirstname!
+v2;30;Dank je!
+v1;60;Zoals altijd, lieverd!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé $targetfirstname, wil een schoonheid als jij wel een knappe vent als ik?
+v2;40;Je bent getrouwd, en ik ook.
+v2;60;Ik denk dat je niet trouw bent! Ik zal het tegen je vrouw zeggen!
+v1;75;NEE - doe dat ni-
+v1;85;Ik ben zijn kwaadaardige tweelingbroer!
+v2;120;Vast! Dezelfde kwaadaardige tweeling die altijd dronken is!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Hoe gaat het met je vrouwendingen?
+v2;30;Goed, goed, behalve dat ik me een beetje rot voel...
+v1;60;O nee, wat is er gebeurd?
+v2;90;Mijn man heeft tegen mij geschreeuwd.
+v1;120;Hoe kan hij dat doen tegen zo'n schoonheid?
+v2;150;Dank je dat je me opfleurt, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*urgh*
+v1;30;Gaat het wel, $targetfirstname?
+v2;50;Ja, het is gewoon het zware werk!
+v1;70;Kan ik je helpen? Zou je je dan beter voelen?
+v2;90;Natuurlijk! Dank je!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Hoe gaat het?
+v2;30;Met mij gaat alles goed, en met jou?
+v1;60;Met mij ook, dank je voor het vragen.
+v1;75;Maar ik zie dat er iets is wat je dwarszit!
+v2;90;Het is - niets.
+v1;110;Vertel het me alsjeblieft!
+v2;130;Het is alleen dat mijn leven hier zo saai is.
+v2;160;Ik wou echt dat ik als jonge vrouw besloten had naar een stad te gaan!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Wat moet je doen als je een meisje leuk vindt?
+v1;30;Maak haar complimenten en wees aardig voor haar.
+v2;60;Nee! Dat is onmogelijk! Wat zullen de anderen dan van mij denken?
+v1;90;Als je echt van haar hield, zou je niets om de anderen geven.
+
+newchat;key:harvest,weigth:10
+v1;0;De tarwe groeit dit jaar erg goed, en de druiven ook. Geweldig, niet?
+v2;30;Ja, zo lijkt het: dat hebben we aan het rare weer hier te danken.
+v1;60;Ook al begrijp ik er niets van!
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Het is tijd om je te leren hoe je voor een huis zorgt.
+v2;30;Geweldig, waarmee beginnen we? Mag ik souvlaki maken? Alsjeblieeft!
+v1;60;Laten we eerst eens kijken hoe goed je bent in schoonmaken.
+v2;90;Goed, maar je laat me later zien hoe je souvlaki maakt, beloofd?
+v1;120;Beloofd.
+
+newchat;key:ishome,weigth:6
+v1;0;Het is altijd een genoegen om ons mooie dorpje te zien, vind je niet?
+v2;30;Natuurlijk! We hebben er zoveel tijd in gestoken.
+v1;60;Het is bijna als thuis, net als voordat we hierheen kwamen.
+v2;90;Dit is nu ons thuis, we moeten dat gewoon accepteren.
+v1;120;Dat is het inderdaad, dit gesprek heeft me dat doen beseffen.
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Mijn vader is sterker dan die van jou.
+v2;30;Niet waar! Mijn vader is de sterkste van het dorp!
+v1;60;Niet waar! Mijn vader is de sterkste van het rijk!
+v2;90;Onmogelijk! Mijn vader is de sterkste ter wereld!
+v1;120;Ik wed dat mijn vader die van jou in minder dan twee klappen verslaat!
+v2;150;Maak je vader maar klaar voor een gevecht!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Meisjes zijn dom.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Heb jij mijn pop ergens gezien? Ik kan haar niet vinden...
+v2;30;Geef me mijn zwaard terug en je krijgt haar terug!
+v1;60;Jij hebt haar gestolen! Dief!
+
+newchat;key:kidsBos,v1:child,v2:child,weigth:5
+v1;0;Bèèè... Bèèè... Ik ben de koning der herders!
+v2;30;Hou op! Daarmee roep je hem op!
+v1;60;O Boskokrator, ik bouw je een heilige plaats...
+v2;90;Stil! Weet je niet wat er in de legende gebeurt?
+v1;120;$targetfirstname, huilebalk! Het is maar wat het is! Een legende!
+
+newchat;key:lightning,weigth:7
+v1;0;Weet je nog dat onweer dat we hadden? Ik bedoel dat echt zware!
+v2;30;Natuurlijk. Onze oogst was bijna verwoest. De natuur is best indrukwekkend, hè?
+v1;60;Indrukwekkend is één ding. Maar ik werd bijna door de bliksem getroffen!
+v2;100;Was je niet in je huis? Je weet dat het buiten gevaarlijk is tijdens onweer!
+v1;120;Je leert tot je een ons weegt.
+
+newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
+v1;0;Ik voel me niet goed...
+v2;30;Wat is er aan de hand? Ben je ziek?
+v1;60;Nee, i-ik herinner me net iets-iets.
+v2;100;Je klinkt echt slecht. Weet je zeker dat je niet ziek bent?
+v1;120;N-nee, ik ben gewoon bang.
+v2;150;Wat is er dan gebeurd?
+v1;180;Tijdens het l-laatste onweer. Ik liep buiten het d-d-dorp, ik wist dat ik niet voor de storm terug zou zijn. Dus schuilde ik onder een boom.
+v2;210;Je hebt je leven gewaagd buiten het dorp! Je had kunnen sterven!
+v1;240;Nou, ik was veilig. Maar toen zag ik een varken. De bliksem sloeg erin. En het dode v-varken... het stond op en bewoog z-zoals wij, het achtervolgde mij met een blinkend zw-zwaard!
+v2;290;Je praat onzin. Het was vast een nachtmerrie.
+v1;320;Het was echt waar! Waar! Waar! Waar!
+v2;350;Je bent gek. Ga wat wijn halen en kalmeer.
+v1;380;Dat ga ik d-doen. Mis-misschien helpt het.
+
+newchat;key:loneVillage,weigth:10
+v1;0;Saai. Alles is hier altijd hetzelfde.
+v2;30;Het is in elk geval vredig.
+v1;60;Niets bijzonders voor een afgelegen dorp als het onze!
+
+newchat;key:nicevillage,weigth:10
+v1;0;Het is altijd fijn om ons charmante dorpje te zien, vind je niet?
+v2;30;Vanzelfsprekend, het is de vrucht van onze inspanningen!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Heb je gehoord van het Normandische dorp in de buurt?
+v2;30;Dat is niet best, ik weet nog dat ze Zuid-Italië bleven aanvallen voor we hier kwamen.
+v1;60;Laten we hopen dat ze ons niet overvallen.
+v2;90;Dat hoop ik ook.
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Het is altijd een genoegen om ons mooie dorpje te zien, vind je niet?
+v2;30;Natuurlijk! We hebben er zoveel tijd in gestoken.
+v1;60;Het is bijna als thuis, net als voordat we hierheen kwamen.
+v2;90;Dit is nu ons thuis, we moeten dat gewoon accepteren.
+v1;120;Ik weet het, ik zal het mettertijd accepteren...
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Onze gebouwen zijn zo mooi, het is altijd geweldig om ons werk te zien!
+v2;30;Die Maya's bouwen ook heel mooie bouwwerken.
+v1;60;Lastig me niet met zulke zonderlingen. Onze gebouwen zien er veel mooier uit!
+v2;90;Nou...
+v1;100;Verrader! Heb jij dan geen nationale trots?
+
+newchat;key:pride2,weigth:10
+v1;0;Wij Romeinen mogen echt trots zijn op wat we hebben bereikt!
+v2;30;Natuurlijk! Alles wat je ziet is door ons gemaakt!
+v1;60;Het machtigste rijk in de geschiedenis van de wereld!
+v2;90;Andere volken moeten zich zonnen in onze glorie.
+v1;120;Dat moeten ze ook! Wij zijn de heersers!
+
+newchat;key:pride3,weigth:10
+v1;0;Het Romeinse Rijk zal weer over de wereld heersen!
+v2;30;Daar zorgen we voor!
+v1;60;Dan wordt alles beter!
+v2;90;Zeker!
+v1;100;Op het rijk!
+v2;110;Proost!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Het gaat regenen. Spoedig.
+v2;30;Ik voel het ook aankomen.
+v1;60;Vreemd. Het is altijd hetzelfde aantal dagen tot het weer regent.
+v2;100;Vind jij dat ook?
+v2;125;Vreemd leven hier, niet?
+v1;155;Zeker weten!
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Heb je nog iets over de Seltsjoeken gehoord sinds we hier zijn aangekomen?
+v2;30;Nee, niets. Denk je dat zij ook met ons naar dit land zijn gekomen?
+v1;60;Ik betwijfel het, maar we hebben al gehoord van volkeren waarvan we niet wisten dat ze bestonden.
+v2;90;Ik vermoed dat we hier nieuwe vijanden zullen moeten maken.
+v1;120;We hebben nog steeds de Normandiërs om mee af te rekenen.
+v2;150;Nou, wij zijn Romeinen! We kunnen zulke rovers met gemak verslaan, naar Rome!
+v1;165;Naar Rome!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Weet je nog die wagenmenner van wie wij als kind zoveel hielden?
+v2;30;Natuurlijk, zus. We waren zijn grootste bewonderaarsters!
+v1;60;Ik vraag me af wat er met hem gebeurd is.
+v1;90;Je hoort niets meer over hem...
+v2;120;Hij heeft zich vast neergezet in een dorp zoals het onze, met een vrouw en kinderen.
+v1;150;Hoe dan ook, ik hoop hem ooit nog eens te zien!
+v2;180;Ik ook!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Ik hoop dat we voorlopig niet hoeven uit te rukken om tegen barbaren te vechten.
+v2;30;Wat? We zijn soldaten, ons werk is barbaren doden. Waarom ben je bij het leger gegaan als je niet van vechten houdt?
+v1;60;Ik dacht dat soldaat zijn makkelijker was: een beetje wachten en zo nu en dan een monster of barbaar afmaken. Maar als ik nu een barbaar dood, kijk ik hem aan en denk: "Misschien zouden wij deze mensen niet moeten doden."
+v2;120;Je denkt te veel! Ga eropuit en dood barbaren voor Rome. Zij zouden ons doden en onze huizen vernietigen! Het zijn maar onbeschaafde wilden.
+v1;150;Heb jij die mensen die je wilt afslachten ooit ontmoet? Nee, dus. Misschien zijn ze anders dan ons is verteld.
+v2;180;Dat is waar, ze konden weleens veel erger zijn.
+v1;210;Ik denk niet dat jij begrijpt wat er door mij heen gaat.
+v2;240;Ik ben een soldaat, geen filosoof. Ga God om raad bidden, want die heb je duidelijk nodig.
+v1;270;Dat heb ik al gedaan en God heeft mij niets nieuws gegeven. Toen ik bad, kwam ik tot dezelfde conclusie als nu.
+v2;300;Wat? Dan heb je God duidelijk verlaten, anders zou Hij je de waarheid wel hebben verteld! Blijf bidden tot je weer barbaren kunt doden!
+v1;330;Misschien is dít juist de conclusie die God voor mij in petto had!
+v2;360;Het klinkt eerder alsof God wil dat je met pensioen gaat...
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ah... Souvlaki, het enige echte gerecht!
+v2;30;Heilige Maria, bescherm ons...
+v1;60;Heilige Drievuldigheid, geef ons kracht!
+v2;100;Amen.
+v1;130;Amen...
+v2;190;Zo, waar heb ik het zout ook alweer gelaten?
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Ik hou van zonnige dagen!
+v2;30;Wie niet?
+
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;Ik hou van zonnige dagen!
+v2;30;Wie niet?
+v1;60;Ik niet.
+v2;120;Waarom niet?
+v1;150;De zon brandt! Ik haat het om buiten te zijn!
+v2;180;Je gedraagt je als een zombie!
+v1;210;Misschien ben ik er wel een...
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;We hebben niet genoeg wijn in dit dorp!
+v2;30;Daar ben ik het mee eens! We hebben meer wijngaarden nodig!
+v1;60;En meer taveernen!
+v2;90;Zullen we zelf een taveerne openen?
+v1;120;Geweldig idee! Laten we dat plannen.
+v2;150;Maar waar beginnen we?
+v1;180;En onze vrouwen zullen er niet blij mee zijn!
+v2;210;Welnee, Romeinse wijn verkopen is altijd een goed excuus!
+v1;240;Goed dan! Laten we sparen.
+v1;270;Als we genoeg verdiend hebben, voeren we ons plan uit!
+v2;300;We krijgen de grootste taveerne van het hele rijk!
+v1;325;Zeker weten!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Goed eten, goede wapens, prachtige kunst — daar staat onze natie voor!
+v2;30;En uitstekende wijn!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Ik ben mijn vrouw beu. Ik wil een nieuwe!
+v2;30;Wie niet?
+v1;60;Misschien moeten we het dorp plotseling verlaten en op zoek gaan naar nieuwe!
+v2;90;Ja! De Maya's en de Indiërs hebben zulke mooie vrouwen, heb je gezien?
+v2;140;Maar... Dit dorp is verloren zonder ons.
+v2;160;En vergeet onze kinderen niet!
+v1;180;Bah! Onze kinderen! Die overleven het niet zonder vader!
+v1;220;Maar... betekent dat dan dat we hier moeten blijven, met ons saaie leven?
+v2;255;Ik denk dat dat het beste is.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Het is werkelijk indrukwekkend hoe gedetailleerd jullie iconen zijn.
+v2;30;Natuurlijk, het is grote Romeinse kunst!
+v1;60;Zoals alles wat we doen. Kijk naar onze prachtige huizen!
+v2;90;En vergeet onze roemrijke geschiedenis niet!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Weet je nog dat meisje om wie we als kind vochten?
+v2;30; Ja... Dat was een nare tijd. Goed dat het voorbij is.
+v1;60;Fijn dat te horen, want ze vertelde me net dat ze me al die tijd leuk vond!
+v2;90;Wat? Dat is niet waar!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Kijk eens naar dat varken! Schattig, niet?
+v2;30;WAAAaaah, ga weg!
+v1;60;Ben je bang voor varkens?
+v2;80;N-nee! Niet waar!
+v1;110;Hahahahahaha! Dat is grappig!
+
+newchat;key:weird2,weigth:1
+v2;0;Ahh... Lekkere souvlaki. Wil je een hap?
+v1;30;*Hapt*
+v1;40;Dank je! Ik ben dol op souvlaki.
+v2;70;Wie niet!
+v1;100;Heb je weleens wat aarde op je souvlaki geprobeerd?
+v2;140;...
+v2;150;Nee?
+v1;170;Soms doe ik dat... Ah... Het begon toen mijn souvlaki vorig jaar op de grond viel... Heerlijk!
+v2;220;Wacht! Je legt je souvlaki in de aarde en eet hem dan op? Wat krijgen we nou..?
+v1;260;Maar het is lekker!
+v2;280;Je bent echt gek.
+
+newchat;key:weird3,weigth:1
+v1;0;Ik wil op een varken rijden!
+v2;30;Waarom?
+v1;60;Het is leuk!
+v2;80;Waarom zou je in vredesnaam op een varken rijden?
+v1;110;Omdat het leuk is!
+v2;120;Je bent gek.
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Drink geen wijn alleen!
+v2;30;Samen drinken is veel leuker!
+v1;50;Op de wijn!
+v2;70;Proost!
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Auw...
+v1;30;Wat zie je eruit! Wat is er gebeurd?
+v2;60;Nou, iedereen heeft een houten zwaard behalve ik.
+v2;80;Dus hebben ze besloten mij aan te vallen!
+v2;100;Je moet er voor mij ook een halen!
+v1;120;Ik zie dat je verf hebt gebruikt voor je littekens en wonden. Mooie poging!
+v2;150;Hoe dan ook! Geef me alsjeblieft een zwaard!
+v1;180;Zwaarden zijn gevaarlijk. Geen zwaard voor jou!
+

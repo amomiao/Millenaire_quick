@@ -1,0 +1,67 @@
+
+villager.greeting=Goddag, $name!
+villager.greeting=Det er varmt vejr i dag.
+villager.greeting=Hvordan behandler ånderne dig?
+villager.greeting=Hvad nyt?
+villager.greeting=Hvordan har din familie det?
+villager.greeting=Ånderne sender os regn.
+villager.greeting=Hvor er dit land?
+mayan_shaman.greeting=Ånderne beskytter dig.
+
+villager.gorest=Søvnen tager mig.
+villager.gorest=Jeg må sove nu.
+villager.gorest=*gaber*
+
+villager.gopray=Ånderne giver os gode høster.
+villager.gopray=Må ånderne komme os til hjælp.
+
+villager.bringbackresourceshome=Jeg har for meget træ at bære.
+villager.choptrees=Det er tid til at fælde træer.
+villager.gathergoods=Jeg tager dette træ med hjem.
+villager.plantsaplings=Det er mig, der planter alle disse træer.
+
+villager.harvestmaize=God regn, god høst.
+villager.plantturmeric=Krydderier gør maden god.
+villager.harvestturmeric=Denne krydderhøst giver smag til maden.
+villager.slaughterchicken=Hønsene giver os deres kød.
+villager.plantmaize=Regnen giver os en god høst.
+
+villager.gethouseresources=Et rent hus er et godt hus.
+villager.getgoodshousehold=Jeg må gøre rent.
+villager.delivergoodshousehold=Det er for meget mad at bære.
+villager.makerasgulla=Mit barn er sygt.
+
+
+villager.getresourcesforbuild=Sten, og atter sten.
+villager.constructionstepbystep=Slid, slid, slid!
+villager.constructionstepbystep=Jeg har brug for en stærk makker.
+
+villager.goplay=Jeg går ud at lege i græsset.
+
+villager.childobserveagriculture=Mon ikke der sker noget, hvis man varmer majskorn rigtig kraftigt op?
+villager.childobserveconstruction=Hvorfor bygger vi altid i sten? Det undrer mig.
+villager.childobservesmithing=Alle her bruger obsidian til værktøj, men der må findes noget stærkere!
+villager.childobserveproducefood=Hvorfor drikker de voksne al kakauhaaen? Det er uretfærdigt!
+
+villager.childeatcacaobeans=Bønnerne alene er lidt bitre. Måske ville de smage bedre med mælk?
+
+
+villager.becomeadult=La la la la. /
+male.becomeadult=Jeg vil være jæger.
+female.becomeadult=Jeg vil have en mand.
+
+villager.gopray.chosen=Jeg fremsiger bønnen.
+mayan_shaman.gopray.chosen=Min bøn beskytter os.
+
+villager.calltoarms=Dagen er min!
+villager.calltoarms=Dræb den onde mand!
+villager.calltoarms=Til våben!
+
+villager.maketools=Køb mit værktøj.
+villager.makeweapons=Våbnene her er stærke.
+villager.scultmayan=En dag skal jeg male.
+villager.construction=Arbejd i fællesskab, arbejd med al din kraft.
+villager.construction=Arbejde, arbejde, arbejde.
+villager.sellercoming=Jeg kommer straks!
+villager.tradecomplete=Må guderne belønne dig, kom igen.
+

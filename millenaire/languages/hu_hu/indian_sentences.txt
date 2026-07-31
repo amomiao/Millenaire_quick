@@ -1,0 +1,83 @@
+
+
+villager.greeting=Nagyon meleg van ma.
+villager.greeting=Mindenki jól van otthon?
+villager.greeting=Hogy mennek a dolgok?
+villager.greeting=Mi újság?
+villager.greeting=Az óceánon túlról jöttél?
+villager.greeting=Üdv, $name-ji!
+villager.greeting=Miért nem esik?
+pandit.greeting=Élj sokáig.
+merchant_oriental.greeting=Béke veled, testvér!
+merchant_adivasi.greeting=Épp most érkeztem az erdőből.
+merchant_villagewoman.greeting=Egy idős asszonynak kemény az utazás.
+
+male.gorest=Most elmegyek pihenni.
+male.gorest=Fáradt vagyok.
+male.gorest=Reggel óta dolgozom.
+
+female.gorest=Most elmegyek pihenni.
+female.gorest=Fáradt vagyok.
+female.gorest=Reggel óta dolgozom.
+
+villager.gopray=Istenem, te vagy az egyetlen reményünk.
+villager.gopray=Istenem, add, hogy ezúttal jó legyen a termés.
+
+villager.inspectconstruction=Jó látni, hogy a kőműveseink ilyen műveket alkotnak.
+
+
+lumberman.bringbackresourceshome=Nehéz lesz ennyi fát hazacipelni.
+lumberman.choptrees=Úgy néz ki, életem végéig ezeket a fákat fogom vágni.
+lumberman.gathergoods=Most összegyűjtöm az összes fát.
+lumberman.plantsaplings=Minél több fát ültetek, annál könnyebb lesz az élet később.
+
+peasant.drybrick=Mennyi téglára van szükségünk a házépítéshez?
+peasant.gatherbrick=Erős a nap, gyorsan száradnak ma.
+peasant.cookbrick=Nézd, milyen jól égnek a téglák a tűzben.
+villager.plantrice=Esik az eső, jó lesz a termés idén.
+villager.harvestrice=A sok jó eső miatt a termés is jó lesz.
+villager.plantturmeric=Végül is mindenkinek szüksége van kurkumára.
+villager.harvestturmeric=Ez a kurkumaszüret sárgára festi a kezeimet.
+peasant.slaughterchicken=Eleget ettem vegetáriánus curryből!
+peasant.slaughterchicken=Utálom a csirkéket. Hangosak, és semmi másra nem jók, mint hogy megegyük őket.
+
+peasantwife.gethousethresources=Minden végül a földesúr házában köt ki.
+peasantwife.getgoodshousehold=Akármennyit is dolgozol ezért a családért, sosem lesz elég!
+peasantwife.delivergoodshousehold=Hogyan fogom egyedül elcipelni ennyi élelmet?
+peasantwife.makerasgulla=A gyerekek imádják a rasgullákat.
+
+
+peasant.getresourcesforbuild=Lássuk csak... Egy tonna tégla, két tonna kő...
+peasant.construction=Az indiai építészet világszerte híres.
+peasant.construction=Ha ezzel végeztem, egy vörös erődöt fogok építeni.
+
+villager.goplay=Szeretek a sárban játszani.
+
+villager.childobserveagriculture=Egész nap növényeket termeszteni olyan unalmasnak tűnik. Kalandos életet szeretnék!
+villager.childobserveconstruction=Az építkezés túl sok munka nekem.
+villager.childobservesmithing=Milyen erős karok!
+villager.childobserveproducefood=Anyám csinálja a legjobb rasgullákat.
+
+villager.childeatsugarcane=Anya azt mondja, ártalmas a fogaknak, de annyira finom!
+
+villager.becomeadult=Eleget játszottam, itt az ideje dolgozni.
+male.becomeadult=Híres harcos akartam lenni, amikor fiatalabb voltam...
+female.becomeadult=Arról álmodtam kislányként, hogy egy herceghez megyek férjhez...
+
+villager.gopray.chosen=Itt az ideje újra meglátogatni a templomot.
+pandit.gopray.chosen=Ha én nem törődöm a templommal, ki fog?
+
+villager.calltoarms=Verjétek meg az ellenséget!
+villager.calltoarms=Mienk lesz a győzelem.
+villager.calltoarms=Mindenki fegyverbe!
+
+smith.maketools=Mindenki használja a szerszámaimat, mégis mindenki lenéz.
+armysmith.makeweapons=Fegyvert kovácsolni sokkal rangosabb, mint szerszámot készíteni!
+sculptor.scult=A szobrászat a mélyedés és a kidudorodás művészete.
+
+merchant_oriental.keepstall=Nézzétek, Perzsia csodáit!
+merchant_adivasi.keepstall=Mindent a családom termeszt, messze az erdő mélyén.
+merchant_villagewoman.keepstall=Jó házi koszt éhes utazóknak!
+female.sellercoming=Máris jövök!
+villager.sellercoming=Máris jövök!
+villager.tradecomplete=Üzletet kötöttünk, gyere vissza máskor is.

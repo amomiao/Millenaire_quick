@@ -1,0 +1,67 @@
+female.becomeadult=En dag vil jeg være mor.
+
+male.becomeadult=Jeg vil være kriger.
+
+villager.becomeadult=Det er tid til at blive voksen.
+
+villager.bringbackresourceshome=Arbejde, arbejde, arbejde ...
+
+villager.choptrees=Jeg går ud og fælder nogle træer.
+
+villager.constructionstepbystep=Min far lærte mig at bygge.
+villager.constructionstepbystep=Jeg håber, kami synes om min bygning.
+
+villager.delivergoodshousehold=Jeg har hentet mad på markedet.
+
+villager.gathergoods=Jeg har brug for forsyninger.
+
+villager.getgoodshousehold=Det her har jeg brug for derhjemme.
+
+villager.gethouseresources=Jeg må hente noget hjemmefra.
+
+villager.getresourcesforbuild=Jeg har brug for flere materialer.
+
+villager.goplay=Jeg vil lege.
+
+villager.childobserveagriculture=Mor siger, det er vigtigt at dyrke ris, men det ser så kedeligt ud ...
+villager.childobserveconstruction=Når jeg bliver stor, vil jeg bygge pagoder. Af guld!
+villager.childobservesmithing=Vores våben og rustninger ser sejest ud!
+villager.childobserveproducefood=Hvorfor skal alt her laves med ris? Jeg er træt af ris!
+villager.childobserveproducealcohol=Jeg blev syg sidst, jeg smagte sake.
+
+villager.childeatapple=Denne verden er magisk! Æbler vokser på alle træer!
+
+villager.maketools=Jeg har smedet de fineste værktøjer i mange år.
+
+villager.makeweapons=Hemmelighederne bag de fineste våben blev givet videre til mig af min mester.
+
+villager.plantsaplings=Jeg planter disse spirer.
+
+villager.slaughterchicken=Du bliver et godt måltid til en eller anden.
+
+villager.calltoarms=De vil fortryde den dag, de angreb os!
+villager.calltoarms=Grib jeres våben!
+villager.calltoarms=Forsvar landsbyen!
+
+villager.gopray.chosen=Fald til ro i sindet.
+villager.gopray=Kami, beskyt os mod det onde.
+villager.gopray=Jeg vil bede til gudinden Uga-no-Mintama om en rig høst.
+
+villager.gorest=Ah, sengetid.
+villager.gorest=Jeg trænger til at hvile.
+villager.gorest=Jeg er alt for træt.
+
+villager.greeting=Hvordan står det til?
+villager.greeting=Glæder mig at møde dig.
+villager.greeting=Hvad nyt?
+villager.greeting=Goddag, $name-san!
+villager.greeting=Hvordan har du det, $name-san?
+villager.greeting=Hej.
+villager.greeting=Velkommen.
+villager.construction=Min far lærte mig bygningens kunst.
+villager.construction=Jeg håber, kami ser med velvilje på mit arbejde.
+villager.sellercoming=Jeg kommer straks!
+villager.tradecomplete=Mange tak, kom endelig igen.
+villager.delivergoodshousehold=Jeg fik mad fra butikken.
+villager.getgoodshousehold=Det er ting, jeg har brug for derhjemme.
+

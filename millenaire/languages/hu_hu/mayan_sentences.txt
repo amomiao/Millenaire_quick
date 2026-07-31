@@ -1,0 +1,67 @@
+
+villager.greeting=Üdv, $name!
+villager.greeting=Forró ma az idő.
+villager.greeting=Hogyan bánnak veled a szellemek?
+villager.greeting=Mi újság?
+villager.greeting=Hogy van a családod?
+villager.greeting=A szellemek esőt küldenek nekünk.
+villager.greeting=Honnan származol?
+mayan_shaman.greeting=A szellemek óvjanak téged.
+
+villager.gorest=Elnyom az álom.
+villager.gorest=Most már aludnom kell.
+villager.gorest=*ásít*
+
+villager.gopray=A szellemek jó termést hoznak nekünk.
+villager.gopray=Bárcsak a szellemek segítenének rajtunk.
+
+villager.bringbackresourceshome=Túl sok fát kell hazacipelnem.
+villager.choptrees=Itt az ideje fát vágni.
+villager.gathergoods=Hazaviszem ezt a fát.
+villager.plantsaplings=Mind én ültetem ezeket a fákat.
+
+villager.harvestmaize=Jó eső, jó termés.
+villager.plantturmeric=A fűszerek adják az étel ízét.
+villager.harvestturmeric=Ez a fűszerszüret ízt ad majd az ételnek.
+villager.slaughterchicken=A tyúkok nekünk adják a húsukat.
+villager.plantmaize=Az eső jó termést hoz nekünk.
+
+villager.gethouseresources=A tiszta ház jó ház.
+villager.getgoodshousehold=Takarítanom kell.
+villager.delivergoodshousehold=Túl sok ennivalót kell cipelnem.
+villager.makerasgulla=Beteg a gyermekem.
+
+
+villager.getresourcesforbuild=Kőre, és még több kőre van szükség.
+villager.constructionstepbystep=Dolgozni, dolgozni, dolgozni!
+villager.constructionstepbystep=Erős társra van szükségem.
+
+villager.goplay=Megyek a fűben játszani.
+
+villager.childobserveagriculture=Vajon mi történne, ha jó forrón megpirítanánk a kukoricaszemeket?
+villager.childobserveconstruction=Miért építkezünk mindig kőből, vajon?
+villager.childobservesmithing=Itt mindenki obszidiánból csinálja a szerszámokat, de biztos van valami szilárdabb is!
+villager.childobserveproducefood=Miért isszák meg a felnőttek az összes cacauhaa-t? Ez nem igazság!
+
+villager.childeatcacaobeans=A bab magában kicsit keserű. Talán tejjel jobb lenne?
+
+
+villager.becomeadult=Lá lá lá lá. /
+male.becomeadult=Vadász akarok lenni.
+female.becomeadult=Férjet szeretnék.
+
+villager.gopray.chosen=Elmondom az imát.
+mayan_shaman.gopray.chosen=Az imám megvéd minket.
+
+villager.calltoarms=Enyém a nap!
+villager.calltoarms=Öljétek meg a gonosz embert!
+villager.calltoarms=Fegyverbe!
+
+villager.maketools=Vedd meg a szerszámaimat.
+villager.makeweapons=Itt szilárdak a fegyverek.
+villager.scultmayan=Egy nap festeni fogok.
+villager.construction=Együtt dolgozni, teljes erőből dolgozni.
+villager.construction=Munka, munka, munka.
+villager.sellercoming=Máris jövök!
+villager.tradecomplete=Az istenek jutalmazzanak meg, gyere vissza máskor is.
+

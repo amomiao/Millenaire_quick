@@ -1,0 +1,134 @@
+villager.greeting=Salve, $name!
+villager.greeting=Bella giornata, non è vero?
+villager.greeting=Sta per piovere, lo posso sentire.
+villager.greeting=Non ricordavo la Normandia esattamente così.
+guard.greeting=Sembri un po' magro, $name. Ti proteggerò se ti metterai nei guai.
+priest.greeting=Benedizioni su di te, figliolo.
+monk.greeting=Che Dio sia con te, fratello.
+boy.greeting=Quando crescerò, voglio essere come papà!
+knight.greeting=Obbedisco solo a Re William, Duca della Normandia, e a Dio. In quest'ordine.
+knight.greeting=$name, sapevi che ho combattuto ad Hastings?
+knight.greeting=Io rivendico questa strana terra per il Duca di Normandia!
+lady.greeting=Mia sorella ha sposato un duca. Io vivo qui.
+lady.greeting=Avresti dovuto vedere il castello di mio padre, era una grande fortezza.
+viking_merchant.greeting=Questa terra è vichinga. L'Inghilterra è vichinga. La Sicilia è vichinga. Viva i vichinghi!
+viking_merchant.greeting=Oggi sono venuto per commerciare. Domani...
+weapon_merchant.greeting=Vuoi scoprire come sono sopravvissuto tutti questi anni viaggiando in solitudine con oggetti preziosi?
+plant_merchant.greeting=Qualcuno dice che sono un sognatore, ma non sono l'unico...
+oriental_merchant.greeting=Questa terra è ricca, ma perché deve essere così fredda?
+oriental_merchant.greeting=Sei stato a Cordova? Ora che è un luogo civilizzato.
+art_merchant.greeting=Le persone qui sono barbari.
+art_merchant.greeting=Nessuna città al mondo può competere con Costantinopoli.
+art_merchant.greeting=Noi Bizantini siamo gli ultimi veri Romani. Ammira la nostra civiltà!
+wool_merchant.greeting=I tessuti olandesi sono i migliori ad ovest di Cathai.
+seneschal.greeting=Gestisco queste terre per il mio re.
+seneschal.greeting=Sono impaziente di ritornare alla corte reale.
+guildmaster.greeting=Gli artigiani non lavorano al meglio senza qualcuno che li guidi.
+
+knight.patrol=Comando su queste terre.
+knight.patrol=Il forte ha sempre ragione, e io sono forte.
+
+lady.maketapestry=Nessuno qui apprezza l'arte.
+lady.maketapestry=Forse questo luogo sembrerà meno squallido con quelli sulle pareti. Forse...
+
+villager.gorest=Un po' di riposo mi farà bene.
+villager.gorest=La vita qui è un po' noiosa.
+villager.gorest=Non avviene mai niente di emozionante qui...
+villager.gorest=Sono stanco.
+villager.godrink=Ho bisogno di bere!
+villager.godrink=Un sidro non ha mai fatto male a nessuno.
+villager.gopray=Sto parlando a Dio, non a te, $name.
+
+farmer.bringbackresourceshome=Andiamo a consegnare quel bel grano dorato.
+farmer.collectcrop=Sembra che il grano sia maturo.
+farmer.plantseeds=Ho seminato, e successivamente mieterò.
+
+lumberman.bringbackresourceshome=Perfino mia moglie dovrà ammettere che è davvero tanta legna.
+lumberman.choptrees=Guardami mentre taglio quell'albero!
+lumberman.gathergoods=Begli alberelli quaggiù.
+lumberman.plantsaplings=Presto questo sarà un grande e maestoso albero. E io lo taglierò.
+
+wife.gethousethresources=Sembra che il mio pigro marito abbia prodotto qualcosa per una volta.
+wife.getresourcesforbuild=Vado a prendere una o due tonnellate di materiali da costruzione. Sono più forte di quello che sembro.
+wife.makebread=Il mio pane è il migliore nel villaggio.
+wife.makecider=Preparare sidro non è il peggior lavoro qui.
+wife.makecalva=Une boisson d'homme, faite par une femme. /Una bevanda per veri uomini, fatta da una donna
+wife.construction=Costruire, costruire, come solo una donna può!
+wife.construction=Gli uomini non hanno l'accuratezza necessaria per un lavoro di precisione.
+wife.construction=Diventerà un bellissimo edificio.
+wife.getgoodshousehold=Perché sono sempre io ad essere mandata a prendere le cose?
+wife.delivergoodshousehold= "Prendi questo, prendi quest'altro", dicono. Un giorno non lo farò più! Non lo farò più!
+
+villager.goplay=Penso che andrò a giocare fuori.
+villager.becomeadult=Tempo di diventare qualcuno nella vita!
+
+villager.makeboudin=Non lo mangeresti se sapessi come è stato fatto...
+
+smith.makenormantools=Gli strumenti normanni sono i migliori nel mondo.
+smith.makenormanweapons=Non provare a combattere un uomo armato da me.
+
+
+miner.mining=Scavare è un'arte, lo sai.
+miner.mining=Nessun altro nel villaggio ha la forza e la resistenza per fare questo lavoro. E quale ricompensa ottengo per ciò?
+miner.cooking=Questa è cucina seria!
+
+villager.gopray.chosen=È passato molto tempo dall'ultima volta che ho pregato...
+priest.gopray.chosen=Pregare è più laborioso di quello che sembra.
+
+villager.calltoarms=Alle armi! Alle armi!
+villager.calltoarms=Montjoi Saint-Denis!
+villager.calltoarms=Tutti per uno!
+villager.calltoarms=Aux armes, citoyens!
+
+monk.makebooks=Se la vanità non fosse un peccato, direi che i miei manoscritti sono i migliori di queste terre.
+
+priest.makeamulets=Questo non dovrebbe esser visto da stranieri...
+
+viking_merchant.keepstall=La magia vichinga è una magia potente.
+viking_merchant.keepstall=Vieni e compra. Non ti dirò quali sacrifici sono stati fatti per rendere questi amuleti così potenti.
+weapon_merchant.keepstall=Non vuoi sapere cosa successe all'uomo che mi sfregiò con questa cicatrice. Ma puoi comprare la spada che usai.
+plant_merchant.keepstall=Io vendo tutte le erbe di cui hai bisogno.
+oriental_merchant.keepstall=Vieni a vedere lussi di tal livello che la gente di questo posto può solo sognare!
+art_merchant.keepstall=Perle ai porci, come si dice qui.
+wool_merchant.keepstall=Tutta la lana rosa di cui avrai mai bisogno!
+
+villager.makeglassbottles=Una bottiglia fatta bene per una pozione potente!
+villager.harvestwarts=Grazie a Dio sto indossando i guanti.
+villager.plantwarts=Solo il maestro Vif-argent potrebbe aver capito come far crescere questi abomini.
+villager.brewpotions=Un giorno diventerò un maestro alchimista!
+orderguard.calltoarms=Temete l'ira dell'Ordine del Nuovo Mondo!
+orderguard.greetings=Ti saluto!
+orderguard.patrol=Il nostro dovere è proteggere questo luogo sacro.
+villager.childeatapple=Le mele sono buone, ma perché nessuno sa fare le torte di mele?
+villager.childobserveagriculture=Dicono che l'agricoltura sia un mestiere nobile, eppure non ho mai visto un nobile farla!
+villager.childobserveconstruction=È un po' strano che nel nostro villaggio costruiscano solo le donne.
+villager.childobserveproducealcohol=Quand'ero piccolo, la mamma mi metteva un po' di calva nel latte per farmi dormire. Hips!
+villager.childobserveproducefood=Da quando so come si fanno, le trippe mi piacciono meno.
+villager.childobservesmithing=Bam! Bam! Bisogna battere il ferro finché è caldo!
+villager.gatherciderapples=Raccogliere le mele è un gioco da ragazzi!
+villager.gatherciderappleschildren=Perché tocca a noi bambini raccogliere le mele se poi nemmeno possiamo bere il sidro?
+villager.goholdaservice=Stiamo parlando a Dio, non a te, $name.
+villager.goonpilgrimage=Che Dio benedica questa cattedrale! Che Dio benedica la Normandia!
+villager.goplayorgan=Perché nessuno canta?
+villager.gopreachonpulpit=Pater noster qui es in caelis: Sanctificetur nomen tuum. /
+villager.inspectconstruction=Credevi davvero che quei contadini ignoranti fossero capaci di costruire edifici simili da soli? Certo che no!
+villager.makecalva=Qualunque taglialegna sa fare il sidro, ma per il calva ci vuole un esperto!
+villager.makecider=Preparare il sidro non è il peggior lavoro da queste parti.
+villager.plantsaplingappletree=Ogni melo piantato sono altre botti di sidro all'orizzonte!
+villager.sellercoming=Sono da te subito!
+villager.tradecomplete=Affare fatto, che Dio ti protegga!
+villager.gatherciderappleschildren=Mia madre dice che tocca a me raccogliere le mele, ma l'ho già fatto ieri!
+villager.goplayorgan=Sono solo, così solo…
+villager.goholdaservice=Nel nome del Padre, del Figlio e dello Spirito Santo…
+villager.goonpilgrimage=Magnifico!
+villager.goonpilgrimage=Ho percorso un lungo cammino.
+villager.goonpilgrimage=Mi sento vicino a Dio.
+villager.goonpilgrimage=Impressionante!
+orderguard.calltoarms=Vattene, progenie d'inferno!
+villager.greeting=Ho dormito proprio bene stanotte! Mi sento riposato!
+orderguard.patrol=Obbedisco solo a Dio.
+orderguard.greetings=Ti saluto nel nome dell'Ordine e del Gran Maestro.
+villager.gopreachonpulpit=Adveniat regnum tuum: Fiat voluntas tua, sicut in caelo, et in terra. /
+villager.gopreachonpulpit=Et dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris. /
+villager.gopreachonpulpit=Et ne nos inducas in temtationem. Sed libera nos a malo. /
+villager.gopreachonpulpit=Panem nostrum quotidianum da nobis hodie. /

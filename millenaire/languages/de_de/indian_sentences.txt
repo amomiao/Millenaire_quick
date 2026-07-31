@@ -1,0 +1,93 @@
+
+female.becomeadult=Ich hatte geträumt einen Prinzen zu heiraten...
+
+female.gorest=Ich werde jetzt gehen und mich ausruhen.
+female.gorest=Ich bin müde.
+female.gorest=Ich arbeite schon seit dem Morgen.
+
+armysmith.makeweapons=Waffen herzustellen ist viel angesehener als Werkzeug herzustellen!
+
+lumberman.bringbackresourceshome=Es wird schwer so viel Holz nach Hause zu tragen.
+lumberman.choptrees=Es scheint als werde ich mein ganzes Leben mit dem Fällen der Bäume verbringen.
+lumberman.gathergoods=Ich werde jetzt das ganze Holz einsammeln.
+lumberman.plantsaplings=Je mehr Setzlinge ich pflanze, desto mehr Holz habe ich später.
+
+pandit.gopray.chosen=Wenn ich mich nicht um den Tempel kümmere, wer tut es dann?
+pandit.greeting=Habe ein langes Leben.
+
+peasant.cookbrick=Schaue wie gut diese Ziegel im Feuer kochen.
+
+peasant.drybrick=Wie viele Lehmziegel braucht man um ein Haus zu bauen?
+
+peasant.gatherbrick=Die Sonne ist heute stark, da trocknen die Ziegel schnell.
+
+peasant.getresourcesforbuild=Mal sehen, eine Tonne Lehmziegel, zwei Tonnen Steine...
+
+peasant.slaughterchicken=Ich hatte genug vegetarisches Curry!
+peasant.slaughterchicken=Ich hasse Hühner. Sie sind laut und zu nichts anderem zu gebrauchen als gegessen zu werden.
+
+peasant.construction=Hindu-Architektur ist in der gesamten Welt berühmt.
+peasant.construction=Wenn ich damit fertig bin, will ich eine rote Festung bauen.
+
+peasantwife.delivergoodshousehold=Wie soll ich die ganzen Speisen alleine nach hause tragen?
+peasantwife.getgoodshousehold=Egal wie viel du dieser Familie bringst, es ist niemals genug!
+peasantwife.gethousethresources=Alles endet stets im Haus des Landherren.
+peasantwife.makerasgulla=Die Kinder lieben Rasgulla.
+
+sculptor.scult=Die Bildhauerei ist die Kunst des Schlagens von Löchern.
+smith.maketools=Jeder benutzt mein Werkzeug, aber bis jetzt schaut jeder auf mich herab.
+
+male.becomeadult=Als ich jünger war, wollte ich mal ein großer Krieger werden...
+
+male.gorest=Ich werde jetzt gehen und mich ausruhen.
+male.gorest=Ich bin müde.
+male.gorest=Ich arbeite schon seit dem Morgen.
+
+merchant_adivasi.keepstall=Alles wird von meiner Familie angebaut, tief im Dschungel.
+merchant_adivasi.greeting=Ich bin gerade vom Wald hergekommen.
+
+merchant_oriental.keepstall=Seht die Herrlichkeit Persiens!
+merchant_oriental.greeting=Friede sei mit dir, Bruder!
+
+merchant_villagewoman.keepstall=Hausgemachtes Essen für hungrige Reisende!
+merchant_villagewoman.greeting=Reisen ist anstrengend für eine einsame Frau.
+
+villager.becomeadult=Genug gespielt, jetzt wird gearbeitet.
+
+villager.goplay=Ich liebe es mit Erde zu spielen.
+
+villager.childobserveagriculture=Den ganzen Tag Gemüse pflanzen ist langweilig. Ich will ein Leben voll Abenteuer!
+villager.childobserveconstruction=Bauen ist für mich zu viel Arbeit.
+villager.childobservesmithing=So starke Arme!
+villager.childobserveproducefood=Meine Mutter macht das beste Rasgulla.
+
+villager.childeatsugarcane=Mama sagt es macht die Zähne kaputt aber es ist so gut!
+
+villager.harvestrice=Dank des vielen Regens ist die Ernte so gut dieses Jahr.
+
+villager.harvestturmeric=Diese Gelbwurzernte färbt meine Hände gelb.
+
+villager.plantrice=Wenn es viel regnet, wird die Ernte dieses Jahr gut sein.
+
+villager.plantturmeric=Ehrlich gesagt, jeder braucht Gelbwurz.
+
+villager.calltoarms=Besiegt die Feinde!
+villager.calltoarms=Der Sieg wird unser sein.
+villager.calltoarms=Jeder zu seinen Waffen!
+
+villager.gopray=Gott, du bist unsere einzige Hoffnung.
+villager.gopray=Lieber Gott, möge diese Ernte reich ausfallen.
+villager.gopray.chosen=Zeit, mal wieder den Tempel zu besuchen.
+
+villager.greeting=Es ist heute sehr heiß.
+villager.greeting=Geht es zuhause allen gut?
+villager.greeting=Wie stehen die Dinge?
+villager.greeting=Was gibt's Neues?
+villager.greeting=Kommst du von jenseits des Meeres?
+villager.greeting=Sei gegrüßt, $name-ji!
+villager.greeting=Warum regnet es nicht?
+
+villager.inspectconstruction=Ich genieße es zu sehen wie unsere Arbeiter so tolle Gebäude erschaffen.
+female.sellercoming=Ich bin gleich da!
+villager.sellercoming=Ich bin gleich da!
+villager.tradecomplete=Der Handel ist besiegelt, komm wieder vorbei.

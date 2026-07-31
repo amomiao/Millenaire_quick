@@ -1,0 +1,111 @@
+//*  Les lignes de dialogue commence par un code du style "v2;30;"  qui précise qui parle et à quel moment le dialogue peut être lu. S'il vous plait, recopier exactement ce code dans vos traductions.
+//*  La première moitié de la ligne (avant le /) est la langue d'origine des villageois et doit donc rester tel quel, et la seconde moitié doit être traduite.
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Est-ce qu'il neige ?
+v2;30;Ca ressemble à de la neige, mais je n'ai pas l'impression que ce soit froid.
+
+newchat;key:beautiful,weigth:10
+v1;0;Où nous sommes, c'est un endroit que je n'ai jamais vu auparavant. Ca a l'air identique mais c'est différent.
+v2;30;Les chamans disent que nous sommes au pays béni des esprits serviables, c'est pour ça que c'est si incroyable !
+
+newchat;key:sunset,weigth:10
+v1;0;Je suis si fatigué, cette journée ne passe pas assez vite...
+
+newchat;key:seasons,weigth:10
+v1;0;Penses-tu que la chasse va être bonne cette année ?
+v2;30;Qui sait, avec le temps qu'on a.
+v1;60;Les saisons n'ont aucun sens ici.
+
+newchat;key:normans,weigth:5
+v1;0;J'ai rencontré des personnes bizarres, ils se nomment les Normands ?
+v2;30;Oui les Normands sont biens mais ils ont besoin de beaucoup.
+v1;60;Que veux-tu dire ?
+v2;90;L'un deux est venu l'autre jour et j'ai vidé ma maison en lui donnant des affaires, il avait besoin de plus apparemment.
+v1;120;Pauvre homme.
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Ces japonais savent à coup sûr comment préparer du poisson !
+v2;30;"Préparer" du poisson ? Tu veux seulement dire qu'ils le cuisinent, non ?
+v1;60;Non, je veux dire qu'ils servent leur nourriture avec pleins de méthodes et saveurs élaborées.
+v2;90;La nourriture peut avoir un goût différent sans être gâtée ?
+v1;120;Oui tu devrais venir avec moi la prochaine fois que je leur rends visite !
+
+newchat;key:murderer,weigth:10
+v1;0;Tu as entendu ce qui lui est arrivé après l'accident ?
+v2;30;Accident ou nous, tuer des gens est mal.
+v1;60;Oui, mais devions-nous l'exclure du village ? J'ai entendu qu'il est devenu fou.
+v2;90;Nous devions l'exclure ! Au moins ici il ne fait pas froid et il ne va pas mourir froid dehors.
+v1;120;Est-ce mieux ? Maintenant il est forcé à vivre seul !
+
+newchat;key:kys,weigth:10
+v1;0;Quand est-ce que l'aînée va t-il mourir ?
+v2;30;Je ne crois pas que nous avons besoin de faire ça ici, ce nouveau monde est bien plus accommodant !
+v1;60;Je suppose... Mais c'est bizarre de toujours la voir en vie.
+
+newchat;key:visitors,weigth:10
+v1;0; Cet endroit est bizarre, il est rempli de gens étranges.
+v2;30;Tu veux dire des gens comme $name ?
+v1;60;Eh bien $name est seulement une personne, je veux dire tous les autres.
+
+newchat;key:endermen,weigth:10
+v1;0;As-tu entendu ce que disent les aînés à propos de ces grands, minces et effrayantes personnes ?
+v2;30;Qu'ils sont le peuple de l'ombre ? Je ne sais pas...
+v1;60;Ca a du sens pourtant ! Si nous sommes vraiment sur la terre sacrée ils seraient tordus comme ça !
+v2;90;Mais si nous sommes sur la terre sacrée pourquoi le peuple de l'ombre est-il seulement ici ?
+v2;120;Oh... euhhh, Je ne sais pas...
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;J'aime la neige.
+v2;42;C'est une bonne chose pour un inuit !
+
+newchat;key:meat,weigth:10
+v1;0;Je crois que nos magasins de viandes sont bientôt épuisés, Je déteste quand nous sommes à court de viande.
+v1;30;La viande n'est pas la même chose que les ragoûts...
+v2;60;Mais la plupart des ragoûts contiennent de la viande ?
+v1;90;Oui, mais ce n'est seulement pas la même chose...
+
+newchat;key:carribou,weigth:10
+v1;0;Où sont tous les caribous ? la viande de caribou me manque.
+v2;30;Nous avons beaucoup chassé, mais nous n'avons jamais trouvé de caribous.
+v2;60;Nous avons trouvés pleins de ces animaux ressemblant aux bisons pourtant !
+v1;60;Beurk, je déteste le bison, le caribou est meilleur.
+v2;90;Eh bien prends du poisson alors, nous en avons plein.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Il n'y a pas grand chose à faire par ici.
+v2;30;C'est bien, c'est apaisant.
+v1;60;Et ennuyant...
+v2;75;Tu pourrais creuser un trou, ou construire un igloo !
+v1;110;Mon propre igloo !?
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;J'envie les chamans, je souhaiterais parler aux esprits comme ils le font.
+v2;30;Tu peux voir pour le chaman puisse t'apprendre ?
+v1;60;Peut-être... Mais certains esprits sont effrayants.
+v2;70;C'est vrai, il y aura toujours d'effrayants esprits auxquels il faut faire attention.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mon papa est beaucoup plus fort que le tien !
+v2;30;Mon papa est le plus fort du village nounouille !
+v1;60;Rêve toujours. Mon papa peut battre le tien en même pas deux minutes.
+
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Alors, beautée, que fais tu ce soir ?
+v2;40;$targetfirstname, Je te l'ai déjà dit, je suis promise à un autre !
+
+newchat;key:hunting,weigth:10
+v1;0;J'ai encore amélioré mes compétences.
+v2;30;Tu vas bientôt devenir un grand chasseur !
+v1;90;Tu le penses vraiment ?
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;J'adore l'odeur de la viande qui cuit dans le four.
+v2;30;Je ne sais pas je préfère ma viande crue, ça change le goût.
+v1;60;Hey, j'aime bien ce goût !
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Beurk, regarde comment les bisons sont petits et chétifs ici.
+v2;42;Les marchands étrangers les appellent des , "vaches..?"

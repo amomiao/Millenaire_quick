@@ -1,0 +1,529 @@
+architect_byzantine.construction=$name! รู้ไหมว่าชาวโรมันคือสถาปนิกที่ดีที่สุด?
+architect_byzantine.construction=$name! ดูฉันสร้างโครงสร้างที่งดงามสิ
+architect_byzantine.construction=อาคารหลังนี้จะงดงามมาก!
+architect_byzantine.construction=ยังไม่เสร็จ แต่ฉันเห็นความงามในงานของฉันแล้ว
+architect_byzantine.construction=ฉันสร้างโครงสร้างที่ประณีตเช่นนี้ การก่อสร้างคือศิลปะที่งดงามที่สุด
+architect_byzantine.construction=กรุงโรมไม่ได้สร้างเสร็จในวันเดียว สร้างทีละบล็อก
+architect_byzantine.construction=สถาปัตยกรรมของเราเหนือกว่าอาคารอื่นๆ ทั่วโลก
+architect_byzantine.construction=การสร้างแบบโรมันคือวิธีที่ดีที่สุด
+architect_byzantine.construction=ชอบสไตล์ของฉันไหม?
+architect_byzantine.construction=ฉันสร้างอาคารมานานเสียจนจำไม่ได้ว่าเริ่มเมื่อไหร่ การก่อสร้างกลายเป็นชีวิตของฉันไปแล้ว
+
+architect_byzantine.getresourcesforbuild=หมู่บ้านได้บล็อกเหล่านี้มาจากไหน?
+architect_byzantine.getresourcesforbuild=ฉันต้องการบล็อกเพื่อสร้างโครงสร้างที่ดีที่สุด!
+architect_byzantine.getresourcesforbuild=การก่อสร้างทุกครั้งเริ่มต้นที่บล็อก
+architect_byzantine.getresourcesforbuild=ฉันต้องคัดเลือกบล็อกด้วยตัวเองอย่างระมัดระวัง
+architect_byzantine.getresourcesforbuild=$name คุณแบกบล็อกได้ตั้งเยอะตอนสร้างได้ยังไง?
+architect_byzantine.getresourcesforbuild=ส่วนที่แย่ที่สุดของการก่อสร้างคือการหาบล็อก
+
+architect_byzantine.godrink=พอกับการก่อสร้างแล้ว! ฉันต้องการไวน์!
+architect_byzantine.godrink=ฉันต้องการเครื่องดื่มสักแก้วเพื่อจุดประกายแรงบันดาลใจ!
+architect_byzantine.godrink=สถาปนิกที่ดีทุกคนต้องการเครื่องดื่มในตอนสิ้นวัน
+architect_byzantine.godrink=การก่อสร้างทำให้ฉันกระหายไวน์
+
+architect_byzantine.gopray=ฉันหวังว่าพระเจ้าจะประทานแรงบันดาลใจสำหรับอาคารหลังต่อไปของฉัน!
+architect_byzantine.gopray=ทำไมพระเจ้าจึงทรงทำให้ฉันเป็นสถาปนิก?
+architect_byzantine.gopray=การสวดมนต์เป็นส่วนสำคัญของการก่อสร้างแบบโรมัน
+architect_byzantine.gopray=พระองค์ทรงเข้าใจปัญหาของสถาปนิก
+
+architect_byzantine.gorest=ถ้าฉันไม่นอน ฉันอาจสร้างอาคารพลาดได้
+architect_byzantine.gorest=ฉันสร้างไม่ได้ตอนเหนื่อย
+architect_byzantine.gorest=การสร้างในที่มืดเป็นเรื่องยาก
+architect_byzantine.gorest=วันนี้ฉันเลิกสร้างแล้ว
+architect_byzantine.gorest=บางทีฉันอาจฝันถึงการสร้างอาคารที่ดีที่สุดในโลก!
+
+architect_byzantine.gosocialise=ไม่มีใครในหมู่บ้านนี้เข้าใจปัญหาของการก่อสร้าง
+architect_byzantine.gosocialise=สถาปนิกทุกคนต้องการแรงบันดาลใจจากผู้อื่น
+architect_byzantine.gosocialise=สถาปนิกต้องการคำติชมเพื่อเติบโต
+architect_byzantine.gosocialise=หมู่บ้านคิดอย่างไรกับอาคารที่ฉันสร้าง?
+
+//armysmith_byzantine.MakeIndianTools=Roman tools are the best in world.
+armysmith_byzantine.makebyzantinemace=อย่าโจมตีใครก็ตามที่ใช้อาวุธของฉัน
+armysmith_byzantine.makebyzantinemace=กระบองนี้จะส่งพวกป่าเถื่อนกระเด็นไปไกล!
+armysmith_byzantine.makebyzantinemace=การตีกระบองยากกว่าการใช้กระบองเสียอีก
+armysmith_byzantine.makebyzantinemace=กองทัพต้องการกระบอง
+
+armysmith_byzantine.gopray=ช่างเหล็กที่ดีต้องสวดมนต์เป็นครั้งคราว
+armysmith_byzantine.gopray=ทำไมพระเจ้าจึงทรงทำให้ฉันเป็นช่างเหล็ก?
+armysmith_byzantine.gopray=การสวดมนต์เป็นส่วนสำคัญของงานช่างโรมัน
+armysmith_byzantine.gopray=พระองค์ทรงเข้าใจปัญหาของช่างเหล็ก
+
+armysmith_byzantine.gorest=พรุ่งนี้ฉันจะตีของสวยๆ มากขึ้น!
+armysmith_byzantine.gorest=วันนี้ฉันเลิกตีแล้ว
+armysmith_byzantine.gorest=บางทีฉันอาจฝันถึงการตีอาวุธที่ดีที่สุดในโลก!
+armysmith_byzantine.gorest=บางทีฉันอาจฝันถึงการตีเกราะที่ดีที่สุดในโลก!
+armysmith_byzantine.gorest=บางทีฉันอาจฝันถึงการตีเครื่องมือที่ดีที่สุดในโลก!
+
+armysmith_byzantine.gosocialise=ฉันจะไปถามดูว่ามีใครต้องการให้ฉันตีอะไรไหม
+armysmith_byzantine.gosocialise=หวังว่าชาวบ้านจะชอบเครื่องมือของฉัน
+
+armysmith_byzantine.godrink=พอกับงานช่างแล้ว! ฉันต้องการไวน์!
+armysmith_byzantine.godrink=ฉันต้องการเครื่องดื่มสักแก้วเพื่อจุดประกายแรงบันดาลใจ!
+armysmith_byzantine.godrink=ช่างเหล็กที่ดีทุกคนต้องการเครื่องดื่มในตอนสิ้นวัน
+armysmith_byzantine.godrink=งานช่างทำให้ฉันกระหายไวน์
+
+armysmith_byzantine.makearrow=$name คุณใช้ลูกธนูมากไหมในการผจญภัย?
+armysmith_byzantine.makearrow=ธนูทุกคันต้องการลูกธนูที่ปราณีต
+armysmith_byzantine.makearrow=ลูกธนูทุกดอกที่ฉันตีจะทำร้ายศัตรูของจักรวรรดิหนึ่งคน
+armysmith_byzantine.makearrow=กองทัพโรมันต้องการลูกธนูเพื่อปกป้องเราจากคนต่างถิ่น
+
+armysmith_byzantine.makebow=กองทัพโรมันต้องการธนู
+armysmith_byzantine.makebow=เฮ้! ชอบธนูของฉันไหม $name?
+armysmith_byzantine.makebow=ธนูที่ดีทุกคันมาจากไม้ที่ดีที่สุด
+armysmith_byzantine.makebow=ธนูคันนี้จะปราบคนป่าเถื่อนได้มากมาย ฉันเป็นช่างทำธนูชั้นเยี่ยมจริงๆ
+
+armysmith_byzantine.makebyzantineboots=กองทัพโรมันต้องการรองเท้าบู๊ต!
+armysmith_byzantine.makebyzantineboots=ชาวโรมันตีรองเท้าบู๊ตที่ดีที่สุดในโลก
+armysmith_byzantine.makebyzantineboots=ต้องมีใครสักคนตีรองเท้าบู๊ตให้เหล่าทหาร...
+armysmith_byzantine.makebyzantineboots=พวกเราตีรองเท้าบู๊ตที่ดีที่สุด
+armysmith_byzantine.makebyzantineboots=เฮ้! ชอบรองเท้าบู๊ตของฉันไหม $name?
+armysmith_byzantine.makebyzantineboots=ฉันรู้สึกเหมือนเป็นช่างทำรองเท้าที่ถูกยกย่องเกินจริง
+armysmith_byzantine.makebyzantineboots=การตีเกราะทุกชิ้นล้วนสำคัญ แม้แต่รองเท้าบู๊ตที่ใส่เดิน!
+
+armysmith_byzantine.makebyzantinechest=กองทัพโรมันต้องการเกราะอก!
+armysmith_byzantine.makebyzantinechest=ชาวโรมันตีเกราะอกที่ดีที่สุดในโลก
+armysmith_byzantine.makebyzantinechest=เฮ้! ชอบเกราะของฉันไหม $name?
+armysmith_byzantine.makebyzantinechest=พวกเราตีเกราะที่ดีที่สุด
+armysmith_byzantine.makebyzantinechest=เกราะนี้น่าจะรับการโจมตีได้มากกว่าที่คุณรับได้
+armysmith_byzantine.makebyzantinechest=รู้สึกเหมือนเป็นช่างทำเสื้อที่ถูกยกย่องเกินจริง
+
+armysmith_byzantine.makebyzantinehelmet=กองทัพโรมันต้องการหมวกเกราะ!
+armysmith_byzantine.makebyzantinehelmet=ต้องมีใครสักคนตีหมวกเกราะให้เหล่าทหาร...
+armysmith_byzantine.makebyzantinehelmet=ชาวโรมันตีรองเท้าบู๊ตที่ดีที่สุดในโลก
+armysmith_byzantine.makebyzantinehelmet=เฮ้! ชอบหมวกเกราะของฉันไหม $name?
+armysmith_byzantine.makebyzantinehelmet=พวกเราตีหมวกเกราะที่ดีที่สุด
+armysmith_byzantine.makebyzantinehelmet=รู้สึกเหมือนเป็นช่างทำหมวกที่ถูกยกย่องเกินจริง
+
+armysmith_byzantine.makebyzantinelegs=กองทัพโรมันต้องการเลกกิ้งส์!
+armysmith_byzantine.makebyzantinelegs=ต้องมีใครสักคนตีเลกกิ้งส์ให้เหล่าทหาร...
+armysmith_byzantine.makebyzantinelegs=ชาวโรมันตีเลกกิ้งส์ที่ดีที่สุดในโลก
+armysmith_byzantine.makebyzantinelegs=เฮ้! ชอบเลกกิ้งส์ของฉันไหม $name?
+armysmith_byzantine.makebyzantinelegs=พวกเราตีเลกกิ้งส์ที่ดีที่สุด
+armysmith_byzantine.makebyzantinelegs=รู้สึกเหมือนเป็นช่างทำกางเกงที่ถูกยกย่องเกินจริง
+
+armysmith_byzantine.makesteelaxe=คุณตัดต้นไม้ไม่ได้ถ้าไม่มีขวาน!
+armysmith_byzantine.makesteelaxe=ฉันตีขวานที่น่าทึ่ง
+armysmith_byzantine.makesteelaxe=ขวานโรมันคือหนึ่งในขวานที่ดีที่สุดในโลก!
+armysmith_byzantine.makesteelaxe=พวกคนตัดไม้ต้องการให้พวกเราตีขวานให้พวกเขา
+armysmith_byzantine.makesteelaxe=คุณตีขวานของคุณยังไง $name?
+
+armysmith_byzantine.makesteelhoe=คุณทำไร่ไม่ได้ถ้าไม่มีเครื่องมือทำไร่!
+armysmith_byzantine.makesteelhoe=ฉันตีเครื่องมือทำไร่ที่น่าทึ่ง
+armysmith_byzantine.makesteelhoe=เครื่องมือทำไร่ของชาวโรมันคือหนึ่งในที่ดีที่สุดในโลก!
+armysmith_byzantine.makesteelhoe=ชาวนาต้องการให้พวกเราตีเครื่องมือให้พวกเขา
+armysmith_byzantine.makesteelhoe=คุณตีเครื่องมือทำไร่ของคุณยังไง $name?
+
+armysmith_byzantine.makesteelpickaxe=คุณขุดเหมืองไม่ได้ถ้าไม่มีอีเต้อ!
+armysmith_byzantine.makesteelpickaxe=ฉันตีอีเต้อที่แข็งแกร่ง
+armysmith_byzantine.makesteelpickaxe=อีเต้อโรมันคือหนึ่งในอีเต้อที่ดีที่สุดในโลก!
+armysmith_byzantine.makesteelpickaxe=พวกคนงานเหมืองต้องการให้พวกเราตีอีเต้อให้พวกเขา
+armysmith_byzantine.makesteelpickaxe=คุณตีอีเต้อของคุณยังไง $name?
+
+armysmith_byzantine.makesteelshovel=คุณสร้างหรือขุดไม่ได้ถ้าไม่มีพลั่ว!
+armysmith_byzantine.makesteelshovel=ฉันตีพลั่วที่ทนทาน
+armysmith_byzantine.makesteelshovel=พลั่วโรมันคือหนึ่งในพลั่วที่ดีที่สุดในโลก!
+armysmith_byzantine.makesteelshovel=สถาปนิกต้องการให้พวกเราตีพลั่วให้พวกเขา
+armysmith_byzantine.makesteelshovel=คุณตีพลั่วของคุณยังไง $name?
+
+//artisan_byzantine.makePainting=Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=ช่างฝีมือที่ดีต้องสวดมนต์เป็นครั้งคราว
+artisan_byzantine.gopray=ทำไมพระเจ้าจึงทรงทำให้ฉันเป็นช่างฝีมือ?
+artisan_byzantine.gopray=การสวดมนต์เป็นส่วนสำคัญของงานช่างโรมัน
+artisan_byzantine.gopray=พระองค์ทรงเข้าใจปัญหาของช่างฝีมือ
+
+artisan_byzantine.gorest=พรุ่งนี้ฉันจะทำของสวยๆ มากขึ้น!
+artisan_byzantine.gorest=วันนี้ฉันเลิกทำงานช่างแล้ว
+artisan_byzantine.gorest=บางทีฉันอาจฝันถึงการทำอิฐที่ดีที่สุดในโลก!
+artisan_byzantine.gorest=บางทีฉันอาจฝันถึงการทำกระเบื้องที่ดีที่สุดในโลก!
+
+artisan_byzantine.gosocialise=ฉันจะไปถามดูว่ามีใครต้องการให้ฉันทำอะไรไหม
+artisan_byzantine.gosocialise=ฉันหวังว่าหมู่บ้านจะชอบกระเบื้องของฉัน
+artisan_byzantine.gosocialise=หวังว่าชาวบ้านจะชอบอิฐของฉัน
+
+artisan_byzantine.godrink=พอกับงานช่างแล้ว! ฉันต้องการไวน์!
+artisan_byzantine.godrink=ฉันต้องการเครื่องดื่มสักแก้วเพื่อจุดประกายแรงบันดาลใจ!
+artisan_byzantine.godrink=ช่างฝีมือที่ดีทุกคนต้องการเครื่องดื่มในตอนสิ้นวัน
+artisan_byzantine.godrink=งานช่างทำให้ฉันกระหายไวน์
+
+artisan_byzantine.greeting=ฉันมีชีวิตที่ดีกว่าใครในหมู่บ้านนี้
+artisan_byzantine.greeting=สวัสดี $name! ต้องการบล็อกโรมันสุดพิเศษไหม?
+
+artisan_byzantine.makebrick=ต้องมีใครสักคนทำอิฐ
+artisan_byzantine.makebrick=หมู่บ้านต้องการให้ฉันทำอิฐสำหรับกำแพง
+artisan_byzantine.makebrick=อิฐโรมันคือหนึ่งในบล็อกที่งดงามที่สุดในโลก!
+artisan_byzantine.makebrick=เราทำงานเบื้องหลังในขณะที่นักก่อสร้างได้รับความดีความชอบทั้งหมด
+artisan_byzantine.makebrick=แม้แต่นักก่อสร้างที่เก่งที่สุดก็สร้างไม่ได้ถ้าไม่มีบล็อก
+artisan_byzantine.makebrick=ใครคิดเรื่องการเอาดินเหนียวมาทำเป็นอิฐกันนะ?
+
+artisan_byzantine.makebookshelves=ต้องมีใครสักคนวางหนังสือลงบนชั้น
+artisan_byzantine.makebookshelves=หมู่บ้านต้องการให้ฉันทำชั้นหนังสือ
+artisan_byzantine.makebookshelves=หนังสือโรมันคือหนึ่งในหนังสือที่อ่านดีที่สุดในโลก!
+artisan_byzantine.makebookshelves=เราทำงานเบื้องหลังในขณะที่นักเขียนได้รับความดีความชอบทั้งหมด
+artisan_byzantine.makebookshelves=บางครั้งฉันก็เปิดดูหนังสือก่อนวางบนชั้น อยากอ่านออกจัง
+artisan_byzantine.makebookshelves=ใครคิดเรื่องการจดจารลงเป็นลายลักษณ์อักษรกันนะ?
+
+artisan_byzantine.makebyzantinetiles=ต้องมีใครสักคนทำกระเบื้องหลังคา
+artisan_byzantine.makebyzantinetiles=หมู่บ้านต้องการให้ฉันทำหลังคาให้
+artisan_byzantine.makebyzantinetiles=กระเบื้องโรมันคือหนึ่งในบล็อกที่งดงามที่สุดในโลก!
+artisan_byzantine.makebyzantinetiles=เราทำงานเบื้องหลังในขณะที่นักก่อสร้างได้รับความดีความชอบทั้งหมด
+artisan_byzantine.makebyzantinetiles=แม้แต่นักก่อสร้างที่เก่งที่สุดก็สร้างไม่ได้ถ้าไม่มีบล็อก
+artisan_byzantine.makebyzantinetiles=ใครคิดเรื่องการเอาดินเหนียวมามุงหลังคากันนะ?
+
+artisanwife_byzantine.gopray=การสวดมนต์เป็นส่วนสำคัญของงานช่างโรมัน
+artisanwife_byzantine.gopray=ฉันหวังว่าพระเจ้าจะช่วยให้ฉันทำเสื้อผ้าที่ดีที่สุด!
+artisanwife_byzantine.gopray=ทำไมพระเจ้าจึงทรงสร้างภรรยาของสถาปนิก?
+
+artisanwife_byzantine.gosocialise=โอ้! ฉันเป็นคนทำเสื้อให้ผู้ชายคนนั้น!
+artisanwife_byzantine.gosocialise=ที่นี่ ฉันถูกรู้จักในฐานะภรรยาของสถาปนิก
+artisanwife_byzantine.gosocialise=เบื่อจะถูกเรียกว่า "ภรรยาสถาปนิก" เต็มทีแล้ว
+
+artisanwife_byzantine.makeclothes_byz_silk=ฉันทำเสื้อผ้าที่ดีที่สุดในหมู่บ้าน!
+artisanwife_byzantine.makeclothes_byz_silk=ไหมโรมันคือผ้าที่ดีที่สุดในโลก!
+artisanwife_byzantine.makeclothes_byz_silk=เสื้อผ้าไหมสำคัญกว่าการมีบ้านหรูเสียอีก
+artisanwife_byzantine.makeclothes_byz_silk=$name เคยใส่ไหมมาก่อนไหม?
+artisanwife_byzantine.makeclothes_byz_silk=ทุกคนต้องมีเสื้อผ้า โดยเฉพาะถ้าอยากเป็นคนศิวิไลซ์
+artisanwife_byzantine.makeclothes_byz_silk=ความงามที่แท้จริงไม่ได้อยู่ในก้อนอิฐ แต่อยู่ในเสื้อผ้า
+artisanwife_byzantine.makeclothes_byz_silk=มีเหตุผลว่าทำไมคนที่ทอผ้าคือฉัน ไม่ใช่สามี
+artisanwife_byzantine.makeclothes_byz_silk=การทอเสื้อผ้าไหมเป็นงานสำหรับสตรีชั้นสูงเท่านั้น
+artisanwife_byzantine.makeclothes_byz_silk=ดีใจที่ได้ทำงานจริงๆ เสียที
+
+artisanwife_byzantine.makeclothes_byz_wool=ฉันทำเสื้อผ้าขนสัตว์ที่ดีที่สุดในหมู่บ้าน!
+artisanwife_byzantine.makeclothes_byz_wool=เสื้อผ้าดีๆ สำคัญกว่าการมีบ้านหรูเสียอีก
+artisanwife_byzantine.makeclothes_byz_wool=$name เคยใส่ขนสัตว์มาก่อนไหม?
+artisanwife_byzantine.makeclothes_byz_wool=ความงามที่แท้จริงไม่ได้อยู่ในก้อนอิฐ แต่อยู่ในเสื้อผ้า
+artisanwife_byzantine.makeclothes_byz_wool=ทุกคนต้องมีเสื้อผ้า โดยเฉพาะถ้าอยากเป็นคนศิวิไลซ์
+artisanwife_byzantine.makeclothes_byz_wool=มีเหตุผลว่าทำไมคนที่ทอผ้าคือฉัน ไม่ใช่สามี
+artisanwife_byzantine.makeclothes_byz_wool=ไม่ใช่ผู้หญิงทุกคนจะทอขนสัตว์ได้
+artisanwife_byzantine.makeclothes_byz_wool=ดีใจที่ได้ทำงานจริงๆ เสียที
+
+artisanwife_byzantine.delivergoodshousehold=งานพวกนี้คือสิ่งเดียวที่ฉันทำได้ที่นี่
+artisanwife_byzantine.gethousethresources=ในที่สุดสามีฉันก็เอาเสบียงกลับมาตามที่บอก
+artisanwife_byzantine.getgoodshousehold=ได้เวลาดูแลครอบครัวแล้ว
+artisanwife_byzantine.greeting=ฉันคงทำอะไรได้อีกมากที่นี่ ถ้าฉันเป็นผู้ชาย... ถ้าเพียงแต่...
+artisanwife_byzantine.greeting=หน้าที่ของเราคือคุมผู้ชายของเรา
+
+baron_byzantine.greeting=$name หมู่บ้านของฉันมีสินค้าที่ดีที่สุดวางขาย!
+baron_byzantine.greeting=สวัสดี นักเดินทางผู้มั่งคั่ง!
+baron_byzantine.greeting=อยากช่วยดูแลพวกชาวนาไหม $name?
+
+baron_byzantine.godrink=พอกับการปกครองแล้ว! ฉันต้องการดื่มอะไรสักหน่อย
+baron_byzantine.godrink=ฉันสมควรได้ดื่มไวน์ที่ดีที่สุด!
+baron_byzantine.godrink=ฉันควรไปตรวจสอบว่าโรงเตี๊ยมมีกำไรหรือไม่
+baron_byzantine.godrink=ผู้มีอำนาจทุกคนต้องดื่ม ไม่งั้นจะตายเพราะความเครียด!
+
+baron_byzantine.gopray=ทำไมพระเจ้าจึงทรงทำให้ฉันเป็นบารอน?
+baron_byzantine.gopray=การสวดมนต์เป็นส่วนสำคัญของการปกครองแบบโรมัน
+baron_byzantine.gopray=พระองค์ทรงเข้าใจปัญหาของบารอน
+baron_byzantine.gopray=หมู่บ้านต้องการคำตอบจากพระเจ้า!
+
+baron_byzantine.gorest=พอกับการดูแลพวกชาวนาแล้ว! ฉันต้องนอน
+baron_byzantine.gorest=*หาว* นำพวกชาวนาไม่ได้ถ้าเหนื่อย
+baron_byzantine.gorest=ได้เวลาหลับใต้ผ้าห่มไหมของฉันแล้ว
+baron_byzantine.gorest=ทุกคนต้องการการพักผ่อน โดยเฉพาะเมื่อเป็นผู้นำของหมู่บ้าน
+
+baron_byzantine.gosocialise=ทำไมพวกชาวนาโง่ๆ ถึงมองฉันเป็นแค่ "บารอน"?
+baron_byzantine.gosocialise=เห่ๆๆ ลองดูซิว่าเขาจ่ายภาษีแล้วหรือยัง
+baron_byzantine.gosocialise=ได้เวลาเป็นแรงบันดาลใจให้คนยากจนเพื่อหาเดนาร์!
+baron_byzantine.gosocialise=ฉันต้องพูดกับสามัญชนด้วยเหรอ?
+baron_byzantine.gosocialise=ในฐานะบารอน ฉันต้องพูดคุยกับประชาชน แม้จะไม่อยากก็ตาม
+
+baron_byzantine.inspectconstruction=ฉันต้องแน่ใจว่าพวกชาวนาไม่ทำอะไรเสียหาย
+baron_byzantine.inspectconstruction=อาคารหลังนี้จะนำผลกำไรมาสู่หมู่บ้านของฉัน
+baron_byzantine.inspectconstruction=ความงามคือการได้เห็นหมู่บ้านของคุณร่ำรวยขึ้น
+baron_byzantine.inspectconstruction=ฉันรู้ว่ากรุงโรมไม่ได้สร้างเสร็จในวันเดียว แต่ทำไมสถาปนิกของฉันถึงช้านัก?
+baron_byzantine.inspectconstruction=เป็นหน้าที่ของฉันที่ต้องดูแลให้อาคารถูกสร้างอย่างถูกต้อง
+baron_byzantine.inspectconstruction=สถาปนิกของฉันมักทำงานได้ดี แต่ฉันก็ต้องคอยตรวจสอบอยู่เสมอ
+
+boy_byzantine.becomeadult=ได้เวลากลายเป็นชายฉกรรจ์แล้ว!
+boy_byzantine.becomeadult=ฉันโตพอที่จะทำงานแล้ว!
+boy_byzantine.becomeadult=ตอนนี้ฉันต้องการงาน
+boy_byzantine.becomeadult=วันแห่งความเป็นเด็กของฉันสิ้นสุดลงแล้ว
+
+boy_byzantine.goplay=ฉันอยากต่อสู้กับใครสักคน!
+boy_byzantine.goplay=ฉันอยากเล่น "สู้กับพวกป่าเถื่อน"!
+boy_byzantine.goplay=ฉันจะแสดงให้ทุกคนเห็นว่าฉันตัวใหญ่และแข็งแรง!
+boy_byzantine.goplay=ได้เวลาเล่น "ทหาร" แล้ว
+
+boy_byzantine.gopray=ฉันอยากเรียนรู้เรื่องพระเจ้า!
+boy_byzantine.gopray=พระเจ้าจะเล่าเรื่องผู้ใหญ่ให้ฉันฟังได้ไหม?
+boy_byzantine.gopray=ฉันต้องสวดมนต์ยังไง?
+boy_byzantine.gopray=ไม่อยากสวดมนต์! อยากไปเล่นมากกว่า!
+
+boy_byzantine.childobservesmithing=โตขึ้นฉันจะเป็นช่างเหล็กด้วย หรือไม่ก็ทหาร หรือนายพล!
+
+centurio_byzantine.godrink=ผู้มีอำนาจทุกคนต้องดื่ม ไม่งั้นจะตายเพราะความเครียด!
+centurio_byzantine.godrink=ในฐานะทหาร ฉันต้องการไวน์ ในฐานะสตราเตกอส ยิ่งต้องการมากขึ้นไปอีก
+centurio_byzantine.godrink=ต้องผ่อนคลายบ้าง ไม่งั้นจะไร้ประโยชน์เมื่อพวกป่าเถื่อนบุกมา
+
+centurio_byzantine.gopray=ทำไมพระเจ้าจึงทรงทำให้ฉันเป็นสตราเตกอส?
+centurio_byzantine.gopray=การสวดมนต์เป็นส่วนสำคัญของการสงครามแบบโรมัน
+centurio_byzantine.gopray=พระองค์ทรงเข้าใจปัญหาของสตราเตกอส
+centurio_byzantine.gopray=กองทัพต้องการคำตอบจากพระเจ้า!
+
+centurio_byzantine.gorest=พอกับการดูแลเหล่าทหารแล้ว! ฉันต้องนอน
+centurio_byzantine.gorest=ได้เวลาถอดเกราะแล้วไปนอน
+centurio_byzantine.gorest=*หาว* นำเหล่าทหารไม่ได้ถ้าเหนื่อย
+centurio_byzantine.gorest=ทุกคนต้องการการพักผ่อน โดยเฉพาะเมื่อเป็นผู้นำของหมู่บ้าน
+
+centurio_byzantine.gosocialise=ได้เวลาเสริมขวัญกำลังใจให้เหล่าทหาร!
+centurio_byzantine.gosocialise=วิธีที่ดีในการได้รับความภักดีคือการปรึกษาประชาชนของเรา
+centurio_byzantine.gosocialise=ฉันต้องการทหารใหม่เพิ่มสำหรับกองทัพ!
+centurio_byzantine.gosocialise=ผู้ใต้บังคับบัญชาของฉันต้องรู้แผนการป้องกันของฉัน
+centurio_byzantine.gosocialise=ผู้ใต้บังคับบัญชาของฉันต้องรู้แผนการบุกของฉัน
+centurio_byzantine.gosocialise=ประชาชนต้องเข้าใจภัยคุกคามจากการโจมตีของพวกป่าเถื่อน!
+centurio_byzantine.gosocialise=ต้องเตือนทุกคนให้พร้อมรบทุกเมื่อ!
+
+centurio_byzantine.huntmonster=แม้จะเป็นสตราเตกอส ฉันก็ยังต้องไม่ปล่อยให้ฝีมือนักรบเป็นสนิม
+centurio_byzantine.huntmonster=ผู้ใต้บังคับบัญชาของฉันอยู่ไหน? พวกเขาควรจะทำสิ่งนี้
+centurio_byzantine.huntmonster=ฉันคือสตราเตกอสแห่งจักรวรรดิโรมัน คิดจะสู้กับฉันงั้นเหรอ? ฮ่า!
+
+centurio_byzantine.inspectconstruction=ความงามคือการเห็นหมู่บ้านแข็งแกร่งขึ้น
+
+farmiller_wife_byzantine.delivergoodshousehold=งานพวกนี้คือสิ่งเดียวที่ฉันทำได้ที่นี่
+farmiller_wife_byzantine.gethousethresources=ในที่สุดสามีฉันก็เอาเสบียงกลับมาตามที่บอก
+farmiller_wife_byzantine.getgoodshousehold=ได้เวลาดูแลครอบครัวแล้ว
+farmiller_wife_byzantine.greeting=ฉันคงทำอะไรได้อีกมากที่นี่ ถ้าฉันเป็นผู้ชาย... ถ้าเพียงแต่...
+farmiller_wife_byzantine.greeting=หน้าที่ของเราคือคุมผู้ชายของเรา
+
+girl_byzantine.childobserveproducefood=ดีนะที่ผู้ชายไม่ทำอาหาร ไม่งั้นคงไหม้หมด
+
+keeperbirch_byzantine.greeting=ที่นี่น่าเบื่อจริงๆ ไม่เคยมีอะไรเกิดขึ้นเลย...
+keeperbirch_byzantine.greeting=เป็นหน้าที่ของฉันที่ต้องเฝ้าพื้นที่เหล่านี้
+keeperbirch_byzantine.greeting=สวัสดี นักเดินทาง ฉันสงสัยจังว่าคุณมาถึงที่ห่างไกลแบบนี้ได้ยังไง
+keeperbirch_byzantine.greeting=ใครจะคิดได้นะว่าควรมีคนประจำการตรงนี้...
+
+keeperoak_byzantine.greeting=ผู้คนที่นี่ ที่เรียกตัวเองว่านอร์มัน ทำให้ฉันนึกถึงจักรวรรดิอันรุ่งโรจน์ของเรา
+keeperoak_byzantine.greeting=ที่นี่น่าเบื่อจริงๆ ไม่เคยมีอะไรเกิดขึ้นเลย...
+keeperoak_byzantine.greeting=เป็นหน้าที่ของฉันที่ต้องเฝ้าพื้นที่เหล่านี้
+keeperoak_byzantine.greeting=สวัสดี นักเดินทาง ฉันสงสัยจังว่าคุณมาถึงที่ห่างไกลแบบนี้ได้ยังไง
+keeperoak_byzantine.greeting=ใครจะคิดได้นะว่าควรมีคนประจำการตรงนี้...
+
+keeperpine_byzantine.greeting=อากาศหนาวนี่ช่างน่ากลัว ไม่แปลกใจที่ไม่มีใครอยู่แถวนี้
+keeperpine_byzantine.greeting=ที่นี่น่าเบื่อจริงๆ ไม่เคยมีอะไรเกิดขึ้นเลย...
+keeperpine_byzantine.greeting=เป็นหน้าที่ของฉันที่ต้องเฝ้าพื้นที่เหล่านี้
+keeperpine_byzantine.greeting=สวัสดี นักเดินทาง ฉันสงสัยจังว่าคุณมาถึงที่ห่างไกลแบบนี้ได้ยังไง
+keeperpine_byzantine.greeting=ใครจะคิดได้นะว่าควรมีคนประจำการตรงนี้...
+
+keepertropical_byzantine.greeting=ที่นี่น่าเบื่อจริงๆ ไม่เคยมีอะไรเกิดขึ้นเลย...
+keepertropical_byzantine.greeting=เป็นหน้าที่ของฉันที่ต้องเฝ้าพื้นที่เหล่านี้
+keepertropical_byzantine.greeting=ที่นี่ร้อนจัง ฉันไม่เข้าใจเลยว่าทำไมพวกอินเดียจึงอยู่ในดินแดนแบบนี้
+keepertropical_byzantine.greeting=เคยเห็นพวกมายาที่แปลกประหลาดบ้างไหม? อาคารของพวกเขาดูเหมือนจะถล่มได้ทุกเมื่อ
+keepertropical_byzantine.greeting=สวัสดี นักเดินทาง ฉันสงสัยจังว่าคุณมาถึงที่ห่างไกลแบบนี้ได้ยังไง
+keepertropical_byzantine.greeting=ใครจะคิดได้นะว่าควรมีคนประจำการตรงนี้...
+
+lumberman_byzantine.bringbackresourceshome=หวังว่านี่จะพอให้หมู่บ้านเจริญรุ่งเรือง!
+lumberman_byzantine.bringbackresourceshome=ฉันเป็นคนตัดไม้ที่ประสบความสำเร็จมาก กระเป๋าฉันเต็มไปด้วยซุง!
+lumberman_byzantine.bringbackresourceshome=ฉันแบกต้นไม้มากมาย แต่ด้วยเหตุผลบางอย่าง มันไม่หนักเลย
+lumberman_byzantine.bringbackresourceshome=งานนี้ทำได้ดี
+lumberman_byzantine.bringbackresourceshome=ภรรยาของฉันต้องภูมิใจกับไม้ทั้งหมดที่ฉันนำกลับมา
+
+lumberman_byzantine.choptrees=ทุกอาคารที่นี่ต้องใช้ไม้ และการหาไม้คืองานของฉัน!
+lumberman_byzantine.choptrees=ต้นไม้อีกต้นล้มลง ได้ไม้เพิ่มให้หมู่บ้าน!
+lumberman_byzantine.choptrees=ต้นไม้อีกต้นล้มลง ได้ไม้ให้หมู่บ้านอีกแล้ว!
+lumberman_byzantine.choptrees=$name เคยตัดต้นไม้มาก่อนไหม?
+lumberman_byzantine.choptrees=ไปฟันต้นไม้ต้นนั้นกันเถอะ!
+lumberman_byzantine.choptrees=ตายซะ! ฮ่าฮ่าฮ่า! ตาย! ตาย! ตาย! ฮ่า- โอ้ สวัสดี $name! ไม่มี... อะไรแปลกๆ... เกิดขึ้นที่นี่นะ
+lumberman_byzantine.choptrees=ฉันไม่อยากฆ่าเธอ แต่ฉันต้องทำ... ลาก่อนต้นไม้!
+lumberman_byzantine.choptrees=เคยสงสัยไหม $name ว่าทำไมต้นไม้ที่ตัดแล้วถึงลอยอยู่ที่นี่? แปลกมาก ไม่ว่าทำยังไง มันก็ลอย ฉันต้องตัดต้นไม้จากบนลงล่างทีละนิด เจ็บปวดเหลือเกิน
+
+lumberman_byzantine.gathergoods=เฮ้ $name! อย่าหยิบไปนะ!
+lumberman_byzantine.gathergoods=ต้นไม้คราวนี้โตงาม ได้ทั้งซุงและต้นกล้ามากมาย
+lumberman_byzantine.gathergoods=หวังว่าหมู่บ้านจะต้องใช้ซุงทั้งหมดนี้
+lumberman_byzantine.gathergoods=ต้นไม้ใหญ่จริงๆ! ตอนนี้หมู่บ้านได้ซุงไปใช้แล้ว
+lumberman_byzantine.gathergoods=ดูซุงและต้นกล้าใหม่ที่ฉันได้จากการตัดต้นไม้สิ!
+lumberman_byzantine.gathergoods=ต้นกล้าสวยอยู่ตรงนั้น
+
+lumberman_byzantine.plantsaplings=ต้นกล้าเหล่านี้เล็กจัง บางครั้งฉันก็ไม่อยากเชื่อว่ามันจะโตใหญ่ขนาดนั้น
+lumberman_byzantine.plantsaplings=เธอน่ารักจัง ต้นกล้าน้อยๆ ทำให้ฉันเกือบลืมว่าจะตัดเธอตอนโตขึ้น
+lumberman_byzantine.plantsaplings=$name อยากปลูกต้นกล้าไหม?
+lumberman_byzantine.plantsaplings=ต้นไม้ที่นี่โตเร็วมาก ไม่กี่วันก็จากต้นกล้าจิ๋วๆ กลายเป็นต้นไม้เต็มต้น
+lumberman_byzantine.plantsaplings=การปลูกเป็นงานที่ง่ายที่สุด แค่วางลงบนพื้นเท่านั้นเอง
+lumberman_byzantine.plantsaplings=อีกไม่นานนี่จะเป็นต้นไม้ใหญ่งดงาม! แล้วฉันก็จะตัดมันลง
+
+merchant_art.greeting=ไม่มีเมืองใดในโลกเทียบความงามและอำนาจของคอนสแตนติโนเปิลได้
+merchant_art.greeting=เราคือชาวโรมันแท้กลุ่มสุดท้าย!
+
+miner_byzantine.mining=งานของฉันคือการทุบหินและเอาหินไปถลุง แค่นั้นเอง
+miner_byzantine.mining=แขนฉันเจ็บเพราะใช้อีเต้อทุกวัน
+miner_byzantine.mining=บล็อกหนึ่ง บล็อกสอง บล็อกสาม บล็อกสี่ ไม่จบไม่สิ้น ทำเรื่องเดิมๆ ซ้ำไปซ้ำมา
+miner_byzantine.mining=บล็อกหนึ่ง บล็อกสอง บล็อกสาม-เดี๋ยว นั่นทองเหรอ? ใช่ไหม? ฉันเจอทอง! ทอง! ทอง! ฉันรวยแล้ว! ฮ่าฮ่า-โอ้ แค่เหล็กที่สะท้อนแสงผิดเหลี่ยม กลับไปขุดเหล็กกับถ่านต่อ...
+miner_byzantine.mining=แปดสิบบล็อก แปดสิบเอ็ดบล็อก แปดสิบสองบล็อก แปดสิบสามบล็อก...
+miner_byzantine.mining=เฮ้! เธอแบกบล็อกได้ตั้งเยอะและขุดเร็วได้ยังไง? ฉันต้องใช้เวลาหลายชั่วโมงทำสิ่งที่เธอทำได้ในวันเดียว
+miner_byzantine.mining=*ไอ* *ไอ* ฉันเกลียดการทำงานกับถ่านหิน
+miner_byzantine.mining=งานนี้ต้องใช้กำลังและความอึด แต่ไม่มีใครที่นี่สังเกตเห็นเลย...
+miner_byzantine.mining=ฉันภูมิใจที่ได้เป็นพลเมืองโรมันที่ทำงานเพื่อจักรวรรดิอันรุ่งโรจน์ แม้ในงานหนักเช่นนี้
+
+metropolit_byzantine.makebooks=หนังสือของฉันเป็นต้นฉบับที่ดีที่สุดอย่างหนึ่ง
+
+metropolit_byzantine.gopray=ทำไมพระเจ้าจึงทรงทำให้ฉันเป็นหนึ่งในผู้รับใช้ที่พระองค์ทรงโปรดที่สุด?
+metropolit_byzantine.gopray=ในฐานะปิตาธิการ ฉันต้องนำการสวดมนต์
+metropolit_byzantine.gopray=ฉันเข้าใจปัญหาที่พระองค์ทรงเผชิญ
+metropolit_byzantine.gopray=พระองค์ทรงเข้าใจปัญหาของปิตาธิการ
+metropolit_byzantine.gopray=หมู่บ้านต้องการคำตอบจากพระเจ้า!
+
+metropolit_byzantine.gorest=ทุกคนต้องการการพักผ่อน โดยเฉพาะเมื่อเป็นผู้นำของหมู่บ้าน
+metropolit_byzantine.gorest=*หาว* นำพระสงฆ์ไม่ได้ถ้าเหนื่อย
+
+metropolit_byzantine.inspectconstruction=ความงามคือการเห็นหมู่บ้านใกล้ชิดพระเจ้ามากขึ้น
+
+pastor_byzantine.makebooks=หนังสือของฉันเป็นต้นฉบับที่ดีที่สุดอย่างหนึ่ง
+
+//smith_byzantine.MakeIndianTools=Roman tools are the best in world.
+
+smith_byzantine.gopray=ช่างเหล็กที่ดีต้องสวดมนต์เป็นครั้งคราว
+smith_byzantine.gopray=ทำไมพระเจ้าจึงทรงทำให้ฉันเป็นช่างเหล็ก?
+smith_byzantine.gopray=การสวดมนต์เป็นส่วนสำคัญของงานช่างโรมัน
+smith_byzantine.gopray=พระองค์ทรงเข้าใจปัญหาของช่างเหล็ก
+
+smith_byzantine.gorest=พรุ่งนี้ฉันจะตีของสวยๆ มากขึ้น!
+smith_byzantine.gorest=วันนี้ฉันเลิกตีแล้ว
+smith_byzantine.gorest=บางทีฉันอาจฝันถึงการตีเครื่องมือที่ดีที่สุดในโลก!
+
+smith_byzantine.gosocialise=ฉันจะไปถามดูว่ามีใครต้องการให้ฉันตีอะไรไหม
+smith_byzantine.gosocialise=หวังว่าชาวบ้านจะชอบเครื่องมือของฉัน
+
+smith_byzantine.godrink=พอกับงานช่างแล้ว! ฉันต้องการไวน์!
+smith_byzantine.godrink=ฉันต้องการเครื่องดื่มสักแก้วเพื่อจุดประกายแรงบันดาลใจ!
+smith_byzantine.godrink=ช่างเหล็กที่ดีทุกคนต้องการเครื่องดื่มในตอนสิ้นวัน
+smith_byzantine.godrink=งานช่างทำให้ฉันกระหายไวน์
+
+smith_byzantine.makesteelaxe=คุณตัดต้นไม้ไม่ได้ถ้าไม่มีขวาน!
+smith_byzantine.makesteelaxe=ฉันตีขวานที่น่าทึ่ง
+smith_byzantine.makesteelaxe=ขวานโรมันคือหนึ่งในขวานที่ดีที่สุดในโลก!
+smith_byzantine.makesteelaxe=พวกคนตัดไม้ต้องการให้พวกเราตีขวานให้พวกเขา
+smith_byzantine.makesteelaxe=คุณตีขวานของคุณยังไง $name?
+
+smith_byzantine.makesteelhoe=คุณทำไร่ไม่ได้ถ้าไม่มีเครื่องมือทำไร่!
+smith_byzantine.makesteelhoe=ฉันตีเครื่องมือทำไร่ที่น่าทึ่ง
+smith_byzantine.makesteelhoe=เครื่องมือทำไร่ของชาวโรมันคือหนึ่งในที่ดีที่สุดในโลก!
+smith_byzantine.makesteelhoe=ชาวนาต้องการให้พวกเราตีเครื่องมือให้พวกเขา
+smith_byzantine.makesteelhoe=คุณตีเครื่องมือทำไร่ของคุณยังไง $name?
+
+smith_byzantine.makesteelpickaxe=คุณขุดเหมืองไม่ได้ถ้าไม่มีอีเต้อ!
+smith_byzantine.makesteelpickaxe=ฉันตีอีเต้อที่แข็งแกร่ง
+smith_byzantine.makesteelpickaxe=อีเต้อโรมันคือหนึ่งในอีเต้อที่ดีที่สุดในโลก!
+smith_byzantine.makesteelpickaxe=คนงานเหมืองต้องการให้เราทำอีเต้อให้พวกเขา
+smith_byzantine.makesteelpickaxe=คุณตีอีเต้อของคุณยังไง $name?
+
+smith_byzantine.makesteelshovel=คุณสร้างหรือขุดไม่ได้ถ้าไม่มีพลั่ว!
+smith_byzantine.makesteelshovel=ฉันตีพลั่วที่ทนทาน
+smith_byzantine.makesteelshovel=พลั่วโรมันคือหนึ่งในพลั่วที่ดีที่สุดในโลก!
+smith_byzantine.makesteelshovel=สถาปนิกต้องการให้พวกเราตีพลั่วให้พวกเขา
+smith_byzantine.makesteelshovel=คุณตีพลั่วของคุณยังไง $name?
+
+villager.greeting=สวัสดี $name!
+villager.greeting=วันนี้อากาศดีนะ ว่าไหม?
+villager.greeting=ฝนจะตกในไม่ช้า
+villager.greeting=ไม่มีเมืองใดในโลกเทียบคอนสแตนติโนเปิลได้
+villager.greeting=เราไม่ใช่กรีก เราเป็นโรมัน
+villager.greeting=เราคือชาวโรมันแท้กลุ่มสุดท้าย
+villager.greeting=อาบในแสงแห่งอารยธรรมของเราในระหว่างที่อยู่ที่นี่
+villager.greeting=ยินดีต้อนรับสู่หมู่บ้าน $name!
+villager.greeting=ดูสิ! นั่น $name!
+villager.greeting=เราคือชาวโรมันแท้กลุ่มสุดท้าย อาบในแสงแห่งอารยธรรมของเรา
+
+villager.becomeadult=ในที่สุด ฉันก็ได้เป็นพลเมืองโรมัน!
+
+villager.huntmonster=ต้องสังหารคนป่าเถื่อนตัวนี้!
+
+villager.goplay=ฉันว่าจะออกไปเล่นข้างนอก
+villager.goplay=ฉันจะไปเล่นละ
+villager.goplay=$name! อยากเล่นกับฉันไหม?
+villager.goplay=อยากวิ่งเล่น!
+
+villager.calltoarms=จักรวรรดิโรมันถูกโจมตี! จับอาวุธ!
+villager.calltoarms=พวกป่าเถื่อนมาแล้ว! ปกป้องหมู่บ้านสุดชีวิต!
+
+villager.childeatgrapes=สาบานเลย องุ่นพวกนี้ร่วงเอง!
+
+villager.childobservevines=ผู้ใหญ่ควรเลิกเอาองุ่นอร่อยๆ ไปทำไวน์ที่น่ารังเกียจนั่นเสียที!
+villager.childobserveconstruction=สักวันฉันจะไปเยือนคอนสแตนติโนเปิล เพื่อดูว่าอาคารโรมันของจริงเป็นยังไง!
+villager.childobserveproducealcohol=เคยลองชิมไวน์ครั้งหนึ่ง น่าขยะแขยง
+
+villager.gorest=ถ้าฉันไม่นอน อุบัติเหตุอาจเกิดขึ้นได้
+villager.gorest=ฉันเหนื่อยแล้ว ฉันจะกลับบ้านไปนอน
+villager.gorest=ฉันจะไปนอนแล้ว
+
+villager.makebread=ขนมปังหอมแล้ว...
+
+villager.gopray=ฉันถูกนำทางโดยพระบิดาผู้ศักดิ์สิทธิ์
+villager.gopray=โอ้พระเจ้า ผู้ทรงสถิตในสวรรค์ และทรงเปี่ยมเมตตา
+villager.gopray=บุรุษบูชา นักบวชขับขาน!
+villager.gopray=ขอสรรเสริญพระแม่พรหมจรรย์!
+villager.gopray=โอ้พระแม่มารีย์ผู้ศักดิ์สิทธิ์ ผู้บัญชาแห่งชัยชนะ!
+villager.gopray=พระองค์ผู้ทรงช่วยข้าจากความชั่ว ข้าขอขอบพระคุณ...
+villager.gopray=เหล่าผู้ศรัทธาจะอธิษฐานเพื่อคุณ ตราบนิรันดร์กาล อาเมน
+
+villager.godrink=ได้เวลาไปหาไวน์โรมันเย็นๆ มาดื่ม!
+villager.godrink=ฉันต้องดื่มอะไรสักหน่อย
+villager.godrink=ไวน์จะชำระล้างความกังวลของฉัน
+villager.godrink=รู้ไหมว่าไวน์โรมันคือไวน์ที่ดีที่สุดในโลก?
+villager.godrink=ไม่ได้ดื่มอะไรนานแล้ว
+
+wife_byzantine.delivergoodshousehold=งานพวกนี้คือสิ่งเดียวที่ฉันทำได้ที่นี่
+wife_byzantine.gethousethresources=ในที่สุดสามีฉันก็เอาเสบียงกลับมาตามที่บอก
+wife_byzantine.cooking=การทำอาหารสนุกจริงๆ
+wife_byzantine.getgoodshousehold=ได้เวลาดูแลครอบครัวแล้ว
+wife_byzantine.greeting=ฉันคงทำอะไรได้อีกมากที่นี่ ถ้าฉันเป็นผู้ชาย... ถ้าเพียงแต่...
+wife_byzantine.greeting=หน้าที่ของเราคือคุมผู้ชายของเรา
+
+villager.givespeech=จักรวรรดิโรมันยิ่งใหญ่ และหมู่บ้านของเรายิ่งใหญ่ที่สุด
+villager.givespeech=หมู่บ้านของเราต้องขอบคุณผู้นำสำหรับความยิ่งใหญ่ทั้งหมด
+villager.givespeech=พวกเราชาวโรมันมีผู้นำที่ดีที่สุดและประชาชนที่ดีที่สุด
+
+villager.listentospeech=เขาพูดถูก!
+villager.listentospeech=สรรเสริญพวกเรา!
+villager.listentospeech=พวกเราสามารถเอาชนะทุกคนได้!
+villager.listentospeech=สรรเสริญพระเจ้าและผู้นำที่พระองค์ประทานมา!
+
+special_byzantine.greeting=การรับใช้ของคุณจะได้รับการตอบแทน $name
+special_byzantine.calltoarms=อย่าเสี่ยงโชคนักเลยเด็กน้อย
+special_byzantine.gopray=โค้งคำนับเบื้องหน้าฉัน...
+
+oldshepherd_byzantine.greeting=ความศรัทธาของฉันคอยพยุงฉันมาตลอด...
+oldshepherd_byzantine.greeting=ช่วยฉันทำความฝันให้สำเร็จเถอะ $name แล้วคุณจะได้รับรางวัล...
+oldshepherd_byzantine.calltoarms=เพื่อพระโบสโคกราตอร์!
+oldshepherd_byzantine=ขอพระโบสโคกราตอร์ผู้ศักดิ์สิทธิ์โปรดอวยพรฉันและฝูงแกะ
+
+merchant_armour.greeting=มีแต่เกราะและอาวุธชั้นดีเท่านั้น!
+merchant_armour.keepstall=ยินดีต้อนรับ ยินดีต้อนรับ! ฉันมีดาบที่ดีที่สุดที่คุณหาได้!
+
+merchant_dyes.greeting=ฉันมาพร้อมสีสันทุกวัน! เอ๊ะ ฉันไม่ใช่อินเดียนนะ
+merchant_dyes.keepstall=มาดูสิ! สีย้อมจากทั่วทุกมุมโลก!
+
+merchant_food.greeting=เอาซูฟลากิแสนอร่อยสักหน่อยไหม $name?
+merchant_food.keepstall=อาหารทุกอย่างที่คุณอยากกิน!
+
+merchant_materials.greeting=มาซื้อวัสดุก่อสร้างชั้นดีกันเถอะ! ฉันกับหลังของฉันจะขอบคุณคุณ
+merchant_materials.keepstall=ทราย หิน และอิฐ! ไดออไรต์และควอตซ์!
+
+merchant_relics.greeting=ฉันขายงานฝีมือล้ำค่าและของศักดิ์สิทธิ์ $name
+merchant_relics.keepstall=มา ชมยอดฝีมือชาวโรมัน
+
+merchant_textiles.greeting=เอาจริงๆ เหรอ $name? หนังตัวนี้?
+merchant_textiles.keepstall=พรมและเสื้อผ้าทันสมัย เหมือนที่มีในคอนสแตนติโนเปิล!
+
+loneabbot_byzantine.greeting=ยินดีต้อนรับ $name พักจากการเดินทางได้ ที่นี่ปลอดภัย
+lonemonk_byzantine.greeting=ไม่มีอะไรจะให้คุณได้เลย $name
+
+loneabbot_byzantine.gosocialise=อยากแบ่งปันความรู้ที่ศึกษามาเหลือเกิน
+
+lonemonk_byzantine.gosocialise=อยากแบ่งปันความรู้ที่ศึกษามาเหลือเกิน
+lonemonk_byzantine.plantseeds=ขอพระเจ้าทรงอวยพรเมล็ดเหล่านี้
+lonemonk_byzantine.collectcrop=ผลผลิตเหล่านี้คือของขวัญจากพระเจ้าเอง
+lonemonk_byzantine.makebread=การพลีอันยิ่งใหญ่ของพระบุตรจะเริ่มต้นด้วยขนมปังนี้
+
+villager.plantseeds=รู้สึกว่าปีนี้ผลผลิตจะอุดมสมบูรณ์
+villager.collectcrop=รู้แล้ว! ผลผลิตอุดมสมบูรณ์!
+
+villager.gostudy=ขอร้อง อย่ารบกวนฉัน $name
+
+villager.gotreerelax=ที่ร่มแบบนี้ช่างเหมาะเจาะที่สุด...
+villager.gotreerelax=อยู่ใต้ต้นไม้นี้ได้ทั้งวันเลย...
+
+villager.relight=ความรักของพระเจ้าคือสิ่งเดียวที่ฉันปรารถนา!
+villager.golookout=วันนี้จะมีเรือเข้ามา ฉันรู้แน่
+villager.golookout=งานน่าเบื่อ แต่อย่างน้อยก็ได้ค่าจ้าง
+villager.sellercoming=กำลังไปทันที!
+villager.tradecomplete=ขอบคุณมาก ขอให้กิจการรุ่งเรือง!

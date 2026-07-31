@@ -1,0 +1,369 @@
+//*       Dialogové řádky začínají kódem jako "v2;30;", který určuje, kdo mluví a kdy se řádek objeví. Prosím, zkopírujte ho přesně do svých překladů.
+//*       První polovina řádku (až do /) je v jazyce vesničanů a musí zůstat zachována, druhá část by se měla přeložit.
+//*
+//*
+//*
+//*
+//*
+//*
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Cítím, že bude pršet.
+v2;30;V Normandii vždycky pršelo.
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Naše vesnice je nádherná! Nemyslíš?
+v2;30;Souhlasím! A tvrdě na ní pracujeme!
+
+newchat;key:sunset,weigth:10
+v1;0;Odkud že to vychází slunce? Pořád zapomínám.
+v2;30;Ze severu přece... Odkud jinud?
+
+newchat;key:harvest,weigth:10
+v1;0;Myslíš, že letos bude dobrá sklizeň?
+v2;30;Kdo ví, s tím počasím, co tu máme.
+v1;60;Roční období tady už nedávají smysl.
+
+newchat;key:indianfood,weigth:5
+v1;0;Slyšel jsi o Indech?
+v2;30;Lidé říkají, že jsou prý hodně podivní.
+v1;60;Slyšel jsem dokonce, že jejich jídlo pálí!
+v2;100;Jako kalvados?
+v1;120;Ne, hůř!
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Tihle Byzantinci mi lezou na nervy!
+v2;30;Viděl jsi, jak se na nás dívají svrchu?
+v1;60;A to všechno proto, že tvrdí, že jsou Římané.
+v2;100;To je vtip. Tak leda zdegenerovaní Římané.
+v1;130;Měli bychom u nich uspořádat nájezd.
+v2;160;Jsme přece Vikingové!
+
+newchat;key:storm,weigth:10
+v1;0;Včera tu byla strašná bouřka.
+v2;30;Ano, myslel jsem, že mi to odnese střechu.
+v1;60;Měli bychom je všechny vyztužit.
+
+newchat;key:visitors,weigth:10
+v1;0;Co tu chybí, jsou návštěvníci.
+v2;30;No, máme tady přece $name...
+v1;60;Jo, ale je trochu divný, ne?
+v2;100;To je pravda, nikdy nevíme, co zrovna chystá.
+
+newchat;key:christmas,weigth:10
+v1;0;Kdypak jsou Vánoce?
+v2;30;Ani nevím... Roční období se tu nemění.
+v1;80;Co je to za podivný svět.
+v2;110;Občas to skoro vypadá jako Normandie...
+v2;140;A pak zas vidíme, že je všechno jinak.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Viděl jsi někdy vévodu Williama?
+v2;30;Ne, nikdy. A kdo ví, kde teď je?
+v1;60;Kdyby tu byl, už bychom si tenhle nový svět podmanili!
+v2;100;Ať žije vévoda William!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Všiml sis, že tu země vznáší ve vzduchu, když se pod ní kope?
+v2;40;Jo, a co s tím?
+v1;60;V Normandii padala...
+v2;90;V Normandii chtěl Bůh, aby padala. Tady chce, aby se vznášela.
+v2;150;Proč kritizuješ Boha?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Mám rád déšť.
+v2;30;Pro Normana je to dobrá věc!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Co máš radši, boudin nebo dršťky?
+v2;40;Boudin, dršťky jsou moc těžké.
+v1;80;Těžké? A říkáš si Norman?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;V téhle zemi chybí zvířata.
+v2;30;Vždyť jsou tu krávy, ovce a prasata.
+v2;60;Co bys ještě chtěl?
+v1;60;Koně! A poníky!
+v2;90;Tak ty bys teď chtěl poníka?
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Dršťky, to je jídlo pro chlapa.
+v2;30;Které připravují ženy...
+v1;60;Ale z krav poražených muži!
+v2;100;A krmených ženami...
+
+newchat;key:countingcows,weigth:10
+v1;0;Tady chybí jakákoli zábava.
+v2;30;A to je dobře, je tu klid.
+v1;60;A nuda...
+v2;75;Tak si počítej krávy, jestli se nudíš.
+v1;110;To jsem dělal už včera. A slepice taky.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Tohle je teda zapadákov. Rád bych jednou viděl něco jiného...
+v2;30;Ostatní vesnice jsou všechny stejné.
+v1;60;Ne vesnici! Městečko. Nebo dokonce město!
+v2;90;Jako co, Rouen? Jsi blázen, to je odsud několik dní cesty.
+v1;120;Rouen... nebo proč ne... Paříž?
+v1;150;Představ si, prý tam žije 25 000 lidí!
+v2;180;Blázníš, chudáku. 25 000 lidí na jednom místě? A kam bychom je dali?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Za takového počasí je kalvados nutnost!
+v2;30;Za každého počasí!
+v1;50;Na Normandii a její podnebí pro kalvados!
+v2;70;Na zdraví!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Až vyrostu, budu rychtář vesnice!
+v2;30;To budeš muset sníst ještě hodně polévky, než to dotáhneš tak daleko.
+v1;60;A nechám tě potrestat!
+v2;70;To určitě. Zatím jdi pracovat, nebo dostaneš pohlavek.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Můj táta je mnohem silnější než tvůj.
+v2;30;To je nesmysl. Můj táta je nejsilnější z vesnice.
+v1;60;Sni dál. Můj táta tvého složí ve dvou minutách.
+v2;70;A Země je placatá, viď?
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Holky jsou k ničemu.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Možná jsi kluk, ale stejně tě rozbrečím, kdykoli se mi zachce.
+v2;30;Není to pravda! Potvoro!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Buď hodný, nebo si tě v noci odnese Muž z Limbu!
+v2;40;Pfff, na takové nesmysly jsem už starý.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Tak co, krasavice, co děláš dnes večer?
+v2;40;Už jsem ti, milý $targetfirstname, řekla ne!
+v1;60;Takový temperament!
+v2;80;Takový hlupák!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;Ty máš ale svaly, milý $targetfirstname!
+v1;30;Mlč, nešťastnice! Jestli tě moje žena uslyší...
+v2;60;A co je, krasavče?
+v1;90;Víš dobře, jak je žárlivá!
+v2;120;A? To se jí bojíš?
+v1;140;Bojím? Já? Jí? To je vtip!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Bratře Kubo, bratře Kubo,
+v2;30;Ještě spíš? Ještě spíš?
+v1;60;Slyšíš zvony bít? Slyšíš zvony bít?
+v2;100;Bim, bam, bom. Bim, bam, bom!
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Skřivánku, milý skřivánku,
+v2;0;Skřivánku, milý skřivánku,
+v1;30;Skřivánku, oškubu ti pírka.
+v2;30;Skřivánku, oškubu ti pírka.
+v1;60;Oškubu ti hlavičku.
+v2;60;Oškubu ti hlavičku.
+v1;90;A hlavičku! A hlavičku!
+v2;90;A hlavičku! A hlavičku!
+v1;120;Chudák skřivánek...
+v2;160;Proč? Vždyť je to legrace!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Pojďme se projít do lesa,
+v2;0;Pojďme se projít do lesa,
+v1;30;dokud tam vlk není.
+v2;30;dokud tam vlk není.
+v1;60;Kdyby tam vlk byl,
+v2;60;Kdyby tam vlk byl,
+v1;90;sežral by nás,
+v2;90;sežral by nás,
+v1;120;ale protože tam není,
+v2;120;ale protože tam není,
+v1;150;tak nás nesežere.
+v2;150;tak nás nesežere...
+v2;180;Hm, jsi si jistý?
+v1;200;Zbabělče!
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Dobrý král Dagobert
+v1;30;si oblékl kalhoty naruby.
+v1;60;Slavný svatý Eligius
+v1;90;mu pravil: Ó, můj králi!
+v1;120;Vaše Veličenstvo,
+v1;150;jste špatně oblečen.
+v2;180;Špatně oblečen? Co to znamená?
+v1;220;Že nemá kalhoty!
+v2;250;Nesmysl, je to přece král!
+v1;280;No tak v tom případě král kalhoty nemá!
+v2;310;I ty máš kalhoty, hlupáku!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Můj synu, dlouho ses nezpovídal.
+v2;40;Ale otče, vždyť jsem nezhřešil!
+v1;70;Každý hřeší v tomto padlém světě.
+v2;110;I vy, otče?
+v1;130;Nebuď drzý! Za pokání odříkáš deset Pater Noster!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Má dcero, dlouho ses nezpovídala.
+v2;30;Je to pravda, otče, zhřešila jsem!
+v1;60;Pokud je to hřích těla, promluvíme si o tom jinde.
+v2;100;Děkuji vám, otče.
+v1;120;Zatím odříkej deset Pater Noster. Nikdy to neuškodí!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Zase jsem vylepšil svou techniku.
+v1;30;Než začnu sestavovat hrázdění, nejprve...
+v2;70;To je fascinující.
+v1;90;Opravdu si to myslíš?
+v2;110;Ne.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Strašně rád připravuji dršťky. Nejdřív se nechá kráva vykrvácet...
+v1;40;Potom se vytahají vnitřnosti...
+v2;60;Přestaň, dělá se mi z tebe špatně!
+v1;80;Ale ty přece dršťky miluješ!
+v2;110;A nechci vědět, jak se připravují.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Není pochyb, sedlák je to nejdůležitější řemeslo.
+v1;40;Beze mě by nebyl ani chleba!
+v2;60;Já mám stejně radši dršťky.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Když jsem byl mladý, byl jsem velmi nadějný učeň.
+v1;40;Sám Guillaume Vif-argent se o mě zajímal!
+v1;80;A teď jsem uvízl tady.
+v1;110;A starám se o hlupáky.
+v2;130;Co? Cože?
+v1;150;*povzdech*
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Podívej se na můj hrad! Pravá pevnost!
+v2;30;Jste tak mocný, můj pane!
+v1;60;Až se vévoda William vrátí, určitě ze mě udělá hraběte!
+v2;100;Ať žije hrabě $targetfirstname!
+v1;130;Ať žiju já!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Moje krása je v těchto končinách proslulá.
+v2;30;Jste nádherná, má paní!
+v1;60;A přesto jsem si vzala obyčejného rytířka...
+v2;100;Ale jeho lordstvo se jednou jistě stane hrabětem!
+v1;130;Ten hlupák? Ha! A proč ne rovnou papežem?
+v2;160;Proč ne, má paní! Ehm... chtěl jsem říct...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Jablka, jablka, jablka!
+v1;30;Jablka, jablka... jablka!
+v2;60;Spíš cider, cider, cider, ve tvém případě, ne?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Tahle vesnice je tak ubohá.
+v2;30;Hej cizinče, dávej si pozor, co říkáš!
+v1;70;A jak okouzlující obyvatele má!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Složil jsem písničku, chceš si ji poslechnout?
+v2;40;Spusť!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v2;70;Slibný začátek...
+v1;90;Vracím se z práce!
+v2;110;A já mám ještě hodně co dělat.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Bratře Kubo, bratře Kubo!
+v1;30;Velmi vtipné, mé dítě.
+v2;60;Ještě spíš? Ještě spíš?
+v1;90;Stačí, stačí, tu písničku znám.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Z prasete je dobré všechno!
+v2;30;Stejně ale dělají strašný kravál, když je podřezáváš.
+v1;70;Čím víc prase řve, tím lepší je maso!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Dbám o duchovní zdraví vesničanů.
+v2;30;A je s tím dost práce!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Naše vesnice se bojí Boha.
+v2;30;A jeho zástupce, otce $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Jsem velmi vážený u dvora krále vévody Williama.
+v2;40;Krále vévody?
+v1;60;Jeho Veličenstvo William Dobyvatel, vévoda Normandie a král Anglie, nevzdělanče!
+v2;100;Kde je Anglie?
+v1;120;Na druhé straně moře. Jaká neznalost!
+v2;140;Kterého moře, můj pane?
+v1;160;Taková drzost! Už dost!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Být pastýřem je velmi vznešené řemeslo.
+v2;30;Vznešené? Pastýř?
+v1;50;Nebyli snad právě my vyvoleni Bohem, abychom přijali radostnou zvěst?
+v2;90;Ach ano. Zatímco jste se starali o novorozená jehňata - v prosinci.
+v1;130;A co má být? Třeba v Betlémě roční období nejsou. Jako tady!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;Skutečná síla Normanů spočívá v jejich nástrojích a zbraních.
+v2;40;A tudíž v jejich kovářích?
+v1;60;Tak je to!
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Proč to musí být vždycky ženy, kdo staví?
+v2;40;Jestli ti to vadí, postarám se o příští budovu.
+v1;80;Opravdu? Jsi zlatý! Tak, na záclony nezapomeň...
+v2;120;Vlastně ne, nechám to nakonec na tobě.
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Včera jsem šel kolem alchymistovy dílny.
+v1;40;Byl odtamtud strašný zápach jako po zkažených vejcích!
+v2;80;Říká se, že se snaží vyrobit kámen mudrců!
+v1;120;Já slyšel, že chce oživovat mrtvé.
+v2;160;A já zas, že chce z mrtvol vytvořit nestvůru!
+v1;200;Jaká hrůza!
+v2;220;A přitom to byl tak okouzlující chlapec...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Navštívil jsi už nový archiv?
+v1;30;Je tam vidět, co všichni dělají!
+v2;60;Aha, opravdu... a... ehm...
+v1;90;Ano, viděl jsem tvůj panel.
+v1;120;Měl by ses stydět.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Mám rád vůni čerstvého chleba z pekárny.
+v2;40;Chybí už jen někdo, kdo by uměl péct croissanty.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Náš kostel je opravdu nádherný.
+v2;30;Ukazuje to, že jsme zbožná vesnice.
+v1;60;A je větší než ten ve vedlejší vesnici!
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Teď, když máme hostinec, budeme moci obchodovat!
+v2;40;Jinými slovy, projíždějící obchodníci si poslouží z našich zásob.
+v1;80;Vždycky jsi byl cynik.
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Mám rád tržiště! Tolik nádherného zboží!
+v2;40;Teď se cítíme méně osamělí.
+v2;80;Ale ne bohatší...
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Taverna je určitě to nejlepší, co jsme kdy postavili.
+v2;40;S tím nikdo z místních nepolemizuje!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Jsme nezastavitelní. Naše impozantní lodě a čestní rytíři jsou metla světa!
+v2;40;A kdo jsou naši nepřátelé? Banda římských šejdířů a Mayové, co milují kámen?
+v1;80;Nezapomeň na ty šílence ze sněhu, kteří ani neznají pojem peníze!
+v2;120;Hahaha! Normanský život je ten nejlepší život na světě! Skvělý cider, nejlepší nástroje. Ach, tohle je náš zlatý věk!
+v1;160;A ještě se o to dělíme!
+v2;200;Hahaha!

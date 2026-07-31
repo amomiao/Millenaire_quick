@@ -1,0 +1,92 @@
+female.becomeadult=He soñado que me casaba con un príncipe...
+
+female.gorest=Me iré a dormir ahora.
+female.gorest=Estoy cansada.
+female.gorest=Llevo trabajando desde la mañana.
+
+armysmith.makeweapons=¡Es mucho más prestigioso hacer armas que hacer herramientas!
+
+lumberman.bringbackresourceshome=Será difícil cargar con tanta madera en el camino de vuelta a casa.
+lumberman.choptrees=Parece que pasaré mi vida cortando estos árboles.
+lumberman.gathergoods=Ahora amontonaré toda la madera.
+lumberman.plantsaplings=Cuantos más árboles plante, más fácil será la vida después.
+
+pandit.gopray.chosen=Si no me ocupo de cuidar del templo, ¿quién lo hará?
+pandit.greeting=Que tengas una larga vida.
+
+peasant.cookbrick=Mira qué bien se cuecen estos ladrillos en el fuego.
+
+peasant.drybrick=¿Cuántos ladrillos necesitas para construir una casa?
+
+peasant.gatherbrick=El sol pega fuerte, hoy se van a secar rápido.
+
+peasant.getresourcesforbuild=Vamos a ver, una tonelada de ladrillos, dos toneladas de piedras...
+
+peasant.slaughterchicken=¡Ya he comido suficiente curry vegetariano!
+peasant.slaughterchicken=Odio las gallinas, no sirven para otra cosa que para comértelas.
+
+peasant.construction=Nuestra arquitectura es reconocida en todo el mundo.
+peasant.construction=Cuando termine con esto, construiré un fuerte rojo.
+
+peasantwife.delivergoodshousehold=¿Cómo voy a cargar con toda esta comida yo sola?
+peasantwife.getgoodshousehold=No importa cuánto haga por esta familia, ¡nunca es suficiente!
+peasantwife.gethousethresources=Todo siempre termina en la casa del terrateniente.
+peasantwife.makerasgulla=A los niños les encantan las rasgullas.
+
+sculptor.scult=La escultura es el arte del hueco y del bulto.
+smith.maketools=Todo el mundo usa mis herramientas y aun así me miran con desprecio.
+
+male.becomeadult=Cuando era más joven quería convertirme en un gran guerrero...
+
+male.gorest=Iré a descansar ahora.
+male.gorest=Estoy cansado.
+male.gorest=Llevo trabajando desde la mañana.
+
+merchant_adivasi.keepstall=Todo lo cultiva mi familia, en lo más profundo de la selva.
+merchant_adivasi.greeting=Acabo de venir del bosque.
+
+merchant_oriental.keepstall=¡Mira las riquezas de Persia!
+merchant_oriental.greeting=¡Qué la paz vaya contigo hermano!
+
+merchant_villagewoman.keepstall=¡Comida casera para los viajeros hambrientos!
+merchant_villagewoman.greeting=Viajar es duro para una mujer solitaria.
+
+villager.becomeadult=No más juegos, es momento de trabajar.
+
+villager.goplay=Me encanta jugar en la tierra.
+
+villager.childobserveagriculture=Plantar cultivos todos los días parece muy aburrido. ¡Quiero una vida de aventuras!
+villager.childobserveconstruction=La construcción parece un trabajo demasiado duro para mí.
+villager.childobservesmithing=¡Qué brazos tan fuertes!
+villager.childobserveproducefood=Mi madre hace las mejores rasgullas.
+
+villager.childeatsugarcane=Mamá dice que estropea los dientes, ¡pero está tan bueno!
+
+villager.harvestrice=Gracias a la maravillosa estación de lluvias, ahora tenemos abundantes cosechas.
+
+villager.harvestturmeric=Esta cosecha de cúrcuma me está poniendo las manos amarillas.
+
+villager.plantrice=Si llueve mucho, la cosecha será buena este año.
+
+villager.plantturmeric=Después de todo, todo el mundo necesita cúrcuma.
+
+villager.calltoarms=¡Derrotad a los enemigos!
+villager.calltoarms=¡La victoria será nuestra!
+villager.calltoarms=¡Todo el mundo, coged vuestras armas!
+
+villager.gopray.chosen=Es hora de volver a visitar el templo.
+villager.gopray=Dios, eres nuestra única esperanza.
+villager.gopray=Querido Dios, que la cosecha sea buena esta vez.
+
+villager.greeting=Hoy hace mucho calor.
+villager.greeting=¿Están todos bien en casa?
+villager.greeting=¿Cómo van las cosas?
+villager.greeting=¿¡Qué hay de nuevo, $name-ji!?
+villager.greeting=¿Eres de más allá del océano?
+villager.greeting=¡Saludos, $name-ji!
+villager.greeting=¿Por qué aquí no está lloviendo?
+
+villager.inspectconstruction=Me gusta ver a nuestros constructores edificar obras tan hermosas.
+female.sellercoming=¡Ya voy, presta estoy!
+villager.sellercoming=¡Ya voy, presto estoy!
+villager.tradecomplete=Trato concluido, vuelve a vernos.

@@ -1,0 +1,619 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1CB71719E75E0FE9"
+	group: "12F8B196EA585244"
+	icon: {
+		id: "millenaire:village_scroll"
+	}
+	id: "1CB71719E75E0FE9"
+	images: [
+		{
+			click: "https://www.mcmod.cn/item/189178.html"
+			height: 1.0d
+			hover: ["mod wiki对于诺曼村庄的介绍"]
+			image: "millenaire:item/norman_sword"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -3.5d
+		}
+		{
+			click: "https://www.mcmod.cn/item/189179.html"
+			height: 1.0d
+			hover: ["mod wiki对于印度村庄的介绍"]
+			image: "millenaire:block/mud_brick"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -2.0d
+		}
+		{
+			click: "https://www.mcmod.cn/item/189183.html"
+			height: 1.0d
+			hover: ["mod wiki对于玛雅村庄的介绍"]
+			image: "millenaire:item/mayan_axe"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: -0.5d
+		}
+		{
+			click: "https://www.mcmod.cn/item/189182.html"
+			height: 1.0d
+			hover: ["mod wiki对于日本村庄的介绍"]
+			image: "millenaire:item/japanese_tachi"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 1.0d
+		}
+		{
+			click: "https://www.mcmod.cn/item/189180.html"
+			height: 1.0d
+			hover: ["mod wiki对于拜占庭村庄的介绍"]
+			image: "millenaire:item/byzantine_mace"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 2.5d
+		}
+		{
+			click: "https://www.mcmod.cn/item/189181.html"
+			height: 1.0d
+			hover: ["mod wiki对于因纽特村庄的介绍"]
+			image: "millenaire:item/inuitbow0"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 4.0d
+		}
+		{
+			click: "https://www.mcmod.cn/item/277160.html"
+			height: 1.0d
+			hover: ["mod wiki对于塞尔柱村庄的介绍"]
+			image: "millenaire:item/seljuk_scimitar"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 5.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "millenaire:village_scroll"
+			}
+			id: "234CEBB0488AF785"
+			tasks: [{
+				id: "3630CA4C5D67A7BE"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["234CEBB0488AF785"]
+			id: "41647FA6FC6C1EEC"
+			tasks: [{
+				icon: {
+					id: "millenaire:village_panel"
+				}
+				id: "066AEA4100D85BDA"
+				observation_type: "block"
+				observe_type: 0
+				timer: 0L
+				to_observe: "millenaire:village_panel"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41647FA6FC6C1EEC"]
+			id: "6404DFF3FCA860D0"
+			tasks: [
+				{
+					id: "774EAC9FD6D9FBAE"
+					item: { count: 1, id: "millenaire:denier_or" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3EFD1AEB9B5E3C00"
+					item: { count: 1, id: "millenaire:denier_argent" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6DA86C64A2433379"
+					item: { count: 1, id: "millenaire:denier" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["41647FA6FC6C1EEC"]
+			id: "5B4DB2ED829BE802"
+			progression_mode: "flexible"
+			tasks: [
+				{
+					id: "72A40DEBE71AD130"
+					item: { count: 1, id: "minecraft:rotten_flesh" }
+					type: "item"
+				}
+				{
+					id: "1D239BD178581EFB"
+					item: { count: 1, id: "minecraft:bone" }
+					type: "item"
+				}
+				{
+					id: "16C79FD2367CE40F"
+					item: { count: 1, id: "minecraft:string" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6404DFF3FCA860D0"]
+			id: "15370FD1EB590E68"
+			tasks: [{
+				id: "5231CD791FA3064F"
+				item: { count: 1, id: "millenaire:purse" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["41647FA6FC6C1EEC"]
+			icon: {
+				id: "create:framed_glass_door"
+			}
+			id: "68BC75B34FC2EDAD"
+			rewards: [{
+				id: "4E44C9DE5DD615D2"
+				item: {
+					count: 1
+					id: "create:framed_glass_door"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "721609C415A2196F"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["41647FA6FC6C1EEC"]
+			icon: {
+				id: "minecraft:oak_sapling"
+			}
+			id: "7C74EE62F6FE9204"
+			rewards: [
+				{
+					count: 8
+					id: "2B4581BC723470E5"
+					item: {
+						count: 1
+						id: "minecraft:oak_sapling"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "76F758FD961FF336"
+					item: {
+						count: 1
+						id: "minecraft:spruce_sapling"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "10980F6D0760C9B8"
+					item: {
+						count: 1
+						id: "minecraft:birch_sapling"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "4A2FAA3FAC248380"
+					item: {
+						count: 1
+						id: "minecraft:jungle_sapling"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "06462ACF3E4FC06D"
+					item: {
+						count: 1
+						id: "minecraft:acacia_sapling"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "623DB92D99AD8AC7"
+					item: {
+						count: 1
+						id: "minecraft:dark_oak_sapling"
+					}
+					type: "item"
+				}
+				{
+					id: "38581B96E866B85F"
+					item: {
+						count: 1
+						id: "minecraft:cherry_sapling"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "692F4281D036C1A3"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6404DFF3FCA860D0"]
+			icon: {
+				id: "millenaire:denier_or"
+			}
+			id: "09AFDFF8E7EBED01"
+			tasks: [{
+				id: "2360C4C5B76B631C"
+				item: { count: 1, id: "millenaire:denier_or" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6404DFF3FCA860D0"]
+			id: "2F7A480E821EAF50"
+			tasks: [{
+				id: "6A7CD335D8D25F7D"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2637AE956CDA86B3"]
+			id: "55B5F5A910693E41"
+			tasks: [{
+				id: "400D926288905F3D"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6404DFF3FCA860D0"]
+			id: "578D46B82240E164"
+			tasks: [{
+				id: "24443B8D21F8EF02"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2637AE956CDA86B3"]
+			icon: {
+				id: "millenaire:summoning_wand"
+			}
+			id: "386547F3FA6CD5C3"
+			rewards: [{
+				id: "26DCC8FDB3C384E4"
+				item: {
+					count: 1
+					id: "minecraft:gold_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2862AAF5C5C45C50"
+				item: { count: 1, id: "millenaire:summoning_wand" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["386547F3FA6CD5C3"]
+			id: "484D3CD94E6820FE"
+			tasks: [{
+				id: "0EAAFA9FAB944536"
+				item: { count: 1, id: "millenaire:negation_wand" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["386547F3FA6CD5C3"]
+			id: "390E8A7286AC71F2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "534EB5F7E9354454"
+				table_id: 1806374820663579559L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "5AD90684B832C441"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["55B5F5A910693E41"]
+			id: "09FE739537D00F9F"
+			tasks: [{
+				count: 4L
+				id: "5B569701D632154E"
+				item: { count: 1, id: "millenaire:denier_or" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "505822618F82EA69"
+			tasks: [{
+				id: "2A23252BCC421D56"
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["505822618F82EA69"]
+			id: "40A7F8802ECE7942"
+			tasks: [{
+				id: "7331112970E96BB0"
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3A2BA055FA412EF3"]
+			id: "2637AE956CDA86B3"
+			tasks: [{
+				id: "25302CF1E775CCB5"
+				item: { count: 1, id: "millenaire:village_scroll" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6404DFF3FCA860D0"]
+			id: "3A2BA055FA412EF3"
+			tasks: [{
+				id: "15E7328FDF49BF38"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3A2BA055FA412EF3"
+				"15370FD1EB590E68"
+			]
+			id: "7D7310A0F7605383"
+			tasks: [{
+				id: "25FB753690BD6CD4"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2637AE956CDA86B3"]
+			icon: {
+				id: "minecraft:water_bucket"
+			}
+			id: "272C4D69611B28BD"
+			tasks: [{
+				id: "1DD7D478272ADACB"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["578D46B82240E164"]
+			id: "5706B4A2FFCA35D7"
+			tasks: [{
+				id: "4F5A04D5943E9E70"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "millenaire:inuitbow"
+			}
+			id: "0A267EB09AD56209"
+			tasks: [{
+				id: "5C371BBB616B31C0"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["09AFDFF8E7EBED01"]
+			id: "218137A601BFB260"
+			tasks: [{
+				id: "16A2DEBCF57548F7"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "millenaire:cider"
+			}
+			id: "52E66761157D740C"
+			tasks: [{
+				id: "69167C50AEC56CAA"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				id: "millenaire:wall_tapestry"
+			}
+			id: "14D77FD73664755D"
+			tasks: [{
+				id: "5356EDF98D74611D"
+				type: "checkmark"
+			}]
+			x: 13.5d
+			y: -3.5d
+		}
+		{
+			icon: {
+				id: "millenaire:chickencurry"
+			}
+			id: "71B1F68184FEE79C"
+			tasks: [{
+				id: "433B2F9D1AA6439F"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -2.0d
+		}
+		{
+			icon: {
+				id: "millenaire:cacauhaa"
+			}
+			id: "009150414397CA56"
+			tasks: [{
+				id: "19FFD588FC835725"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -0.5d
+		}
+		{
+			icon: {
+				id: "millenaire:ikayaki"
+			}
+			id: "0A7D9004A1D0C080"
+			tasks: [{
+				id: "3D0614C65545DE24"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			icon: {
+				id: "millenaire:winebasic"
+			}
+			id: "70D2FFC07BE3E4FE"
+			tasks: [{
+				id: "3017C9D33DA7F88D"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "millenaire:bearmeat_cooked"
+			}
+			id: "1BC58D9B1495E0A9"
+			tasks: [{
+				id: "31454EBBA009AE5C"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["390E8A7286AC71F2"]
+			id: "03962B0FA18A0519"
+			tasks: [{
+				id: "52C9C3590DD8DE69"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["67A17A0D7FB995D6"]
+			icon: {
+				id: "millenaire:pide"
+			}
+			id: "6AF84467CE83A1AA"
+			tasks: [{
+				id: "5EC95D7698FF5BE9"
+				type: "checkmark"
+			}]
+			x: 13.5d
+			y: 5.5d
+		}
+		{
+			icon: {
+				id: "millenaire:pide"
+			}
+			id: "67A17A0D7FB995D6"
+			tasks: [{
+				id: "27DB8A4F2D04D5DE"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["390E8A7286AC71F2"]
+			id: "1F41FCF018CE862B"
+			tasks: [{
+				id: "215523B41261995F"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["386547F3FA6CD5C3"]
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "69DD14F9CAA29C26"
+			tasks: [{
+				id: "28183AB26302327B"
+				type: "checkmark"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+	]
+}

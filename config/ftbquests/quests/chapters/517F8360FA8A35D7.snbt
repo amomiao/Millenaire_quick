@@ -1,0 +1,786 @@
+{
+	autofocus_id: "4C172064EAC0F8DD"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "517F8360FA8A35D7"
+	group: "6050F7ACD10CCF6C"
+	icon: {
+		id: "minecraft:grass_block"
+	}
+	id: "517F8360FA8A35D7"
+	images: [
+		{
+			height: 1.0d
+			image: "minecraft:item/villager_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/mud_bricks"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/witch_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/warden_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:item/evoker_spawn_egg"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/cut_sandstone"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/copper_grate"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -5.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "695EE57805C825E8"
+			tasks: [{
+				id: "164F74D0FEA2ED73"
+				item: { count: 1, id: "naturescompass:naturescompass" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:gold_block"
+			}
+			id: "2772D4FC136F0DE9"
+			tasks: [{
+				id: "56F8813B55BC4303"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["4C172064EAC0F8DD"]
+			icon: {
+				id: "minecraft:villager_spawn_egg"
+			}
+			id: "1ECEF77A184D8FC8"
+			tasks: [{
+				consume_items: true
+				id: "5E22533FCBA74242"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4C172064EAC0F8DD"]
+			icon: {
+				id: "minecraft:stone_bricks"
+			}
+			id: "3902031F1A17BD04"
+			tasks: [
+				{
+					consume_items: true
+					count: 128L
+					id: "1092831FB6DF7EE4"
+					item: { count: 1, id: "millenaire:denier_argent" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					count: 4L
+					id: "6DDBC5A0D0304C62"
+					item: { count: 1, id: "minecraft:ender_eye" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			id: "4C172064EAC0F8DD"
+			tasks: [{
+				id: "3E5D293DB672C08C"
+				type: "checkmark"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4727FAFD22AAD8E2"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:silverfish_spawn_egg"
+			}
+			id: "3F916D43B949EDC6"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "7148FD0F083B64C1"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"3902031F1A17BD04"
+				"3F916D43B949EDC6"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				id: "minecraft:ender_eye"
+			}
+			id: "0DFE671F3120AD5F"
+			rewards: [{
+				advancement: "minecraft:story/follow_ender_eye"
+				criterion: ""
+				id: "75002CE9280719E3"
+				type: "advancement"
+			}]
+			tasks: [{
+				id: "53F9F2F727D6F067"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["59934A5AD0AF63B8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "millenaire:seljuk_scimitar"
+			}
+			id: "34677988AF7F17E0"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "11E302037B408DF7"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1ECEF77A184D8FC8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "6C37EC7645DCDC3E"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "7F03EC0D202CA0A9"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27A3F027471BE8FF"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:copper_grate"
+			}
+			id: "4727FAFD22AAD8E2"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "7463CB720B4CE50E"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["567ABF93A5F9B2DA"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:witch_spawn_egg"
+			}
+			id: "081CFD009BC45F45"
+			rewards: [{
+				command: "/summon minecraft:cat ~ ~ ~ {variant:\"minecraft:all_black\"}"
+				icon: {
+					id: "artifacts:kitty_slippers"
+				}
+				id: "04708E1509636935"
+				type: "command"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "76572EF1F1252E78"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["73CE0BE3A3AF3F59"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:seagrass"
+			}
+			id: "59934A5AD0AF63B8"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "62ACD4E8497EEAC0"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["59934A5AD0AF63B8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "millenaire:wall_byzantine_icon_large"
+			}
+			id: "27A3F027471BE8FF"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "5BC0EDA738E46875"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6C37EC7645DCDC3E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "millenaire:norman_sword"
+			}
+			id: "73CE0BE3A3AF3F59"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "1E30991C9C38C3E3"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["59934A5AD0AF63B8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:slime_spawn_egg"
+			}
+			id: "567ABF93A5F9B2DA"
+			rewards: [{
+				count: 32
+				id: "35C24814F0A88862"
+				item: {
+					count: 1
+					id: "minecraft:slime_ball"
+				}
+				type: "item"
+			}]
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "67344B7EC3B0461A"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54D9F2E7D9389CDC"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:mud_bricks"
+			}
+			id: "2353DFF10D6A6B00"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "67570CF9ED33D9E1"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["54D9F2E7D9389CDC"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "millenaire:mayan_mace"
+			}
+			id: "4483E281EC4688B7"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "6A21258303946B78"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["151DE6A1425A5C2A"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:smooth_sandstone"
+			}
+			id: "4E14EFCD9DDAE319"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "603B2D07278F7ED3"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7C0E723E818273D5"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "millenaire:chickencurry"
+			}
+			id: "151DE6A1425A5C2A"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "527321B9E8BD8356"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["73CE0BE3A3AF3F59"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:dark_oak_sapling"
+			}
+			id: "6815DD85B49B1925"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "3EBF7A7E01EC9B11"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6638BF54DE483D01"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "millenaire:inuittrident"
+			}
+			id: "05544B4F27DD8775"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "423EC58BD0806379"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6815DD85B49B1925"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:evoker_spawn_egg"
+			}
+			id: "1D6A621ECFB1D57E"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "2A18BAA81E6BB904"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["684AC543420DF454"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "millenaire:japaneseguardhelmet"
+			}
+			id: "45ECA404887453B1"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "34C0B01D80E6EE74"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["59934A5AD0AF63B8"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:infested_cobblestone"
+			}
+			id: "684AC543420DF454"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "2FE71C82E9E1531C"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1D6A621ECFB1D57E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:snow_block"
+			}
+			id: "6638BF54DE483D01"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "3618121619054894"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6C37EC7645DCDC3E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:sand"
+			}
+			id: "7C0E723E818273D5"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "20AE9D32C7C11675"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["11B13DF5AD0C9BA5"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:warden_spawn_egg"
+			}
+			id: "6301ABAF214F6C47"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "1D3FC9E79530F18D"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4483E281EC4688B7"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:axolotl_spawn_egg"
+			}
+			id: "11B13DF5AD0C9BA5"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "6ADACDBAE199C684"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["6C37EC7645DCDC3E"]
+			hide_until_deps_complete: true
+			icon: {
+				id: "minecraft:jungle_sapling"
+			}
+			id: "54D9F2E7D9389CDC"
+			size: 1.0d
+			tasks: [{
+				consume_items: true
+				count: 2L
+				id: "48A325384C3C3374"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["1ECEF77A184D8FC8"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:villager_spawn_egg"
+			}
+			id: "3428ECFAA9DE1C2B"
+			rewards: [{
+				command: "/locate structure #minecraft:village"
+				icon: {
+					id: "minecraft:oak_log"
+				}
+				id: "10BF7D7DE7F8512C"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "4B86CA3625FFBEC1"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["7C0E723E818273D5"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:smooth_sandstone"
+			}
+			id: "1F03549B17861431"
+			rewards: [{
+				command: "/locate structure minecraft:desert_pyramid"
+				icon: {
+					id: "minecraft:smooth_sandstone"
+				}
+				id: "19371174EE6F3C6A"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "12271568C1ADC6D5"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["4727FAFD22AAD8E2"]
+			hide_dependency_lines: true
+			hide_details_until_startable: false
+			hide_text_until_complete: false
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			icon: {
+				id: "minecraft:copper_grate"
+			}
+			id: "4B5C3913250E73B1"
+			rewards: [{
+				command: "/locate structure minecraft:trial_chambers"
+				icon: {
+					id: "minecraft:oxidized_copper_grate"
+				}
+				id: "2F3A432BC73C6813"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "3F163F77F20CCA19"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["2353DFF10D6A6B00"]
+			hide_dependency_lines: true
+			hide_until_deps_complete: false
+			hide_until_deps_visible: false
+			icon: {
+				id: "minecraft:mud_bricks"
+			}
+			id: "322D483DDD5AAEA6"
+			rewards: [{
+				command: "/locate structure minecraft:trail_ruins"
+				icon: {
+					id: "minecraft:mud_bricks"
+				}
+				id: "482EA117B467E283"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "084F20F9100FFD41"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["081CFD009BC45F45"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:witch_spawn_egg"
+			}
+			id: "4AC407AA3AD5C8B2"
+			rewards: [{
+				command: "/locate structure minecraft:swamp_hut"
+				icon: {
+					id: "minecraft:spruce_planks"
+				}
+				id: "14FA93C64140930F"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "31F781664F2D8DD9"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["1D6A621ECFB1D57E"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:evoker_spawn_egg"
+			}
+			id: "6D0DB351CF62329F"
+			rewards: [{
+				command: "/locate structure minecraft:mansion"
+				icon: {
+					id: "minecraft:totem_of_undying"
+				}
+				id: "502958A1170D6650"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "1CBA9DC0C929DE9C"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["6301ABAF214F6C47"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:warden_spawn_egg"
+			}
+			id: "46E5136DCBA7E26A"
+			rewards: [{
+				command: "/locate structure minecraft:ancient_city"
+				icon: {
+					id: "minecraft:sculk_shrieker"
+				}
+				id: "67BEFE2E600A5B6F"
+				type: "command"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "6A506DFF82827533"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+	]
+}

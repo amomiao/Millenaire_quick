@@ -1,0 +1,141 @@
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Ma pole ammu alkoholi joonud.
+v2;50;Külast väljas, banjaanipuu all istub mees, kes müüb alkoholi ja maapähkleid.
+v1;110;Tõesti? Arvasin, et külas on alkoholi müümine keelatud!
+v2;160;Ära kellelegi teisele räägi.
+v1;200;Hea küll, läheme täna õhtul sinna.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Kas oled kunagi mõelnud, milline on veiseliha maitse?
+v2;60;Veiseliha? Aga selle söömine on meie dharma vastu!
+v1;120;Aga kui see oleks maitsev...?
+v2;180;Kas sa oled mõni normanni barbar?
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Kas tõid mulle mänguasju?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mul on palju sõpru.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Ema ei luba mul pärast pimedaks minekut mängida.
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Tere!
+v2;50;Kas sa nägid seda?
+v1;100;Mida nägin?
+v2;150;Nägin... krõnksu!
+v1;200;Tõesti?
+v2;250;Jah! Oli nii hirmus! Ta lasi sealse puu õhku!
+v1;300;Oot, mu lemmikpuu oligi seal... VAAAAAAA
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Tere!
+v2;50;Kas sa nägid seda?
+v1;100;Mida nägin?
+v2;150;Nägin... zombit!
+v1;200;Tõesti?
+v2;250;Jah! Oli nii hirmus! Ta ütles isegi, et sööb su ära!
+v1;300;Ahhhhh! Emme! Zombi sööb mu ära!
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Külapealik tõi oma naisele kuldsed käevõrud.
+v1;60;Aga sina pole mulle kunagi ehteid toonud...
+v2;110;Sa oleksid pidanud abielluma rikka mehega.
+v1;160;Aga siis oleks pidanud rohkem kaasavara maksma.
+v2;200;Siis pead end õnnistatuks pidama, et mul on selline mees nagu mina.
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Lõikasin täna palju puitu.
+v2;60;Sa muudad meie metsa kõrbeks!
+v1;120;Ära muretse, siin kasvavad puud peaaegu iseenesest.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mu palee on muutunud väga väikeseks.
+v2;60;Aga maharadža, see on selle maa suurim!
+v1;120;Aga minu jaoks tundub see väike.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Tugev kindlus on meie vaenlaste vastu parim kaitse.
+v2;60;Milliste vaenlaste, kindral?
+v1;100;Normannide ja muude barbarite vastu.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mu mees on rikas ja austusväärne.
+v2;50;Oh jaa! See on tõsi.
+v1;110;Aga ta ei too mulle kunagi midagi.
+v2;160;Kuidas nii? Eile alles tõi ta sulle kolm saarit.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Mu mees ostis täna viiskümmend tolat kulda.
+v2;60;Viiskümmend tolat kulda! Mul on ainult kümme tolat...
+v1;120;Loodame, et tähed seavad end sinu kasuks.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mul on suurepärane võimalus kujusid valmistada.
+v2;50;Sellepärast, et sa teed väga ilusaid kujusid.
+v1;100;Olen kujusid tükk aega valmistanud.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Vajame rohkem kirkasid.
+v2;50;Olen praegu hõivatud.
+v1;100;Vajame ka labidaid.
+v2;150;Uhh! Nii palju on teha!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, arvan, et meie küla lähistel hulguvad röövlid!
+v2;50;Ära muretse, ma kaitsen küla.
+v1;100;Sa oled nii tugev!
+v1;130;Ja ühtlasi kena.
+v1;150;Kui poleks su vurrusid...
+v2;200;Mitte sõnagi mu vurrudest!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Mu isand, saak pole sel aastal hea.
+v2;40;See sellepärast, et sa oled laisk! Töötage rohkem!
+v1;80;Aga vihma pole üldse sadanud...
+v2;120;See pole minu süü. Ma tahan oma renti.
+v1;170;Aga mul pole raha.
+v2;210;Siis tagasta mu maa.
+v1;260;Aga siis ei jää mulle midagi alles!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Mine, too pudžaks ohvritaldrik.
+v2;40;Toon kohe.
+v1;80;Peame jumalaid lepitama.
+v1;130;Alles siis tuleb vihm õigel ajal.
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Vihma ei saja.
+v2;30;Ära muretse. Vihma tuleb.
+v1;60;Sa ütled iga aasta sama...
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;See kaupmees ehitab oma majale uue maja kõrvale.
+v2;60;Veel üks maja? Aga miks tal uut vaja on?
+v1;90;Uus maja on tema pojale.
+v1;140;Kui ta poeg abiellub, on isa ja poeg kõrvuti.
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Jah! Vihma sajab!
+v2;40;Nii vähesest vihmast pole kasu...
+v1;80;Parem kui üldse mitte midagi.
+v1;120;Aga kuidas meie põllukultuurid kasvavad?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Ma tahan rasgullat. Mul on väga kõht tühi!
+v2;60;Ei. Sa pead ainult riisi sööma.
+v1;120;Aga ma juba sõin täna hommikul!
+v1;180;Ja eile ja üleeile...
+v2;220;Ja sa pead seda sööma ka täna õhtul, homme ja kogu ülejäänud elu!
+
+newchat;key:sandstone,weigth:10
+v1;0;Meie küla edeneb, kas pole?
+v2;40;Aga teha on veel palju.
+v1;80;Tõesti?
+v2;100;Kindlasti!
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;On nii palav!
+v2;30;Kuumus ajab mu hulluks.
+v1;70;Millal vihma sajab?

@@ -1,0 +1,333 @@
+//* Italian translation of mayan dialogues — auto-generated, see docs/translation-policy.md §5 it_it.
+
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Grazie ad Ah Mun e Ghanan, i nostri raccolti sono buoni. Sia lode a loro!
+v2;30;Ringraziamoli durante la preghiera.
+v1;80;Cosa possiamo offrire loro?
+v2;120;Non essere sciocco! Il nostro sangue, ovviamente!
+
+newchat;key:alchimist,weigth:4;
+v1;0;Esplorando la foresta, ho visto uno strano alchimista.
+v2;30;L'hai visto anche tu? È stranamente bizzarro.
+v1;60;E come. Aveva una lista di ingredienti strani. Sai cosa sono i "teschi di scheletro avvizzito" o la "sabbia delle anime"?
+v2;90;No, e non è molto rassicurante.
+v1;120;Già! Si dice che stia cercando di fabbricare la Pietra Filosofale.
+v2;150;Mio buon $targetfirstname, se credi alle dicerie, rischi di credere che la Terra sia rotonda.
+v1;180;Hai probabilmente ragione.
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac è in collera. Il tempo è brutto.
+v2;40;Non lo preghiamo abbastanza.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;Dovremmo costruire un forno. Risolleverebbe i nostri affari.
+v2;30;È vero. Non possiamo accontentarci del pane fatto in casa.
+v1;60;Andiamo a parlarne con il capo.
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;Cosa vuoi diventare da grande?
+v2;30;Non lo so, forse un guerriero, o un minatore... o magari un contadino...
+v1;60;Bene, prima o poi dovrai decidere.
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Ho paura di diventare adulto.
+v2;30;E perché mai?
+v1;60;Beh, perché... c'è troppo lavoro e non possiamo più giocare...
+v2;90;Vedrai, è fantastico!
+v1;120;No... non voglio non voglio non voglio!
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Mio padre è il migliore perché è un boscaiolo!
+v2;30;Pff! Il legno è inutile! Il mio è meglio perché è un minatore!
+v1;60;Senza legno, tuo padre non servirebbe a nulla.
+v2;90;Ah sì?! Cerchi rogna?!
+v1;120;Smettila, la pietra è inutile, ammettilo.
+v2;150;Senza pietra, tuo padre dormirebbe sotto le stelle!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Mutiliamoci alla prossima preghiera.
+v2;40;L'ho già fatto. Tu no?
+v1;80;I-i-io preferisco tenermi il mio sangue.
+v2;120;Ed ecco, ci risiamo! Ogni volta che sembri deciso, cambi idea!
+v1;160;Ma io non voglio!
+v2;200;Ti rifiuti di onorare i nostri Dei?!
+
+newchat;key:byzantins,weigth:9;
+v1;0;Non sopporto proprio quei Bizantini, credono che la terra sia loro!
+v2;30;E hai visto le loro costruzioni?
+v1;60;Sì, le ho viste. Davvero strane.
+v2;90;Mattoni? Ma a che serve!?
+v1;120;Usano persino quella roba di vetro, proprio come i Normanni.
+v2;150;È vero, ma sembrano più avanzati degli Indiani comunque. Loro non hanno nulla alle finestre.
+
+newchat;key:cacao,weigth:6;
+v1;0;Il cacao è sano e delizioso...
+v2;40;Sano, senza dubbio! Ma delizioso, sicuramente no! Il Wah è molto migliore.
+v1;80;Il cacao è il cibo preferito degli Dei. Mangia quello che ti offrono.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;Ci sono pochi alberi di cacao qui, questo posto è malsano.
+v2;40;Piantiamone.
+v1;80;Sicuro! I semi di cacao sono incredibilmente costosi!
+v2;120;Ek Chuah ci aiuterà.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Proverò a coltivare un po' di riso.
+v2;30;Riso? Cos'è?
+v1;60;Una pianta che ho comprato dagli Indiani. Dicono sia deliziosa!
+v2;90;Potrei assaggiarne?
+v1;120;Purtroppo no. Mi serve, devo piantare ogni granello.
+v2;150;Non funzionerà.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;Non abbiamo abbastanza polli da sacrificare.
+v2;40;Mi pare di aver incrociato $name. Compriamo delle uova da lui.
+v1;90;Hai ragione, facciamo così.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;Mamma! Posso andare a giocare più lontano dal villaggio?
+v2;30;No, bambino mio, non voglio che ti faccia male.
+v1;60;Male per cosa? Non è pericoloso là fuori.
+v2;90;Ascolta, ci sono creature pericolose là fuori...
+v1;120;Q-quale tipo di creatura, mamma?
+v2;150;Cose orribili come... i Creeper.
+v1;180;C-c-creeper?
+v2;210;Sì, bambino mio, ti seguiranno fino a casa e ti faranno esplodere quando meno te lo aspetti.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Ho visto uno strano uovo nero nel deserto.
+v2;30;Davvero? E com'era?
+v1;60;Era grande con macchie violette. Davvero grande.
+v2;90;Sei andato di nuovo a bere alcol normanno o stai scherzando?
+v1;120;Ma... è vero! Lo giuro!
+v2;150;Haha! Se pensi di potermi ingannare così, ti sbagli!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Ti assumo per proteggermi, in cambio di 48 denari al giorno.
+v2;30;Hmmm. Dipende per quanto tempo mi assumi, $targetfirstname.
+v1;60;Sei giorni. I miei cani non bastano a darmi protezione sufficiente.
+v2;90;Va bene, un denaro d'argento. Non meno.
+v1;120;È una rapina!
+v2;150;Niente affatto, $targetfirstname. Rischio la vita in questo mestiere.
+
+newchat;key:endofworld,weigth:3;
+v1;0;I nostri sciamani e i nostri astrologi vedono qualcosa.
+v2;40;Davvero? Cosa?
+v1;80;Vedono un evento importante nell'anno 2012.
+v2;120;Non pensi che stiano guardando un po' troppo avanti?
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Salve, signor $targetlastname. Il nostro accordo è ancora valido?
+v2;30;Sì, sì. Come detto, ho tutto.
+v1;60;Sempre puntuale! Un piacere fare affari con voi.
+v2;90;Ki’imak óolal haah tin. Le túun... 32 chuun che' tumen 8 máaskab. ¡Péeka'an! q/ Tutto il piacere è mio. Allora... 32 tronchi contro 8 lingotti di ferro. Ecco fatto!
+v1;120;Grazie mille, signore. Buona giornata.
+v2;150;Anche a voi, signor $targetlastname!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, mio buon amico $targetfirstname! Come stai?
+v2;30;Salve $targetfirstname! Faccio quel che posso, gli affari vanno male.
+v1;60;Hai smesso di vendere pietra agli Indiani?
+v2;90;Sì. Ora che i minatori giapponesi indipendenti hanno offerto i loro servizi, non hanno più bisogno di me.
+v1;120;Devi solo proporre loro qualcos'altro.
+v2;150;Hai qualche idea?
+
+newchat;key:gravity,weigth:7;
+v1;0;Le giornate sono molto più corte in queste terre.
+v2;30;Sì, e il terreno sembra fluttuare a volte.
+v1;60;Tranne la ghiaia... e la sabbia.
+v2;90;Mi chiedo perché.
+
+newchat;key:indians,weigth:8;
+v1;0;Gli Indù sembrano molto più pacifici dei Normanni, non trovi?
+v2;30;Sì, forse dovremmo provare ad allearci con loro.
+v1;60;Hmm... sì, insieme potremmo forse fare incursione sui Normanni, o persino sui Bizantini.
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Ehi, $targetfirstname, guarda qui.
+v2;30;Strana spada! E strano arco! Dove hai preso roba simile?
+v1;60;È uno yumi e un tachi. Dalla forgia giapponese.
+v2;90;Sono belli ed efficaci. Costavano cari?
+v1;120;Eccome! Ho sprecato due denari d'argento solo per l'arco!
+v2;150;Whoa! Devi aver risparmiato a lungo prima di comprarli.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;Voglio essere come mio padre quando sarò grande!
+v2;30;Una femminuccia?
+v1;60;Cosa? No, non è una femminuccia.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;L'architettura Maya è la più solida di tutte queste terre.
+v2;30;È grazie a tutta la pietra che produciamo che costruiamo queste meraviglie.
+v1;60;Mi chiedo quante altre case di pietra costruiremo?
+v2;90;Chéen k'iin a'al, amikoo./ Solo il tempo ce lo dirà, amico mio.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;La fede è la nostra unica arma in queste strane terre.
+v2;40;Vista la nostra situazione, dobbiamo punire chi offende i nostri Dei.
+v1;80;Non dobbiamo assolutamente offenderli.
+
+newchat;key:miner,weigth:9;
+v1;0;Dovremmo reclutare più minatori.
+v2;30;Ah sì! Le rocce e i minerali sono i materiali migliori che esistano.
+v1;60;Sono d'accordo... ma non siamo abbastanza nel villaggio, deve ingrandirsi.
+v2;90;E non possiamo far lavorare i bambini. Sono troppo giovani.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Davvero? $name è monoteista?
+v1;75;Andiamo. Non è così stupido da non credere nei nostri Dei.
+
+newchat;key:monster,weigth:5;
+v1;0;Ci sono molti mostri in giro adesso.
+v2;30;Sono sicuro che le guardie potranno combatterli.
+v1;60;Quello che mi preoccupa è se arriva un'orda di quelle creature verdi esplosive ad attaccarci.
+v2;90;Non temere. Abbiamo dei richiami da usare contro di loro.
+v1;120;D'accordo, al peggio c'è $name. Combatte bene e potrebbe difenderci.
+v2;150;Non ne dubito nemmeno io. Non è poi così male.
+
+newchat;key:normands,weigth:6;
+v1;0;Hai visto il colore della pelle dei Normanni? Sono tutti così pallidi!
+v2;30;Eh sì! Non avevo mai visto un colore simile prima. È strano.
+v1;60;Penso che possano essere stati maledetti...
+v2;90;Non dire sciocchezze. Sono umani come tutti gli altri.
+v1;120;Senza dubbio è l'alcol che li ha cambiati così. Sono sicuro che non sono sempre stati così.
+v2;150;Ti sbagli, probabilmente.
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Gli attrezzi e le armi di ossidiana sono i più affilati.
+v2;30;Così lussuosi, eppure chiunque può averne.
+v1;60;La mazza è perfetta per fracassare il nemico.
+v2;90;Davvero? Vorrei tanto vederne una in azione.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;È davvero una bella vita, quella nel mio meraviglioso palazzo.
+v2;30;Ed è un palazzo davvero magnifico, mio capo!
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Tanto mais da raccogliere, così poco tempo...
+v2;30;Sì, vorrei che ci toccasse una parte del raccolto.
+
+newchat;key:player,weigth:10;
+v1;0;Non riceviamo molti visitatori da queste parti.
+v2;30;Sì, ci sono solo $name e altri sperduti...
+v1;60;A proposito di $name, non lo trovi sempre più strano e stanco?
+v2;90;Vero. Dovrebbe riposarsi un po'.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name è una persona piuttosto strana.
+v2;30;Ancora più strana dei Normanni.
+v1;60;Ma da dove viene?
+v2;90;Non ne sono sicuro, non sembra venire da nessuna cultura.
+
+newchat;key:poktapok,weigth:7;
+v1;0;Adoro il Pok-ta-Pok!
+v2;40;Anch'io! Devo dire che è uno dei nostri pochi divertimenti qui.
+v1;80;È vero. È noioso... e ho perso la mia ultima palla!
+
+newchat;key:puja,weigth:6;
+v1;0;Sei andato a pregare?
+v2;35;Ovviamente! Un vero Maya deve farlo!
+v1;80;Haha! Certamente! Che domanda stupida ho fatto.
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;La nostra piramide è la più bella e la meglio costruita.
+v2;30;È vero. Ho visitato altri villaggi. Le loro sono molto belle ma non eleganti come la nostra!
+v1;60;La nostra architettura è unica e originale.
+v2;90;Non vantiamoci troppo. Non voglio assomigliare a quei vanitosi dei Bizantini.
+v1;120;Oh sì, eh... li odio. Come si può essere così pretenziosi!
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;Abbiamo bisogno di pioggia per il mais.
+v2;30;Come vorrei che piovesse.
+v1;60;Forse se andiamo a pregare, gli Spiriti ci concederanno una pioggia adatta a fare un raccolto perfetto quest'anno.
+v2;90;D'accordo, andiamoci appena non saremo troppo occupati.
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;Mamma e papà sono ingiusti! Dobbiamo sempre riordinare la nostra stanza!
+v2;30;Sì! Dovremmo ribellarci e pretendere un trattamento migliore!
+v1;60;All'attacco! Punta sulla mamma!
+
+newchat;key:reborn,weigth:7;
+v1;0;Che meravigliosa farfalla laggiù. Forse è il nostro amico, sacrificato quattro anni fa?
+v2;40;Penso piuttosto che sarebbe un colibrì!
+v1;80;Non saremo noi a saperlo.
+
+newchat;key:recolt,weigth:10;
+v1;0;Il raccolto è abbondante quest'anno.
+v2;30;Sì, e lamentarsene sarebbe stupido.
+v1;60;Davvero!
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Le donne ricche hanno tutto, non fanno alcun lavoro.
+v2;30;Sì, vorrei essere trattata così.
+v1;60;Sapevo che avrei dovuto sposare qualcuno con più denari.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Spero che un giorno governerò questo villaggio.
+v2;30;Continua a sognare allora, perché io sarò in alto prima di te.
+v1;60;Vedremo... vedremo.
+
+newchat;key:stone,weigth:10;
+v1;0;La pietra è il miglior materiale mai esistito.
+v2;30; È ancora migliore quando è cotta! Evviva la pietra!
+v1;60;Bisogna scavarla! Al lavoro!
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Diventare guerriero è stata la migliore decisione della mia vita.
+v2;30;Come mai?
+v1;60;Perché posso andare a combattere i nemici, molto più divertente che raccogliere mais.
+v2;90;Ma la mia vita è molto più al sicuro.
+v1;120;Vero, ma ho sempre voluto un brivido.
+
+newchat;key:village,weigth:8;
+v1;0;Trovo bello il nostro villaggio.
+v2;30;Anch'io. È molto artistico.
+v1;60;È tutto merito della pietra e della nostra maestria nell'architettura.
+
+newchat;key:wah,weigth:9;
+v1;0;Adoro mangiare il Wah.
+v2;30;Anch'io! La cosa migliore mai concepita.
+
+newchat;key:wither,weigth:3;
+v1;0;Nella foresta ho visto una strana creatura nera.
+v2;30;Davvero? Descrivimela, sono curioso!
+v1;60;Beh, era una specie di scheletro nero, con due teste alla fine delle braccia e una sul collo, e uno sguardo freddo come il ghiaccio...
+v2;90;Mi fa venire i brividi.
+v1;120;Gli Enderman la stavano attaccando.
+v2;150;Enderman? Non esistono, devi aver sognato.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;È ora di pulire la casa.
+v2;30;Ma l'hai fatto ieri!
+v1;60;Comunque, non mi è permesso fare nient'altro qui.
+v2;90;Ti lamenti sempre!
+v1;120;Invece di protestare perché mi lamento, prova a capire perché mi lamento!
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;"Xaire? Cos'è ""xaire""?"
+v1;70;Un Bizantino mi ha salutato così.
+v2;110;Andiamo. Sei un Maya. Salutiamoci nella nostra lingua.
+v1;150;Un vero Maya deve avere conoscenze in tutti i campi.
+v2;200;Ti concedo che è bene saper parlare più lingue, ma non parlerai così nel villaggio!
+
+newchat;key:year,weigth:5;
+v1;0;Sapevamo prima di chiunque altro che un anno dura esattamente 365,2420 giorni.
+v2;40;Siamo bravi in tutti i campi: matematica, arte, geografia...
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;Cosa faremo se un'orda di zombi ci invade?
+v2;30;Non temere, sono il guerriero meglio addestrato di queste terre.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;Hai visto l'ultimo temporale?
+v2;30;Eccome! I nostri raccolti hanno goduto dell'acqua, ma era terrificante.
+v1;60;Beh, ero nella pianura, e c'era un maiale accanto a me.
+v2;90;E?
+v1;120;Un fulmine lo ha colpito e... si è alzato sulle zampe posteriori...
+v2;150;Davvero?! E com'era?
+v1;180;Aveva muffa verde addosso... o qualcosa del genere. E aveva anche una spada d'oro.
+v2;210;L'hai attaccato o sei fuggito?
+v1;240;Ero disarmato. Ma non sembrava volermi attaccare. Mi guardava, voltava la testa e vagava senza sapere davvero cosa stesse succedendo.
+v2;270;Avresti dovuto usare il fuoco. E se attacca il villaggio?
+v1;300;Era immune al fuoco. Un fulmine lo ha colpito di nuovo e non ha sentito nulla.

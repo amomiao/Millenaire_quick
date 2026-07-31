@@ -1,0 +1,65 @@
+female.becomeadult=I want to be a mother some day.
+
+male.becomeadult=I want to be a warrior.
+
+villager.becomeadult=Time to grow up.
+
+villager.bringbackresourceshome=Work, work, work...
+
+villager.choptrees=I am going to cut down some trees.
+
+villager.constructionstepbystep=My father taught me how to build.
+villager.constructionstepbystep=I hope the kami like my building.
+
+villager.delivergoodshousehold=I got food from the market.
+
+villager.gathergoods=I need some supplies.
+
+villager.getgoodshousehold=These are things I need at home.
+
+villager.gethouseresources=I have to go get something from home.
+
+villager.getresourcesforbuild=I need more materials.
+
+villager.goplay=I want to play.
+
+villager.childobserveagriculture=My mum says cultivating rice is important, but it looks so boring to me...
+villager.childobserveconstruction=Maybe when I am bigger I will build pagodas. Out of gold!
+villager.childobservesmithing=Our weapons and armours are the coolest-looking!
+villager.childobserveproducefood=Why must everything here be made with rice? I'm tired of rice!
+villager.childobserveproducealcohol=I was sick last time I tried sake.
+
+villager.childeatapple=This world is magic! Apples grow on every tree!
+
+villager.maketools=I've crafted the finest tools for many years.
+
+villager.makeweapons=Secrets of finest weapons were passed down to me from my master.
+
+villager.plantsaplings=I will plant these saplings.
+
+villager.slaughterchicken=You will make a fine meal for someone.
+
+villager.calltoarms=They will regret the day they attacked us!
+villager.calltoarms=Grab your weapons!
+villager.calltoarms=Defend the village!
+
+villager.gopray.chosen=Calm your mind.
+villager.gopray=Kami protect us of from evil.
+villager.gopray=I will pray to the Goddess Uga-no-Mintama for bountiful harvest.
+
+villager.gorest=Ah, my bedtime.
+villager.gorest=I need to rest.
+villager.gorest=I am too tired.
+
+villager.greeting=How do you do?
+villager.greeting=Pleased to meet you.
+villager.greeting=What's new?
+villager.greeting=Good day, $name-san!
+villager.greeting=How are you, $name-san?
+villager.greeting=Greetings.
+villager.greeting=Welcome.
+villager.construction=My father taught me the art of building.
+villager.construction=I hope the kami favour my work.
+villager.sellercoming=I'll come right away!
+villager.tradecomplete=Many thanks, please come again.
+

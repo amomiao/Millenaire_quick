@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Peaksin pisut ayrani jooma.
+v2;30;Loodan, et võõrastemaja täna täis ei ole.
+v1;60;Jah, loodan, et täna ei lähe nagu eile.
+v2;90;Just nimelt, ja kui joon ayrani, kaob ka väsimus.
+v1;120;Sul on õigus.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Tere. Sooviksin osta vaipa.
+v2;30;Kindlasti. Millist te soovite?
+v1;60;Ma ei tea. Tahaksin osta kingituseks, sest mu sõbral on täna sünnipäev. Mida sa soovitad?
+v2;90;Mis te ütlete punasele vaibale?
+v1;120;Hästi, hea mõte.
+v2;150;Mitu te võtate?
+v1;180;Ainult ühe. Kas oskad selle ka kenasti pakkida?
+v2;210;Loomulikult, härra. Kas annate ise üle või toimetame kohale?
+v1;240;Annan ise üle. Aitäh.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Tere hommikust.
+v1;30;Kas sa magasid hästi?
+v2;60;Jah, magasin hästi.
+v1;90;Mida sa hommikusöögiks tahaksid?
+v2;120;Ma ei tea, aga sina?
+v1;150;Mina ka ei tea.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Issi, kas sa ütled mulle, mis on parim maak, mille sa välja kaevasid?
+v2;30;Las ma mõtlen... Vist oli see teemant.
+v1;60;Kui leiad veel ühe, kas annad selle mulle, issi?
+v1;90;Miks mitte, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah näeb kõike, mida me teeme, $targetfirstname.
+v2;30;Jah, see on tõsi, mu hodža.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0;Mu isa raiub kogu aeg süütuid loomi maha!
+v2;30;Aga kui see liha pole meile vajalik, siis sinu isa seda ei tee.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Kas oled, vennas, näinud nii head jooki kui ayran?
+v2;30;Ei, pole veel proovinud.
+v2;60;Kust sa selle said? Ma tahaksin ka.
+v1;90;Lähedal on köök, kus seda müüakse.
+v2;120;Olgu, suur tänu.
+v2;150;Mida nad seal veel müüvad?
+v1;180;Sealt leiad kõike — kalast pideeni välja.
+v2;210;Pean kohe sinna minema.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Tere, $targetfirstname.
+v2;30;Tere!
+v1;60;Kas oled uut hamamit näinud?
+v2;90;Ei ole.
+v1;120;Peame ruttu sinna minema!
+v2;150;Olgu, see on hea uudis.
+v1;180;On küll, sa ju tead, et puhtus käib usu juurde.
+v2;210;Olgu siis, vaatame ära.
+v2;240;Kuidas oleks tunni aja pärast?
+v1;270;Ei, läheme kohe.
+v2;300;Hästi, miks selline kiirus, sõber?
+v2;330;Kuhu me peame minema?
+v1;360;Tegelikult võime pisut oodata.
+v2;390;Sinuga on alati üks ja sama lugu, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Kas oled, vennas, näinud nii kaunist hoonet kui see mošee?
+v2;30;Ei, pole veel näinud.
+v2;60;Millal see valmis sai? Väga kena.
+v1;90;Sellest on juba kaua aega.
+v2;120;Ahaa, olgu.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Öösel näen alati teistsuguseid asju.
+v2;30;Öeldakse, et päeva kurjus on parem kui öö headus.
+v1;60;Sul on õigus, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Aeg on palvele minna.
+v2;30;Ärgem jäägem hiljaks.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Aeg on palvele minna.
+v2;30;Ärgem jäägem hiljaks.
+v1;60;Kui kena oleks, kui meil oleks ilus mošee, talha.
+v2;90;Just nimelt, vennas.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Niisiis, kuidas töö läheb, $targetfirstname?
+v2;30;Midagi pole muutunud, kõik on endine.
+v1;60;Kas sulle reisimine meeldib?
+v2;90;Jah, aga jalad valutavad ka.
+v1;120;Sul on õigus, $targetfirstname.
+v2;150;Muidugi mul on õigus!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah armastab oma töökaid teenijaid.
+v2;30;Seepärast olen ma väga rõõmus, et saan kõvasti tööd teha!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Kalapüük on kannatlikkuse asi, kas tead, mu kallis?
+v2;30;Sa oled kannatlik ainult kala püüdes!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Kuidas su päev täna oli?
+v2;30;Üsna kiire.
+v2;60;Olen seetõttu väsinud.
+v1;90;Kas tahaksid ühe ayrani?
+v2;120;Tuleks marjaks ära, jah.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Tere, $targetfirstname.
+v1;30;Kuidas sul täna läheb?
+v2;60;Aitäh, läheb hästi.
+v1;90;Kuidas su perel läheb, kas neil on kõik korras?
+v2;120;Aitäh, neil on samuti kõik korras.
+v1;150;Ilm läheb päris kuumaks, eks ole?
+v2;180;Jah, on tõesti palav.
+v1;210;Tervita oma peret.
+v2;240;Aitäh, tervita sinagi oma peret.
+v1;270;Nägemiseni.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Millal sa sisse kolisid?
+v2;30;Just sel nädalavahetusel.
+v1;60;Ma ei teadnudki, et see maja müüdi.
+v2;90;Mulle see maja lihtsalt nii väga meeldib, et pidin sisse kolima.
+v1;120;Saan aru, sest maja on tõesti erakordne.
+v2;150;Mitu aastat oled sina oma majas elanud?
+v1;180;Olen siin kaua elanud.
+v2;210;Loodan, et jääme veel pikaks ajaks naabriteks.
+v1;240;Mina ka.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Miks sind eile siin polnud?
+v2;30;Mul ei olnud eriti hea olla.
+v1;60;Mis sul viga oli?
+v2;90;Mul oli kõht paigast ära.
+v1;120;Kas tunned end nüüd paremini?
+v2;150;Ei ole veel päris hästi.
+v1;180;Kas tahad midagi, mis su enesetunnet parandaks?
+v2;210;Ei, aitäh. Võtsin juba rohtu.
+v1;240;Loodan, et hakkad paremini tundma.
+v2;270;Aitäh.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Kas oled uudist kuulnud?
+v2;30;Ma pole midagi kuulnud.
+v1;60;Mu naabril sündis eelmisel nädalal laps.
+v2;90;Keegi mulle ei rääkinud.
+v1;120;Mõtlesin, et sa juba tead.
+v2;150;Tõesti ei rääkinud keegi midagi.
+v1;180;Ta on tõeline imetilluke laps, maşallah.
+v2;210;Oi, kui põnev!
+v1;240;Tead, sa peaksid kindlasti minema ja nii ema kui ka lapsuke ära vaatama.
+v2;270;Loomulikult lähen.
+v1;300;Tahtsin lihtsalt sulle teada anda, mis juhtunud on.
+v2;330;Ma hindan seda.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Kas tahaksid minuga põllule minna?
+v1;30;Millal sa minna sooviksid?
+v1;60;Mis sa arvad järgmisest reedest?
+v1;90;Vabandust, ei saa. Mul on sõbraga õhtusöök.
+v1;120;Aga järgmisest teisipäevast?
+v1;150;Teisipäeviti käin mošeetunnis.
+v1;180;Oh, ehk mõni muu kord?
+v1;210;Hea küll, annan teada.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Kes see on?
+v2;30;Tema nime ma ei tea, kuid neil maadel on ta võõras.
+v1;60;Igaüks, kelles kurja pole, on neile maile teretulnud.
+v2;90;Sul on õigus.

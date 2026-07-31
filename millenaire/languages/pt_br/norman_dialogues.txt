@@ -1,0 +1,358 @@
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Ontem eu passei pela oficina do alquimista.
+v1;40;Estava com um cheiro horrível de ovo podre!
+v2;80;Dizem que ele está tentando criar a pedra filosofal!
+v1;120;Eu ouvi dizer que ele quer ressuscitar os mortos.
+v2;160;E eu, que ele vai fabricar um monstro a partir de cadáveres!
+v1;200;Que horror!
+v2;220;E olha que ele era um garoto tão encantador...
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Cotovia, gentil cotovia,
+v2;0;Cotovia, gentil cotovia,
+v1;30;Cotovia, vou depenar você.
+v2;30;Cotovia, vou depenar você.
+v1;60;Vou depenar sua cabeça.
+v2;60;Vou depenar sua cabeça.
+v1;90;E a cabeça! E a cabeça!
+v2;90;E a cabeça! E a cabeça!
+v1;120;Coitadinha da cotovia...
+v2;160;Por quê? É divertido!
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Você já visitou os arquivos novos?
+v1;30;A gente pode ver o que cada um está fazendo!
+v2;60;Ah, é mesmo... e, hum...
+v1;90;Sim, eu vi o seu painel.
+v1;120;Você devia ter vergonha.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;E aí, beldade, o que você vai fazer hoje à noite?
+v2;40;$targetfirstname, eu já disse que não!
+v1;60;Que temperamento!
+v2;80;Que bobalhão!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, que músculos bonitos!
+v1;30;Cale a boca, desgraçada! Se minha mulher ouve a gente...
+v2;60;E daí, bonitão?
+v1;90;Você sabe como ela é ciumenta!
+v2;120;E? Você tem medo dela?
+v1;140;Medo? Dela? Está brincando comigo!
+v2;160;Ha!
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Eu adoro o cheiro de pão fresquinho saindo da padaria.
+v2;40;Agora só falta alguém que saiba fazer croissants.
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Nossa aldeia é linda, você não acha?
+v2;30;Magnífica! E trabalhamos duro para isso!
+
+newchat;key:boudintripes,weigth:10
+v1;0;O que você prefere, boudin ou tripes?
+v2;40;Boudin. As tripes são pesadas demais!
+v1;80;Pesadas demais? E você se diz normando?
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Quando eu crescer, vou ser o líder da aldeia!
+v2;30;Vai precisar comer muita sopa antes de chegar lá.
+v1;60;E eu vou mandar castigar você!
+v2;70;Tá bom. Por enquanto, vai trabalhar ou leva um tabefe.
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Esses bizantinos me irritam!
+v2;30;Você viu como eles olham por cima do ombro?
+v1;60;Tudo porque eles se dizem romanos.
+v2;100;Que piada. Romanos degenerados, isso sim.
+v1;130;A gente devia organizar um ataque contra eles!
+v2;160;Afinal, somos vikings!
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Com esse tempo, um calvazinho cai bem!
+v2;30;Com qualquer tempo!
+v1;50;À Normandia e ao seu clima de calva!
+v2;70;Saúde!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Eu aprimorei minha técnica de novo.
+v1;30;Antes de montar as armações, eu começo...
+v2;70;Fascinante.
+v1;90;Você acha?
+v2;110;Não.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Eu adoro preparar tripes. Primeiro, sangra-se a vaca...
+v1;40;Depois, tira-se as entranhas...
+v2;60;Pare, você está me dando nojo!
+v1;80;Mas você adora tripes!
+v2;110;Sim, mas eu não quero saber como elas são feitas.
+
+newchat;key:christmas,weigth:10
+v1;0;Quando vai ser o Natal mesmo?
+v2;30;Eu não sei direito... As estações não mudam por aqui.
+v1;80;Que mundo estranho.
+v2;110;Às vezes até parece a Normandia...
+v2;140;E aí a gente percebe que está tudo diferente.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Nossa igreja é magnífica!
+v2;30;Isso mostra que somos uma aldeia piedosa.
+v1;60;E é maior que a da aldeia vizinha!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Meu filho, faz muito tempo que você não se confessa.
+v2;40;Mas, Padre, eu não pequei!
+v1;70;Todos pecamos neste mundo decaído.
+v2;110;Até o senhor, Padre?
+v1;130;Não seja insolente! Vai rezar dez Pai-Nossos de penitência!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Minha filha, faz muito tempo que você não se confessa.
+v2;30;É verdade, Padre, e eu pequei!
+v1;60;Se foi pecado da carne, falaremos disso em outro lugar.
+v2;100;Obrigada, Padre.
+v1;120;Por enquanto, dez Pai-Nossos. Sempre é útil!
+
+newchat;key:countingcows,weigth:10
+v1;0;Não tem muita distração por aqui.
+v2;30;Eu gosto, é tranquilo.
+v1;60;E tedioso...
+v2;75;Por que você não conta as vacas para se distrair?
+v1;110;Já fiz ontem. E as galinhas também.
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;O bom rei Dagoberto
+v1;30;Colocou a calça do avesso.
+v1;60;O grande Santo Elói
+v1;90;Disse-lhe: Ó meu rei!
+v1;120;Vossa Majestade
+v1;150;Está mal calçada.
+v2;180;Mal calçada? O que quer dizer?
+v1;220;Que ele não está de calças!
+v2;250;Bobagem, é o rei!
+v1;280;Pois é, o rei está sem calças!
+v2;310;Até você está de calças, bobo!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Se comporte, ou o Enderman vai pegar você esta noite!
+v2;40;Pfff, eu já passei da idade de acreditar nessas bobagens.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Sem dúvida, ser agricultor é o trabalho mais importante.
+v1;40;Sem mim, não tem pão!
+v2;60;Eu prefiro tripes, de qualquer jeito.
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Você reparou que aqui a terra flutua se a gente cava embaixo dela?
+v2;40;Reparei, e daí?
+v1;60;Na Normandia, ela caía...
+v2;90;Na Normandia, Deus queria que ela caísse. Aqui, Ele quer que ela flutue.
+v2;150;Por que você está criticando o Senhor?
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Somos imparáveis. Nossos navios impressionantes e cavaleiros honrados são o flagelo do mundo!
+v2;40;E quem são nossos inimigos? Um bando de romanos trapaceiros e maias apaixonados por pedras?
+v1;80;Não esqueça os tolos das neves, que nem têm o conceito de dinheiro!
+v2;120;Hahaha! A vida normanda é a melhor do mundo! Cidra maravilhosa, as melhores ferramentas. Ah, esta é a nossa era de ouro.
+v1;160;E ainda podemos compartilhar isso!
+v2;200;Hahaha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Frei João, Frei João
+v2;30;Está dormindo? Está dormindo?
+v1;60;Vá tocar o sino! Vá tocar o sino!
+v2;100;Dlin dlin dlão! Dlin dlin dlão!
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Quando eu era mais novo, eu era um aprendiz promissor.
+v1;40;O próprio Guillaume Vif-Argent se interessava por mim!
+v1;80;E agora estou preso aqui.
+v1;110;Tomando conta de uns idiotas.
+v2;130;Hein, como assim?
+v1;150;*suspiro*
+
+newchat;key:harvest,weigth:10
+v1;0;Você acha que a colheita vai ser boa este ano?
+v2;30;Quem sabe, com o tempo que tem feito.
+v1;60;As estações não fazem sentido por aqui.
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Faltam animais neste país.
+v2;30;Tem vacas, ovelhas e porcos.
+v2;60;O que mais a gente precisa?
+v1;60;Cavalos? E pôneis!
+v2;90;Tudo isso porque você quer um pônei, é isso?
+
+newchat;key:indianfood,weigth:5
+v1;0;Você ouviu falar daquele povo indiano?
+v2;30;Dizem que eles são muito estranhos.
+v1;60;Parece que a comida deles queima!
+v2;100;Que nem o calva?
+v1;120;Não, pior!
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Agora que temos uma estalagem, vamos poder comerciar!
+v2;40;Ou seja, os mercadores que passam vão se servir dos nossos recursos.
+v1;80;Você sempre foi um cínico.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Meu pai é muito mais forte que o seu.
+v2;30;Bobagem. Meu pai é o mais forte da aldeia.
+v1;60;Sonhe. Meu pai derruba o seu em dois minutos.
+v2;70;E a Terra é redonda, né?
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;As garotas não servem para nada.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Você pode até ser garoto, mas eu faço você chorar quando eu quiser.
+v2;30;Mentira! Mentira!
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Olhe para o meu castelo! Uma verdadeira fortaleza!
+v2;30;O senhor é tão poderoso, meu senhor!
+v1;60;Quando o Duque Guilherme voltar, com certeza me fará Conde!
+v2;100;Viva o Conde $targetfirstname!
+v1;130;Viva eu!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Minha beleza é famosa por estas terras.
+v2;30;A senhora é esplêndida, minha Senhora!
+v1;60;E mesmo assim eu me casei com um cavaleirinho qualquer...
+v2;100;Mas o senhor dele com certeza vai virar Conde um dia!
+v1;130;Aquele bobalhão? Por que não Papa, já que estamos nisso?
+v2;160;Por que não, minha Senhora! Hum... Eu quis dizer...
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Eu gosto da chuva.
+v2;30;Coisa boa para um normando!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Vamos passear pela floresta,
+v2;0;Vamos passear pela floresta,
+v1;30;Enquanto o lobo não chega.
+v2;30;Enquanto o lobo não chega.
+v1;60;Se o lobo estivesse aqui
+v2;60;Se o lobo estivesse aqui
+v1;90;Ele nos comeria,
+v2;90;Ele nos comeria,
+v1;120;Mas como ele não está,
+v2;120;Mas como ele não está,
+v1;150;Ele não vai nos comer.
+v2;150;Ele não vai nos comer.
+v2;180;Hum, você tem certeza?
+v1;200;Covarde!
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Maçãs maçãs maçãs!
+v1;30;Maçãs, maçãs... maçãs!
+v2;60;No seu caso é mais cidra cidra cidra, não é?
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Eu adoro o mercado! Tantas mercadorias maravilhosas!
+v2;40;Agora que ele existe, a gente se sente menos isolado.
+v2;80;Mas não mais rico...
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Que aldeia mais ordinária.
+v2;30;Ei, forasteiro, cuidado com o que diz!
+v1;70;E que habitantes encantadores!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Eu compus uma cançãozinha, quer ouvir?
+v2;40;Manda ver!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v2;70;Começou bem...
+v1;90;Voltando do trabalho para casa!
+v2;110;E eu tenho um monte de coisas para fazer.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Frei João, Frei João!
+v1;30;Muito engraçado, meu filho.
+v2;60;Está dormindo? Está dormindo?
+v1;90;Já chega, eu conheço a canção.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Que lugar isolado. Eu gostaria de ver outra coisa um dia desses...
+v2;30;As outras aldeias são todas iguais.
+v1;60;Não digo uma aldeia! Um burgo. Ou até uma cidade!
+v2;90;Tipo o quê, Ruão? Você está louco, fica a dias daqui.
+v1;120;Ruão... ou até mesmo... Por que não Paris?
+v1;150;Imagine só, dizem que vivem umas 25 mil pessoas lá!
+v2;180;Você está delirando. 25 mil pessoas no mesmo lugar? E onde caberia todo mundo?
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Tudo no porco é bom!
+v2;30;O único problema é o barulho que eles fazem quando a gente abate.
+v1;70;Quanto mais alto o porco guincha, melhor a carne!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Eu cuido da vida espiritual dos aldeões.
+v2;30;E tem muito o que cuidar!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Nossa aldeia é temente a Deus.
+v2;30;E o seu pároco, o Padre $targetlastname.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Sinto que vai chover.
+v2;30;Está sempre chovendo na Normandia...
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Eu sou muito estimado na corte do Rei Duque Guilherme.
+v2;40;Do Rei Duque?
+v1;60;Sua Majestade Guilherme, o Conquistador, Duque da Normandia e Rei da Inglaterra, ignorante!
+v2;100;E onde fica a Inglaterra?
+v1;120;Do outro lado do mar. Que ignorância!
+v2;140;De que mar, senhor?
+v1;160;Que insolência! Já chega!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;A arte pastoril é muito nobre.
+v2;30;Nobre? Pastor?
+v1;50;Não fomos nós os escolhidos por Deus para receber a Boa Nova?
+v2;90;Ah, sim. Enquanto vocês cuidavam dos cordeiros recém-nascidos - em dezembro.
+v1;130;E daí? Talvez em Belém não tenha estações. Igualzinho aqui!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;A verdadeira força dos normandos está nas suas armas e ferramentas.
+v2;40;E, portanto, nos seus ferreiros?
+v1;60;Evidentemente!
+
+newchat;key:storm,weigth:10
+v1;0;Ontem teve uma tempestade terrível.
+v2;30;É verdade, eu achei que meu telhado ia voar.
+v1;60;Acho que seria boa ideia reforçar todos os telhados.
+
+newchat;key:sunset,weigth:10
+v1;0;De que lado o sol nasce mesmo? Eu sempre esqueço.
+v2;30;Do norte, de onde mais seria?
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;A taverna é com certeza a melhor coisa que já se construiu nesta aldeia.
+v2;40;Ninguém aqui vai dizer o contrário!
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Tripes, isso é prato de homem.
+v2;30;Feito pelas mulheres...
+v1;60;Com carne de vaca abatida por homens!
+v2;100;E alimentadas por mulheres...
+
+newchat;key:visitors,weigth:10
+v1;0;O que falta por aqui são visitantes.
+v2;30;Bom, ainda tem o $name...
+v1;60;Mas ele é meio estranho, não?
+v2;100;É verdade, a gente nunca sabe o que ele está fazendo.
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Por que sempre são as mulheres que constroem?
+v2;40;Se incomoda você, eu cuido da próxima casa.
+v1;80;Sério? Que gentileza sua! Então, sobre as cortinas, não esqueça de...
+v2;120;Pensando bem, não, deixa para lá, acho que prefiro que você faça mesmo.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Você já viu o Duque Guilherme?
+v2;30;Não, nunca. Quem sabe onde ele está agora?
+v1;60;Se ele estivesse aqui, a gente já teria conquistado este mundo!
+v2;100;Viva o Duque Guilherme!

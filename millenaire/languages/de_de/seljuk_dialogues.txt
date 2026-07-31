@@ -1,0 +1,175 @@
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Nachts sehe ich immer wieder seltsame Dinge.
+v2;30;Man sagt, das Übel des Tages sei besser als das Gute der Nacht.
+v1;60;Du hast recht, $targetfirstname.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Papa, kannst du mir sagen, welches das schönste Erz war, das du je gegraben hast?
+v2;30;Lass mich nachdenken... Ich glaube, es war ein Diamant.
+v1;60;Wenn du wieder einen findest, gibst du mir auch einen, Papa?
+v1;90;Warum nicht, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah sieht alles, was wir tun, $targetfirstname.
+v2;30;Ja, so ist es, mein Hoca.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Mein Vater schlachtet ständig unschuldige Tiere!
+v2;30; Aber wenn wir das Fleisch nicht bräuchten, würde dein Vater das nicht tun.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Und wie läuft die Arbeit, $targetfirstname?
+v2;30;Nichts hat sich geändert, alles beim Alten.
+v1;60;Magst du denn die Reisen?
+v2;90;Ja, aber meine Füße tun mir auch weh.
+v1;120;Du hast recht, $targetfirstname.
+v2;150;Natürlich habe ich recht!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah liebt seine fleißigen Diener.
+v2;30;Darum arbeite ich auch so gerne hart!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Fischen ist eine Sache der Geduld, weißt du das, meine Liebe?
+v2;30;Du bist eben nur beim Fischen geduldig!
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Wer ist denn das?
+v2;30;Ich kenne seinen Namen nicht, aber er ist fremd in diesen Landen.
+v1;60;Wer kein Übel in sich trägt, ist in diesen Landen willkommen.
+v2;90;Du hast recht.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Hast du jemals ein Getränk gesehen, das so gut ist wie Ayran, Bruder?
+v2;30;Nein, das habe ich noch nicht.
+v2;60;Wo hast du es her? Ich will auch welches.
+v1;90;In der Nähe gibt es eine Küche, die es verkauft.
+v2;120;Gut, vielen Dank.
+v2;150;Was verkaufen sie da sonst noch?
+v1;180;Du kannst dir alles vorstellen, von Fisch bis Pide.
+v2;210;Da muss ich sofort hin.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Zeit zum Gebet.
+v2;30;Lass uns nicht zu spät kommen.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Zeit zum Gebet.
+v2;30;Lass uns nicht zu spät kommen.
+v1;60;Wie schön wäre es, wenn wir eine schöne Moschee hätten, $targetfirstname.
+v2;90;Ganz genau, mein Bruder.
+
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Ich sollte ein wenig Ayran trinken.
+v2;30;Hoffentlich ist das Gasthaus heute nicht voll.
+v1;60;Ja, hoffentlich, es sollte nicht wieder wie gestern sein.
+v2;90;Genau, und wenn ich Ayran trinke, geht meine Müdigkeit weg.
+v1;120;Du hast recht.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Guten Tag. Ich möchte einen Teppich kaufen.
+v2;30;Gerne. Wie soll er denn aussehen?
+v1;60;Ich weiß es nicht. Ich wollte ein Geschenk kaufen, weil meine Freundin heute Geburtstag hat. Was würdest du empfehlen?
+v2;90;Was hältst du von dem roten Teppich?
+v1;120;Gut, eine großartige Idee.
+v2;150;Wie viele möchtest du?
+v1;180;Nur einen. Kannst du ihn schön verpacken?
+v2;210;Natürlich, mein Herr. Möchtest du ihn selbst überbringen, oder sollen wir ihn liefern?
+v1;240;Ich werde ihn selbst überbringen. Vielen Dank.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Einen schönen Tag.
+v1;30;Hast du gut geschlafen?
+v2;60;Ja, ziemlich gut.
+v1;90;Was möchtest du zum Frühstück haben?
+v2;120;Ich weiß nicht, und du?
+v1;150;Ich weiß es auch nicht.
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Wie war dein Tag heute?
+v2;30;Er war ziemlich anstrengend.
+v2;60;Ich bin so müde.
+v1;90;Möchtest du ein Ayran trinken?
+v2;120;Ja, das wäre schön.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Hallo, $targetfirstname.
+v1;30;Wie geht es dir heute?
+v2;60;Danke, mir geht es gut.
+v1;90;Wie geht es deiner Familie, geht es ihnen gut?
+v2;120;Danke, ihnen geht es auch gut.
+v1;150;Das Wetter wird ziemlich heiß, nicht wahr?
+v2;180;Ja, es ist wirklich heiß.
+v1;210;Grüß deine Familie von mir.
+v2;240;Danke, grüß deine auch von mir.
+v1;270;Auf Wiedersehen.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Wann bist du eingezogen?
+v2;30;Erst letztes Wochenende.
+v1;60;Ich wusste nicht einmal, dass das Haus verkauft wurde.
+v2;90;Ich liebe dieses Haus einfach, also musste ich einziehen.
+v1;120;Das verstehe ich, denn das Haus ist außergewöhnlich.
+v2;150;Wie viele Jahre wohnst du schon in deinem Haus?
+v1;180;Ich wohne schon lange hier.
+v2;210;Ich hoffe, wir bleiben noch eine Weile Nachbarn.
+v1;240;Ich auch.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Warum warst du gestern nicht hier?
+v2;30;Ich habe mich nicht so gut gefühlt.
+v1;60;Was war denn los mit dir?
+v2;90;Mein Magen war verstimmt.
+v1;120;Geht es dir jetzt besser?
+v2;150;Ich fühle mich noch nicht wirklich besser.
+v1;180;Möchtest du irgendetwas, damit es dir besser geht?
+v2;210;Nein, danke. Ich habe schon Medizin genommen.
+v1;240;Ich hoffe, du fühlst dich bald besser.
+v2;270;Danke.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Hast du die Neuigkeiten gehört?
+v2;30;Ich habe nichts gehört.
+v1;60;Meine Nachbarin hat letzte Woche ihr Baby bekommen.
+v2;90;Niemand hat es mir gesagt.
+v1;120;Ich dachte, du hättest es gehört.
+v2;150;Mir wurde wirklich nichts gesagt.
+v1;180;Sie ist ein süßes Baby, maşallah.
+v2;210;Wow, wie aufregend.
+v1;240;Ich weiß, du solltest sie und das Baby wirklich besuchen.
+v2;270;Natürlich werde ich das.
+v1;300;Ich wollte dich nur wissen lassen, was passiert ist.
+v2;330;Das weiß ich zu schätzen.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Möchtest du mit mir aufs Feld gehen?
+v1;30;	Wann willst du denn gehen?
+v1;60;Wie wäre es mit nächstem Freitag?
+v1;90;Tut mir leid, ich kann nicht. Ich esse mit einem Freund zu Abend.
+v1;120;Wie wäre es mit dem darauffolgenden Dienstag?
+v1;150;Dienstags gehe ich in den Moscheeunterricht.
+v1;180;Oh, vielleicht ein anderes Mal?
+v1;210;Ja, ich sage dir Bescheid.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Hallo, $targetfirstname.
+v2;30;Hey!
+v1;60;Hast du den neuen Hamam gesehen?
+v2;90;Nein, noch nicht.
+v1;120;Wir müssen ihn schnell besuchen!
+v2;150;Gut, das sind gute Nachrichten.
+v1;180;Ja, ja, weißt du, sauber zu sein gehört zur Religion.
+v2;210;Also gut, schauen wir ihn uns an.
+v2;240;Wie wäre es in einer Stunde?
+v1;270;Nein, lass uns jetzt gehen.
+v2;300;In Ordnung, warum diese Eile, mein Freund?
+v2;330;Wohin müssen wir gehen?
+v1;360;Eigentlich können wir noch ein wenig warten.
+v2;390;Mit dir ist es immer dasselbe, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Hast du jemals ein Gebäude gesehen, das so schön ist wie diese Moschee, Bruder?
+v2;30;Nein, das habe ich noch nicht.
+v2;60;Wann wurde sie fertiggestellt? Sie ist sehr schön.
+v1;90;Das ist schon lange her.
+v2;120;Oh, gut.

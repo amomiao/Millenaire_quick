@@ -1,0 +1,15 @@
+{
+	id: "2342548676D3DE74"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ id: "7A4244435763F4C7", item: { components: { "minecraft:custom_name": "\"沉思号角\"", "minecraft:instrument": "minecraft:ponder_goat_horn" }, count: 1, id: "horseman:copper_horn" } }
+		{ id: "4935B70B3531571E", item: { components: { "minecraft:custom_name": "\"歌颂号角\"", "minecraft:instrument": "minecraft:sing_goat_horn" }, count: 1, id: "horseman:copper_horn" } }
+		{ id: "3DD0CEAA766E9FCC", item: { components: { "minecraft:custom_name": "\"寻觅号角\"", "minecraft:instrument": "minecraft:seek_goat_horn" }, count: 1, id: "horseman:copper_horn" } }
+		{ id: "6B42F6E7C5683AF5", item: { components: { "minecraft:custom_name": "\"感受号角\"", "minecraft:instrument": "minecraft:feel_goat_horn" }, count: 1, id: "horseman:copper_horn" } }
+		{ id: "6BDC839B969EA644", item: { components: { "minecraft:custom_name": "\"仰慕号角\"", "minecraft:instrument": "minecraft:admire_goat_horn" }, count: 1, id: "horseman:copper_horn" } }
+		{ id: "2452DC19AC282614", item: { components: { "minecraft:custom_name": "\"呼唤号角\"", "minecraft:instrument": "minecraft:call_goat_horn" }, count: 1, id: "horseman:copper_horn" } }
+		{ id: "6DFB7D7C31480A22", item: { components: { "minecraft:custom_name": "\"憧憬号角\"", "minecraft:instrument": "minecraft:yearn_goat_horn" }, count: 1, id: "horseman:copper_horn" } }
+		{ id: "66502126412236A1", item: { components: { "minecraft:custom_name": "\"想象号角\"", "minecraft:instrument": "minecraft:dream_goat_horn" }, count: 1, id: "horseman:copper_horn" } }
+	]
+}

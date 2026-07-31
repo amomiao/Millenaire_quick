@@ -1,0 +1,474 @@
+newchat;key:Inuit,v1:adult,v2:adult,weigth:10
+v1;0;Prej sem se pogovarjal z bizantinskim trgovcem in mi je pripovedoval o vaseh daleč v snegu.
+v2;30;Vasi v snegu?
+v1;60;Da, imenujejo se "Inuiti".
+v2;90;Inuiti? Kako čudno ime, kakšni so?
+v1;120;Trgovec je rekel, da ne verjamejo v denar.
+v2;150;Ne verjamejo v denar?! Kako bi lahko živeli?
+v1;180;Vse so si enakovredno delili. To je trgovino z njimi zelo otežilo.
+v2;210;Ubogi trgovec. Vsaj nazaj je v rimskem cesarstvu, daleč od teh barbarov.
+v1;240;Strinjam se! Rimsko cesarstvo je najboljša dežela za trgovino!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, sestra moja, vedno sem hotel vedeti, zakaj si se poročila s tem bedakom.
+v2;30;Ker ga ljubim!
+v1;60;In zdaj se pišeš $targetlastname. $targetlastname! Tako slabo zveni!
+v2;90;Hej! Ne bodi tako hudoben! Ti si začel spor.
+v2;110;Pijan si bil!
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Brat $targetfirstname, lepo te je videti!
+v1;30;Pravkar sem našel najin stari leseni meč!
+v1;50;Se spomniš?
+v2;80;Počakaj! Je to meč, ki nama ga je dal oče?
+v1;110;Je! Se spomniš najinih bojev z njim?
+v2;140;Kako bi pozabil! Še vedno imam nekaj brazgotin.
+v2;170;Ko bolj razmišljam o tem...
+v2;200;Precej kruto je bilo od očeta, da nama je dal samo en meč!
+v2;240;Vedel je, da se bova zanj bojevala!
+v1;270;Mislim, da je tako prav!
+v2;300;Ker si ga obdržal ti!
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Si že slišala za drvarjevo skrivnost?
+v2;30;Ne, kaj je narobe z njim?
+v1;60;Zdi se, da nabira jabolka in jih prodaja tistim Normanom!
+v2;90;Nemogoče! In denar obdrži?
+v1;120;Seveda!
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Si že slišala o baronu v sosednji vasi?
+v2;30;Da, je to tisti, čigar ženo so našli umorjeno?
+v1;60;Točno! Mož mi je pravkar povedal, da je baron sam ubil svojo ženo!
+v2;100;Kaj..?
+v2;130;Vedno sem vedela, da bo!
+v2;150;A nihče mi ni verjel..!
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Si že razmišljala, kako bi bilo, če bi imeli vojno?
+v1;30;Tudi zdaj se moški bojujejo za našo domovino!
+v1;55;Resnično jih občudujem!
+v2;80;Vojna bi bila strašna.
+v2;110;Mislim, da imaš preprosto rada vojake.
+v2;140;Pa imaš moža!
+v1;170;A lenega in pogosto pijanega!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Mož je rekel, da bo kmalu baron obiskal našo vas!
+v2;30;Zakaj bi prišel sem?
+v2;40;Tak mogočen, močan in čeden moški...
+v1;70;Kaj? Tebi so všeč?
+v2;100;Moraš priznati, da so privlačni!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;V sosednji vasi je raznašalka!
+v1;20;Menda so hodili tja celo moški iz naše vasi!
+v2;60;Strašno! Moram zaslišati moža!
+v1;90;Moj je videti nedolžen. Za tvojega nisem prepričana, draga moja!
+v2;120;Upam, da je. Bolje, da je.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Rada gledam otroke, ko se igrajo!
+v1;20;Vedno me to spravi v željo po dojenčku!
+v2;50;Si prepričana, da si ga lahko privoščite?
+v2;70;Otroci so dragi!
+v1;100;Brez skrbi! Moj mož ima več kot dovolj denarja.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Draga moja, tvoj mož je pijanec!
+v2;15;Kako moreš to reči?
+v1;45;Sinoči je prišel k nam pijan!
+v1;70;Rekel je, da se hoče poročiti z ovco.
+v1;100;In da bi bila to ogromna poročna slovesnost!
+v1;130;Prosim, prevzemi nadzor nad svojim možem.
+v1;150;Res je grozno.
+v2;180;Prav, prav, kaznovala ga bom!
+v2;210;Brez vina zanj!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Tvoj kruh je tako okusen! Kakšna je tvoja skrivnost?
+v2;30;Samo malo sladkorja primešaj.
+v1;60;Res? Nič drugega?
+v2;90;To je vse! Razliko boš okusila.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Kdo je bil tisti moški, ki te je obiskal sinoči?
+v2;30;Kakšen moški?
+v1;40;Moški, ki se je splazil skozi tvoje okno!
+v1;45;Ne misli, da ne bi opazila!
+v2;60;Kako si drzneš..? Vedno sem in bom zvesta možu.
+v1;80;Ja, ja. Tudi jaz bi to rekla, če bi bila na tvojem mestu.
+v2;110;To ni pošteno! Ne širi govoric o meni.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Ti novi kuhinjski pripomočki so izjemni!
+v2;30;Da, s tem je kuhanje tako enostavno! Zabavno je!
+v1;60;Hvala kovačem in obrtnikom, ki so se domislili teh stvari!
+v2;90;Da! Zato ljubim biti Rimljanka.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Zavidam tistim bogatašem.
+v1;20;Imajo tako lepa svilena oblačila!
+v2;50;To resnično ni pošteno. Nič ne delajo, pa vseeno dobijo najboljše stvari.
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Ko sem bil mlad, sem hotel biti raziskovalec, odkrivati nove dežele in spoznavati zanimive nove ljudi. A zdaj? Zataknjen sem v tej odročni majhni vasi. Hočem iti in obiskati nove kraje.
+v2;30;A v drugih vaseh ne boš našel veliko razlike. Vsi smo si precej podobni.
+v1;60;Ne govorim o vaseh. Govorim o mestih ali celo o veliki Cesarski prestolnici!
+v2;90;O cesarski prestolnici? Misliš Konstantinopel?
+v1;120;Da! Središče našega veličastnega cesarstva. Čudo sveta.
+v1;150;Tam živi več kot 500.000 ljudi, si lahko zamisliš?!
+v2;180;Zdi se mi nemogoče. 500.000 ljudi na enem kraju? Sanjaj naprej!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Si videla moja nova oblačila?
+v2;30;Prava lepotica si, draga moja. Vse ti pristaja!
+v1;60;A nisem tako lepa kot ti!
+v2;90;Oh, to ni res, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Si videla moja nova oblačila?
+v2;30;Lepotica si. Vse ti pristaja, draga $targetfirstname!
+v1;60;A nisem tako lepa kot ti!
+v2;90;Res je.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Si videl moja nova oblačila, $targetfirstname?
+v2;30;Mislim, da so ti stara oblačila pristajala veliko bolje.
+v1;60;KAJ?
+v2;70;Ne... Ne! Lepa si! Te nove... stvari mi ugajajo!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Torej, ti je všeč moja nova obleka?
+v2;30;Stara ti je pristajala bolje.
+v1;60;KAJ?
+v2;70;Hej, $targetfirstname, to je samo moje mnenje.
+v1;90;Vsaj iskren si!
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Sprašujem se, kaj se je zgodilo s Konstantinoplom.
+v2;30;Mislim, da je prišel sem z nami v to novo deželo.
+v1;60;Zakaj tako misliš?
+v2;90;Živel sem blizu velikega mesta in odpeljali so me sem.
+v1;120;Res, a ima tako veliko ljudi. Že bi slišali zanj.
+v2;150;Lahko je zelo daleč.
+v1;180;Da, a slava in sijaj Konstantinopla sta tako velika, da so o njem slišali celo na Kitajskem.
+v2;210;Ne reci, da verjameš tem zgodbam o Kitajskem?
+v1;240;Verjamem, da je v njih nekaj resnice.
+v2;270;A o Kitajskem je toliko skrivnosti, da ne moremo predvidevati, ali je v njih kaj resnice.
+v1;300;Toliko je skrivnosti o tem, ali je Konstantinopel tukaj, da tudi tega ne moremo predvidevati.
+v2;330;No, da, a tudi če Konstantinopel ni tukaj, moramo rasti in varovati rimsko cesarstvo.
+v1;360;Glede tega se s teboj strinjam!
+v2;390;Naj Rim traja večno!
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Mi lahko kupiš to novo punčko? Vsi imajo novo razen mene...
+v1;30;Kakšna je čarobna beseda?
+v2;60;Mi lahko PROSIM kupiš novo punčko?
+v1;90;Prav, ampak obljubi, da se ne boš več prerekala!
+v2;120;Obljubim!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej lepotica, ti je všeč, kar vidiš?
+v2;20;*klofuta*
+v2;25;Imaš ženo.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej, danes izgledaš čudovito, $targetfirstname!
+v2;30;Hvala!
+v1;60;Kot vedno, draga moja!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej $targetfirstname, ali si lepotica, kot si ti, želi čednega tipa, kot sem jaz?
+v2;40;Poročen si, in jaz tudi.
+v2;60;Mislim, da nisi zvest! Povedala bom tvoji ženi!
+v1;75;NE — Ne počni tega —
+v1;85;Jaz sem njegov hudoben dvojček!
+v2;120;Seveda si! Isti hudobni dvojček, ki je vedno pijan!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Kako gre z ženskimi opravki?
+v2;30;Dobro, dobro, le malo slabe volje sem...
+v1;60;Oh ne, kaj se je zgodilo?
+v2;90;Mož je name kričal.
+v1;120;Kako more kričati na tako lepotico?
+v2;150;Hvala, da si me razvedril, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*uh*
+v1;30;Si v redu, $targetfirstname?
+v2;50;Da, le težko delo je!
+v1;70;Smem pomagati? Bi se ti potem boljše počutilo?
+v2;90;Seveda! Hvala!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Kako gre?
+v2;30;Vse je v redu, kaj pa pri tebi?
+v1;60;Tudi pri meni! Hvala za vprašanje.
+v1;75;A vidim, da te nekaj muči!
+v2;90;Nič — ni.
+v1;110;Prosim, povej mi!
+v2;130;Le da je moje življenje tu tako pusto.
+v2;160;Resnično bi si želela, da bi se v mladosti odločila za mesto!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Kaj naj naredim, če mi je všeč punca?
+v1;30;Daj ji poklone in bodi prijazen z njo.
+v2;60;Ne! Nemogoče! Kaj bodo potem drugi mislili o meni?
+v1;90;Če bi jo res ljubil, ti ne bi bilo mar za druge.
+
+newchat;key:harvest,weigth:10
+v1;0;Pšenica letos raste zelo dobro, prav tako grozdje. Sijajno, ne?
+v2;30;Da, tako kaže. Zahvaliti se moramo čudnemu vremenu tukaj.
+v1;60;Tudi če meni nič ne govori!
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Čas je, da te naučim, kako skrbeti za dom.
+v2;30;Sijajno, s čim začneva? Lahko naredim suvlaki? Proooosim!
+v1;60;Najprej poglejva, kako dobro pospraviš.
+v2;90;V redu, mi pa boš pozneje pokazala, kako narediti suvlaki, obljubiš?
+v1;120;Obljubim.
+
+newchat;key:ishome,weigth:6
+v1;0;Vedno je veselje videti našo lepo majhno vas, kajne?
+v2;30;Seveda je! Toliko časa smo porabili za delo na tem kraju.
+v1;60;Skoraj je kot dom, tako kot preden smo prišli sem.
+v2;90;To je zdaj naš dom, sprejeti moramo to dejstvo.
+v1;120;Res je, ta pogovor mi je dal to razumeti.
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Moj očka je močnejši od tvojega.
+v2;30;Ne! Moj očka je najmočnejši v vasi!
+v1;60;Ne! Moj očka je najmočnejši v cesarstvu!
+v2;90;Nemogoče! Moj očka je najmočnejši na svetu!
+v1;120;Stavim, da moj očka tvojega premaga v manj kot dveh udarcih!
+v2;150;Pripravi očeta na boj!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Punce so neumne.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Si kje videl mojo punčko? Najti je ne morem...
+v2;30;Vrni mi moj meč in jo boš dobila nazaj!
+v1;60;Ukradel si jo! Tat!
+
+newchat;key:kidsBos,v1:child,v2:child,weigth:5
+v1;0;Bee… Beee… Jaz sem kralj pastirjev!
+v2;30;Nehaj! S tem ga boš priklical!
+v1;60;O Boskokrator, gradim ti sveti kraj…
+v2;90;Utihni! Ne veš, kaj se zgodi v legendi?
+v1;120;$targetfirstname, jokavec! Saj je samo to! Legenda!
+
+newchat;key:lightning,weigth:7
+v1;0;Se spomniš nevihte, ki smo jo imeli? Mislim na tisto res hudo!
+v2;30;Seveda. Skoraj uničila je našo žetev. Narava je precej impresivna, kajne?
+v1;60;Impresivna je ena stvar. A skoraj me je zadela strela!
+v2;100;Nisi bil doma? Veš, da je med nevihto zunaj nevarno!
+v1;120;Živi in se uči.
+
+newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
+v1;0;Slabo se počutim...
+v2;30;Kaj je narobe s teboj? Si bolan?
+v1;60;Ne, z-z-zgolj sem se spomnil neke s-stvari.
+v2;100;Slabo zveniš. Si prepričan, da nisi bolan?
+v1;120;N-ne, samo s-strah me je.
+v2;150;Pa kaj se je zgodilo?
+v1;180;Med z-zadnjo nevihto. Hodil sem zunaj v-vasi, vedel sem, da se ne bom vrnil v vas pred nevihto. Skril sem se pod drevo.
+v2;210;Tvegal si življenje zunaj vasi! Lahko bi umrl!
+v1;240;No, bil sem na varnem. A potem sem videl prašiča. Strela ga je zadela. In mrtvi p-prašič... v-vstal je in hodil k-kot mi, m-me lovil s svetlečim m-mečem!
+v2;290;Bedarije govoriš. To je bila nočna mora.
+v1;320;Res je bilo! Res! Res! Res!
+v2;350;Nor si. Pojdi popit kozarec vina in se umiri.
+v1;380;T-to bom n-naredil. Mor-morda bo pomagalo.
+
+newchat;key:loneVillage,weigth:10
+v1;0;Dolgčas. Vse je tu vedno isto.
+v2;30;Vsaj mirno je.
+v1;60;Nič posebnega za tako odročno vas, kot je naša!
+
+newchat;key:nicevillage,weigth:10
+v1;0;Vedno je prijetno videti našo ljubko majhno vas, kajne?
+v2;30;Seveda, sad našega truda je!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Si slišal za normansko vas v bližini?
+v2;30;To ni dobro, spomnim se, da so vedno napadali južno Italijo, preden smo prišli sem.
+v1;60;Upajmo, da nas ne bodo napadli.
+v2;90;Tudi jaz upam.
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Vedno je veselje videti našo lepo majhno vas, kajne?
+v2;30;Seveda je! Toliko časa smo porabili za delo na tem kraju.
+v1;60;Skoraj je kot dom, tako kot preden smo prišli sem.
+v2;90;To je zdaj naš dom, sprejeti moramo to dejstvo.
+v1;120;Vem, sčasoma bom to sprejel...
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Naše zgradbe so tako lepe, vedno je veselje videti naše delo!
+v2;30;Tudi Maji gradijo zelo lepe stavbe.
+v1;60;Ne moti me s takimi čudaki. Naše zgradbe izgledajo veliko boljše!
+v2;90;No...
+v1;100;Izdajalec! Nimaš nacionalnega ponosa?
+
+newchat;key:pride2,weigth:10
+v1;0;Mi Rimljani smo lahko resnično ponosni na dosežke!
+v2;30;Seveda! Vse, kar vidiš, smo naredili mi!
+v1;60;Najmočnejše cesarstvo v zgodovini sveta!
+v2;90;Drugi narodi naj se sončijo v naši slavi.
+v1;120;Morajo! Mi smo vladarji!
+
+newchat;key:pride3,weigth:10
+v1;0;Rimsko cesarstvo bo spet vladalo svetu!
+v2;30;Tako bo!
+v1;60;Vse bo takrat bolje!
+v2;90;Ja!
+v1;100;Na čast cesarstva!
+v2;110;Na zdravje!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Deževalo bo. Kmalu.
+v2;30;Tudi jaz to čutim.
+v1;60;Čudno. Vedno mine enako število dni do naslednjega dežja.
+v2;100;Si tudi ti tako mislil?
+v2;125;Čudno življenje tu, kajne?
+v1;155;Pa še kako!
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Si že kaj slišal o Seldžukih, odkar smo prispeli sem?
+v2;30;Ne, nisem; misliš, da so prišli z nami v to deželo?
+v1;60;Dvomim; že o ljudeh, za katere nismo vedeli, da obstajajo, smo slišali.
+v2;90;Verjetno si bomo morali tudi v tej deželi najti nove sovražnike.
+v1;120;Še z Normani moramo opraviti.
+v2;150;No, Rimljani smo! Take roparje zlahka premagamo, na Rim!
+v1;165;Na Rim!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Se spomniš voznika voza, ki sva ga v otroštvu tako oboževali?
+v2;30;Seveda, sestra. Bili sva njegovi največji oboževalki!
+v1;60;Sprašujem se, kaj se je zgodilo z njim.
+v1;90;Več ga ni slišati...
+v2;120;Verjetno se je ustalil v vasi, podobni naši, in si ustvaril ženo in otroke.
+v1;150;Vseeno upam, da ga še kdaj srečam!
+v2;180;Tudi jaz!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Upam, da nam kmalu ne bo treba spet ven se boriti z barbari.
+v2;30;Kaj? Vojaka sva, najino delo je boj z barbari. Zakaj si se sploh pridružil vojski, če ti ni do bojevanja?
+v1;60;Mislil sem, da bo vojaški poklic lažji – da bom le malo stal naokoli in pobil nekaj pošasti in tu in tam kakšnega barbara. Toda zdaj, ko ubijem barbara, mu pogledam v obraz in pomislim: "Mogoče teh ljudi sploh ne bi smeli ubijati."
+v2;120;Preveč razmišljaš! Pojdi ven in pobij barbare za Rim. Saj bi oni nas pobili in nam uničili domove! Le neciviliziranci so.
+v1;150;Si sploh kdaj srečal te ljudi, o katerih pridigaš, naj jih pobijemo? Nisi; mogoče so drugačni, kot so nam pripovedovali.
+v2;180;Res je, lahko so še veliko hujši.
+v1;210;Mislim, da ne razumeš misli in stiske, skozi katero grem.
+v2;240;Vojak sem, ne filozof. Pojdi molit k Bogu po vodstvo, očitno ga potrebuješ.
+v1;270;Sem že in od Boga nisem dobil ničesar več. Ko sem molil, sem prišel do istega sklepa kot zdaj.
+v2;300;Kaj? Očitno si zapustil Boga, da ti ne pove resnice! Vrni se k molitvi, dokler ne boš spet zmožen ubijati barbarov!
+v1;330;Morda je prav ta sklep tisto, kar je Bog hotel zame!
+v2;360;Bolj se sliši, kot da Bog hoče, da se upokojiš...
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ah... Suvlaki, edina prava jed!
+v2;30;Sveta Marija, varuj nas...
+v1;60;Sveta Trojica, daj nam moč!
+v2;100;Amen.
+v1;130;Amen...
+v2;190;Kam sem že dal sol?
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Obožujem sončne dneve!
+v2;30;Kdo jih ne?
+
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;Obožujem sončne dneve!
+v2;30;Kdo jih ne?
+v1;60;Jaz ne.
+v2;120;Zakaj pa ne?
+v1;150;Sonce peče! Sovražim biti zunaj!
+v2;180;Obnašaš se kot zombi!
+v1;210;Mogoče sem...
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;V tej prekleti vasi nimamo dovolj vina!
+v2;30;Strinjam se! Postaviti moramo več vinogradov!
+v1;60;In več krčem!
+v2;90;Kaj če bi odprla svojo krčmo?
+v1;120;Odlična zamisel! Načrtujva to.
+v2;150;Toda kje bova začela?
+v1;180;In najini ženi ne bosta zadovoljni, ko bosta to slišali!
+v2;210;Ne, prodaja rimskega vina je vedno dober izgovor!
+v1;240;Prav! Potem privarčujva denar.
+v1;270;Ko bova zaslužila dovolj, uresničiva načrt!
+v2;300;Imela bova najboljšo krčmo v vsem cesarstvu!
+v1;325;Pa še kako!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Odlična hrana, odlično orožje, odlična umetnost – po tem je naš narod znan!
+v2;30;In odlično vino!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Žene sem že naveličan. Novo želim!
+v2;30;Kdo je ni?
+v1;60;Mogoče bi morala nenadoma zapustiti vas in poiskati novi!
+v2;90;Ja! Maji in Indijci imajo tako lepe žene, si videl?
+v2;140;Toda... ta vas je brez naju izgubljena.
+v2;160;In ne pozabi najinih otrok!
+v1;180;Uh! Najini otroci! Brez očeta ne bi preživeli!
+v1;220;Toda... pomeni to, da morava nadaljevati to dolgočasno življenje tukaj?
+v2;255;Verjetno je to najboljša pot.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Naravnost neverjetno, kako podrobno so videti tvoje ikone.
+v2;30;Seveda, saj je velika rimska umetnost!
+v1;60;Kot vse, kar počnemo. Poglej naše čudovite hiše!
+v2;90;In ne pozabi naše slavne zgodovine!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Se spomniš dekleta, za katero sva se v otroštvu stepla?
+v2;30; Ja... Tisto je bilo grdo obdobje. Dobro, da je mimo.
+v1;60;Vesel sem, da to slišim, kajti pravkar mi je povedala, da ji je bil ves čas všeč jaz!
+v2;90;Kaj? To pa ni res!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Poglej tega prašiča! Saj je luštkan, kajne?
+v2;30;UAAAaaah, pojdi stran!
+v1;60;Te je strah prašičev?
+v2;80;N-ne! Ni me!
+v1;110;Hahahahahaha! To pa je smešno!
+
+newchat;key:weird2,weigth:1
+v2;0;Ahh... Dober suvlaki. Hočeš grižljaj?
+v1;30;*ugrizne*
+v1;40;Hvala! Obožujem suvlaki.
+v2;70;Kdo ga ne!
+v1;100;Si že kdaj poskusil dati malo zemlje na suvlaki?
+v2;140;...
+v2;150;Ne?
+v1;170;Včasih ga dam... Ah... Vse se je začelo, ko mi je lani suvlaki padel na tla... Slastno!
+v2;220;Čakaj! Ti daš suvlaki v zemljo in ga potem poješ? Kaj za vraga..?
+v1;260;Pa res ima dober okus!
+v2;280;Pa si res zmešan.
+
+newchat;key:weird3,weigth:1
+v1;0;Rad bi jezdil prašiča!
+v2;30;Zakaj?
+v1;60;Ker je zabavno!
+v2;80;Kaj za vraga bi pa jezdil prašiča?
+v1;110;Ker je zabavno!
+v2;120;Pa si res nor.
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Ne pij vina sam!
+v2;30;Pitje v družbi je bolj zabavno!
+v1;50;Na zdravje vina!
+v2;70;Na zdravje!
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Auč...
+v1;30;Grozno izgledaš! Kaj se je zgodilo?
+v2;60;No, vsi imajo leseni meč, razen mene.
+v2;80;Zato so se odločili, da me napadejo!
+v2;100;Tudi meni ga moraš priskrbeti!
+v1;120;Vidim, da si za brazgotine in rane uporabil barvo. Lep poskus!
+v2;150;Naj bo! Prosim, daj mi meč!
+v1;180;Meči so nevarni. Brez meča boš!
+

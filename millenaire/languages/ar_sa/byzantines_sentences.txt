@@ -1,0 +1,529 @@
+architect_byzantine.construction=يا $name! أتعلم أن الرومان أفضل المعماريين؟
+architect_byzantine.construction=يا $name! انظر إليّ وأنا أبني بناءً رائعاً.
+architect_byzantine.construction=هذا البناء سيكون رائعاً!
+architect_byzantine.construction=لم ينتهِ بعد، لكنني أرى الجمال في عملي منذ الآن.
+architect_byzantine.construction=أبني هياكل بالغة الإتقان. البناء هو حقاً أجمل أشكال الفن.
+architect_byzantine.construction=روما لم تُبنَ في يوم، بُنيت كتلةً كتلة.
+architect_byzantine.construction=عمارتنا تفوق سائر المباني في العالم.
+architect_byzantine.construction=البناء على الطريقة الرومانية هو الأفضل.
+architect_byzantine.construction=هل يعجبك أسلوبي؟
+architect_byzantine.construction=أبني منذ زمن لا أذكره. صار البناء حياتي.
+
+architect_byzantine.getresourcesforbuild=من أين تأتي القرية بهذه الكتل؟
+architect_byzantine.getresourcesforbuild=أحتاج إلى الكتل لبناء أفضل الهياكل!
+architect_byzantine.getresourcesforbuild=كل بناء يبدأ من الكتل.
+architect_byzantine.getresourcesforbuild=عليّ أن أختار الكتل بنفسي بعناية.
+architect_byzantine.getresourcesforbuild=كيف تحمل كل هذه الكتل حين تبني يا $name؟
+architect_byzantine.getresourcesforbuild=أسوأ ما في البناء هو الحصول على الكتل.
+
+architect_byzantine.godrink=كفى بناءً! أحتاج إلى نبيذ!
+architect_byzantine.godrink=أحتاج إلى شراب يُلهمني!
+architect_byzantine.godrink=كل معماري جيّد يحتاج إلى شراب في نهاية اليوم.
+architect_byzantine.godrink=البناء يُعطشني للنبيذ.
+
+architect_byzantine.gopray=آمل أن يُلهمني الرب لبنائي القادم!
+architect_byzantine.gopray=لِمَ جعلني الرب معمارياً؟
+architect_byzantine.gopray=الصلاة جزء مهم من البناء الروماني.
+architect_byzantine.gopray=إنه يفهم متاعب المعماريين.
+
+architect_byzantine.gorest=إن لم أنم، قد أُفسد شيئاً في البناء.
+architect_byzantine.gorest=لا أستطيع البناء وأنا مُتعَب.
+architect_byzantine.gorest=البناء في الظلام صعب.
+architect_byzantine.gorest=انتهيت من البناء لهذا اليوم.
+architect_byzantine.gorest=لعلّي أحلم ببناء أجمل أبنية في العالم!
+
+architect_byzantine.gosocialise=لا أحد في هذه القرية يفهم متاعب البناء.
+architect_byzantine.gosocialise=كل معماري يحتاج إلى الإلهام من الآخرين.
+architect_byzantine.gosocialise=المعماريون يحتاجون إلى الملاحظات لينموا.
+architect_byzantine.gosocialise=ماذا يظن أهل القرية في أبنيتي؟
+
+//armysmith_byzantine.MakeIndianTools=Roman tools are the best in world.
+armysmith_byzantine.makebyzantinemace=لا تهاجم أحداً يستعمل أسلحتي.
+armysmith_byzantine.makebyzantinemace=هذه المقمعة ستقذف البرابرة بعيداً!
+armysmith_byzantine.makebyzantinemace=صنع المقمعة أصعب من حملها.
+armysmith_byzantine.makebyzantinemace=يحتاج الجيش إلى المقامع.
+
+armysmith_byzantine.gopray=الحدّاد الجيّد يحتاج إلى الصلاة بين الحين والآخر.
+armysmith_byzantine.gopray=لِمَ جعلني الرب حدّاداً؟
+armysmith_byzantine.gopray=الصلاة جزء مهم من الحرف الرومانية.
+armysmith_byzantine.gopray=إنه يفهم متاعب الحدّادين.
+
+armysmith_byzantine.gorest=غداً سأصنع أشياء أجمل!
+armysmith_byzantine.gorest=انتهيت من الصناعة لهذا اليوم.
+armysmith_byzantine.gorest=ربما أحلم بصناعة أفضل أسلحة في العالم!
+armysmith_byzantine.gorest=ربما أحلم بصناعة أفضل درع في العالم!
+armysmith_byzantine.gorest=لعلّي أحلم بصنع أفضل الأدوات في العالم!
+
+armysmith_byzantine.gosocialise=سأسأل لأرى إن كان أحد يحتاج إليّ لصنع شيء.
+armysmith_byzantine.gosocialise=آمل أن تُقدّر القرية أدواتي.
+
+armysmith_byzantine.godrink=كفى صناعة! أحتاج إلى نبيذ!
+armysmith_byzantine.godrink=أحتاج إلى شراب يُلهمني!
+armysmith_byzantine.godrink=كل حدّاد جيّد يحتاج إلى شراب في نهاية اليوم.
+armysmith_byzantine.godrink=الصياغة تُعطشني للنبيذ.
+
+armysmith_byzantine.makearrow=يا $name، هل تستعمل سهاماً كثيرة في مغامراتك؟
+armysmith_byzantine.makearrow=كل قوس يحتاج إلى سهم رفيع.
+armysmith_byzantine.makearrow=كل سهم أصنعه سيُؤذي عدواً من أعداء الإمبراطورية.
+armysmith_byzantine.makearrow=يحتاج الجيش الروماني إلى السهام لحمايتنا من الغرباء.
+
+armysmith_byzantine.makebow=الجيش الروماني يحتاج إلى الأقواس.
+armysmith_byzantine.makebow=يا $name، هل تعجبك أقواسي؟
+armysmith_byzantine.makebow=كل قوس جيّد يأتي من أفضل خشب.
+armysmith_byzantine.makebow=سيهزم هذا القوس كثيراً من البرابرة. أنا حقاً صانع أقواس بارع.
+
+armysmith_byzantine.makebyzantineboots=الجيش الروماني يحتاج إلى الجزم!
+armysmith_byzantine.makebyzantineboots=الرومان يصنعون أفضل الجزم في العالم.
+armysmith_byzantine.makebyzantineboots=لا بدّ لأحدٍ من صنع جزم الجنود…
+armysmith_byzantine.makebyzantineboots=نحن نصنع أفضل الجزم.
+armysmith_byzantine.makebyzantineboots=يا $name، هل تعجبك جزمتي؟
+armysmith_byzantine.makebyzantineboots=أشعر وكأنني صانع أحذية مُمجّد أكثر من اللازم.
+armysmith_byzantine.makebyzantineboots=كل قطعة من الدرع مهمة! حتى الحذاء الذي ترتديه في قدميك!
+
+armysmith_byzantine.makebyzantinechest=الجيش الروماني يحتاج إلى الدروع الصدرية!
+armysmith_byzantine.makebyzantinechest=الرومان يصنعون أفضل الدروع الصدرية في العالم.
+armysmith_byzantine.makebyzantinechest=يا $name، هل يعجبك درعي؟
+armysmith_byzantine.makebyzantinechest=نحن نصنع أفضل الدروع.
+armysmith_byzantine.makebyzantinechest=هذا الدرع قادر على تحمّل ضربات أكثر مما تتحمّل أنت.
+armysmith_byzantine.makebyzantinechest=أشعر وكأنني صانع قمصان مُمجّد أكثر من اللازم.
+
+armysmith_byzantine.makebyzantinehelmet=الجيش الروماني يحتاج إلى الخوذ!
+armysmith_byzantine.makebyzantinehelmet=لا بدّ لأحدٍ من صنع خوذ الجنود…
+armysmith_byzantine.makebyzantinehelmet=الرومان يصنعون أفضل الجزم في العالم.
+armysmith_byzantine.makebyzantinehelmet=يا $name، هل تعجبك خوذي؟
+armysmith_byzantine.makebyzantinehelmet=نحن نصنع أفضل الخوذ.
+armysmith_byzantine.makebyzantinehelmet=أشعر وكأنني صانع قبّعات مُمجّد أكثر من اللازم.
+
+armysmith_byzantine.makebyzantinelegs=الجيش الروماني يحتاج إلى السراويل الواقية!
+armysmith_byzantine.makebyzantinelegs=لا بدّ لأحدٍ من صناعة سراويل الجنود…
+armysmith_byzantine.makebyzantinelegs=الرومان يصنعون أفضل السراويل الواقية في العالم.
+armysmith_byzantine.makebyzantinelegs=يا $name، هل تعجبك سراويلي الواقية؟
+armysmith_byzantine.makebyzantinelegs=نحن نصنع أفضل السراويل الواقية.
+armysmith_byzantine.makebyzantinelegs=أشعر وكأنني صانع سراويل مُمجّد أكثر من اللازم.
+
+armysmith_byzantine.makesteelaxe=لا تستطيع قطع الأشجار من غير فأس!
+armysmith_byzantine.makesteelaxe=أصنع فؤوساً رائعة.
+armysmith_byzantine.makesteelaxe=الفؤوس الرومانية من أفضل ما في العالم!
+armysmith_byzantine.makesteelaxe=الحطّابون يحتاجون إلينا لصنع فؤوسهم.
+armysmith_byzantine.makesteelaxe=كيف تصنع فؤوسك يا $name؟
+
+armysmith_byzantine.makesteelhoe=لا تستطيع الفلاحة من غير أدوات زراعية!
+armysmith_byzantine.makesteelhoe=أصنع أدوات زراعية رائعة.
+armysmith_byzantine.makesteelhoe=الأدوات الزراعية الرومانية من أفضل ما في العالم!
+armysmith_byzantine.makesteelhoe=الفلاحون يحتاجون إلينا لصنع أدواتهم.
+armysmith_byzantine.makesteelhoe=كيف تصنع أدواتك الزراعية يا $name؟
+
+armysmith_byzantine.makesteelpickaxe=لا تستطيع التعدين من غير معول!
+armysmith_byzantine.makesteelpickaxe=أصنع معاول قوية.
+armysmith_byzantine.makesteelpickaxe=المعاول الرومانية من أفضل ما في العالم!
+armysmith_byzantine.makesteelpickaxe=المعدنون يحتاجون إلينا لصنع معاولهم.
+armysmith_byzantine.makesteelpickaxe=كيف تصنع معاولك يا $name؟
+
+armysmith_byzantine.makesteelshovel=لا تستطيع البناء أو الحفر من غير مجرفة!
+armysmith_byzantine.makesteelshovel=أصنع مجارف متينة.
+armysmith_byzantine.makesteelshovel=المجارف الرومانية من أفضل ما في العالم!
+armysmith_byzantine.makesteelshovel=المعماريون يحتاجون إلينا لصنع مجارفهم.
+armysmith_byzantine.makesteelshovel=كيف تصنع مجارفك يا $name؟
+
+//artisan_byzantine.makePainting=Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=الحرفي الجيّد يحتاج إلى الصلاة بين الحين والآخر.
+artisan_byzantine.gopray=لِمَ جعلني الرب حرفياً؟
+artisan_byzantine.gopray=الصلاة جزء مهم من الحرف الرومانية.
+artisan_byzantine.gopray=إنه يفهم متاعب الحرفي.
+
+artisan_byzantine.gorest=غداً سأصنع أشياء أجمل!
+artisan_byzantine.gorest=انتهيت من الصناعة لهذا اليوم.
+artisan_byzantine.gorest=ربما أحلم بصنع أفضل الطوب في العالم!
+artisan_byzantine.gorest=لعلّي أحلم بصنع أجمل البلاط في العالم!
+
+artisan_byzantine.gosocialise=سأسأل لأرى إن كان أحد يحتاج إليّ لصنع شيء.
+artisan_byzantine.gosocialise=آمل أن تُقدّر القرية بلاطي.
+artisan_byzantine.gosocialise=آمل أن تُقدّر القرية طوبي.
+
+artisan_byzantine.godrink=كفى صناعة! أحتاج إلى نبيذ!
+artisan_byzantine.godrink=أحتاج إلى شراب يُلهمني!
+artisan_byzantine.godrink=كل حرفي جيّد يحتاج إلى شراب في نهاية اليوم.
+artisan_byzantine.godrink=الصياغة تُعطشني للنبيذ.
+
+artisan_byzantine.greeting=أعيش هنا أفضل من سائر أهل القرية.
+artisan_byzantine.greeting=مرحباً $name! هل تحتاج إلى أيّ كتل رومانية حصرية؟
+
+artisan_byzantine.makebrick=لا بدّ لأحدٍ من صنع الطوب.
+artisan_byzantine.makebrick=القرية تحتاج إليّ لصنع الطوب لجدرانها.
+artisan_byzantine.makebrick=الطوب الروماني من أجمل كتل العالم!
+artisan_byzantine.makebrick=نحن نعمل خلف الستار بينما يحصد البنّاؤون كل الفضل.
+artisan_byzantine.makebrick=حتى أمهر البنّائين لا يستطيعون البناء بلا كتل.
+artisan_byzantine.makebrick=من فكّر في تحويل الطين إلى طوب؟
+
+artisan_byzantine.makebookshelves=لا بدّ لأحدٍ من وضع الكتب على الأرفف.
+artisan_byzantine.makebookshelves=القرية تحتاج إليّ لصنع أرفف كتبها.
+artisan_byzantine.makebookshelves=الكتب الرومانية من أفضل المقروءات في العالم!
+artisan_byzantine.makebookshelves=نحن نعمل خلف الستار بينما يحصد الكُتّاب كل الفضل.
+artisan_byzantine.makebookshelves=أحياناً أتصفّح الكتب قبل أن أضعها على الرف، يا ليتني أعرف القراءة.
+artisan_byzantine.makebookshelves=من فكّر أصلاً في تدوين الأمور؟
+
+artisan_byzantine.makebyzantinetiles=لا بدّ لأحدٍ من صنع قرميد السقوف.
+artisan_byzantine.makebyzantinetiles=القرية تحتاج إليّ لصنع سقوفها.
+artisan_byzantine.makebyzantinetiles=القرميد الروماني من أجمل كتل العالم!
+artisan_byzantine.makebyzantinetiles=نحن نعمل خلف الستار بينما يحصد البنّاؤون كل الفضل.
+artisan_byzantine.makebyzantinetiles=حتى أمهر البنّائين لا يستطيعون البناء بلا كتل.
+artisan_byzantine.makebyzantinetiles=من فكّر في تحويل الطين إلى أسطح؟
+
+artisanwife_byzantine.gopray=الصلاة جزء مهم من الحرف الرومانية.
+artisanwife_byzantine.gopray=آمل أن يُعينني الرب على صنع أفضل الثياب!
+artisanwife_byzantine.gopray=لماذا جعل الرب من المرأة زوجة معماري؟
+
+artisanwife_byzantine.gosocialise=آه! لقد صنعت قميص ذاك الرجل!
+artisanwife_byzantine.gosocialise=هنا، أُعرف بزوجة المعماري.
+artisanwife_byzantine.gosocialise=سئمتُ من أن أُعرف بـ"زوجة المعماري".
+
+artisanwife_byzantine.makeclothes_byz_silk=أصنع من أجمل ملابس القرية!
+artisanwife_byzantine.makeclothes_byz_silk=الحرير الروماني أفضل قماش في العالم!
+artisanwife_byzantine.makeclothes_byz_silk=الثياب الحريرية أهم من امتلاك بيت فخم.
+artisanwife_byzantine.makeclothes_byz_silk=يا $name، هل لبست الحرير من قبل؟
+artisanwife_byzantine.makeclothes_byz_silk=الجميع يحتاج إلى الثياب، خاصةً إن أردتَ أن تكون متحضّراً.
+artisanwife_byzantine.makeclothes_byz_silk=الجمال الحقيقي ليس في الكتل، الجمال في الثياب.
+artisanwife_byzantine.makeclothes_byz_silk=ثمة سبب وراء كوني أنا التي تنسج هذا، لا زوجي.
+artisanwife_byzantine.makeclothes_byz_silk=نسج ثياب الحرير لا يكون إلا للنساء الأشرف.
+artisanwife_byzantine.makeclothes_byz_silk=يسعدني فقط أنني أقوم بعمل حقيقي.
+
+artisanwife_byzantine.makeclothes_byz_wool=أصنع من أجمل ملابس الصوف في القرية!
+artisanwife_byzantine.makeclothes_byz_wool=الثياب الجميلة أهم من امتلاك بيت فخم.
+artisanwife_byzantine.makeclothes_byz_wool=يا $name، هل لبست الصوف من قبل؟
+artisanwife_byzantine.makeclothes_byz_wool=الجمال الحقيقي ليس في الكتل، الجمال في الثياب.
+artisanwife_byzantine.makeclothes_byz_wool=الجميع يحتاج إلى الثياب، خاصةً إن أردتَ أن تكون متحضّراً.
+artisanwife_byzantine.makeclothes_byz_wool=ثمة سبب وراء كوني أنا التي تنسج هذا، لا زوجي.
+artisanwife_byzantine.makeclothes_byz_wool=ليس كل امرأة قادرة على النسج بالصوف.
+artisanwife_byzantine.makeclothes_byz_wool=يسعدني فقط أنني أقوم بعمل حقيقي.
+
+artisanwife_byzantine.delivergoodshousehold=هذا النوع من الأمور هو كل ما أستطيع فعله هنا.
+artisanwife_byzantine.gethousethresources=أخيراً، أحضر زوجي الموارد كما طلبت منه.
+artisanwife_byzantine.getgoodshousehold=حان وقت العناية بعائلتي.
+artisanwife_byzantine.greeting=كنت أستطيع أن أفعل ما هو أكثر بكثير لو كنت رجلاً، لو فقط…
+artisanwife_byzantine.greeting=مهمّتنا هي ضبط رجالنا.
+
+baron_byzantine.greeting=يا $name، قريتي عندها أفضل البضائع للبيع!
+baron_byzantine.greeting=مرحباً أيها المسافر الثري!
+baron_byzantine.greeting=هل تريد أن تساعد في مراقبة الفلاحين يا $name؟
+
+baron_byzantine.godrink=كفى حكماً! أحتاج إلى شراب.
+baron_byzantine.godrink=أستحقّ أن أشرب أفضل نبيذ!
+baron_byzantine.godrink=ينبغي أن أتفقّد ربحية الحانة.
+baron_byzantine.godrink=كل ذي سلطان يحتاج إلى الشراب وإلا مات من الضغط!
+
+baron_byzantine.gopray=لِمَ جعلني الرب باروناً؟
+baron_byzantine.gopray=الصلاة جزء مهم من الحكم الروماني.
+baron_byzantine.gopray=إنه يفهم متاعب البارونات.
+baron_byzantine.gopray=قريتي تحتاج إلى أجوبة من الرب!
+
+baron_byzantine.gorest=كفى إدارةً للفلاحين! أحتاج إلى النوم.
+baron_byzantine.gorest=*تثاؤب* لا أستطيع قيادة الفلاحين وأنا مُتعَب.
+baron_byzantine.gorest=حان وقت النوم في غطائي الحريري.
+baron_byzantine.gorest=الجميع يحتاج إلى النوم، خاصة حين تكون قائداً لقرية.
+
+baron_byzantine.gosocialise=لِمَ يراني الفلاحون الأغبياء على أنني "البارون" فقط؟
+baron_byzantine.gosocialise=هي هي هي، لنرَ إن دفع ضرائبه.
+baron_byzantine.gosocialise=حان وقت إلهام الفقراء لكسب الدينار!
+baron_byzantine.gosocialise=هل عليّ أن أتحدّث إلى عامة الناس؟
+baron_byzantine.gosocialise=بوصفي بارون، عليّ أن أحدّث رعيّتي، حتى لو لم أرغب في ذلك.
+
+baron_byzantine.inspectconstruction=عليّ أن أتأكد أن الفلاحين لم يُفسدوا شيئاً.
+baron_byzantine.inspectconstruction=هذا البناء سيجلب الربح إلى قريتي.
+baron_byzantine.inspectconstruction=الجمال هو رؤية قريتك تزداد ثراءً.
+baron_byzantine.inspectconstruction=أعلم أن روما لم تُبنَ في يوم، لكن لِمَ معماريّي بطيء إلى هذا الحدّ؟
+baron_byzantine.inspectconstruction=عملي أن أتأكد أن المباني تُبنى على وجهها.
+baron_byzantine.inspectconstruction=معماريّو عادةً ما يُحسنون عملهم، لكن عليّ دائماً أن أتفقّدهم.
+
+boy_byzantine.becomeadult=حان الوقت لأصير رجلاً قوياً!
+boy_byzantine.becomeadult=كَبُرتُ بما يكفي للعمل في مهنة!
+boy_byzantine.becomeadult=أحتاج إلى عمل الآن.
+boy_byzantine.becomeadult=انقضت أيامي صبيّاً.
+
+boy_byzantine.goplay=أريد أن أُقاتل أحداً!
+boy_byzantine.goplay=أريد أن ألعب "قاتل البربري"!
+boy_byzantine.goplay=سأُري الجميع أنني كبير وقوي!
+boy_byzantine.goplay=حان وقت لعبة "الجندي".
+
+boy_byzantine.gopray=أريد أن أتعلّم عن الرب!
+boy_byzantine.gopray=هل يستطيع الرب أن يحدّثني عن الكبار؟
+boy_byzantine.gopray=كيف أُصلّي؟
+boy_byzantine.gopray=لا أريد أن أصلّي! أريد أن ألعب بدلاً من ذلك!
+
+boy_byzantine.childobservesmithing=حين أكبر أريد أن أكون حدّاداً أيضاً. أو جندياً. أو قائداً!
+
+centurio_byzantine.godrink=كل ذي سلطان يحتاج إلى الشراب وإلا مات من الضغط!
+centurio_byzantine.godrink=بصفتي جندياً، أحتاج إلى النبيذ، وبصفتي قائد قرن، أحتاج إليه أكثر.
+centurio_byzantine.godrink=أحتاج إلى الاسترخاء والترويح عن نفسي، وإلا فلن أنفع شيئاً حين يأتي البرابرة.
+
+centurio_byzantine.gopray=لِمَ جعلني الرب Strategos؟
+centurio_byzantine.gopray=الصلاة جزء مهم من الحرب الرومانية.
+centurio_byzantine.gopray=إنه يفهم متاعب الـStrategos.
+centurio_byzantine.gopray=جيشي يحتاج إلى أجوبة من الرب!
+
+centurio_byzantine.gorest=كفى إدارةً للجنود! أحتاج إلى النوم.
+centurio_byzantine.gorest=حان وقت خلع درعي والذهاب للنوم.
+centurio_byzantine.gorest=*تثاؤب* لا أستطيع قيادة الجنود وأنا مُتعَب.
+centurio_byzantine.gorest=الجميع يحتاج إلى النوم، خاصة حين تكون قائداً لقرية.
+
+centurio_byzantine.gosocialise=حان وقت رفع معنويات الجنود!
+centurio_byzantine.gosocialise=من الطرق الجيّدة لكسب الولاء أن تستشير شعبك.
+centurio_byzantine.gosocialise=أحتاج إلى مجنّدين أكثر للجيش!
+centurio_byzantine.gosocialise=مرؤوسوني يحتاجون إلى معرفة خطط دفاعي.
+centurio_byzantine.gosocialise=مرؤوسوني يحتاجون إلى معرفة خططي الهجومية.
+centurio_byzantine.gosocialise=على الناس أن يفهموا خطر الهجوم البربري!
+centurio_byzantine.gosocialise=عليّ أن أُذكّر الجميع بأنه يجب أن نكون مستعدين للقتال في أي لحظة!
+
+centurio_byzantine.huntmonster=حتى بصفتي قائد قرن، لا يمكن أن أتراخى في كوني جندياً.
+centurio_byzantine.huntmonster=أين مرؤوسوني؟ كان ينبغي أن يفعلوا هذا.
+centurio_byzantine.huntmonster=أنا Strategos من الإمبراطورية الرومانية، وتظن أنك تستطيع قتالي؟ ها!
+
+centurio_byzantine.inspectconstruction=الجمال هو رؤية قريتك تزداد قوة.
+
+farmiller_wife_byzantine.delivergoodshousehold=هذا النوع من الأمور هو كل ما أستطيع فعله هنا.
+farmiller_wife_byzantine.gethousethresources=أخيراً، أحضر زوجي الموارد كما طلبت منه.
+farmiller_wife_byzantine.getgoodshousehold=حان وقت العناية بعائلتي.
+farmiller_wife_byzantine.greeting=كنت أستطيع أن أفعل ما هو أكثر بكثير لو كنت رجلاً، لو فقط…
+farmiller_wife_byzantine.greeting=مهمّتنا هي ضبط رجالنا.
+
+girl_byzantine.childobserveproducefood=من حسن الحظ أن الرجال لا يطبخون، فهم يحرقون كل شيء.
+
+keeperbirch_byzantine.greeting=ما أمل المكان هنا، لا يحدث شيء أبداً…
+keeperbirch_byzantine.greeting=عملي أن أراقب هذه المناطق.
+keeperbirch_byzantine.greeting=تحية أيها المسافر، أتساءل كيف انتهى بك المطاف في هذا المكان البعيد.
+keeperbirch_byzantine.greeting=كيف ظنّ أحدٌ أنه يجب وضع حارس هنا...
+
+keeperoak_byzantine.greeting=هؤلاء الناس هنا، الذين يُسمّون أنفسهم النورمان، يُذكّرونني بإمبراطوريّتنا المجيدة.
+keeperoak_byzantine.greeting=ما أمل المكان هنا، لا يحدث شيء أبداً…
+keeperoak_byzantine.greeting=عملي أن أراقب هذه المناطق.
+keeperoak_byzantine.greeting=تحية أيها المسافر، أتساءل كيف انتهى بك المطاف في هذا المكان البعيد.
+keeperoak_byzantine.greeting=كيف ظنّ أحدٌ أنه يجب وضع حارس هنا...
+
+keeperpine_byzantine.greeting=هذا البرد فظيع. لا عجب أن لا أحد في الجوار.
+keeperpine_byzantine.greeting=ما أمل المكان هنا، لا يحدث شيء أبداً…
+keeperpine_byzantine.greeting=عملي أن أراقب هذه المناطق.
+keeperpine_byzantine.greeting=تحية أيها المسافر، أتساءل كيف انتهى بك المطاف في هذا المكان البعيد.
+keeperpine_byzantine.greeting=كيف ظنّ أحدٌ أنه يجب وضع حارس هنا...
+
+keepertropical_byzantine.greeting=ما أمل المكان هنا، لا يحدث شيء أبداً…
+keepertropical_byzantine.greeting=عملي أن أراقب هذه المناطق.
+keepertropical_byzantine.greeting=الجو حارّ جداً هنا. لا أفهم كيف يعيش هؤلاء الهنود في هذه الأراضي.
+keepertropical_byzantine.greeting=هل رأيت يوماً أولئك المايا الغرباء؟ مبانيهم تبدو وكأنها قد تنهار في أي لحظة.
+keepertropical_byzantine.greeting=تحية أيها المسافر، أتساءل كيف انتهى بك المطاف في هذا المكان البعيد.
+keepertropical_byzantine.greeting=كيف ظنّ أحدٌ أنه يجب وضع حارس هنا...
+
+lumberman_byzantine.bringbackresourceshome=آمل أن يكفي هذا لازدهار القرية!
+lumberman_byzantine.bringbackresourceshome=أنا حطّاب بارع، مخزوني ملآن بالجذوع!
+lumberman_byzantine.bringbackresourceshome=أحمل أشجاراً كثيرة لكنها ليست ثقيلة لسببٍ ما.
+lumberman_byzantine.bringbackresourceshome=كان عملاً مُتقَناً.
+lumberman_byzantine.bringbackresourceshome=لا بد أن زوجتي فخورة بكل هذا الخشب الذي أحضرته.
+
+lumberman_byzantine.choptrees=كل بناء هنا يحتاج إلى الخشب، وجلبه هو عملي!
+lumberman_byzantine.choptrees=شجرة أخرى أُسقطت، خشب أكثر للقرية!
+lumberman_byzantine.choptrees=شجرة واحدة أخرى أُسقطت، خشب أكثر للقرية!
+lumberman_byzantine.choptrees=يا $name، هل سبق لك أن قطعت شجرة من قبل؟
+lumberman_byzantine.choptrees=إلى شجرة القطع!
+lumberman_byzantine.choptrees=موتي أيتها الشجرة موتي! ها ها ها! موتي! موتي! موتي! ها… آه، مرحباً يا $name! لا شيء… غريب… يحدث هنا.
+lumberman_byzantine.choptrees=لا أريد أن أقتلك، لكن لا بدّ لي… وداعاً أيتها الشجرة!
+lumberman_byzantine.choptrees=هل تساءلتَ يوماً لماذا تطفو الأشجار المقطوعة هنا يا $name؟ الأمر غريب جداً. مهما فعلت، تظلّ تطفو وعليّ كسر الشجرة من الأعلى قطعة قطعة، إنه أمر مزعج للغاية.
+
+lumberman_byzantine.gathergoods=يا $name! لا تأخذ هذا!
+lumberman_byzantine.gathergoods=نمت الأشجار جيداً هذه المرة، فجاءت بكثير من الجذوع والشتلات.
+lumberman_byzantine.gathergoods=آمل أن تحتاج القرية إلى هذه الجذوع كلها.
+lumberman_byzantine.gathergoods=كانت شجرة ضخمة! والآن يمكن للقرية الاستفادة من جذوعها.
+lumberman_byzantine.gathergoods=انظر إلى كل هذه الجذوع والشتلات الجديدة التي حصلت عليها من قطع الأشجار!
+lumberman_byzantine.gathergoods=شتلة جميلة هناك.
+
+lumberman_byzantine.plantsaplings=هذه الشتلات صغيرة جداً، أحياناً لا أصدّق أنها ستصير بهذا الكبر.
+lumberman_byzantine.plantsaplings=ما ألطفك أيتها الشتلة الصغيرة، تكاد تُنسيني أنني سأقطعك حين تكبرين.
+lumberman_byzantine.plantsaplings=يا $name، أتريد أن تزرع شتلة؟
+lumberman_byzantine.plantsaplings=الأشجار تنمو هنا بسرعة، في أيام قليلة تتحوّل من شتلة صغيرة إلى شجرة كاملة.
+lumberman_byzantine.plantsaplings=الزرع أسهل الأعمال، كل ما عليّ هو وضعها على الأرض.
+lumberman_byzantine.plantsaplings=ستصير قريباً شجرة كبيرة مهيبة! وسأقطعها.
+
+merchant_art.greeting=لا توجد مدينة في العالم تُقارَن بجمال القسطنطينية وقوّتها.
+merchant_art.greeting=نحن آخر الرومان الحقيقيين!
+
+miner_byzantine.mining=عملي أن أكسر الصخور وآخذها لتُصهَر، لا غير.
+miner_byzantine.mining=ذراعي تؤلمني من استعمال هذه المعول كل يوم.
+miner_byzantine.mining=كتلة واحدة، كتلتان، ثلاث، أربع، لا ينتهي الأمر أبداً. الشيء نفسه مراراً وتكراراً.
+miner_byzantine.mining=كتلة واحدة، كتلتان، ثلاث… مهلاً، أهذا ذهب؟ أهو كذلك؟ وجدت ذهباً! ذهب! ذهب! صرت غنياً! ها ها… آه، لم يكن سوى حديد ينعكس في ضوء سيّئ. العودة إلى تعدين الحديد والفحم…
+miner_byzantine.mining=ثمانون كتلة، واحد وثمانون، اثنان وثمانون، ثلاث وثمانون…
+miner_byzantine.mining=يا أنت! كيف تحمل كل هذه الكتل وتعدّن بهذه السرعة؟ ما تفعله أنت في يوم يأخذ مني ساعات.
+miner_byzantine.mining=*سُعال* *سُعال*، أكره العمل بالفحم.
+miner_byzantine.mining=هذا العمل يحتاج إلى قوة وصبر. لكن لا أحد هنا يلاحظ ذلك…
+miner_byzantine.mining=أنا فخور بأنني مواطن روماني أعمل من أجل الإمبراطورية المجيدة، حتى في هذا العمل الشاق.
+
+metropolit_byzantine.makebooks=كتبي من أفضل المخطوطات الموجودة.
+
+metropolit_byzantine.gopray=لِمَ جعلني الرب من أعزّ خدمه؟
+metropolit_byzantine.gopray=بصفتي البطريرك، عليّ أن أقود الصلاة.
+metropolit_byzantine.gopray=أفهم متاعبه.
+metropolit_byzantine.gopray=إنه يفهم متاعب البطاركة.
+metropolit_byzantine.gopray=قريتي تحتاج إلى أجوبة من الرب!
+
+metropolit_byzantine.gorest=الجميع يحتاج إلى النوم، خاصة حين تكون قائداً لقرية.
+metropolit_byzantine.gorest=*تثاؤب* لا أستطيع قيادة الكهنة وأنا مُتعب.
+
+metropolit_byzantine.inspectconstruction=الجمال هو رؤية قريتك تقترب أكثر من الرب.
+
+pastor_byzantine.makebooks=كتبي من أفضل المخطوطات الموجودة.
+
+//smith_byzantine.MakeIndianTools=Roman tools are the best in world.
+
+smith_byzantine.gopray=الحدّاد الجيّد يحتاج إلى الصلاة بين الحين والآخر.
+smith_byzantine.gopray=لِمَ جعلني الرب حدّاداً؟
+smith_byzantine.gopray=الصلاة جزء مهم من الحرف الرومانية.
+smith_byzantine.gopray=إنه يفهم متاعب الحدّادين.
+
+smith_byzantine.gorest=غداً سأصنع أشياء أجمل!
+smith_byzantine.gorest=انتهيت من الصناعة لهذا اليوم.
+smith_byzantine.gorest=لعلّي أحلم بصنع أفضل الأدوات في العالم!
+
+smith_byzantine.gosocialise=سأسأل لأرى إن كان أحد يحتاج إليّ لصنع شيء.
+smith_byzantine.gosocialise=آمل أن تُقدّر القرية أدواتي.
+
+smith_byzantine.godrink=كفى صناعة! أحتاج إلى نبيذ!
+smith_byzantine.godrink=أحتاج إلى شراب يُلهمني!
+smith_byzantine.godrink=كل حدّاد جيّد يحتاج إلى شراب في نهاية اليوم.
+smith_byzantine.godrink=الصياغة تُعطشني للنبيذ.
+
+smith_byzantine.makesteelaxe=لا تستطيع قطع الأشجار من غير فأس!
+smith_byzantine.makesteelaxe=أصنع فؤوساً رائعة.
+smith_byzantine.makesteelaxe=الفؤوس الرومانية من أفضل ما في العالم!
+smith_byzantine.makesteelaxe=الحطّابون يحتاجون إلينا لصنع فؤوسهم.
+smith_byzantine.makesteelaxe=كيف تصنع فؤوسك يا $name؟
+
+smith_byzantine.makesteelhoe=لا تستطيع الفلاحة من غير أدوات زراعية!
+smith_byzantine.makesteelhoe=أصنع أدوات زراعية رائعة.
+smith_byzantine.makesteelhoe=الأدوات الزراعية الرومانية من أفضل ما في العالم!
+smith_byzantine.makesteelhoe=الفلاحون يحتاجون إلينا لصنع أدواتهم.
+smith_byzantine.makesteelhoe=كيف تصنع أدواتك الزراعية يا $name؟
+
+smith_byzantine.makesteelpickaxe=لا تستطيع التعدين من غير معول!
+smith_byzantine.makesteelpickaxe=أصنع معاول قوية.
+smith_byzantine.makesteelpickaxe=المعاول الرومانية من أفضل ما في العالم!
+smith_byzantine.makesteelpickaxe=المعدنون يحتاجون إلينا لصنع معاولهم.
+smith_byzantine.makesteelpickaxe=كيف تصنع معاولك يا $name؟
+
+smith_byzantine.makesteelshovel=لا تستطيع البناء أو الحفر من غير مجرفة!
+smith_byzantine.makesteelshovel=أصنع مجارف متينة.
+smith_byzantine.makesteelshovel=المجارف الرومانية من أفضل ما في العالم!
+smith_byzantine.makesteelshovel=المعماريون يحتاجون إلينا لصنع مجارفهم.
+smith_byzantine.makesteelshovel=كيف تصنع مجارفك يا $name؟
+
+villager.greeting=مرحباً يا $name!
+villager.greeting=يوم جميل، أليس كذلك؟
+villager.greeting=ستمطر قريباً.
+villager.greeting=لا توجد مدينة في العالم تُقارَن بالقسطنطينية.
+villager.greeting=لسنا يونانيين، نحن رومان.
+villager.greeting=نحن آخر الرومان الحقيقيين.
+villager.greeting=تأمّل في مجد حضارتنا خلال إقامتك هنا.
+villager.greeting=أهلاً بك في القرية يا $name!
+villager.greeting=انظروا! هذا $name!
+villager.greeting=نحن آخر الرومان الحقيقيين. استحمّ بنور حضارتنا.
+
+villager.becomeadult=أخيراً، صرتُ مواطناً رومانياً!
+
+villager.huntmonster=عليّ أن أقتل هذا البربري!
+
+villager.goplay=أعتقد أنني سأذهب لألعب في الخارج.
+villager.goplay=سأذهب لألعب الآن.
+villager.goplay=يا $name! هل تريد أن تلعب معي؟
+villager.goplay=أريد أن أركض!
+
+villager.calltoarms=الإمبراطورية الرومانية تتعرّض للهجوم! إلى السلاح!
+villager.calltoarms=البرابرة هنا! دافعوا عن قريتنا مهما كلّف الأمر!
+
+villager.childeatgrapes=أُقسم إن هذا العنب وقع من تلقاء نفسه!
+
+villager.childobservevines=ينبغي على الكبار أن يكفّوا عن إضاعة هذا العنب اللذيذ بصنع ذاك النبيذ البشع!
+villager.childobserveconstruction=يوماً ما سأزور القسطنطينية وأرى كيف تبدو الأبنية الرومانية الحقيقية!
+villager.childobserveproducealcohol=جرّبتُ النبيذ مرة، طعمه مقزّز.
+
+villager.gorest=إن لم أنم، قد تقع حوادث.
+villager.gorest=أنا مُتعَب. سأرجع إلى البيت لأنام.
+villager.gorest=أعتقد أنني سأذهب لأنام.
+
+villager.makebread=الخبز يفوح برائحة طيبة بالفعل...
+
+villager.gopray=أنا مُهتدٍ بالأب المقدّس.
+villager.gopray=أيها الرب يا من خُلق في السماء، يا رحيم.
+villager.gopray=الرجال يعبدون، والكهنة يُرتّلون!
+villager.gopray=السلام على العذراء الجنّيّة!
+villager.gopray=يا مريم العذراء، أيتها القائدة المظفّرة العظيمة!
+villager.gopray=يا من أنقذتني من الشر، أشكرك…
+villager.gopray=سيُصلّي الناس من أجلك إلى أبد الآبدين، آمين.
+
+villager.godrink=حان وقت احتساء نبيذ روماني جديد!
+villager.godrink=أحتاج إلى شراب.
+villager.godrink=النبيذ سيغسل همومي.
+villager.godrink=هل تعلم أن النبيذ الروماني هو الأفضل في العالم؟
+villager.godrink=مرّ وقت طويل منذ أن شربتُ.
+
+wife_byzantine.delivergoodshousehold=هذا النوع من الأمور هو كل ما أستطيع فعله هنا.
+wife_byzantine.gethousethresources=أخيراً، أحضر زوجي الموارد كما طلبت منه.
+wife_byzantine.cooking=الطبخ ممتع حقاً.
+wife_byzantine.getgoodshousehold=حان وقت العناية بعائلتي.
+wife_byzantine.greeting=كنت أستطيع أن أفعل ما هو أكثر بكثير لو كنت رجلاً، لو فقط…
+wife_byzantine.greeting=مهمّتنا هي ضبط رجالنا.
+
+villager.givespeech=الإمبراطورية الرومانية عظيمة، وقريتنا هي الأعظم.
+villager.givespeech=على قريتنا أن تشكر قيادتها على كل عظمتها.
+villager.givespeech=نحن الرومان عندنا أفضل القادة وأفضل الناس.
+
+villager.listentospeech=إنه على حقّ!
+villager.listentospeech=المجد لنا!
+villager.listentospeech=نقدر أن نهزم أيّ أحد!
+villager.listentospeech=المجد للرب ولقائدنا الذي أرسله!
+
+special_byzantine.greeting=خدمتُك ستُكافأ يا $name.
+special_byzantine.calltoarms=لا تجرّب حظك يا فتى.
+special_byzantine.gopray=اركع أمامي...
+
+oldshepherd_byzantine.greeting=إيماني هو الذي جعلني أستمرّ…
+oldshepherd_byzantine.greeting=ساعدني على تحقيق حلمي يا $name، وستُكافأ…
+oldshepherd_byzantine.calltoarms=من أجل Boskokrator!
+oldshepherd_byzantine=أيها القديس Boskokrator، باركني وبارك أغنامي رجاءً.
+
+merchant_armour.greeting=أرقى الدروع والأسلحة فقط!
+merchant_armour.keepstall=أهلاً، أهلاً! أحضرتُ لك أفضل السيوف التي يمكن أن تجدها!
+
+merchant_dyes.greeting=آتي بكل الألوان كل يوم! مهلاً، أنا لستُ هندياً.
+merchant_dyes.keepstall=تعالَ وانظر! أصباغ من كل أنحاء العالم!
+
+merchant_food.greeting=ما رأيك ببعض السوفلاكي اللذيذ يا $name؟
+merchant_food.keepstall=كل ما تشتهيه من طعام!
+
+merchant_materials.greeting=تعالَ واشترِ أجود مواد البناء! أنا وظهري نشكرك.
+merchant_materials.keepstall=رمل وحجر وطوب! ديوريت وكوارتز!
+
+merchant_relics.greeting=أبيع تحفاً ثمينة وأشياء مقدسة يا $name.
+merchant_relics.keepstall=تعالَ وانظر إلى ذروة الصنعة الرومانية.
+
+merchant_textiles.greeting=حقاً يا $name؟ هذا الجلد؟
+merchant_textiles.keepstall=سجاد وثياب على الموضة، تماماً كما في القسطنطينية!
+
+loneabbot_byzantine.greeting=أهلاً بك يا $name. يمكنك الاستراحة من سفرك، أنت في أمان هنا.
+lonemonk_byzantine.greeting=لا أملك ما أقدّمه لك يا $name.
+
+loneabbot_byzantine.gosocialise=لا أطيق صبراً حتى أشارك معرفتي.
+
+lonemonk_byzantine.gosocialise=لا أطيق صبراً حتى أشارك معرفتي.
+lonemonk_byzantine.plantseeds=ليبارك الرب هذه البذور.
+lonemonk_byzantine.collectcrop=هذه المحاصيل هبة من الرب نفسه.
+lonemonk_byzantine.makebread=تضحية الابن العظيمة ستبدأ بهذا الخبز.
+
+villager.plantseeds=أشعر أننا سنحصل على محصول وفير هذا العام.
+villager.collectcrop=كنتُ أعرف! محصول وفير!
+
+villager.gostudy=أرجوك، لا تشغلني يا $name.
+
+villager.gotreerelax=هذا المكان الظليل بالغ الكمال…
+villager.gotreerelax=بإمكاني البقاء تحت هذه الشجرة طوال اليوم…
+
+villager.relight=محبة الرب هي رغبتي الوحيدة!
+villager.golookout=اليوم ستأتي سفينة. أعرف ذلك.
+villager.golookout=عمل ممل، لكن على الأقل أنا أتقاضى أجراً.
+villager.sellercoming=أنا قادم في الحال!
+villager.tradecomplete=ألف شكر، تجارة موفّقة لك!

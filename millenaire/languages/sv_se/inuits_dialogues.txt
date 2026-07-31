@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Så, du sköna, vad gör du i kväll?
+v2;40;$targetfirstname, jag har redan sagt dig, jag är lovad åt en annan!
+
+newchat;key:beautiful,weigth:10
+v1;0;Var är vi, detta är ingenstans där jag har varit förr. Det ser likadant ut men känns annorlunda.
+v2;30;Shamanerna säger att vi är i de hjälpsamma andarnas välsignade land, det är därför det är så fantastiskt här!
+
+newchat;key:carribou,weigth:10
+v1;0;Var är alla karibuer? Jag saknar karibukött.
+v2;30;Vi har varit på många jakter, men ingen har funnit några karibuer.
+v2;60;Vi har dock funnit gott om vad som ser ut som bisonoxar!
+v1;60;Usch, jag avskyr bisonoxe, karibu är bättre.
+v2;90;Ja, ta då fisken, av den har vi mycket.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Det finns inte mycket att göra här omkring.
+v2;30;Det är bra, fridfullt.
+v1;60;Och tråkigt…
+v2;75;Du skulle kunna gräva ett hål, eller bygga en snöiglo!
+v1;110;En egen snöiglo?!
+
+newchat;key:endermen,weigth:10
+v1;0;Har du hört vad den äldste säger om de där långa, smala, skrämmande människorna?
+v2;30;Att de är Skuggfolket? Jag vet inte…
+v1;60;Det stämmer ju! Om vi verkligen är i ett välsignat land skulle de bli förvridna på det viset!
+v2;90;Men om vi är i ett välsignat land, varför finns då Skuggfolket ens här?
+v2;120;Åh… ehm, jag vet inte…
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Jag älskar doften av kött som tillagas hos maträttaren.
+v2;30;Jag vet inte, jag föredrar oftast mitt kött rått, det förändrar smaken.
+v1;60;Hej, jag tycker om den förändrade smaken!
+
+newchat;key:hunting,weigth:10
+v1;0;Jag har förbättrat mina färdigheter igen.
+v2;30;Du blir snabbt en stor jägare!
+v1;90;Tycker du verkligen det?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;De där japanerna vet sannerligen hur man tillreder fisk!
+v2;30;"Tillreder" fisk? Du menar väl bara att de tillagar den, eller hur?
+v1;60;Nej, jag menar att de serverar sin mat med alla sorters utstuderade metoder och smaker.
+v2;90;Kan mat smaka annorlunda utan att bara vara skämd?
+v1;120;Ja, du borde följa med mig nästa gång jag besöker dem!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Min pappa är mycket starkare än din.
+v2;30;Min pappa är den starkaste i byn, dummer!
+v1;60;Drömma vidare. Min pappa kan slå din på två minuter.
+
+newchat;key:kys,weigth:10
+v1;0;När ska den äldste gå bort för att dö?
+v2;30;Jag tror inte att vi behöver göra så här, denna nya värld är mycket mer mottaglig!
+v1;60;Antar det… men det är märkligt att se henne fortfarande vid liv.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Jag tycker om snö.
+v2;42;Tur för en inuit!
+
+newchat;key:meat,weigth:10
+v1;0;Jag tror att vårt köttförråd är på upphällning, jag avskyr när det tar slut.
+v1;30;Kött är bara inte detsamma som grytor…
+v2;60;Men de flesta grytor har väl kött i sig?
+v1;90;Ja, men det är ändå inte samma sak…
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Usch, se så små och sjukliga bisonoxarna är här.
+v2;42;Den utländska handelsmannen kallar dem för "kor…?"
+
+newchat;key:murderer,weigth:10
+v1;0;Hörde du vad som hände honom efter olyckan?
+v2;30;Olycka eller inte, det är fel att döda människor.
+v1;60;Ja, men måste vi köra ut honom ur byn? Jag hör att han har blivit galen på egen hand.
+v2;90;Vi var tvungna! Här är det åtminstone inte kallt och han fryser inte ihjäl där ute.
+v1;120;Är det bättre? Nu tvingas han leva ensam för sig själv!
+
+newchat;key:normans,weigth:5
+v1;0;Jag mötte några konstiga människor, de kallar sig normander?
+v2;30;Ja, normanderna är bra, men de behöver sannerligen mycket.
+v1;60;Vad menar du?
+v2;90;En kom förbi häromdagen och jag tömde mitt hus på att ge honom saker, han bara fortsatte tydligen att behöva mer.
+v1;120;Stackars karl.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Snöar det?
+v2;30;Det ser ut som snö, men verkar inte vara kallt.
+
+newchat;key:seasons,weigth:10
+v1;0;Tror du att jakten blir god i år?
+v2;30;Vem vet, med vädret vi har haft.
+v1;60;Årstiderna är meningslösa här.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Jag avundas shamanerna, jag önskar att jag kunde tala med andarna som de gör.
+v2;30;Du skulle kunna se om shamanen vill lära upp dig?
+v1;60;Kanske… men vissa andar är skrämmande.
+v2;70;Just det, det kommer alltid att finnas skrämmande andar att se upp för.
+
+newchat;key:sunset,weigth:10
+v1;0;Jag är trött, dagen går inte fort nog…
+
+newchat;key:visitors,weigth:10
+v1;0; Detta är ett märkligt ställe, det är fullt av främmande människor.
+v2;30;Du menar som $name?
+v1;60;Tja, $name är bara en person, jag menar alla de andra.

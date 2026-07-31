@@ -1,0 +1,593 @@
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Jag gillar soliga dagar!
+v2;30;Vem gör det inte?
+
+newchat;key:nicevillage,weigth:10
+v1;0;Det är alltid ett nöje att se vår charmiga lilla by, visst är det?
+v2;30;Här har vi effekten av allt vårt hårda arbete!
+
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;Jag gillar soliga dagar!
+v2;30;Vem gör det inte?
+v1;60;Inte jag.
+v2;120;Varför gör du inte det?
+v1;150;Solen bränner! Jag hatar utomhus!
+v2;180;Du beter dig som en zombie!
+v1;210;Kanske jag är...
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Det är alltid ett nöje att se vår lilla by, är det inte?
+v2;30;Naturligtvis är det! Vi har lagt så mycket tid på det här stället.
+v1;60;Det är nästan som hemma, precis som innan vi kom hit.
+v2;90;Det här är vårt hem nu, det är bara att acceptera det.
+v1;120;Jag vet. Jag lär acceptera det så småningom...
+
+newchat;key:ishome,weigth:6
+v1;0;Det är alltid ett nöje att se vår lilla by, är det inte?
+v2;30;Naturligtvis är det! Vi har lagt så mycket tid på det här stället.
+v1;60;Det är nästan som hemma, precis som innan vi kom hit.
+v2;90;Det här är vårt hem nu, det är bara att acceptera det.
+v1;120;Det här är vårt hem nu, det här samtalet fick mig att inse det.
+
+newchat;key:goodharvest1,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,notbuilding:taverna,weigth:24
+v1;0;Vårt vete och våra druvor har vuxit bra i år.
+v2;30;Ja, bönderna har rapporterat rekordskörd och har du testat vinet...
+v1;60;Hm, vi har inget värdshus där vi kan göra vin...
+v2;120;O ..., tóte ti épaiza chthes ?!/ Öh..., vad var det jag drack igår?! öh...,
+
+newchat;key:goodharvest1withtavern,v1:adult,v2:adult,v2:notvtype:pastor_byzantine-metropolit_byzantine,building:farm,building:vineyard,building:taverna,weigth:14
+v1;0;Vårt vete och våra druvor har vuxit bra i år.
+v2;30;Ja, bönderna har rapporterat rekordskörd och har du testat vinet...
+v1;60;Echo! To exairetikó romaïkó mas krasí échei kalýteri géfsi apó poté!/ Det har jag! Vårt fina romerska vin smakar bättre än någonsin!
+v2;90;Jag vet, är det inte underbart? Jag hade fem flaskor igår. Bästa vinet jag någonsin smakat!
+v1;120;Pénte olóklira boukália? Prépei na epivradýneis ton ánthropo! Akómi kai an eínai mia exairetikí epochí, kindynéveis na gíneis methysménos me aftó to polý krasí!/ Fem hela flaskor? Du borde ta det lugnt med drickandet! Även om det är en bra säsong, så riskerar du att bli ett fyllo när du dricker så mycket vin!
+v2;150;Jag kommer att må bättre när min huvudvärk försvinner...
+
+newchat;key:cider,v1:adult,v2:adult,notbuilding:taverna,weigth:2
+v1;0;Vi behöver ett värdshus för att få igång vinproduktionen snart.
+v2;30;Vad? Varför? Visst, vin är gott, men en hel byggnad bara för vin? Vi måste börja prioritera rätt!
+v1;60;Jag testade normandisk cider igår. Det var hemskt! Hur kan de där vildarna gilla det?
+v2;90;Varför provade du vildarnas dryck? Är du en idiot?!
+v1;120;Det är jag...
+v2;130;Drick alltid romerskt!
+
+newchat;key:harvest,weigth:10
+v1;0;Vetet växer väldigt bra i år, och även vindruvorna. Genialt, eller hur?
+v2;30;Ja, det verkar så. Vi har det konstiga vädret att tacka.
+v1;60;Även om det inte är logiskt för mig!
+
+newchat;key:lightning,weigth:7
+v1;0;Kommer du ihåg åskvädret som var? Jag menar det riktigt kraftiga!
+v2;30;Naturligtvis. Det förstörde nästan vår skörd. Naturen är ganska imponerande, eller hur?
+v1;60;Imponerande är en sak. Men jag blev nästan träffad av blixten!
+v2;100;Var du inte i ditt hus? Du vet att det är farligt utomhus när det åskar.
+v1;120;Lev och lär.
+
+newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
+v1;0;Jag mår inte bra...
+v2;30;Vad är fel? Är du sjuk?
+v1;60;Nej, jag k-k-kommer just ihåg att något h-hände.
+v2;100;Du låter sjuk, är du säker på att du inte är sjuk?
+v1;120;Jag k-känner mig bara rädd.
+v2;150;Vad var det som hände?
+v1;180;Under det f-förra åskvädret. Så var jag utanför b-b-byn, jag visste att jag inte skulle kunna komma hem innan åskvädret. Så jag gömde mig under ett träd.
+v2;210;Du riskerade ditt liv utanför byn! Du kunde ha dött!
+v1;240;Nåja, jag var säker. Men så såg jag en gris. Blixten träffade grisen och grisen dog. Men sedan började g-grisen ... att r-röra sig och började gå s-som vi, och började ja-jaga mig med ett blänkande sv-svärd!
+v2;290;Du pratar smörja. Det måste ha varit en mardröm.
+v1;320;Det var sant! Sant! Sant! Sant!
+v2;350;Du är galen. Gå och ta lite vin och lugna ner dig.
+v1;380;Det ska jag göra. K-kanske det hjälper.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ah... souvlaki, den enda maten!
+v2;30;Om ni män inte hade oss kvinnor som lagade maten...
+v1;60;Vi skulle laga maten själva!
+v2;100;Verkligen? Hur lagar man souvlaki nu igen?
+v1;130;Öhh... du tar fisk, nej, lammkotletter i ugnen, och sen...
+v2;190;...så lägger du till feta på en pinne. Du kan verkligen inte laga mat!
+
+newchat;key:loneVillage,weigth:10
+v1;0;Allting är alltid sig likt här.
+v2;30;Det är åtminstone fridfullt här.
+v1;60;Inget speciellt för en ödslig by som vår!
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;När jag var ung ville jag bli upptäcktsresande, upptäcka nya länder och möta intressanta personer. Men nu? Nu är jag fast i den här ödsliga lilla byn. Jag vill besöka nya platser.
+v2;30;Du lär inte upptäcka någon stor skillnad i de andra byarna. Vi är alla ganska lika.
+v1;60;Jag pratar om stora städer!
+v2;90;Städer? Du menar som Konstantinopel?
+v1;120;Ja! Centrum för vårt vackra rike. Det är ett av världens underverk. Ja!
+v1;150;Det är mer än 500 000 människor som bor där, kan du fatta det?!
+v2;180;Det låter omöjligt. 500 000 människor på ett ställe? Fortsätt drömma!
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Drick inte upp allt vinet själv!
+v2;30;Att dricka tillsammans är roligare!
+v1;50;Tack för vinet!
+v2;70;Skål!
+
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
+v1;0;Jag kommer snart att bli byns ledare, gammling!
+v2;30;Var inte så uppnosig, lilla pojk, annars får du en örfil!
+v1;60;Och jag kommer att örfila dig tillbaka!
+v2;80;*Örfil*
+v1;85;Aj, det gör ont!
+v2;105;Kanske har du lärt dig något!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Min pappa är starkare än din.
+v2;30;Nej! Min pappa är starkast i byn!
+v1;60;Inte alls! Min pappa är starkast i hela riket!
+v2;90;Omöjligt! Min pappa är starkast i hela världen!
+v1;120;Jag slår vad om att min pappa kan slå din på mindre än två slag!
+v2;150;Hämta din pappa och gör honom redo för ett slagsmål!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Tjejer är dumma.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Har du sett min docka? Jag kan inte hitta den...
+v2;30;Ge tillbaka mitt svärd så får du den tillbaka!
+v1;60;Du tog den! Tjuv!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Har du sett mina nya kläder?
+v2;30;Du är verkligen vacker. Allt passar dig!
+v1;60;Men jag är inte lika vacker som du!
+v2;90;Åh, det är inte sant, $targetfirstname!
+ 
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Har du sett mina nya kläder?
+v2;30;Du är vacker. Allt passar dig, min kära $targetfirstname!
+v1;60;Men jag är inte lika vacker som du!
+v2;90;Sant.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Har du sett mina nya kläder, $targetfirstname?
+v2;30;Jag tycker att dina gamla kläder såg bättre ut.
+v1;60;VA?
+v2;70;Nej... nej! Du är vacker! Jag gillar dina nya... kläder!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Så, gillar du min nya klänning?
+v2;30;Den gamla passade dig bättre.
+v1;60;VA?
+v2;70;Hör du, $targetfirstname, det är bara min åsikt.
+v1;90;Du är åtminstone ärlig!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Vad ska man göra när man gillar en tjej?
+v1;30;Ge henne komplimanger och var snäll mot henne.
+v2;60;Nej! Det är omöjligt! Vad skulle de andra tro om mig då?
+v1;90;Om du verkligen älskar henne, så skulle du inte bry dig om de andra.
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Det är dags att du lär dig sköta om hemmet.
+v2;30;Toppen, vad börjar vi med? Kan jag göra souvlaki? Snälla!
+v1;60;Låt oss se hur bra du är på att städa först.
+v2;90;Okej, men du visar mig hur man gör souvlaki senare, lovar du?
+v1;120;Jag lovar.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Kan du köpa den där dockan till mig? Alla har en utom jag...
+v1;30;Vad är det magiska ordet?
+v2;60;Kan du SNÄLLA köpa en docka till mig?
+v1;90;Okej, men du måste lova att inte säga emot mer!
+v2;120;Jag lovar!
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Aj...
+v1;30;Du ser förskräcklig ut! Vad hände?
+v2;60;Nåja, alla har ett träsvärd förutom jag.
+v2;80;Så de valde att attackera mig!
+v2;100;Du måste skaffa ett åt mig också!
+v1;120;Jag ser att du använde färg för dina ärr och skador. Fint försök!
+v2;150;Hur som helst! Snälla, ge mig ett svärd!
+v1;180;Svärd är farliga. Inget svärd för dig!
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Våra byggnader är så vackra, det är alltid ett nöje att se vårt arbete!
+v2;30;Mayafolket bygger också väldigt fina byggnader.
+v1;60;Irritera mig inte med de där konstiga personerna. Våra byggnader ser mycket finare ut!
+v2;90;Nåja...
+v1;100;Förrädare! Har du ingen nationalistisk stolthet?
+
+newchat;key:pride2,weigth:10
+v1;0;Vi romare kan verkligen vara stolta över det vi har åstadkommit!
+v2;30;Javisst! Allt du ser är gjort av oss!
+v1;60;Det mäktigaste riket i världshistorien!
+v2;90;Andra nationer ska sola sig i vår ära.
+v1;120;De måste! Vi är härskarna!
+
+newchat;key:pride3,weigth:10
+v1;0;Det romerska riket kommer att styra världen igen!
+v2;30;Vi kommer!
+v1;60;Allt kommer att vara bättre då!
+v2;90;Ja!
+v1;100;Skål för riket!
+v2;110;Skål!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Det kommer att regna snart.
+v2;30;Jag kan känna det, med.
+v1;60;Märkligt. Det verkar alltid vara samma antal dagar tills det regnar.
+v2;100;Tycker du också det?
+v2;125;Märkligt liv här, eller hur?
+v1;155;Javisst!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Titta på den här grisen! Den är söt, eller hur?
+v2;30;AAAHhhh, gå härifrån!
+v1;60;Är du rädd för grisar?
+v2;80;N-nej! Det är jag inte!
+v1;110;Hahahahahaha! Det här är roligt!
+
+newchat;key:weird2,weigth:1
+v2;0;Ahh... god souvlaki. Vill du smaka?
+v1;30;*tuggar*
+v1;40;Tack! Jag gillar souvlaki.
+v2;70;Vem gör inte det!
+v1;100;Har du någonsin testat att lägga jord på souvlakin?
+v2;140;...
+v2;150;Nej?
+v1;170;Ibland gör jag det... Det började när min souvlaki föll i marken förra året... utsökt!
+v2;220;Vänta! Du lägger din souvlaki på marken och äter den? Vad i...?
+v1;260;Men det smakar så gott!
+v2;280;Du är verkligen galen.
+
+newchat;key:weird3,weigth:1
+v1;0;Jag vill rida på en gris!
+v2;30;Varför?
+v1;60;Det är kul!
+v2;80;Varför i hela friden skulle du vilja rida på en gris?
+v1;110;För att det är kul!
+v2;120;Du är galen.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Har du hört om skogshuggarens hemlighet?
+v2;30;Nej, vad är hans hemlighet?
+v1;60;Han verkar samla äpplen och säljer dem till normanderna!
+v2;90;Inte en chans! Och han behåller pengarna?
+v1;120;Javisst!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Min man säger att en baron snart kommer att besöka vår by!
+v2;30;Varför skulle han besöka oss?
+v2;40;En så mäktig, stark och vacker man...
+v1;70;Va? Gillar du honom?
+v2;100;Du måste medge att de är attraktiva!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Det finns en ensamstående kvinna i grannbyn!
+v1;20;Antagligen har även män från vår by varit där!
+v2;60;Förskräckliga nyheter! Jag måste fråga min man om det!
+v1;90;Min verkar oskyldig, men jag är inte säker på din, min kära!
+v2;120;Jag hoppas det också. Må han vara oskyldig.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Jag gillar att se barn leka!
+v1;20;Det får mig alltid att vilja ha barn!
+v2;50;Är du säker på att du har råd med det?
+v2;70;Barn är dyra!
+v1;100;Inget att oroa sig för! Min man har mycket pengar.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Min kära, din man är ett fyllo!
+v2;15;Hur kan du säga så?
+v1;45;Din man kom full till vårt hus igår!
+v1;70;Han sa att han ville gifta sig med ett får.
+v1;100;Och att det skulle firas stort!
+v1;130;Snälla, ta kontroll över din man igen.
+v1;150;Det är verkligen obehagligt.
+v2;180;Okej, okej, jag ska straffa honom!
+v2;210;Inget vin till honom!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Ditt bröd är så gott! Vad är hemligheten?
+v2;30;Lägg till lite socker.
+v1;60;Verkligen? Inget mer?
+v2;90;Bara det! Du kommer att känna skillnaden.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Vem var mannen som besökte dig igår kväll?
+v2;30;Vilken man?
+v1;40;Han som kröp ut genom ditt fönster!
+v1;45;Tro inte att jag inte skulle märka det!
+v2;60;Hur vågar du? Jag är och kommer alltid att vara trogen min man.
+v1;80;Ja, ja. Jag skulle säga så om jag vore du.
+v2;110;Det är inte rättvist! Sprid inte rykten om mig.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;De här nya matlagningsverktygen är bra!
+v2;30;Ja, de gör matlagningen lätt! Det är så roligt!
+v1;60;Tack till smederna och hantverkarna som har skapat dessa verktyg!
+v2;90;Ja! Det är därför jag gillar att vara romare.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
+v1;0;Jag är avundsjuk på de rika människorna.
+v1;20;De har så fina sidenkläder!
+v2;50;Det är verkligen inte rättvist. De gör inget och får de bästa sakerna.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Har du hört talas om baronen i grannbyn?
+v2;30;Ja, är det den vars fru hittades mördad?
+v1;60;Precis! Min man berättade just att baronen själv mördade sin egen fru!
+v2;100;Vad...?
+v2;130;Jag visste att han skulle göra det!
+v2;150;Men ingen trodde mig...!
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Har du tänkt på hur det skulle bli om det blev krig?
+v1;30;Det finns män just nu som slåss för vårt land!
+v1;55;Jag beundrar dem!
+v2;80;Ett krig skulle vara hemskt.
+v2;110;Jag antar att du gillar soldater.
+v2;140;Men du har en man!
+v1;170;Ja, men en lat och ofta full en!
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
+v1;0;Känner du till skönheten i grannbyn?
+v2;30;Naturligtvis, hon är verkligen vacker.
+v1;60;Vad sägs om att besöka henne?
+v2;90;Du vet att din fru skulle bli galen!
+
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
+v1;0;Hantverkarens fru är vacker, vad tycker du?
+v2;40;Ja, hon är inte ful. Tyvärr är hon redan gift!
+v1;70;Visst, ja. Det skulle inte vara rättvist mot honom.
+v2;100;Jag håller med.
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Vi har inte nog med vin här i byn!
+v2;30;Jag håller med! Vi måste bygga fler vingårdar!
+v1;60;Och fler värdshus!
+v2;90;Vad sägs om att vi öppnar vårt eget värdshus?
+v1;120;Bra idé! Låt oss planera det här.
+v2;150;Men var börjar vi?
+v1;180;Våra fruar kommer inte att bli glada när de hör det här!
+v2;210;Nä, att sälja romerskt vin är alltid en ursäkt!
+v1;240;Okej! Låt oss spara våra pengar.
+v1;270;När vi har sparat tillräckligt så kan vi fullfölja vår idé!
+v2;300;Vi kommer att ha det bästa värdshuset i hela riket!
+v1;325;Javisst!
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
+v1;0;Har du testat normandiska verktyg?
+v2;30;Nä, men jag har hört att de är effektiva!
+v1;60;Det är sant. Jag har aldrig använt så bra verktyg förr.
+v2;90;Vänta... Du har normandiska verktyg?
+v1;120;Ehh, jag hade. De har på något vis försvunnit!
+v2;140;VA? Du hade sådana verktyg och tappade bort dem?
+v1;170;JA... Nu är de bara ett minne...
+
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+v1;0;Boom! Jag testade den nya spikklubban!
+v2;30;Ja! Det är ett häftigt vapen! Det stöter bort fienden en bra bit!
+v1;60;Imponerande, eller hur? Detta romerska mästerverk kan inte jämföras med något annat i denna värld.
+v2;100;Det är därför vi kan vara stolta över att vara romare!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Bra mat, bra vapen, bra konst — det är det vår nation handlar om!
+v2;30;Och bra vin!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Jag tycker att min fru är tråkig. Jag vill ha en ny!
+v2;30;Vem vill inte det?
+v1;60;Kanske vi borde plötsligt lämna byn och sedan leta efter nya?
+v2;90;Ja! Mayaerna och indierna har så fina fruar, har du sett?
+v2;140;Men... den här byn är förlorad utan oss.
+v2;160;Och glöm inte våra barn!
+v1;180;Ugh! Våra barn! De överlever inte utan en far!
+v1;220;Men... betyder det att vi måste fortsätta med våra tråkiga liv här?
+v2;255;Jag antar att det är det bästa att göra.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Det är ganska ofattbart hur detaljerade dina ikoner är.
+v2;30;Javisst, så är den romerska konsten!
+v1;60;Som allt vi gör. Titta på våra vackra hus!
+v2;90;Och glöm inte vår ärorika historia!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Kommer du ihåg tjejen vi slogs om när vi var barn?
+v2;30;Ja... det var en dålig tid. Bra att det är över.
+v1;60;Glad att höra det, för hon sa precis att hon alltid gillade mig!
+v2;90;Va? Det är inte sant!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej, vackra, gillar du vad du ser?
+v2;20;*Örfil*
+v2;25;Du har en fru.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej, du ser verkligen fin ut idag, $targetfirstname!
+v2;30;Tack!
+v1;60;Som alltid, min kära!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej $targetfirstname, skulle någon så vacker vilja ha en vacker man som mig?
+v2;40;Du är gift, och jag är också det.
+v2;60;Jag antar att du inte är trogen din fru! Jag kommer att berätta för henne!
+v1;75;NEJ — gör det int—
+v1;85;Jag är hans onda tvillingbror!
+v2;120;Naturligtvis är du det! Samma onda tvilling som alltid är full!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Hur går det med dina kvinnosysslor?
+v2;30;Bra bra, utom att jag mår lite dåligt...
+v1;60;Åh nej, vad hände?
+v2;90;Min man skrek på mig.
+v1;120;Hur kan han skrika på någon så vacker?
+v2;150;Tack för att du muntrade upp mig, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*urgh*
+v1;30;Mår du bra, $targetfirstname?
+v2;50;Ja, det är bara allt det hårda arbetet!
+v1;70;Kan jag hjälpa dig? Skulle du må bättre då?
+v2;90;Naturligtvis! Tack!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Hur går det?
+v2;30;Allt är bra, hur mår du?
+v1;60;Det är bra! Tack för att du frågar.
+v1;75;Men jag kan se att något besvärar dig!
+v2;90;Det är — inget.
+v1;110;Snälla, berätta för mig!
+v2;130;Det är bara det att min fru är så tråkig.
+v2;160;Jag önskar verkligen att jag hade åkt till staden när jag var yngre!
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Broder $targetfirstname, det är skönt att se dig igen!
+v1;30;Jag hittade precis vårt gamla träsvärd!
+v1;50;Kommer du ihåg?
+v2;80;Vänta! Är det här svärdet som vår far gav till oss?
+v1;110;Det är det! Kommer du ihåg hur vi slogs om det?
+v2;140;Hur kan jag glömma det! Jag har fortfarande några ärr.
+v2;170;När jag tänker efter...
+v2;200;Det var ganska elakt av vår far att bara ge oss ett svärd!
+v2;240;Han visste att vi skulle slåss om det!
+v1;270;Jag antar att det är lugnt!
+v2;300;Eftersom du har behållit det!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Kommer du ihåg vagnsföraren vi gillade när vi var barn?
+v2;30;Naturligtvis, syster. Vi var hans största fans!
+v1;60;Jag undrar vad som hände honom.
+v1;90;Man hör inget om honom längre...
+v2;120;Mest troligt är att han slog sig ner i en by som vår och fick en fru och barn.
+v1;150;Jag hoppas fortfarande att jag möter honom någon dag!
+v2;180;Jag med!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, jag har alltid undrat varför du gifte dig med den fjanten.
+v2;30;För att jag älskar honom!
+v1;60;Och nu är ditt namn $targetlastname. $targetlastname! Det låter så illa!
+v2;90;Var inte så ohövlig! Det var faktiskt du som startade konflikten.
+v2;110;Du var full!
+
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+v1;0;$targetfirstname, min son, jag har inte sett dig be idag!
+v2;30;Fader $targetlastname, det har jag, jag lovar.
+
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+v1;0;$targetfirstname, min dotter, jag har inte sett dig be idag!
+v2;30;Fader $targetlastname, det har jag, jag lovar.
+
+newchat;key:religious3,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+v1;0;$targetfirstname, min dotter, har du frid i ditt sinne?
+v2;30;Fader $targetlastname, jag har ingen frid sedan jag kom hit. Det känns som om något är annorlunda.
+v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Mitt barn, många av oss känner att det är något annorlunda här.
+v2;90;Men vad kan jag göra? Mitt liv kommer alltid att vara annorlunda här.
+v1;120;Allt vi kan göra är att be, för Gud har alltid en plan för oss.
+
+newchat;key:religious4,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+v1;0;$targetfirstname, min son, har du frid i ditt sinne?
+v2;30;Fader $targetlastname, jag har ingen frid sedan jag kom hit. Det känns som om något är annorlunda.
+v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó./ Mitt barn, många av oss känner att det är något annorlunda här.
+v2;90;Men vad kan jag göra? Mitt liv kommer alltid att vara annorlunda här.
+v1;120;Allt vi kan göra är att be, för Gud har alltid en plan för oss.
+
+newchat;key:ticlon,v1:notvtype:pastor_byzantine-metropolit_byzantine,v2:vtype:pastor_byzantine-metropolit_byzantine,weigth:1
+v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ Fader $targetlastname, när jag bad såg jag märkliga symboler.
+v2;30;Paidí, ti sou édeixe o Theós?/ Mitt barn, vad visade Gud dig?
+v1;60;Fader, symbolerna var "Ticlon". Vet du vad det betyder?
+v2;90;Guds vägar är outgrundliga.
+ 
+//Remove this if we add the Seljuks
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Har du hört något om seljukerna sedan vi kom hit?
+v2;30;Nej, jag har inte hört något. Tror du att de kom med oss till det här landet?
+v1;60;Jag tvivlar på det, vi har redan hört talas om folk vi inte visste existerade.
+v2;90;Jag antar att vi måste skaffa oss nya fiender i det här landet.
+v1;120;Vi har fortfarande normanderna att ta hand om.
+v2;150;Nåja, vi är romare! Vi kan lätt besegra dessa anfallare. Till Rom!
+v1;165;Till Rom!
+
+newchat;key:noBakery,building:farm,notbuilding:windmill,v1:adult,v2:adult,weigth:15
+v1;0;Ah, vem vill inte ha färskt, gott bröd direkt från gården?
+v2;30;Du vet väl att vi behöver ett bageri för att kunna göra bröd av vete?
+v1;60;Du måste skämta, nu kommer jag att svälta.
+v2;90;Svälta? Du åt min frukost! Jag kommer att vara den som svälter.
+v1;120;Jag behöver det mer än du!
+v2;150;Jag vet inte varför jag pratar med dig!
+v1;180;Vi behöver ett bageri, det är det som spelar roll.
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Har du hört om den normandiska byn som ligger i närheten?
+v2;30;Det är inte bra, jag kommer ihåg att de fortsatte attackera södra Italien innan vi kom hit.
+v1;60;Vi får hoppas att de inte anfaller oss.
+v2;90;Det hoppas jag med.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Jag undrar vad som hände med Konstantinopel?
+v2;30;Jag tror att det följde med oss hit till det här nya landet.
+v1;60;Varför tror du det?
+v2;90;Jag bodde nära och så fördes jag hit.
+v1;120;Sant, men de har ju så många människor som bor där. Vi borde ha hört något om det nu.
+v2;150;Det kan vara väldigt långt borta.
+v1;180;Jo, men Konstantinopels ära och prakt är så stor att folket i Cathay har hört om det.
+v2;210;Säg inte att du tror på berättelserna om Cathay?
+v1;240;Jag tror att det ligger någon sanning i dem.
+v2;270;Men det finns så många mysterier kring Cathay att vi inte kan anta att det ligger någon sanning i det.
+v1;300;Det finns så många mysterier kring om Konstantinopel är här att vi inte kan anta det heller.
+v2;330;Nåja, men även om Konstantinopel inte är här så måste vi utöka och skydda det romerska riket.
+v1;360;Det kan jag hålla med om!
+v2;390;Må Rom finnas för evigt!
+
+newchat;key:baron1,v1:adult,v1:vtype:baron_byzantine,v2:adult,v2:male,v2:notvtype:pastor_byzantine,weigth:10
+v1;0;Dags att betala vår skatt.
+v2;30;Jag är ledsen, men jag har inte lyckats skaffa tillräckligt med resurser.
+v1;60;Vill du att jag ska bannlysa dig från byn, idiot?
+v2;80;Nej...
+v1;90;Kom då tillbaka med din skatt, NU!
+v2;120;Okej, okej.
+
+newchat;key:inuits,v1:adult,v2:adult,weigth:10
+v1;0;Tidigare pratade jag med en romersk köpman och han berättade om byar långt iväg som låg i snölandskap.
+v2;30;Byar i snölandskap?
+v1;60;Ja, de kallas "inuiter".
+v2;90;Inuiter? Vilket märkligt namn, hurdana är de?
+v1;120;Köpmannen sa att de inte tror på pengar! Hur kan de leva?
+v2;150;Tror inte på pengar?! Hur kan de leva?
+v1;180;De delade allt lika. Det gjorde det svårt att köpslå med dem.
+v2;210;Stackars köpman. Han är åtminstone tillbaka i det romerska riket, långt ifrån de där barbarerna.
+v1;240;Det romerska riket är det bästa landet att köpslå i!
+
+newchat;key:notavern,v1:adult,v1:male,v2:adult,v2:male,notbuilding:taverna,weigth:20
+v1;0;Hej! Du verkar inte alltför glad idag.
+v2;30;Ja, det finns inget värdshus för oss att dricka på.
+v1;60;Jag önskar att det fanns ett värdshus. Då kunde vi dricka romerskt vin.
+v2;90;Om bara...
+
+newchat;key:Inuit,v1:adult,v2:adult,weigth:10
+v1;0;Tidigare pratade jag med en bysantinsk handelsman och han berättade om byar långt borta i snön.
+v2;30;Byar i snön?
+v1;60;Ja, de kallas "inuiter".
+v2;90;Inuiter? Vilket märkligt namn, hur var de?
+v1;120;Handelsmannen sa att de inte tror på pengar.
+v2;150;Tror inte på pengar?! Hur kunde de leva?
+v1;180;De delade bara allt lika med varandra. Det gjorde det mycket svårt att handla med dem.
+v2;210;Stackars handelsman. Åtminstone är han tillbaka i det romerska riket, långt från de där barbarerna.
+v1;240;Jag håller med! Det romerska riket är det bästa landet att handla i!
+
+newchat;key:kidsBos,v1:child,v2:child,weigth:5
+v1;0;Bähh… Bähhh… Jag är fårens kung!
+v2;30;Sluta! Du kommer att frammana honom på det viset!
+v1;60;Åh Boskokrator, jag bygger åt dig en helig plats…
+v2;90;Tyst med dig! Vet du inte vad som händer i sägnen?
+v1;120;$targetfirstname, din lipsill! Det är bara det! En sägen!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Jag hoppas att vi inte behöver ge oss ut och slåss mot några barbarer på ett tag.
+v2;30;Vad? Vi är soldater, vårt jobb är att ge oss ut och döda barbarer. Varför gå med i armén om du inte tycker om att slåss?
+v1;60;Jag trodde att det skulle vara lättare att vara soldat, allt jag väntade mig var att stå omkring och döda några monster och då och då en barbar. Men nu när jag dödar en barbar tittar jag på hans ansikte och tänker: "Kanske borde vi inte döda de här människorna."
+v2;120;Du tänker för mycket! Ge dig ut och döda barbarer för Rom. De skulle döda oss och förstöra våra hem! De är bara ociviliserade vildar.
+v1;150;Har du träffat de här människorna som du predikar om att döda? Nej, det har du inte, kanske är de annorlunda än vad vi har fått höra.
+v2;180;Sant, de skulle kunna vara mycket värre.
+v1;210;Jag tror inte du förstår de tankar och den vånda jag går igenom.
+v2;240;Jag är soldat, inte filosof. Du borde be till Gud om vägledning, för det behöver du tydligen.
+v1;270;Det har jag redan gjort och jag fick inget mer från Gud. När jag bad lämnades jag med samma slutsats som jag har nu.
+v2;300;Vad? Du har tydligen övergivit Gud, för att Han inte ska säga dig sanningen! Gå tillbaka till att be tills du kan döda barbarer igen!
+v1;330;Kanske är detta den slutsats Gud ville att jag skulle nå!
+v2;360;Det låter mer som att Gud vill att du ska pensionera dig…

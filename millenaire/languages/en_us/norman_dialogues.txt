@@ -1,0 +1,364 @@
+//*  Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+//*  First half of the line (till the /) is in the villagers' language and must be kept as-is, second part should be translated
+//* 
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;I can feel it's going to rain.
+v2;30;It always rained in Normandy...
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Our village is beautiful, don't you think?
+v2;30;Splendid! And we work hard at it!
+
+newchat;key:sunset,weigth:10
+v1;0;Where does the sun rise, again? I keep forgetting.
+v2;30;North, where else?
+
+newchat;key:harvest,weigth:10
+v1;0;Do you think the harvest will be good this year?
+v2;30;Who knows, with the weather we've had.
+v1;60;Seasons don't make sense here.
+
+newchat;key:indianfood,weigth:5
+v1;0;Have you heard of those Indian people?
+v2;30;People say they are very strange.
+v1;60;Apparently their food burns!
+v2;100;Like calva?
+v1;120;No, worse!
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Those Byzantines get on my nerves!
+v2;30;You saw how high and mighty they get?
+v1;60;All that because they claim to be Romans.
+v2;100;What a joke. Degenerated Romans, then.
+v1;130;We should organise a raid on them!
+v2;160;We are Vikings after all!
+
+newchat;key:storm,weigth:10
+v1;0;There was a terrible storm yesterday.
+v2;30;Indeed, I thought the roof would get blown away.
+v1;60;We should strengthen them all.
+
+newchat;key:visitors,weigth:10
+v1;0;What we lack around here are visitors.
+v2;30;Well, there is $name...
+v1;60;But he is a little strange, no?
+v2;100;It's true we never know what he is up to.
+
+newchat;key:christmas,weigth:10
+v1;0;When is Christmas coming?
+v2;30;I don't really know... Seasons don't change here.
+v1;80;What a strange world.
+v2;110;Sometimes it almost looks like Normandy...
+v2;140;And then we see that everything is different.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Have you ever seen Duke William?
+v2;30;No, never. And who knows where he is now?
+v1;60;If he was here, we would have already conquered this new world!
+v2;100;Long live Duke William!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Have you noticed that here earth floats if we dig underneath it?
+v2;40;Yes, and so?
+v1;60;In Normandy, it used to fall...
+v2;90;In Normandy, God wanted it to fall. Here, he wants it to float.
+v2;150;Why are you criticizing God?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;I like rain.
+v2;30;Good thing for a Norman!
+
+newchat;key:boudintripes,weigth:10
+v1;0;What do you prefer, boudin or tripes?
+v2;40;Boudin. Tripes are too heavy!
+v1;80;Too heavy? And you call yourself a Norman?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;This country lacks animals.
+v2;30;There are cows, sheep and pigs.
+v2;60;What else is needed?
+v1;60;Horses? And ponies!
+v2;90;Because you want a pony, now?
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Tripes, now that's a man's dish.
+v2;30;Prepared by women...
+v1;60;With cows slaughtered by men!
+v2;100;And fed by women...
+
+newchat;key:countingcows,weigth:10
+v1;0;There isn't much to do around here.
+v2;30;It's good, peaceful.
+v1;60;And boring...
+v2;75;Why don't you count cows?
+v1;110;Already done, yesterday. And chickens, too.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;What an isolated place. I'd like to see something else one day...
+v2;30;The other villages are all the same.
+v1;60;Not a village! A town. Or even a city!
+v2;90;Like what, Rouen? You're mad, it's days from here.
+v1;120;Rouen... or maybe... Why not Paris?
+v1;150;Can you imagine, people say there are 25 000 people living there!
+v2;180;You're going crazy. 25 000 people in the same place? Where would they even go?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;In that kind of weather, a calva is a must!
+v2;30;In all weather!
+v1;50;Cheers for Normandy and its calva weather!
+v2;70;Cheers!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;When I'm grown, I'll be the head of the village!
+v2;30;You're going to need a lot of soup before you get there.
+v1;60;And I'll get you punished!
+v2;70;Right. And for now, off to work or it's a slap for you.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;My dad is much stronger than yours.
+v2;30;Nonsense. My dad is the strongest in the village.
+v1;60;Dream on. My dad can beat yours in two minutes flat.
+v2;70;And Earth is round!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Girls are useless.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;You might be a boy, but I can make you cry when I want.
+v2;30;Not true! Not true!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Be good, or the Enderman will grab you tonight!
+v2;40;Pfff, I'm too old to believe that nonsense.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;So, beauty, what are you doing tonight?
+v2;40;$targetfirstname, I already told you - no!
+v1;60;Such character!
+v2;80;Such idiocy!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, what fine muscles!
+v1;30;Be quiet, you fool! If my wife hears us...
+v2;60;Then what, handsome?
+v1;90;You know how jealous she gets!
+v2;120;And? You are scared of her?
+v1;140;Scared? Of Her? You're joking!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Brother John, Brother John
+v2;30;Are you asleep, are you asleep?
+v1;60;Ring the morning bells! Ring the morning bells!
+v2;100;Ding, daing, dong. Ding, daing, dong!
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Little skylark, lovely little skylark,
+v2;0;Little skylark, lovely little skylark,
+v1;30;Little lark, I'll pluck your feathers off.
+v2;30;Little lark, I'll pluck your feathers off.
+v1;60;I'll pluck the feathers off your head.
+v2;60;I'll pluck the feathers off your head.
+v1;90;Off your head!
+v2;90;Off your head!
+v1;120;Poor skylark though...
+v2;160;Why? It's fun!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Let us walk in the woods,
+v2;0;Let us walk in the woods,
+v1;30;While the wolf is away.
+v2;30;While the wolf is away.
+v1;60;If the wolf was there
+v2;60;If the wolf was there
+v1;90;He would eat us,
+v2;90;He would eat us,
+v1;120;But since he isn't there,
+v2;120;But since he isn't there,
+v1;150;He will not eat us.
+v2;150;He will not eat us...
+v2;180;Euh, you are sure?
+v1;200;Coward!
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;The good King Dagobert
+v1;30;Had his breeches inside out.
+v1;60;The great Saint Eloy
+v1;90;Told him : Oh my king !
+v1;120;Your Majesty
+v1;150;Is badly panted.
+v2;180;Badly panted? What does it mean?
+v1;220;That he does not have pants!
+v2;250;Nonsense, he's the King!
+v1;280;Well, the King doesn't have pants!
+v2;310;Even you have some, idiot!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;My son, you last confessed a long time ago.
+v2;40;But Father, I have not sinned!
+v1;70;Everyone sins in this fallen world.
+v2;110;Even you, Father?
+v1;130;Enough insolence! You shall do ten Pater Noster in penitence!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;My daughter, you last confessed a long time ago.
+v2;30;It is the truth, Father, and I have sinned!
+v1;60;If it was a sin of the flesh, we shall discuss it elsewhere.
+v2;100;Thank you, Father.
+v1;120;In the meantime, ten Pater Noster. Always useful!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;I've improved my skills again.
+v1;30;Now before assembling frames, I start by...
+v2;70;Fascinating.
+v1;90;You really think so?
+v2;110;No.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;I love preparing tripes. First, bleed the cow...
+v1;40;Then gather the bowels...
+v2;60;Stop it, you disgust me!
+v1;80;But you love tripes!
+v2;110;And I don't want to know how they are made.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;No doubts, farming is the most important job.
+v1;40;Without me, there is no bread!
+v2;60;I like tripes better anyway.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;When I was young, I was a very promising apprentice.
+v1;40;Guillaume Vif-Argent himself was interested in me!
+v1;80;And now I'm stuck here.
+v1;110;Taking care of idiots.
+v2;130;Eh, what?
+v1;150;*sight*
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Look at my castle! A real stronghold!
+v2;30;You are mighty, my Lord!
+v1;60;When Duke William comes back, he will surely make me Count!
+v2;100;Hurray for Count $targetfirstname!
+v1;130;Hurray for me!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;My beauty is legendary in these lands.
+v2;30;You are splendid, my Lady!
+v1;60;And yet I married a petty, worthless knight...
+v2;100;But his Lordship will surely become a Count one day!
+v1;130;This idiot? And why not Pope, while you are at it?
+v2;160;Why not, my Lady! Euh... I meant...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Apples, apples, apples!
+v1;30;Apples, apples... apples!
+v2;60;You're sure it wasn't cider, cider, cider?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;What a petty village.
+v2;30;Hey stranger, mind your tongue!
+v1;70;And what charming people!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;I've come up with a little song, you want to listen to it?
+v2;40;Let's hear it!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v2;70;Promising start...
+v1;90;It's home from work I go!
+v2;110;And I have a lot of work to do.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Brother John, Brother John!
+v1;30;Very funny, my child.
+v2;60;Are you asleep, are you asleep?
+v1;90;Enough, enough, I know the song.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;All's good in the pig!
+v2;30;They still make a lot of noise when you slaughter them, though.
+v1;70;The hardest the pig squeal, the better the meat!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;I minister to the spiritual health of the villagers.
+v2;30;And there's ministering to do!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Our village fears God.
+v2;30;And his vicar, Father $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;I am held in high esteem in the court of the King the Duke William.
+v2;40;The King the Duke?
+v1;60;His Majesty William the Conqueror, Duke of Normandy and King of England, you fool!
+v2;100;Where is England?
+v1;120;On the other side of the sea. Such ignorance!
+v2;140;Of which sea, my Lord?
+v1;160;Such insolence! Enough!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Being a shepherd is a noble craft.
+v2;30;Noble? Shepherd?
+v1;50;Have we not been chosen by God to hear the Good News?
+v2;90;Ah, yes. While you were taking care of the newly-born lambs - in December.
+v1;130;And so? Maybe in Bethlehem there are no seasons. Like here!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;The true strength of the Normans lie in their weapons and tools.
+v2;40;And hence in their smiths?
+v1;60;Indeed!
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Why are the women always the ones building?
+v2;40;If it bothers you, I'll take care of the next one.
+v1;80;Really! That is so sweet! So, regarding the drapes, don't forget to...
+v2;120;Actually no, I think I'll let you do it.
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;I walked in front of the alchemist workshop yesterday.
+v1;40;There was a smell of rotten eggs!
+v2;80;They say he's trying to create the philosopher's stone!
+v1;120;I've heard he wants to resuscitate the dead.
+v2;160;And me that he will create a monster from body parts!
+v1;200;How horrible!
+v2;220;And he was such a sweet boy...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Have you visited the new archives?
+v1;30;You can see what everyone is doing!
+v2;60;Oh, really... and, euh...
+v1;90;Yes, I saw your panel.
+v1;120;You should be ashamed of yourself.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;I love the smell of fresh bread coming out of the bakery.
+v2;40;Now we only need someone who knows how to make croissants.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Our church is truly magnificent!
+v2;30;It shows that we are a pious village.
+v1;60;And it's bigger than that of the village next door!
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Now that we have an inn, we can trade!
+v2;40;In other words, merchants passing by will help themselves to our resources.
+v1;80;You've always been cynical.
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;I love the market! So many fine goods!
+v2;40;We feel less isolated now it's there.
+v2;80;But no richer...
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;The tavern is surely the best thing we've build in the village.
+v2;40;Nobody here will challenge that!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! We are unstoppable. Our impressive ships and honorable knights are the scourge of the world!
+v2;40;And what are our enemies? A bunch of Roman tricksters and Maya stone lovers?
+v1;80;Don't forget the snow fools who don't even have the concept of money!
+v2;120;Hahaha! The Norman life is the best in the world! Wonderful Cider, best tools. Ah, this is our golden age.
+v1;160;And we get to share it!
+v2;200;Hahaha!

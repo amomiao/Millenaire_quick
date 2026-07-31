@@ -1,0 +1,19 @@
+# Special-point mock blocks
+# Place these blocks inside an NBT template to mark semantic positions.
+# The mod extracts them at load time (MockBlockExtractor) and processes
+# them at placement time (MockBlockProcessor). See docs/systems/ for
+# per-type processing semantics.
+#
+# Generated automatically — do not edit.
+
+millenaire:mock_marker          Generic marker (spawn point, waypoint, etc.)
+millenaire:mock_facing_marker   Directional marker (door facing, etc.)
+millenaire:mock_chest           Chest spawn location
+millenaire:mock_soil            Farmable soil zone
+millenaire:mock_source          Resource source marker (water source, etc.)
+millenaire:mock_free            Free space (kept empty during construction)
+millenaire:mock_tree_spawn      Tree planting location
+millenaire:mock_animal_spawn    Animal spawn zone
+millenaire:mock_decor           Decorative item placement
+
+# Total: 9 mock block types.

@@ -1,0 +1,83 @@
+
+
+villager.greeting=Det er meget varmt i dag.
+villager.greeting=Har alle det godt derhjemme?
+villager.greeting=Hvordan går det?
+villager.greeting=Hvilke nyheder har du?
+villager.greeting=Kommer du fra den anden side af havet?
+villager.greeting=Goddag, $name-ji!
+villager.greeting=Hvorfor regner det ikke?
+pandit.greeting=Måtte du leve længe.
+merchant_oriental.greeting=Fred være med dig, broder!
+merchant_adivasi.greeting=Jeg er lige kommet fra skoven.
+merchant_villagewoman.greeting=Det er hårdt at rejse for en gammel kvinde.
+
+male.gorest=Nu vil jeg hvile mig.
+male.gorest=Jeg er træt.
+male.gorest=Jeg har arbejdet siden i morges.
+
+female.gorest=Nu vil jeg hvile mig.
+female.gorest=Jeg er træt.
+female.gorest=Jeg har arbejdet siden i morges.
+
+villager.gopray=Gud, du er vores eneste håb.
+villager.gopray=Kære gud, lad høsten blive god denne gang.
+
+villager.inspectconstruction=Jeg holder af at se vores murere udføre sådanne værker.
+
+
+lumberman.bringbackresourceshome=Det bliver svært at bære så meget træ hjem.
+lumberman.choptrees=Det ser ud til, at jeg kommer til at bruge mit liv på at fælde disse træer.
+lumberman.gathergoods=Nu vil jeg samle alt træet sammen.
+lumberman.plantsaplings=Jo flere træer jeg planter, jo lettere bliver livet senere.
+
+peasant.drybrick=Hvor mange mursten skal vi bruge for at bygge et hus?
+peasant.gatherbrick=Solen er stærk, de tørrer hurtigt i dag.
+peasant.cookbrick=Se, hvor godt disse mursten brænder i ilden.
+villager.plantrice=Hvis det regner kraftigt, bliver høsten god i år.
+villager.harvestrice=Takket være den megen regn denne gang bliver høsten god.
+villager.plantturmeric=Trods alt har alle brug for gurkemeje.
+villager.harvestturmeric=Denne gurkemejehøst får mine hænder til at blive gule.
+peasant.slaughterchicken=Jeg har fået nok af vegetarkarry!
+peasant.slaughterchicken=Jeg hader høns. De larmer og duer ikke til andet end at blive spist.
+
+peasantwife.gethousethresources=Alt ender altid i godsejerens hus.
+peasantwife.getgoodshousehold=Ligegyldigt hvor meget du skaffer til denne familie, er det aldrig nok!
+peasantwife.delivergoodshousehold=Hvordan skal jeg bære al denne mad alene?
+peasantwife.makerasgulla=Børnene elsker rasgullaer.
+
+
+peasant.getresourcesforbuild=Lad mig se, et ton mursten, to ton sten ...
+peasant.construction=Hinduistisk arkitektur er berømt over hele verden.
+peasant.construction=Når jeg er færdig med dette, bygger jeg et rødt fort.
+
+villager.goplay=Jeg elsker at lege i mudderen.
+
+villager.childobserveagriculture=At dyrke afgrøder hele dagen virker så kedeligt. Jeg vil have et liv fyldt med eventyr!
+villager.childobserveconstruction=Byggeri ser ud til at være alt for meget arbejde for mig.
+villager.childobservesmithing=Sikke nogle stærke arme!
+villager.childobserveproducefood=Min mor laver de bedste rasgullaer.
+
+villager.childeatsugarcane=Mor siger, det ødelægger tænderne, men det smager så godt!
+
+villager.becomeadult=Nok leg, det er tid til at arbejde.
+male.becomeadult=Da jeg var yngre, drømte jeg om at blive en stor kriger ...
+female.becomeadult=Jeg drømte om, at jeg skulle giftes med en prins ...
+
+villager.gopray.chosen=Det er tid til at besøge templet igen.
+pandit.gopray.chosen=Hvis jeg ikke tager mig af templet, hvem skal så?
+
+villager.calltoarms=Nederlag til fjenderne!
+villager.calltoarms=Sejren bliver vores.
+villager.calltoarms=Alle, grib til våben!
+
+smith.maketools=Alle bruger mit værktøj, og alligevel ser alle ned på mig.
+armysmith.makeweapons=At smede våben er så meget mere fornemt end at fremstille værktøj!
+sculptor.scult=Skulptur er kunsten af huller og buler.
+
+merchant_oriental.keepstall=Se Persiens herligheder!
+merchant_adivasi.keepstall=Alt er dyrket af min familie, dybt inde i skoven.
+merchant_villagewoman.keepstall=Hjemmelavet mad til sultne rejsende!
+female.sellercoming=Jeg kommer straks!
+villager.sellercoming=Jeg kommer straks!
+villager.tradecomplete=Handlen er afsluttet, kom endelig igen.

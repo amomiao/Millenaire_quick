@@ -1,0 +1,332 @@
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Po zaslugi Ah Muna in Ghanana so naše žetve dobre. Slava njima!
+v2;30;Zahvalimo se jima med molitvijo.
+v1;80;Kaj jima lahko ponudimo?
+v2;120;Ne bodi neumen! Našo kri, seveda!
+
+newchat;key:alchimist,weigth:4;
+v1;0;Ko sem raziskoval gozd, sem videl smešnega alkimista.
+v2;30;Si ga tudi ti videl? Smešno čuden je.
+v1;60;Pa še kako. Imel je seznam čudnih sestavin. Veš, kaj so "lobanje izsušenih okostnjakov" ali "pesek duš"?
+v2;90;Ne. Toda zveni precej zaskrbljujoče.
+v1;120;Ja! Govori se, da poskuša narediti kamen modrosti.
+v2;150;Pogumni $targetfirstname, če verjameš vsem govoricam, boš začel verjeti, da je Zemlja okrogla.
+v1;180;Najbrž imaš prav.
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac je jezen. Vreme je slabo.
+v2;40;Premalo molimo.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;Zgraditi bi morali pekarno. Postali bi del posla.
+v2;30;Res je. Ne moremo se zadovoljiti z domačim kruhom.
+v1;60;Pojdimo govorit s poglavarjem.
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;Kaj hočeš biti, ko boš velik?
+v2;30;Ne vem, mogoče bojevnik, ali rudar... mogoče kmet...
+v1;60;No, nekoč se boš moral odločiti.
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Bojim se odrasti.
+v2;30;Zakaj?
+v1;60;Ker... preveč je dela in ne moremo se več igrati...
+v2;90;Boš videl, super je!
+v1;120;Ne... nočem, nočem, nočem!
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Moj očka je najboljši, ker je drvar!
+v2;30;Pf! Les je neuporaben! Moj je boljši, ker je rudar!
+v1;60;Brez lesa tvoj očka ne pomaga nič.
+v2;90;Aha? Iščeš težave?
+v1;120;Nehaj, kamen je neuporaben, priznaj.
+v2;150;Brez kamna bi tvoj očka spal pod zvezdami!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Pohabimo se med naslednjo molitvijo.
+v2;40;Sem že. Ti pa ne?
+v1;80;J-j-jaz raje obdržim kri.
+v2;120;In zdaj spet enako! Vsakič, ko izgledaš odločen, si premisliš!
+v1;160;Nočem!
+v2;200;Ti odklanjaš čast našim bogovom?!
+
+newchat;key:byzantins,weigth:9;
+v1;0;Teh Bizantincev res ne morem prenašati, mislijo, da jim pripada ta dežela!
+v2;30;In si videl njihove zgradbe?
+v1;60;Da, sem. Zelo nenavadne.
+v2;90;Opeke? Kakšen smisel ima to?!
+v1;120;Celo tisto steklo uporabljajo, kot Normani.
+v2;150;Res je, a se zdijo bolj napredni od Indijcev. V oknih nimajo ničesar.
+
+newchat;key:cacao,weigth:6;
+v1;0;Kakav je zdrav in okusen...
+v2;40;Zdrav, brez dvoma! Toda okusen, gotovo ne! Wah je veliko boljši.
+v1;80;Kakav je najljubša hrana bogov. Jej, kar ti ponujajo.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;Tu okrog je malo kakavovcev, ta kraj je nezdrav.
+v2;40;Posadimo jih nekaj.
+v1;80;Pravi! Kakavova zrna so izjemno draga!
+v2;120;Ek Chuah nam bo pomagal.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Poskusil bom gojiti riž.
+v2;30;Riž? Kaj je to?
+v1;60;Rastlina, ki sem jo kupil pri Indijcih. Pravijo, da je okusna!
+v2;90;Smem poskusiti?
+v1;120;Žal ne. Vsako zrno moram posaditi.
+v2;150;Ne bo šlo.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;Nimamo dovolj kokoši za žrtvovanje.
+v2;40;Zdi se mi, da sva srečala $name. Kupiva mu jajca.
+v1;90;Imaš prav, naredimo tako.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;Mama! Lahko grem igrat dlje od vasi?
+v2;30;Ne, otrok moj, nočem, da se poškoduješ.
+v1;60;Kako se bi poškodoval? Tam zunaj ni nevarno.
+v2;90;Poslušaj, zunaj so nevarna bitja...
+v1;120;K-kakšna bitja, mama?
+v2;150;Strašne stvari, kot... creeperji.
+v1;180;C-c-creeperji?
+v2;210;Da, otrok moj, sledili ti bodo do doma in eksplodirali, ko se najmanj nadejaš.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;V puščavi sem videl čudno črno jajce.
+v2;30;Aja? Kako je izgledalo?
+v1;60;Veliko, z vijoličnimi pikami. Zelo veliko.
+v2;90;Si spet pil normanski alkohol ali se šališ?
+v1;120;Ampak... res je! Prisežem!
+v2;150;Haha! Če misliš, da me s tem premamiš, se motiš!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Najel te bom, da me varuješ, v zameno za 48 kovancev na dan.
+v2;30;Hmmm. Odvisno, za koliko časa me najemaš, $targetfirstname.
+v1;60;Šest dni. Moji psi mi ne nudijo dovolj zaščite.
+v2;90;V redu, srebrnik. Nič manj.
+v1;120;To je rop!
+v2;150;Sploh ne, $targetfirstname. Pri tem delu tvegam svoje življenje.
+
+newchat;key:endofworld,weigth:3;
+v1;0;Naši šamani in astrologi nekaj vidijo.
+v2;40;Aja? Kaj?
+v1;80;Vidijo pomemben dogodek leta 2012.
+v2;120;Ne misliš, da gledajo malce predaleč v prihodnost?
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Pozdravljen $targetlastname, gospod. Naša pogodba še velja?
+v2;30;Da, da. Kot rečeno, vse imam.
+v1;60;Vedno točen! Veselje mi je poslovati z vami.
+v2;90;Veselje je vse moje. Torej... 32 hlodov za 8 železnih ingotov. Voilà!
+v1;120;Najlepša hvala, gospod. Lep dan vam želim.
+v2;150;Tudi vam, gospod $targetlastname!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ah, moj dobri prijatelj $targetfirstname! Kako si?
+v2;30;Pozdravljen $targetfirstname! Kakor pač gre, posli so slabi.
+v1;60;Si prenehal prodajati kamen Indijcem?
+v2;90;Da. Zdaj, ko so samostojni japonski rudarji ponudili svoje storitve, me ne potrebujejo več.
+v1;120;Ponuditi jim moraš kaj drugega.
+v2;150;Imaš kakšno idejo?
+
+newchat;key:gravity,weigth:7;
+v1;0;Dnevi so v teh deželah veliko krajši.
+v2;30;Da, in tla včasih plavajo.
+v1;60;Razen gramoza... in peska.
+v2;90;Sprašujem se, zakaj.
+
+newchat;key:indians,weigth:8;
+v1;0;Indijci se zdijo veliko bolj mirni kot Normani, kajne?
+v2;30;Da, mogoče bi se morali z njimi povezati.
+v1;60;Hmm... Da, potem bi morda skupaj lahko napadli Normane, ali celo Bizantince.
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Hej, $targetfirstname, poglej tole.
+v2;30;Smešen meč! In smešen lok! Kje si dobil to?
+v1;60;Lok je yumi in meč je tachi. Iz japonske kovačnice.
+v2;90;Lepa in učinkovita. Je bila draga?
+v1;120;Pa še kako! Sama dva srebrnika sem zapravil za lok!
+v2;150;Vau! Veliko boš moral varčevati, preden si jih boš kupil.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;Ko bom velik, hočem biti kot moj očka!
+v2;30;Slabič?
+v1;60;Kaj? Ne, ni slabič.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Majevska arhitektura je najmočnejša v vseh teh deželah.
+v2;30;Iz vsega tega kamna, ki ga pridobivamo, gradimo te lepote.
+v1;60;Sprašujem se, koliko kamnitih hiš bomo še zgradili.
+v2;90;Le čas bo pokazal, prijatelj.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Vera je naše edino orožje v teh nenavadnih deželah.
+v2;40;Glede na naš položaj moramo kaznovati tiste, ki žalijo naše bogove.
+v1;80;Vsekakor jih ne smemo užaliti.
+
+newchat;key:miner,weigth:9;
+v1;0;Več rudarjev bi morali zaposliti.
+v2;30;Ah da! Skala in rudnine so najboljši materiali, ki obstajajo.
+v1;60;Strinjam se... a v vasi nas ni dovolj, naše število mora narasti.
+v2;90;In otrok ne moremo poslati delat. Premladi so.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Res? $name je monoteist?
+V2;35;Zdi se, da naše vere ne jemlje resno...
+v1;75;Daj no, ni tako neumen, da ne bi verjel v naše bogove.
+
+newchat;key:monster,weigth:5;
+v1;0;Pošasti je zdaj veliko.
+v2;30;Prepričan sem, da se jim straže lahko zoperstavijo.
+v1;60;Skrbi me, če bi nas napadla horda tistih eksplozivnih zelenih bitij.
+v2;90;Brez skrbi. Imamo vabe proti njim.
+v1;120;Prav, v najslabšem primeru je tu $name. Dobro se bori in nas lahko brani.
+v2;150;Niti jaz ne dvomim o tem. Ni tako slab.
+
+newchat;key:normands,weigth:6;
+v1;0;Si videl barvo kože Normanov? Vsi so tako bledi!
+v2;30;Pa res! Nikoli prej nisem videl take barve. Čudno.
+v1;60;Mislim, da so morda prekleti...
+v2;90;Ne bodi neumen. Ljudje so kot vsi drugi.
+v1;120;Brez dvoma jih je tako spremenil alkohol. Prepričan sem, da niso bili vedno taki.
+v2;150;Verjetno se motiš.
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Obsidijansko orodje in orožje sta najbolj prefinjena.
+v2;30;Tako razkošna, a vendar lahko vsak kaj dobi.
+v1;60;Buzdovan je odličen za razbijanje sovražnika.
+v2;90;Res? Z veseljem bi videl enega v akciji.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Življenje v moji veličastni palači je nekaj posebnega.
+v2;30;In to je čudovita palača, moj voditelj!
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Toliko koruze za pobiranje, tako malo časa...
+v2;30;Da, želim si, da bi del žetve šel nam.
+
+newchat;key:player,weigth:10;
+v1;0;Tukaj nimamo veliko obiskovalcev.
+v2;30;Da, tu sta le $name in drugi izgubljeni ljudje...
+v1;60;Ko že govoriva o $name, se ti ne zdi vedno bolj čuden in utrujen?
+v2;90;Res je. Moral bi se malo spočiti.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name je precej čuden človek.
+v2;30;Še bolj čuden kot Normani.
+v1;60;A od kod je prišel?
+v2;90;Nisem prepričan, ne zdi se mi, da pripada kateri koli kulturi.
+
+newchat;key:poktapok,weigth:7;
+v1;0;Obožujem pok-ta-pok!
+v2;40;Tudi jaz! Moram reči, da je ena naših redkih zabavnih dejavnosti.
+v1;80;Res je. Dolgčas je... in zadnjo žogo sem izgubil!
+
+newchat;key:puja,weigth:6;
+v1;0;Si šel molit?
+v2;35;Seveda! Pravi Maja mora!
+v1;80;Haha! Seveda! Kako neumno vprašanje sem zastavil.
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Naša piramida je najlepša in najbolje zgrajena.
+v2;30;Res je. Obiskal sem druge vasi. Njihove so lepe, a ne tako elegantne kot naša!
+v1;60;Naša arhitektura je edinstvena in izvirna.
+v2;90;Ne hvali se preveč. Nočem, da bi bili kot bahaški Bizantinci.
+v1;120;Oh ja, ehhh... sovražim jih. Kako je sploh kdo lahko tako prevzeten!
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;Potrebujemo dež za koruzo.
+v2;30;Kako si želim, da bi deževalo.
+v1;60;Mogoče, če gremo moliti, nam bodo duhovi naklonili dež, primeren za popolno žetev letos.
+v2;90;Prav, gremo, takoj ko ne bomo preveč zaposleni.
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;Mama in oče sta nepravična! Vedno moramo pospraviti sobo!
+v2;30;Da! Uprli bi se morali in zahtevati boljše ravnanje!
+v1;60;V boj! Osredotočimo se na mamo!
+
+newchat;key:reborn,weigth:7;
+v1;0;Kakšen čudovit metulj tam. Mogoče je to naš prijatelj, žrtvovan pred štirimi leti?
+v2;40;Mislim, da bi bil raje kolibri!
+v1;80;Tega ne bova izvedela.
+
+newchat;key:recolt,weigth:10;
+v1;0;Letošnja žetev je obilna.
+v2;30;Da, in pritoževati bi se bilo neumno.
+v1;60;Vsekakor!
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Bogate ženske imajo lepo, sploh ne delajo.
+v2;30;Da, želim si, da bi ravnali tudi z menoj tako.
+v1;60;Vedela sem, da bi se morala poročiti z nekom, ki ima več denarja.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Upam, da bom nekoč vladal tej vasi.
+v2;30;Sanjaj naprej, kajti jaz bom na vrhu prej kot ti.
+v1;60;Bomo videli... bomo videli.
+
+newchat;key:stone,weigth:10;
+v1;0;Kamen je najboljši material, ki obstaja.
+v2;30;Še boljši, ko je pečen! Naj živi kamen!
+v1;60;Pridobivati ga moramo! Na delo!
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Postati bojevnik je bila najboljša odločitev mojega življenja.
+v2;30;Kako to?
+v1;60;Ker lahko grem ven in pomagam premagati sovražnike, kar je veliko bolj zabavno kot pobirati koruzo.
+v2;90;A moje življenje je veliko varnejše.
+v1;120;Res je, a vedno sem si želel napetosti.
+
+newchat;key:village,weigth:8;
+v1;0;Mislim, da je naša vas lepa.
+v2;30;Tudi jaz. Zelo umetniška je.
+v1;60;Vse je v kamnu in naši mojstrosti arhitekture.
+
+newchat;key:wah,weigth:9;
+v1;0;Tako rad jem wah.
+v2;30;Tudi jaz! Najboljša stvar, na katero so kdaj pomislili.
+
+newchat;key:wither,weigth:3;
+v1;0;V gozdu sem videl čudno črno bitje.
+v2;30;Res? Opiši mi ga, radoveden sem!
+v1;60;No, bilo je črno bitje, podobno okostnjaku, z dvema glavama na koncu rok in eno na vratu, pogled je imelo hladen kot led...
+v2;90;Mraz mi gre po hrbtu.
+v1;120;Endermani so ga napadali.
+v2;150;Endermani? Ne obstajajo, gotovo si sanjal.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Čas je, da pospravim hišo.
+v2;30;Ampak včeraj si to že storila!
+v1;60;Ne glede na to, drugega tu ne smem početi.
+v2;90;Vedno se pritožuješ!
+v1;120;Namesto da bi me grajal, ker se pritožujem, poskusi razumeti, zakaj se pritožujem!
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;"Xaire? Kaj je ""xaire""?"
+v1;70;Bizantinec me je tako pozdravil.
+v2;110;Daj no. Ti si Maja. Pozdravljajmo se v svojem jeziku.
+v1;150;Pravi Maja mora imeti znanje na vseh področjih.
+v2;200;Priznam, dobro je znati več jezikov, a v vasi tako ne boš govoril!
+
+newchat;key:year,weigth:5;
+v1;0;Pred vsemi drugimi smo vedeli, da eno leto traja natanko 365,2420 dni.
+v2;40;Dobri smo na vseh področjih: matematika, umetnost, geografija...
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;Kaj bomo storili, če nas napade horda zombijev?
+v2;30;Brez skrbi, sem najbolje izurjen bojevnik v vseh teh deželah.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;Si videl zadnji vihar?
+v2;30;Pa še kako! Naši pridelki so se napili, a bilo je strašno.
+v1;60;No, bil sem na planjavi, in poleg mene je bil prašič.
+v2;90;In?
+v1;120;Strela je udarila in... vstal je na zadnji nogi...
+v2;150;Res?! Kako je izgledal?
+v1;180;Imel je zelo plesen... ali nekaj takega. In tudi zlat meč.
+v2;210;Si ga napadel ali pobegnil?
+v1;240;Bil sem neoborožen. Ampak me ni hotel napasti. Pogledal me je, obrnil glavo in se zibal, ne da bi vedel, kaj se dogaja.
+v2;270;Moral bi uporabiti ogenj. Kaj če napade vas?
+v1;300;Bil je odporen na ogenj. Strela ga je spet udarila in ni čutil ničesar.

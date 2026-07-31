@@ -1,0 +1,332 @@
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Dzięki Ah Munowi i Ghananowi nasze zbiory są obfite. Chwała im!
+v2;30;Podziękujmy im w modlitwie.
+v1;80;Co możemy im ofiarować?
+v2;120;Nie bądź głupi! Naszą krew, oczywiście!
+
+newchat;key:alchimist,weigth:4;
+v1;0;Gdy zwiedzałem las, zobaczyłem dziwnego alchemika.
+v2;30;Ty też go widziałeś? Jest niewiarygodnie dziwny.
+v1;60;O właśnie. Wymieniał dziwne składniki. Wiesz, co to są "czaszki uschniętych szkieletów"? Albo "piasek dusz"?
+v2;90;Nie. Ale to nie brzmi zbyt uspokajająco.
+v1;120;Tak! Sądzimy, że próbuje stworzyć kamień filozoficzny.
+v2;150;Drogi $targetfirstname, jeśli wierzysz plotkom, zaraz uwierzysz, że Ziemia jest okrągła.
+v1;180;Pewnie masz rację.
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac jest zagniewany. Pogoda jest zła.
+v2;40;Za mało się modlimy.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;Powinniśmy zbudować piekarnię. Ożywiłoby to nasz handel.
+v2;30;To prawda. Nie możemy zadowalać się domowym chlebem.
+v1;60;Porozmawiajmy z wodzem.
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;Kim chcesz zostać, gdy dorośniesz?
+v2;30;Nie wiem, może wojownikiem, albo górnikiem... albo rolnikiem...
+v1;60;Cóż, kiedyś musisz się zdecydować.
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Boję się dorosnąć.
+v2;30;Czemu?
+v1;60;Bo... za dużo pracy i już nie można się bawić...
+v2;90;Zobaczysz, to świetne!
+v1;120;Nie... nie chcę nie chcę nie chcę!
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Mój tata jest najlepszy, bo jest drwalem!
+v2;30;Phi! Drewno jest do niczego! Mój jest lepszy, bo jest górnikiem!
+v1;60;Bez drewna twój tata jest bezużyteczny.
+v2;90;Ach tak?! Szukasz guza?!
+v1;120;Przestań, kamień jest do niczego, przyznaj.
+v2;150;Bez kamienia twój tata spałby pod gołym niebem!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Zadawajmy sobie rany podczas najbliższej modlitwy.
+v2;40;Już to robiłem. A ty?
+v1;80;W-w-wolę zatrzymać swoją krew.
+v2;120;I masz! Znów to samo! Za każdym razem, gdy wyglądasz na zdecydowanego, zmieniasz zdanie!
+v1;160;Ale nie chcę!
+v2;200;Odmawiasz czczenia naszych bogów?!
+
+newchat;key:byzantins,weigth:9;
+v1;0;Nie znoszę tych Bizantyjczyków, myślą, że ta ziemia należy do nich!
+v2;30;A widziałeś ich budowle?
+v1;60;Tak. Bardzo dziwne.
+v2;90;Cegły? Po co to komu?!
+v1;120;Używają nawet tego szkła, tak jak Normanowie.
+v2;150;To prawda, ale wydają się bardziej zaawansowani niż Hindusi. W oknach przynajmniej coś mają.
+
+newchat;key:cacao,weigth:6;
+v1;0;Kakao jest zdrowe i pyszne...
+v2;40;Zdrowe, bez wątpienia! Ale pyszne, na pewno nie! Wah jest o wiele lepszy.
+v1;80;Kakao to ulubione jedzenie bogów. Jedz to, co ci oferują.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;Mało tu drzew kakaowych, miejsce niezdrowe.
+v2;40;Posadźmy ich więcej.
+v1;80;Łatwo powiedzieć! Ziarna kakaowca są strasznie drogie!
+v2;120;Ek Chuah nam pomoże.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Spróbuję uprawiać ryż.
+v2;30;Ryż? A co to takiego?
+v1;60;Roślina, którą kupiłem od Hindusów. Mówią, że jest pyszna!
+v2;90;Mogę spróbować?
+v1;120;Niestety nie. Muszę zasadzić każde ziarenko.
+v2;150;Nic z tego nie wyjdzie.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;Nie mamy dość kur do złożenia w ofierze.
+v2;40;Chyba mijaliśmy $name. Kupmy od niego jajka.
+v1;90;Masz rację, zróbmy tak.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;Mamo! Mogę pójść bawić się dalej od wioski?
+v2;30;Nie, moje dziecko, nie chcę, żebyś się skaleczył.
+v1;60;Skaleczył przez co? Tam nie jest niebezpiecznie.
+v2;90;Słuchaj, są tam niebezpieczne stworzenia...
+v1;120;C-Co za stworzenia, mamo?
+v2;150;Okropne rzeczy, jak... creepery.
+v1;180;C-c-creepery?
+v2;210;Tak, moje dziecko, będą cię tropić aż do domu i wybuchną, gdy najmniej się tego spodziewasz.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Widziałem dziwne czarne jajo na pustyni.
+v2;30;Naprawdę? Jak wyglądało?
+v1;60;Było duże, w fioletowe plamy. Naprawdę duże.
+v2;90;Znów piłeś normański alkohol czy żartujesz?
+v1;120;Ale... to prawda! Przysięgam!
+v2;150;Ha! Jeśli myślisz, że tak mnie nabierzesz, to się mylisz!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Najmę cię, byś mnie chronił, w zamian za 48 denarów dziennie.
+v2;30;Hmmm. Zależy, na jak długo mnie najmujesz, $targetfirstname.
+v1;60;Sześć dni. Moje psy nie wystarczą, by zapewnić mi pełną ochronę.
+v2;90;W takim razie srebrny denar. Nie mniej.
+v1;120;To rozbój!
+v2;150;Wcale nie, $targetfirstname. Ryzykuję życiem w tej pracy.
+
+newchat;key:endofworld,weigth:3;
+v1;0;Nasi szamani i astrologowie coś widzą.
+v2;40;Naprawdę? Co takiego?
+v1;80;Widzą wielkie wydarzenie w roku 2012.
+v2;120;Nie sądzisz, że trochę za daleko planują?
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Witaj, panie $targetlastname. Nasza umowa wciąż obowiązuje?
+v2;30;Tak, tak. Jak mówiłem, mam wszystko.
+v1;60;Zawsze punktualny! Miło robić z tobą interesy.
+v2;90;Cała przyjemność po mojej stronie. Zatem... 32 kłody w zamian za 8 sztabek żelaza. Proszę bardzo!
+v1;120;Wielkie dzięki, panie. Miłego dnia.
+v2;150;Tobie też, panie $targetlastname!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Ach, mój dobry przyjacielu $targetfirstname! Jak się masz?
+v2;30;Witaj $targetfirstname! Trzymam się jak mogę, interesy idą kiepsko.
+v1;60;Przestałeś sprzedawać kamień Hindusom?
+v2;90;Tak. Odkąd niezależni japońscy górnicy zaoferowali swoje usługi, nie potrzebują już mnie.
+v1;120;Musisz im zaproponować coś innego.
+v2;150;Masz jakieś pomysły?
+
+newchat;key:gravity,weigth:7;
+v1;0;Dni są tu o wiele krótsze.
+v2;30;Tak, a ziemia czasem zdaje się unosić.
+v1;60;Z wyjątkiem żwiru... i piasku.
+v2;90;Ciekawe czemu.
+
+newchat;key:indians,weigth:8;
+v1;0;Hindusi wydają się o wiele bardziej pokojowi niż Normanowie, prawda?
+v2;30;Tak, może powinniśmy spróbować się z nimi sprzymierzyć.
+v1;60;Hmm... tak, wtedy razem moglibyśmy najechać Normanów, albo nawet Bizantyjczyków.
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Hej, $targetfirstname, spójrz na to.
+v2;30;Dziwny miecz! I dziwny łuk! Skąd to masz?
+v1;60;To łuk yumi i tachi. Z japońskiej kuźni.
+v2;90;Piękne i skuteczne. Czy to było drogie?
+v1;120;A jakże! Wydałem dwie srebrne monety na sam łuk!
+v2;150;Wow! Musiałeś sporo zaoszczędzić, by je kupić.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;Chcę być jak mój tata, gdy dorosnę!
+v2;30;Mięczakiem?
+v1;60;Co? Nie, on nie jest mięczakiem.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Architektura Majów jest najmocniejsza w tych krainach.
+v2;30;Dzięki całemu temu kamieniowi, który wydobywamy, budujemy te cuda.
+v1;60;Ciekawe, ile jeszcze kamiennych domów zbudujemy?
+v2;90;Tylko czas pokaże, przyjacielu.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Wiara to nasza jedyna broń w tych dziwnych krainach.
+v2;40;Wobec naszego położenia musimy karać tych, którzy obrażają naszych bogów.
+v1;80;Na pewno nie możemy ich obrazić.
+
+newchat;key:miner,weigth:9;
+v1;0;Powinniśmy zwerbować więcej górników.
+v2;30;O tak! Kamienie i minerały to najlepsze materiały, jakie istnieją.
+v1;60;Zgadzam się... ale jest nas za mało w wiosce, musimy się powiększyć.
+v2;90;A dzieci nie możemy zapędzić do pracy. Są za małe.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Naprawdę? $name jest monoteistą?
+V2;35;Wygląda, jakby nie traktował naszej religii poważnie...
+v1;75;Daj spokój, nie jest na tyle głupi, by nie wierzyć w naszych bogów.
+
+newchat;key:monster,weigth:5;
+v1;0;Dużo teraz potworów wokół.
+v2;30;Strażnicy z pewnością dadzą sobie z nimi radę.
+v1;60;Martwię się raczej, że nadejdzie horda tych eksplodujących zielonych stworzeń.
+v2;90;Spokojnie. Mamy na nie wabiki.
+v1;120;Dobrze, w najgorszym razie jest $name. Dobrze walczy i mógłby nas obronić.
+v2;150;Też w to nie wątpię. Nie jest taki zły.
+
+newchat;key:normands,weigth:6;
+v1;0;Widziałeś kolor skóry Normanów? Są tacy bladzi!
+v2;30;O tak! Nigdy wcześniej nie widziałem takiego koloru. Dziwne.
+v1;60;Sądzę, że może zostali przeklęci...
+v2;90;Nie bądź śmieszny. Są ludźmi jak każdy inny.
+v1;120;Bez wątpienia to alkohol ich tak odmienił. Pewien jestem, że nie zawsze tacy byli.
+v2;150;Pewnie się mylisz.
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Narzędzia i broń z obsydianu są najbardziej eleganckie.
+v2;30;Luksusowe, a jednak każdy może je mieć.
+v1;60;Buława świetnie nadaje się do miażdżenia wroga.
+v2;90;Naprawdę? Chciałbym zobaczyć ją w akcji.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Dobrze się żyje w moim cudownym pałacu.
+v2;30;I jakiż to wspaniały pałac, mój wodzu!
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Tyle kukurydzy do zżęcia, tak mało czasu...
+v2;30;Tak, chciałbym, żeby część plonów trafiała do nas.
+
+newchat;key:player,weigth:10;
+v1;0;Niewielu mamy tu gości.
+v2;30;Tak, jest tylko $name i inni zagubieni ludzie...
+v1;60;Skoro mowa o $name, nie wydaje ci się, że jest coraz dziwniejszy i bardziej zmęczony?
+v2;90;To prawda. Powinien odpocząć.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name jest dość dziwnym człowiekiem.
+v2;30;Jeszcze dziwniejszym niż Normanowie.
+v1;60;Ale skąd właściwie pochodzi?
+v2;90;Nie jestem pewien, nie wydaje się być z żadnej kultury.
+
+newchat;key:poktapok,weigth:7;
+v1;0;Uwielbiam Pok-ta-Pok!
+v2;40;Ja też! Muszę przyznać, że to jedna z naszych nielicznych rozrywek tutaj.
+v1;80;To prawda. Nudzimy się... a ja zgubiłem ostatnią piłkę!
+
+newchat;key:puja,weigth:6;
+v1;0;Byłeś na modlitwie?
+v2;35;Oczywiście! Prawdziwy Maja musi pójść!
+v1;80;Haha! Jasne! Co za głupie pytanie zadałem.
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Nasza piramida jest najpiękniejsza i najlepiej zbudowana.
+v2;30;To prawda. Odwiedziłem inne wioski. Ich są bardzo ładne, ale nie tak eleganckie jak nasza!
+v1;60;Nasza architektura jest unikalna i oryginalna.
+v2;90;Nie chwalmy się zbytnio. Nie chcę, żebyśmy stali się jak ci zarozumiali Bizantyjczycy.
+v1;120;O tak, eee... Nienawidzę ich. Jak można być tak pretensjonalnym!
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;Potrzebujemy deszczu dla kukurydzy.
+v2;30;Jakże pragnę, by spadł deszcz.
+v1;60;Może jeśli pójdziemy się modlić, duchy ześlą nam deszcz odpowiedni na idealne zbiory w tym roku.
+v2;90;Dobrze, chodźmy, gdy tylko nie będziemy zbyt zajęte.
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;Mama i tata są niesprawiedliwi! Zawsze musimy sprzątać pokój!
+v2;30;Tak! Powinniśmy się zbuntować i zażądać lepszego traktowania!
+v1;60;Do boju! Atak na mamę!
+
+newchat;key:reborn,weigth:7;
+v1;0;Co za cudowny motyl tam. Może to nasz przyjaciel, złożony w ofierze cztery lata temu?
+v2;40;Sądzę, że byłby raczej kolibrem!
+v1;80;Nigdy się nie dowiemy.
+
+newchat;key:recolt,weigth:10;
+v1;0;Zbiory są obfite w tym roku.
+v2;30;Tak, narzekać byłoby głupotą.
+v1;60;Otóż to!
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Bogate kobiety mają dobrze, nie pracują.
+v2;30;Tak, chciałabym, by mnie tak traktowano.
+v1;60;Wiedziałam, że powinnam była wyjść za kogoś z większymi pieniędzmi.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Mam nadzieję, że pewnego dnia będę rządził tą wioską.
+v2;30;Śnij dalej, bo ja będę na szczycie przed tobą.
+v1;60;Zobaczymy... zobaczymy.
+
+newchat;key:stone,weigth:10;
+v1;0;Kamień to najlepszy materiał, jaki kiedykolwiek istniał.
+v2;30; Jest jeszcze lepszy po wypaleniu! Niech żyje kamień!
+v1;60;Musimy go wydobywać! Do pracy!
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Zostanie wojownikiem było najlepszą decyzją mojego życia.
+v2;30;Czemu?
+v1;60;Bo mogę wyruszać i pomagać walczyć z wrogami, znacznie zabawniejsze niż zbieranie kukurydzy.
+v2;90;Ale moje życie jest o wiele bezpieczniejsze.
+v1;120;Prawda, ale zawsze pragnąłem dreszczyku emocji.
+
+newchat;key:village,weigth:8;
+v1;0;Sądzę, że nasza wioska wygląda ładnie.
+v2;30;Ja też. Jest bardzo artystyczna.
+v1;60;Wszystko dzięki kamieniowi i naszemu opanowaniu architektury.
+
+newchat;key:wah,weigth:9;
+v1;0;Uwielbiam jeść wah.
+v2;30;Ja też! Najlepsza rzecz, jaką kiedykolwiek wymyślono.
+
+newchat;key:wither,weigth:3;
+v1;0;W lesie widziałem dziwne czarne stworzenie.
+v2;30;Naprawdę? Opisz mi je, jestem ciekawy!
+v1;60;Cóż, to było czarne stworzenie podobne do szkieletu, z dwiema głowami na końcach ramion i jedną na szyi, a jego spojrzenie było zimne jak lód...
+v2;90;Ciarki mi przechodzą po plecach.
+v1;120;Atakowali je Endermeni.
+v2;150;Endermeni? Nie istnieją, musiałeś śnić.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Czas posprzątać dom.
+v2;30;Ale robiłaś to wczoraj!
+v1;60;Mimo to nie wolno mi tu robić nic innego.
+v2;90;Wiecznie narzekasz!
+v1;120;Zamiast protestować, że narzekam, spróbuj zrozumieć, dlaczego narzekam!
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;"Xaire? A co to znaczy ""xaire""?"
+v1;70;Tak pozdrowił mnie pewien Bizantyjczyk.
+v2;110;Daj spokój. Jesteś Maja. Pozdrawiajmy się w naszym języku.
+v1;150;Prawdziwy Maja musi mieć wiedzę z wszystkich dziedzin.
+v2;200;Przyznaję, że dobrze jest znać kilka języków, ale w wiosce tak nie mów!
+
+newchat;key:year,weigth:5;
+v1;0;Wiedzieliśmy przed wszystkimi innymi, że jeden rok ma dokładnie 365,2420 dnia.
+v2;40;Jesteśmy dobrzy we wszystkich dziedzinach: matematyce, sztuce, geografii...
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;Co zrobimy, jeśli najedzie nas horda zombie?
+v2;30;Nie martw się, jestem najlepiej wyszkolonym wojownikiem w okolicy.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;Widziałeś ostatnią burzę?
+v2;30;A jak! Nasze plony skorzystały z deszczu, ale była przerażająca.
+v1;60;Byłem w polu, a obok mnie stała świnia.
+v2;90;I?
+v1;120;Uderzył piorun i... świnia stanęła na tylnych nogach...
+v2;150;Naprawdę?! Jak wyglądała?
+v1;180;Miała na sobie zielonego mchu... czy coś w tym rodzaju. I złoty miecz też.
+v2;210;Zaatakowałeś czy uciekłeś?
+v1;240;Byłem nieuzbrojony. Ale ona nie chciała mnie zaatakować. Spojrzała na mnie, odwróciła głowę i odeszła, nie wiedząc tak naprawdę, co się dzieje.
+v2;270;Trzeba było użyć ognia. Co, jeśli zaatakuje wioskę?
+v1;300;Była odporna na ogień, piorun uderzył w nią ponownie i nic nie poczuła.

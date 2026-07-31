@@ -1,0 +1,146 @@
+//*  A párbeszéd-sorok egy "v2;30;" stílusú kóddal kezdődnek, amely megadja, ki beszél és mikor olvasható a párbeszéd. Kérjük, pontosan másold át ezt a kódot a fordításodba.
+//*  A sor első fele (a / előtti rész) a falulakók eredeti nyelvén van, ezért úgy kell hagyni, a második felét kell lefordítani.
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Olyan meleg van!
+v2;30;A hőség az őrületbe kerget.
+v1;70;Mikor fog már esni?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Nem esik.
+v2;30;Ne aggódj. Fog még esni.
+v1;60;Minden évben ugyanezt mondod...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Esik! Végre!
+v2;40;De ilyen kevés esőnek semmi haszna...
+v1;80;Jobb, mintha egyáltalán nem esne.
+v1;120;De hogy fognak így nőni a növényeink?
+
+newchat;key:sandstone,weigth:10
+v1;0;A falunk fejlődik, ugye?
+v2;40;De még sok dolog van hátra.
+v1;80;Valóban?
+v2;100;Minden kétséget kizáróan!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Hozz egy áldozati tálcát a pudzsához.
+v2;40;Megyek is rögtön.
+v1;80;Meg kell engesztelnünk az isteneket.
+v1;130;Csak így jön majd el az eső.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Volt már, hogy elgondolkodtál azon, milyen íze lehet a marhahúsnak?
+v2;60;Marhahús? De annak az evése a dharmánk ellen való!
+v1;120;De ha finom is...?
+v2;180;Hát normann barbár vagy te?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Egy rasgullát kérek. Nagyon éhes vagyok!
+v2;60;Nem. Csak rizst ehetsz.
+v1;120;De már délben is azt ettem!
+v1;180;És tegnap, és tegnapelőtt is...
+v2;220;És ma este, és holnap, és életed végéig azt fogod enni!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Sok fát kivágtam ma.
+v2;60;Sivataggá változtatod az erdőnket!
+v1;120;Ne aggódj, itt a fák maguktól nőnek.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;A palotám nagyon kicsi.
+v2;60;De Maharadzsa, ez a legnagyobb az egész országban!
+v1;120;Mégis kicsinek tűnik nekem.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Az erős erőd a legjobb védelem az ellenségeink ellen.
+v2;60;Milyen ellenségek, Tábornok?
+v1;100;A normannok és a többi barbár.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;A férjem gazdag és köztiszteletben álló.
+v2;50;Ó, igen! Ez így van.
+v1;110;De sosem hoz nekem semmit.
+v2;160;Hogyhogy? Tegnap három szárit hozott neked.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;A férjem ma ötven tola aranyat vett.
+v2;60;Ötven tola aranyat! Nekem csak tíz van...
+v1;120;Reméljük, a csillagok kegyesebbek lesznek hozzád.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Szerencsés vagyok, hogy ezeket a szobrokat faraghatom.
+v2;50;Mert nagyon szépen faragod őket.
+v1;100;Tizenöt éve faragom őket.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Több csákányra van szükségünk.
+v2;50;Elfoglalt vagyok éppen.
+v1;100;De csákányokra is szükségünk van.
+v2;150;Uff! Annyi dolgom van!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, azt hiszem, banditák ólálkodnak a falunk körül!
+v2;50;Ne félj, megvédelek.
+v1;100;Olyan erős vagy!
+v1;130;És olyan jóképű is!
+v1;150;Csak az a bajusz ne lenne...
+v2;200;Egy szót se a bajuszomról!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Uram, rossz a termés ebben az évben.
+v2;40;Mert te lusta vagy! Dolgozz többet!
+v1;80;De egyáltalán nem esett...
+v2;120;Ez nem az én hibám. Akarom a pénzemet.
+v1;170;De nincs pénzem!
+v2;210;Akkor add vissza a földjeimet.
+v1;260;De akkor semmim sem marad!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;A kereskedő új házat épít a saját háza mellé.
+v2;60;Még egy ház? De minek neki egy második?
+v1;90;Az új a fia számára épül.
+v1;140;Amikor a fia megnősül, apa és fia egymás mellett fognak élni.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;A falu feje arany karkötőket vett a feleségének.
+v1;60;De te sosem vettél nekem ékszert...
+v2;110;Gazdag emberhez kellett volna hozzámenned.
+v1;160;De akkor nagyobb hozományt kellett volna fizetnem.
+v2;200;Akkor légy boldog, hogy ilyen férjed van.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Régóta nem ittam már alkoholt.
+v2;50;Van egy ember, aki a banjánfa alatt ül a falu szélén, és alkoholt meg földimogyorót árul.
+v1;110;Valóban? Azt hittem, a faluban tilos alkoholt árulni!
+v2;160;Ne mondd el senki másnak.
+v1;200;Rendben, ma este odamegyünk.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Hoztál nekem játékokat?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Sok barátom van.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Anya nem enged ki este.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Szia!
+v2;50;Láttad?
+v1;100;Mit?
+v2;150;Egy... zombit!
+v1;200;Tényleg?
+v2;250;Igen! Nagyon ijesztő volt! És még azt is mondta, hogy meg fog enni téged!
+v1;300;Aaaaaa! Anya! Egy zombi meg fog enni!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Szia!
+v2;50;Láttad?
+v1;100;Mit?
+v2;150;Egy... creepert!
+v1;200;Tényleg?
+v2;250;Igen! Nagyon féltem! És felrobbantott egy fát arra!
+v1;300;De várj, az én kedvenc fám volt ott! Váááááá

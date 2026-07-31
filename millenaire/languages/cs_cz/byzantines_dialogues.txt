@@ -1,0 +1,522 @@
+//* Řádky dialogů začínají kódem ve stylu "v2;30;", který určuje, kdo mluví a kdy se replika objeví. Tento kód prosím přesně okopírujte do překladů.
+//* První polovina řádku (až po /) je v jazyce vesničanů a musí zůstat beze změny, druhou polovinu je třeba přeložit.
+
+
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Mám rád slunečné dny!
+v2;30;Kdo by neměl?
+
+newchat;key:nicevillage,weigth:10
+v1;0;Pohled na naši okouzlující vesničku je vždycky potěšení, viď?
+v2;30;Samozřejmě, je to ovoce našeho úsilí!
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Mám rád slunečné dny!
+v2;30;Kdo by neměl?
+v1;60;Já ne.
+v2;120;Proč?
+v1;150;Slunce mě pálí na kůži, nesnáším být venku!
+v2;180;Chováš se jako zombie!
+v1;210;Možná jím i jsem…
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Pohled na naši hezkou malou vesnici je vždycky potěšení, viď?
+v2;30;Samozřejmě! Strávili jsme tolik času jejím budováním.
+v1;60;Je to skoro jako doma, jako než jsme sem přišli.
+v2;90;Tohle je teď náš domov, musíme to přijmout.
+v1;120;Já vím, časem se s tím smířím…
+
+newchat;key:ishome,weigth:6
+v1;0;Pohled na naši hezkou malou vesnici je vždycky potěšení, viď?
+v2;30;Samozřejmě! Strávili jsme tolik času jejím budováním.
+v1;60;Je to skoro jako doma, jako než jsme sem přišli.
+v2;90;Tohle je teď náš domov, musíme to přijmout.
+v1;120;Je to náš domov, tenhle rozhovor mě o tom přesvědčil.
+
+newchat;key:harvest,weigth:10
+v1;0;Pšenice letos roste opravdu dobře, stejně jako hrozny. Nádhera, ne?
+v2;30;Ano, vypadá to tak. Máme tu zvláštně příznivé počasí, za které musíme děkovat.
+v1;60;I když mi to počasí nedává smysl!
+
+newchat;key:lightning,weigth:7
+v1;0;Pamatuješ si na tu poslední bouři, co jsme zažili?
+v2;30;Samozřejmě! Skoro nám zničila úrodu. Příroda umí být drsná, viď?
+v1;60;Drsná, to ano. Skoro mě udeřil blesk!
+v2;100;Tys nebyl doma? Víš přece, jak nebezpečné je být za bouře venku!
+v1;120;Člověk se učí z chyb.
+
+newchat;key:lightningpig,weigth:1,v1:adult,v2:adult
+v1;0;Necítím se dobře…
+v2;30;Co je s tebou? Jsi nemocný?
+v1;60;Ne, j-j-jen jsem si vzpomněl na něco ošklivého.
+v2;100;Vypadáš opravdu špatně. Určitě nejsi nemocný?
+v1;120;N-ne, jen se b-bojím.
+v2;150;Tak co se stalo?
+v1;180;Při p-poslední bouřce jsem se procházel mimo v-v-vesnici a věděl jsem, že se nestihnu vrátit, než přijde. Tak jsem se schoval pod strom.
+v2;210;Ty jsi riskoval život mimo vesnici! Mohls umřít!
+v1;240;No, byl jsem v bezpečí. Ale pak jsem viděl prase. Uhodil do něj blesk. A to p-prase… postavilo se na zadní a šlo jako my, hnalo se za mnou s lesklým mečem!
+v2;290;To, co povídáš, nedává smysl. To musela být noční můra.
+v1;320;Byla to pravda! Pravda! Pravda! Pravda!
+v2;350;Jsi blázen. Jdi se napít trochu vína a uklidni se.
+v1;380;T-tak jo. M-možná m-mi to pomůže.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ach… Souvláki, jediné a pravé jídlo!
+v2;30;Kdybyste vy muži uměli vařit jako my ženy…
+v1;60;Klidně bychom si ho udělali sami!
+v2;100;Vážně? A jak ho připravíte?
+v1;130;Hmm… dáte rybu, ne, jehněčí kotlety na pánev, a pak, ehm…
+v2;190;…a pak na to dáte fetu na špejli, viď? Vy fakt neumíte vařit!
+
+newchat;key:lonevillage,weigth:10
+v1;0;Nuda, tady je všechno pořád stejné.
+v2;30;Aspoň je tu klid.
+v1;60;Nic zvláštního na takovouhle odlehlou vesnici!
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Když jsem byl malý, chtěl jsem se stát objevitelem. Objevovat nové kraje a potkávat zajímavé nové lidi. A teď? Jsem uvíznutý v téhle zapadlé vesničce daleko od všeho. Chci odejít a objevovat nová území!
+v2;30;Ale v jiných vesnicích moc rozdílů nenajdeš. Jsme skoro všichni stejní.
+v1;60;Já nemluvím o vesnicích. Mluvím o městech, nebo dokonce o velkoměstě!
+v2;90;O TOM velkoměstě? Myslíš Konstantinopol?
+v1;120;Ano! Středisko naší slavné říše. Je to největší zázrak světa!
+v1;150;Žije tam přes 500 000 lidí, dokážeš si to představit?!
+v2;180;To mi přijde nemožné. 500 000 lidí na jednom místě? Sni si dál!
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Nepij víno sám!
+v2;30;Pít spolu je lepší!
+v1;50;Díky za víno!
+v2;70;Na zdraví!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Můj táta je silnější než tvůj.
+v2;30;Není pravda! Můj táta je nejsilnější ve vesnici!
+v1;60;Ale ne! Můj táta je nejsilnější v celé říši!
+v2;90;Nemožné, můj táta je nejsilnější na světě!
+v1;120;Vsadím se, že můj táta by toho tvého složil jednou rukou!
+v2;150;Ať se tvůj táta připraví na boj!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Holky jsou hloupé.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Neviděls někde moji panenku? Nemůžu ji najít…
+v2;30;Vrať mi můj meč a dostaneš ji zpátky.
+v1;60;Tys mi ji ukradl! Zlodějíčku!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Viděla jsi moje nové šaty?
+v2;30;Jsi nádherná, drahá. Všechno ti sluší!
+v1;60;Ale nejsem tak krásná jako ty!
+v2;90;Ach, to není pravda, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Viděla jsi moje nové šaty?
+v2;30;Jsi krasavice. Všechno ti sluší, drahá $targetfirstname!
+v1;60;Ale nejsem tak krásná jako ty!
+v2;90;Máš pravdu.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Viděls moje nové šaty, $targetfirstname?
+v2;30;Myslím, že ty staré ti slušely víc.
+v1;60;COŽE?
+v2;70;Ne… Ne! Jsi krásná! Tyhle nové… věcičky se mi líbí!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Tak co, líbí se ti moje nové šaty?
+v2;30;Ty staré byly hezčí.
+v1;60;COŽE?
+v2;70;Hej $targetfirstname, je to jen můj názor.
+v1;90;Aspoň jsi upřímný!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Co mám dělat, když se mi líbí holka?
+v1;30;Skládej jí poklony a chovej se k ní hezky.
+v2;60;Ne! To nejde! Co si o mně potom pomyslí ostatní?
+v1;90;Když ji opravdu miluješ, je ti jedno, co si myslí ostatní.
+
+newchat;key:householdtry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Je čas, abych tě naučila vést domácnost.
+v2;30;Skvěle! Čím začneme? Můžu udělat souvláki? Prosíííím!
+v1;60;Nejdřív mi ukaž, jak umíš pořádně uklízet.
+v2;90;Tak dobře, ale pak mi ukážeš, jak se dělá souvláki, slibuješ?
+v1;120;Slibuju.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Koupíš mi novou panenku? Všichni už mají novou, jen já ne…
+v1;30;Co je to kouzelné slovíčko?
+v2;60;Můžeš mi PROSÍM koupit novou panenku?
+v1;90;Dobře, ale musíš mi slíbit, že už nebudeš odmlouvat!
+v2;120;Slibuju!
+
+newchat;key:woodsword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Au…
+v1;30;Vypadáš smutně! Co se stalo?
+v2;60;No, všichni mají dřevěný meč, jen já ne.
+v2;80;Tak se mě rozhodli napadnout!
+v2;100;Musíš mi jeden taky sehnat!
+v1;120;Vidím, žes použil barvu na své jizvy a šrámy. Pěkný pokus!
+v2;150;To je jedno! Prosím, dej mi meč!
+v1;180;Meče jsou nebezpečné. Nedostaneš ho!
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Naše stavby jsou tak krásné, je vždycky radost vidět naše dílo!
+v2;30;Mayové taky stavějí krásné věci.
+v1;60;Neotravuj mě s takovými podivíny. Naše budovy jsou nejkrásnější!
+v2;90;No…
+v1;100;Zrádce! Cožpak nemáš úctu ke své vlasti?
+
+newchat;key:pride2,weigth:10
+v1;0;My Římané můžeme být právem hrdí na to, co jsme vybudovali.
+v2;30;Samozřejmě! Všechno, co vidíš, je naše dílo!
+v1;60;Nejmocnější říše v dějinách světa!
+v2;90;Ostatní národy se musí sklonit před naší slávou!
+v1;120;Musí! Jsme páni světa!
+
+newchat;key:pride3,weigth:10
+v1;0;Římská říše bude opět vládnout světu!
+v2;30;To dokážeme!
+v1;60;Všechno pak bude lepší!
+v2;90;Jasně!
+v1;100;Sláva říši!
+v2;110;Na zdraví!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Brzy bude pršet.
+v2;30;Taky to cítím.
+v1;60;Zvláštní. Mezi každým deštěm uplyne vždycky stejný počet dní.
+v2;100;Taky si to myslíš?
+v2;125;Život je tady zvláštní, viď?
+v1;155;To rozhodně!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Podívej se na tohle prase, není roztomilé?
+v2;30;Áááááá! Jdi pryč!
+v1;60;Ty se bojíš prasat?
+v2;80;N-ne! Samozřejmě že ne!
+v1;110;Hahahahaha! To je vážně k popukání!
+
+newchat;key:weird2,weigth:1
+v2;0;Ah… výborné souvláki. Chceš si kousnout?
+v1;30;*chroup*
+v1;40;Díky! Souvláki zbožňuju.
+v2;70;Kdo by ho neměl rád!
+v1;100;Zkoušels někdy posypat souvláki špetkou hlíny?
+v2;140;…
+v2;150;Ne?
+v1;170;Já občas ano… Ach… Začalo to vloni, když mi souvláki spadlo do trávy… Báječné!
+v2;220;Cože? Tobě upadne souvláki do hlíny a ty ho sníš? Ale… ale…?
+v1;260;Vždyť to chutná opravdu dobře!
+v2;280;Tobě přeskočilo.
+
+newchat;key:weird3,weigth:1
+v1;0;Chci jezdit na praseti!
+v2;30;Proč?
+v1;60;Je to bezva!
+v2;80;Proč u všech čertů bys chtěl jezdit na praseti?
+v1;110;No protože je to bezva!
+v2;120;Ty jsi úplně cvok.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Slyšela jsi už tajemství toho dřevorubce?
+v2;30;Ne, co s ním?
+v1;60;Zdá se, že sbírá jablka a prodává je těm Normanům!
+v2;90;Není možná! A peníze si nechává?
+v1;120;Samozřejmě!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Můj muž říká, že brzy naši vesnici navštíví jeden baron!
+v2;30;Proč by sem chodil?
+v2;40;Je to muž pevné ruky, vlivný a obávaný…
+v1;70;Cože? Tobě se takoví muži líbí?
+v2;100;Přiznej, že jsou přitažliví!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;V sousední vesnici je žena se špatnou pověstí!
+v1;20;Vypadá to, že za ní chodili i někteří muži z našich vesnic!
+v2;60;Hrůza! Musím se zeptat svého muže!
+v1;90;Ten můj je nevinný. Ale o tvém si jistá nejsem, drahá!
+v2;120;Doufám, že tvůj je taky. Ať si dá pozor.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Ráda se dívám, jak si děti hrají!
+v1;20;Vždycky pak mám chuť mít miminko!
+v2;50;A jsi si jistá, že si to můžeš dovolit?
+v2;70;Děti vás zruinují!
+v1;100;Tím se netrap! Můj muž má víc než dost peněz.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Drahá, tvůj manžel je opilec!
+v2;15;Jak se opovažuješ to říct?
+v1;45;Tvůj muž k nám včera večer přišel opilý!
+v1;70;Říkal, že se chce oženit s ovcí.
+v1;100;A že to bude velkolepá svatba!
+v1;130;Prosím, krotni svého muže.
+v1;150;Je to opravdu trapné.
+v2;180;Dobře, dobře, potrestám ho!
+v2;210;Žádné víno pro něj!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Tvůj chleba je tak chutný! Jaké je tvoje tajemství?
+v2;30;Jen špetka cukru přidaná do těsta.
+v1;60;Vážně? Nic víc?
+v2;90;Nic víc! Hned poznáš ten rozdíl.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Kdo to byl ten muž, kterého jsem u tebe včera v noci viděla?
+v2;30;Jaký muž?
+v1;40;Muž, který vylezl tvým oknem!
+v1;45;Nemysli si, že jsem to neviděla!
+v2;60;Jak se opovažuješ…? Jsem a vždycky budu věrná svému muži.
+v1;80;Ano, ano. Já bych to řekla taky, kdybych byla na tvém místě.
+v2;110;To není pravda! Nešiř o mně klepy.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Tyhle nové kuchyňské nástroje jsou skvělé!
+v2;30;Ano, vařit je s nimi o tolik snazší! Je to paráda!
+v1;60;Tisíceré díky kovářům a řemeslníkům, kteří takové vynálezy vymýšlejí!
+v2;90;Ano! To je důvod, proč jsem hrdá, že jsem Římanka.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Závidím těm bohatým lidem.
+v1;20;Mají tak krásné hedvábné šaty!
+v2;50;Není to vůbec spravedlivé. Nic nedělají a přece dostávají to nejlepší.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Slyšela jsi o tom baronovi v sousední vesnici?
+v2;30;Ano, je to ten, jehož ženu našli zavražděnou?
+v1;60;Přesně tak! Manžel mi právě řekl, že ji baron sám zabil vlastníma rukama!
+v2;100;Cože…?
+v2;130;Vždycky jsem věděla, že to udělá!
+v2;150;Ale nikdo mi nevěřil.
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Přemýšlela jsi někdy, jaké by to bylo, kdybychom byli ve válce?
+v1;30;Už teď jsou muži ochotni za naši vlast bojovat!
+v1;55;Obdivuju je!
+v2;80;Válka by byla hrozná.
+v2;110;Mluvíš jako voják.
+v2;140;Ale máš přece muže!
+v1;170;Ale línou a opilou troubu!
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;V téhle prokleté vesnici nemáme dost vína!
+v2;30;Souhlasím! Musíme postavit víc vinic!
+v1;60;A taveren!
+v2;90;Proč si neotevřeme vlastní tavernu?
+v1;120;Skvělý nápad! Musíme to naplánovat.
+v2;150;Ale jak začneme?
+v1;180;A naše ženy nebudou nadšené, až o tom uslyší!
+v2;210;Ale prodávat římské víno je vždycky dobrá výmluva!
+v1;240;Dobrá! Musíme šetřit peníze.
+v1;270;Až budeme mít dost, splníme si svůj sen!
+v2;300;Budeme mít největší tavernu v celé říši!
+v1;325;To si piš!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Dobré jídlo, dobré zbraně, krásné umění — proto jsme národ!
+v2;30;A skvělé víno!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Už mám své ženy dost. Potřebuju ji vyměnit!
+v2;30;A kdo není unavený z té své?
+v1;60;Možná bychom měli opustit vesnici a hledat si nové ženy!
+v2;90;Ó ano! Mayové a Indové mají krásné ženy, vidíš?
+v2;140;Tahle vesnice je bez nás ztracená.
+v2;160;A nezapomeňme na naše děcka!
+v1;180;Ach! Naše děti! Bez otce by nepřežily!
+v1;220;Ale… to znamená, že tu musíme zůstat, s naším nudným životem?
+v2;255;Asi je to nejlepší cesta.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Je dost fascinující sledovat, jak hledíš na ty ikony.
+v2;30;Samozřejmě, je to velké římské umění!
+v1;60;Jako všechno, co děláme. Podívej se na naše krásné domy!
+v2;90;A nezapomeň na naši slavnou historii!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Pamatuješ si na tu dívku, o kterou jsme se v mládí prali?
+v2;30;Ano… Bylo to zlé období. Ještě že je po něm.
+v1;60;Rád to slyším, protože mi právě řekla, že mě pořád miluje!
+v2;90;Cože? Lháři!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej krásko, líbím se ti?
+v2;20;*facka*
+v2;25;Jsi ženatý.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej, dneska ti to vážně sluší, $targetfirstname!
+v2;30;Děkuju!
+v1;60;Není zač, drahá!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej, $targetfirstname, nechtěla by taková kráska jako ty muže k pohledání jako jsem já?
+v2;40;Jsi ženatý a já jsem vdaná.
+v2;60;Myslím, že nejsi moc věrný! Řeknu to tvé ženě!
+v1;75;NE — to nedělej —
+v1;85;Já jsem jeho zlé dvojče!
+v2;120;Ovšemže ano, to stejné dvojče, co je vždycky opilé!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Jak ti to jde s vedením domácnosti?
+v2;30;Dobře, dobře, jen jsem trochu smutná.
+v1;60;Ach ne, co se stalo?
+v2;90;Muž na mě křičel.
+v1;120;Jak může na takovou krásku?
+v2;150;Děkuju, žes mě rozveselil, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*ach*
+v1;30;Jsi v pořádku, $targetfirstname?
+v2;50;Ano, jsem jen unavená z té dřiny.
+v1;70;Můžu ti pomoct? Třeba ti pak bude líp?
+v2;90;Samozřejmě! Mockrát díky!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Jak se vede?
+v2;30;Všechno dobré, a tobě?
+v1;60;Taky! Děkuji za optání.
+v1;75;Ale vidím, že tě něco trápí!
+v2;90;Není to — nic.
+v1;110;Pověz mi to!
+v2;130;Jen že je můj život tady tak fádní.
+v2;160;Vážně jsem si přála jít do velkoměsta, dokud jsem byla mladá.
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;$targetfirstname, bratře! Rád tě vidím!
+v1;30;Právě jsem našel svůj starý dřevěný meč!
+v1;50;Pamatuješ?
+v2;80;Počkej, není to ten meč, co nám dal otec?
+v1;110;Ano! Vzpomínáš na naše bitvy s ním?
+v2;140;Jak bych mohl zapomenout? Mám z toho pár jizev.
+v2;170;Když na to teď myslím…
+v2;200;Bylo od otce kruté dát nám jen jeden meč pro dva!
+v2;240;Věděl, že se o něj budeme prát!
+v1;270;A měl pravdu!
+v2;300;Protože sis ho nechal!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Pamatuješ si na toho vozataje, do kterého jsme byly v dětství tak zamilované?
+v2;30;Samozřejmě, sestro. Byly jsme jeho největší obdivovatelky!
+v1;60;Zajímalo by mě, co se s ním stalo.
+v1;90;Už jsem o něm nic neslyšela…
+v2;120;Měl by se usadit ve vesnici, jako je naše, najít si ženu a mít děti.
+v1;150;Tak jako tak, ráda bych ho zase někdy viděla!
+v2;180;Já taky!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, sestřičko, pořád si říkám, proč sis vzala toho hlupáka.
+v2;30;Protože ho miluju!
+v1;60;A teď se jmenuješ $targetlastname! $targetlastname! Hnusné jméno!
+v2;90;Hej! Nebuď tak zlý! Spor jsi začal ty.
+v2;110;Byls opilý!
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Slyšel jsi o Seldžucích od té doby, co jsme tady?
+v2;30;Ne. Myslíš, že se sem dostali s námi?
+v1;60;Pochybuju.
+v2;90;Tak asi si musíme udělat nepřátele i tady.
+v1;120;Ještě se musíme vypořádat s Normany.
+v2;150;Ale my jsme Římané! Tyhle nájezdníky snadno porazíme, za Řím!
+v1;165;Za Řím!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Slyšel jsi o té normanské vesnici opodál?
+v2;30;To není dobré. Pamatuju si, jak útočili na jižní Itálii, než jsme sem přišli.
+v1;60;Doufejme, že na nás nezaútočí.
+v2;90;Taky doufám.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Zajímalo by mě, co se stalo s Konstantinopolí.
+v2;30;Myslím, že se sem dostala s námi do téhle země.
+v1;60;Proč si to myslíš?
+v2;90;Žil jsem blízko toho velkého města a dostal jsem se sem.
+v1;120;Pravda, ale tolik lidí tam žije, museli bychom o nich slyšet.
+v2;150;Možná je hodně daleko.
+v1;180;Ano, ale sláva Konstantinopole je tak veliká, že o ní slyšeli i v Číně.
+v2;210;Neříkej mi, že věříš na ty pověsti o Číně?
+v1;240;Myslím, že něco je na nich pravdy.
+v2;270;Ale Čína je tak tajemná, nemůžeme si být jistí ničím.
+v1;300;Stejně tak je i mnoho záhad o tom, zda je tu s námi Konstantinopol, nemůžeme to vědět jistě.
+v2;330;Pravda, ale i kdyby tu Konstantinopol nebyla, musíme rozšiřovat a chránit Římskou říši.
+v1;360;V tom s tebou souhlasím!
+v2;390;Ať Řím trvá věčně!
+
+newchat;key:inuit,v1:adult,v2:adult,weigth:10
+v1;0;Před chvílí jsem mluvil s byzantským obchodníkem a vyprávěl mi o vesnicích daleko ve sněhu.
+v2;30;Vesnice ve sněhu?!?
+v1;60;Jo, říká se jim „Inuité".
+v2;90;Inuité? Jaké zvláštní jméno… jak vypadají?
+v1;120;Obchodník mi řekl, že nevěří v peníze.
+v2;150;Nevěří v peníze?! Jak potom žijou?
+v1;180;Prostě se o všechno spravedlivě dělí. Obchodování s nimi je proto dost obtížné…
+v2;210;Chudák obchodník… Ale je zpátky v Římské říši, daleko od těch barbarů!
+v1;240;Souhlasím! Římská říše je nejlepší místo na obchod!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Doufám, že už nebudeme muset bojovat s barbary.
+v2;30;Cože? Jsme vojáci, naším posláním je zabíjet barbary! Proč by ses dával k armádě, kdyby ses nerad bil?
+v1;60;Myslel jsem, že být vojákem bude snadné — zabít pár mobů a tu a tam barbara. Ale teď, když nějakého zabiju, dívám se mu do tváře a říkám si: „Možná bychom je neměli zabíjet."
+v2;120;Moc přemýšlíš! Jdi a zabíjej barbary za Řím. Jinak nás zabijou oni a zničí naše domovy! Jsou to jen divoši.
+v1;150;Setkal ses někdy s těmi lidmi, které chceš pobíjet? Ne! Možná jsou jiní, než nám tvrdili.
+v2;180;Pravda, možná jsou ještě horší.
+v1;210;Myslím, že nechápeš mé starosti.
+v2;240;Jsem voják, ne filozof. Měl by ses jít pomodlit, zjevně potřebuješ pomoc shůry.
+v1;270;Už jsem to zkusil a nic jsem nedostal. Můj závěr se nezměnil.
+v2;300;Cože? Tak jsi jasně kacíř! Vrať se k modlitbám, dokud nebudeš zase moct zabíjet barbary!
+v1;330;Možná Bůh nechce, abych to dělal!
+v2;360;Spíš si myslím, že Bůh chce, aby ses vzdal služby…
+
+newchat;key:kidsbos,v1:child,v2:child,weigth:5
+v1;0;Bééé… Bééé… Já jsem král pastýřů!
+v2;30;Přestaň! Tímhle ho přivoláš!
+v1;60;Ó Boskokratore, postavím ti posvátné místo…
+v2;90;Mlč! Copak nevíš, co se v té legendě stane?
+v1;120;$targetfirstname, brečíš jako malé děcko! Vždyť je to nic! Jen legenda!
+
+
+//newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+//v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Bum! Konečně jsem si mohl vyzkoušet ten nový palcát!
+//v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Ano! Je to úžasná zbraň! Odpaluje nepřátele daleko!
+//v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Působivé, viď? Tomuto římskému mistrovskému dílu se na tomto světě nic nevyrovná.
+//v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / Proto můžeme být hrdí na to, že jsme Římané!
+
+//newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+//v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, synu můj, dnes jsem tě neviděl modlit se!
+//v2;30;Patéras $targetlastname, ego sígoura ékane. / Otče $targetlastname, ale já se opravdu modlil.
+
+//newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+//v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, dcero má, dnes jsem tě neviděl modlit se!
+//v2;30;Patéras $targetlastname, ego sígoura ékane. / Otče $targetlastname, ale já jsem se opravdu modlila.
+
+//newchat;key:religious3,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+//v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / $targetfirstname, dcero má, máš pokoj v duši?
+//v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Otče $targetlastname, nemám, od chvíle, co jsme sem přišli, cítím, že je tu něco jiného.
+//v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó. / Dítě, mnozí z nás cítí, že je tu něco jiného.
+//v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Ale co můžu dělat? Můj život tady bude navždy jiný.
+//v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Jediné, co můžeme dělat, je modlit se, protože Bůh má pro nás plán.
+
+//newchat;key:religious4,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+//v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / $targetfirstname, synu můj, máš klid v duši?
+//v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Otče $targetlastname, nejsem klidný, od chvíle, co jsme sem přišli, cítím, že je něco jinak.
+//v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó. / Dítě, mnozí z nás cítí, že je tu něco jiného.
+//v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Ale co můžu dělat? Můj život tady bude navždy jiný.
+//v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Jediné, co můžeme dělat, je modlit se, protože Bůh má pro nás plán.
+
+//newchat;key:ticlon,v1:notvtype:pastor_byzantine-patriarch_byzantine,v2:vtype:pastor_byzantine-patriarch_byzantine,weigth:1
+//v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola.. / Otče $targetlastname, když jsem se modlil, viděl jsem nějaké podivné symboly.
+//v2;30;Paidí, ti sou édeixe o Theós? / Dítě, co ti Bůh ukázal?
+//v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / Otče, symboly byly „Tiklón". Víte, co znamenají?
+//v2;90;O Theós doulévei me mystiriódi trópo / Cesty Páně jsou nevyzpytatelné.
+
+//newchat;key:nobakery,building:farm,notbuilding:bakerybyzantine,v1:adult,v2:adult,weigth:15
+//v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / Ach, kdo by nechtěl čerstvý a chutný chleba z pšeničné farmy?
+//v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / Víš, že potřebujeme pekárnu, abychom z pšenice udělali chleba?
+//v1;60;Prépei na me gelás. Tóra tha petháno. / Děláš si ze mě legraci. Teď tu umřu hladem.
+//v2;90;Limoktonó? Símera to proí fágate to proinó mou! Tha eímai o peinasménos. / Hladem? Dneska ráno jsi snědl mou snídani! To já umřu hladem.
+//v1;120;To chreiázomai perissótero apó eséna! / Já to potřebuju víc než ty!
+//v2;150;Den xéro giatí sas miláo! / Nevím, proč s tebou vůbec mluvím!
+//v1;180;Chreiazómaste éna artopoieío, aftó eínai simantikó. / Potřebujeme pekárnu, to je důležité.

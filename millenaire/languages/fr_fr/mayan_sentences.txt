@@ -1,0 +1,67 @@
+
+villager.greeting=Quoi de neuf?
+villager.greeting=Comment les esprits vous traitent-ils ?
+villager.greeting=Comment va votre famille ?
+villager.greeting=Bonjour, $name !
+villager.greeting=Les esprits nous envoient de la pluie.
+villager.greeting=Où est votre terre ?
+villager.greeting=Le temps est chaud aujourd'hui.
+mayan_shaman.greeting=Les esprits vous protègent.
+
+villager.gorest=Le sommeil me gagne.
+villager.gorest=Je dois dormir maintenant.
+villager.gorest=*baille*
+
+villager.gopray=Que les esprits nous viennent en aide.
+villager.gopray=Les esprits nous apportent bonnes récoltes.
+
+villager.bringbackresourceshome=J'ai trop de bois à porter.
+villager.choptrees=C'est l'heure de couper des arbres.
+villager.gathergoods=Je ramène ce bois chez moi.
+villager.plantsaplings=C'est moi qui plante tous ces arbres.
+
+villager.harvestmaize=Bonne pluie, bonne récolte.
+villager.plantturmeric=Les épices font la bonne nourriture.
+villager.harvestturmeric=Cette récolte d'épice donnera goût à la nourriture.
+villager.slaughterchicken=Les poulets nous donnent leur viande.
+villager.plantmaize=La pluie nous donne une bonne récolte.
+
+villager.gethouseresources=Une maison propre est une bonne maison.
+villager.getgoodshousehold=Je dois nettoyer.
+villager.delivergoodshousehold=Ca fait trop de nourriture à porter.
+villager.makerasgulla=Mon enfant est malade.
+
+
+villager.getresourcesforbuild=De la pierre, encore de la pierre.
+villager.constructionstepbystep=Bosser, bosser, bosser !
+villager.constructionstepbystep=J'ai besoin d'un équipier costaud.
+
+villager.goplay=Je vais jouer dans l'herbe.
+
+villager.childobserveagriculture=Je me demande ce qui se passerai si on faisait chauffer des grains de maïs très fort ?
+villager.childobserveconstruction=Pourquoi est-ce qu'on construit toujours en pierre, je me le demande ?
+villager.childobservesmithing=Tout le monde ici utilise de l'obsidienne pour les outils, mais il doit bien y avoir quelque chose de plus solide !
+villager.childobserveproducefood=Pourquoi est-ce que les adultes boivent tout le cacauhaa ? C'est pas juste !
+
+villager.childeatcacaobeans=Les fèves toutes seuls sont un peu amères. Ca serait peut être meilleure avec du lait ?
+
+
+villager.becomeadult=La la la la. /
+male.becomeadult=Je veux devenir chasseur.
+female.becomeadult=Je veux un mari.
+
+villager.gopray.chosen=Je dis la prière.
+mayan_shaman.gopray.chosen=Ma prière nous protège.
+
+villager.calltoarms=Tuez l'homme mauvais !
+villager.calltoarms=Aux armes!
+villager.calltoarms=Le jour est mien !
+
+villager.maketools=Achetez mes outils.
+villager.makeweapons=Les armes ici sont solides.
+villager.scultmayan=Un jour je peindrai.
+villager.construction=Travailler en chœur, travailler de toutes ses forces.
+villager.construction=Travail, travail, travail.
+villager.sellercoming=J'arrive prestement !
+villager.tradecomplete=Que les dieux te récompensent, reviens nous voir.
+

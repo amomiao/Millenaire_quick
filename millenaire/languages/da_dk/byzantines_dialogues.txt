@@ -1,0 +1,526 @@
+//*  Dialoglinjer begynder med en kode som "v2;30;" der angiver, hvem der taler, og hvornår linjen vises. Kopier den nøjagtigt i din oversættelse.
+//*  Første halvdel af linjen (frem til /) er på landsbyboernes oprindelige sprog og skal bevares som den er; anden halvdel skal oversættes.
+//*
+//*
+
+
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Jeg elsker solskinsdage!
+v2;30;Hvem gør ikke det?
+
+newchat;key:nicevillage,weigth:10
+v1;0;Det er altid en fornøjelse at se vores hyggelige lille landsby, ikke sandt?
+v2;30;Selvfølgelig, vi har arbejdet hårdt!
+
+newchat;key:sunzombie,tag:notraining,weigth:2
+v1;0;Jeg elsker solskinsdage!
+v2;30;Hvem gør ikke det?
+v1;60;Det gør jeg ikke.
+v2;120;Hvorfor dog?
+v1;150;Solen brænder min hud, jeg hader at være udendørs!
+v2;180;Du opfører dig som en zombie!
+v1;210;Måske er jeg en ...
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Det er altid en glæde at se vores lille landsby, ikke sandt?
+v2;30;Sandelig! Vi har arbejdet så hårdt på at bygge den.
+v1;60;Det er som derhjemme, ligesom før vi kom hertil.
+v2;90;Det er vores hjem nu, det må vi acceptere.
+v1;120;Det ved jeg, jeg accepterer det med tiden ...
+
+newchat;key:ishome,weigth:6
+v1;0;Det er altid en glæde at se vores lille landsby?
+v2;30;Sandelig! Vi har arbejdet så hårdt på at bygge den.
+v1;60;Det er som derhjemme, ligesom før vi kom hertil.
+v2;90;Det er vores hjem nu, det må vi acceptere.
+v1;120;Det er vores hjem, denne samtale har fået mig til at acceptere det.
+
+newchat;key:harvest,weigth:10
+v1;0;Hveden gror virkelig godt i år, og det gør vinrankerne også. Storartet, ikke?
+v2;30;Jo, det ser sådan ud: Vi må takke det forunderlige vejr, vi har her.
+v1;60;Som om jeg gav noget for det!
+
+newchat;key:lightning,weigth:7
+v1;0;Husker du det sidste tordenvejr, vi havde?
+v2;30;Sandelig! Næsten hele vores høst blev ødelagt. Naturen kan være voldsom, ikke?
+v1;60;Voldsom er én ting. Jeg blev næsten ramt af lynet!
+v2;100;Var du ikke i ly? Du ved da, hvor farligt det er at være udendørs i et tordenvejr?
+v1;120;Man lærer af sine fejl.
+
+newchat;key:lightningpig,weigth:1,v1:adult,v2:adult
+v1;0;Jeg har det ikke godt ...
+v2;30;Hvad er der i vejen? Er du syg?
+v1;60;Nej, j-j-jeg kom lige til at huske en d-d-dårlig oplevelse.
+v2;100;Du virker virkelig berørt. Er du sikker på, du ikke er syg?
+v1;120;Sikker, j-jeg er bare b-bange.
+v2;150;Nå, hvad er der så?
+v1;180;Under det sidste tordenvejr gik jeg uden for l-l-landsbyen, og jeg vidste, jeg ikke kunne nå tilbage før stormen var ovre. Jeg gemte mig under et træ.
+v2;210;Du satte dit liv på spil uden for landsbyen! Du kunne være død!
+v1;240;Tja, jeg var i live. Men lynet ramte et svin. Og det s-svin ... jeg så det rejse sig på sine bagben og gå som os, det angreb mig m-m-med et skinnende sværd!
+v2;290;Det, du siger, giver ingen mening. Det må have været et mareridt.
+v1;320;Det var sandt! Sandt! Sandt! Sandt!
+v2;350;Du er gal. Gå hen og drik lidt vin, og fald til ro.
+v1;380;J-jeg vil gøre det. M-måske t-trøster det mig.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ah ... Souvlaki, den eneste og sande gode føde!
+v2;30;Hvis bare I mænd havde samme kogetalent som os kvinder ...
+v1;60;Vi vil gerne lave den selv!
+v2;100;Virkelig? Og hvordan tilbereder du den så?
+v1;130;Øh ... Du lægger fisken — nej, lammekoteletterne — i ovnen, og så, øh ...
+v2;190;... Og så lægger du lidt feta på en pind. I kan virkelig ikke lave mad!
+
+newchat;key:lonevillage,weigth:10
+v1;0;Jeg keder mig, det er altid det samme her.
+v2;30;Det er da i det mindste fredeligt.
+v1;60;Intet særligt for en afsides landsby som vores!
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Da jeg var lille, ville jeg være opdagelsesrejsende. Opdage nye lande og møde nye, fascinerende folk. Men nu? Jeg er fastlåst i denne lille landsby langt fra alt. Jeg vil rejse ud og opdage nye egne!
+v2;30;Men du finder ikke større forskelle i de andre landsbyer. Vi er stort set alle ens.
+v1;60;Jeg taler ikke om landsbyer. Jeg taler om købstæder, eller endda om en by!
+v2;90;En by? Du taler om Konstantinopel?
+v1;120;Ja! Hjertet af vores glorværdige rige. Det er verdens største vidunder!
+v1;150;Der bor over fem hundrede tusind mennesker dér, kan du forestille dig?!
+v2;180;Det lyder umuligt. Fem hundrede tusind mennesker på ét sted? Det giver mig drømme!
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Drik ikke vin alene!
+v2;30;Det er bedre at drikke sammen!
+v1;50;Tak for vinen!
+v2;70;Skål!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Min far er stærkere end din.
+v2;30;Forkert! Min far er den stærkeste i landsbyen!
+v1;60;Nej! Min far er den stærkeste i hele riget!
+v2;90;Umuligt, min far er den stærkeste i verden!
+v1;120;Jeg er sikker på, at min far kan slå din med én hånd!
+v2;150;Gå hen og gør din far klar til en kamp!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Piger duer ikke til noget.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Har du set min dukke? Jeg kan ikke finde den ...
+v2;30;Giv mig mit sværd tilbage, så får du den at se igen.
+v1;60;Du har kidnappet den! Tyv!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Har du set mine nye klæder?
+v2;30;Du er pragtfuld, min kære. Alt klæder dig!
+v1;60;Men jeg er ikke så smuk som dig!
+v2;90;Åh, det er ikke sandt, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Har du set mine nye klæder?
+v2;30;Du er en skønhed. Alt klæder dig, min kære $targetfirstname!
+v1;60;Men jeg er ikke så smuk som dig!
+v2;90;Det er sandt.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Har du set mine nye klæder, $targetfirstname?
+v2;30;Jeg synes, dine gamle klæder klædte dig bedre.
+v1;60;HVAD?
+v2;70;Nej ... Nej! Du er smuk! Jeg elsker disse nye ... ting!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Nå, kan du lide min nye kjole?
+v2;30;Den gamle var pænere.
+v1;60;HVAD?
+v2;70;Hey, $targetfirstname, det er bare min mening.
+v1;90;Du er da i det mindste ærlig!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Hvad skal man gøre, hvis man kan lide en pige?
+v1;30;Give hende komplimenter og være sød ved hende.
+v2;60;Nej! Det kan jeg ikke! Hvad vil de andre så tænke om mig?
+v1;90;Hvis du virkelig elsker nogen, så er du ligeglad med, hvad de andre tænker.
+
+newchat;key:householdtry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Det er tid til, at jeg lærer dig at føre et hjem.
+v2;30;Skønt! Hvor begynder vi? Må jeg lave souvlaki? Pleeease!
+v1;60;Vis mig først, hvordan du gør rent ordentligt.
+v2;90;Okay, men du viser mig så, hvordan man laver souvlaki bagefter, lover du?
+v1;120;Jeg lover det.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Kan du købe mig en ny dukke? Alle har en ny undtagen mig ...
+v1;30;Hvad er det magiske ord?
+v2;60;Kan du være SØD at købe mig en ny dukke?
+v1;90;Godt, men du må love ikke at svare igen længere!
+v2;120;Jeg lover det!
+
+newchat;key:woodsword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Av ...
+v1;30;Du ser ked ud af det! Hvad er der i vejen?
+v2;60;Jo, alle har et trækårde, undtagen mig.
+v2;80;De ville angribe mig!
+v2;100;Jeg har brug for, at du giver mig et, også!
+v1;120;Jeg ser, at du har brugt maling til dine sår og ar. Pænt forsøgt!
+v2;150;Det er lige meget. Vær sød at give mig et sværd!
+v1;180;Sværd er farlige. Du får intet!
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Vores bygninger er så smukke, det er altid en glæde at se vores arbejde!
+v2;30;Mayaerne rejser også meget smukke bygninger.
+v1;60;Modsig mig ikke med dine mærkværdigheder. Vores bygninger er de smukkeste!
+v2;90;Hmm ...
+v1;100;Forræder! Har du ingen ære over for dit fædreland?
+
+newchat;key:pride2,weigth:10
+v1;0;Vi romere kan være stolte af det, vi har bygget.
+v2;30;Sandelig! Alt, hvad du ser, er vores værk!
+v1;60;Det mægtigste rige i verdens historie!
+v2;90;Andre nationer må knæle for vores glans!
+v1;120;Det skal de! Vi er herskerne!
+
+newchat;key:pride3,weigth:10
+v1;0;Det romerske rige skal igen herske over verden!
+v2;30;Det vil vi nå!
+v1;60;Alt bliver bedre derefter!
+v2;90;Ja!
+v1;100;Ære være riget!
+v2;110;Skål!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Det bliver regn. Snart.
+v2;30;Jeg kan mærke det også.
+v1;60;Mærkeligt. Det er altid det samme antal dage mellem hver byge.
+v2;100;Synes du også det?
+v2;125;Livet er underligt her, ikke sandt?
+v1;155;Det er sikkert!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Se det her svin, er det ikke nuttet?
+v2;30;AAAaaah! Forsvind!
+v1;60;Er du bange for grise?
+v2;80;N-nej! Selvfølgelig ikke!
+v1;110;Hahahahahaha! Hvor er det morsomt!
+
+newchat;key:weird2,weigth:1
+v2;0;Ahh ... Lækker souvlaki. Vil du have en bid?
+v1;30;*Knasch*
+v1;40;Tak! Jeg elsker souvlaki.
+v2;70;Hvem gør ikke det!
+v1;100;Har du nogensinde prøvet at putte lidt jord i din souvlaki?
+v2;140;...
+v2;150;Nej?
+v1;170;Jeg gør det indimellem ... Åh ... Det begyndte, da min souvlaki faldt ned i græsset sidste år ... Lækkert!
+v2;220;Hvad? Du taber din souvlaki i jorden og spiser den? Men, men ... ?
+v1;260;Men det smager virkelig godt!
+v2;280;Du er sindssyg.
+
+newchat;key:weird3,weigth:1
+v1;0;Jeg vil ride på et svin!
+v2;30;Hvorfor?
+v1;60;Det er sjovt!
+v2;80;Hvorfor pokker skulle du ride på et svin?
+v1;110;Bare fordi det er sjovt!
+v2;120;Du er splittergal.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Har du hørt skovhuggerens hemmelighed?
+v2;30;Nej, hvad er der galt med ham?
+v1;60;Det ser ud til, at han samler æbler og sælger dem til de normannere!
+v2;90;Det er umuligt! Og han beholder pengene?
+v1;120;Naturligvis!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Min mand siger, at en baron snart vil besøge vores landsby!
+v2;30;Hvorfor skulle han komme her?
+v2;40;Han er en mægtig, indflydelsesrig og frygtindgydende mand ...
+v1;70;Hvad? Kan du lide den slags mænd?
+v2;100;Indrøm dog, at de er tiltrækkende!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Der er en kvinde med dårligt ry i nabolandsbyen!
+v1;20;Det lader til, at nogle mænd fra vores landsbyer er taget hen for at se hende!
+v2;60;Frygteligt! Jeg må spørge min mand!
+v1;90;Min ser uskyldig ud. Men jeg er ikke sikker på din, min kære!
+v2;120;Jeg håber, han også er det. Han har godt af at være det.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Jeg elsker at se børnene lege!
+v1;20;Det giver mig altid lyst til at få et barn!
+v2;50;Er du sikker på, du har råd til det?
+v2;70;Børn ruinerer os!
+v1;100;Vær ikke bekymret for det! Min mand har mere end nok penge.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Min kære, din mand er en drukmås!
+v2;15;Hvor vover du at sige det?
+v1;45;Din mand kom fuld hjem til os i nat!
+v1;70;Han sagde, at han ville giftes med et får.
+v1;100;Og at det ville blive en kæmpe bryllupsfest!
+v1;130;Vær sød at få styr på din mand.
+v1;150;Det er virkelig pinligt.
+v2;180;Godt, godt, jeg skal nok straffe ham!
+v2;210;Ingen vin!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Dit brød er så lækkert! Hvad er din hemmelighed?
+v2;30;Bare lidt sukker tilsat dejen.
+v1;60;Virkelig? Ikke andet?
+v2;90;Ikke andet! Du vil se forskellen.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Hvem var den mand, du så i går nat?
+v2;30;Hvilken mand?
+v1;40;Manden, der sneg sig ud af dit vindue!
+v1;45;Tro ikke, at jeg ikke så det!
+v2;60;Hvor vover du ... ? Jeg er og forbliver altid trofast mod min mand.
+v1;80;Ja, ja. Jeg ville sige det samme, hvis jeg var i dit sted.
+v2;110;Det er ikke sandt! Spred ikke rygter om mig.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Disse nye køkkenredskaber er fantastiske!
+v2;30;Ja, det er så meget lettere at lave mad med dem! Det er skønt!
+v1;60;Tusind tak til smedene og håndværkerne, der fandt på sådan noget!
+v2;90;Ja! Derfor er jeg stolt af at være romer.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Jeg er misundelig på de rige folk.
+v1;20;De har så smukke silkeklæder!
+v2;50;Det er virkelig ikke retfærdigt. De gør intet og får alligevel de bedste ting.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Har du hørt om denne baron i nabolandsbyen?
+v2;30;Ja, er det den, hvis kone blev fundet myrdet?
+v1;60;Netop! Min mand har lige fortalt mig, at baronen selv dræbte hende!
+v2;100;Hvad ... ?
+v2;130;Jeg vidste altid, at han ville gøre det!
+v2;150;Men ingen troede mig.
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Har du nogensinde tænkt over, hvordan det ville være, hvis vi var i krig?
+v1;30;Der findes mænd, som er klar til at kæmpe for vores fædreland!
+v1;55;Jeg beundrer dem!
+v2;80;En krig ville være frygtelig.
+v2;110;Du taler som en soldat.
+v2;140;Men du har en mand!
+v1;170;Men han er en doven og fordrukken én!
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Vi har ikke vin nok i denne forbandede landsby!
+v2;30;Jeg er enig! Vi må anlægge flere vinmarker!
+v1;60;Og flere kroer!
+v2;90;Hvorfor åbner vi ikke vores egen kro?
+v1;120;God idé! Vi må planlægge det.
+v2;150;Men hvordan begynder vi?
+v1;180;Og vores koner bliver ikke glade for at høre det!
+v2;210;Pjat, at sælge romersk vin er altid en god undskyldning!
+v1;240;Udmærket! Vi må spare penge sammen.
+v1;270;Når vi har nok, kan vi nå vores mål!
+v2;300;Vi får hele rigets største kro!
+v1;325;Sandelig!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;God mad, gode våben, smuk kunst — det er det, der gør os til en nation!
+v2;30;Og fortrinlig vin!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Jeg er træt af min kone. Jeg må have en ny!
+v2;30;Hvem er ikke træt af sin?
+v1;60;Måske skulle vi forlade landsbyen for at lede efter nye hustruer!
+v2;90;Åh ja! Mayaerne og inderne har meget smukke kvinder, ved du?
+v2;140;Landsbyen er fortabt uden os.
+v2;160;Og glem ikke vores unger!
+v1;180;Arg! Vores børn! De ville ikke overleve uden far!
+v1;220;Men ... betyder det, at vi må blive her med vores kedelige liv?
+v2;255;Jeg tror, det er den bedste vej at gå.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Det er ret fascinerende at se, hvordan I ser på disse ikoner.
+v2;30;Selvfølgelig, det er stor romersk kunst!
+v1;60;Som alt, hvad vi gør. Se vores pragtfulde huse!
+v2;90;Og glem ikke vores glorværdige historie!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Husker du den pige, som vi sloges om, da vi var unge?
+v2;30;Ja ... Det var en dårlig tid. Glad for, at det er forbi.
+v1;60;Jeg er glad for at høre dig sige det, for hun har lige fortalt mig, at hun stadig elsker mig!
+v2;90;Hvad? Løgner!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej, smukke, kan du lide mig?
+v2;20;*klask*
+v2;25;Du er gift.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej, du ser virkelig godt ud i dag, $targetfirstname!
+v2;30;Tak!
+v1;60;Selv tak, min kære!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hej, $targetfirstname, ønsker en skønhed som dig ikke en hjælpsom mand som mig?
+v2;40;Du er gift, og det er jeg også.
+v2;60;Jeg tror, du ikke er særlig trofast! Jeg fortæller det til din kone!
+v1;75;NEJ — det gør du ikke —
+v1;85;Jeg er ikke ham, du tror, jeg er hans onde tvilling!
+v2;120;Selvfølgelig er du det, den samme onde tvilling, der altid er fuld!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Hvordan går det med din rolle som husmor?
+v2;30;Godt, godt, jeg er bare lidt ked af det.
+v1;60;Åh nej, hvad er der sket?
+v2;90;Min mand råbte ad mig.
+v1;120;Hvordan kan han gøre det, foran en sådan skønhed?
+v2;150;Tak, fordi du muntrer mig op, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*uff*
+v1;30;Går det, $targetfirstname?
+v2;50;Ja, jeg er træt af arbejdet.
+v1;70;Må jeg hjælpe dig? Måske vil du have det bedre?
+v2;90;Sandelig! Tusind tak!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Hvordan går det?
+v2;30;Alt vel, og hos dig?
+v1;60;Også, tak fordi du spørger!
+v1;75;Men jeg kan se, at der er noget, der plager dig!
+v2;90;Der er — ingenting.
+v1;110;Sig det!
+v2;130;Det er bare, at mit liv er så kedeligt her.
+v2;160;Jeg ville virkelig ønske, jeg havde besluttet at tage til byen, da jeg var ung.
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;$targetfirstname, min bror! Det er godt at se dig!
+v1;30;Jeg har lige genfundet mit gamle træsværd!
+v1;50;Husker du det?
+v2;80;Vent, er det ikke det sværd, far gav os?
+v1;110;Det er det! Husker du vores kampe med det?
+v2;140;Hvordan skulle jeg kunne glemme det? Jeg har stadig nogle ar.
+v2;170;Mens jeg tænker på det ...
+v2;200;Det var grusomt af vores far at give os ét eneste sværd til to!
+v2;240;Han vidste, at vi ville slås om det!
+v1;270;Og han havde ret!
+v2;300;For du beholdt det!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Husker du den vognmand, som vi var så vilde med, da vi var små?
+v2;30;Selvfølgelig, min søster. Vi var hans største beundrere!
+v1;60;Jeg gad vide, hvad der er blevet af ham.
+v1;90;Jeg har aldrig hørt mere til ham ...
+v2;120;Han er nok faldet til ro i en landsby som vores, har fået sig en kone og børn.
+v1;150;Bref, jeg ville gerne se ham af og til!
+v2;180;Også jeg!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, min søster, jeg undrer mig stadig over, hvorfor du vil giftes med det fjols.
+v2;30;Fordi jeg elsker ham!
+v1;60;Og nu hedder du $targetlastname! $targetlastname! Det er et grimt navn!
+v2;90;Hey! Vær ikke så ond! Det er dig, der startede skænderiet.
+v2;110;Du har drukket!
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Har du hørt om seldsjukkerne, siden vi kom hertil?
+v2;30;Nej, tror du, de er kommet med os?
+v1;60;Jeg tvivler.
+v2;90;Jeg går ud fra, at vi får nye fjender her også.
+v1;120;Vi har stadig normannerne at tage os af.
+v2;150;Tja, vi er romere! Vi kan let nedkæmpe disse banditter, A ROME!
+v1;165;To Rome!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Har du hørt om den normanniske landsby i nærheden?
+v2;30;Det er ikke godt, jeg husker, at de angreb Syditalien, før vi kom hertil.
+v1;60;Lad os håbe, de ikke angriber os.
+v2;90;Lad os håbe.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Jeg gad vide, hvad der er sket med Konstantinopel?
+v2;30;Jeg tror, den er kommet med os til dette land.
+v1;60;Hvorfor tror du det?
+v2;90;Jeg boede nær den by, og jeg er kommet hertil.
+v1;120;Det er sandt, men så mange mennesker bor der, vi burde have hørt om den.
+v2;150;Den er måske meget langt væk.
+v1;180;Ja, men Konstantinopels glans er så stor, at selv kineserne må have hørt om den.
+v2;210;Sig ikke, at du tror på de rygter om Kina?
+v1;240;Jeg tror, en del af det er sandt.
+v2;270;Men Kina er så hemmelighedsfuldt, at man ikke kan være sikker på noget.
+v1;300;Der er også så meget mystik om, hvorvidt Konstantinopel er her, at man ikke kan vide det.
+v2;330;Sandelig, men selv hvis Konstantinopel ikke er her, må vi udvide og beskytte det romerske rige.
+v1;360;Det er jeg enig med dig i!
+v2;390;Måtte Rom være evig!
+
+newchat;key:inuit,v1:adult,v2:adult,weigth:10
+v1;0;Lidt tidligere talte jeg med en bysantinsk handlende, og han fortalte mig om landsbyer langt borte i sneen.
+v2;30;Landsbyer i sneen?!?
+v1;60;Ja, de kaldes "inuitter".
+v2;90;Inuitter? Sikke et mærkeligt navn ... Hvordan ser de ud?
+v1;120;Den handlende fortalte mig, at de ikke tror på penge.
+v2;150;De tror ikke på penge?! Hvordan kan de så leve?
+v1;180;De deler bare tingene ligeligt. Det gør handel med dem ret vanskelig ...
+v2;210;Stakkels handlende ... Men nu er han da tilbage i det romerske rige, langt fra de barbarer!
+v1;240;Det er jeg enig med dig i! Det romerske rige er det bedste sted at handle!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Jeg håber, vi ikke skal ud og slås med barbarer igen.
+v2;30;Hvad? Vi er soldater, det er vores kald at gå ud og slå barbarer ihjel! Hvorfor melde sig i hæren, hvis du ikke kan lide at kæmpe?
+v1;60;Jeg troede, det ville være let at være soldat — slå nogle uhyrer ihjel og en barbar en gang imellem. Men nu, når jeg slår en ihjel, ser jeg på hans ansigt og tænker: "Måske burde vi ikke slå dem ihjel."
+v2;120;Du tænker for meget! Gå ud og slå barbarer ihjel for Rom. Ellers slår de os ihjel og ødelægger vores hjem! Det er kun vilde.
+v1;150;Har du mødt de folk, du vil massakrere? Nej! De er måske anderledes, end vi er blevet fortalt.
+v2;180;Sandt nok, de er måske endnu værre.
+v1;210;Jeg tror ikke, du forstår mine bekymringer.
+v2;240;Jeg er soldat, ikke filosof. Du burde gå hen og bede, du har tydeligvis brug for guddommelig hjælp.
+v1;270;Jeg har allerede prøvet, og jeg har intet modtaget. Mine slutninger har ikke ændret sig.
+v2;300;Hvad? Så er du tydeligvis kætter! Gå tilbage og bed, indtil du igen kan gå ud og slå barbarer ihjel!
+v1;330;Måske ønsker Gud ikke, at jeg gør det!
+v2;360;Jeg tror snarere, at Gud ønsker, du går på pension ...
+
+newchat;key:kidsbos,v1:child,v2:child,weigth:5
+v1;0;Bæhhh … Bæhhh …
+v2;30;Hold op med det! Du tilkalder ham, når du gør det!
+v1;60;Å, Boskokrator, jeg bygger dig et helligt sted …
+v2;90;Ti stille! Ved du ikke, hvad der sker i sagnet?
+v1;120;$targetfirstname, du tuder som et lille barn! Det er ingenting! Bare et sagn!
+
+
+//newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-patriarch_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+//v1;0;Boom! Ímoun molis eínai se thési na elénxei éxo ti néa ropalo! / Boom! Jeg kunne lige prøve den nye stridskølle!
+//v2;30;Nai! Prokeitai gia éna fovero oplo! Eínai chtypá tous echthroús makriá! / Ja! Det er et frygtindgydende våben! Det slynger fjender langt væk!
+//v1;60;Entyposiako, e? Afto to aristoúrgima Romaïkí den boreí na synkritheí me otidípote állo se afto ton kosmo. / Storartet, ikke? Dette romerske mesterværk kan ikke sammenlignes med noget andet i denne verden.
+//v2;100;Thats giatí boroúme na eímaste yperífanoi na eínai Romaíoi! / Derfor kan vi være stolte af at være romere!
+
+//newchat;key:religious1,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+//v1;0;$targetfirstname, o gios mou, ego den eída na proséfchetai símera! / $targetfirstname, min søn, jeg så dig ikke bede i dag!
+//v2;30;Patéras $targetlastname, ego sígoura ékane. / Fader $targetlastname, jeg har sandelig bedt.
+
+//newchat;key:religious2,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+//v1;0;$targetfirstname, kori mou, ego den eída na proséfchetai símera! / $targetfirstname, min datter, jeg så dig ikke bede i dag!
+//v2;30;Patéras $targetlastname, ego sígoura ékane. / Fader $targetlastname, jeg har sandelig bedt.
+
+//newchat;key:religious3,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:female,weigth:10
+//v1;0;$targetfirstname, kóri mou, eísai eirinikí sto myaló sou? / $targetfirstname, min datter, har du fred i sindet?
+//v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Fader $targetlastname, jeg har ikke fred, siden vi ankom hertil føler jeg, at der er noget anderledes.
+//v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó. / Mit barn, mange af os føler, at der er noget anderledes her.
+//v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Men hvad kan jeg gøre? Mit liv her vil for evigt være anderledes.
+//v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Alt, hvad vi kan gøre, er at bede, eftersom Gud har en plan for os.
+
+//newchat;key:religious4,v1:vtype:patriarch_byzantine-pastor_byzantine,v2:male,weigth:10
+//v1;0;$targetfirstname, O gios mou, eíste eirinikós sto myaló? / $targetfirstname, min søn, har du fred i sindet?
+//v2;30;Patéras $targetlastname, Den eímai eirinikós, apó tóte pou ftásame edó, aisthánomai óti ypárchei káti diaforetikó. / Fader $targetlastname, jeg har ikke fred, siden vi ankom hertil føler jeg, at der er noget anderledes.
+//v1;60;Paidí, polloí apó emás aisthánontai óti ypárchei káti diaforetikó edó. / Mit barn, mange af os føler, at der er noget anderledes her.
+//v2;90;Allá ti boró na káno? I zoí mou edó tha eínai gia pánta diaforetikí edó. / Men hvad kan jeg gøre? Mit liv her vil for evigt være anderledes.
+//v1;120;To móno pou boroúme na kánoume eínai na prosefchómaste afoú o Theós échei éna schédio gia mas. / Alt, hvad vi kan gøre, er at bede, eftersom Gud har en plan for os.
+
+//newchat;key:ticlon,v1:notvtype:pastor_byzantine-patriarch_byzantine,v2:vtype:pastor_byzantine-patriarch_byzantine,weigth:1
+//v1;0;Patéras $targetlastname, otan proséfchomai, eída kápoia períerga sýmvola../ Fader $targetlastname, da jeg bad, så jeg nogle mærkelige tegn.
+//v2;30;Paidí, ti sou édeixe o Theós? / Mit barn, hvad viste Gud dig?
+//v1;60;Patéra, ta sýmvola ítan "Tiklón". Xérate ti ennooún? / Fader, tegnene var "Tiklón". Ved du, hvad de betyder?
+//v2;90;O Theós doulévei me mystiriódi trópo / Herrens veje er uransagelige.
+
+//newchat;key:nobakery,building:farm,notbuilding:bakerybyzantine,v1:adult,v2:adult,weigth:15
+//v1;0;Ach, poios den thélei frésko, nóstimo psomí apó to agróktima sitarioú? / Ah, hvem vil ikke have friskt, lækkert brød fra hvedegården?
+//v2;30;Xérete óti chreiazómaste éna artopoieío gia na metatrépsoume to sitári se psomí sostá? / Ved du, at vi har brug for et bageri til at omdanne hveden til brød, ikke sandt?
+//v1;60;Prépei na me gelás. Tóra tha petháno. / Du må gøre nar af mig. Nu sulter jeg.
+//v2;90;Limoktonó? Símera to proí fágate to proinó mou! Tha eímai o peinasménos. / Sulter? I morges spiste du min morgenmad! Jeg bliver den, der sulter.
+//v1;120;To chreiázomai perissótero apó eséna! / Jeg har mere brug for det end dig!
+//v2;150;Den xéro giatí sas miláo! / Jeg ved ikke, hvorfor jeg taler med dig!
+//v1;180;Chreiazómaste éna artopoieío, aftó eínai simantikó. / Vi har brug for et bageri, det er det vigtige.
+
+

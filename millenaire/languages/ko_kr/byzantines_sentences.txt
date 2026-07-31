@@ -1,0 +1,529 @@
+architect_byzantine.construction=$name님! 로마인들이 최고의 건축가라는 거 아셨어요?
+architect_byzantine.construction=$name님! 제가 아름다운 건물을 짓는 걸 지켜봐 주세요.
+architect_byzantine.construction=이 건물은 정말 아름다울 거예요!
+architect_byzantine.construction=아직 끝나지 않았지만, 이미 제 작품 속의 아름다움이 보이네요.
+architect_byzantine.construction=저는 이렇게 정교한 건물을 지어요. 건축은 정말 가장 아름다운 예술이지요.
+architect_byzantine.construction=로마는 하루아침에 세워진 게 아니라 블록 하나하나로 세워졌어요.
+architect_byzantine.construction=우리 건축은 세상 다른 모든 건물들보다 우월해요.
+architect_byzantine.construction=로마식으로 짓는 게 가장 좋은 방법이에요.
+architect_byzantine.construction=제 스타일 마음에 드세요?
+architect_byzantine.construction=기억할 수 없을 만큼 오랫동안 건축을 해왔어요. 건축은 제 삶이 되었죠.
+
+architect_byzantine.getresourcesforbuild=마을은 이 블록들을 어디서 구해 오는 걸까요?
+architect_byzantine.getresourcesforbuild=최고의 건물을 지으려면 블록이 필요해요!
+architect_byzantine.getresourcesforbuild=모든 건축은 블록에서 시작해요.
+architect_byzantine.getresourcesforbuild=직접 신중하게 블록을 골라야 해요.
+architect_byzantine.getresourcesforbuild=$name님, 지으실 때 어떻게 그렇게 많은 블록을 들고 다니세요?
+architect_byzantine.getresourcesforbuild=건축에서 제일 힘든 부분은 자재를 구하는 거예요.
+
+architect_byzantine.godrink=건축은 그만! 포도주가 필요해요!
+architect_byzantine.godrink=영감을 얻으려면 한 잔 해야 해요!
+architect_byzantine.godrink=좋은 건축가는 하루 끝에 한 잔이 필요하지요.
+architect_byzantine.godrink=건축을 하다 보면 포도주가 당겨요.
+
+architect_byzantine.gopray=주님께서 다음 건물에 영감을 주시면 좋겠어요!
+architect_byzantine.gopray=주님은 왜 저를 건축가로 만드셨을까요?
+architect_byzantine.gopray=기도는 로마 건축의 중요한 부분이에요.
+architect_byzantine.gopray=주님께서는 건축가들의 고충을 이해하시죠.
+
+architect_byzantine.gorest=잠을 안 자면 뭔가 잘못 지을 수도 있어요.
+architect_byzantine.gorest=피곤할 때는 지을 수 없어요.
+architect_byzantine.gorest=어둠 속에서는 짓기가 힘들어요.
+architect_byzantine.gorest=오늘은 건축을 그만할래요.
+architect_byzantine.gorest=어쩌면 꿈에서 세상 최고의 건물을 짓게 될지도 몰라요!
+
+architect_byzantine.gosocialise=이 마을에는 건축의 고충을 이해하는 사람이 없어요.
+architect_byzantine.gosocialise=건축가는 다른 사람들로부터 영감을 받아야 해요.
+architect_byzantine.gosocialise=건축가는 피드백을 받아야 성장하지요.
+architect_byzantine.gosocialise=마을 사람들은 제 건물을 어떻게 생각할까요?
+
+//armysmith_byzantine.MakeIndianTools=Roman tools are the best in world.
+armysmith_byzantine.makebyzantinemace=제 무기를 쓰는 사람은 공격하지 마세요.
+armysmith_byzantine.makebyzantinemace=이 철퇴는 야만인들을 멀리 날려버릴 거예요!
+armysmith_byzantine.makebyzantinemace=철퇴를 만드는 게 휘두르는 것보다 어려워요.
+armysmith_byzantine.makebyzantinemace=군대는 철퇴가 필요해요.
+
+armysmith_byzantine.gopray=좋은 대장장이는 가끔 기도를 드려야 해요.
+armysmith_byzantine.gopray=주님은 왜 저를 대장장이로 만드셨을까요?
+armysmith_byzantine.gopray=기도는 로마 공예의 중요한 부분이에요.
+armysmith_byzantine.gopray=주님께서는 대장장이의 고충을 이해하시죠.
+
+armysmith_byzantine.gorest=내일은 더 멋진 것들을 만들 거예요!
+armysmith_byzantine.gorest=오늘은 공예 일을 그만할래요.
+armysmith_byzantine.gorest=어쩌면 꿈에서 세상 최고의 무기를 만들게 될지도 몰라요!
+armysmith_byzantine.gorest=어쩌면 꿈에서 세상 최고의 갑옷을 만들게 될지도 몰라요!
+armysmith_byzantine.gorest=어쩌면 꿈에서 세상 최고의 도구를 만들게 될지도 몰라요!
+
+armysmith_byzantine.gosocialise=혹시 제가 만들어드릴 게 필요한 분 없는지 물어볼래요.
+armysmith_byzantine.gosocialise=마을 사람들이 제 도구를 좋아해줬으면 좋겠어요.
+
+armysmith_byzantine.godrink=공예는 그만! 포도주가 필요해요!
+armysmith_byzantine.godrink=영감을 얻으려면 한 잔 해야 해요!
+armysmith_byzantine.godrink=좋은 대장장이는 하루 끝에 한 잔이 필요하지요.
+armysmith_byzantine.godrink=공예 일을 하다 보면 포도주가 당겨요.
+
+armysmith_byzantine.makearrow=$name님, 모험할 때 화살 많이 쓰세요?
+armysmith_byzantine.makearrow=모든 활에는 좋은 화살이 필요해요.
+armysmith_byzantine.makearrow=제가 만드는 화살 하나하나가 제국의 적 하나에게 상처를 입힐 거예요.
+armysmith_byzantine.makearrow=로마군은 외적으로부터 우리를 지키기 위해 화살이 필요해요.
+
+armysmith_byzantine.makebow=로마 군대에는 활이 필요해요.
+armysmith_byzantine.makebow=이봐요! 제 활 마음에 드세요, $name님?
+armysmith_byzantine.makebow=좋은 활은 모두 가장 좋은 나무에서 나와요.
+armysmith_byzantine.makebow=이 활은 수많은 야만인을 무찌를 거예요. 저는 진정한 활 장인입니다.
+
+armysmith_byzantine.makebyzantineboots=로마 군대에는 장화가 필요해요!
+armysmith_byzantine.makebyzantineboots=로마인들은 세상에서 제일 좋은 장화를 만들어요.
+armysmith_byzantine.makebyzantineboots=누군가는 병사들의 장화를 만들어야지요...
+armysmith_byzantine.makebyzantineboots=우리가 최고의 장화를 만들지요.
+armysmith_byzantine.makebyzantineboots=이봐요! 제 장화 마음에 드세요, $name님?
+armysmith_byzantine.makebyzantineboots=마치 과대평가된 신발 장인이 된 기분이에요.
+armysmith_byzantine.makebyzantineboots=갑옷 제작은 모든 부분이 중요해요! 발에 신는 장화까지도요!
+
+armysmith_byzantine.makebyzantinechest=로마 군대에는 가슴갑옷이 필요해요!
+armysmith_byzantine.makebyzantinechest=로마인들은 세상에서 제일 좋은 가슴갑옷을 만들어요.
+armysmith_byzantine.makebyzantinechest=이봐요! 제 갑옷 마음에 드세요, $name님?
+armysmith_byzantine.makebyzantinechest=우리가 최고의 갑옷을 만들지요.
+armysmith_byzantine.makebyzantinechest=이거라면 $name님이 견딜 수 있는 것보다 더 많은 타격을 견뎌낼 거예요.
+armysmith_byzantine.makebyzantinechest=마치 과대평가된 옷 장인이 된 기분이에요.
+
+armysmith_byzantine.makebyzantinehelmet=로마 군대에는 투구가 필요해요!
+armysmith_byzantine.makebyzantinehelmet=누군가는 병사들의 투구를 만들어야지요...
+armysmith_byzantine.makebyzantinehelmet=로마인들은 세상에서 제일 좋은 투구를 만들어요.
+armysmith_byzantine.makebyzantinehelmet=이봐요! 제 투구 마음에 드세요, $name님?
+armysmith_byzantine.makebyzantinehelmet=우리가 최고의 투구를 만들지요.
+armysmith_byzantine.makebyzantinehelmet=마치 과대평가된 모자 장인이 된 기분이에요.
+
+armysmith_byzantine.makebyzantinelegs=로마 군대에는 다리갑옷이 필요해요!
+armysmith_byzantine.makebyzantinelegs=누군가는 병사들의 다리갑옷을 만들어야지요...
+armysmith_byzantine.makebyzantinelegs=로마인들은 세상에서 제일 좋은 다리갑옷을 만들어요.
+armysmith_byzantine.makebyzantinelegs=이봐요! 제 다리갑옷 마음에 드세요, $name님?
+armysmith_byzantine.makebyzantinelegs=우리가 최고의 다리갑옷을 만들지요.
+armysmith_byzantine.makebyzantinelegs=마치 과대평가된 바지 장인이 된 기분이에요.
+
+armysmith_byzantine.makesteelaxe=도끼 없이는 나무를 벨 수 없어요!
+armysmith_byzantine.makesteelaxe=저는 멋진 도끼를 만들지요.
+armysmith_byzantine.makesteelaxe=로마 도끼는 세상에서 손꼽히게 좋아요!
+armysmith_byzantine.makesteelaxe=벌목꾼들은 우리가 만든 도끼를 필요로 해요.
+armysmith_byzantine.makesteelaxe=$name님은 도끼를 어떻게 만드세요?
+
+armysmith_byzantine.makesteelhoe=농기구 없이는 농사를 지을 수 없어요!
+armysmith_byzantine.makesteelhoe=저는 멋진 농기구를 만들지요.
+armysmith_byzantine.makesteelhoe=로마 농기구는 세상에서 손꼽히게 좋아요!
+armysmith_byzantine.makesteelhoe=농부들은 우리가 만든 도구를 필요로 해요.
+armysmith_byzantine.makesteelhoe=$name님은 농기구를 어떻게 만드세요?
+
+armysmith_byzantine.makesteelpickaxe=곡괭이 없이는 광질을 할 수 없어요!
+armysmith_byzantine.makesteelpickaxe=저는 튼튼한 곡괭이를 만들지요.
+armysmith_byzantine.makesteelpickaxe=로마 곡괭이는 세상에서 손꼽히게 좋아요!
+armysmith_byzantine.makesteelpickaxe=광부들은 우리가 만든 곡괭이를 필요로 해요.
+armysmith_byzantine.makesteelpickaxe=$name님은 곡괭이를 어떻게 만드세요?
+
+armysmith_byzantine.makesteelshovel=삽 없이는 짓거나 파낼 수 없어요!
+armysmith_byzantine.makesteelshovel=저는 튼튼한 삽을 만들지요.
+armysmith_byzantine.makesteelshovel=로마 삽은 세상에서 손꼽히게 좋아요!
+armysmith_byzantine.makesteelshovel=건축가들은 우리가 만든 삽을 필요로 해요.
+armysmith_byzantine.makesteelshovel=$name님은 삽을 어떻게 만드세요?
+
+//artisan_byzantine.makePainting=Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=좋은 장인은 가끔 기도를 드려야 해요.
+artisan_byzantine.gopray=주님은 왜 저를 장인으로 만드셨을까요?
+artisan_byzantine.gopray=기도는 로마 공예의 중요한 부분이에요.
+artisan_byzantine.gopray=주님께서는 장인의 고충을 이해하시죠.
+
+artisan_byzantine.gorest=내일은 더 멋진 것들을 만들 거예요!
+artisan_byzantine.gorest=오늘은 공예 일을 그만할래요.
+artisan_byzantine.gorest=어쩌면 꿈에서 세상 최고의 벽돌을 만들게 될지도 몰라요!
+artisan_byzantine.gorest=어쩌면 꿈에서 세상 최고의 기와를 만들게 될지도 몰라요!
+
+artisan_byzantine.gosocialise=혹시 제가 만들어드릴 게 필요한 분 없는지 물어볼래요.
+artisan_byzantine.gosocialise=마을 사람들이 제 기와를 좋아해줬으면 좋겠어요.
+artisan_byzantine.gosocialise=마을 사람들이 제 벽돌을 좋아해줬으면 좋겠어요.
+
+artisan_byzantine.godrink=공예는 그만! 포도주가 필요해요!
+artisan_byzantine.godrink=영감을 얻으려면 한 잔 해야 해요!
+artisan_byzantine.godrink=좋은 장인은 하루 끝에 한 잔이 필요하지요.
+artisan_byzantine.godrink=공예 일을 하다 보면 포도주가 당겨요.
+
+artisan_byzantine.greeting=이 마을에서 저만큼 잘 사는 사람은 없어요.
+artisan_byzantine.greeting=안녕하세요, $name님! 진귀한 로마 블록 필요하세요?
+
+artisan_byzantine.makebrick=누군가는 벽돌을 만들어야지요.
+artisan_byzantine.makebrick=마을은 제가 벽을 위한 벽돌을 만들어주길 필요로 해요.
+artisan_byzantine.makebrick=로마 벽돌은 세상에서 가장 아름다운 블록 중 하나예요!
+artisan_byzantine.makebrick=우리는 뒤에서 일하는데, 영광은 다 건축가들이 가져가요.
+artisan_byzantine.makebrick=최고의 건축가라도 블록 없이는 지을 수 없지요.
+artisan_byzantine.makebrick=점토를 벽돌로 만든다는 생각, 누가 처음 했을까요?
+
+artisan_byzantine.makebookshelves=누군가는 책을 책장에 꽂아야지요.
+artisan_byzantine.makebookshelves=마을은 제가 책장을 만들어주길 필요로 해요.
+artisan_byzantine.makebookshelves=로마의 책은 세상에서 손꼽히게 잘 읽히지요!
+artisan_byzantine.makebookshelves=우리는 뒤에서 일하는데, 영광은 다 작가들이 가져가요.
+artisan_byzantine.makebookshelves=가끔 책장에 꽂기 전에 책을 들여다봐요, 글을 읽을 수 있었으면 좋겠네요.
+artisan_byzantine.makebookshelves=글을 적어 남긴다는 생각, 누가 처음 했을까요?
+
+artisan_byzantine.makebyzantinetiles=누군가는 지붕 기와를 만들어야지요.
+artisan_byzantine.makebyzantinetiles=마을은 제가 지붕을 만들어주길 필요로 해요.
+artisan_byzantine.makebyzantinetiles=로마 기와는 세상에서 가장 아름다운 블록 중 하나예요!
+artisan_byzantine.makebyzantinetiles=우리는 뒤에서 일하는데, 영광은 다 건축가들이 가져가요.
+artisan_byzantine.makebyzantinetiles=최고의 건축가라도 블록 없이는 지을 수 없지요.
+artisan_byzantine.makebyzantinetiles=점토를 지붕으로 만든다는 생각, 누가 처음 했을까요?
+
+artisanwife_byzantine.gopray=기도는 로마 공예의 중요한 부분이에요.
+artisanwife_byzantine.gopray=주님께서 가장 좋은 옷을 만들 수 있게 도와주시면 좋겠어요!
+artisanwife_byzantine.gopray=주님은 왜 건축가의 아내를 만드셨을까요?
+
+artisanwife_byzantine.gosocialise=어! 저 사람 셔츠 제가 만들었어요!
+artisanwife_byzantine.gosocialise=여기서 저는 건축가의 아내로 알려져 있어요.
+artisanwife_byzantine.gosocialise="건축가의 아내"로 불리는 게 지긋지긋해요.
+
+artisanwife_byzantine.makeclothes_byz_silk=저는 마을에서 가장 좋은 옷을 만들어요!
+artisanwife_byzantine.makeclothes_byz_silk=로마산 비단은 세상에서 제일 좋은 천이지요!
+artisanwife_byzantine.makeclothes_byz_silk=비단옷은 으리으리한 집보다 더 중요해요.
+artisanwife_byzantine.makeclothes_byz_silk=$name님, 비단 입어보신 적 있어요?
+artisanwife_byzantine.makeclothes_byz_silk=누구나 옷이 필요해요, 특히 문명인이 되고 싶다면요.
+artisanwife_byzantine.makeclothes_byz_silk=진정한 아름다움은 블록이 아니라 옷에 있어요.
+artisanwife_byzantine.makeclothes_byz_silk=제가 이걸 짜고 남편이 안 짜는 데는 이유가 있어요.
+artisanwife_byzantine.makeclothes_byz_silk=비단옷 짜기는 가장 고귀한 여인들에게만 허락된 일이에요.
+artisanwife_byzantine.makeclothes_byz_silk=진짜 일을 하게 되어 다행이라고 생각해요.
+
+artisanwife_byzantine.makeclothes_byz_wool=저는 마을에서 가장 좋은 양털옷을 만들어요!
+artisanwife_byzantine.makeclothes_byz_wool=좋은 옷은 으리으리한 집보다 더 중요해요.
+artisanwife_byzantine.makeclothes_byz_wool=$name님, 양털옷 입어보신 적 있어요?
+artisanwife_byzantine.makeclothes_byz_wool=진정한 아름다움은 블록이 아니라 옷에 있어요.
+artisanwife_byzantine.makeclothes_byz_wool=누구나 옷이 필요해요, 특히 문명인이 되고 싶다면요.
+artisanwife_byzantine.makeclothes_byz_wool=제가 이걸 짜고 남편이 안 짜는 데는 이유가 있어요.
+artisanwife_byzantine.makeclothes_byz_wool=모든 여인이 양털로 짤 수 있는 건 아니에요.
+artisanwife_byzantine.makeclothes_byz_wool=진짜 일을 하게 되어 다행이라고 생각해요.
+
+artisanwife_byzantine.delivergoodshousehold=이런 일들이 여기서 제가 할 수 있는 유일한 일이에요.
+artisanwife_byzantine.gethousethresources=남편이 마침내 시킨 대로 자재를 가져왔네요.
+artisanwife_byzantine.getgoodshousehold=가족을 돌볼 시간이에요.
+artisanwife_byzantine.greeting=제가 남자였다면 여기서 훨씬 많은 걸 할 수 있을 텐데, 만약...
+artisanwife_byzantine.greeting=우리의 임무는 우리 남자들을 단속하는 거예요.
+
+baron_byzantine.greeting=$name님, 우리 마을에 최고의 상품들이 나와 있어요!
+baron_byzantine.greeting=안녕하세요, 부유한 여행자님!
+baron_byzantine.greeting=$name님, 농민들 좀 같이 살펴봐 주시겠어요?
+
+baron_byzantine.godrink=다스리는 건 그만! 한 잔 해야겠어요.
+baron_byzantine.godrink=저는 최고의 포도주를 마실 자격이 있어요!
+baron_byzantine.godrink=선술집이 잘 돌아가는지 확인해야겠네요.
+baron_byzantine.godrink=권력 있는 사람은 마셔야 해요, 안 그러면 스트레스로 죽어버릴 거예요!
+
+baron_byzantine.gopray=주님은 왜 저를 남작으로 만드셨을까요?
+baron_byzantine.gopray=기도는 로마 통치의 중요한 부분이에요.
+baron_byzantine.gopray=주님께서는 남작들의 고충을 이해하시죠.
+baron_byzantine.gopray=우리 마을은 주님의 응답이 필요해요!
+
+baron_byzantine.gorest=농민들 관리는 그만! 잠 좀 자야겠어요.
+baron_byzantine.gorest=*하품* 피곤하면 농민들을 이끌 수가 없어요.
+baron_byzantine.gorest=비단 이불 속에서 잘 시간이에요.
+baron_byzantine.gorest=모두에게 잠은 필요해요, 특히 마을의 지도자라면 더더욱요.
+
+baron_byzantine.gosocialise=왜 멍청한 농민들은 저를 "남작"으로만 볼까요?
+baron_byzantine.gosocialise=헤헤헤, 세금을 냈는지 한번 볼까요.
+baron_byzantine.gosocialise=가난한 자들이 데나리우스를 벌도록 격려할 시간이에요!
+baron_byzantine.gosocialise=정말 평민들과 이야기를 나눠야 하나요?
+baron_byzantine.gosocialise=남작으로서, 원하지 않아도 백성들과 이야기를 나눠야 하죠.
+
+baron_byzantine.inspectconstruction=농민들이 뭔가 망쳐놓지 않았는지 확인해야 해요.
+baron_byzantine.inspectconstruction=이 건물은 우리 마을에 이익을 가져다줄 거예요.
+baron_byzantine.inspectconstruction=아름다움이란 마을이 점점 부유해지는 걸 지켜보는 거지요.
+baron_byzantine.inspectconstruction=로마가 하루아침에 세워진 게 아니라는 건 알지만, 우리 건축가는 왜 이렇게 느린 걸까요?
+baron_byzantine.inspectconstruction=건물이 제대로 지어지는지 확인하는 게 제 일이에요.
+baron_byzantine.inspectconstruction=건축가들이 보통 일을 잘하지만, 늘 확인은 해야 해요.
+
+boy_byzantine.becomeadult=강한 남자가 될 시간이에요!
+boy_byzantine.becomeadult=이제 일할 나이가 됐어요!
+boy_byzantine.becomeadult=이제 일자리가 필요해요.
+boy_byzantine.becomeadult=소년이던 시절은 끝났어요.
+
+boy_byzantine.goplay=누군가와 싸우고 싶어!
+boy_byzantine.goplay="야만인과 싸우기" 놀이 하고 싶어!
+boy_byzantine.goplay=내가 크고 강하다는 걸 모두에게 보여줄 거야!
+boy_byzantine.goplay="병사" 놀이 할 시간이야.
+
+boy_byzantine.gopray=신에 대해 배우고 싶어요!
+boy_byzantine.gopray=신께서 어른들에 대해 이야기해 주실 수 있을까요?
+boy_byzantine.gopray=어떻게 기도해요?
+boy_byzantine.gopray=기도하기 싫어! 차라리 놀고 싶어!
+
+boy_byzantine.childobservesmithing=나도 크면 대장장이가 되고 싶어. 아니면 병사. 아니면 장군!
+
+centurio_byzantine.godrink=권력 있는 사람은 마셔야 해요, 안 그러면 스트레스로 죽을 거예요!
+centurio_byzantine.godrink=병사로서 포도주가 필요하고, 백인대장으로서는 더더욱 필요해요.
+centurio_byzantine.godrink=긴장을 풀어야 해요, 안 그러면 야만인들이 쳐들어올 때 쓸모없어질 테니까요.
+
+centurio_byzantine.gopray=주님은 왜 저를 스트라테고스로 만드셨을까요?
+centurio_byzantine.gopray=기도는 로마 전쟁의 중요한 부분이에요.
+centurio_byzantine.gopray=주님께서는 스트라테고스의 고충을 이해하시죠.
+centurio_byzantine.gopray=우리 군대는 주님의 응답이 필요해요!
+
+centurio_byzantine.gorest=병사들 관리는 그만! 잠 좀 자야겠어요.
+centurio_byzantine.gorest=갑옷을 벗고 잘 시간이에요.
+centurio_byzantine.gorest=*하품* 피곤하면 병사들을 이끌 수가 없어요.
+centurio_byzantine.gorest=모두에게 잠은 필요해요, 특히 마을의 지도자라면 더더욱요.
+
+centurio_byzantine.gosocialise=병사들의 사기를 북돋울 시간이에요!
+centurio_byzantine.gosocialise=충성을 얻는 좋은 방법은 부하들과 의논하는 거예요.
+centurio_byzantine.gosocialise=군대에 신병이 더 필요해요!
+centurio_byzantine.gosocialise=부하들은 제 방어 계획을 알아야 해요.
+centurio_byzantine.gosocialise=부하들은 제 공격 계획을 알아야 해요.
+centurio_byzantine.gosocialise=사람들은 야만인 공격의 위협을 이해해야 해요!
+centurio_byzantine.gosocialise=언제든 싸울 준비가 되어 있어야 한다는 걸 모두에게 일깨워야 해요!
+
+centurio_byzantine.huntmonster=백인대장이라도 병사로서 녹슬어선 안 돼요.
+centurio_byzantine.huntmonster=내 부하들은 어디 있는 거지? 이 일은 그들이 해야 하는데.
+centurio_byzantine.huntmonster=나는 로마 제국의 스트라테고스다, 네가 나를 이길 수 있을 것 같으냐? 하!
+
+centurio_byzantine.inspectconstruction=마을이 점점 강해지는 모습을 보는 것, 그게 아름다움이에요.
+
+farmiller_wife_byzantine.delivergoodshousehold=이런 일들이 여기서 제가 할 수 있는 유일한 일이에요.
+farmiller_wife_byzantine.gethousethresources=남편이 마침내 시킨 대로 자재를 가져왔네요.
+farmiller_wife_byzantine.getgoodshousehold=가족을 돌볼 시간이에요.
+farmiller_wife_byzantine.greeting=제가 남자였다면 여기서 훨씬 많은 걸 할 수 있을 텐데, 만약...
+farmiller_wife_byzantine.greeting=우리의 임무는 우리 남자들을 단속하는 거예요.
+
+girl_byzantine.childobserveproducefood=남자들이 요리를 안 해서 다행이야, 그랬다간 다 태워먹을 거야.
+
+keeperbirch_byzantine.greeting=여기는 너무 지루해요, 아무 일도 안 일어나요...
+keeperbirch_byzantine.greeting=이 지역들을 감시하는 게 제 일이에요.
+keeperbirch_byzantine.greeting=안녕하세요, 여행자님. 어떻게 이런 외진 곳까지 오셨는지 궁금하네요.
+keeperbirch_byzantine.greeting=누가 여기에 보초를 세워야 한다고 생각했을까요...
+
+keeperoak_byzantine.greeting=여기 노르만이라 자칭하는 사람들은 우리의 영광스러운 제국을 떠올리게 해요.
+keeperoak_byzantine.greeting=여기는 너무 지루해요, 아무 일도 안 일어나요...
+keeperoak_byzantine.greeting=이 지역들을 감시하는 게 제 일이에요.
+keeperoak_byzantine.greeting=안녕하세요, 여행자님. 어떻게 이런 외진 곳까지 오셨는지 궁금하네요.
+keeperoak_byzantine.greeting=누가 여기에 보초를 세워야 한다고 생각했을까요...
+
+keeperpine_byzantine.greeting=이 추위는 끔찍하네요. 주변에 아무도 없는 게 당연해요.
+keeperpine_byzantine.greeting=여기는 너무 지루해요, 아무 일도 안 일어나요...
+keeperpine_byzantine.greeting=이 지역들을 감시하는 게 제 일이에요.
+keeperpine_byzantine.greeting=안녕하세요, 여행자님. 어떻게 이런 외진 곳까지 오셨는지 궁금하네요.
+keeperpine_byzantine.greeting=누가 여기에 보초를 세워야 한다고 생각했을까요...
+
+keepertropical_byzantine.greeting=여기는 너무 지루해요, 아무 일도 안 일어나요...
+keepertropical_byzantine.greeting=이 지역들을 감시하는 게 제 일이에요.
+keepertropical_byzantine.greeting=여기는 너무 더워요. 인도 사람들이 왜 이런 땅에서 사는지 모르겠어요.
+keepertropical_byzantine.greeting=저 이상한 마야 사람들 보신 적 있어요? 그들 건물은 금방이라도 무너질 것 같아요.
+keepertropical_byzantine.greeting=안녕하세요, 여행자님. 어떻게 이런 외진 곳까지 오셨는지 궁금하네요.
+keepertropical_byzantine.greeting=누가 여기에 보초를 세워야 한다고 생각했을까요...
+
+lumberman_byzantine.bringbackresourceshome=이 정도면 마을이 번창하기에 충분했으면 좋겠네요!
+lumberman_byzantine.bringbackresourceshome=저는 정말 잘나가는 벌목꾼이에요, 가방이 통나무로 가득 찼지요!
+lumberman_byzantine.bringbackresourceshome=통나무를 잔뜩 들고 있는데 왜인지 무겁지 않네요.
+lumberman_byzantine.bringbackresourceshome=일을 아주 잘 해냈어요.
+lumberman_byzantine.bringbackresourceshome=내가 가져온 이 많은 나무를 보면 아내가 자랑스러워할 거예요.
+
+lumberman_byzantine.choptrees=여기 모든 건물에는 나무가 필요해요, 그걸 구하는 게 제 일이지요!
+lumberman_byzantine.choptrees=또 한 그루 쓰러뜨렸어요, 마을에 쓸 나무가 더 많아졌네요!
+lumberman_byzantine.choptrees=한 그루 더 쓰러뜨렸어요, 마을에 쓸 나무가 더 많아졌네요!
+lumberman_byzantine.choptrees=$name님, 나무 베어보신 적 있어요?
+lumberman_byzantine.choptrees=촙파 나무로 가라!
+lumberman_byzantine.choptrees=죽어라 나무, 죽어! 하하하! 죽어! 죽어! 죽어! 하- 어, 안녕하세요 $name님! 아무것도... 이상한 일... 없어요, 여기.
+lumberman_byzantine.choptrees=널 죽이고 싶진 않지만, 그래야만 해... 안녕, 나무야!
+lumberman_byzantine.choptrees=$name님, 여기서 베어낸 나무들이 왜 떠다니는지 생각해본 적 있으세요? 정말 이상해요. 뭘 해도 항상 떠다니고, 위로 조금씩 부숴 올라가야 해서, 정말 골치 아파요.
+
+lumberman_byzantine.gathergoods=이봐요 $name님! 그건 가져가지 마세요!
+lumberman_byzantine.gathergoods=이번에는 나무들이 잘 자라서 통나무와 묘목이 정말 많아요.
+lumberman_byzantine.gathergoods=마을에서 이 통나무들 다 필요로 했으면 좋겠네요.
+lumberman_byzantine.gathergoods=정말 큰 나무였어요! 이제 마을이 통나무를 쓸 수 있겠네요.
+lumberman_byzantine.gathergoods=나무들을 베어서 얻은 이 새 통나무와 묘목들 좀 보세요!
+lumberman_byzantine.gathergoods=저기 좋은 묘목이 있네요.
+
+lumberman_byzantine.plantsaplings=이 묘목들은 너무 작아서, 가끔은 이게 그렇게 크게 자란다는 게 믿기지 않아요.
+lumberman_byzantine.plantsaplings=이 작은 묘목아, 너무 귀여워서 네가 다 자라면 내가 베어버릴 거라는 걸 잊을 뻔했어.
+lumberman_byzantine.plantsaplings=$name님, 묘목 심어보실래요?
+lumberman_byzantine.plantsaplings=여기 나무들은 정말 빨리 자라요, 며칠 만에 이 작은 묘목이 다 큰 나무가 되지요.
+lumberman_byzantine.plantsaplings=심기는 가장 쉬운 일이에요, 그냥 땅에 놓기만 하면 되거든요.
+lumberman_byzantine.plantsaplings=곧 크고 웅장한 나무가 될 거예요! 그러면 제가 베어낼 거고요.
+
+merchant_art.greeting=세상 그 어떤 도시도 콘스탄티노폴리스의 아름다움과 위엄에 견줄 수 없어요.
+merchant_art.greeting=우리가 마지막 진정한 로마인이에요!
+
+miner_byzantine.mining=제 일은 돌을 캐서 제련소로 가져가는 거예요, 그게 다예요.
+miner_byzantine.mining=매일 곡괭이질을 하니까 팔이 아파요.
+miner_byzantine.mining=한 블록, 두 블록, 세 블록, 네 블록, 끝이 없어요. 그저 같은 일의 반복이에요.
+miner_byzantine.mining=한 블록, 두 블록, 세-잠깐, 저게 금이에요? 진짜요? 금을 찾았어요! 금이에요! 금! 부자가 됐어요! 하하-아, 그냥 빛이 잘못 비친 철이었네요. 다시 철과 석탄을 캐러...
+miner_byzantine.mining=여든 블록, 여든한 블록, 여든두 블록, 여든세 블록...
+miner_byzantine.mining=이봐요! 어떻게 그렇게 많은 블록을 들고 그렇게 빨리 캐세요? 저는 $name님이 하루에 하는 일에 몇 시간씩 걸려요.
+miner_byzantine.mining=*콜록* *콜록*, 석탄을 다루는 일은 정말 싫어요.
+miner_byzantine.mining=이 일에는 힘과 끈기가 필요해요. 하지만 여기서는 아무도 알아주지 않지요...
+miner_byzantine.mining=이렇게 힘든 일을 하더라도, 영광스러운 제국을 위해 일하는 로마 시민이라는 게 자랑스러워요.
+
+metropolit_byzantine.makebooks=제 책들은 둘째가라면 서러운 최고의 필사본이에요.
+
+metropolit_byzantine.gopray=주님은 왜 저를 가장 귀한 종으로 삼으셨을까요?
+metropolit_byzantine.gopray=총대주교로서 저는 기도를 이끌어야 해요.
+metropolit_byzantine.gopray=주님께서 겪으시는 고충을 저도 이해해요.
+metropolit_byzantine.gopray=주님께서는 총대주교들의 고충을 이해하시죠.
+metropolit_byzantine.gopray=우리 마을은 주님의 응답이 필요해요!
+
+metropolit_byzantine.gorest=모두에게 잠은 필요해요, 특히 마을의 지도자라면 더더욱요.
+metropolit_byzantine.gorest=*하품* 피곤하면 사제들을 이끌 수가 없어요.
+
+metropolit_byzantine.inspectconstruction=마을이 주님께 가까워지는 모습을 보는 것, 그게 아름다움이에요.
+
+pastor_byzantine.makebooks=제 책들은 둘째가라면 서러운 최고의 필사본이에요.
+
+//smith_byzantine.MakeIndianTools=Roman tools are the best in world.
+
+smith_byzantine.gopray=좋은 대장장이는 가끔 기도를 드려야 해요.
+smith_byzantine.gopray=주님은 왜 저를 대장장이로 만드셨을까요?
+smith_byzantine.gopray=기도는 로마 공예의 중요한 부분이에요.
+smith_byzantine.gopray=주님께서는 대장장이의 고충을 이해하시죠.
+
+smith_byzantine.gorest=내일은 더 멋진 것들을 만들 거예요!
+smith_byzantine.gorest=오늘은 공예 일을 그만할래요.
+smith_byzantine.gorest=어쩌면 꿈에서 세상 최고의 도구를 만들게 될지도 몰라요!
+
+smith_byzantine.gosocialise=혹시 제가 만들어드릴 게 필요한 분 없는지 물어볼래요.
+smith_byzantine.gosocialise=마을 사람들이 제 도구를 좋아해줬으면 좋겠어요.
+
+smith_byzantine.godrink=공예는 그만! 포도주가 필요해요!
+smith_byzantine.godrink=영감을 얻으려면 한 잔 해야 해요!
+smith_byzantine.godrink=좋은 대장장이는 하루 끝에 한 잔이 필요하지요.
+smith_byzantine.godrink=공예 일을 하다 보면 포도주가 당겨요.
+
+smith_byzantine.makesteelaxe=도끼 없이는 나무를 벨 수 없어요!
+smith_byzantine.makesteelaxe=저는 멋진 도끼를 만들지요.
+smith_byzantine.makesteelaxe=로마 도끼는 세상에서 손꼽히게 좋아요!
+smith_byzantine.makesteelaxe=벌목꾼들은 우리가 만든 도끼를 필요로 해요.
+smith_byzantine.makesteelaxe=$name님은 도끼를 어떻게 만드세요?
+
+smith_byzantine.makesteelhoe=농기구 없이는 농사를 지을 수 없어요!
+smith_byzantine.makesteelhoe=저는 멋진 농기구를 만들지요.
+smith_byzantine.makesteelhoe=로마 농기구는 세상에서 손꼽히게 좋아요!
+smith_byzantine.makesteelhoe=농부들은 우리가 만든 도구를 필요로 해요.
+smith_byzantine.makesteelhoe=$name님은 농기구를 어떻게 만드세요?
+
+smith_byzantine.makesteelpickaxe=곡괭이 없이는 광질을 할 수 없어요!
+smith_byzantine.makesteelpickaxe=저는 튼튼한 곡괭이를 만들지요.
+smith_byzantine.makesteelpickaxe=로마 곡괭이는 세상에서 손꼽히게 좋아요!
+smith_byzantine.makesteelpickaxe=광부들은 우리가 만든 곡괭이를 필요로 해요.
+smith_byzantine.makesteelpickaxe=$name님은 곡괭이를 어떻게 만드세요?
+
+smith_byzantine.makesteelshovel=삽 없이는 짓거나 파낼 수 없어요!
+smith_byzantine.makesteelshovel=저는 튼튼한 삽을 만들지요.
+smith_byzantine.makesteelshovel=로마 삽은 세상에서 손꼽히게 좋아요!
+smith_byzantine.makesteelshovel=건축가들은 우리가 만든 삽을 필요로 해요.
+smith_byzantine.makesteelshovel=$name님은 삽을 어떻게 만드세요?
+
+villager.greeting=안녕하세요, $name님!
+villager.greeting=날씨 좋지요?
+villager.greeting=곧 비가 올 거예요.
+villager.greeting=콘스탄티노폴리스에 비할 도시는 세상에 없어요.
+villager.greeting=우리는 그리스인이 아니라 로마인이에요.
+villager.greeting=우리는 마지막 진정한 로마인이에요.
+villager.greeting=여기 머무시는 동안 우리 문명의 영광을 만끽하세요.
+villager.greeting=마을에 오신 걸 환영해요, $name님!
+villager.greeting=저기 보세요! $name님이 오셨어요!
+villager.greeting=우리는 마지막 진정한 로마인입니다. 우리 문명의 빛 속에서 목욕하세요.
+
+villager.becomeadult=드디어 로마 시민이 되었어요!
+
+villager.huntmonster=이 야만인을 죽여야 해요!
+
+villager.goplay=밖에 나가서 놀아야겠어요.
+villager.goplay=이제 놀러 갈래요.
+villager.goplay=$name님! 저랑 놀래요?
+villager.goplay=달리고 싶어요!
+
+villager.calltoarms=로마 제국이 공격받고 있어요! 무기를 들어요!
+villager.calltoarms=야만인들이 왔어요! 무슨 일이 있어도 마을을 지킵시다!
+
+villager.childeatgrapes=맹세컨대 이 포도들은 저절로 떨어진 거예요!
+
+villager.childobservevines=어른들은 맛있는 포도로 그 끔찍한 포도주를 만들어 낭비하는 짓을 그만둬야 해!
+villager.childobserveconstruction=언젠가 콘스탄티노폴리스에 가서 진짜 로마 건축물을 볼 거야!
+villager.childobserveproducealcohol=포도주 한 번 마셔봤는데, 끔찍한 맛이야.
+
+villager.gorest=잠을 안 자면 사고가 날 수도 있어요.
+villager.gorest=피곤해요. 집에 가서 자야겠어요.
+villager.gorest=이제 자러 가야겠어요.
+
+villager.makebread=벌써 빵 냄새가 좋네요...
+
+villager.gopray=성령께서 저를 인도하시지요.
+villager.gopray=오, 천상의 자비로우신 주님.
+villager.gopray=사람들이 경배하고, 사제들이 찬송해요!
+villager.gopray=성모 마리아여, 거룩하신 어머니여!
+villager.gopray=성모 마리아여, 영광스러운 승리의 지휘관이시여!
+villager.gopray=악으로부터 저를 구원하시는 분께 감사드립니다...
+villager.gopray=백성들은 끝없는 영원토록 그대를 위해 기도할 것입니다, 아멘.
+
+villager.godrink=신선한 로마 포도주 한 잔 하러 갈 시간이에요!
+villager.godrink=한 잔 해야겠어요.
+villager.godrink=포도주가 제 시름을 씻어줄 거예요.
+villager.godrink=로마 포도주가 세상에서 제일이라는 거 아세요?
+villager.godrink=한 잔 안 한 지 오래됐네요.
+
+wife_byzantine.delivergoodshousehold=이런 일들이 여기서 제가 할 수 있는 유일한 일이에요.
+wife_byzantine.gethousethresources=남편이 마침내 시킨 대로 자재를 가져왔네요.
+wife_byzantine.cooking=요리는 정말 재밌어요.
+wife_byzantine.getgoodshousehold=가족을 돌볼 시간이에요.
+wife_byzantine.greeting=제가 남자였다면 여기서 훨씬 많은 걸 할 수 있을 텐데, 만약...
+wife_byzantine.greeting=우리의 임무는 우리 남자들을 단속하는 거예요.
+
+villager.givespeech=로마 제국은 위대하고, 우리 마을은 가장 위대해요.
+villager.givespeech=우리 마을은 모든 위대함에 대해 지도자에게 감사해야 해요.
+villager.givespeech=우리 로마인들에게는 최고의 지도자와 최고의 백성이 있습니다.
+
+villager.listentospeech=그의 말이 맞아요!
+villager.listentospeech=우리에게 영광을!
+villager.listentospeech=우리는 그 누구도 이길 수 있어요!
+villager.listentospeech=주님과 우리의 천부적인 지도자께 영광을!
+
+special_byzantine.greeting=그대의 충성은 보답받을 것이다, $name.
+special_byzantine.calltoarms=운을 시험하지 마라, 아이야.
+special_byzantine.gopray=내 앞에 무릎 꿇어라...
+
+oldshepherd_byzantine.greeting=신념 덕분에 여기까지 올 수 있었어요...
+oldshepherd_byzantine.greeting=$name님, 제 꿈을 이루도록 도와주시면 보답해드리겠습니다…
+oldshepherd_byzantine.calltoarms=보스코크라토르를 위하여!
+oldshepherd_byzantine=거룩한 보스코크라토르여, 부디 저와 제 양들을 축복하소서.
+
+merchant_armour.greeting=최고급 갑옷과 무기만 팝니다!
+merchant_armour.keepstall=어서 오세요, 어서 오세요! 최고의 검을 가져왔습니다!
+
+merchant_dyes.greeting=매일같이 온갖 색을 가지고 다닙니다! 잠깐, 저는 인도인이 아닌데요.
+merchant_dyes.keepstall=와서 보세요! 세계 각지의 염료입니다!
+
+merchant_food.greeting=맛있는 수블라키 한 입 어떠세요, $name님?
+merchant_food.keepstall=원하는 음식이 다 있어요!
+
+merchant_materials.greeting=최고급 건축 자재를 사가세요! 저와 제 허리가 감사드릴 거예요.
+merchant_materials.keepstall=모래, 돌, 벽돌! 섬록암과 석영!
+
+merchant_relics.greeting=귀중한 공예품과 성스러운 물건을 팔아요, $name님.
+merchant_relics.keepstall=와서 로마 공예의 정수를 보고 가세요.
+
+merchant_textiles.greeting=진심이세요, $name님? 그 가죽으로요?
+merchant_textiles.keepstall=콘스탄티노폴리스에서나 볼 법한 멋진 양탄자와 옷이에요!
+
+loneabbot_byzantine.greeting=어서 오세요, $name님. 여행의 피로를 푸세요, 여기서는 안전합니다.
+lonemonk_byzantine.greeting=드릴 것이 아무것도 없네요, $name님.
+
+loneabbot_byzantine.gosocialise=어서 제 학식을 나누고 싶어요.
+
+lonemonk_byzantine.gosocialise=어서 제 학식을 나누고 싶어요.
+lonemonk_byzantine.plantseeds=주님께서 이 씨앗들을 축복해주시길.
+lonemonk_byzantine.collectcrop=이 작물들은 주님께서 직접 내려주신 선물이에요.
+lonemonk_byzantine.makebread=이 빵으로 성자의 위대한 희생이 시작될 거예요.
+
+villager.plantseeds=올해는 풍성한 수확이 있을 것 같아요.
+villager.collectcrop=그럴 줄 알았어요! 풍성한 수확이네요!
+
+villager.gostudy=$name님, 부디 방해하지 말아주세요.
+
+villager.gotreerelax=이 그늘진 곳이 딱 좋네요...
+villager.gotreerelax=이 나무 아래에서 하루 종일 있을 수도 있을 것 같아요...
+
+villager.relight=주님의 사랑만이 제가 바라는 전부예요!
+villager.golookout=오늘 배가 한 척 들어올 거예요. 그건 제가 알아요.
+villager.golookout=지루한 일이지만, 그래도 돈은 받으니까요.
+villager.sellercoming=지금 곧장 갑니다!
+villager.tradecomplete=정말 감사합니다, 거래 잘 되세요!

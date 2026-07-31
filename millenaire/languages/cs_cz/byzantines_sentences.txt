@@ -1,0 +1,529 @@
+architect_byzantine.construction=$name! Věděl jsi, že Římané jsou nejlepší architekti?
+architect_byzantine.construction=$name! Podívej, jak postavím krásnou stavbu.
+architect_byzantine.construction=Tahle stavba bude nádherná!
+architect_byzantine.construction=Není to hotové, ale už teď vidím krásu ve své práci.
+architect_byzantine.construction=Stavím tak propracované stavby. Stavění je opravdu nejkrásnější forma umění.
+architect_byzantine.construction=Řím nebyl postaven za den, postavil se blok po bloku.
+architect_byzantine.construction=Naše architektura je nadřazená všem ostatním stavbám na světě.
+architect_byzantine.construction=Stavět po římsku je ten nejlepší způsob.
+architect_byzantine.construction=Líbí se ti můj styl?
+architect_byzantine.construction=Stavím už déle, než si vůbec pamatuji. Stavění se stalo mým životem.
+
+architect_byzantine.getresourcesforbuild=Odkud vesnice tyhle bloky bere?
+architect_byzantine.getresourcesforbuild=Potřebuju bloky, abych mohl stavět ty nejlepší stavby!
+architect_byzantine.getresourcesforbuild=Každá stavba začíná blokem.
+architect_byzantine.getresourcesforbuild=Bloky si musím sám pečlivě vybírat.
+architect_byzantine.getresourcesforbuild=Jak nosíš tolik bloků, když stavíš, příteli?
+architect_byzantine.getresourcesforbuild=Nejhorší část stavění je shánění materiálu.
+
+architect_byzantine.godrink=Dost se stavěním! Potřebuju víno!
+architect_byzantine.godrink=Potřebuju se napít, ať mám inspiraci!
+architect_byzantine.godrink=Každý dobrý architekt potřebuje na konci dne sklenku.
+architect_byzantine.godrink=Po stavění mám žízeň na víno.
+
+architect_byzantine.gopray=Doufám, že mi Bůh dá inspiraci pro mou další stavbu!
+architect_byzantine.gopray=Proč ze mě Bůh udělal architekta?
+architect_byzantine.gopray=Modlitba je důležitou součástí římského stavění.
+architect_byzantine.gopray=On chápe starosti architektů.
+
+architect_byzantine.gorest=Když se nevyspím, mohl bych něco zkazit při stavbě.
+architect_byzantine.gorest=Když jsem unavený, nemůžu stavět.
+architect_byzantine.gorest=V noci se těžko staví.
+architect_byzantine.gorest=Pro dnešek jsem se stavěním skončil.
+architect_byzantine.gorest=Snad budu snít o tom, jak stavím nejlepší budovy na světě!
+
+architect_byzantine.gosocialise=Nikdo v téhle vesnici nechápe starosti stavění.
+architect_byzantine.gosocialise=Každý architekt potřebuje inspiraci od ostatních.
+architect_byzantine.gosocialise=Architekti potřebují zpětnou vazbu, aby vzkvétali.
+architect_byzantine.gosocialise=Co si vesnice myslí o mých stavbách?
+
+//armysmith_byzantine.MakeIndianTools=Roman tools are the best in world.
+armysmith_byzantine.makebyzantinemace=Neútoč na nikoho, kdo používá mé zbraně.
+armysmith_byzantine.makebyzantinemace=Tenhle palcát odpálí barbary daleko!
+armysmith_byzantine.makebyzantinemace=Vyrobit palcát je těžší než s ním máchat.
+armysmith_byzantine.makebyzantinemace=Vojsko potřebuje palcáty.
+
+armysmith_byzantine.gopray=Dobrý kovář se musí občas pomodlit.
+armysmith_byzantine.gopray=Proč ze mě Bůh udělal kováře?
+armysmith_byzantine.gopray=Modlitba je důležitou součástí římského řemesla.
+armysmith_byzantine.gopray=On chápe starosti kovářů.
+
+armysmith_byzantine.gorest=Zítra ukuju ještě krásnější věci!
+armysmith_byzantine.gorest=Pro dnešek jsem s řemeslem skončil.
+armysmith_byzantine.gorest=Možná se mi bude zdát o kování nejlepších zbraní na světě!
+armysmith_byzantine.gorest=Možná se mi bude zdát o kování nejlepší zbroje na světě!
+armysmith_byzantine.gorest=Snad budu snít o tom, jak kovám nejlepší nástroje na světě!
+
+armysmith_byzantine.gosocialise=Pozeptám se, jestli někdo nepotřebuje, abych mu něco ukoval.
+armysmith_byzantine.gosocialise=Doufám, že vesnice ocení mé nástroje.
+
+armysmith_byzantine.godrink=Dost s řemeslem! Potřebuju víno!
+armysmith_byzantine.godrink=Potřebuju se napít, ať mám inspiraci!
+armysmith_byzantine.godrink=Každý dobrý kovář potřebuje na konci dne sklenku.
+armysmith_byzantine.godrink=Po kovařině mám žízeň na víno.
+
+armysmith_byzantine.makearrow=$name, používáš na svých cestách hodně šípů?
+armysmith_byzantine.makearrow=Každý luk potřebuje pořádný šíp.
+armysmith_byzantine.makearrow=Každý šíp, který vyrobím, ublíží jednomu nepříteli Říše.
+armysmith_byzantine.makearrow=Římské vojsko potřebuje šípy, aby nás chránilo před cizinci.
+
+armysmith_byzantine.makebow=Římská armáda potřebuje luky.
+armysmith_byzantine.makebow=Hej příteli! Líbí se ti moje luky?
+armysmith_byzantine.makebow=Každý dobrý luk pochází z toho nejlepšího dřeva.
+armysmith_byzantine.makebow=Tento luk porazí mnoho barbarů. Jsem vskutku mistr lukař.
+
+armysmith_byzantine.makebyzantineboots=Římská armáda potřebuje boty!
+armysmith_byzantine.makebyzantineboots=Římané vyrábějí nejlepší boty na světě.
+armysmith_byzantine.makebyzantineboots=Někdo musí vyrábět boty pro vojáky...
+armysmith_byzantine.makebyzantineboots=Vyrábíme nejlepší boty.
+armysmith_byzantine.makebyzantineboots=Hej příteli! Líbí se ti moje boty?
+armysmith_byzantine.makebyzantineboots=Připadám si jako příliš opěvovaný švec.
+armysmith_byzantine.makebyzantineboots=Každá část zbroje je důležitá! I boty, které ti chrání nohy!
+
+armysmith_byzantine.makebyzantinechest=Římská armáda potřebuje pancíře!
+armysmith_byzantine.makebyzantinechest=Římané vyrábějí nejlepší pancíře na světě.
+armysmith_byzantine.makebyzantinechest=Hej příteli! Líbí se ti moje brnění?
+armysmith_byzantine.makebyzantinechest=Vyrábíme nejlepší brnění.
+armysmith_byzantine.makebyzantinechest=Tohle by mělo vydržet víc ran než ty.
+armysmith_byzantine.makebyzantinechest=Připadám si jako příliš opěvovaná švadlena.
+
+armysmith_byzantine.makebyzantinehelmet=Římská armáda potřebuje helmy!
+armysmith_byzantine.makebyzantinehelmet=Někdo musí vyrábět vojákům helmy...
+armysmith_byzantine.makebyzantinehelmet=Římané vyrábějí nejlepší boty na světě.
+armysmith_byzantine.makebyzantinehelmet=Hej příteli! Líbí se ti moje helmy?
+armysmith_byzantine.makebyzantinehelmet=Vyrábíme nejlepší helmy.
+armysmith_byzantine.makebyzantinehelmet=Připadám si jako příliš opěvovaný kloboučník.
+
+armysmith_byzantine.makebyzantinelegs=Římská armáda potřebuje nohavice!
+armysmith_byzantine.makebyzantinelegs=Někdo musí šít vojákům nohavice...
+armysmith_byzantine.makebyzantinelegs=Římané vyrábějí nejlepší nohavice na světě.
+armysmith_byzantine.makebyzantinelegs=Hej příteli! Líbí se ti moje nohavice?
+armysmith_byzantine.makebyzantinelegs=Vyrábíme nejlepší nohavice.
+armysmith_byzantine.makebyzantinelegs=Připadám si jako příliš opěvovaný krejčí kalhot.
+
+armysmith_byzantine.makesteelaxe=Bez sekery nemůžeš porážet stromy!
+armysmith_byzantine.makesteelaxe=Kovám úžasné sekery.
+armysmith_byzantine.makesteelaxe=Římské sekery patří k nejlepším na světě!
+armysmith_byzantine.makesteelaxe=Drvoštěpi nás potřebují, abychom jim kovali sekery.
+armysmith_byzantine.makesteelaxe=Jak kováš své sekery, příteli $name?
+
+armysmith_byzantine.makesteelhoe=Bez zemědělského nářadí se nedá hospodařit!
+armysmith_byzantine.makesteelhoe=Vyrábím úžasné zemědělské nářadí.
+armysmith_byzantine.makesteelhoe=Římské zemědělské nářadí patří k nejlepšímu na světě!
+armysmith_byzantine.makesteelhoe=Sedláci nás potřebují, abychom jim kovali nářadí.
+armysmith_byzantine.makesteelhoe=Jak vyrábíš své zemědělské nářadí, příteli $name?
+
+armysmith_byzantine.makesteelpickaxe=Bez krumpáče se nedá dolovat!
+armysmith_byzantine.makesteelpickaxe=Kovám pevné krumpáče.
+armysmith_byzantine.makesteelpickaxe=Římské krumpáče patří k nejlepším na světě!
+armysmith_byzantine.makesteelpickaxe=Horníci nás potřebují, abychom jim kovali krumpáče.
+armysmith_byzantine.makesteelpickaxe=Jak kováš své krumpáče, příteli $name?
+
+armysmith_byzantine.makesteelshovel=Bez lopaty se nedá stavět ani kopat!
+armysmith_byzantine.makesteelshovel=Vyrábím odolné lopaty.
+armysmith_byzantine.makesteelshovel=Římské lopaty patří k nejlepším na světě!
+armysmith_byzantine.makesteelshovel=Architekti nás potřebují, abychom jim vyráběli lopaty.
+armysmith_byzantine.makesteelshovel=Jak vyrábíš své lopaty, příteli $name?
+
+//artisan_byzantine.makePainting=Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=Dobrý řemeslník se musí občas pomodlit.
+artisan_byzantine.gopray=Proč ze mě Bůh udělal řemeslníka?
+artisan_byzantine.gopray=Modlitba je důležitou součástí římského řemesla.
+artisan_byzantine.gopray=On chápe starosti řemeslníků.
+
+artisan_byzantine.gorest=Zítra vyrobím ještě krásnější věci!
+artisan_byzantine.gorest=Pro dnešek jsem s řemeslem skončil.
+artisan_byzantine.gorest=Možná se mi bude zdát o výrobě nejlepších cihel na světě!
+artisan_byzantine.gorest=Snad budu snít o tom, jak vyrábím nejlepší dlaždice na světě!
+
+artisan_byzantine.gosocialise=Pozeptám se, jestli někdo nepotřebuje, abych mu něco vyrobil.
+artisan_byzantine.gosocialise=Doufám, že vesnice ocení mé dlaždice.
+artisan_byzantine.gosocialise=Doufám, že vesnice ocení mé cihly.
+
+artisan_byzantine.godrink=Dost s řemeslem! Potřebuju víno!
+artisan_byzantine.godrink=Potřebuju se napít, ať mám inspiraci!
+artisan_byzantine.godrink=Každý dobrý řemeslník potřebuje na konci dne sklenku.
+artisan_byzantine.godrink=Po řemeslné práci mám žízeň na víno.
+
+artisan_byzantine.greeting=Žiju lépe než kdokoli jiný v téhle vesnici.
+artisan_byzantine.greeting=Zdravím, příteli $name! Potřebuješ snad jedinečné římské bloky?
+
+artisan_byzantine.makebrick=Někdo musí vyrábět cihly.
+artisan_byzantine.makebrick=Vesnice mě potřebuje, abych dělal cihly do jejich zdí.
+artisan_byzantine.makebrick=Římské cihly patří k nejkrásnějším blokům na světě!
+artisan_byzantine.makebrick=My dřeme v ústraní, zatímco stavitelé sklízí veškerou slávu.
+artisan_byzantine.makebrick=Ani ti nejlepší stavitelé nepostaví nic bez bloků.
+artisan_byzantine.makebrick=Kdo to vymyslel, dělat z hlíny cihly?
+
+artisan_byzantine.makebookshelves=Někdo musí dávat knihy na police.
+artisan_byzantine.makebookshelves=Vesnice mě potřebuje, abych jim vyráběl knihovny.
+artisan_byzantine.makebookshelves=Římské knihy patří k nejlepším čtivům na světě!
+artisan_byzantine.makebookshelves=My dřeme v ústraní, zatímco spisovatelé sklízí veškerou slávu.
+artisan_byzantine.makebookshelves=Někdy si knihy prohlížím, než je dám na polici, kéž bych uměl číst.
+artisan_byzantine.makebookshelves=Kdo to vymyslel, sepisovat věci?
+
+artisan_byzantine.makebyzantinetiles=Někdo musí dělat střešní tašky.
+artisan_byzantine.makebyzantinetiles=Vesnice mě potřebuje, abych jim dělal střechy.
+artisan_byzantine.makebyzantinetiles=Římské tašky patří k nejkrásnějším blokům na světě!
+artisan_byzantine.makebyzantinetiles=My dřeme v ústraní, zatímco stavitelé sklízí veškerou slávu.
+artisan_byzantine.makebyzantinetiles=Ani ti nejlepší stavitelé nepostaví nic bez bloků.
+artisan_byzantine.makebyzantinetiles=Kdo to vymyslel, dělat z hlíny střechy?
+
+artisanwife_byzantine.gopray=Modlitba je důležitou součástí římského řemesla.
+artisanwife_byzantine.gopray=Doufám, že mi Bůh pomůže ušít ty nejlepší šaty!
+artisanwife_byzantine.gopray=Proč Bůh stvořil ženu architekta?
+
+artisanwife_byzantine.gosocialise=Och! Tomuhle týpkovi jsem ušila tu košili!
+artisanwife_byzantine.gosocialise=Tady jsem známá jako manželka architekta.
+artisanwife_byzantine.gosocialise=Už mě nebaví být známá jako "žena architekta".
+
+artisanwife_byzantine.makeclothes_byz_silk=Vyrábím jedny z nejlepších šatů ve vesnici!
+artisanwife_byzantine.makeclothes_byz_silk=Římské hedvábí je nejlepší látka na světě!
+artisanwife_byzantine.makeclothes_byz_silk=Hedvábné oblečení je důležitější než parádní dům.
+artisanwife_byzantine.makeclothes_byz_silk=$name, nosil jsi někdy hedvábí?
+artisanwife_byzantine.makeclothes_byz_silk=Každý potřebuje oblečení, zvlášť pokud chceš být civilizovaný.
+artisanwife_byzantine.makeclothes_byz_silk=Pravá krása není v blocích, krása je v šatech.
+artisanwife_byzantine.makeclothes_byz_silk=Má to důvod, proč to tkám já a ne můj manžel.
+artisanwife_byzantine.makeclothes_byz_silk=Tkaní hedvábných šatů je jen pro ty nejvznešenější ženy.
+artisanwife_byzantine.makeclothes_byz_silk=Jsem ráda, že mám konečně skutečnou práci.
+
+artisanwife_byzantine.makeclothes_byz_wool=Vyrábím jedny z nejlepších vlněných šatů ve vesnici!
+artisanwife_byzantine.makeclothes_byz_wool=Pěkné oblečení je důležitější než parádní dům.
+artisanwife_byzantine.makeclothes_byz_wool=$name, nosil jsi někdy vlnu?
+artisanwife_byzantine.makeclothes_byz_wool=Pravá krása není v blocích, krása je v šatech.
+artisanwife_byzantine.makeclothes_byz_wool=Každý potřebuje oblečení, zvlášť pokud chceš být civilizovaný.
+artisanwife_byzantine.makeclothes_byz_wool=Má to důvod, proč to tkám já a ne můj manžel.
+artisanwife_byzantine.makeclothes_byz_wool=Ne každá žena umí tkát vlnu.
+artisanwife_byzantine.makeclothes_byz_wool=Jsem ráda, že mám konečně skutečnou práci.
+
+artisanwife_byzantine.delivergoodshousehold=Takové věci jsou jediné, co tu mohu dělat.
+artisanwife_byzantine.gethousethresources=Manžel mi konečně přinesl materiál, jak jsem mu řekla.
+artisanwife_byzantine.getgoodshousehold=Je čas postarat se o rodinu.
+artisanwife_byzantine.greeting=Mohla bych tu dělat tolik víc, kdybych byla muž, jen kdyby...
+artisanwife_byzantine.greeting=Naším úkolem je krotit naše muže.
+
+baron_byzantine.greeting=$name, má vesnice má v prodeji ty nejlepší věci!
+baron_byzantine.greeting=Zdravím, bohatý cestovateli!
+baron_byzantine.greeting=Chceš mi pomoci dohlížet na sedláky, příteli $name?
+
+baron_byzantine.godrink=Dost s vládnutím! Potřebuju se napít.
+baron_byzantine.godrink=Zasloužím si pít to nejlepší víno!
+baron_byzantine.godrink=Měl bych zkontrolovat, jestli taverna vynáší.
+baron_byzantine.godrink=Každý mocný člověk musí pít, jinak by zemřel ze stresu!
+
+baron_byzantine.gopray=Proč ze mě Bůh udělal barona?
+baron_byzantine.gopray=Modlitba je důležitou součástí římského vládnutí.
+baron_byzantine.gopray=On chápe starosti baronů.
+baron_byzantine.gopray=Má vesnice potřebuje odpovědi od Boha!
+
+baron_byzantine.gorest=Dost s těmi sedláky! Potřebuju se vyspat.
+baron_byzantine.gorest=*zívnutí* Nemůžu vést sedláky, když jsem unavený.
+baron_byzantine.gorest=Je čas zalehnout pod hedvábnou peřinu.
+baron_byzantine.gorest=Každý potřebuje spánek, zvláště když je vůdcem vesnice.
+
+baron_byzantine.gosocialise=Proč mě ti hloupí sedláci vidí jen jako "barona"?
+baron_byzantine.gosocialise=Che che che, podíváme se, jestli zaplatil daně.
+baron_byzantine.gosocialise=Je čas inspirovat chudé, aby si vydělali denáry!
+baron_byzantine.gosocialise=Musím opravdu mluvit s prostým lidem?
+baron_byzantine.gosocialise=Jako baron musím hovořit se svým lidem, i když se mi nechce.
+
+baron_byzantine.inspectconstruction=Musím se ujistit, že to sedláci někde nepokazili.
+baron_byzantine.inspectconstruction=Tahle stavba přinese mé vesnici zisk.
+baron_byzantine.inspectconstruction=Krása je dívat se, jak tvoje vesnice bohatne.
+baron_byzantine.inspectconstruction=Vím, že Řím nebyl postaven za den, ale proč je můj architekt tak pomalý?
+baron_byzantine.inspectconstruction=Je mou prací dohlížet na to, aby se stavby stavěly správně.
+baron_byzantine.inspectconstruction=Moji architekti obvykle dělají dobrou práci, ale musím je vždy kontrolovat.
+
+boy_byzantine.becomeadult=Je čas stát se silným mužem!
+boy_byzantine.becomeadult=Jsem dost starý na to, abych pracoval!
+boy_byzantine.becomeadult=Teď potřebuju práci.
+boy_byzantine.becomeadult=Mé dny chlapeckého věku jsou pryč.
+
+boy_byzantine.goplay=Chci s někým bojovat!
+boy_byzantine.goplay=Chci si zahrát na "Pobij barbara"!
+boy_byzantine.goplay=Ukážu všem, že jsem velký a silný!
+boy_byzantine.goplay=Je čas hrát si na "vojáka".
+
+boy_byzantine.gopray=Chci se dozvědět o Bohu!
+boy_byzantine.gopray=Může mi Bůh povědět něco o dospělých?
+boy_byzantine.gopray=Jak se vlastně modlí?
+boy_byzantine.gopray=Nechci se modlit! Chci si raději hrát!
+
+boy_byzantine.childobservesmithing=Až vyrostu, chci být také kovářem. Nebo vojákem. Nebo generálem!
+
+centurio_byzantine.godrink=Každý mocný člověk se musí napít, jinak umře ze stresu!
+centurio_byzantine.godrink=Jako voják potřebuju víno, jako centurion ještě víc.
+centurio_byzantine.godrink=Musím si odpočinout, jinak budu k ničemu, až přijdou barbaři.
+
+centurio_byzantine.gopray=Proč ze mě Bůh udělal stratéga?
+centurio_byzantine.gopray=Modlitba je důležitou součástí římského válečnictví.
+centurio_byzantine.gopray=On chápe starosti stratégů.
+centurio_byzantine.gopray=Mé vojsko potřebuje odpovědi od Boha!
+
+centurio_byzantine.gorest=Dost s vedením vojáků! Potřebuju se vyspat.
+centurio_byzantine.gorest=Je čas sundat brnění a jít spát.
+centurio_byzantine.gorest=*zívnutí* Nemůžu vést vojáky, když jsem unavený.
+centurio_byzantine.gorest=Každý potřebuje spánek, zvláště když je vůdcem vesnice.
+
+centurio_byzantine.gosocialise=Je čas povzbudit vojákům morálku!
+centurio_byzantine.gosocialise=Dobrý způsob, jak si získat věrnost, je radit se se svými lidmi.
+centurio_byzantine.gosocialise=Potřebuju víc rekrutů do armády!
+centurio_byzantine.gosocialise=Mí podřízení musí znát mé obranné plány.
+centurio_byzantine.gosocialise=Mí podřízení musí znát mé útočné plány.
+centurio_byzantine.gosocialise=Lidé musí pochopit hrozbu barbarského útoku!
+centurio_byzantine.gosocialise=Musím všem připomenout, že máme být kdykoliv připraveni k boji!
+
+centurio_byzantine.huntmonster=I jako centurion nemůžu zrezivět v boji.
+centurio_byzantine.huntmonster=Kde jsou mí podřízení? Tohle by měli dělat oni.
+centurio_byzantine.huntmonster=Jsem stratég Římské říše a myslíš si, že mě porazíš? Ha!
+
+centurio_byzantine.inspectconstruction=Pohled na sílící vesnici je krása.
+
+farmiller_wife_byzantine.delivergoodshousehold=Takové věci jsou jediné, co tu mohu dělat.
+farmiller_wife_byzantine.gethousethresources=Manžel mi konečně přinesl materiál, jak jsem mu řekla.
+farmiller_wife_byzantine.getgoodshousehold=Je čas postarat se o rodinu.
+farmiller_wife_byzantine.greeting=Mohla bych tu dělat tolik víc, kdybych byla muž, jen kdyby...
+farmiller_wife_byzantine.greeting=Naším úkolem je krotit naše muže.
+
+girl_byzantine.childobserveproducefood=Je dobře, že muži nevaří, všechno by spálili.
+
+keeperbirch_byzantine.greeting=Je to tu tak nudné, nikdy se nic neděje...
+keeperbirch_byzantine.greeting=Mou prací je hlídat tyhle končiny.
+keeperbirch_byzantine.greeting=Zdravím tě, cestovateli, divím se, jak ses sem dostal.
+keeperbirch_byzantine.greeting=Kdo si jen myslel, že by tu měl někdo stát na stráži...
+
+keeperoak_byzantine.greeting=Tihle lidé, co si říkají Normané, mi připomínají naši slavnou říši.
+keeperoak_byzantine.greeting=Je to tu tak nudné, nikdy se nic neděje...
+keeperoak_byzantine.greeting=Mou prací je hlídat tyhle končiny.
+keeperoak_byzantine.greeting=Zdravím tě, cestovateli, divím se, jak ses sem dostal.
+keeperoak_byzantine.greeting=Kdo si jen myslel, že by tu měl někdo stát na stráži...
+
+keeperpine_byzantine.greeting=Ta zima je hrozná. Není divu, že tu nikdo není.
+keeperpine_byzantine.greeting=Je to tu tak nudné, nikdy se nic neděje...
+keeperpine_byzantine.greeting=Mou prací je hlídat tyhle končiny.
+keeperpine_byzantine.greeting=Zdravím tě, cestovateli, divím se, jak ses sem dostal.
+keeperpine_byzantine.greeting=Kdo si jen myslel, že by tu měl někdo stát na stráži...
+
+keepertropical_byzantine.greeting=Je to tu tak nudné, nikdy se nic neděje...
+keepertropical_byzantine.greeting=Mou prací je hlídat tyhle končiny.
+keepertropical_byzantine.greeting=Je tady tak vedro. Nechápu, jak ti Indové v téhle zemi žijou.
+keepertropical_byzantine.greeting=Viděl jsi někdy ty podivné Mayy? Jejich stavby vypadají, že se každou chvíli zhroutí.
+keepertropical_byzantine.greeting=Zdravím tě, cestovateli, divím se, jak ses sem dostal.
+keepertropical_byzantine.greeting=Kdo si jen myslel, že by tu měl někdo stát na stráži...
+
+lumberman_byzantine.bringbackresourceshome=Doufejme, že to bude stačit, aby vesnice prosperovala!
+lumberman_byzantine.bringbackresourceshome=Jsem velmi úspěšný drvoštěp, mám plný inventář klád!
+lumberman_byzantine.bringbackresourceshome=Nesu spoustu stromů, ale z nějakého důvodu vůbec nejsou těžké.
+lumberman_byzantine.bringbackresourceshome=To byla pořádně odvedená práce.
+lumberman_byzantine.bringbackresourceshome=Žena bude pyšná na všechno to dřevo, co nesu.
+
+lumberman_byzantine.choptrees=Každá stavba tady potřebuje dřevo, a sehnat ho je moje práce!
+lumberman_byzantine.choptrees=Další strom poražený, víc dřeva pro vesnici!
+lumberman_byzantine.choptrees=Ještě jeden strom dolů, víc dřeva pro vesnici!
+lumberman_byzantine.choptrees=$name, kácel jsi někdy strom?
+lumberman_byzantine.choptrees=Vezmi si tu sekeru ke stromu!
+lumberman_byzantine.choptrees=Chcípni, strome, chcípni! HAHAHA! Chcípni! Chcípni! Chcípni! Ha- Á, ahoj $name! Nic… divného… se tady neděje.
+lumberman_byzantine.choptrees=Nechci tě zabíjet, ale musím... Sbohem, strome!
+lumberman_byzantine.choptrees=Říkal sis někdy, proč tady poražené stromy plavou ve vzduchu, příteli $name? Je to moc zvláštní. Ať dělám, co dělám, vždycky plavou a musím je rozkouskovat odshora, je to taková otrava.
+
+lumberman_byzantine.gathergoods=Hej, příteli! Tohle si neber!
+lumberman_byzantine.gathergoods=Stromy tentokrát hezky vyrostly, tolik klád a sazenic.
+lumberman_byzantine.gathergoods=Doufám, že vesnice tyhle klády potřebuje.
+lumberman_byzantine.gathergoods=To byl pořádný strom! Vesnice teď využije jeho klády.
+lumberman_byzantine.gathergoods=Podívej se na všechny ty nové klády a sazenice, co jsem nasekal!
+lumberman_byzantine.gathergoods=Tamhle je pěkný sazenec.
+
+lumberman_byzantine.plantsaplings=Tyhle sazenice jsou tak malinké, někdy ani nevěřím, že se z nich stanou takoví obři.
+lumberman_byzantine.plantsaplings=Jsi tak roztomilá, malá sazenice, skoro mě necháváš zapomenout, že tě porazím, až vyrosteš.
+lumberman_byzantine.plantsaplings=$name, chceš zasadit sazenici?
+lumberman_byzantine.plantsaplings=Stromy tady rostou tak rychle, za pár dní se ze sazenice stane pořádný strom.
+lumberman_byzantine.plantsaplings=Sázení je nejjednodušší práce, stačí jen položit sazenice na zem.
+lumberman_byzantine.plantsaplings=Brzy z toho bude velký, mohutný strom! A já ho pak skácím.
+
+merchant_art.greeting=Žádné město na světě se nemůže srovnat s krásou a mocí Konstantinopole.
+merchant_art.greeting=My jsme poslední praví Římané!
+
+miner_byzantine.mining=Mojí prací je rozbíjet kameny a nosit je k tavbě, to je celé.
+miner_byzantine.mining=Bolí mě ruka z toho, jak každý den používám tenhle krumpáč.
+miner_byzantine.mining=Jeden blok, druhý blok, třetí blok, čtvrtý blok, nikdy to nekončí. Pořád to samé dokola.
+miner_byzantine.mining=Jeden blok, druhý blok, tři- počkat, to je zlato? Že jo? NAŠEL JSEM ZLATO! ZLATO! ZLATO! Jsem bohatý! HAHA- ach, jen železo se odráželo ve špatném světle. Zpátky k železu a uhlí...
+miner_byzantine.mining=Osmdesát bloků, osmdesát jedna bloků, osmdesát dva bloků, osmdesát tři bloků...
+miner_byzantine.mining=Hele! Jak nosíš tolik bloků a kopeš tak rychle? Mně trvá hodiny, co ty zvládneš za den.
+miner_byzantine.mining=*kašel* *kašel*, nesnáším práci s uhlím.
+miner_byzantine.mining=V téhle práci je třeba síla a vytrvalost. Ale nikdo si toho tady nevšimne...
+miner_byzantine.mining=Jsem hrdý na to, že jsem římský občan a pracuji pro slavnou Říši, i v této těžké práci.
+
+metropolit_byzantine.makebooks=Mé knihy patří mezi nejlepší rukopisy daleko široko.
+
+metropolit_byzantine.gopray=Proč ze mě Bůh udělal jednoho z nejvzácnějších služebníků?
+metropolit_byzantine.gopray=Jako patriarcha musím vést modlitbu.
+metropolit_byzantine.gopray=Chápu starosti, které má.
+metropolit_byzantine.gopray=On chápe starosti patriarchů.
+metropolit_byzantine.gopray=Má vesnice potřebuje odpovědi od Boha!
+
+metropolit_byzantine.gorest=Každý potřebuje spánek, zvláště když je vůdcem vesnice.
+metropolit_byzantine.gorest=*Zívá* Když jsem unaven, nemohu vést kněze.
+
+metropolit_byzantine.inspectconstruction=Pohled na vesnici, jež se přibližuje Bohu, je krása.
+
+pastor_byzantine.makebooks=Mé knihy patří mezi nejlepší rukopisy daleko široko.
+
+//smith_byzantine.MakeIndianTools=Roman tools are the best in world.
+
+smith_byzantine.gopray=Dobrý kovář se musí občas pomodlit.
+smith_byzantine.gopray=Proč ze mě Bůh udělal kováře?
+smith_byzantine.gopray=Modlitba je důležitou součástí římského řemesla.
+smith_byzantine.gopray=On chápe starosti kovářů.
+
+smith_byzantine.gorest=Zítra ukuju ještě krásnější věci!
+smith_byzantine.gorest=Pro dnešek jsem s řemeslem skončil.
+smith_byzantine.gorest=Snad budu snít o tom, jak kovám nejlepší nástroje na světě!
+
+smith_byzantine.gosocialise=Pozeptám se, jestli někdo nepotřebuje, abych mu něco ukoval.
+smith_byzantine.gosocialise=Doufám, že vesnice ocení mé nástroje.
+
+smith_byzantine.godrink=Dost s řemeslem! Potřebuju víno!
+smith_byzantine.godrink=Potřebuju se napít, ať mám inspiraci!
+smith_byzantine.godrink=Každý dobrý kovář potřebuje na konci dne sklenku.
+smith_byzantine.godrink=Po kovařině mám žízeň na víno.
+
+smith_byzantine.makesteelaxe=Bez sekery nemůžeš porážet stromy!
+smith_byzantine.makesteelaxe=Kovám úžasné sekery.
+smith_byzantine.makesteelaxe=Římské sekery patří k nejlepším na světě!
+smith_byzantine.makesteelaxe=Drvoštěpi nás potřebují, abychom jim kovali sekery.
+smith_byzantine.makesteelaxe=Jak kováš své sekery, příteli $name?
+
+smith_byzantine.makesteelhoe=Bez zemědělského nářadí se nedá hospodařit!
+smith_byzantine.makesteelhoe=Vyrábím úžasné zemědělské nářadí.
+smith_byzantine.makesteelhoe=Římské zemědělské nářadí patří k nejlepšímu na světě!
+smith_byzantine.makesteelhoe=Sedláci nás potřebují, abychom jim kovali nářadí.
+smith_byzantine.makesteelhoe=Jak vyrábíš své zemědělské nářadí, příteli $name?
+
+smith_byzantine.makesteelpickaxe=Bez krumpáče se nedá dolovat!
+smith_byzantine.makesteelpickaxe=Kovám pevné krumpáče.
+smith_byzantine.makesteelpickaxe=Římské krumpáče patří k nejlepším na světě!
+smith_byzantine.makesteelpickaxe=Horníci nás potřebují, abychom jim kovali krumpáče.
+smith_byzantine.makesteelpickaxe=Jak kováš své krumpáče, příteli $name?
+
+smith_byzantine.makesteelshovel=Bez lopaty se nedá stavět ani kopat!
+smith_byzantine.makesteelshovel=Vyrábím odolné lopaty.
+smith_byzantine.makesteelshovel=Římské lopaty patří k nejlepším na světě!
+smith_byzantine.makesteelshovel=Architekti nás potřebují, abychom jim vyráběli lopaty.
+smith_byzantine.makesteelshovel=Jak vyrábíš své lopaty, příteli $name?
+
+villager.greeting=Zdravím, příteli!
+villager.greeting=Krásný den, viď?
+villager.greeting=Brzy bude pršet.
+villager.greeting=Žádné město na světě se nemůže srovnat s Konstantinopolí.
+villager.greeting=Nejsme Řekové, jsme Římané.
+villager.greeting=Jsme poslední praví Římané.
+villager.greeting=Vyhřej se ve slávě naší civilizace, dokud jsi tady.
+villager.greeting=Vítej ve vesnici, příteli!
+villager.greeting=Podívej! Tamhle je $name!
+villager.greeting=Jsme poslední praví Římané. Vykoupej se ve světle naší civilizace.
+
+villager.becomeadult=Konečně jsem se stal římským občanem!
+
+villager.huntmonster=Musím zabít toho barbara!
+
+villager.goplay=Asi si půjdu ven hrát.
+villager.goplay=Teď si půjdu hrát.
+villager.goplay=$name! Chceš si se mnou hrát?
+villager.goplay=Chci si zaběhat!
+
+villager.calltoarms=Římská říše je napadena! Do zbraně!
+villager.calltoarms=Barbaři jsou tu! Braňte vesnici za každou cenu!
+
+villager.childeatgrapes=Přísahám, ty hrozny spadly samy!
+
+villager.childobservevines=Dospělí by neměli mrhat chutnými hrozny na to hrozné víno!
+villager.childobserveconstruction=Jednou navštívím Konstantinopol a uvidím, jak vypadají skutečné římské stavby!
+villager.childobserveproducealcohol=Jednou jsem ochutnal víno, je hnusné.
+
+villager.gorest=Když se nevyspím, můžou se stát nehody.
+villager.gorest=Jsem unavený. Jdu domů spát.
+villager.gorest=Asi se půjdu vyspat.
+
+villager.makebread=Chleba už voní krásně...
+
+villager.gopray=Vede mě svatý Otec.
+villager.gopray=Pane, ty nebeský a milosrdný.
+villager.gopray=Muži se modlí, kněží zpívají!
+villager.gopray=Buď zdráva, panenská nymfo!
+villager.gopray=Ó svatá Marie, velký vítězný vůdče!
+villager.gopray=Tobě, který mě zachraňuješ od zlého, děkuji...
+villager.gopray=Lid se za tebe bude modlit, na věky věků, amen.
+
+villager.godrink=Je čas si dojít pro čerstvé římské víno!
+villager.godrink=Potřebuju se napít.
+villager.godrink=Víno smyje moje starosti.
+villager.godrink=Věděl jsi, že římské víno je nejlepší na světě?
+villager.godrink=Už dávno jsem nepil.
+
+wife_byzantine.delivergoodshousehold=Takové věci jsou jediné, co tu mohu dělat.
+wife_byzantine.gethousethresources=Manžel mi konečně přinesl materiál, jak jsem mu řekla.
+wife_byzantine.cooking=Vaření je opravdová zábava.
+wife_byzantine.getgoodshousehold=Je čas postarat se o rodinu.
+wife_byzantine.greeting=Mohla bych tu dělat tolik víc, kdybych byla muž, jen kdyby...
+wife_byzantine.greeting=Naším úkolem je krotit naše muže.
+
+villager.givespeech=Římská říše je veliká a naše vesnice je největší.
+villager.givespeech=Naše vesnice musí poděkovat svému vedení za všechnu tu velkolepost.
+villager.givespeech=My Římané máme nejlepší vůdce a nejlepší lid.
+
+villager.listentospeech=Má pravdu!
+villager.listentospeech=Sláva nám!
+villager.listentospeech=Můžeme porazit kohokoliv!
+villager.listentospeech=Sláva Bohu a našemu vůdci od Boha seslanému!
+
+special_byzantine.greeting=Tvá služba bude odměněna, příteli $name.
+special_byzantine.calltoarms=Nezkoušej své štěstí, dítě.
+special_byzantine.gopray=Skloň se přede mnou...
+
+oldshepherd_byzantine.greeting=Má víra mě hnala dál…
+oldshepherd_byzantine.greeting=Pomoz mi splnit můj sen, příteli $name, a budeš odměněn…
+oldshepherd_byzantine.calltoarms=Za Boskokratora!
+oldshepherd_byzantine=Svatý Boskokratore, prosím požehnej mně a mým ovcím.
+
+merchant_armour.greeting=Jen nejlepší brnění a zbraně!
+merchant_armour.keepstall=Vítej, vítej! Nesu ti nejlepší meče, jaké lze najít!
+
+merchant_dyes.greeting=Přicházím každý den v barvách! Počkat, vždyť nejsem Ind.
+merchant_dyes.keepstall=Pojď se podívat! Barviva z celého světa!
+
+merchant_food.greeting=Co takhle pár vynikajících souvláki, příteli?
+merchant_food.keepstall=Všechno jídlo, jaké si jen umíš představit!
+
+merchant_materials.greeting=Pojď si koupit nejlepší stavební materiál! Já i moje záda ti poděkujeme.
+merchant_materials.keepstall=Písek, kámen a cihly! Diorit a křemen!
+
+merchant_relics.greeting=Prodávám cenné výrobky a posvátné předměty, příteli $name.
+merchant_relics.keepstall=Pojď a popatři na vrchol římského řemesla.
+
+merchant_textiles.greeting=Vážně, příteli $name? Tahle kůže?
+merchant_textiles.keepstall=Módní koberce a šaty, jako mají v Konstantinopoli!
+
+loneabbot_byzantine.greeting=Vítej, cestovateli $name. Odpočiň si z cest, tady jsi v bezpečí.
+lonemonk_byzantine.greeting=Nemohu ti nic nabídnout, cestovateli $name.
+
+loneabbot_byzantine.gosocialise=Nemohu se dočkat, až se podělím o své studium.
+
+lonemonk_byzantine.gosocialise=Nemohu se dočkat, až se podělím o své studium.
+lonemonk_byzantine.plantseeds=Kéž Bůh požehná tato semena.
+lonemonk_byzantine.collectcrop=Tato úroda je dar od samotného Boha.
+lonemonk_byzantine.makebread=Velká oběť Syna začne tímto chlebem.
+
+villager.plantseeds=Cítím, že letos budeme mít bohatou úrodu.
+villager.collectcrop=Já to věděl! Bohatá úroda!
+
+villager.gostudy=Prosím, nerozptyluj mě, příteli $name.
+
+villager.gotreerelax=Tohle stinné místo je prostě dokonalé…
+villager.gotreerelax=Pod tímto stromem bych mohl sedět celý den…
+
+villager.relight=Boží láska je má jediná touha!
+villager.golookout=Dneska připluje loď. Já to vím.
+villager.golookout=Nudná práce, ale aspoň mě za ni platí.
+villager.sellercoming=Hned přicházím!
+villager.tradecomplete=Mnohokrát děkuji, ať se ti daří!

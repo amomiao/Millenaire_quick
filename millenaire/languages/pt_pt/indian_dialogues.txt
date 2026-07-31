@@ -1,0 +1,141 @@
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Está tão quente!
+v2;30;Este calor está a deixar-me louco!
+v1;70;Quando virá a chuva?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Não está a chover...
+v2;30;Não te preocupes, a chuva virá em breve.
+v1;60;Dizes a mesma coisa todos os anos...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Sim! Está a chover!
+v2;40;Pensei que iria chover mais do que isto...
+v1;80;Pois, é melhor do que não chover.
+v1;120;Mas como ficarão as colheitas prontas?
+
+newchat;key:sandstone,weigth:10
+v1;0;A nossa aldeia está a progredir, não está?
+v2;40;Par abhi bahut kaam baki hai. / Mas ainda há muito por fazer.
+v1;80;A sério?
+v2;100;Sem dúvida!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Vai! Traz um prato de oferendas para a Puja.
+v2;40;Vou já!
+v1;80;Temos de aplacar os deuses.
+v1;130;Só assim a chuva chegará a tempo.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Já alguma vez te perguntaste a que sabe a carne de vaca?
+v2;60;Comer carne de vaca? Nunca, é contra a nossa crença.
+v1;120;Mas e se for saborosa...?
+v2;180;És algum normando bárbaro?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Tenho muita fome! Quero uma rasgulla.
+v2;60;Não. Tens de comer apenas o arroz.
+v1;120;Mas esta manhã já dormi um bocadinho.
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Tenho muitos amigos.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;A minha mãe não me deixa brincar depois de anoitecer.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Olá!
+v2;50;Viste aquilo?
+v1;100;Ver o quê?
+v2;150;Vi... um zombie.
+v1;200;A sério?
+v2; 250; Sim! Foi tão assustador! Até me disse que te ia comer!
+v1;300;Ahhhhh! Mãe! Um zombie vai comer-me!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Olá!
+v2;50;Viste aquilo?
+v1;100;Ver o quê?
+v2;150;Vi um Creeper!
+v1;200;A sério?
+v2;250;Sim! Rebentou uma árvore ali, foi assustador!
+v1;300;Eh! Espera, a minha árvore preferida está lá, Nããaaaaao!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Cortei imensa madeira hoje.
+v2;60;Vais transformar a nossa floresta num deserto!
+v1;120;Não te preocupes, aqui as árvores crescem quase sozinhas.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;O meu palácio tornou-se muito pequeno.
+v2;60;Mas Maharaj, é o maior da região!
+v1;120;Mas a mim parece-me pequeno.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Um forte robusto é a melhor defesa contra os nossos inimigos.
+v2;60;Que inimigos, General?
+v1;100;Os Normandos e outros bárbaros.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;O meu marido é rico e respeitável.
+v2;50;Oh sim! É verdade.
+v1;110;No entanto, nunca me traz nada.
+v2;160;Como assim? Ainda ontem te trouxe três saris.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;O meu marido comprou cinquenta tolas de ouro hoje.
+v2;60;Cinquenta tolas de ouro! Eu só tenho dez tolas...
+v1;120;Esperemos que as estrelas te sejam favoráveis.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Tive uma grande oportunidade para fazer estátuas.
+v2;50;É porque fazes estátuas muito boas.
+v1;100;Já faço estátuas há bastante tempo.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Precisamos de mais picaretas.
+v2;50;Estou ocupado neste momento.
+v1;100;Também precisamos de pás.
+v2;150;Uff! Tenho tanto trabalho para fazer!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, acho que há bandidos a rondar perto da nossa aldeia!
+v2;50;Não te preocupes, eu protegerei a aldeia.
+v1;100;És tão forte!
+v1;130;E bonito, também.
+v1;150;Se não fosse o teu bigode...
+v2;200;Nem uma palavra sobre o meu bigode!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Meu senhor, a colheita não é boa este ano.
+v2;40;É porque és preguiçoso! Trabalha mais!
+v1;80;Mas não choveu nada...
+v2;120;A culpa não é minha. Quero o dinheiro da minha renda.
+v1;170;Mas não tenho dinheiro.
+v2;210;Então devolve-me a terra.
+v1;260;Mas não me restará nada!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Aquele mercador está a construir uma casa nova ao lado da sua.
+v2;60;Outra casa? Mas para que precisa de uma nova?
+v1;90;A casa nova é para o filho.
+v1;140;Quando o filho se casar, pai e filho ficarão lado a lado.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;O chefe da aldeia comprou pulseiras de ouro à mulher.
+v1;60;Mas tu nunca me trazes joias...
+v2;110;Devias ter casado com um homem rico.
+v1;160;Mas então teria de pagar um dote maior.
+v2;200;Então devias sentir-te abençoada por teres um marido como eu.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Há muito tempo que não bebo álcool.
+v2;50;Há um homem sentado debaixo do banyan, à saída da aldeia, que vende álcool e amendoins.
+v1;110;A sério? Pensava que era proibido vender álcool na aldeia!
+v2;160;Não contes a mais ninguém.
+v1;200;Está bem, vamos lá hoje à noite.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Trouxeste-me brinquedos?

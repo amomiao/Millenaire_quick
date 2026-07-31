@@ -1,0 +1,175 @@
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Vejo sempre coisas diferentes à noite.
+v2;30;Diz-se que o mal do dia é melhor que o bem da noite.
+v1;60;Tem razão, $targetfirstname.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Pai, podes dizer-me qual foi o melhor minério que extraíste?
+v2;30;Deixa-me pensar... Acho que foi um diamante.
+v1;60;Se o voltares a encontrar, podes dar-me um, pai?
+v1;90;Porque não, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah vê tudo o que fazemos, $targetfirstname.
+v2;30;Sim, é verdade, meu hoca.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0;O meu pai está sempre a abater animais inocentes!
+v2;30;Mas se essa carne não for necessária para nós, o teu pai não o faria.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Então, como vão as coisas, $targetfirstname?
+v2;30;Nada mudou, está tudo igual.
+v1;60;E gosta das viagens?
+v2;90;Sim, mas os pés também me doem.
+v1;120;Tem razão, $targetfirstname.
+v2;150;Claro que tenho razão!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah ama os seus servos trabalhadores.
+v2;30;Por isso fico muito feliz por trabalhar arduamente!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;A pesca é uma questão de paciência, sabe, minha senhora?
+v2;30;Só é paciente com a pesca!
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Quem é este?
+v2;30;Não sei o nome dele, mas é estrangeiro nestas terras.
+v1;60;Quem não tiver maldade no coração é bem-vindo a estas terras.
+v2;90;Tem razão.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Já viu uma bebida tão boa como o ayran, irmão?
+v2;30;Não, ainda não vi.
+v2;60;Onde o arranjou? Eu também quero.
+v1;90;Há uma cozinha aqui perto que o vende.
+v2;120;Está bem, muito obrigado.
+v2;150;Que mais vendem lá?
+v1;180;Pode pensar em tudo, de peixe a pide.
+v2;210;Tenho de ir já.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Hora de rezar.
+v2;30;Não nos atrasemos.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Hora de rezar.
+v2;30;Não nos atrasemos.
+v1;60;Como seria bom se tivéssemos uma bela mesquita, talha.
+v2;90;Exactamente, irmão.
+
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Devia beber um ayran.
+v2;30;Espero que a estalagem não esteja cheia hoje.
+v1;60;Sim, espero, não deve ser como ontem.
+v2;90;Exacto, e se eu beber ayran, o meu cansaço passa.
+v1;120;Tem razão.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Olá. Quero comprar um tapete.
+v2;30;Com certeza. Como o quer?
+v1;60;Não sei. Queria comprar um presente porque hoje é o aniversário do meu amigo. O que recomendaria?
+v2;90;Que tal o tapete vermelho?
+v1;120;Está bem, óptima ideia.
+v2;150;Quantos deseja?
+v1;180;Só um. Pode fazer uma boa embalagem?
+v2;210;Claro, senhor. Vai entregá-lo o próprio ou vamos nós levá-lo?
+v1;240;Entrego-o eu próprio. Obrigado.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Tenha um bom dia.
+v1;30;Dormiu bem?
+v2;60;Sim, foi bom.
+v1;90;O que gostaria de comer ao pequeno-almoço?
+v2;120;Não sei, e o senhor?
+v1;150;Também não sei.
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Como foi o seu dia hoje?
+v2;30;Foi bastante atarefado.
+v2;60;Por isso estou cansado.
+v1;90;Gostaria de tomar um ayran?
+v2;120;Seria agradável, sim.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Olá $targetfirstname.
+v1;30;Como está hoje?
+v2;60;Obrigado, estou bem.
+v1;90;Como vai a sua família, estão todos bem?
+v2;120;Obrigado, também estão bem.
+v1;150;O tempo está bastante quente, não é?
+v2;180;Sim, está mesmo muito quente.
+v1;210;Cumprimente a sua família.
+v2;240;Obrigado, cumprimente a sua também.
+v1;270;Adeus.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Quando se mudou?
+v2;30;Foi no fim-de-semana passado.
+v1;60;Nem sabia que a casa tinha sido vendida.
+v2;90;Adoro absolutamente esta casa, por isso tinha de me mudar para cá.
+v1;120;Compreendo, porque a casa é extraordinária.
+v2;150;Há quantos anos vive na sua casa?
+v1;180;Vivo aqui há muito tempo.
+v2;210;Espero que continuemos vizinhos por mais algum tempo.
+v1;240;Eu também.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Porque é que ontem não esteve aqui?
+v2;30;Não me sentia muito bem.
+v1;60;O que tinha?
+v2;90;Estava com dores de estômago.
+v1;120;Sente-se melhor agora?
+v2;150;Ainda não me sinto muito bem.
+v1;180;Quer alguma coisa para se sentir melhor?
+v2;210;Não, obrigado. Já tomei alguns medicamentos.
+v1;240;Espero que melhore.
+v2;270;Obrigado.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Ouviu as novidades?
+v2;30;Não ouvi nada.
+v1;60;A minha vizinha teve o bebé na semana passada.
+v2;90;Ninguém me disse.
+v1;120;Pensei que soubesse.
+v2;150;Mesmo, não me disseram nada.
+v1;180;É uma bebé linda, maşallah.
+v2;210;Uau, que emocionante!
+v1;240;Eu sei, devia mesmo ir visitá-la, a ela e ao bebé.
+v2;270;Claro que vou.
+v1;300;Só queria contar-lhe o que se passou.
+v2;330;Agradeço-lhe.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Gostaria de ir ao campo comigo?
+v1;30;Quando quer ir?
+v1;60;Que tal sexta-feira que vem?
+v1;90;Lamento, não posso. Vou jantar com um amigo.
+v1;120;E na terça-feira seguinte?
+v1;150;Às terças vou à aula da mesquita.
+v1;180;Oh, talvez noutra altura?
+v1;210;Sim, eu aviso-o.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Olá $targetfirstname.
+v2;30;Olá!
+v1;60;Já viu o novo hamam?
+v2;90;Ainda não vi.
+v1;120;Temos de ir lá depressa!
+v2;150;Está bem, são boas notícias.
+v1;180;Sim, sim, sabe, estar limpo faz parte da religião.
+v2;210;Está bem então, vamos dar uma olhadela.
+v2;240;Que tal daqui a uma hora?
+v1;270;Não, vamos já.
+v2;300;Pronto, mas porquê esta pressa, meu amigo?
+v2;330;Aonde temos de ir?
+v1;360;Na verdade, podemos esperar um pouco.
+v2;390;É sempre a mesma coisa consigo, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Já viu algum edifício tão bonito como esta mesquita, irmão?
+v2;30;Não, ainda não vi.
+v2;60;Quando foi feita? É muito bonita.
+v1;90;Já foi há bastante tempo.
+v2;120;Oh, está bem.

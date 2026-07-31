@@ -1,0 +1,358 @@
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Wczoraj przechodziłem koło warsztatu alchemika.
+v1;40;Czuć było zapach zgniłych jaj!
+v2;80;Podobno próbuje stworzyć kamień filozoficzny!
+v1;120;Słyszałem, że chce wskrzeszać umarłych.
+v2;160;A ja, że zrobi potwora z ludzkich szczątków!
+v1;200;Co za okropność!
+v2;220;A był z niego taki miły chłopak...
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Mała skowroneczko, śliczna skowroneczko,
+v2;0;Mała skowroneczko, śliczna skowroneczko,
+v1;30;Skowronku, oskubię ci piórka.
+v2;30;Skowronku, oskubię ci piórka.
+v1;60;Oskubię piórka z twojej głowy.
+v2;60;Oskubię piórka z twojej głowy.
+v1;90;Z twojej głowy!
+v2;90;Z twojej głowy!
+v1;120;Biedna skowroneczka...
+v2;160;Dlaczego? To zabawne!
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Byłeś już w nowym archiwum?
+v1;30;Można tam zobaczyć, czym wszyscy się zajmują!
+v2;60;Ach, naprawdę... no i, eee...
+v1;90;Tak, widziałem twój panel.
+v1;120;Powinieneś się wstydzić.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;No, ślicznotko, co robisz dziś wieczorem?
+v2;40;$targetfirstname, już ci mówiłam — nie!
+v1;60;A to charakterek!
+v2;80;A to głupek!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,weigth:20
+v2;0;$targetfirstname, jakie wspaniałe mięśnie!
+v1;30;Cicho bądź, niemądra! Jeśli moja żona usłyszy...
+v2;60;No i co wtedy, przystojniaku?
+v1;90;Wiesz, jaka ona jest zazdrosna!
+v2;120;I co? Boisz się jej?
+v1;140;Bać się? Jej? Żartujesz!
+v2;160;Ha!
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Uwielbiam zapach świeżego chleba z piekarni.
+v2;40;Brakuje już tylko kogoś, kto umie robić rogaliki.
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Piękna jest nasza wioska, nie sądzisz?
+v2;30;Wspaniała! Ciężko nad nią pracujemy!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Co wolisz: kaszankę czy flaki?
+v2;40;Kaszankę. Flaki są za ciężkie!
+v1;80;Za ciężkie? I nazywasz się Normanem?
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Jak dorosnę, zostanę wodzem wioski!
+v2;30;Sporo zupy musisz jeszcze zjeść, zanim do tego dojdzie.
+v1;60;A ja każę cię ukarać!
+v2;70;Akurat. A na razie do roboty, bo dostaniesz w skórę.
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ci Bizantyjczycy działają mi na nerwy!
+v2;30;Widziałeś, jak się wywyższają?
+v1;60;A wszystko dlatego, że uważają się za Rzymian.
+v2;100;Co za żart. Zwyrodniali Rzymianie, tyle z tego.
+v1;130;Powinniśmy zorganizować na nich najazd!
+v2;160;Ostatecznie jesteśmy wikingami!
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Przy takiej pogodzie calva jest obowiązkowa!
+v2;30;Przy każdej pogodzie!
+v1;50;Za Normandię i jej pogodę pod calvę!
+v2;70;Zdrowie!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Znów udoskonaliłem swoją technikę.
+v1;30;Zanim złożę szkielet, zaczynam od...
+v2;70;Fascynujące.
+v1;90;Naprawdę tak myślisz?
+v2;110;Nie.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Uwielbiam przygotowywać flaki. Najpierw upuszczasz krwi krowie...
+v1;40;Potem wyjmujesz wnętrzności...
+v2;60;Przestań, brzydzisz mnie!
+v1;80;Ale przecież uwielbiasz flaki!
+v2;110;I nie chcę wiedzieć, jak się je robi.
+
+newchat;key:christmas,weigth:10
+v1;0;Kiedy są właściwie święta Bożego Narodzenia?
+v2;30;Sam już nie wiem... Pory roku się tu nie zmieniają.
+v1;80;Co za dziwny świat.
+v2;110;Czasem prawie jak w Normandii...
+v2;140;A potem widzimy, że wszystko jest inne.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Nasz kościół jest naprawdę wspaniały!
+v2;30;Świadczy, że jesteśmy pobożną wioską.
+v1;60;A jest większy niż ten w sąsiedniej wiosce!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Synu mój, dawno się nie spowiadałeś.
+v2;40;Ależ ojcze, ja nie zgrzeszyłem!
+v1;70;Każdy grzeszy na tym padole.
+v2;110;Nawet wy, ojcze?
+v1;130;Dość bezczelności! Odmówisz dziesięć razy Pater Noster za pokutę!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Córko moja, dawno się nie spowiadałaś.
+v2;30;To prawda, ojcze, zgrzeszyłam!
+v1;60;Jeśli to był grzech cielesny, omówimy go gdzie indziej.
+v2;100;Dziękuję, ojcze.
+v1;120;A na razie dziesięć razy Pater Noster. Zawsze się przyda!
+
+newchat;key:countingcows,weigth:10
+v1;0;Mało tu rozrywek.
+v2;30;To dobrze, spokojnie.
+v1;60;I nudno...
+v2;75;Może policz krowy?
+v1;110;Już to wczoraj zrobiłem. I kury też.
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Dobry król Dagobert
+v1;30;Założył spodnie na lewą stronę.
+v1;60;Wielki święty Eligiusz
+v1;90;Powiedział mu: O mój królu!
+v1;120;Wasza Wysokość
+v1;150;Jest źle ubrana.
+v2;180;Źle ubrana? A co to znaczy?
+v1;220;Że nie ma spodni!
+v2;250;Nieprawda, to przecież król!
+v1;280;A jednak król nie ma spodni!
+v2;310;Nawet ty masz spodnie, głupku!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Bądź grzeczny, bo Enderman porwie cię w nocy!
+v2;40;Phi, jestem za stary, by wierzyć w takie bzdury.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Bez wątpienia, rolnictwo to najważniejszy zawód.
+v1;40;Beze mnie nie ma chleba!
+v2;60;Ja i tak wolę flaki.
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Zauważyłeś, że tutaj ziemia się unosi, kiedy wykopiemy spod niej coś?
+v2;40;Tak, no i?
+v1;60;W Normandii spadała...
+v2;90;W Normandii Bóg chciał, by spadała. Tutaj chce, by się unosiła.
+v2;150;Czemu krytykujesz Boga?
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Jesteśmy nie do powstrzymania. Nasze potężne okręty i waleczni rycerze to plaga tego świata!
+v2;40;A jacy są nasi wrogowie? Banda rzymskich oszustów i zakochanych w kamieniu Majów?
+v1;80;Nie zapomnij o tych durniach ze śniegu, którzy nawet nie znają pojęcia pieniędzy!
+v2;120;Hahaha! Życie Normana jest najlepsze na świecie! Wspaniały cydr, najlepsze narzędzia. Ach, to nasz złoty wiek.
+v1;160;I mamy szczęście, że możemy go dzielić!
+v2;200;Hahaha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Bracie Janie, bracie Janie
+v2;30;Czy ty śpisz, czy ty śpisz?
+v1;60;Zabrzmijcie poranne dzwony! Zabrzmijcie poranne dzwony!
+v2;100;Ding, dang, dong. Ding, dang, dong!
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Kiedy byłem młody, byłem bardzo obiecującym czeladnikiem.
+v1;40;Sam Wilhelm Żywe Srebro się mną interesował!
+v1;80;A teraz tkwię tutaj.
+v1;110;I zajmuję się idiotami.
+v2;130;Hę, co?
+v1;150;*westchnienie*
+
+newchat;key:harvest,weigth:10
+v1;0;Myślisz, że żniwa będą dobre w tym roku?
+v2;30;Kto wie, przy tej pogodzie, jaką mamy.
+v1;60;Pory roku nie mają tu sensu.
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Brakuje zwierząt w tym kraju.
+v2;30;Są krowy, owce i świnie.
+v2;60;A czego jeszcze trzeba?
+v1;60;Koni? I kucyków!
+v2;90;A, to teraz chcesz kucyka?
+
+newchat;key:indianfood,weigth:5
+v1;0;Słyszałeś o tych Hindusach?
+v2;30;Mówią, że są bardzo dziwni.
+v1;60;Podobno ich jedzenie pali!
+v2;100;Jak calva?
+v1;120;Nie, gorzej!
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Teraz, gdy mamy karczmę, możemy handlować!
+v2;40;Innymi słowy, przejezdni kupcy się obłowią naszym kosztem.
+v1;80;Zawsze byłeś cyniczny.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mój tata jest dużo silniejszy niż twój.
+v2;30;Bzdura. Mój tata jest najsilniejszy w wiosce.
+v1;60;Śnij dalej. Mój tata pokona twojego w dwie minuty.
+v2;70;Akurat. A Ziemia jest okrągła, tak?
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Dziewczyny do niczego się nie nadają.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Jesteś sobie chłopcem, ale jak zechcę, mogę cię doprowadzić do płaczu.
+v2;30;Nieprawda! Nieprawda!
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Spójrz na mój zamek! Prawdziwa twierdza!
+v2;30;Jesteś potężny, mój panie!
+v1;60;Gdy książę Wilhelm powróci, z pewnością uczyni mnie hrabią!
+v2;100;Niech żyje hrabia $targetfirstname!
+v1;130;Niech żyję ja!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Moja uroda jest sławna w tych krainach.
+v2;30;Jesteście wspaniała, moja pani!
+v1;60;A jednak wyszłam za marnego, podrzędnego rycerza...
+v2;100;Ale jego lordowska mość z pewnością zostanie kiedyś hrabią!
+v1;130;Ten dureń? A może od razu papieżem?
+v2;160;Czemu nie, moja pani! Eee... To znaczy...
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Lubię deszcz.
+v2;30;To dobrze, jak na Normana!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Idźmy w lasy szumiące,
+v2;0;Idźmy w lasy szumiące,
+v1;30;Póki wilka tam nie ma.
+v2;30;Póki wilka tam nie ma.
+v1;60;Gdyby wilk tam siedział
+v2;60;Gdyby wilk tam siedział
+v1;90;Pożarłby nas,
+v2;90;Pożarłby nas,
+v1;120;Ale skoro go tam nie ma,
+v2;120;Ale skoro go tam nie ma,
+v1;150;To nas nie zje.
+v2;150;To nas nie zje...
+v2;180;Eee, na pewno?
+v1;200;Tchórz!
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Jabłka, jabłka, jabłka!
+v1;30;Jabłka, jabłka... jabłka!
+v2;60;Na pewno nie cydr, cydr, cydr?
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Uwielbiam targ! Tyle wspaniałych towarów!
+v2;40;Czujemy się mniej odcięci, teraz gdy mamy targ.
+v2;80;Ale niezbyt bogatsi...
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Co za nędzna wioska.
+v2;30;Hej, obcy, uważaj na język!
+v1;70;A co za uroczy ludzie!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Ułożyłem piosenkę, chcesz posłuchać?
+v2;40;Dawaj!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v2;70;Obiecujący początek...
+v1;90;Z pracy do domu wracam!
+v2;110;A ja mam jeszcze sporo roboty.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Bracie Janie, bracie Janie!
+v1;30;Bardzo zabawne, dziecko.
+v2;60;Czy ty śpisz, czy ty śpisz?
+v1;90;Dość, dość, znam tę piosenkę.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Co za zapomniany zakątek. Chciałbym pewnego dnia zobaczyć coś innego...
+v2;30;Inne wioski są takie same.
+v1;60;Nie wioskę! Miasteczko. Albo nawet miasto!
+v2;90;Niby co, Rouen? Oszalałeś, to całe dnie stąd.
+v1;120;Rouen... albo... A może Paryż?
+v1;150;Wyobrażasz sobie, mówią, że żyje tam 25 000 ludzi!
+v2;180;Bredzisz. 25 000 osób w jednym miejscu? Gdzie by się pomieścili?
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Wszystko jest dobre w świni!
+v2;30;Ale i tak strasznie kwiczą, gdy się je zabija.
+v1;70;Im głośniej kwiczy, tym lepsze mięso!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Dbam o duchowe zdrowie wieśniaków.
+v2;30;A jest sporo do roboty!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Nasza wioska boi się Boga.
+v2;30;I jego namiestnika, ojca $targetlastname.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Czuję, że będzie padać.
+v2;30;W Normandii zawsze padało...
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Cieszę się wielkim poważaniem na dworze króla księcia Wilhelma.
+v2;40;Króla księcia?
+v1;60;Jego majestat Wilhelm Zdobywca, książę Normandii i król Anglii, ty głupcze!
+v2;100;A gdzie jest Anglia?
+v1;120;Po drugiej stronie morza. Co za ignorancja!
+v2;140;Po której stronie którego morza, panie?
+v1;160;Co za bezczelność! Dość!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Bycie pasterzem to szlachetne rzemiosło.
+v2;30;Szlachetne? Pasterz?
+v1;50;Czyż nie zostaliśmy wybrani przez Boga, by usłyszeć Dobrą Nowinę?
+v2;90;Ach, tak. Gdy zajmowaliście się nowo narodzonymi jagniętami — w grudniu.
+v1;130;I co z tego? Może w Betlejem nie ma pór roku. Tak jak tutaj!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;Prawdziwa siła Normanów tkwi w ich broni i narzędziach.
+v2;40;A więc i w ich kowalach?
+v1;60;Otóż to!
+
+newchat;key:storm,weigth:10
+v1;0;Wczoraj była straszna burza.
+v2;30;Tak, myślałem, że dach zerwie.
+v1;60;Powinniśmy je wszystkie wzmocnić.
+
+newchat;key:sunset,weigth:10
+v1;0;Po której stronie słońce wschodzi? Wiecznie zapominam.
+v2;30;Na północy, gdzie indziej?
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Karczma to z pewnością najlepsza rzecz, jaką zbudowaliśmy w wiosce.
+v2;40;Nikt tutaj nie zaprzeczy!
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Flaki — to dopiero męskie danie.
+v2;30;Przygotowane przez kobiety...
+v1;60;Z krów zarżniętych przez mężczyzn!
+v2;100;A wykarmionych przez kobiety...
+
+newchat;key:visitors,weigth:10
+v1;0;Brakuje nam tu gości.
+v2;30;No, jest przecież $name...
+v1;60;Ale on jest trochę dziwny, no nie?
+v2;100;Prawda, nigdy nie wiadomo, co kombinuje.
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Dlaczego to zawsze kobiety budują?
+v2;40;Jeśli ci to przeszkadza, zajmę się następnym.
+v1;80;Naprawdę? Jesteś taki kochany! No to, jeśli chodzi o zasłony, nie zapomnij...
+v2;120;Właściwie nie, zostawię to tobie.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Widziałeś kiedyś księcia Wilhelma?
+v2;30;Nie, nigdy. A kto wie, gdzie teraz przebywa?
+v1;60;Gdyby był tutaj, dawno byśmy podbili ten nowy świat!
+v2;100;Niech żyje książę Wilhelm!

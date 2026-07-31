@@ -1,0 +1,20 @@
+#Render equipped Curios lanterns on the player's waist.
+renderWaistLantern = true
+#Apply a small pendulum swing to waist lantern rendering.
+enablePhysics = true
+#How strongly player movement affects lantern swing.
+# Default: 0.75
+# Range: 0.0 ~ 3.0
+bounciness = 0.75
+#Render the lantern on the left side of the waist.
+leftSide = false
+#Render the lantern closer to the back of the waist.
+backLantern = false
+#Make Iris/Oculus see a Curios light-emitting waist item as the offhand item for shader held-item lighting.
+shaderOffhandOverride = true
+#Log Cold Sweat Soulspring Lamp Curios compatibility diagnostics while the lamp is equipped.
+soulspringLampDebugLog = false
+#Log Dynamic Lantern render diagnostics. Disabled by default because it can be noisy during normal gameplay.
+renderDiagnosticLog = false
+#Additional item ids that Dynamic Lantern is allowed to render on supported Curios waist slots.
+waistRenderableItems = []

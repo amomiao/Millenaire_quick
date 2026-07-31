@@ -1,0 +1,83 @@
+//villager.CookBrick=This is strong stone.
+//villager.DryBrick=We need stone to make our homes. 
+//villager.GatherBrick=I'm carrying too much stone. 
+
+female.becomeadult=I want a husband.
+male.becomeadult=I want to be a hunter.
+
+mayan_shaman.gopray.chosen=The prayer protects you.
+mayan_shaman.greeting=Spirits protect you.
+
+villager.becomeadult=La la la la. /
+
+villager.bringbackresourceshome=I have to much wood to carry.
+
+villager.choptrees=Tree cutting time.
+
+villager.constructionstepbystep=I need a strong co-worker.
+villager.constructionstepbystep=Work, work, work.
+
+villager.delivergoodshousehold=Too much food to carry.
+
+villager.gathergoods=I'll take the wood back home.
+
+villager.getgoodshousehold=I need these things taken home.
+
+villager.gethouseresources=A clean house is a good house.
+
+villager.getresourcesforbuild=Much too much stone.
+
+villager.goplay=I'll play in the grass.
+
+villager.childobserveagriculture=I wonder what would happen if corn grains were heated very fast?
+villager.childobserveconstruction=Why can't we ever build in something else than stone, I wonder?
+villager.childobservesmithing=Everybody here uses obsidian for tools, but there must be something stronger!
+villager.childobserveproducefood=Why do the adults get all the cacauhaa? It's not fair!
+
+villager.childeatcacaobeans=Beans alone are a little bitter. I wonder if it would be better soaked in milk?
+
+
+villager.harvestmaize=Good rain, good harvest.
+
+villager.harvestturmeric=This spice harvest gives strength to food.
+
+villager.maketools=Buy my things.
+
+villager.makeweapons=The arms here are strong.
+
+villager.plantmaize=Rain sends us a strong harvest.
+
+villager.plantsaplings=I planted all these trees.
+
+villager.plantturmeric=Spice makes the food.
+
+villager.scultmayan=One day I want to paint.
+
+villager.slaughterchicken=Chickens give us meat.
+
+villager.calltoarms=Kill the enemy!
+villager.calltoarms=To arms!
+villager.calltoarms=The day is mine!
+
+villager.gopray.chosen=I speak the prayer.
+villager.gopray=Spirits help us.
+villager.gopray=Spirits send us a stong harvest.
+
+villager.gorest=Rest takes over.
+villager.gorest=I have to sleep now.
+villager.gorest=*yawns*
+
+villager.greeting=What's new?
+villager.greeting=How do the spirits treat you?
+villager.greeting=How is your family?
+villager.greeting=Hello, $name!
+villager.greeting=Spirits send us rain.
+villager.greeting=Where is your land?
+villager.greeting=The sky is hot today.
+
+villager.makerasgulla=My small child is sick.
+villager.construction=Work in unity, work with strength.
+villager.construction=Work, work, work.
+villager.sellercoming=I'm coming swiftly!
+villager.tradecomplete=May the gods reward you, come back again.
+

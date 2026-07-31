@@ -1,0 +1,358 @@
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Ik kwam gisteren langs de werkplaats van de alchemist.
+v1;40;Er hing een lucht van rotte eieren!
+v2;80;Men zegt dat hij de steen der wijzen probeert te maken!
+v1;120;Ik heb gehoord dat hij de doden tot leven wil wekken.
+v2;160;En ik dat hij een monster uit lichaamsdelen gaat maken!
+v1;200;Wat afgrijselijk!
+v2;220;En toch was hij vroeger zo'n lieve jongen...
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Leeuwerikje, lieve kleine leeuwerik,
+v2;0;Leeuwerikje, lieve kleine leeuwerik,
+v1;30;Leeuwerikje, ik pluk je veren uit.
+v2;30;Leeuwerikje, ik pluk je veren uit.
+v1;60;Ik pluk de veren van je kopje.
+v2;60;Ik pluk de veren van je kopje.
+v1;90;Van je kopje!
+v2;90;Van je kopje!
+v1;120;Arme leeuwerik toch...
+v2;160;Hoezo? Het is juist leuk!
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Ben je al naar het nieuwe archief geweest?
+v1;30;Daar kun je zien wat iedereen uitspookt!
+v2;60;O, echt... en, eh...
+v1;90;Ja, ik heb jouw bord gezien.
+v1;120;Je zou je moeten schamen.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Nou, schoonheid, wat ga je vanavond doen?
+v2;40;$targetfirstname, ik heb je al gezegd: nee!
+v1;60;Wat een karakter!
+v2;80;Wat een idioot!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, wat een mooie spieren!
+v1;30;Stil, dwaas! Als mijn vrouw ons hoort...
+v2;60;En dan, knappe vent?
+v1;90;Je weet hoe jaloers ze is!
+v2;120;En? Ben je bang voor haar?
+v1;140;Bang? Voor haar? Je maakt zeker een grap!
+v2;160;Ha!
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Ik hou van de geur van vers brood die uit de bakkerij komt.
+v2;40;Nu hebben we alleen nog iemand nodig die croissants kan maken.
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Ons dorp is mooi, vind je niet?
+v2;30;Prachtig! En we werken er hard voor!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Wat heb jij liever, bloedworst of pens?
+v2;40;Bloedworst. Pens is te zwaar!
+v1;80;Te zwaar? En jij noemt jezelf een Normandiër?
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Als ik groot ben, word ik dorpshoofd!
+v2;30;Dan zul je nog heel wat soep moeten eten voor het zover is.
+v1;60;En dan laat ik je straffen!
+v2;70;Vast. Voorlopig: aan het werk, of je krijgt een tik.
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Die Byzantijnen werken op mijn zenuwen!
+v2;30;Heb je gezien hoe hooghartig ze doen?
+v1;60;Allemaal omdat ze beweren Romeinen te zijn.
+v2;100;Wat een grap. Verbasterde Romeinen, dan.
+v1;130;We zouden een rooftocht tegen hen moeten organiseren!
+v2;160;We zijn tenslotte Vikingen!
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Bij dit soort weer kan een calva niet ontbreken!
+v2;30;Bij elk weer!
+v1;50;Op Normandië en zijn calva-weer!
+v2;70;Proost!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Ik heb mijn techniek opnieuw verbeterd.
+v1;30;Voor ik de spanten in elkaar zet, begin ik met...
+v2;70;Fascinerend.
+v1;90;Vind je echt?
+v2;110;Nee.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Ik vind het heerlijk om pens klaar te maken. Eerst de koe leeg laten bloeden...
+v1;40;Daarna de ingewanden eruit halen...
+v2;60;Hou op, je doet me walgen!
+v1;80;Maar je bent dol op pens!
+v2;110;En ik wil niet weten hoe het wordt gemaakt.
+
+newchat;key:christmas,weigth:10
+v1;0;Wanneer komt Kerstmis ook alweer?
+v2;30;Ik weet het niet meer zo goed... De seizoenen veranderen hier niet.
+v1;80;Wat een vreemde wereld.
+v2;110;Soms lijkt het bijna op Normandië...
+v2;140;En dan zien we dat alles anders is.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Onze kerk is werkelijk prachtig!
+v2;30;Het laat zien dat we een vroom dorp zijn.
+v1;60;En hij is groter dan die van het naburige dorp!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mijn zoon, je hebt lang niet meer gebiecht.
+v2;40;Maar vader, ik heb niet gezondigd!
+v1;70;Iedereen zondigt in deze gevallen wereld.
+v2;110;Zelfs u, vader?
+v1;130;Genoeg insolentie! Tien Pater Nosters als boete!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Mijn dochter, je hebt lang niet meer gebiecht.
+v2;30;Het is waar, vader, en ik heb gezondigd!
+v1;60;Als het een zonde van het vlees is, bespreken we het elders.
+v2;100;Dank u, vader.
+v1;120;Intussen: tien Pater Nosters. Komt altijd van pas!
+
+newchat;key:countingcows,weigth:10
+v1;0;Er valt hier weinig te doen.
+v2;30;Het is prettig, vredig.
+v1;60;En saai...
+v2;75;Waarom tel je geen koeien?
+v1;110;Al gedaan, gisteren. En de kippen ook.
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;De goede koning Dagobert
+v1;30;Had zijn broek binnenstebuiten aan.
+v1;60;De grote Sint-Eligius
+v1;90;Zei hem: O mijn koning!
+v1;120;Uwe Majesteit
+v1;150;Is slecht gebroekt.
+v2;180;Slecht gebroekt? Wat betekent dat?
+v1;220;Dat hij geen broek aan heeft!
+v2;250;Onzin, hij is de koning!
+v1;280;Nou, de koning heeft geen broek aan!
+v2;310;Zelfs jij hebt er een, idioot!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Wees braaf, of de Enderman komt je vannacht halen!
+v2;40;Pfff, ik ben te oud om in zulke onzin te geloven.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Geen twijfel mogelijk: boer is het belangrijkste beroep.
+v1;40;Zonder mij geen brood!
+v2;60;Ik hou toch liever van pens.
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Heb je gezien dat hier de aarde blijft zweven als je eronder graaft?
+v2;40;Ja, en dan?
+v1;60;In Normandië viel ze gewoon naar beneden...
+v2;90;In Normandië wilde God dat ze viel. Hier wil hij dat ze zweeft.
+v2;150;Waarom uit jij kritiek op God?
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! We zijn niet te stoppen. Onze indrukwekkende schepen en eervolle ridders zijn de gesel van de wereld!
+v2;40;En wie zijn onze vijanden? Een stelletje Romeinse oplichters en stenenlikkende Maya's?
+v1;80;Vergeet de sneeuwgekken niet die zelfs het begrip geld niet kennen!
+v2;120;Hahaha! Het Normandische leven is het beste ter wereld! Heerlijke cider, het beste gereedschap. Ach, dit is onze gouden eeuw.
+v1;160;En we mogen het samen beleven!
+v2;200;Hahaha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Broeder Jacob, broeder Jacob
+v2;30;Slaapt u nog? Slaapt u nog?
+v1;60;Luid de morgenklokken! Luid de morgenklokken!
+v2;100;Bim, bam, bom. Bim, bam, bom!
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Toen ik jong was, was ik een veelbelovende leerling.
+v1;40;Guillaume Vif-Argent in eigen persoon had belangstelling voor mij!
+v1;80;En nu zit ik hier vast.
+v1;110;Om voor stommelingen te zorgen.
+v2;130;Hè, wat?
+v1;150;*zucht*
+
+newchat;key:harvest,weigth:10
+v1;0;Denk je dat de oogst dit jaar goed wordt?
+v2;30;Wie weet, met het weer dat we gehad hebben.
+v1;60;Seizoenen bestaan hier nauwelijks.
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Het ontbreekt dit land aan dieren.
+v2;30;Er zijn koeien, schapen en varkens.
+v2;60;Wat is er nog meer nodig?
+v1;60;Paarden? En pony's!
+v2;90;Wil je nu opeens een pony, of zo?
+
+newchat;key:indianfood,weigth:5
+v1;0;Heb je gehoord van die Indiërs?
+v2;30;Mensen zeggen dat ze heel vreemd zijn.
+v1;60;Hun eten schijnt zelfs te branden!
+v2;100;Zoals calva?
+v1;120;Nee, erger!
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Nu we een herberg hebben, kunnen we handeldrijven!
+v2;40;Met andere woorden, reizende handelaren gaan zich aan onze voorraden bedienen.
+v1;80;Jij bent altijd al cynisch geweest.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mijn vader is veel sterker dan de jouwe.
+v2;30;Onzin. Mijn vader is de sterkste van het dorp.
+v1;60;Droom maar lekker verder. Mijn vader legt die van jou in twee minuten plat.
+v2;70;En de aarde is rond, zeker?
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Meisjes zijn nutteloos.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Je bent dan wel een jongen, maar ik krijg je aan het huilen wanneer ik wil.
+v2;30;Niet waar! Niet waar!
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Kijk eens naar mijn kasteel! Een ware vesting!
+v2;30;Je bent machtig, mijn heer!
+v1;60;Als hertog Willem terugkomt, maakt hij me vast tot graaf!
+v2;100;Lang leve graaf $targetfirstname!
+v1;130;Lang leve mij!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Mijn schoonheid is legendarisch in deze contreien.
+v2;30;U bent prachtig, mevrouw!
+v1;60;En toch ben ik met een armzalige, waardeloze ridder getrouwd...
+v2;100;Maar zijne edelheid wordt vast nog eens graaf!
+v1;130;Die sukkel? En waarom niet meteen paus, terwijl je toch bezig bent?
+v2;160;Waarom ook niet, mevrouw! Eh... ik bedoelde...
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Ik hou van regen.
+v2;30;Maar goed ook, voor een Normandiër!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Laten we in het bos gaan wandelen,
+v2;0;Laten we in het bos gaan wandelen,
+v1;30;Zolang de wolf er niet is.
+v2;30;Zolang de wolf er niet is.
+v1;60;Als de wolf er was
+v2;60;Als de wolf er was
+v1;90;Zou hij ons opeten,
+v2;90;Zou hij ons opeten,
+v1;120;Maar omdat hij er niet is,
+v2;120;Maar omdat hij er niet is,
+v1;150;Zal hij ons niet opeten.
+v2;150;Zal hij ons niet opeten...
+v2;180;Eh, weet je dat zeker?
+v1;200;Lafaard!
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Appels, appels, appels!
+v1;30;Appels, appels... appels!
+v2;60;Weet je zeker dat het geen cider, cider, cider was?
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Ik hou van de markt! Zoveel mooie waren!
+v2;40;We voelen ons minder afgesneden nu hij er is.
+v2;80;Maar ook niet rijker...
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Wat een armzalig dorp.
+v2;30;Hé, vreemdeling, let op je woorden!
+v1;70;En wat charmante mensen!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Ik heb een liedje bedacht, wil je het horen?
+v2;40;Laat maar horen!
+v1;50;Hi-ho, hi-ho, hi-ho, hi-ho...
+v2;70;Veelbelovend begin...
+v1;90;Naar huis van het werk!
+v2;110;En ik heb nog veel te doen.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Broeder Jacob, broeder Jacob!
+v1;30;Erg grappig, mijn kind.
+v2;60;Slaapt u nog? Slaapt u nog?
+v1;90;Genoeg, genoeg, ik ken het liedje.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Wat een afgelegen plek. Ik zou ook wel eens iets anders willen zien...
+v2;30;De andere dorpen zijn allemaal hetzelfde.
+v1;60;Geen dorp! Een vlek. Of zelfs een stad!
+v2;90;Zoals wat dan, Rouen? Je bent gek, dat is dagen reizen hiervandaan.
+v1;120;Rouen... of misschien... Waarom niet Parijs?
+v1;150;Stel je voor, men zegt dat daar 25.000 mensen wonen!
+v2;180;Je raaskalt. 25.000 mensen op één plek? Waar moeten die allemaal heen?
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Alles is goed aan het varken!
+v2;30;Ze maken wel een hoop kabaal als je ze slacht.
+v1;70;Hoe harder het varken gilt, hoe beter het vlees!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Ik waak over de geestelijke gezondheid van de dorpelingen.
+v2;30;En er is genoeg te waken!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Ons dorp vreest God.
+v2;30;En zijn afgevaardigde, vader $targetlastname.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Ik voel dat het gaat regenen.
+v2;30;In Normandië regende het altijd...
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Ik sta in hoog aanzien aan het hof van koning-hertog Willem.
+v2;40;De koning-hertog?
+v1;60;Zijne Majesteit Willem de Veroveraar, hertog van Normandië en koning van Engeland, dwaas!
+v2;100;Waar ligt Engeland?
+v1;120;Aan de andere kant van de zee. Wat een onwetendheid!
+v2;140;Welke zee, mijn heer?
+v1;160;Wat een insolentie! Genoeg!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Herder zijn is een nobel beroep.
+v2;30;Nobel? Herder?
+v1;50;Zijn wij niet door God uitverkoren om het Goede Nieuws te horen?
+v2;90;O ja. Terwijl jullie pasgeboren lammetjes verzorgden, in december.
+v1;130;Nou en? Misschien zijn er in Bethlehem geen seizoenen. Net als hier!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;De ware kracht van de Normandiërs ligt in hun wapens en gereedschap.
+v2;40;En dus in hun smeden?
+v1;60;Precies!
+
+newchat;key:storm,weigth:10
+v1;0;Er was gisteren een vreselijk onweer.
+v2;30;Ja, ik dacht dat het dak eraf zou waaien.
+v1;60;We zouden ze allemaal moeten versterken.
+
+newchat;key:sunset,weigth:10
+v1;0;Waar komt de zon ook alweer op? Ik vergeet het steeds.
+v2;30;In het noorden, waar anders?
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;De herberg is beslist het beste wat we in het dorp gebouwd hebben.
+v2;40;Niemand hier zal je tegenspreken!
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Pens, dat is nu een echt mannengerecht.
+v2;30;Klaargemaakt door vrouwen...
+v1;60;Met koeien geslacht door mannen!
+v2;100;En grootgebracht door vrouwen...
+
+newchat;key:visitors,weigth:10
+v1;0;Wat we hier missen, zijn bezoekers.
+v2;30;Nou ja, er is $name...
+v1;60;Maar hij is een beetje vreemd, vind je niet?
+v2;100;Het is waar dat we nooit weten wat hij van plan is.
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Waarom zijn het altijd de vrouwen die bouwen?
+v2;40;Als het je hindert, neem ik het volgende voor mijn rekening.
+v1;80;Echt? Wat lief van je! Voor de gordijnen, vergeet niet om...
+v2;120;Eigenlijk niet, ik laat het toch maar aan jou over.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Heb jij hertog Willem ooit gezien?
+v2;30;Nee, nooit. En wie weet waar hij nu is?
+v1;60;Als hij hier was, hadden we deze nieuwe wereld allang veroverd!
+v2;100;Lang leve hertog Willem!

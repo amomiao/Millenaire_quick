@@ -1,0 +1,113 @@
+//*    Dialoge beginnen mit einem Code wie „v2;30;“, der festlegt, wer spricht und wann der Satz gesagt wird. Er muss exakt genauso in die Übersetzung kopiert werden. Die erste Hälfte des Satzes (bis zum /) ist in der Sprache des Dorfbewohners und muss so gelassen werden. Danach kommt die Übersetzung.
+//* 
+//* 
+//* 
+
+
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Schneit es?
+v2;30;Es sieht aus wie Schnee, aber es scheint nicht kalt zu sein.
+
+newchat;key:beautiful,weigth:10
+v1;0;Wo sind wir? Ich habe diesen Ort noch nie gesehen. Es sieht gleich aus, aber fühlt sich anders an.
+v2;30;Die Schamanen sagen wir seien im heiligen Land der gütigen Geister. Deswegen ist es hier so erstaunlich!
+
+newchat;key:sunset,weigth:10
+v1;0;Ich bin müde. Die Zeit vergeht so langsam...
+
+newchat;key:seasons,weigth:10
+v1;0;Meinst du die Jagd wird gut dieses Jahr?
+v2;30;Wer weiß, mit dem Wetter, das wir hatten.
+v1;60;Die Jahreszeiten machen hier keinen Sinn.
+
+newchat;key:normans,weigth:5
+v1;0;Ich habe ein paar verrückte Leute getroffen, die sich Normannen nennen.
+v2;30;Ja, die Normannen sind großartig, aber sie brauchen viel.
+v1;60;Was meinst du?
+v2;90;Neulich kam einer bei mir vorbei und ich habe ihm fast mein ganzes Hab und Gut gegeben, aber anscheinend brauchte er immer noch mehr.
+v1;120;Der Arme
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Diese Japaner wissen wie man Fisch zubereitet!
+v2;30;Fisch „zubereiten“? Du meinst sie kochen ihn, oder?
+v1;60;Nein, ich meine sie servieren ihn mit allen besonderen Methoden und in allen verschiedenen Geschmacksrichtungen.
+v2;90;Essen kann anders schmecken ohne einfach verdorben zu sein?
+v1;120;Nächstes Mal musst du mitkommen und es probieren!
+
+newchat;key:murderer,weigth:10
+v1;0;Weißt du was nach dem Unfall mit ihm passiert ist?
+v2;30;Unfall oder nicht, Morden ist nicht richtig.
+v1;60;Ja, aber mussten wir ihn aus dem Dorf verbannen? Ich habe gehört, dass er durch das Alleinsein verrückt geworden ist.
+v2;90;Wir mussten es tun! Wenigstens ist es hier nicht so kalt und er wird nicht erfrieren.
+v1;120;Ist das besser? Jetzt ist er dazu gezwungen alleine zu leben!
+
+newchat;key:visitors,weigth:10
+v1;0; Dieser Ort ist voller seltsamer Leute.
+v2;30;Du meinst Leute wie $name?
+v1;60;Nun, $name ist nur einer. Ich meine all die anderen.
+
+newchat;key:endermen,weigth:10
+v1;0;Hast du gehört was der Älteste über diese großen, dünnen unheimlichen Leute gesagt hat?
+v2;30;Was? Dass es die Schattenmenschen sind? Ich weiß nicht...
+v1;60;Wobei, es würde Sinn machen! Wenn wir wirklich in einem heiligen Land sind, wären sie so verkrüppelt!
+v2;90;Aber wenn wir in einem heiligen Land sind, wieso sind dann die Schattenmenschen hier?
+v2;120;Oh... hmm, Ich weiß nicht...
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Ich mag Schnee.
+v2;42;Gut für einen Inuit!
+
+newchat;key:meat,weigth:10
+v1;0;Ich glaube unsere Fleischvorräte werden knapp. Ich hasse es, wenn sie ausgehen.
+v1;30;Fleisch ist einfach nicht das Gleiche wie Eintopf...
+v2;60;Aber in den meisten Eintöpfen ist Fleisch?
+v1;90;Ja, aber es ist einfach nicht das Gleiche...
+
+newchat;key:kys,weigth:10
+v1;0;Wann wird die Älteste sterben gehen?
+v2;30;Ich glaube nicht, dass wir das hier tun müssen, diese neue Welt ist viel gastfreundlicher!
+v1;60;Ich denke schon... aber es ist seltsam, sie noch am Leben zu sehen.
+
+newchat;key:carribou,weigth:10
+v1;0;Wo sind all die Karibus? Mir fehlt das Karibufleisch.
+v2;30;Wir haben viele Jagden unternommen, aber keiner hat ein Karibu gefunden.
+v2;60;Aber wir haben jede Menge von etwas gefunden, das wie Bison aussieht!
+v1;60;Igitt, ich hasse Bison, Karibu ist besser.
+v2;90;Dann iss eben Fisch, davon haben wir reichlich.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Hier gibt es nicht viel zu tun.
+v2;30;Es ist gut so, friedlich.
+v1;60;Und langweilig...
+v2;75;Du könntest ein Loch graben oder ein Schneeiglu bauen!
+v1;110;Mein eigenes Schneeiglu?!
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Ich beneide die Schamanen, ich wünschte, ich könnte wie sie mit den Geistern sprechen.
+v2;30;Du könntest doch fragen, ob der Schamane es dir beibringt?
+v1;60;Vielleicht... aber manche Geister sind unheimlich.
+v2;70;Stimmt, es wird immer unheimliche Geister geben, vor denen man sich hüten muss.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mein Papa ist viel stärker als deiner.
+v2;30;Mein Papa ist der Stärkste im Dorf, du Dummkopf!
+v1;60;Träum weiter. Mein Papa schlägt deinen in zwei Minuten.
+
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Also, Schönheit, was machst du heute Abend?
+v2;40;$targetfirstname, ich habe es dir doch schon gesagt, ich bin einem anderen versprochen!
+
+newchat;key:hunting,weigth:10
+v1;0;Ich habe meine Fähigkeiten wieder verbessert.
+v2;30;Du wirst schnell zu einem großen Jäger!
+v1;90;Glaubst du das wirklich?
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Ich liebe den Geruch des Fleisches, das beim Speisenzubereiter kocht.
+v2;30;Ich weiß nicht, ich bevorzuge mein Fleisch normalerweise roh, das verändert den Geschmack.
+v1;60;Hey, ich mag diesen veränderten Geschmack!
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Igitt, schau, wie klein und kränklich die Bisons hier sind.
+v2;42;Der fremde Händler nennt sie "Kühe..?"

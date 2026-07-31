@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;No mis sa siis teed, kaunitar, täna õhtul?
+v2;40;$targetfirstname, ma ütlesin sulle juba — ma olen teisele lubatud!
+
+newchat;key:beautiful,weigth:10
+v1;0;Kus me oleme? Ma pole sellist paika kunagi näinud. Tundub samasugune, aga ometi teistsugune.
+v2;30;Šamaanid ütlevad, et oleme abivalmite vaimude õnnistatud maal — sellepärast ongi siin nii imeline!
+
+newchat;key:carribou,weigth:10
+v1;0;Kuhu kõik karibud kadunud on? Ma igatsen karibuliha järele.
+v2;30;Oleme palju jahil käinud, aga ühtegi karibut pole leitud.
+v2;60;Leidsime küll piisavalt midagi, mis sarnaneb piisoniga!
+v1;60;Pfui, ma ei salli piisonit, karibu on parem.
+v2;90;Söö siis kala, seda on meil küllalt.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Siin pole eriti midagi teha.
+v2;30;Hea on, rahulik.
+v1;60;Ja igav...
+v2;75;Sa võiksid auku kaevata või lume-iglu ehitada!
+v1;110;Päris oma lume-iglu?!
+
+newchat;key:endermen,weigth:10
+v1;0;Kas oled kuulnud, mida vanem ütleb nende pikkade, peenikeste ja hirmsate olendite kohta?
+v2;30;Et nad on Varjurahvas? Ma ei tea...
+v1;60;Aga see on ju loogiline! Kui me oleme tõesti õnnistatud maal, siis nemad ongi sellised väärdunud olendid!
+v2;90;Aga kui me oleme õnnistatud maal, miks need Varjurahva olendid siin üldse on?
+v2;120;Oh... hmm, ma ei tea...
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Mulle meeldib see liha lõhn, mis toiduvalmistajalt tuleb.
+v2;30;Ei tea, mina pigem söön liha toorelt — keetmine muudab maitset.
+v1;60;Mulle aga just see muutunud maitse meeldib!
+
+newchat;key:hunting,weigth:10
+v1;0;Olen oma oskusi taas parandanud.
+v2;30;Sinust saab kiiresti suur kütt!
+v1;90;Kas sa tõesti nii arvad?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Need jaapanlased oskavad küll kala valmistada!
+v2;30;"Valmistada"? Pead silmas, et nad lihtsalt küpsetavad seda, eks?
+v1;60;Ei, pean silmas, et nad pakuvad oma toitu igasuguste keeruliste võtete ja maitsetega.
+v2;90;Kas toit saab maitseda teistmoodi, ilma et oleks rikutud?
+v1;120;Saab küll, sa peaksid järgmine kord nendega koos minema tutvuma!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Minu isa on palju tugevam kui sinu oma.
+v2;30;Minu isa on kõige tugevam mees terves külas, sa loll!
+v1;60;Une pealt rääkimine. Minu isa võidab sinu oma kahe minutiga.
+
+newchat;key:kys,weigth:10
+v1;0;Millal vanem oma surma vastu välja läheb?
+v2;30;Ma ei usu, et meil oleks seda siin tarvis teha — see uus maailm on palju leplikum!
+v1;60;Ehk... aga ikkagi on imelik teda elus näha.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Mulle meeldib lumi.
+v2;42;Hea omadus inuiti jaoks!
+
+newchat;key:meat,weigth:10
+v1;0;Lihavarud hakkavad otsa saama, ma vihkan, kui need otsa saavad.
+v1;30;Liha ei ole sama, mis hautis...
+v2;60;Aga enamikus hautistes ongi liha sees, eks?
+v1;90;On küll, aga see pole päris sama...
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Uhh, vaata kui väikesed ja viletsad on siin piisonid.
+v2;42;Võõras kaupmees nimetab neid "lehmadeks..?"
+
+newchat;key:murderer,weigth:10
+v1;0;Kas kuulsid, mis temast pärast õnnetust sai?
+v2;30;Õnnetus või mitte, inimese tapmine on vale.
+v1;60;Jah, aga kas oli vaja ta külast välja saata? Olen kuulnud, et ta on omapead hulluks läinud.
+v2;90;Pidime küll! Vähemalt pole siin külm ja ta ei külmu seal kuskil surnuks.
+v1;120;Kas see on parem? Nüüd peab ta üksi elama!
+
+newchat;key:normans,weigth:5
+v1;0;Kohtasin imelikke inimesi, nad nimetasid end normannideks?
+v2;30;Jah, normannid on toredad, aga nõuavad ikka päris palju.
+v1;60;Mida sa silmas pead?
+v2;90;Üks tuli möödunud päeval läbi ja ma andsin talle peaaegu kogu oma kraami, aga tundus, et ta vajab ikka veel rohkem.
+v1;120;Vaeseke.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Kas sajab lund?
+v2;30;Lume moodi, aga külma pole tunda.
+
+newchat;key:seasons,weigth:10
+v1;0;Kas sa arvad, et tänavu tuleb hea jahihooaeg?
+v2;30;Kes teab, sellise ilmaga, nagu meil olnud on.
+v1;60;Aastaajad ei tundu siin üldse loogilised.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Kadestan šamaane, sooviksin, et saaksin vaimudega rääkida nagu nemad.
+v2;30;Sa võiksid uurida, ehk šamaan õpetab sind?
+v1;60;Võib-olla... aga mõned vaimud on hirmuäratavad.
+v2;70;Tõsi jah, alati on mõni hirmuäratav vaim, kelle eest tuleb hoiduda.
+
+newchat;key:sunset,weigth:10
+v1;0;Olen väsinud, tänane päev läheb liiga aeglaselt mööda...
+
+newchat;key:visitors,weigth:10
+v1;0;See koht on imelik, siin on kõik täis veidraid inimesi.
+v2;30;Pead silmas inimest nagu $name?
+v1;60;Noh, $name on ju ainult üks inimene — ma mõtlen kõiki neid teisi.

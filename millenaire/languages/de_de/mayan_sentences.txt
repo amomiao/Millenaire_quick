@@ -1,0 +1,83 @@
+//villager.CookBrick=Es ist starker Stein.
+//villager.DryBrick=Wir brauchen Ziegel um unsere Häuser zu bauen.
+//villager.GatherBrick=Ich trage zu viel Stein. 
+
+female.becomeadult=Ich will einen Mann.
+male.becomeadult=Ich werde ein Jäger.
+
+mayan_shaman.gopray.chosen=Mein Gebet beschütze dich.
+mayan_shaman.greeting=Die Geister beschützen dich.
+
+villager.becomeadult=La la la la.
+
+villager.bringbackresourceshome=Ich habe zu viel Holz zu tragen.
+
+villager.choptrees=Zeit, Bäume zu fällen.
+
+villager.constructionstepbystep=Arbeit, Arbeit, Arbeit.
+villager.constructionstepbystep=Ich brauche einen starken Mitarbeiter.
+
+villager.delivergoodshousehold=Zu viele Speisen zu tragen.
+
+villager.gathergoods=Ich bringe das Holz heim.
+
+villager.getgoodshousehold=Ich muss diese Sachen mit nach Hause nehmen.
+
+villager.gethouseresources=Ein sauberes Haus ist ein gutes Haus.
+
+villager.getresourcesforbuild=Viel zu viel Stein.
+
+villager.goplay=Ich spiele im Gras.
+
+villager.childobserveagriculture=Ich frage mich was passiert wenn man Maiskörner ganz schnell erhitzt?
+villager.childobserveconstruction=Warum können wir nicht mal mit etwas anderem als Stein bauen?
+villager.childobservesmithing=Jeder hier benutzt Obsidian für Werkzeuge aber es muss doch noch etwas Stärkeres geben!
+villager.childobserveproducefood=Warum bekommen die Erwachsenen den ganzen Cacauhaa? Das ist nicht gerecht!
+
+villager.childeatcacaobeans=Die Bohnen selbst sind etwas bitter. Ich frage mich ob sie besser wären wenn man sie in Milch taucht?
+
+
+villager.harvestmaize=Guter Regen, gute Ernte.
+
+villager.harvestturmeric=Diese Gewürzernte gibt unserem Essen Geschmack.
+
+villager.maketools=Kaufe meine Waren.
+
+villager.makeweapons=Diese Waffen hier sind stark.
+
+villager.plantmaize=Der Regen gewährt uns eine starke Ernte.
+
+villager.plantsaplings=Ich pflanze alle diese Bäume.
+
+villager.plantturmeric=Gewürz bestimmt das Essen.
+
+villager.scultmayan=Eines Tages will ich malen.
+
+villager.slaughterchicken=Hühner geben uns Fleisch.
+
+villager.calltoarms=Töte das Böse!
+villager.calltoarms=Zu den Waffen!
+villager.calltoarms=Der Tag gehört mir!
+
+villager.gopray.chosen=Ich spreche das Gebet.
+villager.gopray=Die Geister helfen uns.
+villager.gopray=Die Geister gewähren uns eine reiche Ernte.
+
+villager.gorest=Ich werde müde.
+villager.gorest=Ich muss jetzt schlafen.
+villager.gorest=*Gähn*
+
+villager.greeting=Gibt es Neuigkeiten?
+villager.greeting=Wie behandeln dich die Geister?
+villager.greeting=Wie geht es deiner Familie?
+villager.greeting=Hallo, $name!
+villager.greeting=Die Geister senden uns Regen.
+villager.greeting=Wo ist dein Land?
+villager.greeting=Der Himmel ist heiß heute.
+
+villager.makerasgulla=Mein kleines Kind ist krank.
+villager.construction=Arbeiten in Eintracht, arbeiten mit ganzer Kraft.
+villager.construction=Arbeit, Arbeit, Arbeit.
+villager.sellercoming=Ich komme eilends!
+villager.tradecomplete=Mögen die Götter dich belohnen, komm wieder vorbei.
+

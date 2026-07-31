@@ -1,0 +1,332 @@
+newchat;key:ahmunghanan,weigth:6;
+v1;0;Tänu Ah Munile ja Ghananile on meie saagid head. Au neile!
+v2;30;Täname neid palve ajal.
+v1;80;Mida me saame neile pakkuda?
+v2;120;Ära ole loll! Meie verd, muidugi!
+
+newchat;key:alchimist,weigth:4;
+v1;0;Metsa uurides nägin ma üht naljakat alkeemikku.
+v2;30;Sina ka nägid? Ta on naeruväärselt veider.
+v1;60;Veel kuidas. Tal oli nimekiri imelikest koostisosadest. Kas tead, mis on "kärbunud skeletide pealuud" või "hingede liiv"?
+v2;90;Ei. Aga see ei tundu väga rahustav.
+v1;120;Jaa! Kõnetatakse, et ta üritab tarkadekivi valmistada.
+v2;150;Vapper $targetfirstname, kui sa kuulujuttudesse usud, võid hakata uskuma, et Maa on ümmargune.
+v1;180;Sul on vist õigus.
+
+newchat;key:badweather,weigth:8;
+v1;0;Chac on vihane. Ilm on halb.
+v2;40;Me ei palveta piisavalt.
+
+newchat;key:bakery,notbuilding:mayanbakery,weigth:7;
+v1;0;Peaksime pagariäri ehitama. See teeks meie äri tulusaks.
+v2;30;Tõsi. Me ei saa kodusele leivale lootma jääda.
+v1;60;Räägime pealikuga.
+
+newchat;key:become,v1:adult,v2:child,v2:male,rel:child,weigth:9;
+v1;0;Kes sa suureks saades olla tahad?
+v2;30;Ma ei tea, ehk sõdalane või kaevur... ehk põllumees...
+v1;60;Niisiis, sa pead ühel päeval otsustama.
+
+newchat;key:becomeadult,v1:child,v2:child,weigth:9;
+v1;0;Ma kardan täiskasvanuks saada.
+v2;30;Miks nii?
+v1;60;No sellepärast, et... tööd on liiga palju ja enam mängida ei saa...
+v2;90;Küll näed, see on tore!
+v1;120;Ei... Ma ei taha, ei taha, ei taha!
+
+newchat;key:bestdad,v1:child,v2:child,weigth:8;
+v1;0;Mu isa on parim, sest ta on metsalanger!
+v2;30;Pfff! Puit on tarbetu! Minu oma on parem, sest ta on kaevur!
+v1;60;Ilma puiduta poleks sinu isast kasu.
+v2;90;Ah või nii?! Sa otsid pahandust?!
+v1;120;Lõpeta ära, kivi on tarbetu, tunnista seda.
+v2;150;Ilma kivita magaks sinu isa tähtede all!
+
+newchat;key:bloodbis,v1:adult,v2:adult,weigth:2;
+v1;0;Sandistagem end järgmisel palvel.
+v2;40;Mina juba tegin seda. Sina mitte?
+v1;80;Ma-ma-ma eelistan oma vere hoida.
+v2;120;Ja sa teed seda jälle! Iga kord, kui sa otsustanud paistad, mõtled ümber!
+v1;160;Ma ei taha!
+v2;200;Sa keeldud meie jumalaid austamast?!
+
+newchat;key:byzantins,weigth:9;
+v1;0;Ma ei kannata neid bütsantslasi, nad arvavad, et see maa kuulub neile!
+v2;30;Ja kas oled näinud nende hooneid?
+v1;60;Olen, väga veidrad.
+v2;90;Tellised? Mis mõte sel on!?
+v1;120;Nad kasutavad isegi seda klaasikraami, nagu normannid.
+v2;150;Tõsi, kuid nad tunduvad indialastest arenenumad. Nende akendel pole midagi.
+
+newchat;key:cacao,weigth:6;
+v1;0;Kakao on tervislik ja maitsev...
+v2;40;Tervislik, kahtlemata! Aga maitsev — kindlasti mitte! Wah on palju parem.
+v1;80;Kakao on jumalate lemmiktoit. Söö, mida nad sulle pakuvad.
+
+newchat;key:cacaoyer,weigth:7;
+v1;0;Siin on vähe kakaopuid, see paik on ebatervislik.
+v2;40;Istutame mõned.
+v1;80;Sa ütled! Kakaooad on ülikallid!
+v2;120;Ek Chuah aitab meid.
+
+newchat;key:cereal,v2:vtype:mayan_farmer,weigth:9;
+v1;0;Ma proovin riisi kasvatada.
+v2;30;Riis? Mis see on?
+v1;60;Taim, mille indialastelt ostsin. Räägitakse, et see on maitsev!
+v2;90;Kas tohin maitsta?
+v1;120;Kahjuks ei. Ma pean iga tera istutama.
+v2;150;Sellest ei tule midagi välja.
+
+newchat;key:chickenegg,weigth:5;
+v1;0;Meil pole ohverdamiseks piisavalt kanu.
+v2;40;Vist möödusime $name juurest. Ostame talt mune.
+v1;90;Sul on õigus, teeme nii.
+
+newchat;key:dialogchildmother,v1:child,v2:adult,v2:female,rel:parent,weigth:10;
+v1;0;Emme! Kas tohin külast kaugemal mängida?
+v2;30;Ei, mu laps, ma ei taha, et sa viga saaksid.
+v1;60;Viga millest? Seal pole ohtlik.
+v2;90;Kuula, seal on ohtlikke olendeid...
+v1;120;M-millised olendid, emme?
+v2;150;Kohutavad asjad nagu... krõnksud.
+v1;180;K-k-krõnksud?
+v2;210;Jah, mu laps, nad tulevad sulle koju järele ja plahvatavad, kui sa seda kõige vähem ootad.
+
+newchat;key:dragonegg,v1:adult,v2:adult,weigth:5;
+v1;0;Nägin kõrbes imelikku musta muna.
+v2;30;Tõesti? Milline see välja nägi?
+v1;60;Suur, lillade laikudega. Väga suur.
+v2;90;Kas jõid jälle normanni alkoholi või teed sa nalja?
+v1;120;Aga... see on tõsi! Vannun!
+v2;150;Haha! Kui sa arvad, et nii võid mind petta, siis sa eksid!
+
+newchat;key:embauchement,v1:adult,v2:vtype:mayan_warrior,weigth:7;
+v1;0;Ma palkan sind enda kaitsmiseks 48 mündi eest päevas.
+v2;30;Hmm. Sõltub sellest, kui kauaks sa mind palkad, $targetfirstname.
+v1;60;Kuueks päevaks. Mu koertest ei piisa, et mulle piisavat kaitset pakkuda.
+v2;90;Hea küll, hõbemünt. Mitte vähem.
+v1;120;See on röövimine!
+v2;150;Sugugi mitte, $targetfirstname. Riskin selles töös oma eluga.
+
+newchat;key:endofworld,weigth:3;
+v1;0;Meie šamaanid ja astroloogid näevad midagi.
+v2;40;Tõesti? Mida?
+v1;80;Nad näevad olulist sündmust aastal 2012.
+v2;120;Sa ei arva, et nad planeerivad veidi liiga kaugele tulevikku?
+
+newchat;key:exchange,v1:adult,v2:adult,v1:male,v2:male,weigth:9;
+v1;0;Tere, härra $targetlastname. Kas meie kokkulepe kehtib veel?
+v2;30;Jah, jah. Nagu öeldud, kõik on mul olemas.
+v1;60;Alati täpne! Meeldiv teiega äri ajada.
+v2;90;Rõõm on minupoolne. Niisiis... 32 palki kaheksa raudplaadi eest. Palun!
+v1;120;Suur tänu, härra. Head päeva.
+v2;150;Teile ka, härra $targetlastname!
+
+newchat;key:friend,v1:vtype:mayan_miner,v2:adult,weigth:10;
+v1;0;Oh, mu hea sõber $targetfirstname! Kuidas läheb?
+v2;30;Tere, $targetfirstname! Teen, mida saan, äri on kehv.
+v1;60;Kas oled lõpetanud indialastele kivi müümise?
+v2;90;Jah. Nüüd, kui sõltumatud Jaapani kaevurid pakkusid oma teenuseid, mind enam ei vajata.
+v1;120;Sa pead neile lihtsalt midagi muud pakkuma.
+v2;150;Kas sul on mõtteid?
+
+newchat;key:gravity,weigth:7;
+v1;0;Päevad on neil maadel palju lühemad.
+v2;30;Jah, ja maapind tundub vahel hõljuvat.
+v1;60;Kruusa puhul mitte... ja liiv ka.
+v2;90;Huvitav, miks.
+
+newchat;key:indians,weigth:8;
+v1;0;Indialased tunduvad normannidest palju rahumeelsemad, kas pole?
+v2;30;Jah, ehk peaksime nendega liitu sõlmima.
+v1;60;Hmm... jah, siis saaksime ehk koos normanne või isegi bütsantslasi rünnata.
+
+newchat;key:japanese,v1:adult,weigth:8;
+v1;0;Kuule, $targetfirstname, vaata seda.
+v2;30;Naljakas mõõk! Ja naljakas vibu! Kust sa selle said?
+v1;60;See on yumi-vibu ja tachi. Jaapani sepikojast.
+v2;90;See on kaunis ja tõhus. Kas oli kallis?
+v1;120;Põrgu jah! Kulutasin ainuüksi vibu peale kaks hõbemünti!
+v2;150;Vau! Sa pead enne ostmist tublisti säästma.
+
+newchat;key:likemydad,v1:male,v2:child,v1:child,weigth:8;
+v1;0;Ma tahan suureks saades isa moodi olla!
+v2;30;Argpüksiks?
+v1;60;Mida? Ei, ta ei ole argpüks.
+
+newchat;key:mayanarchitecture,weigth:7;
+v1;0;Maia arhitektuur on neis maades tugevaim.
+v2;30;Tänu kogu kivile, mida me toodame, ehitame need iludused.
+v1;60;Huvitav, kui palju kivimaju me veel ehitame?
+v2;90;Vaid aeg näitab, sõber.
+
+newchat;key:mayangods,v1:adult,v2:adult,weigth:8;
+v1;0;Usk on meie ainus relv neil veidratel maadel.
+v2;40;Meie olukorda arvestades peame karistama neid, kes meie jumalaid solvavad.
+v1;80;Me kindlasti ei tohi neid solvata.
+
+newchat;key:miner,weigth:9;
+v1;0;Peaksime rohkem kaevureid värbama.
+v2;30;Oo jaa! Kivim ja mineraalid on parimad materjalid, mis olemas on.
+v1;60;Nõustun... aga meid pole külas piisavalt, meie arv peab kasvama.
+v2;90;Ja lapsi tööle panna ei saa. Nad on liiga noored.
+
+newchat;key:monotheisme,weigth:4;
+v1;0;Tõesti? $name on monoteist?
+V2;35;Ta ei tundu meie usku tõsiselt võtvat...
+v1;75;Lase olla, ta pole nii loll, et meie jumalatesse mitte uskuda.
+
+newchat;key:monster,weigth:5;
+v1;0;Praegu liigub palju koletisi.
+v2;30;Olen kindel, et valvurid saavad nendega hakkama.
+v1;60;Mind teeb murelikuks mõte, kui kari neid plahvatavaid roheid olendeid tuleb ründama.
+v2;90;Ära muretse. Meil on nende vastu peibutusi kasutada.
+v1;120;Hea küll, halvimal juhul on olemas $name. Ta võitleb hästi ja saab meid kaitsta.
+v2;150;Ma ka ei kahtle selles. Ta pole nii halb.
+
+newchat;key:normands,weigth:6;
+v1;0;Oled näinud normannide nahavärvi? Nad on kõik nii kahvatud!
+v2;30;Jaa! Pole varem sellist värvi näinud. Veider.
+v1;60;Arvan, et nad on neetud...
+v2;90;Ära ole rumal. Nad on inimesed nagu kõik teised.
+v1;120;Kahtlemata muutis nende värvi alkohol. Olen kindel, et nad polnud alati sellised.
+v2;150;Sul on vist vale.
+
+newchat;key:obsidian,v1:vtype:mayan_obsidiancrafter,weigth:8;
+v1;0;Obsidiaanist tööriistad ja relvad on kõige peenemad.
+v2;30;Nii uhked, aga ometi võib igaüks neid saada.
+v1;60;Nui sobib suurepäraselt vaenlase purustamiseks.
+v2;90;Tõesti? Tahaks näha, kuidas seda kasutatakse.
+
+newchat;key:palace,v1:vtype:mayan_king-mayan_leader-mayan_chieftain,v2:adult,weigth:9;
+v1;0;Elu mu suurepärases palees on ikka kena.
+v2;30;Ja väga uhke palee on see, mu juht!
+
+newchat;key:peasantdialog,v1:vtype:mayan_peasant,v2:vtype:mayan_peasant,weigth:10;
+v1;0;Nii palju maisi koristada, nii vähe aega...
+v2;30;Jah, sooviksin, et meile osa saagist tuleks.
+
+newchat;key:player,weigth:10;
+v1;0;Külastajaid jääb meil väheks.
+v2;30;Jah, on ainult $name ja teised eksinud inimesed...
+v1;60;Apropoo $name, kas sa ei leia, et ta on järjest veidram ja väsinum?
+v2;90;Tõsi. Ta peaks pisut puhkama.
+
+newchat;key:playerorigins,weigth:10;
+v1;0;$name on üsna veider inimene.
+v2;30;Veelgi veidram kui normannid.
+v1;60;Aga kust ta tuli?
+v2;90;Pole kindel, ta ei tundu ühestki kultuurist olevat.
+
+newchat;key:poktapok,weigth:7;
+v1;0;Mulle meeldib Pok-ta-Pok!
+v2;40;Mulle ka! Pean tunnistama, et see on üks meie väheseid lõbusaid tegevusi siin.
+v1;80;Tõsi. On igav... ja ma kaotasin oma viimase palli!
+
+newchat;key:puja,weigth:6;
+v1;0;Kas käisid palvetamas?
+v2;35;Muidugi! Tõeline maia peab käima!
+v1;80;Haha! Muidugi! Milline rumal küsimus minu poolt.
+
+newchat;key:pyramid,building:mayanpyramid,weigth:7;
+v1;0;Meie püramiid on kõige ilusam ja kõige paremini ehitatud.
+v2;30;Tõsi. Külastasin teisi külasid. Nende omad on väga kenad, kuid mitte nii elegantsed kui meil!
+v1;60;Meie arhitektuur on ainulaadne ja omanäoline.
+v2;90;Ära liigselt kiitle. Ma ei taha, et oleksime hooplevate bütsantslaste sarnased.
+v1;120;Ah jaa, hmm... ma ei kannata neid. Kuidas saab keegi nii pretensioonikas olla!
+
+newchat;key:rain,v1:female,v2:female,v1:hasspouse,v2:hasspouse,weigth:9;
+v1;0;Vajame maisile vihma.
+v2;30;Kuidas ma sooviksin, et sajaks.
+v1;60;Ehk kui me palvetame, kingivad vaimud meile vihma, mis tagaks sel aastal täiusliku saagi.
+v2;90;Hea küll, läheme niipea, kui pole liiga hõivatud.
+
+newchat;key:rebellion,v1:child,v2:child,rel:sibling,weigth:6;
+v1;0;Ema ja isa on ebaõiglased! Peame alati tuba koristama!
+v2;30;Jaa! Mässame ja nõuame paremat kohtlemist!
+v1;60;Asume rünnakule! Ema peale!
+
+newchat;key:reborn,weigth:7;
+v1;0;Milline imeline liblikas seal. Ehk on see meie sõber, kes ohverdati neli aastat tagasi?
+v2;40;Arvan, et ta oleks pigem koolibri!
+v1;80;Pole meie asi seda teada.
+
+newchat;key:recolt,weigth:10;
+v1;0;Saak on sel aastal rikkalik.
+v2;30;Jah, kaeblema oleks loll.
+v1;60;Muidugi!
+
+newchat;key:rich,v1:female,v2:vtype:mayan_peasantwife,v1:vtype:mayan_peasantwife,weigth:8;
+v1;0;Rikastel naistel on hea elu, nad ei tee mingit tööd.
+v2;30;Jah, sooviksin, et mind nii koheldaks.
+v1;60;Teadsin, et oleksin pidanud kellegagi rikkamaga abielluma.
+
+newchat;key:rule,v1:male,v2:male,v1:notvtype:mayan_king-mayan_leader-mayan_chieftain,v2:notvtype:mayan_king-mayan_leader-mayan_chieftain,weigth:9;
+v1;0;Loodan, et ühel päeval valitsen seda küla.
+v2;30;Une nägu, sest mina jõuan tippu enne sind.
+v1;60;Eks me näe... eks me näe.
+
+newchat;key:stone,weigth:10;
+v1;0;Kivi on parim materjal, mis kunagi olemas on olnud.
+v2;30;Veel parem, kui see on küpsetatud! Elagu kivi!
+v1;60;Peame seda kaevandama! Tööle!
+
+newchat;key:tobewarrior,v1:vtype:mayan_warrior,v2:notvtype:mayan_warrior,weigth:9;
+v1;0;Sõdalaseks saamine oli mu elu parim otsus.
+v2;30;Kuidas nii?
+v1;60;Sest saan välja minna ja vaenlastega võidelda — palju lõbusam kui maisi koristada.
+v2;90;Aga mu elu on palju ohutum.
+v1;120;Tõsi, kuid olen alati põnevust ihaldanud.
+
+newchat;key:village,weigth:8;
+v1;0;Arvan, et meie küla näeb kena välja.
+v2;30;Mina ka. Väga kunstipärane.
+v1;60;See on tänu kivile ja meie arhitektuurioskustele.
+
+newchat;key:wah,weigth:9;
+v1;0;Mulle nii väga maitseb wah.
+v2;30;Mulle ka! Parim asi, mis kunagi välja mõeldud on.
+
+newchat;key:wither,weigth:3;
+v1;0;Metsas nägin imelikku musta olendit.
+v2;30;Tõesti? Kirjelda mulle, ma olen uudishimulik!
+v1;60;Noh, see oli musta skeleti taoline olend, kahe peaga kätevartel ja ühe kaelal, ja tema pilk oli külm nagu jää...
+v2;90;Sellest jookseb külmavärin üle selja.
+v1;120;Hämarmehed ründasid teda.
+v2;150;Hämarmehed? Neid pole olemas, sa pidid und nägema.
+
+newchat;key:woman,weigth:6,v1:adult,v2:adult,v1:female;
+v1;0;Aeg maja koristada.
+v2;30;Aga sa tegid seda eile!
+v1;60;Pole tähtis, mul ei lubata siin midagi muud teha.
+v2;90;Sa kaebad alati!
+v1;120;Selle asemel et minu kaebamise üle vinguda, ürita mõista, miks ma kaeban!
+
+newchat;key:xaire,weigth:3;
+v1;0;Xaire, $targetfirstname!
+v2;30;"Xaire? Mis see ""xaire"" on?"
+v1;70;Bütsantslane tervitas mind nii.
+v2;110;Lase olla. Sa oled maia. Tervitagem üksteist oma keeles.
+v1;150;Tõeline maia peab kõigis valdkondades teadmisi omama.
+v2;200;Nõustun, et mitme keele oskamine on hea, aga sa ei räägi nii külas!
+
+newchat;key:year,weigth:5;
+v1;0;Me teadsime enne kõiki teisi, et üks aasta on täpselt 365,2420 päeva.
+v2;40;Me oleme kõigis valdkondades head: matemaatika, kunst, geograafia...
+
+newchat;key:zombie,v2:vtype:warrior,v2:vtype:mayan_warrior,weigth:8;
+v1;0;Mida me teeme, kui zombide kari ründab?
+v2;30;Ära muretse, olen parim väljaõpetatud sõdalane neis maades.
+
+newchat;key:zombiepigmen,weigth:6;
+v1;0;Kas nägid viimast tormi?
+v2;30;Veel kuidas! Meie põllukultuurid nautisid vett, aga see oli kohutav.
+v1;60;Noh, olin tasandikul ja minu kõrval oli siga.
+v2;90;Ja?
+v1;120;Pikne lõi ja... ta tõusis tagajalgadele...
+v2;150;Tõesti?! Milline ta välja nägi?
+v1;180;Tal oli rohelist hallitust peal... või midagi sarnast. Ja kuldne mõõk ka.
+v2;210;Kas ründasid teda või põgenesid?
+v1;240;Olin relvitu. Aga ta ei tahtnud mind rünnata. Ta vaatas mind, pööras pea ja kõndis ära, ilma et tegelikult teadnuks, mis toimub.
+v2;270;Sa oleksid pidanud tuld kasutama. Mis siis, kui ta küla ründab?
+v1;300;Ta oli tulekindel, pikne lõi teda uuesti ja ta ei tundnud midagi.

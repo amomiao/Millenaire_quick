@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Měl bych se napít ayranu.
+v2;30;Doufám, že hostinec dnes nebude plný.
+v1;60;Ano, doufám, ať to není jako včera.
+v2;90;Přesně tak, a když si dám ayran, únava ze mě spadne.
+v1;120;Máš pravdu.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Dobrý den. Rád bych si koupil koberec.
+v2;30;Jistě. Jaký by sis přál?
+v1;60;Nevím. Chtěl jsem koupit dárek, protože dnes má můj přítel narozeniny. Co bys mi doporučil?
+v2;90;Co takhle červený koberec?
+v1;120;Dobře, výborný nápad.
+v2;150;Kolik bys jich chtěl?
+v1;180;Jen jeden. Můžeš ho pěkně zabalit?
+v2;210;Samozřejmě, pane. Předáš ho sám, nebo ho doneseme my?
+v1;240;Předám ho sám. Děkuji.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Hezký den.
+v1;30;Vyspal ses dobře?
+v2;60;Ano, docela dobře.
+v1;90;Co bys chtěl k snídani?
+v2;120;Nevím, a ty?
+v1;150;Také nevím.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Tati, povíš mi, jakou nejlepší rudu jsi vykopal?
+v2;30;Počkej, ať si vzpomenu... Myslím, že to byl diamant.
+v1;60;Když ho najdeš znovu, dáš mi jeden, tati?
+v1;90;Proč ne, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Alláh vidí všechno, co konáme, $targetfirstname.
+v2;30;Ano, to je pravda, můj hoco.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0;Můj otec pořád zabíjí nevinná zvířata!
+v2;30;Ale kdyby to maso nebylo potřeba, tvůj otec by to nedělal.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Viděl jsi někdy tak dobrý nápoj jako ayran, bratře?
+v2;30;Ne, ještě jsem ho neviděl.
+v2;60;Kde jsi ho sehnal? Také bych chtěl.
+v1;90;Nedaleko je kuchyně, prodávají ho tam.
+v2;120;Dobře, mnohokrát děkuji.
+v2;150;Co tam ještě prodávají?
+v1;180;Najdeš tam všechno od ryb po pide.
+v2;210;Měl bych se tam hned vydat.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Ahoj, $targetfirstname.
+v2;30;Ahoj!
+v1;60;Viděl jsi už ten nový hammám?
+v2;90;Ne, neviděl.
+v1;120;Musíme ho rychle navštívit!
+v2;150;Dobře, to je dobrá zpráva.
+v1;180;Ano, ano, je, víš, být čistý patří k víře.
+v2;210;Tak dobře, pojďme se podívat.
+v2;240;Co kdybychom šli za hodinu?
+v1;270;Ne, pojďme hned.
+v2;300;Dobrá, proč ten spěch, příteli?
+v2;330;Kam musíme jít?
+v1;360;Vlastně můžeme chvíli počkat.
+v2;390;S tebou je to vždycky stejné, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Viděl jsi někdy tak krásnou stavbu jako tuhle mešitu, bratře?
+v2;30;Ne, ještě jsem ji neviděl.
+v2;60;Kdy ji dokončili? Je moc pěkná.
+v1;90;Už je to dávno.
+v2;120;Aha, dobře.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;V noci pořád vidím podivné věci.
+v2;30;Říká se, že zlo dne je lepší než dobro noci.
+v1;60;Máš pravdu, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Je čas se modlit.
+v2;30;Ať nepřijdeme pozdě.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Je čas se modlit.
+v2;30;Ať nepřijdeme pozdě.
+v1;60;Jak krásné by bylo mít krásnou mešitu, talho.
+v2;90;Přesně tak, bratře.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Tak jak ti jde práce, $targetfirstname?
+v2;30;Nic se nemění, pořád stejné.
+v1;60;A baví tě cesty?
+v2;90;Ano, ale bolí mě z toho nohy.
+v1;120;Máš pravdu, $targetfirstname.
+v2;150;Samozřejmě že mám pravdu!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Alláh miluje své pracovité služebníky.
+v2;30;Proto mě tolik těší, že mohu tvrdě pracovat!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Rybolov je otázka trpělivosti, víš, drahá?
+v2;30;Trpělivý jsi jen u rybolovu!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Jaký jsi měl dnes den?
+v2;30;Docela rušný.
+v2;60;Takže jsem unavený.
+v1;90;Dal by sis ayran?
+v2;120;To by bylo pěkné, ano.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Ahoj, $targetfirstname.
+v1;30;Jak se dnes máš?
+v2;60;Děkuji, mám se dobře.
+v1;90;A tvá rodina, daří se jim?
+v2;120;Děkuji, také se mají dobře.
+v1;150;Začíná být pěkné horko, viď?
+v2;180;Ano, je opravdu horko.
+v1;210;Pozdravuj rodinu.
+v2;240;Děkuji, ty také pozdravuj svou.
+v1;270;Měj se.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Kdy jsi se nastěhoval?
+v2;30;Až minulý víkend.
+v1;60;Vůbec jsem nevěděl, že ten dům prodali.
+v2;90;Tenhle dům se mi moc líbí, musel jsem se sem nastěhovat.
+v1;120;Chápu, ten dům je opravdu výjimečný.
+v2;150;Jak dlouho už bydlíš ve svém domě?
+v1;180;Bydlím tu už dlouho.
+v2;210;Doufám, že zůstaneme sousedy ještě nějakou dobu.
+v1;240;Já také.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Proč jsi tu včera nebyl?
+v2;30;Nebylo mi moc dobře.
+v1;60;Co ti bylo?
+v2;90;Bolelo mě břicho.
+v1;120;Cítíš se teď lépe?
+v2;150;Ještě se necítím úplně dobře.
+v1;180;Chceš něco, co by ti pomohlo?
+v2;210;Ne, díky. Už jsem si vzal lék.
+v1;240;Doufám, že ti bude brzy lépe.
+v2;270;Děkuji.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Slyšela jsi tu novinku?
+v2;30;Nic jsem neslyšela.
+v1;60;Mé sousedce se minulý týden narodilo dítě.
+v2;90;Nikdo mi to neřekl.
+v1;120;Myslela jsem, že už to víš.
+v2;150;Opravdu mi to nikdo neřekl.
+v1;180;Je to roztomilé miminko, mašalláh.
+v2;210;Páni, jaká radost.
+v1;240;Víš, měla bys ji s tím miminkem navštívit.
+v2;270;Samozřejmě půjdu.
+v1;300;Jen jsem ti chtěla říct, co se stalo.
+v2;330;Vážím si toho.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Šla bys se mnou na louku?
+v1;30;	Kdy bys chtěla jít?
+v1;60;Co takhle příští pátek?
+v1;90;Mrzí mě to, nemůžu. Mám tehdy večeři s přítelem.
+v1;120;Co následující úterý?
+v1;150;V úterý chodím na výuku v mešitě.
+v1;180;Aha, snad někdy jindy?
+v1;210;Jistě, dám ti vědět.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Kdo to je?
+v2;30;Neznám jeho jméno, ale je v této zemi cizí.
+v1;60;Každý, kdo v sobě nemá zlo, je v této zemi vítán.
+v2;90;Máš pravdu.

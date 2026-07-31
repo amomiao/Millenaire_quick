@@ -1,0 +1,54 @@
+villager.greeting=こんにちは、 $nameさん！
+villager.greeting=おい。
+villager.greeting=げんきかい、 $nameさん？
+villager.greeting=変わったことある？
+villager.greeting=はじめまして。
+villager.greeting=ようこそ。
+villager.greeting=ごきげんよう。
+
+villager.gorest=あー、もう寝る時間だ。
+villager.gorest=休憩が必要だ。
+villager.gorest=すっかり疲れた。
+
+villager.gopray=神は私達を悪からお救いになる。
+villager.gopray=豊作のため、女神「宇賀魂命」に祈る。
+
+villager.bringbackresourceshome=ちょ、ちょ、ちょ・・・
+villager.choptrees=何本かの木を切ってくるつもりだ。
+villager.gathergoods=私はいくつかの資源が必要だ。
+villager.plantsaplings=これらの苗木を植えに行く。
+
+villager.slaughterchicken=あなたは誰かのために素晴らしい食事を作るだろう。
+
+villager.gethouseresources=家から何か取って来なければいけない。
+villager.getgoodshousehold=これが家に要るな。
+villager.delivergoodshousehold=市場から食べ物を買ってきた。
+
+villager.getresourcesforbuild=もっとたくさんの材料が必要だ。
+villager.constructionstepbystep=父から建築を教わったんだ。
+villager.constructionstepbystep=神様は私の建築を気に入ってくれるだろうか。
+
+villager.goplay=遊びたいな。
+villager.becomeadult=成長するまで。
+male.becomeadult=私は武士になりたい。
+female.becomeadult=私は母親になりたい。
+villager.gopray.chosen=心を落ち着かせるのだ。
+
+villager.calltoarms=奴らに私達を襲ったことを後悔させてやれ！
+villager.calltoarms=武器を持て！
+villager.calltoarms=村を守れ！
+
+villager.maketools=私は長年、最高級の道具を作っているんだ。
+villager.makeweapons=最高級の武器の秘密は師匠直伝の技だよ。
+villager.childobserveagriculture=お母さんは米作りは大事だって言うけど、僕にはすごく退屈そうに見えるなあ……。
+villager.childobserveconstruction=大きくなったら塔を建てよう。それも金でできた塔をね！
+villager.childobservesmithing=うちの武器や鎧は一番かっこいいんだ！
+villager.childobserveproducefood=どうしてここの料理はみんな米なの？ もう米はうんざりだよ！
+villager.childobserveproducealcohol=この前、酒を試してみたら気分が悪くなっちゃった。
+villager.childeatapple=この世界はすごい！ どんな木にもリンゴが生るんだ！
+villager.construction=父から建築の技を教わった。
+villager.construction=神々が我が業をお気に召しますように。
+villager.sellercoming=すぐに参ります！
+villager.tradecomplete=毎度ありがとうございました、またどうぞ。
+villager.greeting=お会いできて光栄です。
+

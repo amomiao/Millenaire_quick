@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Innom kéne egy kis ajránt.
+v2;30;Remélem, a fogadó ma nem lesz tele.
+v1;60;Igen, remélem, nem úgy lesz, mint tegnap.
+v2;90;Pontosan, és ha ajránt iszom, a fáradtságom is elmúlik.
+v1;120;Igazad van.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Üdv. Szeretnék venni egy szőnyeget.
+v2;30;Természetesen. Milyet szeretnél?
+v1;60;Nem tudom. Ajándékot szerettem volna venni, mert ma van a barátom születésnapja. Mit ajánlanál?
+v2;90;Mit szólnál a piros szőnyeghez?
+v1;120;Rendben, remek ötlet.
+v2;150;Hányat szeretnél?
+v1;180;Csak egyet. Tudnál szép csomagolást készíteni?
+v2;210;Persze, uram. Magad viszed, vagy kiszállítsuk?
+v1;240;Magam viszem. Köszönöm.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Szép napot.
+v1;30;Jól aludtál?
+v2;60;Igen, jól.
+v1;90;Mit szeretnél reggelire?
+v2;120;Nem tudom, és te?
+v1;150;Én sem tudom.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Apa, elmondanád, mi a legszebb érc, amit valaha kibányásztál?
+v2;30;Hadd gondolkodjak… Azt hiszem, egy gyémánt volt.
+v1;60;Ha újra találsz, adsz nekem is egyet, apa?
+v1;90;Miért is ne, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah mindent lát, amit teszünk, $targetfirstname.
+v2;30;Így van, hocám.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Apám folyton ártatlan állatokat vág le!
+v2;30; De ha nekünk nem kellene az a hús, apád sem tenné.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Láttál már olyan jó italt, mint az ajrán, testvér?
+v2;30;Nem, még nem láttam.
+v2;60;Hol kaptad? Én is kérek.
+v1;90;Itt a közelben van egy konyha, ahol árulják.
+v2;120;Rendben, nagyon köszönöm.
+v2;150;Mit árulnak még ott?
+v1;180;Mindent megtalálsz, a haltól a pidéig.
+v2;210;Akkor azonnal odamegyek.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Üdv, $targetfirstname.
+v2;30;Hé!
+v1;60;Láttad már az új hammámot?
+v2;90;Nem, még nem.
+v1;120;Mielőbb meg kell néznünk!
+v2;150;Rendben, ez jó hír.
+v1;180;Igen, igen, tudod, a tisztaság a hitünk része.
+v2;210;Akkor jól van, nézzük meg.
+v2;240;Mit szólnál egy óra múlva?
+v1;270;Nem, menjünk most.
+v2;300;Rendben, de mi ez a sietség, barátom.
+v2;330;Merre kell mennünk?
+v1;360;Tulajdonképpen várhatunk még egy kicsit.
+v2;390;Veled mindig ugyanez van, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Láttál már olyan szép épületet, mint ez a mecset, testvér?
+v2;30;Nem, még nem láttam.
+v2;60;Mikor készült el? Nagyon szép.
+v1;90;Már jó ideje.
+v2;120;Ó, értem.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Éjszakánként mindig különös dolgokat látok.
+v2;30;Azt mondják, a nappal rossza jobb az éjszaka jójánál.
+v1;60;Igazad van, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Itt az imádság ideje.
+v2;30;Ne késsünk el.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Itt az imádság ideje.
+v2;30;Ne késsünk el.
+v1;60;Milyen jó lenne, ha lenne egy szép mecsetünk, $targetfirstname.
+v2;90;Pontosan, testvér.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Na és hogy megy az üzlet, $targetfirstname?
+v2;30;Semmi sem változott, minden a régi.
+v1;60;És tetszenek az utazások?
+v2;90;Igen, de a lábam is fáj.
+v1;120;Igazad van, $targetfirstname.
+v2;150;Persze hogy igazam van!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah szereti a szorgalmas szolgáit.
+v2;30;Akkor én nagyon boldogan dolgozom keményen!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;A halászat türelem dolga, tudod, kedvesem?
+v2;30;Csak a halászathoz vagy türelmes!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Milyen volt a napod?
+v2;30;Elég mozgalmas.
+v2;60;Úgyhogy fáradt vagyok.
+v1;90;Innál egy ajránt?
+v2;120;Jólesne, igen.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Üdv, $targetfirstname.
+v1;30;Hogy vagy ma?
+v2;60;Köszönöm, jól.
+v1;90;Hogy van a családod, jól vannak?
+v2;120;Köszönöm, ők is jól vannak.
+v1;150;Elég meleg lett az idő, igaz?
+v2;180;Igen, tényleg nagyon meleg van.
+v1;210;Üdvözöld a családod.
+v2;240;Köszönöm, te is üdvözöld a tieidet.
+v1;270;Viszlát.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Mikor költöztél be?
+v2;30;Épp a múlt hétvégén.
+v1;60;Nem is tudtam, hogy eladták a házat.
+v2;90;Imádom ezt a házat, muszáj volt beköltöznöm.
+v1;120;Megértem, mert ez a ház rendkívüli.
+v2;150;Hány éve laksz a házadban?
+v1;180;Már régóta itt élek.
+v2;210;Remélem, még sokáig szomszédok maradunk.
+v1;240;Én is.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Miért nem voltál itt tegnap?
+v2;30;Nem éreztem jól magam.
+v1;60;Mi bajod volt?
+v2;90;Rossz volt a gyomrom.
+v1;120;Most jobban érzed magad?
+v2;150;Még mindig nem érzem túl jól magam.
+v1;180;Hozhatok valamit, amitől jobban leszel?
+v2;210;Nem, köszönöm. Már bevettem egy kis gyógyszert.
+v1;240;Remélem, jobban leszel.
+v2;270;Köszönöm.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Hallottad a hírt?
+v2;30;Nem hallottam semmit.
+v1;60;A szomszédomnak múlt héten megszületett a babája.
+v2;90;Nekem senki sem szólt.
+v1;120;Azt hittem, hallottad.
+v2;150;Tényleg nem mondtak semmit.
+v1;180;Aranyos baba, masallah.
+v2;210;Hűha, milyen izgalmas.
+v1;240;Tudom, feltétlenül látogasd meg őt és a babát.
+v2;270;Persze, hogy meglátogatom.
+v1;300;Csak szólni akartam, hogy mi történt.
+v2;330;Köszönöm.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Eljönnél velem a mezőre?
+v1;30;	Mikor akarsz menni?
+v1;60;Mit szólnál a jövő péntekhez?
+v1;90;Sajnálom, nem tudok. Egy barátommal vacsorázom.
+v1;120;És a rá következő keddhez?
+v1;150;Keddenként a mecsetbeli órára járok.
+v1;180;Ó, akkor talán máskor?
+v1;210;Igen, majd szólok.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Ez meg ki?
+v2;30;Nem tudom a nevét, de idegen ezen a vidéken.
+v1;60;Akiben nincs gonoszság, az kedves vendég ezen a földön.
+v2;90;Igazad van.

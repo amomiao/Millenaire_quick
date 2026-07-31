@@ -1,0 +1,527 @@
+architect_byzantine.construction=$name! Sabia que os romanos são os melhores arquitectos?
+architect_byzantine.construction=$name! Veja-me construir uma bela estrutura.
+architect_byzantine.construction=Este edifício vai ficar lindíssimo!
+architect_byzantine.construction=Ainda não está terminado, mas já vejo a beleza no meu trabalho.
+architect_byzantine.construction=Construo estruturas tão elaboradas. O edifício é realmente a forma mais bela de arte.
+architect_byzantine.construction=Roma não se fez num dia, foi construída bloco a bloco.
+architect_byzantine.construction=A nossa arquitectura é superior a todos os outros edifícios pelo mundo fora.
+architect_byzantine.construction=A maneira romana é a melhor maneira de construir.
+architect_byzantine.construction=Gosta do meu estilo?
+architect_byzantine.construction=Já construí mais do que consigo lembrar-me. Construir tornou-se a minha vida.
+
+architect_byzantine.getresourcesforbuild=De onde tira a aldeia estes blocos?
+architect_byzantine.getresourcesforbuild=Preciso de blocos para construir as melhores estruturas!
+architect_byzantine.getresourcesforbuild=Cada edifício começa com um bloco.
+architect_byzantine.getresourcesforbuild=Tenho de escolher os blocos com cuidado.
+architect_byzantine.getresourcesforbuild=Como transporta tantos blocos quando constrói, $name?
+architect_byzantine.getresourcesforbuild=O pior da construção é arranjar os blocos.
+
+architect_byzantine.godrink=Chega de construir! Preciso de vinho!
+architect_byzantine.godrink=Preciso de uma bebida para me inspirar!
+architect_byzantine.godrink=Todo o bom arquitecto precisa de uma bebida ao fim do dia.
+architect_byzantine.godrink=Trabalhar na construção dá-me sede de vinho.
+
+architect_byzantine.gopray=Espero que Deus me dê inspiração para o meu próximo edifício!
+architect_byzantine.gopray=Por que me terá feito Deus arquitecto?
+architect_byzantine.gopray=A oração é uma parte importante da construção romana.
+architect_byzantine.gopray=Ele compreende os problemas dos arquitectos.
+
+architect_byzantine.gorest=Se não dormir, arrisco-me a perder tempo a construir algo mal feito.
+architect_byzantine.gorest=Não consigo construir quando estou cansado.
+architect_byzantine.gorest=É difícil construir no escuro.
+architect_byzantine.gorest=Já acabei de construir por hoje.
+architect_byzantine.gorest=Talvez sonhe a construir os melhores edifícios do mundo!
+
+architect_byzantine.gosocialise=Ninguém nesta aldeia compreende os problemas da construção.
+architect_byzantine.gosocialise=Todo o arquitecto precisa de inspiração dos outros.
+architect_byzantine.gosocialise=Os arquitectos precisam de elogios para florescer.
+architect_byzantine.gosocialise=O que pensará a aldeia dos meus edifícios?
+
+//armysmith_byzantine.MakeIndianTools=As ferramentas romanas são as melhores do mundo.
+armysmith_byzantine.makebyzantinemace=Não ataque ninguém que use as minhas armas.
+armysmith_byzantine.makebyzantinemace=Esta maça vai mandar os bárbaros longe!
+armysmith_byzantine.makebyzantinemace=Fazer uma maça é mais difícil do que manejá-la.
+armysmith_byzantine.makebyzantinemace=O exército precisa de maças.
+
+armysmith_byzantine.gopray=Um bom ferreiro deve rezar de vez em quando.
+armysmith_byzantine.gopray=Por que me terá feito Deus ferreiro?
+armysmith_byzantine.gopray=A oração é uma parte importante do artesanato romano.
+armysmith_byzantine.gopray=Ele compreende os problemas dos ferreiros.
+
+armysmith_byzantine.gorest=Amanhã hei-de fabricar coisas mais belas!
+armysmith_byzantine.gorest=Já acabei o artesanato por hoje.
+armysmith_byzantine.gorest=Talvez sonhe a forjar as melhores armas do mundo!
+armysmith_byzantine.gorest=Talvez sonhe a forjar a melhor armadura do mundo!
+armysmith_byzantine.gorest=Talvez sonhe a forjar as melhores ferramentas do mundo!
+
+armysmith_byzantine.gosocialise=Vou perguntar se alguém precisa que lhe faça alguma coisa.
+armysmith_byzantine.gosocialise=Espero que a aldeia aprecie as minhas ferramentas.
+
+armysmith_byzantine.godrink=Chega de artesanato! Preciso de vinho!
+armysmith_byzantine.godrink=Preciso de uma bebida para me inspirar!
+armysmith_byzantine.godrink=Qualquer bom ferreiro precisa de uma bebida ao fim do dia.
+armysmith_byzantine.godrink=A forja dá-me sede de vinho.
+
+armysmith_byzantine.makearrow=$name, usa muitas flechas nas suas aventuras?
+armysmith_byzantine.makearrow=Cada arco precisa de uma flecha bem feita.
+armysmith_byzantine.makearrow=Cada flecha que eu fizer ferirá um inimigo do Império.
+armysmith_byzantine.makearrow=O exército romano precisa de flechas para nos proteger de estranhos.
+
+armysmith_byzantine.makebow=O exército romano precisa de arcos.
+armysmith_byzantine.makebow=Eh! Gosta dos meus arcos, $name?
+armysmith_byzantine.makebow=Todo o bom arco vem da melhor madeira.
+armysmith_byzantine.makebow=Este arco vai derrotar muitos bárbaros. Sou verdadeiramente um mestre fabricante de arcos.
+
+armysmith_byzantine.makebyzantineboots=O exército romano precisa de botas!
+armysmith_byzantine.makebyzantineboots=Os romanos fazem as melhores botas do mundo.
+armysmith_byzantine.makebyzantineboots=Alguém tem de fazer as botas dos soldados...
+armysmith_byzantine.makebyzantineboots=Nós fazemos as melhores botas.
+armysmith_byzantine.makebyzantineboots=Eh! Gosta das minhas botas, $name?
+armysmith_byzantine.makebyzantineboots=Sinto-me como um artesão demasiado glorificado de sapatos.
+armysmith_byzantine.makebyzantineboots=Qualquer fabrico de armadura é importante! Até as botas que tem nos pés!
+
+armysmith_byzantine.makebyzantinechest=O exército romano precisa de peitorais!
+armysmith_byzantine.makebyzantinechest=Os romanos fazem os melhores peitorais do mundo.
+armysmith_byzantine.makebyzantinechest=Eh! Gosta do meu peitoral, $name?
+armysmith_byzantine.makebyzantinechest=Nós fazemos o melhor peitoral.
+armysmith_byzantine.makebyzantinechest=Isto deve aguentar mais golpes do que o senhor aguenta.
+armysmith_byzantine.makebyzantinechest=Sinto-me como um artesão demasiado glorificado.
+
+armysmith_byzantine.makebyzantinehelmet=O exército romano precisa de capacetes!
+armysmith_byzantine.makebyzantinehelmet=Alguém tem de trabalhar nos capacetes dos soldados...
+armysmith_byzantine.makebyzantinehelmet=Os romanos fazem os melhores capacetes do mundo.
+armysmith_byzantine.makebyzantinehelmet=Eh! Gosta dos meus capacetes, $name?
+armysmith_byzantine.makebyzantinehelmet=Fabricamos os melhores capacetes.
+armysmith_byzantine.makebyzantinehelmet=Sinto-me como um artesão demasiado glorificado.
+
+armysmith_byzantine.makebyzantinelegs=O exército romano precisa de perneiras!
+armysmith_byzantine.makebyzantinelegs=Alguém tem de fazer as perneiras dos soldados...
+armysmith_byzantine.makebyzantinelegs=Os romanos fazem as melhores perneiras do mundo.
+armysmith_byzantine.makebyzantinelegs=Eh! Gosta das minhas perneiras, $name?
+armysmith_byzantine.makebyzantinelegs=Fabricamos as melhores perneiras.
+armysmith_byzantine.makebyzantinelegs=Sinto-me como um artesão demasiado glorificado.
+
+armysmith_byzantine.makesteelaxe=Não se podem cortar árvores sem um machado!
+armysmith_byzantine.makesteelaxe=Eu forjo machados extraordinários.
+armysmith_byzantine.makesteelaxe=Os machados romanos estão entre os melhores do mundo!
+armysmith_byzantine.makesteelaxe=Os lenhadores precisam que lhes façamos os machados.
+armysmith_byzantine.makesteelaxe=Como faz os seus machados, $name?
+
+armysmith_byzantine.makesteelhoe=Não se pode cultivar sem ferramentas agrícolas!
+armysmith_byzantine.makesteelhoe=Eu faço ferramentas agrícolas extraordinárias.
+armysmith_byzantine.makesteelhoe=As ferramentas agrícolas romanas estão entre as melhores do mundo!
+armysmith_byzantine.makesteelhoe=Os agricultores precisam de nós para fazer as suas ferramentas.
+armysmith_byzantine.makesteelhoe=Como fabrica as suas ferramentas agrícolas, $name?
+
+armysmith_byzantine.makesteelpickaxe=Não se pode minerar sem uma picareta!
+armysmith_byzantine.makesteelpickaxe=Eu forjo picaretas robustas.
+armysmith_byzantine.makesteelpickaxe=As picaretas romanas estão entre as melhores do mundo!
+armysmith_byzantine.makesteelpickaxe=Os mineiros precisam que lhes façamos as picaretas.
+armysmith_byzantine.makesteelpickaxe=Como fabrica as suas picaretas, $name?
+
+armysmith_byzantine.makesteelshovel=Não se pode construir nem cavar sem uma pá!
+armysmith_byzantine.makesteelshovel=Eu forjo pás sólidas.
+armysmith_byzantine.makesteelshovel=As pás romanas estão entre as melhores do mundo!
+armysmith_byzantine.makesteelshovel=Os arquitectos precisam de nós para lhes fazer as pás.
+armysmith_byzantine.makesteelshovel=Como fabrica as suas pás, $name?
+
+//artisan_byzantine.makePainting=A arte romana é a mais avançada do mundo.
+
+artisan_byzantine.gopray=Um bom artesão deve rezar de vez em quando.
+artisan_byzantine.gopray=Por que me terá feito Deus artesão?
+artisan_byzantine.gopray=A oração é uma parte importante do artesanato romano.
+artisan_byzantine.gopray=Ele compreende os problemas do artesão.
+
+artisan_byzantine.gorest=Amanhã hei-de fazer coisas mais belas!
+artisan_byzantine.gorest=Já acabei o meu artesanato por hoje.
+artisan_byzantine.gorest=Talvez sonhe a fazer os melhores tijolos do mundo!
+artisan_byzantine.gorest=Talvez sonhe a fazer as melhores telhas do mundo!
+
+artisan_byzantine.gosocialise=Vou perguntar se alguém precisa que lhe faça alguma coisa.
+artisan_byzantine.gosocialise=Espero que a aldeia aprecie as minhas telhas.
+artisan_byzantine.gosocialise=Espero que a aldeia aprecie os meus tijolos.
+
+artisan_byzantine.godrink=Chega de artesanato! Preciso de vinho!
+artisan_byzantine.godrink=Preciso de uma bebida para me inspirar!
+artisan_byzantine.godrink=Todo o bom artesão precisa de uma bebida ao fim do dia.
+artisan_byzantine.godrink=O fabrico dá-me sede de vinho.
+
+artisan_byzantine.greeting=A minha vida é melhor do que a dos outros aldeões.
+artisan_byzantine.greeting=Olá, $name! Precisa de blocos romanos exclusivos?
+
+artisan_byzantine.makebrick=Alguém tem de fazer os tijolos.
+artisan_byzantine.makebrick=A aldeia precisa que eu faça tijolos para as suas paredes.
+artisan_byzantine.makebrick=Os tijolos romanos estão entre os blocos mais belos do mundo!
+artisan_byzantine.makebrick=Trabalhamos nos bastidores enquanto os construtores recebem todo o crédito.
+artisan_byzantine.makebrick=Nem os melhores construtores conseguem construir sem blocos.
+artisan_byzantine.makebrick=Quem terá pensado em transformar argila em tijolos?
+
+artisan_byzantine.makebookshelves=Alguém tem de pôr os livros nas estantes.
+artisan_byzantine.makebookshelves=A aldeia precisa que eu faça as estantes.
+artisan_byzantine.makebookshelves=Os livros romanos estão entre os mais lidos do mundo!
+artisan_byzantine.makebookshelves=Trabalhamos nos bastidores enquanto os escritores recebem todo o crédito.
+artisan_byzantine.makebookshelves=Por vezes olho para os livros antes de os colocar na estante; gostaria de saber ler.
+artisan_byzantine.makebookshelves=Quem terá pensado em escrever estas coisas?
+
+artisan_byzantine.makebyzantinetiles=Alguém tem de fazer as telhas.
+artisan_byzantine.makebyzantinetiles=A aldeia precisa que eu faça os seus telhados.
+artisan_byzantine.makebyzantinetiles=As telhas romanas estão entre os blocos mais belos do mundo!
+artisan_byzantine.makebyzantinetiles=Trabalhamos nos bastidores enquanto os construtores recebem todo o crédito.
+artisan_byzantine.makebyzantinetiles=Nem os melhores construtores conseguem construir sem blocos.
+artisan_byzantine.makebyzantinetiles=Quem terá pensado em transformar argila em telhados?
+
+artisanwife_byzantine.gopray=A oração é uma parte importante do ofício romano.
+artisanwife_byzantine.gopray=Espero que Deus me ajude a fazer as melhores roupas!
+artisanwife_byzantine.gopray=Por que me terá feito Deus mulher de arquitecto?
+
+artisanwife_byzantine.gosocialise=Oh! Eu fiz a camisa daquele homem!
+artisanwife_byzantine.gosocialise=Aqui sou conhecida como a esposa do arquitecto.
+artisanwife_byzantine.gosocialise=Estou farta de ser conhecida como "a esposa do arquitecto".
+
+artisanwife_byzantine.makeclothes_byz_silk=Faço algumas das melhores roupas da aldeia!
+artisanwife_byzantine.makeclothes_byz_silk=A seda romana é o melhor tecido do mundo!
+artisanwife_byzantine.makeclothes_byz_silk=As roupas de seda são mais importantes do que ter uma casa luxuosa.
+artisanwife_byzantine.makeclothes_byz_silk=$name, já usou seda?
+artisanwife_byzantine.makeclothes_byz_silk=Toda a gente precisa de roupa, sobretudo se quiser ser civilizado.
+artisanwife_byzantine.makeclothes_byz_silk=A verdadeira beleza não está nos blocos, está nas roupas.
+artisanwife_byzantine.makeclothes_byz_silk=Há uma razão para ser eu a tecer isto, e não o meu marido.
+artisanwife_byzantine.makeclothes_byz_silk=A tecelagem de roupas de seda está reservada às mulheres mais nobres.
+artisanwife_byzantine.makeclothes_byz_silk=Fico contente por ter um trabalho a sério.
+
+artisanwife_byzantine.makeclothes_byz_wool=Faço algumas das melhores roupas de lã da aldeia!
+artisanwife_byzantine.makeclothes_byz_wool=Roupas bonitas são mais importantes do que ter uma casa elegante.
+artisanwife_byzantine.makeclothes_byz_wool=$name, já usou lã?
+artisanwife_byzantine.makeclothes_byz_wool=A verdadeira beleza não está nos blocos, está nas roupas.
+artisanwife_byzantine.makeclothes_byz_wool=Toda a gente precisa de roupa, sobretudo se quiser ser civilizado.
+artisanwife_byzantine.makeclothes_byz_wool=Há uma razão para ser eu a tecer isto, e não o meu marido.
+artisanwife_byzantine.makeclothes_byz_wool=Nem todas as mulheres sabem tecer com lã.
+artisanwife_byzantine.makeclothes_byz_wool=Fico contente por ter um trabalho a sério.
+
+artisanwife_byzantine.delivergoodshousehold=Este tipo de tarefa é a única coisa que posso fazer aqui.
+artisanwife_byzantine.gethousethresources=O meu marido entregou-me finalmente os recursos, tal como lhe pedi.
+artisanwife_byzantine.getgoodshousehold=Está na hora de tratar da minha família.
+artisanwife_byzantine.greeting=Podia fazer muito mais aqui se fosse homem, ah se fosse...
+artisanwife_byzantine.greeting=A nossa tarefa é controlar os nossos homens.
+
+baron_byzantine.greeting=$name, a minha aldeia tem os melhores produtos à venda!
+baron_byzantine.greeting=Bom dia, viajante afortunado!
+baron_byzantine.greeting=Importa-se de me ajudar a vigiar os camponeses, $name?
+
+baron_byzantine.godrink=Já governei o suficiente! Preciso de uma bebida.
+baron_byzantine.godrink=Mereço beber o melhor vinho!
+baron_byzantine.godrink=Devo verificar se a taberna é rentável.
+baron_byzantine.godrink=Qualquer pessoa poderosa precisa de beber, senão morre de stress!
+
+baron_byzantine.gopray=Por que me terá feito Deus barão?
+baron_byzantine.gopray=A oração é uma parte importante do governo romano.
+baron_byzantine.gopray=Ele compreende os problemas dos barões.
+baron_byzantine.gopray=A minha aldeia precisa de respostas de Deus!
+
+baron_byzantine.gorest=Todos os camponeses tratados! Preciso de dormir.
+baron_byzantine.gorest=* Bocejo * Não consigo dirigir os camponeses quando estou cansado.
+baron_byzantine.gorest=Está na hora de dormir na minha colcha de seda.
+baron_byzantine.gorest=Toda a gente precisa de dormir, sobretudo quem administra uma aldeia.
+
+baron_byzantine.gosocialise=Por que insistem os camponeses estúpidos em ver-me apenas como o "barão"?
+baron_byzantine.gosocialise=Hé, hé, hé, vejamos se ele pagou os impostos.
+baron_byzantine.gosocialise=Está na hora de inspirar os pobres a ganhar dinheiro!
+baron_byzantine.gosocialise=Tenho mesmo de falar com a gente comum?
+baron_byzantine.gosocialise=Como barão, devo falar com o meu povo, mesmo que não me apeteça.
+
+baron_byzantine.inspectconstruction=Tenho de garantir que os camponeses não estragam nada.
+baron_byzantine.inspectconstruction=Este edifício vai trazer benefícios à minha aldeia.
+baron_byzantine.inspectconstruction=A beleza está em ver a sua aldeia ficar mais rica.
+baron_byzantine.inspectconstruction=Sei que Roma não se fez num dia, mas por que será que o meu arquitecto é tão lento?
+baron_byzantine.inspectconstruction=É o meu trabalho garantir que os edifícios estão bem construídos.
+baron_byzantine.inspectconstruction=Os meus arquitectos costumam fazer um bom trabalho, mas tenho sempre de os fiscalizar.
+
+boy_byzantine.becomeadult=Está na hora de me tornar um homem forte!
+boy_byzantine.becomeadult=Já tenho idade para trabalhar!
+boy_byzantine.becomeadult=Preciso de um emprego agora.
+boy_byzantine.becomeadult=Acabaram-se os meus dias de rapaz.
+
+boy_byzantine.goplay=Quero lutar com alguém!
+boy_byzantine.goplay=Quero jogar ao "Combate ao Bárbaro"!
+boy_byzantine.goplay=Vou mostrar a todos que sou alto e forte!
+boy_byzantine.goplay=Está na hora de fazer de "soldado".
+
+boy_byzantine.gopray=Quero saber mais sobre Deus!
+boy_byzantine.gopray=Pode Deus falar-me dos adultos?
+boy_byzantine.gopray=Como é que se reza?
+boy_byzantine.gopray=Não quero rezar! Quero brincar!
+
+boy_byzantine.childobservesmithing=Quando crescer, também quero ser ferreiro. Ou soldado! Ou general!
+
+centurio_byzantine.godrink=Qualquer pessoa poderosa precisa de beber, senão morre de stress!
+centurio_byzantine.godrink=Como soldado, preciso de vinho; como centurião, ainda mais.
+centurio_byzantine.godrink=Preciso de relaxar, senão sou inútil quando os bárbaros chegarem.
+
+centurio_byzantine.gopray=Por que me terá feito Deus centurião?
+centurio_byzantine.gopray=A oração é uma parte importante da guerra romana.
+centurio_byzantine.gopray=Ele compreende os problemas que os centuriões têm.
+centurio_byzantine.gopray=O meu exército precisa de respostas de Deus!
+
+centurio_byzantine.gorest=Todos os soldados controlados! Preciso de dormir.
+centurio_byzantine.gorest=Está na hora de tirar a armadura e ir dormir.
+centurio_byzantine.gorest=* Bocejo * Não consigo liderar soldados quando estou cansado.
+centurio_byzantine.gorest=Toda a gente precisa de dormir, sobretudo quem administra uma aldeia.
+
+centurio_byzantine.gosocialise=Está na hora de animar os soldados!
+centurio_byzantine.gosocialise=Uma boa maneira de criar lealdade é consultar as nossas tropas.
+centurio_byzantine.gosocialise=Preciso de mais recrutas para o exército!
+centurio_byzantine.gosocialise=Os meus subordinados devem conhecer os meus planos de defesa.
+centurio_byzantine.gosocialise=Os meus subordinados devem conhecer os meus planos ofensivos.
+centurio_byzantine.gosocialise=A população tem de compreender a ameaça de um ataque bárbaro!
+centurio_byzantine.gosocialise=Devo lembrar a todos que é preciso estar pronto para lutar a qualquer momento!
+
+centurio_byzantine.huntmonster=Mesmo como centurião, não posso enferrujar-me como soldado.
+centurio_byzantine.huntmonster=Onde estão os meus subordinados? Deviam ser eles a fazer isto.
+centurio_byzantine.huntmonster=Sou centurião do Império Romano e julgas que me podes derrotar? Ah!
+
+centurio_byzantine.inspectconstruction=É bom ver a sua aldeia tornar-se mais forte.
+
+farmiller_wife_byzantine.delivergoodshousehold=Este tipo de tarefa é a única coisa que posso fazer aqui.
+farmiller_wife_byzantine.gethousethresources=O meu marido entregou-me finalmente os recursos, tal como lhe pedi.
+farmiller_wife_byzantine.getgoodshousehold=Está na hora de tratar da minha família.
+farmiller_wife_byzantine.greeting=Podia fazer muito mais aqui se fosse homem, ah se fosse...
+farmiller_wife_byzantine.greeting=A nossa tarefa é controlar os nossos homens.
+
+girl_byzantine.childobserveproducefood=Ainda bem que os homens não cozinham, queimavam tudo.
+
+keeperbirch_byzantine.greeting=É tão aborrecido aqui, nunca acontece nada...
+keeperbirch_byzantine.greeting=É o meu trabalho guardar estas paragens.
+keeperbirch_byzantine.greeting=Saudações, viajante, como descobriu este lugar perdido?
+keeperbirch_byzantine.greeting=Quem havia de pensar que era preciso um guarda por aqui...
+
+keeperoak_byzantine.greeting=Estas gentes daqui, que se chamam normandas, fazem-me lembrar o nosso glorioso império.
+keeperoak_byzantine.greeting=É tão aborrecido aqui, nunca acontece nada...
+keeperoak_byzantine.greeting=É o meu trabalho guardar estas paragens.
+keeperoak_byzantine.greeting=Saudações, viajante, como descobriu este lugar perdido?
+keeperoak_byzantine.greeting=Quem havia de pensar que era preciso um guarda por aqui...
+
+keeperpine_byzantine.greeting=Este frio é horrível. Não admira que não ande por aqui ninguém.
+keeperpine_byzantine.greeting=É tão aborrecido aqui, nunca acontece nada...
+keeperpine_byzantine.greeting=É o meu trabalho guardar estas paragens.
+keeperpine_byzantine.greeting=Saudações, viajante, como descobriu este lugar perdido?
+keeperpine_byzantine.greeting=Quem havia de pensar que era preciso um guarda por aqui...
+
+keepertropical_byzantine.greeting=É tão aborrecido aqui, nunca acontece nada...
+keepertropical_byzantine.greeting=É o meu trabalho guardar estas paragens.
+keepertropical_byzantine.greeting=Está tão calor aqui. Não percebo por que vivem estes indianos nestas terras.
+keepertropical_byzantine.greeting=Já viu estes maias estranhos? Os edifícios deles parecem capazes de ruir a qualquer momento.
+keepertropical_byzantine.greeting=Saudações, viajante, como descobriu este lugar perdido?
+keepertropical_byzantine.greeting=Quem havia de pensar que era preciso um guarda por aqui...
+
+lumberman_byzantine.bringbackresourceshome=Espero que isto chegue para a aldeia prosperar!
+lumberman_byzantine.bringbackresourceshome=Sou um lenhador de muito sucesso, o meu inventário está cheio de madeira!
+lumberman_byzantine.bringbackresourceshome=Carrego muitas árvores, mas não pesam nada, sabe-se lá porquê.
+lumberman_byzantine.bringbackresourceshome=Foi um trabalho bem feito.
+lumberman_byzantine.bringbackresourceshome=A minha mulher deve orgulhar-se de toda a madeira que trouxe.
+
+lumberman_byzantine.choptrees=Toda a estrutura aqui precisa de madeira, e esse é o meu trabalho!
+lumberman_byzantine.choptrees=Mais uma árvore abatida, mais madeira para a aldeia!
+lumberman_byzantine.choptrees=Mais uma árvore, mais madeira para a aldeia!
+lumberman_byzantine.choptrees=$name, já cortou alguma árvore?
+lumberman_byzantine.choptrees=À árvore abatida!
+lumberman_byzantine.choptrees=Morre, árvore, morre! HAHAHA! Morre! Morre! Morre! Ha— Oh, olá, $name! Nada... de estranho... a acontecer aqui.
+lumberman_byzantine.choptrees=Não te quero matar, mas tenho de o fazer... Adeus, árvore!
+lumberman_byzantine.choptrees=Já se perguntou por que as árvores abatidas ficam a flutuar assim, $name? É muito estranho. Faça o que fizer, ficam sempre a flutuar e tenho de cortar a árvore aos bocados, é uma maçada.
+lumberman_byzantine.gathergoods=Eh, $name! Não leve isso!
+lumberman_byzantine.gathergoods=As árvores cresceram bem desta vez, muitos troncos e rebentos.
+lumberman_byzantine.gathergoods=Espero que a aldeia precise de todos estes troncos.
+lumberman_byzantine.gathergoods=Aquela árvore era enorme! Agora a aldeia pode aproveitar os troncos dela.
+lumberman_byzantine.gathergoods=Olha-me só para estes troncos novos e rebentos que apanhei a cortar as árvores!
+lumberman_byzantine.gathergoods=Belo rebento ali.
+
+lumberman_byzantine.plantsaplings=Estas árvores jovens são tão pequenas que por vezes não consigo acreditar que se tornarão tão grandes.
+lumberman_byzantine.plantsaplings=És tão bonita, minha pequena árvore, quase me fazes esquecer que te vou cortar em pedaços quando cresceres.
+lumberman_byzantine.plantsaplings=$name, quer plantar um rebento?
+lumberman_byzantine.plantsaplings=As árvores crescem tão depressa aqui — em poucos dias passam de pequenos rebentos a árvores em pleno.
+lumberman_byzantine.plantsaplings=Plantar é o trabalho mais fácil; basta-me pô-los no chão.
+lumberman_byzantine.plantsaplings=Em breve será uma árvore majestosa! E eu vou abatê-la.
+
+merchant_art.greeting=Nenhuma cidade do mundo se compara à beleza e ao poder de Constantinopla.
+merchant_art.greeting=Somos os últimos romanos a sério!
+
+miner_byzantine.mining=O meu trabalho é partir pedras e fundi-las, mais nada.
+miner_byzantine.mining=O meu braço dói-me de usar esta picareta todos os dias.
+miner_byzantine.mining=Um bloco, dois blocos, três blocos, quatro blocos, nunca mais acaba. Sempre a mesma coisa.
+miner_byzantine.mining=Um bloco, dois blocos, três... espera, será ouro? Será? Encontrei ouro! OURO! OURO! Estou rico! HAHA-ah, era só ferro a refletir numa má luz. Volto à mineração de ferro e carvão...
+miner_byzantine.mining=Oitenta blocos, oitenta e um, oitenta e dois, oitenta e três...
+miner_byzantine.mining=Eh! Como consegue transportar tantos blocos e tão depressa? Levo horas a fazer o que o senhor faz num dia.
+miner_byzantine.mining=* Tosse * * Tosse * — odeio trabalhar com carvão.
+miner_byzantine.mining=Neste trabalho, são precisas força e resistência. Mas ninguém o reconhece...
+miner_byzantine.mining=Orgulho-me de ser cidadão romano e de trabalhar para o glorioso império, mesmo neste duro labor.
+
+metropolit_byzantine.makebooks=Os meus livros são alguns dos melhores manuscritos de todos os tempos.
+
+metropolit_byzantine.gopray=Por que me terá feito Deus um dos seus servos mais preciosos?
+metropolit_byzantine.gopray=Como patriarca, devo liderar a oração.
+metropolit_byzantine.gopray=Compreendo os problemas que Ele tem.
+metropolit_byzantine.gopray=Ele compreende os problemas dos patriarcas.
+metropolit_byzantine.gopray=A minha aldeia precisa de respostas de Deus!
+
+metropolit_byzantine.gorest=Toda a gente precisa de dormir, sobretudo quem administra uma aldeia.
+metropolit_byzantine.gorest=* Bocejo * Não consigo liderar padres quando estou cansado.
+
+metropolit_byzantine.inspectconstruction=É belo ver a sua aldeia aproximar-se de Deus.
+
+pastor_byzantine.makebooks=Os meus livros são alguns dos melhores manuscritos de todos os tempos.
+
+//smith_byzantine.MakeIndianTools=As ferramentas romanas são as melhores do mundo.
+
+smith_byzantine.gopray=Um bom ferreiro deve rezar de vez em quando.
+smith_byzantine.gopray=Por que me terá feito Deus ferreiro?
+smith_byzantine.gopray=A oração é uma parte importante do artesanato romano.
+smith_byzantine.gopray=Ele compreende os problemas dos ferreiros.
+
+smith_byzantine.gorest=Amanhã hei-de fazer coisas mais belas!
+smith_byzantine.gorest=Já acabei de forjar por hoje.
+smith_byzantine.gorest=Talvez sonhe a fazer as melhores ferramentas do mundo!
+
+smith_byzantine.gosocialise=Vou perguntar se alguém precisa que lhe faça alguma coisa.
+smith_byzantine.gosocialise=Espero que a aldeia aprecie as minhas ferramentas.
+
+smith_byzantine.godrink=Chega de artesanato! Preciso de vinho!
+smith_byzantine.godrink=Preciso de uma bebida para me inspirar!
+smith_byzantine.godrink=Qualquer bom ferreiro precisa de uma bebida ao fim do dia.
+smith_byzantine.godrink=O trabalho dá-me sede de vinho.
+
+smith_byzantine.makesteelaxe=Não se podem cortar árvores sem um machado!
+smith_byzantine.makesteelaxe=Eu forjo machados extraordinários.
+smith_byzantine.makesteelaxe=Os machados romanos estão entre os melhores do mundo!
+smith_byzantine.makesteelaxe=Os lenhadores precisam que lhes façamos os machados.
+smith_byzantine.makesteelaxe=Como faz os seus machados, $name?
+
+smith_byzantine.makesteelhoe=Não se pode cultivar sem ferramentas agrícolas!
+smith_byzantine.makesteelhoe=Eu faço ferramentas agrícolas extraordinárias.
+smith_byzantine.makesteelhoe=As ferramentas agrícolas romanas estão entre as melhores do mundo!
+smith_byzantine.makesteelhoe=Os agricultores precisam que lhes façamos as ferramentas.
+smith_byzantine.makesteelhoe=Como fabrica as suas ferramentas agrícolas, $name?
+
+smith_byzantine.makesteelpickaxe=Não se pode minerar sem uma picareta!
+smith_byzantine.makesteelpickaxe=Forjo picaretas robustas.
+smith_byzantine.makesteelpickaxe=As picaretas romanas estão entre as melhores do mundo!
+smith_byzantine.makesteelpickaxe=Os mineiros precisam que lhes façamos as picaretas.
+smith_byzantine.makesteelpickaxe=Como fabrica as suas picaretas, $name?
+
+smith_byzantine.makesteelshovel=Não se pode construir nem cavar sem uma pá!
+smith_byzantine.makesteelshovel=Forjo pás duradouras.
+smith_byzantine.makesteelshovel=As pás romanas estão entre as melhores do mundo!
+smith_byzantine.makesteelshovel=Os arquitectos precisam de nós para lhes fazer as pás.
+smith_byzantine.makesteelshovel=Como fabrica as suas pás, $name?
+
+villager.greeting=Olá, $name!
+villager.greeting=Está um belo dia, não está?
+villager.greeting=Em breve há-de chover.
+villager.greeting=Nenhuma cidade do mundo se compara a Constantinopla.
+villager.greeting=Não somos gregos, somos romanos.
+villager.greeting=Somos os últimos romanos a sério.
+villager.greeting=Absorva a glória da nossa civilização durante a sua estada aqui.
+villager.greeting=Bem-vindo à aldeia, $name!
+villager.greeting=Olha! É o $name!
+villager.greeting=Somos os últimos romanos a sério. Banhe-se na luz da nossa civilização.
+
+villager.becomeadult=Finalmente, tornei-me cidadão romano!
+
+villager.huntmonster=Tenho de matar este bárbaro!
+
+villager.goplay=Acho que vou brincar lá fora.
+villager.goplay=Vou jogar agora.
+villager.goplay=$name! Queres brincar comigo?
+villager.goplay=Quero correr!
+
+villager.calltoarms=O Império Romano está sob ataque! Peguem nas armas!
+villager.calltoarms=Os bárbaros estão aqui! Defendam a nossa aldeia a todo o custo!
+
+villager.childeatgrapes=Juro que estas uvas caíram sozinhas!
+
+villager.childobservevines=Os adultos deviam parar de desperdiçar uvas deliciosas a fazer este vinho horrível!
+villager.childobserveconstruction=Um dia hei-de visitar Constantinopla para ver como são os verdadeiros edifícios romanos!
+villager.childobserveproducealcohol=Já bebi vinho uma vez, é horrível.
+
+villager.gorest=Se não dormir, podem acontecer acidentes.
+villager.gorest=Estou cansada. Vou para casa dormir.
+villager.gorest=Acho que vou dormir.
+
+villager.makebread=O pão já está bom...
+
+villager.gopray=Preciso da ajuda de Deus.
+villager.gopray=Deus ama-me, vai dar-me conselhos.
+villager.gopray=Rezo todos os dias, está na hora de o fazer de novo!
+villager.gopray=Tenho de ir rezar a Deus.
+villager.gopray=Deus, que fiz eu?
+villager.gopray=Que me dirá Deus que faça a seguir?
+villager.gopray=Está na hora de rezar a Deus!
+
+villager.godrink=Está na hora de provar um vinho romano bem fresco!
+villager.godrink=Preciso de uma bebida.
+villager.godrink=O vinho lava-me as preocupações.
+villager.godrink=Sabia que o vinho romano é o melhor do mundo?
+villager.godrink=Não bebo há muito tempo.
+
+wife_byzantine.delivergoodshousehold=Este tipo de tarefa é a única coisa que posso fazer aqui.
+wife_byzantine.gethousethresources=O meu marido entregou-me finalmente os recursos, tal como lhe pedi.
+wife_byzantine.cooking=Cozinhar é mesmo divertido.
+wife_byzantine.getgoodshousehold=Está na hora de tratar da minha família.
+wife_byzantine.greeting=Podia fazer muito mais aqui se fosse homem, ah se fosse...
+wife_byzantine.greeting=A nossa tarefa é controlar os nossos homens.
+villager.givespeech=O Império Romano é grandioso, e a nossa aldeia é a maior de todas.
+villager.givespeech=A nossa aldeia deve agradecer à sua liderança por toda a sua grandeza.
+villager.givespeech=Nós, os romanos, temos os melhores líderes e o melhor povo.
+
+villager.listentospeech=Ele tem razão!
+villager.listentospeech=Glória a nós!
+villager.listentospeech=Podemos derrotar qualquer um!
+villager.listentospeech=Glória a Deus e ao nosso líder enviado dos céus!
+
+special_byzantine.greeting=A tua servidão será recompensada, $name.
+special_byzantine.calltoarms=Não tentes a tua sorte, criança.
+special_byzantine.gopray=Inclina-te perante mim...
+
+oldshepherd_byzantine.greeting=As minhas convicções permitiram-me continuar…
+oldshepherd_byzantine.greeting=Ajuda-me a realizar o meu sonho, $name, e serás recompensado…
+oldshepherd_byzantine.calltoarms=Pelo Boskokrator!
+oldshepherd_byzantine=Santo Boskokrator, por favor abençoa-me a mim e às minhas ovelhas.
+
+merchant_armour.greeting=Apenas as melhores armaduras e armas!
+merchant_armour.keepstall=Bem-vindo, bem-vindo! Trago-vos as melhores espadas que podem encontrar!
+
+merchant_dyes.greeting=Visto-me de cores todos os dias! Espera, não sou indiano.
+merchant_dyes.keepstall=Venham ver! Tintas vindas de todo o mundo!
+
+merchant_food.greeting=Que tal um delicioso souvlaki, $name?
+merchant_food.keepstall=Toda a comida que sempre quiseram comer!
+
+merchant_materials.greeting=Venham comprar os melhores materiais de construção! Eu e as minhas costas agradecemos-vos.
+merchant_materials.keepstall=Areia, pedra e tijolos! Diorito e quartzo!
+
+merchant_relics.greeting=Vendo objectos de arte valiosos e bens sagrados, $name.
+merchant_relics.keepstall=Venham contemplar o auge do artesanato romano.
+
+merchant_textiles.greeting=A sério, $name? Essa pele?
+merchant_textiles.keepstall=Tapetes e roupas na moda, tal como os têm em Constantinopla!
+
+loneabbot_byzantine.greeting=Bem-vindo, $name. Pode descansar da sua viagem, está seguro aqui.
+lonemonk_byzantine.greeting=Nada lhe posso oferecer, $name.
+
+loneabbot_byzantine.gosocialise=Mal posso esperar para partilhar o meu saber.
+
+lonemonk_byzantine.gosocialise=Mal posso esperar para partilhar o meu saber.
+lonemonk_byzantine.plantseeds=Que Deus abençoe estas sementes.
+lonemonk_byzantine.collectcrop=Estas colheitas são uma dádiva do próprio Deus.
+lonemonk_byzantine.makebread=O grande sacrifício do Filho será celebrado com este pão.
+
+villager.plantseeds=Sinto que teremos uma colheita farta este ano.
+villager.collectcrop=Eu bem sabia! Uma colheita farta!
+
+villager.gostudy=Por favor, não me distraia, $name.
+
+villager.gotreerelax=Este lugar à sombra é simplesmente perfeito…
+villager.gotreerelax=Podia ficar debaixo desta árvore o dia inteiro…
+
+villager.relight=O amor de Deus é o meu único desejo!
+villager.golookout=Hoje, há de chegar um navio. Tenho a certeza.
+villager.golookout=Um trabalho aborrecido, mas ao menos sou pago.
+villager.sellercoming=Chego de imediato!
+villager.tradecomplete=Mil agradecimentos, bons negócios!

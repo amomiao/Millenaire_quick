@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Så, skjønnhet, hva gjør du i kveld?
+v2;40;$targetfirstname, jeg har allerede sagt det — jeg er lovet bort til en annen!
+
+newchat;key:beautiful,weigth:10
+v1;0;Hvor er vi, dette er ingen steder jeg har sett før. Det ser likt ut, men føles annerledes.
+v2;30;Sjamanene sier at vi er i de hjelpsomme åndenes velsignede land, derfor er det så fantastisk her!
+
+newchat;key:carribou,weigth:10
+v1;0;Hvor er alle karibuene? Jeg savner karibukjøtt.
+v2;30;Vi har jaktet mange ganger, men ingen har funnet noen karibuer.
+v2;60;Vi har riktignok funnet mange av det som ligner på bison!
+v1;60;Æsj, jeg hater bison, karibu er bedre.
+v2;90;Da kan du jo ta fisken, vi har masse av den.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Det er ikke mye å gjøre her omkring.
+v2;30;Det er bra, fredelig.
+v1;60;Og kjedelig …
+v2;75;Du kunne gravd et hull, eller bygd en snøiglo!
+v1;110;Min egen snøiglo?!
+
+newchat;key:endermen,weigth:10
+v1;0;Har du hørt hva den eldre sier om de høye, slanke, skumle folkene?
+v2;30;At de er skyggefolket? Jeg vet ikke …
+v1;60;Det gir jo mening! Hvis vi virkelig er i et velsignet land, ville de vært forvridd slik!
+v2;90;Men hvis vi er i et velsignet land, hvorfor er skyggefolket overhodet her?
+v2;120;Å … hm, jeg vet ikke …
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Jeg elsker duften av kjøtt som tilberedes hos matlageren.
+v2;30;Jeg vet ikke, jeg foretrekker som regel kjøttet rått, det endrer smaken.
+v1;60;Hei, jeg liker den endrede smaken!
+
+newchat;key:hunting,weigth:10
+v1;0;Jeg har forbedret ferdighetene mine igjen.
+v2;30;Du blir raskt en stor jeger!
+v1;90;Tror du virkelig det?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;De japanske folkene vet sannelig hvordan man tilbereder fisk!
+v2;30;«Tilbereder» fisk? Du mener bare at de koker den, ikke sant?
+v1;60;Nei, jeg mener at de serverer maten sin med alle disse forseggjorte metodene og smakene.
+v2;90;Kan mat smake annerledes uten bare å være bedervet?
+v1;120;Ja, du burde bli med meg neste gang jeg drar dit!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Pappaen min er mye sterkere enn din.
+v2;30;Pappaen min er den sterkeste i landsbyen, din dumming!
+v1;60;Drøm videre. Pappaen min kan slå din på to minutter blank.
+
+newchat;key:kys,weigth:10
+v1;0;Når skal den eldre dra av sted for å dø?
+v2;30;Jeg tror ikke vi trenger å gjøre det her, denne nye verden er mye mer imøtekommende!
+v1;60;Jeg antar det … men det er rart å se henne fremdeles i live.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Jeg liker snø.
+v2;42;Det er heldig for en inuitt!
+
+newchat;key:meat,weigth:10
+v1;0;Jeg tror kjøttlageret vårt holder på å bli tomt, jeg hater når vi går tom.
+v1;30;Kjøtt er bare ikke det samme som lapskaus …
+v2;60;Men de fleste lapskauser har vel kjøtt i seg?
+v1;90;Ja, men det er bare ikke det samme …
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Æsj, se hvor små og sykelige bisonene er her.
+v2;42;Den fremmede handelsmannen kaller dem «kuer …?»
+
+newchat;key:murderer,weigth:10
+v1;0;Hørte du hva som hendte med ham etter ulykken?
+v2;30;Ulykke eller ei, å drepe folk er galt.
+v1;60;Ja, men måtte vi kaste ham ut av landsbyen? Jeg hører at han har blitt gal på egen hånd.
+v2;90;Vi var nødt! Her er det i det minste ikke kaldt, og han kommer ikke til å fryse i hjel der ute.
+v1;120;Er det bedre? Nå er han tvunget til å leve helt alene!
+
+newchat;key:normans,weigth:5
+v1;0;Jeg møtte noen merkelige folk, de kaller seg normannere?
+v2;30;Ja, normannerne er flotte, men de trenger sannelig mye.
+v1;60;Hva mener du?
+v2;90;En av dem stakk innom her om dagen, og jeg tømte huset mitt for å gi ham ting, han trengte tilsynelatende bare mer og mer.
+v1;120;Stakkars mann.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Snør det?
+v2;30;Det ser ut som snø, men det virker ikke som om det er kaldt.
+
+newchat;key:seasons,weigth:10
+v1;0;Tror du jakten blir bra i år?
+v2;30;Hvem vet, med det været vi har hatt.
+v1;60;Årstider gir ingen mening her.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Jeg misunner sjamanene, jeg skulle ønske jeg kunne snakke med åndene slik de gjør.
+v2;30;Du kunne kanskje se om sjamanen vil lære deg?
+v1;60;Kanskje … men noen ånder er skumle.
+v2;70;Sant, det vil alltid finnes skumle ånder å passe seg for.
+
+newchat;key:sunset,weigth:10
+v1;0;Jeg er trett, dagen i dag går ikke fort nok …
+
+newchat;key:visitors,weigth:10
+v1;0; Dette stedet er rart, det er fullt av fremmede folk.
+v2;30;Du mener slike som $name?
+v1;60;Vel, $name er bare én person, jeg mener alle de andre.

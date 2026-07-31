@@ -1,0 +1,92 @@
+female.becomeadult=I had dreamed of marrying a prince..
+
+female.gorest=I will go to rest now.
+female.gorest=I am tired.
+female.gorest=I have been working since the morning.
+
+armysmith.makeweapons=Making weapons is so much more prestigious than making tools!
+
+lumberman.bringbackresourceshome=It will be difficult to carry so much wood back home.
+lumberman.choptrees=It seems I will spend my life cutting these trees.
+lumberman.gathergoods=Now, I will gather all the wood.
+lumberman.plantsaplings=The more trees I plant, the easier life will be later.
+
+pandit.gopray.chosen=If I don’t take care of the temple, who will?
+pandit.greeting=Have a long life.
+
+peasant.cookbrick=Look how well these bricks cook in the fire.
+
+peasant.drybrick=How many bricks do you need to build a house?
+
+peasant.gatherbrick=The sun is strong, they are drying fast today.
+
+peasant.getresourcesforbuild=Let’s see, one ton of bricks, two tons of stones...
+
+peasant.slaughterchicken=I’ve had enough vegetarian curry!
+peasant.slaughterchicken=I hate chickens. They are loud and serve no other purpose other than to be eaten.
+
+peasant.construction=Our architecture is renowned throughout the world.
+peasant.construction=When I am done with this, I will build a red fort.
+
+peasantwife.delivergoodshousehold=How will I carry all this food alone?
+peasantwife.getgoodshousehold=No matter how much you get for this family, it is never enough!
+peasantwife.gethousethresources=Everything always ends up in the landlord’s house.
+peasantwife.makerasgulla=The kids love rasgullas.
+
+sculptor.scult=Sculpture is the art of the hole and the lump.
+smith.maketools=Everyone uses my tools, and yet everyone looks down on me.
+
+male.becomeadult=I wanted to become a great warrior when I was younger...
+
+male.gorest=I will go to rest now.
+male.gorest=I am tired.
+male.gorest=I have been working since the morning.
+
+merchant_adivasi.keepstall=Everything is grown by my family, deep in the jungle.
+merchant_adivasi.greeting=I have just come from the forest.
+
+merchant_oriental.keepstall=See the riches of Persia!
+merchant_oriental.greeting=Peace upon you, brother!
+
+merchant_villagewoman.keepstall=Home-made food for hungry travelers!
+merchant_villagewoman.greeting=Traveling is tough for a lone woman.
+
+villager.becomeadult=Enough playing, time to work.
+
+villager.goplay=I love playing in the dirt.
+
+villager.childobserveagriculture=Planting crops all days seems so boring. I want a life of adventure!
+villager.childobserveconstruction=Construction looks like too much work for me.
+villager.childobservesmithing=Such strong arms!
+villager.childobserveproducefood=My mum makes the best rasgullas.
+
+villager.childeatsugarcane=Mum says it damages the teeth, but it's so good!
+
+villager.harvestrice=Because of the wonderful raining season, we now have a strong harvest.
+
+villager.harvestturmeric=This turmeric harvesting is making my hands yellow.
+
+villager.plantrice=If it rains heavily, the harvest will be good this year.
+
+villager.plantturmeric=After all, everyone needs turmeric.
+
+villager.calltoarms=Defeat to the enemies!
+villager.calltoarms=Victory will be ours.
+villager.calltoarms=Everyone pick up their arms!
+
+villager.gopray.chosen=Time to visit the temple again.
+villager.gopray=God, you are our only hope.
+villager.gopray=Dear God, may the harvest be good this time.
+
+villager.greeting=It is very hot today.
+villager.greeting=Is everyone well at home?
+villager.greeting=How are things?
+villager.greeting=What's new, $name-ji!?
+villager.greeting=Are you from beyond the ocean?
+villager.greeting=Greetings, $name-ji!
+villager.greeting=Why isn’t it raining here?
+
+villager.inspectconstruction=I enjoy seeing our builders produce such fine works.
+female.sellercoming=I'm on my way!
+villager.sellercoming=I'm on my way!
+villager.tradecomplete=The deal is done, come back again.

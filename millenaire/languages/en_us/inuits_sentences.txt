@@ -1,0 +1,60 @@
+
+boy.greeting=My mom can sew up the holes in your clothes.
+boy.greeting=I want to play.
+boy.greeting=How are you?
+
+chef.greeting=I enjoy cooking. Eat, eat!
+chef.greeting=Time to eat.
+
+farmer.greeting=I like farming, especially potatoes!
+
+fisherman.greeting=I like to fish in the winter.
+
+girl.greeting=I can dance.
+girl.greeting=How are you?
+girl.greeting=I can run.
+
+hunter.greeting=Do you travel by dog team?
+hunter.greeting=I like to hunt in the Autumn.
+
+husband.greeting=I need to get going on my tasks for the day.
+
+lumberman.greeting=Trees grow so powerful and strong really fast here, what a wonderful land.
+
+oldlady.greeting=She cursed them to flee from her domain.
+oldlady.greeting=Don't look them in the eyes!
+oldlady.greeting=The cursed ones surround us!?
+
+shaman.greeting=The spirits grant you blessings.
+shaman.greeting=I must speak with the spirits.
+
+sodder.greeting=I need to gather for sodding.
+
+villager.greeting=Hello, $name!
+villager.greeting=The Northern Lights were so beautiful.
+villager.greeting=How is your family?
+villager.greeting=Pleased to meet you.
+villager.greeting=Where are you from?
+villager.greeting=Have you eaten already?
+villager.greeting=Did you sleep well?
+villager.greeting=I have not seen you in ages.
+villager.greeting=Welcome.
+villager.greeting=Good day to you
+
+wife.greeting=This soil is just so fertile, crops grow like crazy!
+wife.greeting=How is the weather where you're from?
+
+art_merchant.greeting=No city in the world can compare to Constantinople!
+art_merchant.greeting=People here are barbarians.
+
+oriental_merchant.greeting=This land is rich, but does it have to be so cold?
+oriental_merchant.greeting=Have you been to Cordoba? Now that is a civilised place.
+
+plant_merchant.greeting=Some people say I'm a dreamer, but I'm not the only one... /
+
+viking_merchant.greeting=Today I come to trade. Tomorrow...
+viking_merchant.greeting=This land is viking land. England is viking land. Sicily is viking land. We rule!
+
+weapon_merchant.greeting=Do you want to know how I survived all those years travelling alone with valuable merchandise?
+villager.sellercoming=I'm coming!
+villager.tradecomplete=The deal is done, farewell.

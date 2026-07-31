@@ -1,0 +1,529 @@
+architect_byzantine.construction=$name! Wist je dat de Romeinen de beste architecten zijn?
+architect_byzantine.construction=$name! Kijk eens hoe ik een prachtig bouwwerk neerzet.
+architect_byzantine.construction=Dit gebouw wordt prachtig!
+architect_byzantine.construction=Het is nog niet klaar, maar ik zie de schoonheid van mijn werk al.
+architect_byzantine.construction=Ik bouw zulke verfijnde bouwwerken. Bouwen is werkelijk de mooiste kunstvorm.
+architect_byzantine.construction=Rome werd niet op één dag gebouwd, het werd blok voor blok gebouwd.
+architect_byzantine.construction=Onze architectuur is superieur aan alle andere gebouwen ter wereld.
+architect_byzantine.construction=Op de Romeinse manier bouwen is de beste manier.
+architect_byzantine.construction=Vind je mijn stijl mooi?
+architect_byzantine.construction=Ik bouw al langer dan ik me kan herinneren. Bouwen is mijn leven geworden.
+
+architect_byzantine.getresourcesforbuild=Waar haalt het dorp deze blokken eigenlijk vandaan?
+architect_byzantine.getresourcesforbuild=Ik heb blokken nodig om de beste bouwwerken neer te zetten!
+architect_byzantine.getresourcesforbuild=Elk bouwwerk begint met de blokken.
+architect_byzantine.getresourcesforbuild=Ik moet de blokken zelf zorgvuldig uitkiezen.
+architect_byzantine.getresourcesforbuild=Hoe draag jij zoveel blokken als je bouwt, $name?
+architect_byzantine.getresourcesforbuild=Het ergste aan bouwen is de blokken halen.
+
+architect_byzantine.godrink=Genoeg gebouwd! Ik heb wijn nodig!
+architect_byzantine.godrink=Ik heb een drankje nodig om geïnspireerd te raken!
+architect_byzantine.godrink=Iedere goede architect heeft aan het eind van de dag een drankje nodig.
+architect_byzantine.godrink=Bouwen geeft me dorst naar wijn.
+
+architect_byzantine.gopray=Ik hoop dat God me inspiratie geeft voor mijn volgende gebouw!
+architect_byzantine.gopray=Waarom heeft God van mij een architect gemaakt?
+architect_byzantine.gopray=Bidden is een belangrijk onderdeel van Romeins bouwen.
+architect_byzantine.gopray=Hij begrijpt de zorgen van architecten.
+
+architect_byzantine.gorest=Als ik niet slaap, zou ik iets bij de bouw kunnen verprutsen.
+architect_byzantine.gorest=Ik kan niet bouwen als ik moe ben.
+architect_byzantine.gorest=Het is moeilijk om in het donker te bouwen.
+architect_byzantine.gorest=Ik ben klaar met bouwen voor vandaag.
+architect_byzantine.gorest=Misschien droom ik wel dat ik de mooiste gebouwen ter wereld bouw!
+
+architect_byzantine.gosocialise=Niemand in dit dorp begrijpt de problemen van het bouwen.
+architect_byzantine.gosocialise=Iedere architect heeft inspiratie van anderen nodig.
+architect_byzantine.gosocialise=Architecten hebben feedback nodig om te gedijen.
+architect_byzantine.gosocialise=Wat vindt het dorp van mijn gebouwen?
+
+//armysmith_byzantine.MakeIndianTools=Roman tools are the best in world.
+armysmith_byzantine.makebyzantinemace=Val niemand aan die mijn wapens gebruikt.
+armysmith_byzantine.makebyzantinemace=Deze knots zal barbaren ver wegslingeren!
+armysmith_byzantine.makebyzantinemace=Een knots maken is moeilijker dan hem hanteren.
+armysmith_byzantine.makebyzantinemace=Het leger heeft strijdknotsen nodig.
+
+armysmith_byzantine.gopray=Een goede smid moet af en toe bidden.
+armysmith_byzantine.gopray=Waarom heeft God van mij een smid gemaakt?
+armysmith_byzantine.gopray=Bidden is een belangrijk onderdeel van Romeins ambacht.
+armysmith_byzantine.gopray=Hij begrijpt de zorgen van smeden.
+
+armysmith_byzantine.gorest=Morgen ga ik nog mooiere dingen maken!
+armysmith_byzantine.gorest=Ik ben klaar met smeden voor vandaag.
+armysmith_byzantine.gorest=Misschien droom ik wel dat ik 's werelds beste wapens smeed!
+armysmith_byzantine.gorest=Misschien droom ik wel dat ik 's werelds beste harnas smeed!
+armysmith_byzantine.gorest=Misschien droom ik wel dat ik het beste gereedschap ter wereld smeed!
+
+armysmith_byzantine.gosocialise=Ik ga eens vragen of iemand iets wil laten maken.
+armysmith_byzantine.gosocialise=Ik hoop dat het dorp mijn gereedschap waardeert.
+
+armysmith_byzantine.godrink=Genoeg gesmeed! Ik heb wijn nodig!
+armysmith_byzantine.godrink=Ik heb een drankje nodig om geïnspireerd te raken!
+armysmith_byzantine.godrink=Iedere goede smid heeft aan het eind van de dag een drankje nodig.
+armysmith_byzantine.godrink=Smeden geeft me dorst naar wijn.
+
+armysmith_byzantine.makearrow=$name, gebruik je veel pijlen op je avonturen?
+armysmith_byzantine.makearrow=Iedere boog heeft een fijne pijl nodig.
+armysmith_byzantine.makearrow=Elke pijl die ik maak, zal één vijand van het Rijk verwonden.
+armysmith_byzantine.makearrow=Het Romeinse leger heeft pijlen nodig om ons tegen buitenstaanders te beschermen.
+
+armysmith_byzantine.makebow=Het Romeinse leger heeft bogen nodig.
+armysmith_byzantine.makebow=Hé! Vind je mijn bogen mooi, $name?
+armysmith_byzantine.makebow=Iedere goede boog komt van het beste hout.
+armysmith_byzantine.makebow=Deze boog zal vele barbaren verslaan. Ik ben werkelijk een meester-boogsmid.
+
+armysmith_byzantine.makebyzantineboots=Het Romeinse leger heeft laarzen nodig!
+armysmith_byzantine.makebyzantineboots=Romeinen maken de beste laarzen ter wereld.
+armysmith_byzantine.makebyzantineboots=Iemand moet de laarzen voor de soldaten maken...
+armysmith_byzantine.makebyzantineboots=Wij maken de beste laarzen.
+armysmith_byzantine.makebyzantineboots=Hé! Vind je mijn laarzen mooi, $name?
+armysmith_byzantine.makebyzantineboots=Ik voel me als een veredeld schoenmaker.
+armysmith_byzantine.makebyzantineboots=Elk stuk wapenrusting is belangrijk! Zelfs de laarzen aan je voeten!
+
+armysmith_byzantine.makebyzantinechest=Het Romeinse leger heeft borststukken nodig!
+armysmith_byzantine.makebyzantinechest=Romeinen maken de beste borststukken ter wereld.
+armysmith_byzantine.makebyzantinechest=Hé! Vind je mijn harnas mooi, $name?
+armysmith_byzantine.makebyzantinechest=Wij maken het beste harnas.
+armysmith_byzantine.makebyzantinechest=Dit zou meer klappen moeten kunnen opvangen dan jij.
+armysmith_byzantine.makebyzantinechest=Ik voel me als een veredeld hemdenmaker.
+
+armysmith_byzantine.makebyzantinehelmet=Het Romeinse leger heeft helmen nodig!
+armysmith_byzantine.makebyzantinehelmet=Iemand moet de helmen voor de soldaten maken...
+armysmith_byzantine.makebyzantinehelmet=Romeinen maken de beste laarzen ter wereld.
+armysmith_byzantine.makebyzantinehelmet=Hé! Vind je mijn helmen mooi, $name?
+armysmith_byzantine.makebyzantinehelmet=Wij maken de beste helmen.
+armysmith_byzantine.makebyzantinehelmet=Ik voel me als een veredeld hoedenmaker.
+
+armysmith_byzantine.makebyzantinelegs=Het Romeinse leger heeft beenstukken nodig!
+armysmith_byzantine.makebyzantinelegs=Iemand moet de beenstukken voor de soldaten maken...
+armysmith_byzantine.makebyzantinelegs=Romeinen maken de beste beenstukken ter wereld.
+armysmith_byzantine.makebyzantinelegs=Hé! Vind je mijn beenstukken mooi, $name?
+armysmith_byzantine.makebyzantinelegs=Wij maken de beste beenstukken.
+armysmith_byzantine.makebyzantinelegs=Ik voel me als een veredeld broekenmaker.
+
+armysmith_byzantine.makesteelaxe=Je kunt geen bomen omhakken zonder bijl!
+armysmith_byzantine.makesteelaxe=Ik maak fantastische bijlen.
+armysmith_byzantine.makesteelaxe=Romeinse bijlen behoren tot de beste ter wereld!
+armysmith_byzantine.makesteelaxe=De houthakkers hebben ons nodig om hun bijlen te smeden.
+armysmith_byzantine.makesteelaxe=Hoe smeed jij jouw bijlen, $name?
+
+armysmith_byzantine.makesteelhoe=Je kunt niet boeren zonder landbouwgereedschap!
+armysmith_byzantine.makesteelhoe=Ik maak verbluffend landbouwgereedschap.
+armysmith_byzantine.makesteelhoe=Romeins landbouwgereedschap hoort bij het beste ter wereld!
+armysmith_byzantine.makesteelhoe=De boeren hebben ons nodig om hun gereedschap te smeden.
+armysmith_byzantine.makesteelhoe=Hoe smeed jij jouw landbouwgereedschap, $name?
+
+armysmith_byzantine.makesteelpickaxe=Je kunt niet delven zonder pikhouweel!
+armysmith_byzantine.makesteelpickaxe=Ik maak sterke pikhouwelen.
+armysmith_byzantine.makesteelpickaxe=Romeinse pikhouwelen behoren tot de beste ter wereld!
+armysmith_byzantine.makesteelpickaxe=De mijnwerkers hebben ons nodig om hun pikhouwelen te smeden.
+armysmith_byzantine.makesteelpickaxe=Hoe smeed jij jouw houwelen, $name?
+
+armysmith_byzantine.makesteelshovel=Je kunt niet bouwen of graven zonder schop!
+armysmith_byzantine.makesteelshovel=Ik maak stevige schoppen.
+armysmith_byzantine.makesteelshovel=Romeinse schoppen behoren tot de beste ter wereld!
+armysmith_byzantine.makesteelshovel=De architecten hebben ons nodig om hun schoppen te smeden.
+armysmith_byzantine.makesteelshovel=Hoe smeed jij jouw schoppen, $name?
+
+//artisan_byzantine.makePainting=Roman art is the most advanced in the world.
+
+artisan_byzantine.gopray=Een goede ambachtsman moet af en toe bidden.
+artisan_byzantine.gopray=Waarom heeft God van mij een ambachtsman gemaakt?
+artisan_byzantine.gopray=Bidden is een belangrijk onderdeel van Romeins ambacht.
+artisan_byzantine.gopray=Hij begrijpt de zorgen van de ambachtsman.
+
+artisan_byzantine.gorest=Morgen ga ik nog mooiere dingen maken!
+artisan_byzantine.gorest=Ik ben klaar met ambacht voor vandaag.
+artisan_byzantine.gorest=Misschien droom ik wel dat ik 's werelds beste bakstenen maak!
+artisan_byzantine.gorest=Misschien droom ik wel dat ik de mooiste dakpannen ter wereld maak!
+
+artisan_byzantine.gosocialise=Ik ga eens vragen of iemand iets wil laten maken.
+artisan_byzantine.gosocialise=Ik hoop dat het dorp mijn dakpannen waardeert.
+artisan_byzantine.gosocialise=Ik hoop dat het dorp mijn bakstenen waardeert.
+
+artisan_byzantine.godrink=Genoeg ambacht! Ik heb wijn nodig!
+artisan_byzantine.godrink=Ik heb een drankje nodig om geïnspireerd te raken!
+artisan_byzantine.godrink=Iedere goede ambachtsman heeft aan het eind van de dag een drankje nodig.
+artisan_byzantine.godrink=Knutselen geeft me dorst naar wijn.
+
+artisan_byzantine.greeting=Ik leef beter dan iedereen in dit dorp.
+artisan_byzantine.greeting=Hallo $name! Heb je behoefte aan unieke Romeinse blokken?
+
+artisan_byzantine.makebrick=Iemand moet de bakstenen maken.
+artisan_byzantine.makebrick=Het dorp heeft me nodig om bakstenen voor hun muren te maken.
+artisan_byzantine.makebrick=Romeinse bakstenen behoren tot de mooiste blokken ter wereld!
+artisan_byzantine.makebrick=Wij werken op de achtergrond terwijl de bouwers alle eer krijgen.
+artisan_byzantine.makebrick=Zelfs de beste bouwers kunnen niet bouwen zonder blokken.
+artisan_byzantine.makebrick=Wie heeft er bedacht om klei in bakstenen te veranderen?
+
+artisan_byzantine.makebookshelves=Iemand moet de boeken op de planken zetten.
+artisan_byzantine.makebookshelves=Het dorp heeft me nodig om hun boekenkasten te maken.
+artisan_byzantine.makebookshelves=Romeinse boeken horen bij de mooiste leesstof ter wereld!
+artisan_byzantine.makebookshelves=Wij werken op de achtergrond terwijl de schrijvers alle eer krijgen.
+artisan_byzantine.makebookshelves=Soms blader ik door de boeken voor ik ze op de plank zet, ik wou dat ik kon lezen.
+artisan_byzantine.makebookshelves=Wie heeft er bedacht om dingen op te schrijven?
+
+artisan_byzantine.makebyzantinetiles=Iemand moet de dakpannen maken.
+artisan_byzantine.makebyzantinetiles=Het dorp heeft me nodig om hun daken te maken.
+artisan_byzantine.makebyzantinetiles=Romeinse dakpannen behoren tot de mooiste blokken ter wereld!
+artisan_byzantine.makebyzantinetiles=Wij werken op de achtergrond terwijl de bouwers alle eer krijgen.
+artisan_byzantine.makebyzantinetiles=Zelfs de beste bouwers kunnen niet bouwen zonder blokken.
+artisan_byzantine.makebyzantinetiles=Wie heeft er bedacht om klei in daken te veranderen?
+
+artisanwife_byzantine.gopray=Bidden is een belangrijk onderdeel van Romeins ambacht.
+artisanwife_byzantine.gopray=Ik hoop dat God me helpt om de beste kleren te maken!
+artisanwife_byzantine.gopray=Waarom heeft God mij tot vrouw van een architect gemaakt?
+
+artisanwife_byzantine.gosocialise=Oh! Ik heb het hemd van die kerel gemaakt!
+artisanwife_byzantine.gosocialise=Hier ben ik bekend als de vrouw van de architect.
+artisanwife_byzantine.gosocialise=Ik ben het zat om bekend te staan als "de vrouw van de architect".
+
+artisanwife_byzantine.makeclothes_byz_silk=Ik maak enkele van de beste kleren in het dorp!
+artisanwife_byzantine.makeclothes_byz_silk=Romeinse zijde is de beste stof ter wereld!
+artisanwife_byzantine.makeclothes_byz_silk=Zijden kleding is belangrijker dan een chic huis.
+artisanwife_byzantine.makeclothes_byz_silk=$name, heb je ooit zijde gedragen?
+artisanwife_byzantine.makeclothes_byz_silk=Iedereen heeft kleding nodig, vooral als je beschaafd wilt zijn.
+artisanwife_byzantine.makeclothes_byz_silk=Ware schoonheid zit niet in blokken, schoonheid zit in kleding.
+artisanwife_byzantine.makeclothes_byz_silk=Er is een reden waarom ik dit weef en niet mijn man.
+artisanwife_byzantine.makeclothes_byz_silk=Kleding weven in zijde is alleen voor de adellijkste vrouwen.
+artisanwife_byzantine.makeclothes_byz_silk=Ik ben gewoon blij dat ik echt werk te doen heb.
+
+artisanwife_byzantine.makeclothes_byz_wool=Ik maak enkele van de beste wollen kleren in het dorp!
+artisanwife_byzantine.makeclothes_byz_wool=Mooie kleding is belangrijker dan een chic huis.
+artisanwife_byzantine.makeclothes_byz_wool=$name, heb je ooit wol gedragen?
+artisanwife_byzantine.makeclothes_byz_wool=Ware schoonheid zit niet in blokken, schoonheid zit in kleding.
+artisanwife_byzantine.makeclothes_byz_wool=Iedereen heeft kleding nodig, vooral als je beschaafd wilt zijn.
+artisanwife_byzantine.makeclothes_byz_wool=Er is een reden waarom ik dit weef en niet mijn man.
+artisanwife_byzantine.makeclothes_byz_wool=Niet elke vrouw kan met wol weven.
+artisanwife_byzantine.makeclothes_byz_wool=Ik ben gewoon blij dat ik echt werk te doen heb.
+
+artisanwife_byzantine.delivergoodshousehold=Dingen als dit zijn het enige wat ik hier mag doen.
+artisanwife_byzantine.gethousethresources=Mijn man heeft eindelijk de spullen geleverd zoals ik hem gezegd heb.
+artisanwife_byzantine.getgoodshousehold=Tijd om voor mijn gezin te zorgen.
+artisanwife_byzantine.greeting=Ik zou hier zoveel meer kunnen doen als ik een man was, als ik maar...
+artisanwife_byzantine.greeting=Onze taak is onze mannen in toom te houden.
+
+baron_byzantine.greeting=$name, mijn dorp heeft de beste waren te koop!
+baron_byzantine.greeting=Hallo, welgestelde reiziger!
+baron_byzantine.greeting=Wil je helpen toezien op de boeren, $name?
+
+baron_byzantine.godrink=Genoeg geregeerd! Ik heb een drankje nodig.
+baron_byzantine.godrink=Ik verdien het om de beste wijn te drinken!
+baron_byzantine.godrink=Ik moet eens kijken of de taverne winstgevend is.
+baron_byzantine.godrink=Elke machtige persoon moet drinken, anders bezwijkt hij aan de stress!
+
+baron_byzantine.gopray=Waarom heeft God van mij een baron gemaakt?
+baron_byzantine.gopray=Bidden is een belangrijk onderdeel van Romeins bestuur.
+baron_byzantine.gopray=Hij begrijpt de zorgen die baronnen hebben.
+baron_byzantine.gopray=Mijn dorp heeft antwoorden van God nodig!
+
+baron_byzantine.gorest=Genoeg gedaan met die boeren! Ik heb slaap nodig.
+baron_byzantine.gorest=*Geeuw* Ik kan de boeren niet leiden als ik moe ben.
+baron_byzantine.gorest=Tijd om in mijn zijden deken te slapen.
+baron_byzantine.gorest=Iedereen heeft slaap nodig, vooral als je een dorp leidt.
+
+baron_byzantine.gosocialise=Waarom zien die domme boeren me alleen als de "baron"?
+baron_byzantine.gosocialise=Hi hi hi, eens kijken of hij zijn belasting heeft betaald.
+baron_byzantine.gosocialise=Tijd om de armen te inspireren zodat ze denariën gaan verdienen!
+baron_byzantine.gosocialise=Moet ik echt met het gewone volk praten?
+baron_byzantine.gosocialise=Als baron moet ik met mijn volk spreken, zelfs als ik dat niet wil.
+
+baron_byzantine.inspectconstruction=Ik moet zorgen dat de boeren niets verprutsen.
+baron_byzantine.inspectconstruction=Dit gebouw zal mijn dorp winst opleveren.
+baron_byzantine.inspectconstruction=Schoonheid is je dorp steeds rijker zien worden.
+baron_byzantine.inspectconstruction=Ik weet dat Rome niet op één dag is gebouwd, maar waarom is mijn architect zo traag?
+baron_byzantine.inspectconstruction=Het is mijn taak om te zorgen dat gebouwen goed worden gebouwd.
+baron_byzantine.inspectconstruction=Mijn architecten doen meestal goed werk, maar ik moet ze altijd in de gaten houden.
+
+boy_byzantine.becomeadult=Tijd om een sterke man te worden!
+boy_byzantine.becomeadult=Ik ben oud genoeg om te werken!
+boy_byzantine.becomeadult=Ik heb nu een baan nodig.
+boy_byzantine.becomeadult=Mijn jongensdagen zijn voorbij.
+
+boy_byzantine.goplay=Ik wil met iemand vechten!
+boy_byzantine.goplay=Ik wil "Sla de Barbaar" spelen!
+boy_byzantine.goplay=Ik laat iedereen zien dat ik groot en sterk ben!
+boy_byzantine.goplay=Tijd om "soldaatje" te spelen.
+
+boy_byzantine.gopray=Ik wil meer over God leren!
+boy_byzantine.gopray=Kan God me iets over volwassenen vertellen?
+boy_byzantine.gopray=Hoe moet ik bidden?
+boy_byzantine.gopray=Ik wil niet bidden! Ik wil liever spelen!
+
+boy_byzantine.childobservesmithing=Als ik groot ben, wil ik ook smid worden. Of soldaat. Of generaal!
+
+centurio_byzantine.godrink=Iedere machtige man moet drinken, anders bezwijkt hij aan de stress!
+centurio_byzantine.godrink=Als soldaat heb ik wijn nodig, als centurio nog meer.
+centurio_byzantine.godrink=Ik moet ontspannen, anders ben ik tot niets meer in staat als de barbaren komen.
+
+centurio_byzantine.gopray=Waarom heeft God van mij een Strategos gemaakt?
+centurio_byzantine.gopray=Bidden is een belangrijk onderdeel van Romeinse oorlogvoering.
+centurio_byzantine.gopray=Hij begrijpt de zorgen die een Strategos heeft.
+centurio_byzantine.gopray=Mijn leger heeft antwoorden van God nodig!
+
+centurio_byzantine.gorest=Genoeg gedaan met die soldaten! Ik heb slaap nodig.
+centurio_byzantine.gorest=Tijd om mijn harnas af te doen en te gaan slapen.
+centurio_byzantine.gorest=*Geeuw* Ik kan geen soldaten leiden als ik moe ben.
+centurio_byzantine.gorest=Iedereen heeft slaap nodig, vooral als je een dorp leidt.
+
+centurio_byzantine.gosocialise=Tijd om het moreel van de soldaten op te krikken!
+centurio_byzantine.gosocialise=Een goede manier om loyaliteit te winnen is met je mensen overleggen.
+centurio_byzantine.gosocialise=Ik heb meer rekruten nodig voor het leger!
+centurio_byzantine.gosocialise=Mijn ondergeschikten moeten mijn verdedigingsplannen kennen.
+centurio_byzantine.gosocialise=Mijn ondergeschikten moeten mijn aanvalsplannen kennen.
+centurio_byzantine.gosocialise=De mensen moeten de dreiging van een barbarenaanval begrijpen!
+centurio_byzantine.gosocialise=Ik moet iedereen eraan herinneren dat we altijd klaar moeten staan om te vechten!
+
+centurio_byzantine.huntmonster=Zelfs als centurio mag ik niet roesten als soldaat.
+centurio_byzantine.huntmonster=Waar zijn mijn ondergeschikten? Zij zouden dit moeten doen.
+centurio_byzantine.huntmonster=Ik ben een Strategos van het Romeinse Rijk en jij denkt dat je mij aankunt? Ha!
+
+centurio_byzantine.inspectconstruction=Schoonheid is zien hoe je dorp sterker wordt.
+
+farmiller_wife_byzantine.delivergoodshousehold=Dingen als dit zijn het enige wat ik hier mag doen.
+farmiller_wife_byzantine.gethousethresources=Mijn man heeft eindelijk de spullen geleverd zoals ik hem gezegd heb.
+farmiller_wife_byzantine.getgoodshousehold=Tijd om voor mijn gezin te zorgen.
+farmiller_wife_byzantine.greeting=Ik zou hier zoveel meer kunnen doen als ik een man was, als ik maar...
+farmiller_wife_byzantine.greeting=Onze taak is onze mannen in toom te houden.
+
+girl_byzantine.childobserveproducefood=Maar goed dat mannen niet koken, die zouden alles laten aanbranden.
+
+keeperbirch_byzantine.greeting=Het is hier zo saai, er gebeurt nooit iets...
+keeperbirch_byzantine.greeting=Het is mijn werk om deze streken in de gaten te houden.
+keeperbirch_byzantine.greeting=Gegroet, reiziger, ik vraag me af hoe je in dit verre oord terecht bent gekomen.
+keeperbirch_byzantine.greeting=Wie heeft er bedacht dat hier iemand op wacht moest staan...
+
+keeperoak_byzantine.greeting=Deze mensen hier, die zichzelf Normandiërs noemen, doen me denken aan ons glorieuze rijk.
+keeperoak_byzantine.greeting=Het is hier zo saai, er gebeurt nooit iets...
+keeperoak_byzantine.greeting=Het is mijn werk om deze streken in de gaten te houden.
+keeperoak_byzantine.greeting=Gegroet, reiziger, ik vraag me af hoe je in dit verre oord terecht bent gekomen.
+keeperoak_byzantine.greeting=Wie heeft er bedacht dat hier iemand op wacht moest staan...
+
+keeperpine_byzantine.greeting=Deze kou is verschrikkelijk. Geen wonder dat er niemand in de buurt is.
+keeperpine_byzantine.greeting=Het is hier zo saai, er gebeurt nooit iets...
+keeperpine_byzantine.greeting=Het is mijn werk om deze streken in de gaten te houden.
+keeperpine_byzantine.greeting=Gegroet, reiziger, ik vraag me af hoe je in dit verre oord terecht bent gekomen.
+keeperpine_byzantine.greeting=Wie heeft er bedacht dat hier iemand op wacht moest staan...
+
+keepertropical_byzantine.greeting=Het is hier zo saai, er gebeurt nooit iets...
+keepertropical_byzantine.greeting=Het is mijn werk om deze streken in de gaten te houden.
+keepertropical_byzantine.greeting=Het is hier zo heet. Ik snap niet hoe die Indiërs in deze landen kunnen wonen.
+keepertropical_byzantine.greeting=Heb je die vreemde Maya's wel eens gezien? Hun gebouwen lijken elk moment te kunnen instorten.
+keepertropical_byzantine.greeting=Gegroet, reiziger, ik vraag me af hoe je in dit verre oord terecht bent gekomen.
+keepertropical_byzantine.greeting=Wie heeft er bedacht dat hier iemand op wacht moest staan...
+
+lumberman_byzantine.bringbackresourceshome=Hopelijk is dit genoeg om het dorp te laten gedijen!
+lumberman_byzantine.bringbackresourceshome=Ik ben een zeer succesvolle houthakker, mijn inventaris zit vol stammen!
+lumberman_byzantine.bringbackresourceshome=Ik draag veel bomen, maar om de een of andere reden zijn ze niet zwaar.
+lumberman_byzantine.bringbackresourceshome=Dat was goed werk geleverd.
+lumberman_byzantine.bringbackresourceshome=Mijn vrouw moet wel trots zijn op al het hout dat ik heb meegebracht.
+
+lumberman_byzantine.choptrees=Elk gebouw hier heeft hout nodig, en dat halen is mijn werk!
+lumberman_byzantine.choptrees=Weer een boom omver, meer hout voor het dorp!
+lumberman_byzantine.choptrees=Nog een boom omver, meer hout voor het dorp!
+lumberman_byzantine.choptrees=$name, heb jij ooit een boom omgehakt?
+lumberman_byzantine.choptrees=Op naar de hakboom!
+lumberman_byzantine.choptrees=Sterf boom sterf! HAHAHA! Sterf! Sterf! Sterf! Ha- Oh, hé $name! Er gebeurt hier niets... vreemds...
+lumberman_byzantine.choptrees=Ik wil je niet doden, maar het moet... Vaarwel, boom!
+lumberman_byzantine.choptrees=Heb jij je ooit afgevraagd waarom gevelde bomen hier blijven zweven, $name? Het is heel vreemd. Wat ik ook doe, ze blijven zweven en ik moet de boom stukje bij beetje van bovenaf afbreken, zo lastig.
+
+lumberman_byzantine.gathergoods=Hé $name! Pak dat niet aan!
+lumberman_byzantine.gathergoods=De bomen zijn deze keer goed gegroeid, zoveel stammen en jonge boompjes.
+lumberman_byzantine.gathergoods=Ik hoop dat het dorp al deze stammen nodig heeft.
+lumberman_byzantine.gathergoods=Dat was een grote boom! Nu kan het dorp het hout gebruiken.
+lumberman_byzantine.gathergoods=Kijk eens al die nieuwe stammen en boompjes die ik bij het hakken heb verzameld!
+lumberman_byzantine.gathergoods=Mooi jong boompje daar.
+
+lumberman_byzantine.plantsaplings=Deze boompjes zijn zo klein, soms kan ik niet geloven dat ze zo groot worden.
+lumberman_byzantine.plantsaplings=Je bent zo schattig, klein boompje, ik vergeet bijna dat ik je ga omhakken als je groot bent.
+lumberman_byzantine.plantsaplings=$name, wil je een boompje planten?
+lumberman_byzantine.plantsaplings=Bomen groeien hier zo snel, in een paar dagen veranderen ze van dit kleine boompje in een volwaardige boom.
+lumberman_byzantine.plantsaplings=Planten is het makkelijkste werk, ik hoef ze alleen maar in de grond te zetten.
+lumberman_byzantine.plantsaplings=Straks is dit een grote, statige boom! En dan hak ik hem om.
+
+merchant_art.greeting=Geen stad ter wereld kan zich meten met de schoonheid en macht van Constantinopel.
+merchant_art.greeting=Wij zijn de laatste echte Romeinen!
+
+miner_byzantine.mining=Mijn taak is rotsen breken en die rotsen naar de smelter brengen, meer niet.
+miner_byzantine.mining=Mijn arm doet pijn van het dagelijkse pikhouweelwerk.
+miner_byzantine.mining=Eén blok, twee blokken, drie blokken, vier blokken, het houdt nooit op. Steeds maar weer hetzelfde.
+miner_byzantine.mining=Eén blok, twee blokken, drie - wacht, is dat goud? Is het echt? IK HEB GOUD GEVONDEN! GOUD! GOUD! Ik ben rijk! HAHA - oh, het was gewoon ijzer dat in slecht licht weerkaatste. Terug naar het delven van ijzer en kolen...
+miner_byzantine.mining=Tachtig blokken, eenentachtig blokken, tweeëntachtig blokken, drieëntachtig blokken...
+miner_byzantine.mining=Hé! Hoe draag jij zoveel blokken en delf je zo snel? Ik doe er uren over om wat jij in een dag doet.
+miner_byzantine.mining=*Kuch* *Kuch*, ik haat het werken met kolen.
+miner_byzantine.mining=In dit werk zijn kracht en uithoudingsvermogen nodig. Maar niemand hier merkt het...
+miner_byzantine.mining=Ik ben er trots op een Romeinse burger te zijn die voor het glorieuze Rijk werkt, zelfs in dit zware werk.
+
+metropolit_byzantine.makebooks=Mijn boeken horen bij de mooiste manuscripten die er zijn.
+
+metropolit_byzantine.gopray=Waarom heeft God van mij een van zijn meest gewaardeerde dienaren gemaakt?
+metropolit_byzantine.gopray=Als patriarch moet ik het gebed leiden.
+metropolit_byzantine.gopray=Ik begrijp de zorgen die Hij heeft.
+metropolit_byzantine.gopray=Hij begrijpt de zorgen die patriarchen hebben.
+metropolit_byzantine.gopray=Mijn dorp heeft antwoorden van God nodig!
+
+metropolit_byzantine.gorest=Iedereen heeft slaap nodig, vooral als je een dorp leidt.
+metropolit_byzantine.gorest=*Geeuw* Ik kan geen priesters leiden als ik moe ben.
+
+metropolit_byzantine.inspectconstruction=Schoonheid is zien hoe je dorp dichter bij God komt.
+
+pastor_byzantine.makebooks=Mijn boeken horen bij de mooiste manuscripten die er zijn.
+
+//smith_byzantine.MakeIndianTools=Roman tools are the best in world.
+
+smith_byzantine.gopray=Een goede smid moet af en toe bidden.
+smith_byzantine.gopray=Waarom heeft God van mij een smid gemaakt?
+smith_byzantine.gopray=Bidden is een belangrijk onderdeel van Romeins ambacht.
+smith_byzantine.gopray=Hij begrijpt de zorgen van smeden.
+
+smith_byzantine.gorest=Morgen ga ik nog mooiere dingen maken!
+smith_byzantine.gorest=Ik ben klaar met smeden voor vandaag.
+smith_byzantine.gorest=Misschien droom ik wel dat ik het beste gereedschap ter wereld smeed!
+
+smith_byzantine.gosocialise=Ik ga eens vragen of iemand iets wil laten maken.
+smith_byzantine.gosocialise=Ik hoop dat het dorp mijn gereedschap waardeert.
+
+smith_byzantine.godrink=Genoeg gesmeed! Ik heb wijn nodig!
+smith_byzantine.godrink=Ik heb een drankje nodig om geïnspireerd te raken!
+smith_byzantine.godrink=Iedere goede smid heeft aan het eind van de dag een drankje nodig.
+smith_byzantine.godrink=Smeden geeft me dorst naar wijn.
+
+smith_byzantine.makesteelaxe=Je kunt geen bomen omhakken zonder bijl!
+smith_byzantine.makesteelaxe=Ik maak fantastische bijlen.
+smith_byzantine.makesteelaxe=Romeinse bijlen behoren tot de beste ter wereld!
+smith_byzantine.makesteelaxe=De houthakkers hebben ons nodig om hun bijlen te smeden.
+smith_byzantine.makesteelaxe=Hoe smeed jij jouw bijlen, $name?
+
+smith_byzantine.makesteelhoe=Je kunt niet boeren zonder landbouwgereedschap!
+smith_byzantine.makesteelhoe=Ik maak verbluffend landbouwgereedschap.
+smith_byzantine.makesteelhoe=Romeins landbouwgereedschap hoort bij het beste ter wereld!
+smith_byzantine.makesteelhoe=De boeren hebben ons nodig om hun gereedschap te smeden.
+smith_byzantine.makesteelhoe=Hoe smeed jij jouw landbouwgereedschap, $name?
+
+smith_byzantine.makesteelpickaxe=Je kunt niet delven zonder pikhouweel!
+smith_byzantine.makesteelpickaxe=Ik maak sterke pikhouwelen.
+smith_byzantine.makesteelpickaxe=Romeinse pikhouwelen behoren tot de beste ter wereld!
+smith_byzantine.makesteelpickaxe=De mijnwerkers hebben ons nodig om hun pikhouwelen te smeden.
+smith_byzantine.makesteelpickaxe=Hoe smeed jij jouw houwelen, $name?
+
+smith_byzantine.makesteelshovel=Je kunt niet bouwen of graven zonder schop!
+smith_byzantine.makesteelshovel=Ik maak stevige schoppen.
+smith_byzantine.makesteelshovel=Romeinse schoppen behoren tot de beste ter wereld!
+smith_byzantine.makesteelshovel=De architecten hebben ons nodig om hun schoppen te smeden.
+smith_byzantine.makesteelshovel=Hoe smeed jij jouw schoppen, $name?
+
+villager.greeting=Hallo, $name!
+villager.greeting=Mooie dag, vind je niet?
+villager.greeting=Het gaat zo regenen.
+villager.greeting=Geen stad ter wereld kan zich met Constantinopel meten.
+villager.greeting=We zijn geen Grieken, we zijn Romeinen.
+villager.greeting=Wij zijn de laatste echte Romeinen.
+villager.greeting=Baad in de glorie van onze beschaving tijdens je verblijf hier.
+villager.greeting=Welkom in het dorp, $name!
+villager.greeting=Kijk! Daar is $name!
+villager.greeting=Wij zijn de laatste echte Romeinen. Baad je in het licht van onze beschaving.
+
+villager.becomeadult=Eindelijk ben ik Romeins burger geworden!
+
+villager.huntmonster=Ik moet deze barbaar doden!
+
+villager.goplay=Ik ga denk ik buiten spelen.
+villager.goplay=Ik ga nu spelen.
+villager.goplay=$name! Wil je met me spelen?
+villager.goplay=Ik wil rennen!
+
+villager.calltoarms=Het Romeinse Rijk wordt aangevallen! Te wapen!
+villager.calltoarms=De barbaren zijn er! Verdedig ons dorp tot elke prijs!
+
+villager.childeatgrapes=Ik zweer dat deze druiven vanzelf gevallen zijn!
+
+villager.childobservevines=Volwassenen zouden geen lekkere druiven moeten verspillen aan die afgrijselijke wijn!
+villager.childobserveconstruction=Op een dag bezoek ik Constantinopel om te zien hoe echte Romeinse bouwwerken eruitzien!
+villager.childobserveproducealcohol=Ik heb ooit eens wijn geprobeerd, het is vies.
+
+villager.gorest=Als ik niet slaap, kunnen er ongelukken gebeuren.
+villager.gorest=Ik ben moe. Ik ga naar huis om te slapen.
+villager.gorest=Ik denk dat ik maar eens ga slapen.
+
+villager.makebread=Het brood ruikt al lekker...
+
+villager.gopray=Ik laat me leiden door de Heilige Vader.
+villager.gopray=O Heer, hemels en barmhartig.
+villager.gopray=De mannen aanbidden, de geestelijken zingen!
+villager.gopray=Heil, maagdelijke nimf!
+villager.gopray=O heilige Maria, grote zegerijke aanvoerster!
+villager.gopray=Jij die mij van het kwaad redt, ik dank je...
+villager.gopray=Het volk zal voor je bidden, tot in de eindeloze eeuwen, amen.
+
+villager.godrink=Tijd om wat verse Romeinse wijn te halen!
+villager.godrink=Ik heb iets te drinken nodig.
+villager.godrink=De wijn zal mijn zorgen wegspoelen.
+villager.godrink=Wist je dat Romeinse wijn de beste ter wereld is?
+villager.godrink=Het is alweer een tijd geleden dat ik wat gedronken heb.
+
+wife_byzantine.delivergoodshousehold=Dingen als dit zijn het enige wat ik hier mag doen.
+wife_byzantine.gethousethresources=Mijn man heeft eindelijk de spullen geleverd zoals ik hem gezegd heb.
+wife_byzantine.cooking=Koken is echt leuk.
+wife_byzantine.getgoodshousehold=Tijd om voor mijn gezin te zorgen.
+wife_byzantine.greeting=Ik zou hier zoveel meer kunnen doen als ik een man was, als ik maar...
+wife_byzantine.greeting=Onze taak is onze mannen in toom te houden.
+
+villager.givespeech=Het Romeinse Rijk is geweldig, en ons dorp is het allergrootst.
+villager.givespeech=Ons dorp moet zijn leider dankbaar zijn voor al zijn grootsheid.
+villager.givespeech=Wij Romeinen hebben de beste leiders en de beste mensen.
+
+villager.listentospeech=Hij heeft gelijk!
+villager.listentospeech=Glorie aan ons!
+villager.listentospeech=We kunnen iedereen verslaan!
+villager.listentospeech=Eer aan God en aan onze door God gezonden leider!
+
+special_byzantine.greeting=Je dienstbaarheid zal beloond worden, $name.
+special_byzantine.calltoarms=Beproef je geluk niet, kind.
+special_byzantine.gopray=Buig voor mij...
+
+oldshepherd_byzantine.greeting=Mijn overtuigingen hebben me op de been gehouden…
+oldshepherd_byzantine.greeting=Help mij mijn droom te vervullen, $name, en je zult beloond worden…
+oldshepherd_byzantine.calltoarms=Voor de Boskokrator!
+oldshepherd_byzantine=Heilige Boskokrator, zegen mij en mijn schapen.
+
+merchant_armour.greeting=Alleen de mooiste wapenrustingen en wapens!
+merchant_armour.keepstall=Welkom, welkom! Ik breng je de beste zwaarden die te vinden zijn!
+
+merchant_dyes.greeting=Ik kom elke dag in vrolijke kleuren! Wacht, ik ben geen Indiër.
+merchant_dyes.keepstall=Kom kijken! Verfstoffen uit de hele wereld!
+
+merchant_food.greeting=Wat dacht je van een lekkere souvlaki, $name?
+merchant_food.keepstall=Al het eten dat je je maar wensen kunt!
+
+merchant_materials.greeting=Kom de mooiste bouwmaterialen kopen! Mijn rug en ik zullen je dankbaar zijn.
+merchant_materials.keepstall=Zand, steen en bakstenen! Dioriet en kwarts!
+
+merchant_relics.greeting=Ik verkoop kostbaar handwerk en heilige voorwerpen, $name.
+merchant_relics.keepstall=Kom de top van het Romeinse vakmanschap bewonderen.
+
+merchant_textiles.greeting=Serieus, $name? Die vacht?
+merchant_textiles.keepstall=Trendy tapijten en kleding, net zoals ze in Constantinopel hebben!
+
+loneabbot_byzantine.greeting=Welkom, $name. Je mag uitrusten van je reis, hier ben je veilig.
+lonemonk_byzantine.greeting=Ik heb je niets te bieden, $name.
+
+loneabbot_byzantine.gosocialise=Ik kan niet wachten om mijn studies te delen.
+
+lonemonk_byzantine.gosocialise=Ik kan niet wachten om mijn studies te delen.
+lonemonk_byzantine.plantseeds=Moge God dit zaad zegenen.
+lonemonk_byzantine.collectcrop=Deze gewassen zijn een geschenk van God zelf.
+lonemonk_byzantine.makebread=Het grote offer van de Zoon zal met dit brood beginnen.
+
+villager.plantseeds=Ik heb het gevoel dat we dit jaar een rijke oogst krijgen.
+villager.collectcrop=Ik wist het! Een rijke oogst!
+
+villager.gostudy=Stoor me alsjeblieft niet, $name.
+
+villager.gotreerelax=Deze schaduwrijke plek is gewoon perfect…
+villager.gotreerelax=Ik zou de hele dag onder deze boom kunnen blijven zitten...
+
+villager.relight=Gods liefde is mijn enige verlangen!
+villager.golookout=Vandaag komt er een schip. Ik weet het zeker.
+villager.golookout=Saai werk, maar tenminste word ik betaald.
+villager.sellercoming=Ik kom er meteen aan!
+villager.tradecomplete=Heel veel dank, vaarwel en goede zaken!

@@ -1,0 +1,824 @@
+{
+	chapter.1CB71719E75E0FE9.title: "从旅人到领袖"
+	chapter.1D314DF889D3C993.title: "天选领袖"
+	chapter.2AA7AD610CAE883D.title: "世界渴望之村"
+	chapter.35521BCDAF70706E.title: "酒·狐奇"
+	chapter.3ADD51DD96492612.title: "但·狐"
+	chapter.517F8360FA8A35D7.title: "酒狐·萝卜"
+	chapter.677D4FD2E36F433C.title: "开始"
+	chapter_group.12F8B196EA585244.title: "千年村庄"
+	chapter_group.6050F7ACD10CCF6C.title: "文艺复兴"
+	quest.009150414397CA56.quest_desc: ["无论是蒂卡尔还是奇琴伊察，玛雅没有那种‘封建领主采邑’的行政专有名词。"]
+	quest.009150414397CA56.quest_subtitle: "Player's Jub'uy - 英语/玛雅语:属于玩家的定居点"
+	quest.009150414397CA56.title: "伟大的石神"
+	quest.034AAC70E08DF9EB.quest_subtitle: "这片小树林由一名伐木工打理，是村庄木材的主要来源。"
+	quest.03962B0FA18A0519.quest_desc: ["最终会为每种村庄都设计一个任务章节，建设那个手动开那个，但是工作量有点大，现在只有通用线(诺曼线)。"]
+	quest.03962B0FA18A0519.quest_subtitle: "点击图片可以跳转到WIKI页"
+	quest.04755A17BD4CB0FC.quest_subtitle: "完成任一即可"
+	quest.04755A17BD4CB0FC.title: "入此门者，可以从此门回来"
+	quest.0527F2C517BC02EB.quest_desc: ["在此方世界中，你已经发展了一些你已熟悉的内容。"]
+	quest.05544B4F27DD8775.title: "因纽特村庄"
+	quest.05E1C5C39028BCFF.quest_subtitle: "使用漏斗可以自动化"
+	quest.05F1031A2A7818CC.quest_desc: ["村庄会生成一些初始建筑。"]
+	quest.05F1031A2A7818CC.quest_subtitle: "在中心建筑的箱子里，有个箱子会尝试生成村庄卷轴。"
+	quest.05F1031A2A7818CC.title: "找到本村的卷轴"
+	quest.075A41D1BD39C445.quest_desc: ["即产生对应生物的掉落物。"]
+	quest.081CFD009BC45F45.title: "沼泽小屋"
+	quest.0823F534691A759C.title: "探索新要塞"
+	quest.09AFDFF8E7EBED01.quest_desc: [
+		"&l有些村庄的自给率很高，收不了多少基础材料。&r"
+		"可以多跑跑，在多个村庄同时发展。"
+		"此时可以留意一下各种物品在各个村庄的售价，若有盈利空间可以跑商。"
+		"跨文明的交易详情查看游戏根目录附带的表格，"
+		"同文明之间的交易，攻略缺失，就需要大家自己挖掘了。"
+	]
+	quest.09AFDFF8E7EBED01.quest_subtitle: "村民的建造速度可能比不上玩家的供给速度"
+	quest.09AFDFF8E7EBED01.title: "行商"
+	quest.09E437B7DCB85F2C.quest_subtitle: "当您决定暂停手头的工作时，这里是休闲放松的绝佳去处。"
+	quest.09FE739537D00F9F.quest_desc: ["若要村庄本身为玩家建造豪华别墅，大量的材料需求会把工期拉的很长，此时需要玩家来供给材料。"]
+	quest.09FE739537D00F9F.quest_subtitle: "4个金币是最简单的部分"
+	quest.09FE739537D00F9F.title: "豪华别墅"
+	quest.0A267EB09AD56209.quest_desc: [
+		"跑图时会遇到强盗村民，通常有近战有远程，需要小心应对。"
+		"——————————————————"
+		"如果他们有小房子，一天之内将他们全部击杀后，房间内会刷出否定权杖。"
+		"对着房子里的箱子/牌子右击即可摧毁，使强盗不再复活。"
+		"多找一下，箱子可能藏在墙后面。"
+		"注意: 至少因纽特服饰的强盗会在很短时间内复活。"
+	]
+	quest.0A267EB09AD56209.title: "强盗"
+	quest.0A7D9004A1D0C080.quest_desc: [
+		"垦田永年私财法是日本奈良时代的圣武天皇于天平15年 (743年)发布的一份敕令。"
+		"垦田永年私财法是一项允许新开垦的土地长期私有的法令。"
+		"该法令又称垦田永世私财法 、垦田永世私有法 、垦田永代私有令 。"
+		"该敕令的颁布冲击了日本旧有的以班田收授法（实质上为奴隶主土地国有制）和部民制（实际上为奴隶制）的生产资料制度，是促成庄园在日本出现的法律基础，标志日本开始进入封建社会。"
+	]
+	quest.0A7D9004A1D0C080.quest_subtitle: "Shiyuuchi - 罗马音:私有地"
+	quest.0A7D9004A1D0C080.title: "现世神明"
+	quest.0D97D9B97CDB09AD.quest_desc: [
+		"酒·狐奇 基于当前的技术与材料，发明了蒸汽马达。"
+		"能提供最高256的转速与32768的应力。"
+	]
+	quest.0D97D9B97CDB09AD.title: "工业革命"
+	quest.0DB47C2D530B8E0B.quest_desc: ["生产：诺曼挂毯"]
+	quest.0DB47C2D530B8E0B.quest_subtitle: "村庄织工的住所，他们在此将羊毛织成精美的地毯。"
+	quest.0DEAA1F2C69CDC0B.quest_desc: [
+		"主键位自左上到右下，来自模组的键位有:  "
+		"1. ~: 连锁挖掘、shift+~时有额外选项，通过滚轮来切换;"
+		"2. Tab: 小地图显示额外信息;"
+		"3. W: [机械动力]思索;"
+		"4. R: [JEI]查看来源、[建筑小帮手]范围调节;  "
+		"R + C: [IPN]配置页面;"
+		"5. Y: 小地图设置;"
+		"6. U: 小地图路径点、[JEI]查看用途、[建筑小帮手]撤销;"
+		"7. ]: 打开[Xaero's World Map]配置页面;"
+		"8. A: [JEI]添加/移除标签;"
+		"9. G: [千年村庄]切换护卫姿态/[建筑小帮手]配置页面;"
+		"{@pagebreak}"
+		"10. H: [建筑小帮手]锚定点;"
+		"11. K + Ctrl: [现代化UI]配置页面;"
+		"12. Z: 放大小地图;"
+		"13. C: [现代化UI]望远镜/[简易村民]刷新交易;"
+		"14. V: [千年村庄]列出附近的村庄/-已禁用-[简易村民]拾取;"
+		"15. B: 背包;"
+		"16. N: 打开[FTB区块]地图;"
+		"17. M: 打开[Xaero's World Map];"
+		"18. ,: [千年村庄]信息面板;"
+		"19. 小键盘0: [玉]配置页面;"
+		"20. 小键盘1: 启用/停用[玉]的信息面板;"
+		"21. 小键盘3: [JEI]查看来源;"
+		"22. 小键盘4: [JEI]查看用途;"
+		"23. Delete: -已禁用-将光标指向的物品移入[垃圾桶]"
+	]
+	quest.0DEAA1F2C69CDC0B.quest_subtitle: "重点键位还会再提醒"
+	quest.0DEAA1F2C69CDC0B.title: "键位介绍"
+	quest.0DFE671F3120AD5F.title: "访问要塞"
+	quest.0EE1D77549B6796A.quest_subtitle: "一处让寻常诺曼人喝着烈苹果酒、与好友相伴、放松身心的地方"
+	quest.0EFA7589D6D1E62B.quest_desc: ["你伸手摸了摸一只小酒狐，然后发现小助手充满电了。"]
+	quest.0EFA7589D6D1E62B.title: "小帮手"
+	quest.104E9309C7590CB6.quest_desc: [
+		"真的只是随堂小测，刷铁请使用“边境领主”章节的“铁傀儡农场”。"
+		"想要大水车一带二，另一面直接放鼓风机是行不通的，尝试一下传动箱或是齿轮箱？"
+		"{@pagebreak}"
+		"实际上能做到，但是想想就很赤石。"
+	]
+	quest.104E9309C7590CB6.quest_subtitle: "使用鼓风机水洗沙砾获取铁粒"
+	quest.104E9309C7590CB6.title: "随堂小测"
+	quest.118E284EF964918D.quest_subtitle: "完成任一，可以开门先看看近处有没有"
+	quest.118E284EF964918D.title: "炼狱"
+	quest.11B13DF5AD0C9BA5.title: "繁茂洞穴"
+	quest.139012F55F29AA29.quest_desc: [
+		"在工作台中使用8个铜锭给背包围一圈来升级，后续的升级请查看JEI(在物品栏,对着背包按U试试!)。"
+		"背包中有升级组件，合成升级、喂食升级、堆叠升级(最多3个)都很好用，合成方式请查看JEI。"
+		"喂食升级可能会喂你吃蜘蛛眼，在背包中可以设置白名单/黑名单。"
+	]
+	quest.139012F55F29AA29.quest_subtitle: "另外使用鼠标中键可以整理玩家物品栏"
+	quest.139012F55F29AA29.title: "精妙背包"
+	quest.147F18159A84A150.quest_desc: [
+		"空手Shift右键可以炼化村民变成物品，右键放出来/放进方块。"
+		"在方块的村民可以Shift右键取出来。"
+	]
+	quest.147F18159A84A150.quest_subtitle: "村民在你的物品栏/模组方块时，会发出声音"
+	quest.14ABF201E73E0307.quest_desc: [
+		"给你两个。"
+		"跑图路上可能会捡到，但也可能捡不到，捡不到上哪弄呢，总不能真收集末影珍珠吧？"
+		"看看原版村庄~"
+	]
+	quest.14ABF201E73E0307.quest_subtitle: "右键长按传送石"
+	quest.14D77FD73664755D.quest_desc: [
+		"在诺曼村极高声望后，村长会委托你寻找建设巴黎圣母院的位置。"
+		"会在对应位置生成一个村庄来负责建造奇观，而这个这个地点要求远离别的村庄/地标200格。"
+		"基于这点，指定的位置可以距离玩家村庄近一点。"
+		"&n建成后，会在每天凌晨鸣一次钟，并提供玩家10分钟的幸运2buff。&r"
+	]
+	quest.151DE6A1425A5C2A.title: "印度村庄"
+	quest.15370FD1EB590E68.quest_desc: [
+		"手持钱包右键取出/存入钱币。"
+		"d是铜币: 迪奈尔铜币 (Denier)"
+		"a是银币: 迪奈尔银币 (Denier Argent)"
+		"o是金币: 迪奈尔金币 (Denier Or)"
+		"1o=64a=4096d"
+		"若物品栏的低级货币足够合并为上一级，手持右键即可向上升级。"
+		"————————————————"
+		"本整合包添加了手动拆分钱币的配方"
+		"机械动力能合并钱币的原因可以去看kubejs的配方:D"
+	]
+	quest.15370FD1EB590E68.quest_subtitle: "任意村庄的城镇大厅交易商人处购买，花费 32a"
+	quest.15370FD1EB590E68.title: "收纳钱的袋子"
+	quest.156157D83C6B7DF8.quest_desc: ["提供专职的武装力量"]
+	quest.156157D83C6B7DF8.quest_subtitle: "供士兵居住的房屋。这里兼作休息之所与指挥中心"
+	quest.1616E2F6E8B8F988.quest_desc: [
+		"新的孩子会在夫妇于夜间同处家中时出现。"
+		"同样地，孩子也在夜间于家中长大。"
+		"某些食物（饮料、糖果）会提升新生儿出现的概率，另一些（面包、谷物）则会加快孩子的成长速度。"
+	]
+	quest.174772FBC1566552.quest_desc: ["村庄卷轴的内容是只读的，介入村庄的行为需要到村庄的中心建筑中点击对应村庄面板来进行。"]
+	quest.18DBBC524E4CDCBE.title: "采集石英"
+	quest.18E03D204B892BFC.quest_desc: ["大齿轮咬合/齿轮箱/传动箱 都可以改变力的方向，但是传动箱不会改变旋转方向。"]
+	quest.18E03D204B892BFC.quest_subtitle: "并排放置，奖传动箱连在一起，然后扳手右键任意一格"
+	quest.1BC58D9B1495E0A9.quest_desc: ["因纽特是以血缘社群与狩猎合作为基础的部落社会。"]
+	quest.1BC58D9B1495E0A9.quest_subtitle: "Afuniaqtuq - 因纽特语:狩猎聚落"
+	quest.1BC58D9B1495E0A9.title: "灵魂之选"
+	quest.1D6A621ECFB1D57E.title: "林地府邸"
+	quest.1D7D6F0D8B8D4104.quest_desc: [
+		"上个任务为什么要送去皮原木呢？"
+		"将去皮原木放置出来后，手持安山合金右键试试！"
+	]
+	quest.1E5BAFD175B90002.quest_desc: [
+		"使用机械动力前期的齿轮、水车和处理工具制作材料，差不多是文艺复兴的科技水平，还能接受吧。"
+		"有连锁，不玩机械动力的话，收集材料也花不了多少时间，选择性游玩。"
+	]
+	quest.1E5BAFD175B90002.quest_subtitle: "辅助生产资源即可"
+	quest.1E85D1745CC21B4C.quest_desc: [
+		"两个合并的下界合金箱子加合成升级、堆叠升级，应该足够存储物品了。"
+		"注意背包的升级的皮质的，箱子的升级是木制的。"
+	]
+	quest.1E85D1745CC21B4C.quest_subtitle: "与精妙背包的逻辑相同"
+	quest.1E85D1745CC21B4C.title: "精妙存储"
+	quest.1ECEF77A184D8FC8.quest_subtitle: "但是你真在村里那就是定位到本村"
+	quest.1ECEF77A184D8FC8.title: "旅行的起点:隔壁村"
+	quest.1F03549B17861431.title: "定位: 沙漠神殿"
+	quest.1F41FCF018CE862B.quest_desc: ["200万声望时，会解锁顶级声望称号，也是右边各文明的任务名。"]
+	quest.218137A601BFB260.quest_desc: ["看一下文艺复兴任务线!"]
+	quest.218E6A969450A8E5.quest_subtitle: "[区块]可以查看村庄的边界"
+	quest.22F0C6634157FB2C.quest_desc: ["&c很多人说这东西挺坑，不推荐造。"]
+	quest.22F0C6634157FB2C.quest_subtitle: "本地与外来商人歇脚的落脚点。"
+	quest.234CEBB0488AF785.quest_desc: [
+		"所有村庄有统一的流程:"
+		"    拉关系->获取建村权杖->发展自己的村庄"
+		"其中 诺曼、印度、玛雅文明拥有额外的文明主线任务，"
+		"这些文明主线任务，任务书会在之后提供指导。"
+		""
+		"&c模组当前版本未完成创世任务的移植。&r"
+	]
+	quest.234CEBB0488AF785.quest_subtitle: "内容基于旧版本编写 "
+	quest.2353DFF10D6A6B00.title: "古迹废墟"
+	quest.24328FF84A595AE5.quest_desc: ["有兴趣搞风车的，把鼠标移到左边的黑绿色方块，轻推W"]
+	quest.24328FF84A595AE5.quest_subtitle: "较贵的一种方案"
+	quest.2637AE956CDA86B3.quest_desc: [
+		"花费128d购买村庄卷轴，手持右键即可查看本村面板中的信息。"
+		"购买卷轴需要声望等级达到'村庄之友'。"
+		"——————————————"
+		"每一个文明都有一套声望名称，这里统一使用诺曼的。"
+	]
+	quest.2637AE956CDA86B3.quest_subtitle: "在一个村庄的声望达到“村庄之友”"
+	quest.2637AE956CDA86B3.title: "村庄之友"
+	quest.26815736704A799E.quest_desc: [
+		"按E左上角 找到任务书来进任务，可能更方便。"
+		"1.任务名后缀“(任一)“时，只需要完成任一目标就可以完成任务。"
+		"2.按~启用连锁。"
+		"3.使用/spawn回到出生点，/sethome设置家，/home回家，/tpa传送到朋友身边，/rtp进行一次随机远距离传送。"
+		"4.按N唤起[FTB区块]地图，左上角UI可以声明区块，左键声明，右键放弃，声明后Shift+左键强制加载，右键取消。"
+		"[FTB区块]地图加载点亮的范围更大一点。"
+		"&c注意[千年村庄]拥有一个玩家距离300格内,村庄整体会加载的设定。"
+	]
+	quest.26815736704A799E.quest_subtitle: "进档送一本了 可以先不领"
+	quest.26815736704A799E.title: "有FTB全家桶"
+	quest.272C4D69611B28BD.quest_desc: ["注意: 村庄不会在水面上规划任何建筑，而且请不要尝试用熔岩在水上铺路！"]
+	quest.2772D4FC136F0DE9.quest_desc: [
+		"来源于[千年村庄]的稀有孤立建筑\"万神殿\"，属于彩蛋性质，宏伟的建筑里列举了模组的贡献者。"
+		"由于孤立建筑是被模组控制生成的，不属于\"结构\"，因此无法定位。"
+		"{image:modpack:textures/quests/seven_cities_of_gold.png width:290 height:220 align:center fit:true}"
+		"{@pagebreak}"
+		"想要看看的可以使用指令: "
+		"/millenaire spawn_lb norman_pantheon"
+	]
+	quest.2772D4FC136F0DE9.quest_subtitle: "由七种文明的造物打造"
+	quest.2772D4FC136F0DE9.title: "黄金国"
+	quest.27A3F027471BE8FF.title: "拜占庭村庄"
+	quest.28C183835A936C6B.quest_desc: [
+		"&m我之后研究一下怎么把充电去了&r"
+		"[ { \"text\": \"看这里！\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0EFA7589D6D1E62B\" } } ]"
+	]
+	quest.28C183835A936C6B.quest_subtitle: "小帮手要充电"
+	quest.28C183835A936C6B.title: "要吃饭的嘛"
+	quest.29D31C434BE263F9.quest_desc: ["如果没有人工智能，那么就让村民成为能工智人。"]
+	quest.29D31C434BE263F9.quest_subtitle: "村庄伐木工及其家人的住所"
+	quest.2A76108654AAA8FC.quest_desc: [
+		"最好在高一点的地方，搭一个水平的5x5框架，中空3x3的区域，然后四个角堵上，中间五个格子 下面一格最中间放漏斗，其他的随便堵起来。"
+		"先在一格里先放熔岩；再在另一格里放钻头，朝向漏斗上面的格子；钻头那一格里放水，此时为钻头通入应力，刷石机即启动。"
+		"如果想要提高效率，生成石头格子的另外三个面都可以再放一格钻头，效率是有提升的。"
+		"注意如果效率高于了漏斗的速度，应该把漏斗的输出口顶向别的无法输出的方块，然后下面放一个溜槽接管输出。"
+	]
+	quest.2A76108654AAA8FC.quest_subtitle: "开放容器...到底是什么呢..."
+	quest.2A76108654AAA8FC.title: "刷石机"
+	quest.2B71E8646B0D6207.quest_subtitle: "这是玩家的豪斯"
+	quest.2BD0AD33D50E0EB1.quest_desc: ["最好在开始任务前，找到落脚的千年村庄。"]
+	quest.2BD0AD33D50E0EB1.quest_subtitle: "四个前置完成任一即可"
+	quest.2C195AF03F269B0A.quest_desc: [
+		"冥冥之中 但·狐 来到了一座城市......"
+		"但·狐回归主世界，最近村庄的村长真切的感受到了天使与龙的气息，向你表示臣服。"
+	]
+	quest.2C195AF03F269B0A.quest_subtitle: "指令奖励的声望会给到最近的村庄"
+	quest.2C195AF03F269B0A.title: "爱动太阳而移群星"
+	quest.2D5990C6C283D959.quest_desc: ["会，村民每晚都会重生，时间在日落后不久。请避免立即睡觉。"]
+	quest.2F7A480E821EAF50.quest_desc: [
+		"查阅“边境领主、文艺复兴”章节，通过劳动创造财富。"
+		"由于钻石的贬值而与[千年村庄]货币的汇率没变，实际上卖钻石装备就能把声望顶起来。"
+	]
+	quest.2F7A480E821EAF50.title: "创造价值"
+	quest.3062149BD82E5514.quest_desc: ["但·狐 进门后看到主岛的瞬间 感觉到一股斥力，无形的力量眨眼间将其推离了主岛，还好 但·狐 能通过隙间往返。"]
+	quest.3062149BD82E5514.quest_subtitle: "酒狐为什么会隙间?"
+	quest.3062149BD82E5514.title: "飞越月球天但末地不是天境"
+	quest.322D483DDD5AAEA6.title: "定位: 古迹废墟"
+	quest.3243C5816EFBA065.title: "委托制作精密构建"
+	quest.32893A62FE80E9CC.quest_desc: [
+		"高出平地两格围一个十字，中间方块挖掉，其下地面的方块也挖掉一格，在十字中心倒入熔岩。"
+		"鼓风机对着熔岩，后面连一个大水车，水车最好是下面走水，然后确保鼓风机是出风(风有熔岩特效)。"
+		"鼓风机-熔岩 方向 从熔岩开始延申三格，放箱子，第二格放安山漏斗连着箱子(Shift)，确保安山漏斗侧面的小三角对着箱子；"
+		"第一格上方将方块替换围溜槽，溜槽上面放箱子。"
+		"成型，在箱子里放入需要熔炼的物品即可。"
+		"可以在熔岩上面顶一个方块，不过顶不顶都不会烧箱子。"
+	]
+	quest.32893A62FE80E9CC.quest_subtitle: "一定要是大水车和溜槽！"
+	quest.32893A62FE80E9CC.title: "利用鼓风机在几秒内完成巨量物体的冶炼"
+	quest.32F2B4D27C1A031D.quest_desc: [
+		"酒·狐奇 基于当前的技术与材料，发明了黄铜马达。"
+		"能提供最高128的转速与8196的应力。"
+	]
+	quest.32F2B4D27C1A031D.title: "黄铜科技的思索"
+	quest.3428ECFAA9DE1C2B.title: "定位: 村庄"
+	quest.3434B45431603F65.quest_desc: ["比如拉到回坑老玩家一起玩了，顺便想玩都可以加，什么AE、MEK、植物魔法随便加。"]
+	quest.3434B45431603F65.quest_subtitle: "玩家是穿越者起锅炉就锅炉吧"
+	quest.3434B45431603F65.title: "补充设定"
+	quest.34677988AF7F17E0.title: "塞尔柱村庄"
+	quest.346C8274D169F93C.quest_desc: [
+		"按C，[现代化UI]提供了一个便捷的望远镜功能。"
+		"灯笼可以放置在饰品栏的腰带位，配合动态光源使用。"
+		"{@pagebreak}"
+		"空手+Shift+右键 可以抱起一些生物和方块。"
+		"很不幸，并不支持对精妙箱子的搬运，但是原版箱子可以。"
+		"为避免冲突，禁用了对原版村民、千年村庄村民的搬运。"
+		"{@pagebreak}"
+		"[吃不停]使得玩家在满饥饿度时依旧可以进食。"
+		"[Create：实用功能]对机械动力增加了很多体验优化。"
+	]
+	quest.346C8274D169F93C.quest_subtitle: "页数比较多，使用滚轮快捷翻页"
+	quest.346C8274D169F93C.title: "其他便捷操作"
+	quest.34CCB33B98581696.quest_desc: ["生产：染色玻璃"]
+	quest.34CCB33B98581696.quest_subtitle: "这是玻璃匠的住所，他在此潜心制作彩色玻璃。"
+	quest.360A861C347476DD.quest_subtitle: "供商人与潜在顾客往来交易的热闹场所。"
+	quest.36A41DCE87C76310.title: "诡异森林地图"
+	quest.36C8A114A0774D2A.quest_subtitle: "村中信徒聚集、聆听神父下一场布道的地方。"
+	quest.36ECCD08FB27DE4D.quest_subtitle: "游商坐下歇脚、暂别漂泊的地方。"
+	quest.378F9E0B29AC1418.title: "收集遗迹资源"
+	quest.386547F3FA6CD5C3.quest_desc: [
+		"购买召唤法杖需要声望等级到达\"我们的一份子\"。"
+		"&c注意: 此时建立的村庄所有权不属于玩家！只是让世界中多了一个NPC村庄!&r"
+		"对着金块右键可以创建一个自选村庄，"
+		"对着黑曜石右键可以创建一个随机村庄。"
+		"村庄的面积是以金块为中心的正方形，边长178。"
+	]
+	quest.386547F3FA6CD5C3.quest_subtitle: "在一个村庄的声望等级到达\"我们的一份子\""
+	quest.386547F3FA6CD5C3.title: "一辈子的朋友 (Amis pour la vie)"
+	quest.390155F1759A7AB4.quest_desc: [
+		"使用锻造台为背包进行最后的升级。"
+		"配置默认允许使用3个堆叠升级。"
+	]
+	quest.390155F1759A7AB4.quest_subtitle: "锻造模板最好复制一份"
+	quest.3902031F1A17BD04.title: "定访要塞"
+	quest.390E8A7286AC71F2.quest_desc: [
+		"[查看饰品能力:在JEI里搜索@art]"
+		"在一文明的村庄中，玩家达到了\"天生领袖\"声望时，可以找到此村的村长，要求“获取文明控制权”。"
+		"&c此时就可以创建(受控)于玩家的村庄。&r"
+		"&c再次使用召唤法杖，可以在对应文明类型下，看到后缀-(受控)的名称。&r"
+		"&c显示的名字各不相同，但语义都是&n玩家领地&r&c。&r"
+		"&c此类村庄拥有文明的所有建筑类型。&r"
+		"另外还有后缀(walled)，这个墙是后面会建造，创建时是不带的。"
+		""
+		"文明的创世任务会增加大量的声望，但此版本中尚未加入:("
+		"[ \"我来给，点击查看\", { \"text\": \"此任务\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"2C195AF03F269B0A\" } }, \"，获取巨量声望:)\" ]"
+	]
+	quest.390E8A7286AC71F2.quest_subtitle: "在一个村庄的声望到达“天生领袖”"
+	quest.390E8A7286AC71F2.title: "如果我成为大统领"
+	quest.3A000466BB87442D.quest_desc: ["把想要展示的盔甲放进去，或者点一下小圆圈隐藏当前盔甲。"]
+	quest.3A000466BB87442D.quest_subtitle: "按E人物右下角有个小胸甲"
+	quest.3A000466BB87442D.title: "盔甲外观"
+	quest.3A2BA055FA412EF3.quest_desc: [
+		"村里的每一个人都会显示玩家的本村声望，村长在此之外有更多的可交换行为。"
+		"{image:modpack:textures/quests/find_leader.png width:100 height:100 align:center fit:true}"
+	]
+	quest.3A2BA055FA412EF3.quest_subtitle: "村长头顶有金头盔 在村庄地图中为紫色的点"
+	quest.3AB27129761E20EE.quest_desc: [
+		"1.生存模式下也有调用开发者模式的权限，对着'村庄面板/村民'右键唤起的页面中的选项，可能会带来意外的后果。"
+		"2.提示: `无法再次建造<建筑名>: 禁止施工(...)`"
+		"可能是建筑悬空导致的，村民可以接受挖土但不会进行填埋。"
+		"3.有时候红线不是那么的准确，在确认拥有一定间隔、且没有超出村庄范围(蓝线)时，可以左键试试，有概率能放下，但也说明位置很极限。"
+	]
+	quest.3CE0E97024F63065.quest_desc: [
+		"手持右键搜索群系即可。"
+		"关于[千年村庄]与群系的具体内容，在之后的章节中说明。"
+	]
+	quest.3CE0E97024F63065.quest_subtitle: "各类文明的村庄会在不同的群系中生成"
+	quest.3CE0E97024F63065.title: "自然罗盘"
+	quest.3D5C09C9DD576CE9.quest_subtitle: "一座附带果园的苹果酒坊，酿酒人在此采摘苹果酿造苹果酒。一旦升级配备蒸馏器，还能产出卡尔瓦多斯苹果白兰地。"
+	quest.3D76F15619B30A46.quest_subtitle: "一座小果园，村庄的伐木工在此采摘苹果、酿造苹果酒。供没有正规苹果酒坊的村庄使用。"
+	quest.3F916D43B949EDC6.title: "要塞的痕迹"
+	quest.3FF336056F824B41.quest_subtitle: "供卫兵眺望地平线、警惕村庄之敌与威胁的地方。"
+	quest.409B787CA97EB461.quest_desc: ["如果没有人工智能，那么就让村民成为能工智人。"]
+	quest.409B787CA97EB461.quest_subtitle: "这么个地上的简陋洞口竟能产出如此多的方块，这个谜团还是留给Minecraft的神明去解答吧。"
+	quest.409B787CA97EB461.title: "采石场"
+	quest.40A7F8802ECE7942.quest_desc: [
+		"# 客户端文件附录中有配置文件介绍，下面是整合包的配置改动。"
+		"# 生成卫星村:不"
+		"generateHamlets = false"
+		"# 两个村庄之间的最小距离(300~1000)"
+		"minVillageDistance = 500->300"
+		"# 两个独立建筑之间的最小距离(300~1000)"
+		"minLoneBuildingDistance = 500->300"
+		"# 村庄与独立建筑之间的最小距离（100~800）"
+		"minVillageLoneBuildingDistance = 250->100"
+		"# 世界出生点周围的保护区域，在此范围内不会生成任何内容(0~500)"
+		"spawnProtectionRadius = 250 -> 300"
+		"# 保持村庄区块持续加载的半径 (0~2000)"
+		"&c# 会带来卡顿，但就是来玩这个的，可以适度的修改"
+		"keepActiveRadius = 200 -> 300"
+	]
+	quest.40A7F8802ECE7942.quest_subtitle: "根目录/config/millenaire-server.toml"
+	quest.40A7F8802ECE7942.title: "配置文件"
+	quest.411D3E6381397280.quest_desc: ["并且可以快速刷交易，注意交易过就没法刷新了。"]
+	quest.411D3E6381397280.quest_subtitle: "放入村民和对应工作方块 进行村民交易"
+	quest.41630A1288DFC663.quest_subtitle: "可以横放，然后边缘有单向流动的水即可"
+	quest.41647FA6FC6C1EEC.quest_desc: [
+		"中心建筑的内部或附近拥有数个村庄面板，我们需要面板的信息。"
+		"村庄改名的指令: /vname [名称]"
+	]
+	quest.41647FA6FC6C1EEC.quest_subtitle: "找到村庄的中心建筑"
+	quest.41647FA6FC6C1EEC.title: "发现村庄"
+	quest.4175319E5EE0B84E.quest_desc: ["穿越三角洲、跨过岩浆海，找到它。"]
+	quest.4175319E5EE0B84E.quest_subtitle: "地毯式搜索"
+	quest.4175319E5EE0B84E.title: "一路向西"
+	quest.430CD3B0FF423D3C.quest_desc: [
+		"[千年村庄]的信息面板由\",\"键开启。"
+		"\"M\"键是世界地图，\"N\"键是区块声明地图。"
+		"值得一提的是，有光柱的死亡路径点需在M中删除，默认只保留最后一次的死亡坐标。"
+		"若需要之前的死亡坐标，N中的地图上有&cX&r可以查看。"
+	]
+	quest.430CD3B0FF423D3C.quest_subtitle: "请注意V显示的灰色内容才是重点信息"
+	quest.430CD3B0FF423D3C.title: "直接按V寻找附近的村庄"
+	quest.4347DB899A9C097C.quest_desc: ["在垂直方向上，留出一格高，其下放置铁锭，为冲压机接入应力，等待。"]
+	quest.4347DB899A9C097C.quest_subtitle: "尝试使用冲压机制作一个铁板吧"
+	quest.4347DB899A9C097C.title: "实战"
+	quest.43E5C4886563CAD5.title: "收集玄武岩三角洲资源"
+	quest.4483E281EC4688B7.title: "玛雅村庄"
+	quest.453C1D098ACEE910.title: "收集诡异森林资源"
+	quest.45ECA404887453B1.title: "日本村庄"
+	quest.46E5136DCBA7E26A.title: "定位: 远古城市"
+	quest.46F1346BDA6C724C.quest_desc: [
+		"消耗饥饿度换取应力。"
+		"右键操作，按Shift可以反转转向。"
+	]
+	quest.46F1346BDA6C724C.quest_subtitle: "鼠标移到左上的图标上，按住[W]"
+	quest.46F1346BDA6C724C.title: "狗修金 我发现轻推[w]脑子里会有教程画面"
+	quest.4727FAFD22AAD8E2.title: "试炼密室"
+	quest.484D3CD94E6820FE.quest_desc: [
+		"村庄附近300格内不允许玩家建村，使用V查看哪些村庄在300格以内。"
+		"如果距离比较远了或许可以选择走两步?注意走跑多了可能又生成村庄了。"
+		"若确实希望在此处建村..."
+		"{@pagebreak}"
+		"在一天之内，将一个村庄的男人全部击杀后，村庄大厅的一个箱子里会生成\"否定权杖\"，右击后该村庄的所有人消失，村庄毁灭。"
+		"或许可以把这份因果转移。"
+	]
+	quest.484D3CD94E6820FE.quest_subtitle: "是这个乱世害了你"
+	quest.484D3CD94E6820FE.title: "风水宝地旁边有其他村庄？"
+	quest.496EC417B0E90EB9.quest_subtitle: "诺曼村庄当地的农场。"
+	quest.49CCAA09BA6D786D.title: "初入下界"
+	quest.49D191C8E514A113.quest_subtitle: "左上三角查看另一依赖"
+	quest.49D191C8E514A113.title: "委托抓捕烈焰人"
+	quest.4A26D652F336F974.title: "末地蔷薇"
+	quest.4AC407AA3AD5C8B2.title: "定位: 沼泽小屋"
+	quest.4B5C3913250E73B1.title: "定位: 试炼密室"
+	quest.4C172064EAC0F8DD.quest_desc: ["因为作者技术有限，所以使用任务系统搭建了一条寻访路线。"]
+	quest.4E14EFCD9DDAE319.title: "沙漠神殿"
+	quest.4E272365BF815BA6.quest_desc: ["最简单的用法是按G选择形状，之后手持按R调整尺寸，然后放置即可。"]
+	quest.4E272365BF815BA6.quest_subtitle: "就当穿越的时候顺手带来的吧"
+	quest.4E272365BF815BA6.title: "考虑方便铺地加的"
+	quest.4EB32F2BA4490612.quest_subtitle: "村庄神父的住所，他在布道间隙于此歇息。"
+	quest.505822618F82EA69.quest_desc: [
+		"模组中有语言学习机制，玩家需要跟村民互动打交道才能慢慢学会他们的语言。"
+		"已修改配置文件，现在一进村语言就通。"
+		"{image:modpack:textures/quests/chatgpt_runtime.png width:177 height:42 align:center}"
+		"另外还有一些配置项，如果玩家能在游戏的各个阶段进行调整，可以获得更好的游戏体验。"
+		"比如前期都是小村庄，加载半径可以大一点让多个村庄同时发展，到中后期逐步改小，让主力村发展。"
+		"——————————"
+		"另外:"
+		"为了让玩家有一个保底的建村位置，出生内300格不会出现村庄。"
+	]
+	quest.505822618F82EA69.quest_subtitle: "语言交流无需学习"
+	quest.515755572D153BC7.quest_desc: [
+		"为防止玩家的放置物品的区域被村民自动规划为建筑用地，可以建造一些 玩家房子。"
+		"同名于在别的村庄中，村长售给玩家的房子；"
+		"也可以选择放置在建筑旁边的不可建造区域内；"
+		"我当年的选择是...住地底..."
+	]
+	quest.51CF427B0953D2D9.quest_subtitle: "刚刚奖励的转速表/齿轮箱，直接放进合成栏里"
+	quest.523C09A1393B31DB.quest_desc: ["最好不要在其他地方用掉赠送物，这是模组配方用到的妙妙工具。"]
+	quest.523C09A1393B31DB.quest_subtitle: "简易村民有专门一章任务"
+	quest.523C09A1393B31DB.title: "简易村民"
+	quest.52E66761157D740C.quest_desc: [
+		"庄园制度的起源跟封建制度一样古老，也包含许多罗马与日耳曼传统。"
+		"庄园经济之所以成为中世纪欧洲的主要制度，如同封建制度一样，是因为第十世纪卡洛林王朝的解体与欧洲政治的混乱。"
+	]
+	quest.52E66761157D740C.quest_subtitle: "Seigneurie - 法语:领主庄园"
+	quest.52E66761157D740C.title: "下一个Kinniken"
+	quest.5365652572C39BB6.quest_desc: [
+		"使用号角对已驯服的马Shift右键，即可绑定，此后吹响号角即可召唤马。"
+		"至于船则是给海岛奇兵开局用的。"
+	]
+	quest.5365652572C39BB6.quest_subtitle: "号角丢了会很麻烦，需要同一种音色的再合一个"
+	quest.5365652572C39BB6.title: "坐骑"
+	quest.54D9F2E7D9389CDC.title: "丛林"
+	quest.55B41ED083468909.quest_desc: [
+		"村民不会拿取诸如钻石剑、钻石胸甲、盾牌这样的装备；"
+		"而是随 军械库/铁匠铺 的建筑等级，自动拥有更强的装备。"
+	]
+	quest.55B41ED083468909.title: "军械库与铁匠铺"
+	quest.55B5F5A910693E41.quest_desc: ["最便宜的土地真的很小，提升声望解锁购买更大土地的权限。"]
+	quest.55B5F5A910693E41.quest_subtitle: "找到村长 购买房产或土地"
+	quest.55B5F5A910693E41.title: "房地产"
+	quest.56637D9CFB64F0DE.quest_desc: ["酒·狐奇 理解蒸汽引擎需要一定的时间..."]
+	quest.56637D9CFB64F0DE.quest_subtitle: "直接勾选"
+	quest.56637D9CFB64F0DE.title: "蒸汽引擎"
+	quest.567ABF93A5F9B2DA.title: "沼泽"
+	quest.5706B4A2FFCA35D7.quest_desc: ["诺曼奇观的任务先不要接，权杖会优先认为你要声明奇观位置，而阻碍建村的相关判断。"]
+	quest.578D46B82240E164.quest_desc: [
+		"当村民头顶有灰色文字时说明其会发布任务，完成任务会获得一些声望，当然也可以选择损失声望来贪墨任务道具。"
+		"若要查看已接取的任务，在[千年村庄]信息面板中(\"，\"键)，选择旅行日记查看。"
+		"&c此节的文本及后续需要完善。"
+	]
+	quest.578D46B82240E164.quest_subtitle: "Todo"
+	quest.58ED62541F958EC7.quest_subtitle: "村庄档案馆密切关注着村民及其当前的任务。"
+	quest.59934A5AD0AF63B8.title: "河流"
+	quest.59B8CE023D51007F.quest_desc: ["也可以试试奇异饰品的村民草帽"]
+	quest.59B8CE023D51007F.quest_subtitle: "经典打骨折"
+	quest.5A0067A40074C73A.quest_desc: ["主手/副手分别持有砂纸/玫瑰石英，长按右键进行磨制。"]
+	quest.5A0067A40074C73A.title: "磨制玫瑰石英"
+	quest.5AC4CEBA46AC499F.quest_subtitle: "放入两个村民和食物 生小村民，可以漏斗输出"
+	quest.5B4DB2ED829BE802.quest_desc: ["村里的武装力量足够应对大部分威胁，玩家可以选择在夜晚捡漏。"]
+	quest.5B4DB2ED829BE802.quest_subtitle: "村民战死后会重生"
+	quest.5B4DB2ED829BE802.title: "村民武装"
+	quest.5B8C9A8CC536E0E0.quest_desc: [
+		"右键动力轴承使其停下。"
+		"1.在未放置动力锯的另一黄色面，点上强力胶然后放置机械手，注意机械手最好比动力锯放置的位置收束一格，动力锯有时候不能碰到同底盘机械手放置的树苗。"
+		"然后手持树苗在机械手的过滤槽点一下，再把树苗放入箱子里，不知道过滤槽是什么一定要 对着机械手轻推w看一下思索。"
+		"2.将底盘的远端垫高一格，然后再其上放置移动式接口，朝远离动力轴承的方向(若方向不对可以使用扳手右键)。"
+		"手持强力胶分别右键 移动式接口、垫高方块下面的底盘棕色面。"
+		"3.间隔一格，放置另一个移动式接口，口对口，然后新放置的接口下面放溜槽、溜槽下面放箱子(容器)。"
+		"此时右击动力轴承，自动化成型。"
+	]
+	quest.5B8C9A8CC536E0E0.quest_subtitle: "可以攒钱买机械手"
+	quest.5B8C9A8CC536E0E0.title: "树场自动化"
+	quest.5C56BE290D104944.quest_desc: ["为村庄改名后，多次拿走卷轴，尝试让箱子重新生成卷轴，即可获得村庄改名后的卷轴。"]
+	quest.5C9E061F85BB1321.quest_desc: [
+		"村庄的发展依赖玩家在其附近使之加载,因此设计此系列任务压缩、省略需要出门的行为。"
+		"酒狐·萝卜: 在主世界行商,能帮助玩家探访原版结构与群系。"
+		"但·狐: 下界- 堡垒-末地 三部曲。"
+		"酒·狐奇: 机械动力。"
+		"————————————————"
+		"“但·狐”章节，设计了一个小玩法，使用改名的对应道具作为关键道具。"
+		"实际上玩家可以通过铁砧来伪造这个关键道具:D"
+		"————————————————"
+		"&n银币是任务的货币，整合包添加了金币向下拆分为银币的配方。&r"
+	]
+	quest.5C9E061F85BB1321.quest_subtitle: "上方任务是超链接，各自任务页左上角可跳转"
+	quest.5D4E509064A4EFB1.quest_desc: ["比如出水的水效、掉血少血的灰色、红色滤镜。"]
+	quest.5D4E509064A4EFB1.quest_subtitle: "内置的bliss会有一些额外的视觉效果"
+	quest.5D4E509064A4EFB1.title: "关于光影"
+	quest.5DC2F32D85CEE149.quest_desc: ["将滴水石锥挂在滴水石块下面，滴水石块上放置熔岩，滴水石锥下面放炼药锅，等待不定的时间后，炼药锅内会再生出熔岩。"]
+	quest.60BCD2F9DC1FE437.quest_desc: [""]
+	quest.6301ABAF214F6C47.title: "远古城市"
+	quest.63383F7C4D7B76C7.quest_desc: [""]
+	quest.63383F7C4D7B76C7.title: "资源生产"
+	quest.6404DFF3FCA860D0.quest_desc: [
+		"当玩家在中心建筑附近，收购资源的村民会自动赶来。"
+		"打开交易界面，玩家物品栏左边有两个小UI。"
+		"交易模式下，每次出售会让玩家获得钱币及声望。"
+		"捐赠模式下，每次出售会让玩家多倍声望。"
+		"声望会在本村中全额获得提升，在同文明村庄中则是小幅度、有上限的提升(应该是4096)。"
+	]
+	quest.6404DFF3FCA860D0.quest_subtitle: "通过交易获取任意的模组货币\"第纳尔\""
+	quest.6404DFF3FCA860D0.title: "交易(任一)"
+	quest.642217C6241B64D4.quest_desc: ["村庄的建筑，除了建筑本身需要的空间，还会锁定外围的一些空间 使之不可进行建筑放置。"]
+	quest.642217C6241B64D4.quest_subtitle: "当前版本村庄半径就是很小，改设置也没用😭"
+	quest.6490ADCF4B4FF843.quest_desc: [
+		"通过对号旁边的左三角，查看前置。"
+		"右侧的右三角就是后续了，不过不常用。"
+	]
+	quest.6490ADCF4B4FF843.quest_subtitle: "这个任务的前置在另一章节"
+	quest.6490ADCF4B4FF843.title: "创造价值"
+	quest.64911CCC1AC3F2C1.quest_subtitle: "放入村民，会慢慢刷铁，使用漏斗输出"
+	quest.650440FD7FF0E132.quest_subtitle: "在下界门附近探索"
+	quest.650440FD7FF0E132.title: "下界环游"
+	quest.65CAD36DFFDCDC9C.quest_subtitle: "可以管理当前的建筑"
+	quest.65E0DEDCF6E944C7.quest_subtitle: "放入小村民 会变大村民"
+	quest.65E7D4A43637F173.quest_desc: ["但在地上也能砸板"]
+	quest.65E7D4A43637F173.quest_subtitle: "置物台会让处理更加体面"
+	quest.6638BF54DE483D01.title: "雪原"
+	quest.670BBD8273231F41.quest_subtitle: "可以设置外交行为"
+	quest.675B8219298733D3.quest_desc: [
+		"来抽个奖看看能不能拿到好东西。"
+		"按E人物左上角打开饰品栏，注意如背包等可装备饰品，不要进装备栏了。"
+		"再想获得饰品，就需要找战利品箱或者打地下的宝箱怪了。"
+	]
+	quest.675B8219298733D3.quest_subtitle: "模组本身为饰品添加了介绍，在JEI里搜索@art"
+	quest.675B8219298733D3.title: "奇异饰品"
+	quest.67A17A0D7FB995D6.quest_desc: [
+		"在奥斯曼帝国时期，精英阶层主要分为三大群体：军队、宫廷官员和神职人员。 "
+		"Askerî字面意思是“军队的”，但更广泛地涵盖了帝国行政的所有高级层级。 "
+		"Re'âyâ字母意思是“被牧养的羊群”或“臣民”。"
+		"Yönetilenler相当于Re'âyâ。"
+	]
+	quest.67A17A0D7FB995D6.quest_subtitle: "Yönetilen Saray - 土耳其语:受控宫殿"
+	quest.67A17A0D7FB995D6.title: "未来的伟大苏丹"
+	quest.6815DD85B49B1925.title: "黑森林"
+	quest.684AC543420DF454.title: "峭壁"
+	quest.68BC75B34FC2EDAD.quest_desc: [
+		"记得/sethome"
+		"后面可以花钱让村庄给你空地/造房子，在此之前建议就在中心建筑门口稍远几格住下。"
+		"地皮可能不会安排到好地方:("
+	]
+	quest.68BC75B34FC2EDAD.quest_subtitle: "玻璃门很好看，送你一个"
+	quest.68FB69D6AAEF8398.quest_desc: [
+		"大齿轮的↖↗↙↘方向上可以安装小齿轮，大齿轮带小齿轮转速会x2，由小齿轮带大齿轮转速会÷2。"
+		"大齿轮的正上下左右可以咬合垂直的大齿轮，这样就可以改变力的方向。"
+		"——————这是一条分割线——————"
+		"安山机壳右键齿轮/传动杆可以也套上壳。"
+		"尝试使用安山机壳右键小齿轮，可以发现小齿轮的传动杆被遮挡了，打断了同轴，使用扳手右键此面，传动杆又出现了；"
+		"利用此特性，可以只使用两个轴来多次咬合齿轮，同时也要注意传动杆面可以切换的问题。"
+	]
+	quest.68FB69D6AAEF8398.quest_subtitle: "大小齿轮运动中咬合就会达成进度。"
+	quest.68FB69D6AAEF8398.title: "齿轮与大齿轮"
+	quest.695EE57805C825E8.quest_desc: ["若需要大量的相关产物，还是得本人使用自然罗盘导航亲自前往。"]
+	quest.695EE57805C825E8.title: "已知的世界"
+	quest.69DD14F9CAA29C26.quest_desc: [
+		"村庄会把位于y=58~81、上方x格无遮挡的实体方块域，认为是可建造的区域。(这里的x不确定)"
+		"可建造区域在村庄地图中表现为&2绿色&r。"
+	]
+	quest.69DD14F9CAA29C26.quest_subtitle: "可能已过时"
+	quest.6AF84467CE83A1AA.quest_subtitle: "Küçük Yönetilen Köy - 土耳其语:小型受管辖村庄"
+	quest.6AF84467CE83A1AA.title: "未来的伟大苏丹"
+	quest.6C37EC7645DCDC3E.title: "平原"
+	quest.6D0DB351CF62329F.title: "定位: 林地府邸"
+	quest.6D2E86C97788B210.quest_subtitle: "这座喷泉为村中居民和访客都带来一道美丽的风景。"
+	quest.6E5F01F541F7DF81.title: "收集绯红森林资源"
+	quest.6F6816B50FDFF57D.quest_desc: ["关于建筑规划，只能说通过卡资源和取消建造来实现完全的手动布局。"]
+	quest.6FD9A0D6F9E93F13.title: "再次探索要塞"
+	quest.70973D6442C982A6.quest_desc: ["另外注意任务中的描述都是默认键位，比如很多Shift右键指的是潜行右键。"]
+	quest.70973D6442C982A6.quest_subtitle: "若无权限 请有权限的开一下"
+	quest.70973D6442C982A6.title: "开局设置"
+	quest.70D2FFC07BE3E4FE.quest_desc: [
+		"普罗尼亚，字面意思为“关心”、“预见”、“天命”，是一种拜占庭式的包税制度。"
+		"此制度创立于11世纪，而在不同的统治者统治之下，普罗尼亚的施行会有些许的改变。"
+	]
+	quest.70D2FFC07BE3E4FE.quest_subtitle: "Paroikia - 希腊语:普罗尼亚"
+	quest.70D2FFC07BE3E4FE.title: "下一任凯撒"
+	quest.70D38ACA599083A3.quest_desc: [
+		"玩家是原版村民的领袖,在女仆的指挥下生产资源;"
+		"而女仆中有三位佼佼者能为玩家提供更多的帮助。  "
+		"{@pagebreak}"
+		"女仆在那里？女仆在管理村庄。"
+		"想玩女仆可以自行添加车万女仆模组。"
+	]
+	quest.70D38ACA599083A3.quest_subtitle: "玩家是原版文明的领袖 :)"
+	quest.70D38ACA599083A3.title: "领袖"
+	quest.70D8D04F9B486160.quest_desc: [
+		"\"Bonsai Trees\"：提供了一个盆栽可以方便的种树"
+		"\"FTB Stuff \\& Things\"：拥有一组造石机"
+	]
+	quest.70D8D04F9B486160.quest_subtitle: "若不想玩机动，可以自己加这些模组来护肝"
+	quest.712856ABEA454E68.quest_subtitle: "使用睡袋度过夜晚不会设置重生点"
+	quest.712856ABEA454E68.title: "睡袋"
+	quest.71788D5EF1A9C6EA.quest_subtitle: "或许酒狐·萝卜可以寻访要塞"
+	quest.71788D5EF1A9C6EA.title: "隔墙有眼"
+	quest.71B1F68184FEE79C.quest_desc: [
+		"贾吉尔即军事采邑。"
+		"印度莫卧儿帝国 (1526—1857) 土地占有制的形式之一。"
+		"莫卧儿帝国的土地关系是封建国家所有制。"
+		"国王是全国土地的最高所有者。"
+		"他把大部分土地以“贾吉尔”的形式赏赐给臣属; 领有“贾吉尔”的封臣称为“贾吉达尔”，以军事服役为条件，有义务供养一定数量的军队、战象，上缴军粮，有权利向村社农民征收田赋。"
+	]
+	quest.71B1F68184FEE79C.quest_subtitle: "Jaagiir - 波斯语:贾吉尔/封地"
+	quest.71B1F68184FEE79C.title: "拉杰普特精英"
+	quest.730F14F93E283BCA.quest_desc: [
+		"玉：屏幕上方置中的信息面板，如果消失了应该是误触了'小键盘1'而关闭了，再按一下即可。"
+		"——————这是一条分割线——————"
+		"JEI：按E进入玩家物品栏界面，右侧的物品列表就是JEI，可以搜索物品。"
+		"左键列表物品可以看获取方式，右键列表则可以看使用方式；相应的在物品栏中按R键、U键，对应着查看获取、查看使用。"
+		"查看时，总是有个小书签，按这个书签或者按A键，可以收藏到左侧；有时还会有个+号，此时按加号可以快捷的把合成材料放置到合成台。"
+	]
+	quest.730F14F93E283BCA.quest_subtitle: "已入门"
+	quest.730F14F93E283BCA.title: "基础模组介绍"
+	quest.732F71AB809B9E18.title: "收集灵魂峡谷资源"
+	quest.735D5FF58809DE6A.quest_desc: ["诺曼好像没有面板特产啊，不会还是三合一吧..."]
+	quest.735D5FF58809DE6A.quest_subtitle: "面包房是烘焙传奇诺曼面包的地方。"
+	quest.735D5FF58809DE6A.title: "面包店"
+	quest.739FD6D8D188DCEC.quest_desc: [
+		"尝试按文字来做："
+		"在平地上挖一个2x2的坑,横向放入水车，在相邻格倒入水。"
+		"水车上放置动力轴承，动力轴承上放一个底盘，同高延申一格，在低一格继续延申，黄色面不要朝上。"
+		"Shift右键点一下动力轴承确认旋转方向，旋转的正方向是放置动力锯的面。"
+		"在远离动力轴承的方向上，使用强力胶给 底盘的同一朝向的黄色面打胶，然后在其上放置动力锯。"
+		"在近端黄色面打胶后放置木桶。"
+		"此时右键动力轴承，人工放置树苗的半自动的树场成型。"
+		"&c请务必使用原版的容器，模组的容器很多不会被识别！"
+	]
+	quest.739FD6D8D188DCEC.quest_subtitle: "还能再...伐伐伐伐木工吗..."
+	quest.739FD6D8D188DCEC.title: "半自动树场"
+	quest.73CE0BE3A3AF3F59.title: "诺曼村庄"
+	quest.7516730754997DEE.quest_desc: [
+		"在村庄的领地内，使用召唤权杖右键地面，可以选择建造建筑。"
+		"其后根据提示进行设置。"
+		"省流:"
+		"    (0) 按住Alt之后滚动滚轮，可以选择建筑变体，不是所有的建筑都有变体；"
+		"    (1) 移动位置和鼠标，把建筑移动到到差不多的地方，此时线段红绿皆可，左键锚定;"
+		"    (2) 注意鼠标准心不要落在建筑的像素上，否则可能会判定为放置建筑；"
+		"    (3) 左键点击地面，通过点击地面，是第一种位置调整方法；"
+		"    (4) 按住Ctrl之后滚动滚轮，建筑会在你的面朝向上前后移动，是第二种位置调整方法；"
+		"    (5) 不按Ctrl而进行滚轮，可以旋转建筑绕Y轴90度，也就是共四种变体。"
+		"    (6) 若合适则左键建筑的区域(最好在显影上)进行确认，不合适则右键取消。"
+		"    &c总之注意: 左键进行改动、确认，右键取消，最终确认时不要朝地。&n作者被习惯性右键坑了好多次了。&r"
+		"取消建筑："
+		"    建筑完成前，可以手持召唤权杖，如同建造时一样在建筑的区域右击，此时可以选择取消建造。"
+		"村庄建造边界： "
+		"     有一圈蓝色线段围栏提示。"
+	]
+	quest.7583FE954E45BF56.quest_subtitle: "放入村民、种子 帮你种田，可以漏斗输出"
+	quest.77BC72107A1CC90B.quest_desc: ["尚未添加魔改，原本的机制很后面了"]
+	quest.77BC72107A1CC90B.quest_subtitle: "Todo"
+	quest.77F33AC724FFCEFA.quest_desc: [
+		"酒·狐奇 基于当前的技术与材料，发明了安山马达。"
+		"能提供最高64的转速与2048的应力。"
+	]
+	quest.77F33AC724FFCEFA.title: "安山科技的思索"
+	quest.7A2EE3F5DC310463.title: "探索新遗迹"
+	quest.7B4E263294D5C7E9.quest_desc: ["生产：诺曼木桁架"]
+	quest.7B4E263294D5C7E9.quest_subtitle: "木匠的住所，也是标志性诺曼木桁架的诞生地。"
+	quest.7B4E263294D5C7E9.title: "木匠的房子"
+	quest.7C0E723E818273D5.title: "沙漠"
+	quest.7C74EE62F6FE9204.quest_desc: [
+		"深色橡树必须放置2x2的树苗。"
+		"云杉树和丛林树的树苗可以选择放置2x2，此时树苗周围不能有东西，云杉树2x2时土质方块会被转化、且有概率树苗回不了本。"
+		"樱花树单树苗的产量极高，但是目前只能作为村庄的通用原木。"
+	]
+	quest.7C74EE62F6FE9204.quest_subtitle: "有些村庄需要其他群系的原木"
+	quest.7D7310A0F7605383.quest_desc: [
+		"|  声望点      | 对应钱币 |    声望等级   "
+		"| 0                | -               | 陌生人         "
+		"| 256           | 4a            | 面熟的人       "
+		"| 1,024       | 16a          | 常客          "
+		"| 4,096       | 1o            | 最受欢迎的商人 "
+		"| 8,192       | 2o            | 村庄之友       "
+		"| 32,768     | 8o            | 我们的一员     "
+		"| 131,072  | 32o         | 天生领袖       "
+	]
+	quest.7D7310A0F7605383.quest_subtitle: "每1铜币的交易，会在本村产生1点声望"
+	quest.7D7310A0F7605383.title: "关于声望"
+	quest.7D90E7C88AF579DE.quest_desc: [
+		"科技模组中，常有手持扳手时 Shift+右键可以拆除科技方块的设定。"
+		"在临时需要垫脚方块时很好用。"
+		"任务奖励的安山脚手架是可以浮空的脚手架，并且搭方块默认是向前延申，在搭桥的情况下很好用。"
+	]
+	quest.7D90E7C88AF579DE.title: "扳手与踮脚方块"
+	quest.7E0AC9A70D35C299.quest_desc: [
+		"[机械动力]可以获取一些村庄所需的物品，并且也可以帮助铺地。"
+		"注意，村庄不认可岩浆在水面上铺的石头地。"
+	]
+	quest.7E0AC9A70D35C299.quest_subtitle: "完全是为了减负而加"
+	quest.7E0AC9A70D35C299.title: "机械动力"
+	reward.04708E1509636935.title: "生成黑猫"
+	reward_table.191188542CDCD3A7.title: "奇异饰品"
+	reward_table.2342548676D3DE74.title: "马的号角"
+	reward_table.3B1B869A0C5BCF2D.title: "下界寻访"
+	reward_table.5EE167A33589182D.title: "树苗"
+	reward_table.5F8306AA72E93794.title: "末地"
+	reward_table.6F793954E0169F42.title: "奇异饰品(废弃)"
+	reward_table.739FC7726265CC88.title: "睡袋表"
+	task.00327C5A3A54FCFD.title: "英杰酒狐"
+	task.01471940D1B72DB6.title: "已知"
+	task.01A8DC541CCBFA10.title: "市场"
+	task.066AEA4100D85BDA.title: "观察村庄面板"
+	task.08FDF2E8BF0E5192.title: "已阅读"
+	task.0A6D2FA8ED666D51.title: "小型果园"
+	task.0A8205DAE4A78E09.title: "访客的房子"
+	task.0AEAE1E9A796D0BB.title: "档案室"
+	task.0C835C7E7D4B89F3.title: "苹果酒厂"
+	task.0F8C46DD10B3538A.title: "启用"
+	task.10347EE899F936A1.title: "受控军事"
+	task.104824EBB747A4B8.title: "完全掌握村庄建设"
+	task.114D7A201EFBEB40.title: "基础的动力源"
+	task.121080B5BC739F92.title: "领取坐骑"
+	task.135B2FB95988083D.title: "有些村民死了，他们会重生吗？"
+	task.15E7328FDF49BF38.title: "寻找村长"
+	task.16A2DEBCF57548F7.title: "哪里花钱?"
+	task.16E3A8EE675B7C85.title: "领取工具"
+	task.187892C2D2E0ADE4.title: "设定"
+	task.18A6D781CB8FDA6A.title: "已阅"
+	task.18E91A90CC2ADDC3.title: "农场"
+	task.1A4A513D9C02146E.title: "已读"
+	task.1B10D04263FA87F8.title: "寻找千年村庄"
+	task.1C382E48AB353EE7.title: "请谨慎使用召唤权杖"
+	task.1D4D8302FA6D2A04.title: "精妙背包"
+	task.1DD7D478272ADACB.title: "协助建设"
+	task.207DD6EE6FCD693F.title: "村庄面板的信息"
+	task.215523B41261995F.title: "彩蛋头衔"
+	task.22315E3F6B008827.title: "我的村民不生孩子，或者孩子不长大，发生了什么？"
+	task.23875F9653CEA8DA.title: "使用机械动力生产资源"
+	task.24443B8D21F8EF02.title: "任务"
+	task.25FB753690BD6CD4.title: "查看声望"
+	task.26425316CF7CCD05.title: "已知晓存在"
+	task.26D6885478F01B61.title: "简单使用机械动力"
+	task.28183AB26302327B.title: "关于村庄的选址"
+	task.281CC8F4B1328E01.title: "我已渡过10小时"
+	task.2A23252BCC421D56.title: "ChatGPT运行中"
+	task.2B77D7CD441CDE5F.title: "小房子/大房子/豪华别墅"
+	task.2BC08A59915CA092.title: "受控项目"
+	task.33B0048EB5FF5F41.title: "传送石碑"
+	task.35C4978964936B0C.title: "养殖"
+	task.3630CA4C5D67A7BE.title: "千年村庄"
+	task.36D487AAD93F99D4.title: "你是主角你是主角"
+	task.38609A65BD3B718A.title: "已阅"
+	task.3BC9B07A3E86C1F4.title: "酒馆"
+	task.3CBAE3FCA35910BE.title: "键位介绍"
+	task.3D4F75A66BCB8359.title: "守卫的房子"
+	task.3E5D293DB672C08C.title: "洞洞乐"
+	task.400D926288905F3D.title: "购买土地"
+	task.408E948E7D54A67F.title: "炼金术研究室"
+	task.41B7CDD08FB979EA.title: "小树林"
+	task.45FDDD8DBF7251B7.title: "抽取饰品"
+	task.46278BD19275B8A0.title: "织工小屋"
+	task.487147152C6C0D68.title: "大型喷泉"
+	task.4A0FBD54F7AB0AE2.title: "你是主角你是主角"
+	task.4B90DBA7A0CDAF31.title: "玻璃制品工作室"
+	task.4CDA287FD5BD5623.title: "长老会"
+	task.4ED2FB553A3EB776.title: "喷泉"
+	task.4F5A04D5943E9E70.title: "注意"
+	task.50F6FB778C804560.title: "使用/vname改名"
+	task.522848897125D869.title: "关于熔岩再生"
+	task.52C9C3590DD8DE69.title: "关于右侧内容"
+	task.5356EDF98D74611D.title: "巴黎圣母院"
+	task.53F3898039793C29.title: "开始"
+	task.53F9F2F727D6F067.title: "要塞"
+	task.55FFCD9ABCEC425C.title: "推荐模组"
+	task.56F8813B55BC4303.title: "真实存在的黄金七城"
+	task.5723F573E3F297E3.title: "观察链式传动箱"
+	task.57CC03E9D52676CC.title: "伐伐伐伐伐木工的小屋"
+	task.5858CE3F711C069F.title: "教堂"
+	task.589F67040E84E9EE.title: "村庄的范围"
+	task.58BCA44FA6128FEC.title: "已阅"
+	task.5AD90684B832C441.title: "这里应该是进度检测的"
+	task.5C371BBB616B31C0.title: "已阅"
+	task.5E01EE2C1E89A255.title: "模组信息"
+	task.5F171B0B834E752B.title: "旅馆"
+	task.609E580659F5EDA4.title: "发现千年村庄"
+	task.67206AD90DAA249F.title: "瞭望塔"
+	task.674AF37CBDEF3C72.title: "军械库与铁匠铺"
+	task.69167C50AEC56CAA.title: "诺曼奇观"
+	task.692F4281D036C1A3.title: "领取树苗"
+	task.6A7CD335D8D25F7D.title: "已阅"
+	task.6B8D5E9C07A0A5FB.title: "村庄地图"
+	task.6F57D48883EE695C.title: "京畿"
+	task.721609C415A2196F.title: "安家"
+	task.72CE224E0FADF3A7.title: "与精妙背包同理"
+	task.7331112970E96BB0.title: "关于村庄加载"
+	task.77BBD4118E6A9462.title: "排错备忘录"
+}

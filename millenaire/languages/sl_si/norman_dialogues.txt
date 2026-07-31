@@ -1,0 +1,358 @@
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Včeraj sem šel mimo alkimistove delavnice.
+v1;40;Smrdelo je po gnilih jajcih!
+v2;80;Pravijo, da poskuša narediti kamen modrosti!
+v1;120;Slišal sem, da hoče obuditi mrtve.
+v2;160;Jaz pa, da bo iz delov teles ustvaril pošast!
+v1;200;Kakšna groza!
+v2;220;In bil je tako prijazen fant...
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Mala škrjančica, ljubka mala škrjančica,
+v2;0;Mala škrjančica, ljubka mala škrjančica,
+v1;30;Mala škrjančica, perje ti bom populil.
+v2;30;Mala škrjančica, perje ti bom populil.
+v1;60;Perje z glave ti bom populil.
+v2;60;Perje z glave ti bom populil.
+v1;90;Z glave!
+v2;90;Z glave!
+v1;120;Uboga škrjančica vendarle...
+v2;160;Zakaj? Saj je zabavno!
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Si že obiskal nove arhive?
+v1;30;Vidiš, kaj kdo počne!
+v2;60;Aha, res... in, ehm...
+v1;90;Da, videl sem tvojo ploščo.
+v1;120;Sram te bodi.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Torej, lepotica, kaj počneš nocoj?
+v2;40;$targetfirstname, sem ti že rekla — ne!
+v1;60;Kakšen značaj!
+v2;80;Kakšna neumnost!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, kakšne lepe mišice!
+v1;30;Tiho bodi, nora! Če te žena sliši...
+v2;60;In kaj potem, lepotec?
+v1;90;Saj veš, kako ljubosumna je!
+v2;120;In? Bojiš se je?
+v1;140;Bojim? Nje? Šališ se!
+v2;160;Ha!
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Obožujem vonj svežega kruha iz pekarne.
+v2;40;Manjka nam le še nekdo, ki bi znal speči rogljičke.
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Lepa je naša vas, kajne?
+v2;30;Veličastna! In trdo delamo zanjo!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Kaj imaš raje, krvavico ali drobovino?
+v2;40;Krvavico. Drobovina je preveč težka!
+v1;80;Pretežka? In se ti praviš Normanu?
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Ko bom velik, bom vaški starešina!
+v2;30;Veliko juhe boš moral pojesti, preden boš tam.
+v1;60;In dal te bom kaznovati!
+v2;70;Kakopak. Zaenkrat pa marš na delo, sicer dobiš zaušnico.
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Ti Bizantinci mi gredo na živce!
+v2;30;Si videl, kako se delajo važne?
+v1;60;Vse to, ker pravijo, da so Rimljani.
+v2;100;Smešno. Izrojeni Rimljani, kvečjemu.
+v1;130;Morali bi organizirati napad nanje!
+v2;160;Konec koncev smo Vikingi!
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Ob takem vremenu je kalvados nujen!
+v2;30;Ob vsakem vremenu!
+v1;50;Na Normandijo in njeno kalvadosko vreme!
+v2;70;Na zdravje!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Spet sem izpopolnil svoje znanje.
+v1;30;Zdaj, preden sestavim ostrešje, najprej...
+v2;70;Fascinantno.
+v1;90;Res misliš?
+v2;110;Ne.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Obožujem pripravljanje drobovine. Najprej kravi izpustiš kri...
+v1;40;Potem pobereš črevesje...
+v2;60;Nehaj, gnusi se mi!
+v1;80;Saj obožuješ drobovino!
+v2;110;In nočem vedeti, kako se pripravlja.
+
+newchat;key:christmas,weigth:10
+v1;0;Kdaj že pride božič?
+v2;30;Ne vem natančno... Letni časi se tukaj ne menjajo.
+v1;80;Kakšen čuden svet.
+v2;110;Včasih je skoraj kot Normandija...
+v2;140;Potem pa vidimo, da je vse drugače.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Naša cerkev je res veličastna!
+v2;30;Kaže, da smo pobožna vas.
+v1;60;In večja je od cerkve sosednje vasi!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Sin moj, davno si se nazadnje spovedal.
+v2;40;Toda oče, nisem grešil!
+v1;70;Vsi grešijo v tem padlem svetu.
+v2;110;Tudi vi, oče?
+v1;130;Dovolj predrznosti! Za pokoro deset Očenašev!
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Hči moja, davno si se nazadnje spovedala.
+v2;30;Res je, oče, in grešila sem!
+v1;60;Če je bil greh mesa, se bova pogovarjala drugje.
+v2;100;Hvala, oče.
+v1;120;Medtem pa deset Očenašev. Vedno koristi!
+
+newchat;key:countingcows,weigth:10
+v1;0;Tu okrog se nima kaj početi.
+v2;30;Dobro je, mirno je.
+v1;60;In dolgočasno...
+v2;75;Zakaj ne prešteješ krav?
+v1;110;Včeraj že. In kokoši tudi.
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Dobri kralj Dagobert
+v1;30;si je hlače obrnil narobe.
+v1;60;Veliki sveti Eligij
+v1;90;mu je rekel: O moj kralj!
+v1;120;Vaše Veličanstvo
+v1;150;ima slabo hlačeno.
+v2;180;Slabo hlačeno? Kaj to pomeni?
+v1;220;Da nima hlač!
+v2;250;Neumnost, kralj je vendar!
+v1;280;Kralj nima hlač!
+v2;310;Tudi ti jih imaš, bedak!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Bodi priden, sicer te bo nocoj odnesel Enderman!
+v2;40;Pfff, prestar sem za take neumnosti.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Brez dvoma, kmetovanje je najpomembnejši poklic.
+v1;40;Brez mene ni kruha!
+v2;60;Vseeno imam raje drobovino.
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Si opazil, da zemlja tukaj plava, če pod njo izkopljemo?
+v2;40;Da, in?
+v1;60;V Normandiji je padala...
+v2;90;V Normandiji je Bog hotel, da pada. Tu hoče, da plava.
+v2;150;Zakaj kritiziraš Boga?
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Neustavljivi smo. Naše veličastne ladje in častni vitezi so strah in trepet sveta!
+v2;40;In kdo so naši sovražniki? Skupina rimskih sleparjev in majevskih ljubiteljev kamna?
+v1;80;Ne pozabi na snežne tepce, ki sploh ne poznajo denarja!
+v2;120;Hahaha! Normansko življenje je najboljše na svetu! Čudovit jabolčnik, najboljše orodje. Ah, to je naša zlata doba.
+v1;160;In delimo si jo!
+v2;200;Hahaha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Brat Jaka, brat Jaka,
+v2;30;Ali spiš, ali spiš?
+v1;60;Zvoni za jutranjice! Zvoni za jutranjice!
+v2;100;Bim, bam, bom. Bim, bam, bom!
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Ko sem bil mlad, sem bil zelo obetaven vajenec.
+v1;40;Sam Guillaume Vif-argent se je zanimal zame!
+v1;80;In zdaj sem zataknjen tukaj.
+v1;110;Ukvarjam se z bedaki.
+v2;130;Hej, kaj?
+v1;150;*vzdih*
+
+newchat;key:harvest,weigth:10
+v1;0;Misliš, da bo letos žetev dobra?
+v2;30;Kdo ve, ob takšnem vremenu.
+v1;60;Letni časi tukaj nimajo smisla.
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Tej deželi manjkajo živali.
+v2;30;Imamo krave, ovce in prašiče.
+v2;60;Kaj bi še potrebovali?
+v1;60;Konje? In ponije!
+v2;90;Zdaj pa hočeš ponija?
+
+newchat;key:indianfood,weigth:5
+v1;0;Si že slišal za tiste Indijce?
+v2;30;Pravijo, da so zelo nenavadni.
+v1;60;Menda jih hrana peče!
+v2;100;Kot kalvados?
+v1;120;Ne, hujše!
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Zdaj, ko imamo gostilno, lahko trgujemo!
+v2;40;Z drugimi besedami, trgovci, ki bodo prišli mimo, se bodo poslužili naših zalog.
+v1;80;Vedno si bil ciničen.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Moj očka je veliko močnejši od tvojega.
+v2;30;Neumnost. Moj očka je najmočnejši v vasi.
+v1;60;Sanjaj naprej. Moj očka tvojega položi v dveh minutah.
+v2;70;In Zemlja je okrogla!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Punce so neuporabne.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Mogoče si fant, ampak naredim, da zajočeš, kadar hočem.
+v2;30;Ni res! Ni res!
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Poglej moj grad! Prava trdnjava!
+v2;30;Mogočni ste, moj gospod!
+v1;60;Ko se vojvoda Viljem vrne, me bo gotovo naredil grofa!
+v2;100;Naj živi grof $targetfirstname!
+v1;130;Naj živim jaz!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Moja lepota je v teh deželah legendarna.
+v2;30;Veličastni ste, moja gospa!
+v1;60;Pa sem se vendar poročila z malim, ničvrednim vitezom...
+v2;100;Toda njegova milost bo nekoč gotovo postala grof!
+v1;130;Ta tepec? In zakaj ne kar papež?
+v2;160;Zakaj pa ne, moja gospa! Ehm... mislim...
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Rad imam dež.
+v2;30;Dobra stvar za Normana!
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Sprehodimo se po gozdu,
+v2;0;Sprehodimo se po gozdu,
+v1;30;dokler ni volka v njem.
+v2;30;dokler ni volka v njem.
+v1;60;Če bi bil volk tam,
+v2;60;Če bi bil volk tam,
+v1;90;bi nas pojedel,
+v2;90;bi nas pojedel,
+v1;120;ker pa ga ni,
+v2;120;ker pa ga ni,
+v1;150;nas ne bo pojedel.
+v2;150;nas ne bo pojedel...
+v2;180;Ehm, si prepričan?
+v1;200;Strahopetec!
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Jabolka, jabolka, jabolka!
+v1;30;Jabolka, jabolka... jabolka!
+v2;60;Si prepričan, da ni bil jabolčnik, jabolčnik, jabolčnik?
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Obožujem tržnico! Toliko lepega blaga!
+v2;40;Manj odrezani se počutimo, odkar jo imamo.
+v2;80;Toda nič bolj bogati...
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Kakšna beraška vas.
+v2;30;Hej, tujec, pazi, kaj govoriš!
+v1;70;In kako prijazni prebivalci!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Zložil sem pesmico, jo hočeš slišati?
+v2;40;Daj!
+v1;50;Hej-ho, hej-ho, hej-ho, hej-ho...
+v2;70;Obetaven začetek...
+v1;90;Z dela se vračam domov!
+v2;110;Jaz pa imam še veliko dela.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Brat Jaka, brat Jaka!
+v1;30;Zelo smešno, otrok moj.
+v2;60;Ali spiš, ali spiš?
+v1;90;Dovolj, dovolj, pesem poznam.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Kakšen odročen kraj. Rad bi nekoč videl kaj drugega...
+v2;30;Druge vasi so vse enake.
+v1;60;Ne vas! Mesto. Ali celo veliko mesto!
+v2;90;Kot kaj, Rouen? Nor si, dnevi poti je odtod.
+v1;120;Rouen... ali pa... Zakaj ne Pariz?
+v1;150;Predstavljaj si, pravijo, da tam živi 25.000 ljudi!
+v2;180;Norel boš. 25.000 ljudi na enem mestu? Kam bi šli?
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Pri prašiču je vse dobro!
+v2;30;Vseeno strašno vpije, ko ga koljemo.
+v1;70;Bolj ko prašič kriči, boljše je meso!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Skrbim za duhovno zdravje vaščanov.
+v2;30;In dela je veliko!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Naša vas se boji Boga.
+v2;30;In njegovega namestnika, očeta $targetlastname.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Čutim, da bo deževalo.
+v2;30;V Normandiji je vedno deževalo...
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Na dvoru kralja vojvode Viljema sem zelo spoštovan.
+v2;40;Kralja vojvode?
+v1;60;Njegovega veličanstva Viljema Osvajalca, vojvode Normandije in kralja Anglije, tepec!
+v2;100;Kje je Anglija?
+v1;120;Na drugi strani morja. Kakšna nevednost!
+v2;140;Katerega morja, gospod?
+v1;160;Kakšna predrznost! Dovolj!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Biti pastir je plemenit poklic.
+v2;30;Plemenit? Pastir?
+v1;50;Nas ni Bog izbral, da slišimo Veselo novico?
+v2;90;A da. Medtem ko ste skrbeli za novorojene jagnjeta — decembra.
+v1;130;In kaj? Mogoče v Betlehemu ni letnih časov. Kot tukaj!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;Prava moč Normanov je v njihovem orožju in orodju.
+v2;40;In torej v njihovih kovačih?
+v1;60;Tako je!
+
+newchat;key:storm,weigth:10
+v1;0;Včeraj je bil strašen vihar.
+v2;30;Da, mislil sem, da bo streho odneslo.
+v1;60;Vse bi morali ojačati.
+
+newchat;key:sunset,weigth:10
+v1;0;Kje že vzhaja sonce? Vedno pozabim.
+v2;30;Na severu, kje pa?
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Krčma je zagotovo najboljša stvar, ki smo jo zgradili v vasi.
+v2;40;Nihče tu ne bo nasprotoval!
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Drobovina, to je moška jed.
+v2;30;Pripravljena od žensk...
+v1;60;Iz krav, zaklanih od moških!
+v2;100;In hranjenih od žensk...
+
+newchat;key:visitors,weigth:10
+v1;0;Tu okrog nam manjkajo obiskovalci.
+v2;30;No, tu je $name...
+v1;60;Ampak nekoliko čuden je, ne?
+v2;100;Res je, nikoli ne vemo, kaj namerava.
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Zakaj vedno ženske gradimo?
+v2;40;Če te to moti, za naslednjo zgradbo poskrbim jaz.
+v1;80;Res? Tako si ljubek! Glede zaves, ne pozabi...
+v2;120;Pravzaprav ne, raje pustim tebi.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Si ti že kdaj videl vojvodo Viljema?
+v2;30;Ne, nikoli. In kdo ve, kje je zdaj?
+v1;60;Če bi bil tu, bi že zdavnaj osvojili ta novi svet!
+v2;100;Naj živi vojvoda Viljem!

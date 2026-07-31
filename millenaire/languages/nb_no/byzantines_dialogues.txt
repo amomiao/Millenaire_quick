@@ -1,0 +1,516 @@
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Jeg elsker solskinnsdager!
+v2;30;Hvem gjør vel ikke det?
+
+newchat;key:nicevillage,weigth:10
+v1;0;Det er alltid en glede å se vår fine lille landsby, er det ikke?
+v2;30;Så klart, og alt det grunnet våre enorme innsats!
+
+newchat;key:harvest,weigth:10
+v1;0;Hveten vokser veldig godt i år, det samme med druene. Briljant, ikke sant?
+v2;30;Ja, det virker slik. Vi har det merkelige været å takke.
+v1;60;Selv om det ikke gir mening til meg!
+
+newchat;key:lightning,weigth:7
+v1;0;Husker du tordenstormen vi hadde? Den virkelig kraftige, mener jeg?
+v2;30;Selvsagt. Den ødela nesten avlingen vår. Naturen er ganske utrolig, synes du ikke?
+v1;60;Utrolig er en ting. Men jeg ble nesten slått ned av et lynnedslag!
+v2;100;Var du ikke i huset ditt? Du vet at det er farlig å være ute når det er tordenvær!
+v1;120;Lev og lær.
+
+newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
+v1;0;Jeg føler meg ikke bra...
+v2;30;Hva er i veien, er du syk?
+v1;60;Nei, j-j-jeg bare kom på noe som skjedde.
+v2;100;Du høres temmelig påvirket av det. Er du sikker på at du ikke er syk?
+v1;120;Jeg er ikke s-syk, jeg bare føler meg r-redd.
+v2;150;Vel, hva skjedde?
+v1;180;I løpet av det forrige t-tordenværet. Jeg gikk utenfor l-l-landsbyen. Jeg visste at jeg ikke ville rekke tilbake til landsbyen i tide før stormen kom. Så jeg gjemte meg under et tre.
+v2;210;Du risikerte livet ditt utenfor landsbyen! Du kunne ha dødd!
+v1;240;Vel, jeg var trygg. Men da så jeg en gris. Lynet slo ned på den. Og den døde g-grisen... D-den stod opp og beveget på seg slik v-vi gjør, og j-jaget etter meg med et skinnende sverd!
+v2;290;Du snakker tull. Det må ha vært et mareritt.
+v1;320;Det var sant! Sant! Sant! Sant!
+v2;350;Du er gal. Skaff deg litt vin og ro deg ned.
+v1;380;Jeg skal gj-gjøre det. K-kanskje det vil hjelpe.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ah... Souvlaki, den ene og eneste maten!
+v2;30;Dersom dere menn ikke hadde oss kvinner til å ta oss av matlagingen...
+v1;60;Så ville vi ha lagd maten selv!
+v2;100;Virkelig? Hvordan lager man souvlaki, igjen?
+v1;130;Err... Du putter fisk, nei, lammelår inn i ovnen, så...
+v2;190;...du putter det sammen med litt feta på et spidd. Du kan virkelig ikke lage mat!
+
+newchat;key:loneVillage,weigth:10
+v1;0;Kjedelig. Alt er alltid det samme her.
+v2;30;I det minste så er det fredfullt.
+v1;60;Ikke noe spesielt for en avsidesliggende landsby som vår!
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Når jeg var ung, så ønsket jeg å bli en utforsker, oppdage nye land og møte nye interessante folk. Men nå? Nå sitter jeg fast i denne avsidesliggende lille landsbyen. Jeg vil dra ut og besøke nye steder.
+v2;30;Men du vil ikke se noen stor forskjell i de andre landsbyene. Vi er alle ganske like.
+v1;60;Jeg snakker ikke om landsbyer. Jeg snakker om mer tettbygde steder, kanskje til og med byen selv!
+v2;90;Byen SELV? Mener du Konstantinopel?
+v1;120;Ja! Senteret til vårt vidunderlige rike. Det er et av verdens underverk.
+v1;150;Det finnes mer enn 500 000 mennesker som bor der, kan du tenke deg det?
+v2;180;Lyder umulig for meg. 500 000 folk på et sted? Drøm videre!
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Ikke drikk vin alene!
+v2;30;Å drikke sammen er mer moro!
+v1;50;Hurra for vinen!
+v2;70;Hurra!
+
+newchat;key:boyvillagechief,v1:child,v1:vtype:baron_byzantine-centurio_byzantine-metropolit_byzantine,v1:male,weigth:5
+v1;0;Jeg skal bli landsbyleder en dag, gamling!
+v2;30;Ikke vær så frekk, lille gutt. Ellers får du et klaps!
+v1;60;Da skal jeg få deg klapset!
+v2;80;*klapser*
+v1;85;Au, det gjør vondt!
+v2;105;Kanskje du lærte noe!
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Pappaen min er sterkere enn din.
+v2;30;Nei! Pappaen min er den sterkeste i landsbyen!
+v1;60;Det er han ikke! Min pappa er den sterkeste i hele riket!
+v2;90;Umulig! Pappaen min er den sterkeste i verden!
+v1;120;Jeg vedder på at pappaen min kan slå din på mindre enn to slag!
+v2;150;Få pappaen din klar til kamp!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Jenter er dumme.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Har du sett dukken min noe sted? Jeg kan ikke finne den...
+v2;30;Gi meg sverdet mitt tilbake så skal jeg gi den tilbake!
+v1;60;Du stjal det! Tyv!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Har du sett de nye klærne mine?
+v2;30;Du er en sann skjønnhet, kjære. Alt passer til deg!
+v1;60;Men jeg er ikke så vakker som deg!
+v2;90;Å, det er ikke sant, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Har du sett de nye klærne mine?
+v2;30;Du er en skjønnhet. Alt passer til deg, min kjære $targetfirstname!
+v1;60;Men jeg er ikke så vakker som deg!
+v2;90;Det er sant.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Har du sett de nye klærne mine, $targetfirstname?
+v2;30;Jeg synes at de gamle klærne dine så bedre ut på deg.
+v1;60;HVA FOR NOE?
+v2;70;Nei... Nei! Du er vakker! Jeg liker disse nye... greiene!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Så, liker du den nye kjolen min?
+v2;30;Den gamle passet deg bedre.
+v1;60;HVA FOR NOE?
+v2;70;Hei, $targetfirstname, det er bare min mening.
+v1;90;Du er i alle fall ærlig!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Hva skal du gjøre når du liker en jente?
+v1;30;Gi henne komplimenter og være snill mot henne.
+v2;60;Nei! Det er umulig! Hva vil de andre tenke om meg, da?
+v1;90;Dersom du virkelig elsket henne, så ville du ikke bry deg om noen andre.
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;På tide å lære deg hvordan du tar deg av husholdningen.
+v2;30;Supert, hva starter vi med? Kan jeg få lage souvlaki? Vær så sniiill!
+v1;60;La oss først se hvor flink du er til å ta deg av å rydde i hjemmet.
+v2;90;Greit, men du vil vise meg hvordan man lager souvlaki senere, ikke sant? Lover du?
+v1;120;Ja, jeg lover.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Kan du kjøpe denne nye dukken til meg? Alle har en ny en utenom meg...
+v1;30;Hva er de magiske ordene?
+v2;60;Vær så snill, kan du kjøpe en ny dukke til meg?
+v1;90;Greit, men da må du love meg å ikke gi noe tilbakesnakk noe mer!
+v2;120;Jeg lover!
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Au...
+v1;30;Du ser forferdelig ut! Hva skjedde?
+v2;60;Vel, alle har et tresverd utenom meg.
+v2;80;Så de bestemte seg for å angripe meg!
+v2;100;Du må få skaffet meg et, også!
+v1;120;Jeg ser at du har brukt maling for arrene og skadene dine. Godt forsøk!
+v2;150;Uansett! Vær så snill og gi meg et sverd!
+v1;180;Sverd er farlige. Ingen sverd for deg!
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Bygningene våre er så vakre, det er alltid supert å se hva arbeidet vårt har utrettet!
+v2;30;Mayafolket bygger kjempefine strukturer også.
+v1;60;Ikke få meg irritert. Våre bygninger ser mye bedre ut enn de raringene sine!
+v2;90;Vel...
+v1;100;Forræder! Eier du ingen nasjonal stolthetsfølelse?
+
+newchat;key:pride2,weigth:10
+v1;0;Vi romere kan være veldig stolte av det vi har oppnådd!
+v2;30;Selvfølgelig! Alt du ser ble laget av oss!
+v1;60;Det kraftigste riket i hele verdenshistorien!
+v2;90;Andre nasjoner vil sole seg i vår storhet.
+v1;120;De må det! Vi er herskerne!
+
+newchat;key:pride3,weigth:10
+v1;0;Romerriket vil regjere verdenen atter en gang!
+v2;30;Det skal vi!
+v1;60;Alt vil bli bedre da!
+v2;90;Ja!
+v1;100;Hurra for riket!
+v2;110;Hurra!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Det kommer til å regne. Snart.
+v2;30;Jeg føler det, jeg også.
+v1;60;Så rart. Det går alltid like mange dager mellom hver regnskur.
+v2;100;Synes du det, også?
+v2;125;Livet er merkelig her, ikke sant?
+v1;155;Så sannelig!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Se på denne grisen! Den er søt, synes du ikke?
+v2;30;WAAAaaah, gå vekk!
+v1;60;Er du redd for griser?
+v2;80;N-nei! Det er jeg ikke!
+v1;110;Hahahahahaha! Vel, dette er artig!
+
+newchat;key:weird2,weigth:1
+v2;0;Ahh... God souvlaki. Vil du ha en bit?
+v1;30;*biter*
+v1;40;Takk! Jeg elsker souvlaki.
+v2;70;Hvem gjør vel ikke det?
+v1;100;Har du noen sinne prøvd å putte jord på souvlaki?
+v2;140;...
+v2;150;Nei?
+v1;170;Jeg gjør det, noen ganger... Ah... Det hele startet når min souvlaki falt på bakken i fjor... Herlig!
+v2;220;Vent litt! Du legger souvlaki på bakken og spiser den? Hva i huleste..?
+v1;260;Men det smaker godt!
+v2;280;Du er virkelig gal.
+
+newchat;key:weird3,weigth:1
+v1;0;Jeg har lyst til å ri en gris!
+v2;30;Hvorfor det?
+v1;60;Det er gøy!
+v2;80;Hvorfor i huleste skulle en ri på en gris?
+v1;110;Fordi det er morsomt!
+v2;120;Du er gal.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Har du hørt om tømmermannens hemmelighet?
+v2;30;Nei, hva er det for noe i veien med han?
+v1;60;Det ser ut til at han samler epler og selger dem til de der normannerne!
+v2;90;Du tuller! Og han beholder pengene?
+v1;120;Selvfølgelig!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Mannen min fortalte at en baron kommer til å besøke landsbyen vår snart!
+v2;30;Hvorfor skulle han komme hit?
+v2;40;Slik en mektig, sterk og kjekk mann...
+v1;70;Hva, liker du dem?
+v2;100;Du må innrømme at de er attraktive!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Det finnes en løssluppen dame i nabolandsbyen!
+v1;20;Angivelig så skal til og med menn fra vår egen landsby ha dratt dit!
+v2;60;Forferdelige nyheter! Jeg må spørre mannen min!
+v1;90;Min virker å være uskyldig. Jeg er ikke sikker angående din egen, min kjære!
+v2;120;Jeg håper at han er, også. Han burde i alle fall være det.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Jeg elsker å se barn som leker!
+v1;20;Det gir meg alltid lyst til å få meg en baby!
+v2;50;Er du sikker på at du vil kunne ha råd til det, da?
+v2;70;Barn er dyre!
+v1;100;Ingen bekymringer med det! Mannen min har mer enn nok penger.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Kjære deg, mannen din er en drukkenbolt!
+v2;15;Hvordan kan du si det?
+v1;45;Mannen din kom til huset vårt i går natt, fullstendig full!
+v1;70;Han fortalte at han hadde lyst til å gifte seg med en sau.
+v1;100;Og at det ville være en stor bryllupsfeiring!
+v1;130;Vær så snill å få styr på mannen din.
+v1;150;Det er virkelig skummelt.
+v2;180;Greit, greit, han skal jeg straffe!
+v2;210;Ikke noe vin til han!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Brødet ditt smaker så godt! Hva er hemmeligheten?
+v2;30;Bare legg til litt sukker inni.
+v1;60;Virkelig? Ikke noe mer?
+v2;90;Det var det hele! Du vil smake forskjellen.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Hvem var mannen som besøkte deg i går natt?
+v2;30;Hvilken mann?
+v1;40;Mannen som krabbet ut av vinduet ditt!
+v1;45;Tro ikke at jeg ikke skulle legge merke til det!
+v2;60;Hvordan våger du..? Jeg var og er alltid trofast til min mann.
+v1;80;Jada, jada. Jeg ville sagt det samme hvis jeg var deg.
+v2;110;Det er ikke rettferdig! Ikke spre rykter om meg.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Disse nye matlagingsredskapene er ekstraordinære!
+v2;30;Ja, det gjør matlaging til en lek! Det er gøy!
+v1;60;Takk til smedene og håndverkerne som fant opp disse tingene!
+v2;90;Nettopp! Det er derfor jeg elsker å være en romer.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:baroness_byzantine,v2:notvtype:baroness_byzantine,weigth:15
+v1;0;Jeg er sjalu på de rike folkene.
+v1;20;De har så fine silkeklær!
+v2;50;Det er urettferdig. De gjør ingenting og får allikevel de beste tingene.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Har du hørt om baronen i en av nabolandsbyene?
+v2;30;Ja, er dette han hvis kone ble funnet drept?
+v1;60;Riktig! Mannen min fortalte nettopp at det var baronen selv som drepte hans egen kone!
+v2;100; Hva for noe..?
+v2;130;Jeg visste bestandig at han kom til å gjøre det!
+v2;150;Men ingen trodde på meg..!
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Har du noen sinne tenkt på hvordan det hadde vært hvis vi var i krig?
+v1;30;Akkurat nå så finnes det allerede menn som kjemper for landet vårt!
+v1;55;Jeg beundrer dem veldig!
+v2;80;En krig ville være grusom.
+v2;110;Jeg gjetter at du bare liker soldatene.
+v2;140;Men du har jo en mann!
+v1;170;Men han er en lat og ofte full en!
+
+newchat;key:talking1,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:notvtype:metropolit_byzantine-pastor_byzantine,weigth:15
+v1;0;Kjenner du til skjønnheten i nabolandsbyen?
+v2;30;Selvsagt, hun er jammen søt.
+v1;60;Hva med å besøke henne?
+v2;90;Du vet at konen din vil gå berserk da!
+
+newchat;key:talking2,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,v2:notvtype:monk_byzantine-pastor_byzantine-metropolit_byzantine,weigth:15
+v1;0;Håndverkerens kone tar seg veldig godt ut, synes du ikke?
+v2;40;Ja, ikke dårlig, hun. Så synd at hun allerede er gift!
+v1;70;Vel, ja. Og det ville ikke være rettferdig mot han.
+v2;100;Jeg er enig.
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Vi har ikke nok vin i denne landsbyen!
+v2;30;Enig! Vi må lage flere vingårder!
+v1;60;Og flere kroer!
+v2;90;Hva med å åpne vår egen kro?
+v1;120;Storslagen idé! La oss planlegge dette.
+v2;150;Men hvor skal vi starte?
+v1;180;Og konene våre vil ikke bli glade for å høre dette!
+v2;210;Nei, det å selge romersk vin er alltids en god unnskyldning!
+v1;240;Greit nok! La oss spare opp penger.
+v1;270;Når vi har spart nok så kan vi fullføre planen vår!
+v2;300;Vi kommer til å ha den største kroen i hele riket!
+v1;325;Helt sikkert!
+
+newchat;key:talking4,v1:male,v2:male,v1:adult,v2:adult,v1:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,v2:vtype:miner_byzantine-farmiller_byzantine-lumberman_byzantine,weigth:15
+v1;0;Har du prøvd normanniske verktøy noen gang?
+v2;30;Nei, men jeg har hørt at de er veldig effektive!
+v1;60;Det er sant. Jeg har aldri arbeidet med så gode redskaper før.
+v2;90;Vent... Har du et normannisk verktøy?
+v1;120;Ehm, jeg hadde. Den har forsvunnet på mystisk vis!
+v2;140;HVA? Du hadde et slikt verktøy, og du mistet det?
+v1;170;Ja... Nå står bare minnene tilbake...
+
+newchat;key:talking5,v1:male,v2:male,v1:adult,v2:adult,v1:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,v2:notvtype:pastor_byzantine-metropolit_byzantine-armysmith_byzantine-baron_byzantine,weigth:15
+v1;0;Bang! Jeg fikk akkurat prøvd ut den nye klubben!
+v2;30;Ja! Det er et utmerket våpen! Det sender fienden langt unna!
+v1;60;Imponerende, ikke sant? Dette romerske mesterstykket kan ikke sammenlignes med noe annet i hele verden.
+v2;100;Og derfor kan vi være stolte av å være romere!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Bra mat, bra våpen, bra kunst - det er hva nasjonen vår er!
+v2;30;Og bra vin!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Jeg er lei av min kone. Jeg vil finne meg en ny!
+v2;30;Hvem ville vel ikke det?
+v1;60;Kanskje vi plutselig skulle forlate landsbyen og søke etter noen nye!
+v2;90;Ja! Mayaene og inderne har flotte koner, har du sett dem?
+v2;140;Men... Landsbyen ville være fortapt uten oss.
+v2;160;Og ikke glem barna våre!
+v1;180;Argh! Barna våre! De ville ikke overleve uten en far!
+v1;220;Men... vil det si at vi må fortsette de kjedelige livene våre her?
+v2;255;Jeg går ut i fra at det er for det beste.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;Det er ganske utrolig hvor detaljerte ikonene dine ser ut.
+v2;30;Selvfølgelig, siden det er storartet romersk kunst!
+v1;60;På lik linje med alt annet vi gjør. Se på de flotte husene våre!
+v2;90;Og ikke glem vår strålende historie!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Husker du jenten vi kjempet over i barndommen?
+v2;30; Ja... Det var en veldig dårlig tidsperiode. Glad det er over.
+v1;60;Godt å høre, fordi hun fortalte meg nettopp at hun alltid likte meg!
+v2;90;Hva? Det er ikke sant!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hei der, vakre skapning, liker du det du ser?
+v2;20;*klaps*
+v2;25;Du har en kone.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hei, du ser virkelig fin ut i dag, $targetfirstname!
+v2;30;Mange takk!
+v1;60;Som vanlig, kjære!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hei, $targetfirstname, skulle en skjønnhet som deg ønske deg en kjekk kar som meg?
+v2;40;Du er gift, og det er jeg også.
+v2;60;Er det slik at du ikke er trofast? Jeg forteller det til din kone!
+v1;75;NEI - Ikke gjør d-
+v1;85;Jeg er hans onde tvillingbror!
+v2;120;Selvfølgelig er du det! Den samme onde tvillingen som alltid er full!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Hvordan går det med kvinnesakene dine?
+v2;30;Bare bra, bortsett fra at jeg føler meg litt utilpass...
+v1;60;Å nei, hva skjedde?
+v2;90;Mannen min skrek til meg.
+v1;120;Hvordan kunne han gjøre slik mot en sånn skjønnhet?
+v2;150;Takk for at du oppmuntrer meg, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*urgh*/*uff*
+v1;30;Har du det bra, $targetfirstname?
+v2;50;Ja, det er bare alt det tøffe arbeidet!
+v1;70;Kan jeg hjelpe til? Ville det føles bedre, da?
+v2;90;Selvfølgelig! Mange takk!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Hvordan går det?
+v2;30;Alt bra her, hva med deg?
+v1;60;Takk, det samme her!
+v1;75;Men jeg ser at det er noe som plager deg!
+v2;90;Det er - ingenting.
+v1;110;Kan du ikke fortelle meg?
+v2;130;Det er bare at livet mitt her er så kjedelig.
+v2;160;Jeg skulle virkelig ønske at jeg hadde besluttet å dra til en by når jeg var yngre!
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Min bror $targetfirstname, det er flott å se deg!
+v1;30;Jeg fant akkurat det gamle tresverdet vårt!
+v1;50;Husker du det?
+v2;80;Vent litt, er dette sverdet faren vår gav oss?
+v1;110;Det er det! Husker du kampene våre med det?
+v2;140;Hvordan kunne jeg glemme det! Jeg har fremdeles arr.
+v2;170;Når jeg tenker over det...
+v2;200;Det var litt slemt av faren vår å bare gi oss et sverd!
+v2;240;Han visste at vi kom til å kjempe om det!
+v1;270;Jeg antar at det var greit allikevel!
+v2;300;Fordi det var du som endte opp med den!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Husker du vognføreren vi elsket så høyt i barndommen?
+v2;30;Selvfølgelig, søster. Vi var de største supporterne hans!
+v1;60;Jeg lurer på hva som hendte med han.
+v1;90;Man hører ikke om han lenger...
+v2;120;Han slo seg sikkert ned i en landsby som vår egen og fikk seg kone og barn.
+v1;150;Uansett så håper jeg at jeg kan møte han en gang!
+v2;180;Jeg òg!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, søsteren min, jeg har alltid villet vite hvorfor du giftet deg med denne idioten.
+v2;30;Fordi jeg elsket ham!
+v1;60;Og nå heter du $targetlastname. $targetlastname! Det lyder så dårlig!
+v2;90;Hei! Ikke vær så slem, nå da! Det var du som startet konflikten.
+v2;110;Du var full!
+
+newchat;key:religious1,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:male,weigth:10
+v1;0;$targetfirstname, min sønn, jeg har ikke sett at du har vært i bønn i dag!
+v2;30;Fader $targetlastname, det har jeg så visst gjort.
+
+newchat;key:religious2,v1:vtype:metropolit_byzantine-pastor_byzantine,v2:female,weigth:10
+v1;0;$targetfirstname, min datter, jeg har ikke sett at du har vært i bønn i dag!
+v2;30;Fader $targetlastname, det har jeg så visst gjort.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Jeg lurer på hva som skjedde med Konstantinopel.
+v2;30;Jeg tror den kom hit sammen med oss til dette nye landet.
+v1;60;Hvorfor tror du det?
+v2;90;Jeg bodde nær den store byen, og jeg ble ført hit.
+v1;120;Sant nok, men det bor så mange mennesker der. Vi ville ha hørt om det nå.
+v2;150;Den kan være svært langt unna.
+v1;180;Ja, men Konstantinopels prakt og storhet er så stor at selv folk i Cathay har hørt om den.
+v2;210;Ikke si at du tror på de fortellingene om Cathay?
+v1;240;Jeg tror det er et snev av sannhet i dem.
+v2;270;Men det er så mye mystikk rundt Cathay at vi ikke kan anta om det er noe sant i dem.
+v1;300;Det er like mye mystikk i om Konstantinopel er her, så det kan vi heller ikke anta.
+v2;330;Tja, ja, men selv om Konstantinopel ikke er her, må vi vokse og verne Romerriket.
+v1;360;Der er jeg enig med deg!
+v2;390;Måtte Roma bestå for alltid!
+
+newchat;key:Inuit,v1:adult,v2:adult,weigth:10
+v1;0;Tidligere snakket jeg med en bysantinsk handelsmann, og han fortalte meg om landsbyer langt borte i snøen.
+v2;30;Landsbyer i snøen?
+v1;60;Ja, de kalles «inuitter».
+v2;90;Inuitter? For et merkelig navn — hvordan var de?
+v1;120;Handelsmannen sa at de ikke tror på penger.
+v2;150;Tror ikke på penger?! Hvordan kan de leve?
+v1;180;De delte rett og slett alt likt. Det gjorde handelen med dem svært vanskelig.
+v2;210;Stakkars handelsmann. Han er i det minste tilbake i Romerriket, vekk fra de barbarene.
+v1;240;Enig! Romerriket er det beste landet å drive handel i!
+
+newchat;key:ishome,weigth:6
+v1;0;Det er alltid en glede å se den fine, lille landsbyen vår, er det ikke?
+v2;30;Selvsagt er det det! Vi har brukt så mye tid på dette stedet.
+v1;60;Det er nesten som hjemme, akkurat som før vi kom hit.
+v2;90;Dette er hjemmet vårt nå, det må vi bare godta.
+v1;120;Det er det sannelig, denne samtalen har fått meg til å innse det.
+
+newchat;key:kidsBos,v1:child,v2:child,weigth:5
+v1;0;Bæææ … Bæææ … Jeg er sauehyrdenes konge!
+v2;30;Slutt! Du kommer til å påkalle ham!
+v1;60;Å Boskokrator, jeg bygger deg et hellig sted …
+v2;90;Hold munn! Vet du ikke hva som skjer i sagnet?
+v1;120;$targetfirstname, din skrikerunge! Det er jo bare det! Et sagn!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Har du hørt om den normanniske landsbyen i nærheten?
+v2;30;Det er ikke bra, jeg husker at de stadig angrep Sør-Italia før vi kom hit.
+v1;60;La oss håpe at de ikke angriper oss.
+v2;90;Det håper jeg også.
+
+newchat;key:nothomeyet,weigth:6
+v1;0;Det er alltid en glede å se den fine, lille landsbyen vår, er det ikke?
+v2;30;Selvsagt er det det! Vi har brukt så mye tid på dette stedet.
+v1;60;Det er nesten som hjemme, akkurat som før vi kom hit.
+v2;90;Dette er hjemmet vårt nå, det må vi bare godta.
+v1;120;Jeg vet det, jeg kommer til å godta det med tiden …
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Har du hørt noe om seldsjukkene siden vi kom hit?
+v2;30;Nei, det har jeg ikke, trodde du at de kom med oss til dette landet?
+v1;60;Jeg tviler — vi har allerede hørt om folk vi ikke visste at fantes.
+v2;90;Jeg antar at vi må skaffe oss nye fiender i dette landet.
+v1;120;Vi har fortsatt normannerne å hanskes med.
+v2;150;Vel, vi er romere! Vi kan lett beseire slike røvere — til Roma!
+v1;165;Til Roma!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Jeg håper vi ikke må ut og slåss mot barbarer med det første.
+v2;30;Hva? Vi er soldater, jobben vår er å dra ut og drepe barbarer. Hvorfor ville du gå inn i hæren hvis du ikke liker å kjempe?
+v1;60;Jeg trodde det å være soldat ville være enklere — jeg så for meg å stå rundt og drepe noen monstre og en barbar i ny og ne. Men nå når jeg dreper en barbar, ser jeg på ansiktet hans og tenker: «Kanskje vi ikke burde drepe disse menneskene.»
+v2;120;Du tenker for mye! Dra ut og drep barbarer for Roma. De ville drept oss og ødelagt hjemmene våre! De er bare usiviliserte villmenn.
+v1;150;Har du møtt disse menneskene du oppfordrer til å drepe? Nei, det har du ikke, kanskje de er annerledes enn det vi har fått høre.
+v2;180;Sant, de kunne vært mye verre.
+v1;210;Jeg tror ikke du forstår tankene og vanskene jeg går gjennom.
+v2;240;Jeg er soldat, ikke filosof. Du burde be Gud om veiledning, for det trenger du tydeligvis.
+v1;270;Det har jeg allerede gjort, og jeg fikk ingenting mer fra Gud. Da jeg ba, satt jeg igjen med den samme konklusjonen som nå.
+v2;300;Hva? Du har tydeligvis forlatt Gud, siden han ikke forteller deg sannheten! Gå tilbake til bønnen til du kan drepe barbarer igjen!
+v1;330;Kanskje dette er den konklusjonen Gud ville at jeg skulle komme til!
+v2;360;Det høres mer ut som om Gud vil at du skal gå av med pensjon …
+
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;Jeg elsker solfylte dager!
+v2;30;Hvem gjør vel ikke det?
+v1;60;Det gjør ikke jeg.
+v2;120;Hvorfor ikke?
+v1;150;Solen brenner! Jeg hater å være ute!
+v2;180;Du oppfører deg som en zombie!
+v1;210;Kanskje jeg er en …

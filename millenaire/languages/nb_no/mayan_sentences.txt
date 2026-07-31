@@ -1,0 +1,63 @@
+
+villager.greeting=Hva er nytt?
+villager.greeting=Hvordan behandler åndene deg?
+villager.greeting=Hvordan går det med familien din?
+villager.greeting=Hallo, $name!
+villager.greeting=Ånder, send oss regn.
+villager.greeting=Hvor er ditt land?
+villager.greeting=Luften er varm i dag.
+mayan_shaman.greeting=Måtte åndene beskytte deg.
+
+villager.gorest=Søvnen tar overhånd.
+villager.gorest=Jeg må sove nå.
+villager.gorest=Gjesp.
+
+villager.gopray=Måtte åndene hjelpe oss.
+villager.gopray=Jeg håper at åndene sender oss en sterk innhøsting.
+
+villager.bringbackresourceshome=Jeg må bære alt dette treverket.
+villager.choptrees=På tide å hogge trær.
+villager.gathergoods=Jeg tar med alt treverket tilbake.
+villager.plantsaplings=Jeg planter alle disse trærne.
+
+villager.plantmaize=Regnet sender oss sterke avlinger.
+villager.harvestmaize=Godt med regn, godt med innhøsting.
+villager.plantturmeric=Krydder lager maten.
+villager.harvestturmeric=Disse krydderavlingene gir styrke til maten.
+villager.slaughterchicken=Kyllinger gir oss kjøtt.
+
+villager.gethouseresources=Et rent hus er et godt hus.
+villager.getgoodshousehold=Jeg trenger å få disse tingene hjem.
+villager.delivergoodshousehold=Jeg tar med matvarer tilbake til hjemmet.
+villager.makerasgulla=Mitt lille barn er sykt.
+
+
+villager.getresourcesforbuild=Jeg kommer til å trenge mye stein.
+villager.constructionstepbystep=Jobb, jobb, jobb.
+villager.constructionstepbystep=Jeg trenger en sterk medarbeider.
+
+villager.goplay=Jeg leker i gresset.
+villager.becomeadult=La la la la.
+male.becomeadult=Jeg vil bli en jeger.
+female.becomeadult=Jeg vil ha meg en mann.
+
+villager.gopray.chosen=Jeg taler bønnen.
+mayan_shaman.gopray.chosen=Bønnen vil beskytte deg.
+
+villager.calltoarms=Drep den slemme!
+villager.calltoarms=Til våpen!
+villager.calltoarms=Dagen er min!
+
+villager.maketools=Kjøp ting av meg.
+villager.makeweapons=Våpnene her er sterke.
+villager.scultmayan=En dag vil jeg male.
+villager.childeatcacaobeans=Bønnene alene er litt bitre. Jeg lurer på om de hadde vært bedre bløtlagt i melk?
+villager.childobserveagriculture=Jeg lurer på hva som ville skje hvis maiskorn ble varmet opp veldig fort?
+villager.childobserveconstruction=Hvorfor kan vi aldri bygge i noe annet enn stein, mon tro?
+villager.childobserveproducefood=Hvorfor får de voksne all cacauhaaen? Det er ikke rettferdig!
+villager.childobservesmithing=Alle her bruker obsidian til verktøy, men det må finnes noe sterkere!
+villager.construction=Arbeid i samhold, arbeid med styrke.
+villager.construction=Arbeid, arbeid, arbeid.
+villager.sellercoming=Jeg kommer raskt!
+villager.tradecomplete=Måtte gudene belønne deg, kom snart igjen.
+

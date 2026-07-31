@@ -1,0 +1,146 @@
+//* 대화 라인은 "v2;30;"과 같은 코드에서 시작되며, 이 코드는 누가 말하고 있는지와 내용이 표시되는 때를 지정합니다. 번역할 때 그대로 복사해 주세요.
+//* 행의 첫 번째 절반은 마을 사람들의 언어로 되어 있고, 두 번째 부분은 번역돼야 합니다.
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;뜨거워!
+v2;30;더워 미치겠네
+v1;70;비가 오려나?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;비가 안 오는데...?
+v2;30;언젠간 비가 오겠지...
+v1;60;매년 같은 소리야...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;야호 비다!
+v2;40;적은 비는 아무것도 아니지
+v1;80;비가 안 오는 것보다는 낫군.
+v1;120;하지만 작물은 어떻게 자라지?
+
+newchat;key:sandstone,weigth:10
+v1;0;마을이 작업중이죠?
+v2;40;할 게 많네...
+v1;80;진짜??
+v2;100;진짜!!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;푸자 한접시 먹으러 가자고!
+v2;40;바로가자!
+v1;80;신에게 감사먼저 해.
+v1;130;그 다음에야 비가 올거야.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;소고기 맛이 궁금해?
+v2;60;그걸 먹는건 금지되어있어!
+v1;120;그게... 맛있다면??
+v2;180;니가 무슨 노르만 야만인이야? 소고기를 먹으려 하다니?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;배고파! 간식줘!
+v2;60;밥이나 먹어.
+v1;120;아침에 이미 먹었잖아!
+v1;180;어제도... 그제도...
+v2;220;오늘밤에도 밥을 먹어야해!
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;나무를 잘라야 겠어
+v2;60;그러다 숲을 사막으로 만들거야!
+v1;120;여기 나무는 스스로 자라니까 괜찮아.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;내 궁전이 작아지고 있어...
+v2;60;그게 이 나라에서 가장 큰 집이거든?!
+v1;120;그래도 작아...
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;강한 요새는 적을 막을 때 도움이 되지!
+v2;60;적이 누구인가요?
+v1;100;노르만인과 기타 등등이 적이란다.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;내 남편 부자다!
+v2;50;그래그래...
+v1;110;근데 아무것도 주지 않았어.
+v2;160;왜? 어제 그가 너에게 사리 세개를 주었잖아!
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;내 남편이 금화 50닢을 벌어왔어!
+v2;60;50닢이라고? 나는 10닢이 전재산인데...
+v1;120;잘되길 빌게.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;동상을 만들겠어!
+v2;50;그거 잘되겠는데?
+v1;100;동상을 15년째 만들고있는 달인이거든.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;곡괭이가 필요해!
+v2;50;바빠!
+v1;100;삽도 필요해!
+v2;150;느어어어어! 일이 산더미다아아아아아!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;<targetname>, 도둑이 있는게 느껴져!
+v2;50;걱정마, 내가 마을을 지키겠어!
+v1;100;오오... 강하구나...
+v1;130;멋져...
+v1;150;수염만 없었다면...
+v2;200;수염 얘기 좀 하지마!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ 농사를... 망쳤어...
+v2;40;너무 게으르니까 그렇지! 일좀 하라고!
+v1;80;비가 오지 않았어...
+v2;120;내 잘못이 아니야. 빌린 돈 내놔!
+v1;170;돈이... 없어...
+v2;210;그럼 밭이라도 가져가도록 하지.
+v1;260;에에? 그럼 진짜 빈털터리야!
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;상인이 내 옆집에 살려고 하고있어!
+v2;60;집을 짓는다고? 왜?
+v1;90;아들이 살 집이라나봐!
+v1;140;그의 아들이 결혼하면 아버지와 아들집이 붙어있겠네?
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;도둑이 내 아내의 금목걸이를 가져갔어.
+v1;60;나는 보석을 받은 적이 없는데...
+v2;110;너는 부자랑 결혼했어야 했어.
+v1;160;지참금이 더 필요했을거야.
+v2;200;그럼 나랑 결혼한걸 행운으로 생각해.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;오랫동안 술을 본 적이 없어...
+v2;50;마을 밖의 반얀나무 아래에 있는 사람이 술이랑 땅콩을 팔아!
+v1;110;마을에서 술은 금지잖아!
+v2;160;아무한테도 말하지마.
+v1;200;알았어, 저녁에 한번 가보자.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;장난감좀 있나요?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;나는 친구가 많아요.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;우리 엄마는 밤에 노는 걸 허락하지 않으세요.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;안녕!
+v2;50;그거 봤어?
+v1;100;뭘 봤어?
+v2;150;어... 좀비!
+v1;200;정말?
+v2;250;어! 정말 무서웠어! 널 먹어버린다고 했지!
+v1;300;으악! 엄마! 좀비가 저를 먹는대요!
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;안녕!
+v2;50;그거 봤어?
+v1;100;뭘 봤어?
+v2;150;음... 크리퍼 봤어!
+v1;200;정말?
+v2;250;그럼! 정말 무서웠어! 저어-기 있던 나무를 날려버렸지 뭐야!
+v1;300;잠깐만... 그건 내가 가장 아끼던 건데... 엉엉엉

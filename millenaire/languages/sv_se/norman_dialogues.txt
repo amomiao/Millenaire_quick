@@ -1,0 +1,372 @@
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Jag kan känna att det kommer att regna.
+v2;30;Det regnade alltid i Normandie...
+
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Vår by är fin, tycker du inte?
+v2;30;Utmärkt! och vi har arbetat hårt med den!
+
+newchat;key:sunset,weigth:10
+v1;0;Var stiger solen upp, igen? Jag glömmer det alltid.
+v2;30;Norr, var annars?
+
+newchat;key:harvest,weigth:10
+v1;0;Tror du att skörden blir bra i år?
+v2;30;Vem vet, med det vädret vi har haft.
+v1;60;Årstiderna är konstiga här.
+
+newchat;key:indianfood,weigth:5
+v1;0;Har du hört talas om indierna?
+v2;30;Folk säger att de är väldigt konstiga.
+v1;60;Tydligen så är deras mat stark!
+v2;100;Som calva?
+v1;120;Nej, värre!
+
+
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Dessa bysantiner går mig på nerverna!
+v2;30;Du ser hur stora och mäktiga de har blivit?
+v1;60;Bara för att de påstår sig vara romare.
+v2;100;Vilket skämt. Urartade romare är de.
+v1;130;Vi borde organisera en räd mot dem!
+v2;160;Vi är ju vikingar!
+
+newchat;key:storm,weigth:10
+v1;0;Det var en förfärlig storm igår.
+v2;30;Verkligen, jag trodde taket på huset skulle blåsa av.
+v1;60;Vi borde förstärka taken.
+
+newchat;key:visitors,weigth:10
+v1;0;Det vi saknar här omkring är besökare.
+v2;30;Nåja, vi har ju $name...
+v1;60;Men han är väl lite märklig, eller hur?
+v2;100;Det är sant vi vet aldrig vad han håller på med.
+
+newchat;key:christmas,weigth:10
+v1;0;När är det jul?
+v2;30;Jag vet faktiskt inte... säsongerna ändras inte här.
+v1;80;Vilken märklig värld.
+v2;110;Ibland liknar det nästan Normandie...
+v2;140;Och så ser vi att allt är annorlunda.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Har du någonsin sett hertig Vilhelm?
+v2;30;Nej, aldrig. Och vem vet var han är nu?
+v1;60;Om han vore här hade vi redan erövrat den här nya världen!
+v2;100;Länge leve hertig Vilhelm!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Har du lagt märke till att jorden här flyter om vi gräver under den?
+v2;40;Ja, och?
+v1;60;I Normandie brukade den falla...
+v2;90;I Normandie ville Gud att den skulle falla. Här vill han att den ska flyta.
+v2;150;Varför kritiserar du Gud?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Jag gillar regn.
+v2;30;Bra sak för en normand!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Vad föredrar du, blodpudding eller komage?
+v2;40;Blodpudding, komage är för tungt!
+v1;80;För tungt? Och du kallar dig normand?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Detta landet saknar djur.
+v2;30;Det finns kor, får och grisar.
+v2;60;Vad annars behöver man?
+v1;60;Hästar? Och ponnyer!
+v2;90;För att du vill ha en ponny, nu?
+
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Komage, det är en riktig mansrätt.
+v2;30;Förberedd av kvinnor....
+v1;60;Med kor slaktade av män!
+v2;100;Och matade av kvinnor...
+
+newchat;key:countingcows,weigth:10
+v1;0;Det finns inte mycket att göra här omkring.
+v2;30;Det är bra, fridfullt.
+v1;60;Och tråkigt...
+v2;75;Varför räknar du inte korna?
+v1;110;Har gjort det, igår. Och kycklingarna, med.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Vilket isolerat ställe. Skulle vilja se något annat en dag...
+v2;30;De andra byarna är likadana.
+v1;60;Inte ens en by! eller en stad!
+v2;90;Som vad, Rouen? du är galen, det är dagar från här.
+v1;120;Rouen... eller kanske... varför inte Paris?
+v1;150;Kan du fatta, folk säger att 25 000 människor bor där!
+v2;180;Du yrar, stackare. 25 000 människor på samma ställe? Och var skulle man göra av dem?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;I den här sortens väder, så är calva ett måste!
+v2;30;I alla väder!
+v1;50;Skål för Normandie och dess calva-väder!
+v2;70;Skål!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;När jag blir stor ska jag bli byhövding!
+v2;30;Du kommer att behöva mycket soppa innan du är där.
+v1;60;Och ni allihop kommer att bli bestraffade!
+v2;70;Säkert. Och nu iväg till arbete eller så kommer du få en örfil.
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Min pappa är mycket starkare än din.
+v2;30;Nonsens. Min pappa är den starkaste i byn.
+v1;60;Glöm det. Min pappa lägger din på marken på två minuter.
+v2;70;Och jorden är rund!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Tjejer är värdelösa.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Du må vara en pojke men jag kan få dig till att gråta när jag vill.
+v2;30;Inte sant! Inte sant!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Var snäll, eller så tar Endermannen dig ikväll!
+v2;40;Pfff, jag är för gammal för att tro på sånt nonsens.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Så, vackra, vad gör du ikväll?
+v2;40;$targetfirstname, jag har redan sagt nej!
+v1;60;Vilken karaktär!
+v2;80;Vilken idioti!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, vilka fina muskler!
+v1;30;Va tyst, din idiot! Om min fru hör oss...
+v2;60;Och då, snygging?
+v1;90;Du vet hur avundsjuk hon blir!
+v2;120;Och? Är du rädd för henne?
+v1;140;Rädd? för henne? Du måste skämta!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;Broder Jacob, Broder Jacob
+v2;30;Sover du, sover du?
+v1;60;Hör du inte klockan! Hör du inte klockan!
+v2;100;Ding, daing, dong. Ding, daing, dong!
+
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;Lilla lärka, vackra lilla lärka,
+v2;0;Lilla lärka, vackra lilla lärka,
+v1;30;Lilla lärka, jag ska plocka dina fjädrar.
+v2;30;Lilla lärka, jag ska plocka dina fjädrar.
+v1;60;Jag ska plocka fjädrarna från ditt huvud.
+v2;60;Jag ska plocka fjädrarna från ditt huvud.
+v1;90;Från ditt huvud!
+v2;90;Från ditt huvud!
+v1;120;Stackars lärka, ändå...
+v2;160;Varför? Det är ju kul!
+
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;Låt oss gå i skogen,
+v2;0;Låt oss gå i skogen,
+v1;30;Medan vargen är borta.
+v2;30;Medan vargen är borta.
+v1;60;Om vargen var där
+v2;60;Om vargen var där
+v1;90;Skulle han äta upp oss,
+v2;90;Skulle han äta upp oss,
+v1;120;Men eftersom han inte är där,
+v2;120;Men eftersom han inte är där,
+v1;150;Äter han inte upp oss.
+v2;150;Äter han inte upp oss...
+v2;180;Öh, är du säker?
+v1;200;Fegis!
+
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;Den gode kung Dagobert
+v1;30;Hade byxorna ut och in.
+v1;60;Den store Sankt Eloy
+v1;90;Sade till honom: Min herre kung!
+v1;120;Ers Majestät
+v1;150;Är illa byxad.
+v2;180;Illa byxad? Vad betyder det?
+v1;220;Att han inte har några byxor!
+v2;250;Nonsens, han är ju kung!
+v1;280;Jo, kungen har inga byxor!
+v2;310;Till och med du har några, idiot!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Min son, din sista bekännelse var länge sen.
+v2;40;Men Fader, jag har inte syndat!
+v1;70;Alla syndar i denna fallna värld.
+v2;110;Även du, Fader?
+v1;130;Nog med fräckhet! du ska göra tio fadernvår i botfärdighet!
+
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Min Dotter, din sista bekännelse var länge sen.
+v2;30;Det är sant, Fader och jag har syndat!
+v1;60;Om det är köttets synd, så ska vi tala om det någon annanstans.
+v2;100;Tack, Fader.
+v1;120;Under tiden tio fadernvår. Alltid användbart!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Jag har förbättrat mina färdigheter igen.
+v1;30;Innan jag sätter ihop ramen, så börjar jag med...
+v2;70;Fascinerande.
+v1;90;Tycker du verkligen det?
+v2;110;Nej.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Jag älskar att förbereda komage. Först få kon att blöda...
+v1;40;Sen samlar man ihop tarmarna...
+v2;60;Sluta, du äcklar mig!
+v1;80;Men du älskar ju komage!
+v2;110;Jag vill inte veta hur det görs.
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Inga tvivel, jordbruk är det viktigaste jobbet.
+v1;40;Utan mig, skulle det inte finnas bröd!
+v2;60;Jag gillar komage bättre hursomhelst.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;När jag var ung var jag en väldigt lovande lärling.
+v1;40;Självaste Guillaume Vif-Argent var intresserad av mig!
+v1;80;Och nu är jag fast här.
+v1;110;Att ta hand om idioter.
+v2;130;Äh, va?
+v1;150;*Suck*
+
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Titta på mitt slott! Verkligen en fästning!
+v2;30;Du är mäktig, min herre!
+v1;60;När hertig Vilhelm kommer tillbaka, kommer han säkert att göra mig till greve!
+v2;100;Hurra för greve $targetfirstname!
+v1;130;Hurra för mig!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Min skönhet är legendarisk i dessa länder.
+v2;30;Du är vacker, min dam!
+v1;60;Och ändå är jag gift med en obetydlig, värdelös riddare...
+v2;100;Men din man kommer säkert att bli greve en dag!
+v1;130;Denna idioten? och varför inte påve, när vi ändå håller på?
+v2;160;Varför inte, min dam! Öh... Jag menar...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Äppel. äppel! äppel!
+v1;30;Äppel, äppel... äppel,
+v2;60;Är du säker på att det inte är cider, cider, cider?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Vilken liten by.
+v2;30;Hör du, främling, akta din tunga!
+v1;70;Och vilket charmerande folk!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Jag har skapat en liten sång, vill du höra?
+v2;40;Javisst!
+v1;50;Hej-hå, hej-hå hej-hå...
+v2;70;Lovande start...
+v1;90;Hej hå från vår gruva gå!
+v2;110;Och en massa arbete jag har.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;Broder Jacob, Broder Jacob!
+v1;30;Väldigt roligt, mitt barn.
+v2;60;Sover du, sover du?
+v1;90;Nog, nog, jag kan sången.
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Allt det goda i grisen!
+v2;30;De skriker mycket när du slaktar dom.
+v1;70;Ju högre grisen skriker, ju bättre kött!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Jag tjänar bybornas andliga hälsa.
+v2;30;Och det är mycket att göra!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Vår by fruktar Gud.
+v2;30;Och hans ställföreträdare, fader $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Jag är högt aktad vid kung Vilhelms hov.
+v2;40;Kungen?
+v1;60;Hans majestät Vilhelm Erövraren, hertig av Normandie och kung av England, din okunniga!
+v2;100;Var är England?
+v1;120;På andra sidan havet. Sådan okunnighet!
+v2;140;Av vilket hav, min herre?
+v1;160;Sådan fräckhet! Nog!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Att vara fåraherde är ett mycket ädelt yrke.
+v2;30;Nobelt? fåraherde?
+v1;50;Har vi inte blivit utvalda av Gud att höra det glada budskapet?
+v2;90;Åh, ja. När du tog hand om de nyfödda lammen i december.
+v1;130;Och så? kanske i Betlehem är det kanske inga säsonger. Precis som här!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;Den sanna kraften hos en normand ligger i deras vapen och verktyg.
+v2;40;Och därför i deras smeder?
+v1;60;Javisst!
+
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Varför är det alltid kvinnorna som bygger?
+v2;40;Om det stör dig, så kommer jag att bygga nästa.
+v1;80;Verkligen? Vad rart av dig! Apropå gardinerna, glöm inte att...
+v2;120;Faktiskt så nej, jag tror jag låter dig göra det.
+
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Jag gick utanför alkemistens verkstad igår.
+v1;40;Det luktade ruttna ägg!
+v2;80;De säger att han försöker skapa filosofens sten!
+v1;120;Jag har hört att han vill återuppväcka döda.
+v2;160;Och att han ska skapa ett monster från kroppsdelar!
+v1;200;Så hemskt!
+v2;220;Han som var en sån rar pojke...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Har du besökt de nya arkiven?
+v1;30;Du kan se vad alla gör!
+v2;60;Åh, verkligen... och, öh...
+v1;90;Ja,jag såg din skylt.
+v1;120;Du borde skämmas.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Jag älskar doften av färskt bröd som kommer från bageriet.
+v2;40;Nu behöver vi bara någon som vet hur man gör gifflar.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Vår kyrka är verkligen vacker!
+v2;30;Det visar att vi är en from by.
+v1;60;Den är även större än grannbyns!
+
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Nu när vi har ett värdshus, så kan vi byta!
+v2;40;Med andra ord, köpmän som passerar kan själva komma åt våra resurser.
+v1;80;Du har alltid varit cynisk.
+
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Jag älskar marknaden! Så många fina varor!
+v2;40;Vi känner oss mindre isolerade nu när den finns.
+v2;80;Men inte rikare...
+
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Värdshuset är det bästa vi byggt här i byn.
+v2;40;Ingen här skulle påstå något annat!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Vi är ostoppbara. Våra imponerande skepp och ärofulla riddare är en plåga för världen!
+v2;40;Och vilka är våra fiender? Ett gäng romerska skojare och maya-stenälskare?
+v1;80;Glöm inte snöidioterna som inte ens använder pengar!
+v2;120;Hahaha! ett normandiskt liv är det bästa här i världen! Underbar cider, de bästa verktygen. Åh, detta är verkligen vår guldålder.
+v1;160;Och vi får ta del av det!
+v2;200;Hahaha!

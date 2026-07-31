@@ -1,0 +1,25 @@
+# Registered gathering handlers
+# Use these ids in gathering_type/<id>.json under the "handler" field.
+# Generated automatically — do not edit.
+
+breeding
+chopping
+cocoa_harvesting
+cocoa_planting
+crafting
+fishing
+fishing_inuit
+flower_planting
+fruit_harvesting
+harvesting
+mining
+paddy_harvesting
+paddy_planting
+planting
+sapling_planting
+shearing
+slaughter
+smelting
+take_from_building
+
+# Total: 19 handlers.

@@ -1,0 +1,57 @@
+villager.greeting=Comment allez-vous ?
+villager.greeting=Ravi de faire votre connaissance.
+villager.greeting=Quoi de neuf ?
+villager.greeting=Bonjour, $name-san !
+villager.greeting=Comment allez-vous, $name-san ?
+villager.greeting=Salut !
+villager.greeting=Bienvenue.
+
+villager.gorest=Ah, il est l'heure d'aller se coucher.
+villager.gorest=Je dois me reposer.
+villager.gorest=Je suis trop fatigué.
+
+villager.gopray=Kami nous protége du mal.
+villager.gopray=Je prie la déesse Uga-no-Mintama pour une bonne récolte.
+
+villager.bringbackresourceshome=Boulot boulot boulot...
+villager.choptrees=Je vais aller abattre quelques arbres.
+villager.gathergoods=J'ai besoin de resources.
+villager.plantsaplings=Je vais planter ces arbustes.
+
+villager.slaughterchicken=Tu feras un bon repas pour quelqu'un.
+
+villager.gethouseresources=Je dois aller chercher quelque chose à la maison.
+villager.getgoodshousehold=J'ai besoin de ça chez moi.
+villager.delivergoodshousehold=J'ai pris de la nourriture au marché.
+
+villager.getresourcesforbuild=J'ai besoin de plus de matière première.
+villager.constructionstepbystep=J'ai appris l'architecture de mon père.
+villager.constructionstepbystep=J'espère que le Kami aimera mon bâtiment.
+
+villager.goplay=Je veux jouer.
+
+villager.childobserveagriculture=Ma mère dit que c'est important de cultiver du riz, mais ça à l'air tellement ennuyeux...
+villager.childobserveconstruction=Quand je serais grand peut être que je construirais des pagodes. En or !
+villager.childobservesmithing=Nos armes et nos armures ont l'air les plus cools !
+villager.childobserveproducefood=Pourquoi toute la nourriture ici doit être à base de riz ? J'en ai assez du riz !
+villager.childobserveproducealcohol=J'ai été malade la dernière fois que j'ai essayé de boire du saké.
+
+villager.childeatapple=Ce monde est magique ! Des pommes poussent sur tous les types d'arbes !
+
+
+villager.becomeadult=Il est temps de grandir.
+male.becomeadult=Je veux être un noble samouraï.
+female.becomeadult=Je veux être mère un jour.
+villager.gopray.chosen=Méditons.
+
+villager.calltoarms=Ils regretteront le jour où ils nous ont attaqué !
+villager.calltoarms=Aux armes !
+villager.calltoarms=Défendons le village!
+
+villager.maketools=Je fabrique les meilleurs outils depuis bien des années.
+villager.makeweapons=Les secrets des meilleures armes me viennent de mon maitre.
+villager.construction=Mon père m'a enseigné l'art de bâtir.
+villager.construction=Puissent les kami agréer mon ouvrage.
+villager.sellercoming=J'arrive tout de suite !
+villager.tradecomplete=Mille mercis, revenez nous voir.
+

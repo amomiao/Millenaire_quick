@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Jag borde dricka lite ayran.
+v2;30;Jag hoppas att värdshuset inte är fullt idag.
+v1;60;Ja, jag hoppas det, det får inte bli som igår.
+v2;90;Precis, och om jag dricker ayran så går min trötthet över.
+v1;120;Du har rätt.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Hallå där. Jag vill köpa en matta.
+v2;30;Visst. Hur vill du ha den?
+v1;60;Jag vet inte. Jag ville köpa en present eftersom det är min väns födelsedag idag. Vad skulle du rekommendera?
+v2;90;Vad sägs om den röda mattan?
+v1;120;Okej, utmärkt idé.
+v2;150;Hur många vill du ha?
+v1;180;Bara en. Kan du göra en fin inslagning?
+v2;210;Naturligtvis, herrn. Tänker du lämna den själv eller ska vi ta den?
+v1;240;Jag lämnar den själv. Tack.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Ha en bra dag.
+v1;30;Sov du gott?
+v2;60;Ja, det var bra.
+v1;90;Vad vill du ha till frukost?
+v2;120;Jag vet inte, och du?
+v1;150;Jag vet inte.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Pappa, kan du berätta vilken den bästa malmen var som du grävde fram?
+v2;30;Låt mig tänka… Jag tror det var en diamant.
+v1;60;Om du hittar en till, kan du ge mig en, pappa?
+v1;90;Varför inte, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah ser allt vi gör, $targetfirstname.
+v2;30;Ja, det är sant, min hoca.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Min far skär ständigt halsen av oskyldiga djur!
+v2;30; Men om det köttet inte är nödvändigt för oss, så gör inte din far det.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Har du sett en drick lika god som ayran, broder?
+v2;30;Nej, jag har inte sett det än.
+v2;60;Var fick du tag i den? Jag vill också ha.
+v1;90;Det finns ett kök i närheten som säljer den.
+v2;120;Okej, tack så mycket.
+v2;150;Vad mer säljer de där?
+v1;180;Du kan tänka dig allt från fisk till pide.
+v2;210;Jag borde gå dit på en gång.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Hej $targetfirstname.
+v2;30;Hallå!
+v1;60;Har du sett den nya hamamen?
+v2;90;Nej, det har jag inte.
+v1;120;Vi måste besöka den snabbt!
+v2;150;Okej, det är goda nyheter.
+v1;180;Ja, ja, det är det, du vet, att vara ren hör till religionen.
+v2;210;Okej då, låt oss ta en titt.
+v2;240;Vad sägs om en timme?
+v1;270;Nej, vi går nu.
+v2;300;Gott, varför denna brådska, min vän?
+v2;330;Vart ska vi gå?
+v1;360;Egentligen kan vi vänta lite.
+v2;390;Det är alltid samma sak med dig, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Har du sett en byggnad så vacker som denna moské, broder?
+v2;30;Nej, det har jag inte sett ännu.
+v2;60;När blev den klar? Den är väldigt fin.
+v1;90;Det var länge sedan.
+v2;120;Åh, okej.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Jag ser alltid annorlunda saker om natten.
+v2;30;Man sade att dagens onda är bättre än nattens goda.
+v1;60;Du har rätt, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Dags att be.
+v2;30;Låt oss inte komma för sent.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Dags att be.
+v2;30;Låt oss inte komma för sent.
+v1;60;Vad fint det vore om vi hade en vacker moské-talha.
+v2;90;Precis, broder.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Så hur går arbetet, $targetfirstname?
+v2;30;Inget har förändrats, allt är som vanligt.
+v1;60;Tycker du om resorna?
+v2;90;Ja, men mina fötter värker också.
+v1;120;Du har rätt, $targetfirstname.
+v2;150;Naturligtvis har jag rätt!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah älskar sina arbetsamma tjänare.
+v2;30;Så jag är mycket glad över att få arbeta hårt!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Fiske är en fråga om tålamod, vet du, min kära?
+v2;30;Du är bara tålmodig när det gäller fiske!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Hur var din dag idag?
+v2;30;Den var ganska hektisk.
+v2;60;Så jag är trött.
+v1;90;Skulle du vilja ha en ayran?
+v2;120;Det vore trevligt, ja.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Hej $targetfirstname.
+v1;30;Hur mår du idag?
+v2;60;Tack, jag mår bra.
+v1;90;Hur är det med din familj, mår de bra?
+v2;120;Tack, de mår också bra.
+v1;150;Vädret blir riktigt varmt, inte sant?
+v2;180;Ja, det är verkligen varmt.
+v1;210;Hälsa din familj.
+v2;240;Tack, hälsa din familj också.
+v1;270;Hej då.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	När flyttade du in?
+v2;30;Bara den senaste helgen.
+v1;60;Jag visste inte ens att huset hade blivit sålt.
+v2;90;Jag älskar verkligen detta hus, så jag bara var tvungen att flytta in.
+v1;120;Jag förstår, för huset är makalöst.
+v2;150;Hur många år har du bott i ditt hus?
+v1;180;Jag har bott här länge.
+v2;210;Jag hoppas att vi förblir grannar ett tag till.
+v1;240;Jag med.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Varför var du inte här igår?
+v2;30;Jag mådde inte riktigt bra.
+v1;60;Vad var det med dig?
+v2;90;Min mage var ur ordning.
+v1;120;Mår du bättre nu?
+v2;150;Jag mår inte riktigt så bra ännu.
+v1;180;Vill du ha något som kan få dig att må bättre?
+v2;210;Nej, tack. Jag har redan tagit lite medicin.
+v1;240;Jag hoppas att du blir bättre.
+v2;270;Tack.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Har du hört nyheten?
+v2;30;Jag har inte hört något.
+v1;60;Min granne fick sitt barn förra veckan.
+v2;90;Ingen sade något till mig.
+v1;120;Jag trodde du hade hört det.
+v2;150;Jag har verkligen inte fått höra något.
+v1;180;Hon är en söt liten bebis, maşallah.
+v2;210;Oj, så spännande.
+v1;240;Jag vet, du borde verkligen gå och se henne och barnet.
+v2;270;Det ska jag naturligtvis göra.
+v1;300;Jag ville bara berätta vad som hänt.
+v2;330;Det uppskattar jag.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Skulle du vilja gå ut på en äng med mig?
+v1;30;	När vill du gå?
+v1;60;Vad sägs om nästa fredag?
+v1;90;Jag är ledsen, det går inte. Jag äter middag med en vän.
+v1;120;Vad sägs om tisdagen därefter?
+v1;150;På tisdagarna går jag på moskéskolan.
+v1;180;Åh, någon annan gång kanske?
+v1;210;Ja, jag säger till.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Vem är detta?
+v2;30;Jag känner inte hans namn, men han är främling i dessa land.
+v1;60;Den som inte bär ondska inom sig är välkommen i dessa land.
+v2;90;Du har rätt.

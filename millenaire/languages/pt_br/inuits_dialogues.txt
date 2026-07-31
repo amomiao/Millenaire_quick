@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;E aí, gata, o que vai fazer hoje à noite?
+v2;40;$targetfirstname, já te disse, estou prometida a outro!
+
+newchat;key:beautiful,weigth:10
+v1;0;Onde estamos? Não é nenhum lugar que eu tenha visto antes. Parece o mesmo, mas a sensação é diferente.
+v2;30;Os xamãs dizem que estamos na terra abençoada dos espíritos prestativos, por isso é tão incrível aqui!
+
+newchat;key:carribou,weigth:10
+v1;0;Onde estão todos os caribus? Sinto falta da carne de caribu.
+v2;30;Já fizemos muitas caçadas, mas nenhuma encontrou caribu.
+v2;60;Mas encontramos vários animais parecidos com bisões!
+v1;60;Eca, odeio bisão, caribu é melhor.
+v2;90;Então coma o peixe, temos bastante.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Não tem muito o que fazer por aqui.
+v2;30;É bom, é tranquilo.
+v1;60;E chato...
+v2;75;Você pode cavar um buraco ou construir um iglu de neve!
+v1;110;Meu próprio iglu de neve?!
+
+newchat;key:endermen,weigth:10
+v1;0;Você ouviu o que o ancião diz sobre aquelas pessoas altas, magras e assustadoras?
+v2;30;Que são o Povo das Sombras? Não sei...
+v1;60;Faz sentido! Se realmente estamos numa terra abençoada, eles seriam retorcidos assim!
+v2;90;Mas se estamos numa terra abençoada, por que o Povo das Sombras está aqui?
+v2;120;Ah... humm, não sei...
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Adoro o cheiro de carne cozinhando vindo do preparador de comida.
+v2;30;Sei lá, geralmente prefiro a carne crua, muda o sabor.
+v1;60;Ei, eu gosto desse sabor diferente!
+
+newchat;key:hunting,weigth:10
+v1;0;Melhorei minhas habilidades de novo.
+v2;30;Você está rapidamente se tornando um grande caçador!
+v1;90;Você acha mesmo?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Esses japoneses sabem mesmo preparar peixe!
+v2;30;"Preparar" peixe? Você quer dizer que eles cozinham, certo?
+v1;60;Não, eles servem a comida com todos esses métodos elaborados e sabores.
+v2;90;A comida pode ter um sabor diferente sem estar estragada?
+v1;120;Sim, você deveria vir comigo da próxima vez que eu for visitá-los!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Meu pai é muito mais forte que o seu.
+v2;30;Meu pai é o mais forte da aldeia, sua bobinha!
+v1;60;Sonha. Meu pai bate no seu em dois minutos.
+
+newchat;key:kys,weigth:10
+v1;0;Quando a anciã vai partir para morrer?
+v2;30;Acho que não precisamos fazer isso aqui, este novo mundo é bem mais acolhedor!
+v1;60;Acho que sim... mas é estranho vê-la ainda viva.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Eu gosto de neve.
+v2;42;Bom para um inuíte!
+
+newchat;key:meat,weigth:10
+v1;0;Acho que nossos estoques de carne estão acabando, odeio quando isso acontece.
+v1;30;Carne não é a mesma coisa que ensopados...
+v2;60;Mas a maioria dos ensopados tem carne neles?
+v1;90;Sim, mas não é a mesma coisa...
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Ugh, olha como os bisões aqui são pequenos e doentios.
+v2;42;O mercador estrangeiro os chama de "vacas...?"
+
+newchat;key:murderer,weigth:10
+v1;0;Você ouviu o que aconteceu com ele depois do acidente?
+v2;30;Acidente ou não, matar pessoas é errado.
+v1;60;Sim, mas precisávamos expulsá-lo da aldeia? Ouvi dizer que ele enlouqueceu vivendo sozinho.
+v2;90;Tínhamos que fazer isso! Pelo menos aqui não faz frio e ele não vai congelar até morrer.
+v1;120;Isso é melhor? Agora ele é forçado a viver sozinho!
+
+newchat;key:normans,weigth:5
+v1;0;Conheci umas pessoas estranhas, eles se chamam de normandos?
+v2;30;Sim, os normandos são bons, mas eles realmente precisam de muita coisa.
+v1;60;Como assim?
+v2;90;Um deles passou outro dia e esvaziei minha casa dando coisas para ele, e ele continuou precisando de mais, pelo visto.
+v1;120;Coitado.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Está nevando?
+v2;30;Parece neve, mas não parece estar frio.
+
+newchat;key:seasons,weigth:10
+v1;0;Você acha que a caçada será boa este ano?
+v2;30;Sabe-se lá, com o tempo que temos tido.
+v1;60;As estações não fazem sentido aqui.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Tenho inveja dos xamãs, queria poder falar com os espíritos como eles falam.
+v2;30;Você poderia ver se o xamã aceita te ensinar?
+v1;60;Talvez... mas alguns espíritos dão medo.
+v2;70;É verdade, sempre haverá espíritos assustadores para se tomar cuidado.
+
+newchat;key:sunset,weigth:10
+v1;0;Estou cansado, o dia está passando devagar demais...
+
+newchat;key:visitors,weigth:10
+v1;0; Este lugar é estranho, está cheio de gente esquisita.
+v2;30;Você quer dizer como o $name?
+v1;60;Bem, o $name é só uma pessoa, estou falando de todos os outros.

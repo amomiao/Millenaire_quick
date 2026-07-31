@@ -1,0 +1,372 @@
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Ich kann fühlen, dass es bald regnet.
+v2;30;Es regnet immer in der Normandie...
+
+
+newchat;key:beautifulvillage,weigth:10
+v1;0;Unser Dorf ist schön, findest du nicht auch?
+v2;30;Prächtig! Wir haben hart dafür gearbeitet!
+
+newchat;key:sunset,weigth:10
+v1;0;Wo geht die Sonne nochmal auf? Ich vergesse es ständig.
+v2;30;Norden, wo sonst?
+
+newchat;key:harvest,weigth:10
+v1;0;Denkst du die Ernte wird gut dieses Jahr?
+v2;30;Wer weiß, bei dem Wetter, das wir hatten.
+v1;60;Jahreszeiten machen hier keinen Sinn.
+
+newchat;key:indianfood,weigth:5
+v1;0;Hast du von diesen Indern gehört?
+v2;30;Die Leute sagen sie wären sehr seltsam.
+v1;60;Angeblich brennt ihr Essen!
+v2;100;Wie Calva?
+v1;120;Nein, schlimmer!
+
+
+
+newchat;key:byzantines,v1:adult,v2:adult,weigth:5
+v1;0;Diese Byzantiner gehen mir auf die Nerven!
+v2;30;Hast du gesehen wie arrogant die werden?
+v1;60;Nur weil sie denken sie seien Römer.
+v2;100;Was für ein Witz. Degenerierte Römer, wenn überhaupt.
+v1;130;Wir sollten sie überfallen!
+v2;160;Wir sind immerhin Wikinger!
+
+newchat;key:storm,weigth:10
+v1;0;Das war ein schrecklicher Sturm gestern.
+v2;30;Wahrlich. Ich dachte das Dach würde wegfliegen.
+v1;60;Wir sollten alle verstärken.
+
+newchat;key:visitors,weigth:10
+v1;0;Was uns hier fehlt sind Besucher.
+v2;30;Nun, da ist $name...
+v1;60;Aber er ist etwas seltsam oder?
+v2;100;Das ist wahr, wir wissen nie was er vorhat.
+
+newchat;key:christmas,weigth:10
+v1;0;Wann ist Weihnachten?
+v2;30;Ich weiß es nicht wirklich. Die Jahreszeiten wechseln hier nicht.
+v1;80;Was für eine komische Welt.
+v2;110;Manchmal sieht es fast wie in der Normandie aus...
+v2;140;Und dann sehen wir, dass alles anders ist.
+
+newchat;key:william,v2:adult,weigth:10
+v1;0;Hast du jemals Herzog William gesehen?
+v2;30;Nein, nie. Und wer weiß, wo er jetzt ist?
+v1;60;Wäre er hier, hätte er diese neue Welt längst erobert!
+v2;100;Lang lebe Herzog William!
+
+newchat;key:floatingearth,v2:adult,weigth:10
+v1;0;Ist dir aufgefallen, dass Erde hier schwebt wenn wir unter sie graben?
+v2;40;Ja, na und?
+v1;60;In der Normandie, fiel sie runter...
+v2;90;In der Normandie, wollte Gott, dass sie fällt. Hier will er, dass sie schwebt.
+v2;150;Warum kritisierst du Gott?
+
+newchat;key:likingrain,tag:raining,weigth:10
+v1;0;Ich mag Regen.
+v2;30;Gute Eigenschaft für einen Normannen!
+
+newchat;key:boudintripes,weigth:10
+v1;0;Was magst du lieber, Boudin oder Tripes?
+v2;40;Boudin. Tripes ist zu schwer!
+v1;80;zu schwer? Und du nennst dich einen Normannen?
+
+newchat;key:horses,v1:child,v2:adult,weigth:10
+v1;0;Diesem Land fehlen Tiere.
+v2;30;Es gibt Kühe, Schafe und Schweine.
+v2;60;Was brauch man noch?
+v1;60;Pferde? Und Ponys!
+v2;90;Weil du ein Pony willst, oder?
+
+
+newchat;key:tripes,v1:adult,v2:adult,v1:male,v2:female
+v1;0;Tripes, das ist ein Gericht für Männer.
+v2;30;Von Frauen zubereitet...
+v1;60;Mit Kühen, geschlachtet von Männern!
+v2;100;Und gefüttert von Frauen...
+
+newchat;key:countingcows,weigth:10
+v1;0;Hier gibts nicht viel zu tun.
+v2;30;Das ist gut, es ist friedlich.
+v1;60;Und langweilig...
+v2;75;Warum zählst du keine Kühe?
+v1;110;Hab ich schon, Gestern. Und Hühner auch.
+
+newchat;key:paris,v1:adult,v2:adult,weigth:2
+v1;0;Was für ein einsamer Ort. Ich möchte eines Tages auch etwas anderes sehen...
+v2;30;Die Dörfer sind doch alle gleich.
+v1;60;Kein Dorf! Eine Stadt! Oder sogar eine Großstadt!
+v2;90;Welche, Rouen? Du bist verrückt, das sind Tage von hier.
+v1;120;Rouen... oder vielleicht... Warum nicht Paris?
+v1;150;Stell dir vor, die Leute sagen dort leben über 25.000 Leute!
+v2;180;Du bist wahnsinnig. 25.000 am selben Ort? Wo sollten die alle hin?
+
+newchat;key:calva,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Bei diesem Wetter ist Calva ein Muss!
+v2;30;Bei jedem Wetter!
+v1;50;Ein Hoch auf die Normandie und ihr Calva-Wetter!
+v2;70;Prost!
+
+newchat;key:boyvillagechief,v1:child,v1:male,v2:adult,weigth:5
+v1;0;Wenn ich erwachsen bin, werde ich das Dorf führen!
+v2;30;Du wirst eine Menge Suppe brauchen bevor du dort ankommst.
+v1;60;Und dich werde ich bestrafen!
+v2;70;Klar. Aber jetzt, ab zur Arbeit sonst klatscht es!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Mein Vater ist viel stärker als deiner.
+v2;30;Schwachsinn. Mein Vater ist der stärkste im ganzen Dorf.
+v1;60;Träum weiter. Mein Vater schlägt deinen in weniger als zwei Minuten.
+v2;70;Und die Erde ist rund!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Mädchen sind nutzlos.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Du magst ein Junge sein, doch wenn ich wollte könnte ich dich zum Heulen bringen.
+v2;30;Stimmt nicht! Stimmt nicht!
+
+newchat;key:enderman,v1:adult,v2:child,weigth:10
+v1;0;Sei artig, oder der Enderman holt dich heute Nacht!
+v2;40;Pfff, ich bin zu alt um an diesen Schwachsinn zu glauben.
+
+newchat;key:badflirt,v1:adult,v2:adult,v1:nospouse,v2:nospouse,v1:male,v2:female,notrel:sibling,v1:notvtype:monk-priest-abbot,weigth:20
+v1;0;Nun Schönheit, was wirst du heute Nacht tun?
+v2;40;$targetfirstname, ich habe dir schon nein gesagt!
+v1;60;Welch Charakter!
+v2;80;Welch Dummheit!
+
+newchat;key:badflirt2,v1:vtype:guard-lumberman,v2:adult,v1:hasspouse,v2:female,notrel:sibling,notrel:parent,notrel:child,weigth:20
+v2;0;$targetfirstname, welch schöne Muskeln!
+v1;30;Sei leise, du Dummkopf! Wenn meine Frau uns hört...
+v2;60;Dann was, süßer?
+v1;90;Du weißt wie eifersüchtig sie wird!
+v2;120;Und? Hast du Angst vor ihr?
+v1;140;Angst? Vor ihr? Du machst Witze!
+v2;160;Ha!
+
+newchat;key:frerejacques,v1:child,v2:child,weigth:10
+v1;0;*singt*Bruder John, Bruder John
+v2;30;*singt*Schläfst du noch, schläfst du noch?
+v1;60;*singt*Läute die Morgenglocken! Läute die Morgenglocken!
+v2;100;Ding, daing, dong. Ding, daing, dong!
+
+
+newchat;key:alouette,v1:child,v2:child,weigth:10
+v1;0;*singt*Kleine Lerche, liebe kleine Lerche.
+v2;0;*singt*Kleine Lerche, liebe kleine Lerche.
+v1;30;*singt*Kleine Lerche, ich zupfe dir die Federn raus.
+v2;30;*singt*Kleine Lerche, ich zupfe dir die Federn raus.
+v1;60;*singt*Ich zupfe dir die Federn von deinem Kopf.
+v2;60;*singt*Ich zupfe dir die Federn von deinem Kopf.
+v1;90;*singt*Ab mit deinem Kopf!
+v2;90;*singt*Ab mit deinem Kopf!
+v1;120;Arme Lerche...
+v2;160;Warum? Das macht Spaß!
+
+
+newchat;key:loupyesttu,v1:child,v2:child,weigth:10
+v1;0;*singt*Lass uns im Wald spazieren,
+v2;0;*singt*Lass uns im Wald spazieren.
+v1;30;*singt*Wenn der Wolf weg ist,
+v2;30;*singt*Wenn der Wolf weg ist.
+v1;60;*singt*Wenn der Wolf da wär,
+v2;60;*singt*Wenn der Wolf da wär.
+v1;90;*singt*Würde er uns fressen,
+v2;90;*singt*Würde er uns fressen,
+v1;120;*singt*Doch da er nicht da ist,
+v2;120;*singt*Doch da er nicht da ist,
+v1;150;*singt*Wird er uns nicht fressen.
+v2;150;*singt*Wird er uns nicht fressen...
+v2;180;Äh, bist du sicher?
+v1;200;Feigling!
+
+
+newchat;key:dagobert,v1:child,v2:child,weigth:10
+v1;0;*singt*Der gute König Dagobert,
+v1;30;*singt*trug seine Hose linksherum.
+v1;60;*singt*Der große Sankt Eloy
+v1;90;*singt*Sagte ihm, Oh mein König !
+v1;120;*singt*Ihre Majestät
+v1;150;*singt*Ist schlecht behost.
+v2;180;Schlecht "behost"? Was soll das heißen?
+v1;220;Dass er keine Hosen hat!
+v2;250;Unsinn, er ist der König!
+v1;280;Nun, der König hat keine Hosen!
+v2;310;Selbst du hast Hosen, Idiot!
+
+newchat;key:confession,v1:vtype:abbot-priest,v2:male,v2:notvtype:abbot-priest,weigth:10
+v1;0;Mein Sohn, deine letzte Beichte liegt lange zurück.
+v2;40;Aber Vater, ich habe nicht gesündigt!
+v1;70;Jeder sündigt in dieser verloren Welt.
+v2;110;Selbst du, Vater?
+v1;130;Welch Anmaßung! Du sollst zehn Vater Unser in reue aufsagen!
+
+
+newchat;key:confession2,v1:vtype:abbot-monk-priest,v2:female,v2:adult,weigth:10
+v1;0;Mein Tochter, deine letzte Beichte liegt lange zurück.
+v2;30;Es ist wahr, Vater. Und ich ahbe gesündigt!
+v1;60;Wenn es eine Sünde des Fleisches war, sollten wir dies woanders besprechen.
+v2;100;Danke Vater.
+v1;120;In der Zwischenzeit, zehn Vater Unser. Hilft immer!
+
+newchat;key:carpenter,v1:vtype:carpenter,weigth:10
+v1;0;Ich habe meine Fähigkeiten wieder verbessert..
+v1;30;Bevor ich die Rahmen zusammenfüge beginne ich mit...
+v2;70;Faszinierend.
+v1;90;Meinst du wirklich?
+v2;110;Nein.
+
+newchat;key:cattlefarmer,v1:vtype:cattlefarmermale-cattlefarmerfemale,v2:notvtype:cattlefarmermale-cattlefarmerfemale,weigth:10
+v1;0;Ich liebe es Tripes zuzubereiten. Erst die Kuh ausbluten...
+v1;40;Dann die Eingeweide sammeln...
+v2;60;Hör auf, du ekelst mich an!
+v1;80;Aber du liebst Tripes!
+v2;110;Und ich will nicht wissen wie es gemacht wird!
+
+newchat;key:farmer,v1:vtype:farmer,v2:notvtype:farmer,weigth:10
+v1;0;Ohne Zweifel ist Landwirtschaft der wichtigste Beruf.
+v1;40;Ohne mich, gäbe es kein Brot!
+v2;60;Tripes ist mir eh lieber.
+
+newchat;key:guildmaster,v1:vtype:guildmaster,weigth:10
+v1;0;Als ich jung war, war ich eine wirklich viel versprechende Erscheinung.
+v1;40;Guillaume Vif-Argent selbst war an mir interessiert!
+v1;80;Und nun stecke ich hier fest.
+v1;110;Kümmere mich um Idioten.
+v2;130;Äh, was?
+v1;150;*seufz*
+
+
+newchat;key:knight,v1:vtype:knight,weigth:10
+v1;0;Siehe mein Schloss! Eine wahre Festung!
+v2;30;Ihr seid mächtig, mein Herr!
+v1;60;Wenn Herzog William zurück kommt, wird er mich bestimmt zum Grafen machen!
+v2;100;Ein Hoch auf Graf $targetfirstname!
+v1;130;Ein Hoch auf mich!
+
+newchat;key:lady,v1:vtype:lady,v2:notvtype:knight,weigth:10
+v1;0;Meine Schönheit ist legendär in diesen Landen.
+v2;30;Ihr seid prächtig, meine Dame!
+v1;60;Und doch heiratete ich einen armen, nutzlosen Ritter...
+v2;100;Seine Lordschaft wird sicherlich eines Tages zum Grafen werden!
+v1;130;Dieser Idiot? Warum nicht gleich Papst, wenn du schon dabei bist?
+v2;160;Warum nicht, meine Dame! Äh... Ich meinte...
+
+newchat;key:lumberman,v1:vtype:lumberman,weigth:10
+v1;0;Äpfel, äpfel, äpfel!
+v1;30;Äpfel, äpfel... äpfel!
+v2;60;Sicher das es nicht Cider, cider, cider war?
+
+newchat;key:merchant,v1:vtype:merchant,weigth:10
+v1;0;Was für ein armseliges Dorf.
+v2;30;Hey Fremder. Hüte deine Zunge!
+v1;70;Und so freundliche Leute!
+
+newchat;key:miner,v1:vtype:merchant,weigth:10
+v1;0;Ich habe mir ein kleines Lied ausgedacht. Willst du's hören?
+v2;40;Lass hören!
+v1;50;Heigh-ho, heigh-ho, heigh-ho, heigh-ho...
+v2;70;Viel versprechender start...
+v1;90;*singt*Nach Hause komm' ich von der Arbeit!
+v2;110;Und ich habe eine Menge Arbeit zu erledigen.
+
+newchat;key:monk,v1:vtype:monk,v2:child,weigth:10
+v2;0;*singt*Bruder John, Bruder John!
+v1;30;Sehr lustig, mein Kind.
+v2;60;*singt*Schläfst du noch, schläfst du noch?
+v1;90;Genug, genug. Ich kenne das Lied!
+
+newchat;key:pigherd,v1:vtype:pigherd-pigherdf,v2:notvtype:pigherd-pigherdf,weigth:10
+v1;0;Alles am Schwein ist gut!
+v2;30;Sie machen allerdings eine Menge Krach wenn du sie schlachtest.
+v1;70;Je stärker des Schweines kreischen, desto besser das Fleisch!
+
+newchat;key:priest,v1:vtype:priest,weigth:10
+v1;0;Ich pflege die geistige Gesundheit der Dorfbewohner.
+v2;30;Und da gibt's viel zu pflegen!
+
+newchat;key:priest2,v1:vtype:priest,weigth:10
+v1;0;Unser Dorf fürchtet Gott.
+v2;30;Und seinen Pfarrer, Vater $targetlastname.
+
+newchat;key:seneschal,v1:vtype:seneschal,weigth:10
+v1;0;Ich werde am Hofe des Königs, Herzog William hoch geschätzt!
+v2;40;Der König der Herzog?
+v1;60;Seine Majestät William der Eroberer, Hezog der Normandie und König von England, du Narr!
+v2;100;Wo ist England?
+v1;120;Auf der anderen Seite des Meeres. Welch Ignoranz!
+v2;140;Welches Meeres, mein Herr?
+v1;160;Welch Unverschämtheit! Genug!
+
+newchat;key:shepherd,v1:vtype:shepherd-shepherdf,v2:notvtype:shepherd-shepherdf,weigth:10
+v1;0;Ein Schäfer zu sein ist eine ehrenvolle Arbeit.
+v2;30;Ehrenvoll? Schäfer?
+v1;50;Wurden wir nicht von Gott erwählt die frohe Kunde zu hören?
+v2;90;Ah, ja. Während du dich um die neugeboren Lämmer kümmertest - im Dezember.
+v1;130;Siehst du? Vielleicht gibt es in Bethlehem keine Jahreszeiten. Wie hier!
+
+newchat;key:smith,v1:vtype:smith,weigth:10
+v1;0;Die wahre Kraft der Normannen liegt in ihren Werkzeugen und Waffen.
+v2;40;Und daher in ihren Schmieden?
+v1;60;Genau!
+
+
+newchat;key:wife,v1:vtype:wife,v2:male,v2:adult,weigth:10
+v1;0;Warum müssen wir Frauen immer die Häuser bauen?
+v2;40;Wenn es dich so stört, kümmere ich mich um das nächste.
+v1;80;Wirklich? Das sit so süß! Also, was die Vorhänge angeht. vergiss nicht...
+v2;120;Eigentlich, nein. Ich glaube ich lasse dich das machen.
+ 
+
+newchat;key:alchemyworkshop,villager:alchemistapprentice,v1:notvtype:alchemistapprentice-guildmaster,v2:notvtype:alchemistapprentice-guildmaster,v1:adult,v2:adult,weigth:10
+v1;0;Ich lief gestern am Geschäft des Alchemisten vorbei.
+v1;40;Es stan knach verfaulten Eiern!
+v2;80;Man sagt er versuche den Stein der Weisen zu erschaffen!
+v1;120;Ich hörte er möchte die toten wiederbeleben.
+v2;160;Und ich das er ein Monster aus Körperteilen erschaffen will!
+v1;200;Wie schrecklich!
+v2;220;Und er war so ein netter Junge...
+
+newchat;key:archives,building:archives,weigth:10
+v1;0;Hast du das neue Archiv besucht?
+v1;30;Da kannst du sehen was alle tun!
+v2;60;Oh, wirklich... und, ähh...
+v1;90;Ja, ich sah deine Tafel.
+v1;120;Du solltest dich schämen.
+
+newchat;key:bakery,building:bakery,weigth:10
+v1;0;Ich liebe den Geruch von frischem Brot aus der Bäckerei.
+v2;40;Jetzt brauchen wir nur noch jemanden der weiß wie man Croissants macht.
+
+newchat;key:church,building:church,weigth:10
+v1;0;Unsere Kirche ist wahrlich prächtig!
+v2;30;Sie zeigt das wir ein frommes Dorf sind.
+v1;60;Und sie ist größer als die im Nachbardorf!
+
+
+newchat;key:inn,building:inn,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Jetzt wo wir eine Taverne haben, können wir handeln!
+v2;40;In anderen Worten, werden vorbeiziehende Hädler sich an unseren Ressourcen bedienen.
+v1;80;Du warst schon immer Zyniker.
+
+
+newchat;key:market,building:market,v1:notvtype:merchant,v2:notvtype:merchant,weigth:10
+v1;0;Ich liebe den Markt! So viele schöne Waren!
+v2;40;Mit ihm fühlen wir uns hier nicht mehr so einsam.
+v2;80;Aber auch nicht reicher...
+
+
+newchat;key:tavern,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Die Taverne ist wirklich das beste was wir im Dorf gebaut haben.
+v2;40;Niemand hier wird das bezweifeln!
+
+newchat;key:fort,building:tavern,v1:adult,v2:adult,weigth:10
+v1;0;Hahaha! Wir sind unaufhaltsam. Unsere beeindruckenden Schiffe und unsere ehrenhaften Ritter sind die Geißel der Welt!
+v2;40;Und wer sind unsere Feinde? Ein Haufen römischer Betrüger und Maya Steinliebhaber?
+v1;80;Vergiss diese Schneeidioten nicht, die nichteimal wissen was Geld ist!
+v2;120;Hahaha! Das Normannische Leben ist das beste der Welt! Wundervoller Cidre, die besten Werkzeuge. Ah, dies ist unser goldenes Zeitalter.
+v1;160;Und wir teilen es!
+v2;200;Hahaha!

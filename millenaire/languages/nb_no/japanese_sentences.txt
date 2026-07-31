@@ -1,0 +1,55 @@
+villager.greeting=Hvordan har du det?
+villager.greeting=Hyggelig å treffe deg.
+villager.greeting=Hva er nytt?
+villager.greeting=God dag, $name-san!
+villager.greeting=Hvordan har du det, $name-san?
+villager.greeting=Hei.
+villager.greeting=Velkommen.
+
+villager.gorest=Å, det er nok leggetid.
+villager.gorest=Jeg trenger en hvil.
+villager.gorest=Jeg er for sliten.
+
+villager.gopray=Kami, beskytt oss fra det onde.
+villager.gopray=Jeg skal be til gudinnen Uga-no-Mitama for avlinger i overflod.
+
+villager.bringbackresourceshome=Arbeid, arbeid, arbeid...
+villager.choptrees=Jeg skal kutte ned noen trær.
+villager.gathergoods=Jeg trenger forsyninger.
+villager.plantsaplings=Jeg skal plante disse ungtrærne.
+
+villager.slaughterchicken=Du vil bli et fint måltid for noen.
+
+villager.gethouseresources=Jeg må hente noe hjemmefra.
+villager.getgoodshousehold=Dette er ting jeg trenger i hjemmet.
+villager.delivergoodshousehold=Jeg skaffet oss mat fra markedet.
+
+villager.getresourcesforbuild=Jeg trenger flere byggematerialer.
+villager.constructionstepbystep=Faren min lærte meg hvordan man bygger.
+villager.constructionstepbystep=Jeg håper at kami liker bygningen min.
+
+villager.goplay=Jeg vil leke.
+villager.becomeadult=På tide å vokse opp.
+male.becomeadult=Jeg vil bli en kriger.
+female.becomeadult=Jeg vil bli mor en dag.
+villager.gopray.chosen=Ro sinnet ditt.
+
+villager.calltoarms=De vil angre på dagen de angrep oss!
+villager.calltoarms=Grip våpnene deres!
+villager.calltoarms=Beskytt landsbyen!
+
+villager.maketools=Jeg har skapt de fineste verktøyene i flere år.
+villager.makeweapons=Min læremester lærte bort hemmelighetene til de fineste våpnene til meg.
+villager.construction=Faren min lærte meg byggekunsten.
+villager.construction=Måtte kami se i nåde til arbeidet mitt.
+villager.sellercoming=Jeg kommer med en gang!
+villager.tradecomplete=Mange takk, kom gjerne igjen.
+villager.childobserveagriculture=Mor sier at å dyrke ris er viktig, men det virker så kjedelig på meg...
+villager.childobserveconstruction=Kanskje når jeg blir stor skal jeg bygge pagoder. Av gull!
+villager.childobservesmithing=Våre våpen og rustninger ser kuleste ut!
+villager.childobserveproducefood=Hvorfor må alt her være laget av ris? Jeg er lei av ris!
+villager.childobserveproducealcohol=Jeg ble syk forrige gang jeg prøvde sake.
+villager.childeatapple=Denne verden er magisk! Epler vokser på alle trær!
+villager.delivergoodshousehold=Jeg har hentet matvarer fra butikken.
+villager.getgoodshousehold=Jeg trenger disse tingene hjemme.
+

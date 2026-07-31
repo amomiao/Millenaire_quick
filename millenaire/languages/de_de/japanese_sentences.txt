@@ -1,0 +1,65 @@
+female.becomeadult=Eines Tages will ich Mutter werden.
+
+male.becomeadult=Ich möchte mal ein Samurai werden.
+
+villager.becomeadult=Zeit, erwachsen zu werden!
+
+villager.bringbackresourceshome=Schaffe, schaffe...
+
+villager.choptrees=Ich werde ein paar Bäume fällen.
+
+villager.constructionstepbystep=Mein Vater lehrte mich wie man baut.
+villager.constructionstepbystep=Ich hoffe, die Kami mögen mein Gebäude.
+
+villager.delivergoodshousehold=Ich habe Lebensmittel vom Markt.
+
+villager.gathergoods=Ich brauche ein paar Rohstoffe.
+
+villager.getgoodshousehold=Dies sind Sachen, die ich zuhause brauche.
+
+villager.gethouseresources=Ich muss etwas aus meinem Haus holen.
+
+villager.getresourcesforbuild=Ich brauche mehr Baumaterialien.
+
+villager.goplay=Ich will was spielen.
+
+villager.childobserveagriculture=Meine Mutter sagt Reis anbauen sei wichtig. Aber es sieht so langweilig aus...
+villager.childobserveconstruction=Vielleicht baue ich Pagoden wenn ich größer bin. Nur aus Gold!
+villager.childobservesmithing=Unsere Waffen und Rüstungen sehen am besten aus!
+villager.childobserveproducefood=Warum muss hier alles aus Reis gemacht werden? Ich habe genug vom Reis!
+villager.childobserveproducealcohol=Mir war schlecht als ich das letzte mal Sake probierte.
+
+villager.childeatapple=Diese Welt ist magisch! An jedem Baum wachsen Äpfel!
+
+villager.maketools=Ich mache seit vielen Jahren das beste Werkzeug.
+
+villager.makeweapons=Mein Meister hat mir die Geheimnisse der besten Waffen weitergegeben.
+
+villager.plantsaplings=Ich werde diese Setzlinge pflanzen.
+
+villager.slaughterchicken=Dein Tod wird nicht umsonst sein, Huhn!
+
+villager.calltoarms=Sie werden den Tag verfluchen an dem sie uns angegriffen haben!
+villager.calltoarms=Zu den Waffen!
+villager.calltoarms=Verteidigt das Dorf!
+
+villager.gopray=Ich werde beten, dass dir unsere Vorfahren eine reiche Ernte bescheren.
+villager.gopray=Die Geister beschützen uns.
+villager.gopray.chosen=Beruhige deinen Geist.
+
+villager.gorest=Ah, jetzt ist Schlafenszeit.
+villager.gorest=Ich brauche Schlaf.
+villager.gorest=Ich bin zu müde zum Weitermachen.
+
+villager.greeting=Wie steht's?
+villager.greeting=Schön dich zu treffen.
+villager.greeting=Was gibt's Neues?
+villager.greeting=Hallo, $name-san!
+villager.greeting=Wie geht es dir, $name-san?
+villager.greeting=Hey.
+villager.greeting=Sei gegrüßt, Reisender.
+villager.construction=Mein Vater hat mich die Kunst des Bauens gelehrt.
+villager.construction=Mögen die kami mein Werk gnädig annehmen.
+villager.sellercoming=Ich komme sofort!
+villager.tradecomplete=Vielen Dank, kommt bitte wieder.
+

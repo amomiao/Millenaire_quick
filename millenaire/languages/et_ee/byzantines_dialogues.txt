@@ -1,0 +1,477 @@
+newchat;key:Inuit,v1:adult,v2:adult,weigth:10
+v1;0;Veidi varem rääkisin bütsantsi kaupmehega ja ta jutustas mulle lumistes maades asuvatest küladest.
+v2;30;Külad lumes?
+v1;60;Jah, neid kutsutakse "inuititeks".
+v2;90;Inuitid? Milline veider nimi, millised nad olid?
+v1;120;Kaupmees ütles, et nad ei usu rahasse.
+v2;150;Ei usu rahasse?! Kuidas nad elavad?
+v1;180;Nad lihtsalt jagasid kõike võrdselt. See tegi nendega kauplemise väga raskeks.
+v2;210;Vaene kaupmees. Vähemalt on ta tagasi Rooma keisririigis, kaugel neist barbaritest.
+v1;240;Nõustun! Rooma keisririik on parim maa kauplemiseks!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, mu õde, olen alati tahtnud teada, miks sa selle tõpraga abiellusid.
+v2;30;Sest ma armastan teda!
+v1;60;Ja nüüd on su nimi $targetlastname. $targetlastname! Kõlab nii halvasti!
+v2;90;Kuule! Ära ole nii õel! Sina alustasid tüli.
+v2;110;Sa olid joobnud!
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;Vend $targetfirstname, on tore sind näha!
+v1;30;Leidsin just üles meie vana puumõõga!
+v1;50;Mäletad?
+v2;80;Oot! Kas see on see mõõk, mille isa meile andis?
+v1;110;Just! Mäletad meie võitlusi sellega?
+v2;140;Kuidas saaks ma unustada! Mul on veel mõned armid.
+v2;170;Mõeldes sellele rohkem...
+v2;200;Oli isa poolt julm anda meile ainult üks mõõk!
+v2;240;Ta teadis, et me selle pärast kakleme!
+v1;270;Vist on kõik korras!
+v2;300;Sest sina hoidsid selle alles!
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Kas oled juba kuulnud metsalanger'i saladusest?
+v2;30;Ei, mis temaga lahti on?
+v1;60;Tundub, et ta korjab õunu ja müüb need normannidele!
+v2;90;Ei või olla! Ja raha jätab endale?
+v1;120;Muidugi!
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;Kas oled kuulnud sellest parunist naaberkülas?
+v2;30;Jah, kas see on see, kelle naine mõrvatuna leiti?
+v1;60;Just! Mu mees ütles mulle, et parun ise tappis oma naise!
+v2;100;Mida..?
+v2;130;Teadsin alati, et ta seda teeb!
+v2;150;Aga keegi ei uskunud mind..!
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;Kas oled kunagi mõelnud, kuidas oleks, kui meil oleks sõda?
+v1;30;Praegugi võitlevad mehed meie maa eest!
+v1;55;Imetlen neid tõesti!
+v2;80;Sõda oleks kohutav.
+v2;110;Sulle ilmselt lihtsalt meeldivad sõdurid.
+v2;140;Aga sul on ju mees!
+v1;170;Aga laisk ja sageli joobnud mees!
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Mu mees ütles, et parun külastab meie küla varsti!
+v2;30;Miks ta siia tuleks?
+v2;40;Selline võimas, tugev ja kena mees...
+v1;70;Mida? Sulle meeldivad sellised?
+v2;100;Pead tunnistama, et nad on köitvad!
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Naaberkülas on kerglane naine!
+v1;20;Räägitakse, et isegi meie küla mehed on seal käinud!
+v2;60;Hirmus uudis! Pean oma meest üle kuulama!
+v1;90;Minu mees näib süüta. Sinu omas pole ma kindel, mu kallis!
+v2;120;Loodan, et tema ka. Tal oleks parem.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;Mulle meeldib näha mängivaid lapsi!
+v1;20;See teeb mind alati last tahtvaks!
+v2;50;Kas oled kindel, et saad seda endale lubada?
+v2;70;Lapsed on kallid!
+v1;100;Pole muret! Mu mehel on raha enam kui küllalt.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Mu kallis, su mees on joodik!
+v2;15;Kuidas sa nii võid öelda?
+v1;45;Su mees tuli eile õhtul purjuspäi meie majja!
+v1;70;Ta ütles, et tahab abielluda lambaga.
+v1;100;Ja et toimuks tohutu pulmapidu!
+v1;130;Palun, võta oma mees ohjadesse.
+v1;150;See on tõesti jube.
+v2;180;Hea küll, hea küll, ma karistan teda!
+v2;210;Talle ei tule veini!
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Su leib on nii maitsev! Mis on su saladus?
+v2;30;Lihtsalt veidi suhkrut sisse.
+v1;60;Tõesti? Ja midagi rohkem?
+v2;90;Just! Tunned vahet.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Kes oli see mees, kes sind eile õhtul külastas?
+v2;30;Milline mees?
+v1;40;Mees, kes su aknast välja ronis!
+v1;45;Ära arva, et ma poleks märganud!
+v2;60;Kuidas sa julged..? Ma olen ja olen alati oma mehele truu olnud.
+v1;80;Jaa, jaa. Ka mina ütleksin nii, kui oleksin sinu asemel.
+v2;110;See pole õiglane! Ära levita minu kohta kuulujutte.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Need uued köögitarbed on suurepärased!
+v2;30;Jah, toiduvalmistamine on nii lihtne! Tore!
+v1;60;Tänu seppadele ja käsitöölistele, kes selliseid asju välja mõtlesid!
+v2;90;Jah! Sellepärast meeldibki mulle roomlane olla.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Ma kadestan neid rikkaid inimesi.
+v1;20;Neil on nii kenad siidist rõivad!
+v2;50;See pole tõesti õiglane. Nad ei tee midagi ja saavad ikkagi parimad asjad.
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Kui ma noor olin, tahtsin saada uurijaks, avastada uusi maid ja kohtuda huvitavate uute inimestega. Aga nüüd? Olen kinni selles kauges väikeses külas. Tahan minna ja uusi paiku külastada.
+v2;30;Teises külas pole sa palju erinevust leida. Me oleme kõik üsna ühesugused.
+v1;60;Ma ei räägi küladest. Räägin alevikest või isegi linnast!
+v2;90;LINNAST? Sa pead silmas Konstantinoopolit?
+v1;120;Jah! Meie kuulsusrikka keisririigi keskus. See on maailmaime.
+v1;150;Räägitakse, et seal elab üle 500 000 inimese, kujuta ette?!
+v2;180;Mulle tundub võimatu. 500 000 inimest ühes paigas? Une nägu!
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;Kas oled näinud mu uusi rõivaid?
+v2;30;Sa oled tõeline kaunitar, mu kallis. Kõik sobib sulle!
+v1;60;Aga ma pole nii ilus kui sina!
+v2;90;Ohh, see pole tõsi, $targetfirstname!
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;Kas oled näinud mu uusi rõivaid?
+v2;30;Sa oled kaunitar. Kõik sobib sulle, mu kallis $targetfirstname!
+v1;60;Aga ma pole nii ilus kui sina!
+v2;90;Tõsi.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Kas oled näinud mu uusi rõivaid, $targetfirstname?
+v2;30;Mulle tundub, et vanad rõivad sobisid sulle palju paremini.
+v1;60;MIDA?
+v2;70;Ei.. Ei! Sa oled kaunis! Mulle meeldivad need uued... asjad!
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Niisiis, kas mu uus kleit meeldib?
+v2;30;Vana sobis sulle paremini.
+v1;60;MIDA?
+v2;70;Hei $targetfirstname, see on ainult mu arvamus.
+v1;90;Vähemalt oled aus!
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Mõtlen, mis sai Konstantinoopolist?
+v2;30;Arvan, et see tuli koos meiega siia uude maale.
+v1;60;Miks sa nii arvad?
+v2;90;Elasin selle suure linna lähedal ja mind toodi siia.
+v1;120;Tõsi, aga seal elab nii palju inimesi. Oleksime sellest juba kuulnud.
+v2;150;See võib olla väga kaugel.
+v1;180;Jah, kuid Konstantinoopoli au ja hiilgus on nii suur, et isegi Hiinas on sellest kuuldud.
+v2;210;Ära ütle, et sa usud neisse lugudesse Hiinast?
+v1;240;Arvan, et neis on natuke tõtt.
+v2;270;Aga Hiina kohta on nii palju saladusi, ei saa eeldada, kas neis on tõtt.
+v1;300;Konstantinoopoli kohta on nii palju saladusi, kas see on siin, et ei saa ka seda eeldada.
+v2;330;Noh, jah, aga isegi kui Konstantinoopoli pole siin, peame Rooma keisririiki kasvatama ja kaitsma.
+v1;360;Selles küsimuses olen sinuga nõus!
+v2;390;Püsigu Rooma igavesti!
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Kas saaksid mulle selle uue nuku osta? Kõigil on uus, ainult mul mitte...
+v1;30;Mis on võlusõna?
+v2;60;Kas saaksid PALUN osta mulle uue nuku?
+v1;90;Hea küll, aga sa pead lubama, et enam vastu ei räägi!
+v2;120;Luban!
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Kuule, kaunitar, kas sulle meeldib see, mida näed?
+v2;20;*laks*
+v2;25;Sul on naine.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hei, sa näed täna väga kena välja, $targetfirstname!
+v2;30;Tänan!
+v1;60;Nagu alati, mu kallis!
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hei $targetfirstname, kas sinu taoline kaunitar tahab minu taolist kena meest?
+v2;40;Sa oled abielus, ja mina ka.
+v2;60;Vist ei ole sa truu! Räägin su naisele!
+v1;75;EI — ära seda tee-
+v1;85;Olen tema kuri kaksikvend!
+v2;120;Muidugi oled! Sama kuri kaksik, kes on alati joobnud!
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Kuidas käib su naiste-asjadega?
+v2;30;Hästi, hästi, ainult tunnen end veidi halvasti...
+v1;60;Oh ei, mis juhtus?
+v2;90;Mu mees karjus mu peale.
+v1;120;Kuidas ta sellise kaunitari peale niimoodi võib?
+v2;150;Tänan tujutõstmise eest, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*ohh*
+v1;30;Kas sul on kõik korras, $targetfirstname?
+v2;50;Jah, see on lihtsalt raske töö!
+v1;70;Kas tohin sind aidata? Kas siis tunneksid end paremini?
+v2;90;Muidugi! Tänan!
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Kuidas läheb?
+v2;30;Kõik on hästi, ja sul?
+v1;60;Samuti! Tänan küsimast.
+v1;75;Aga ma näen, et midagi vaevab sind!
+v2;90;See on — ei midagi.
+v1;110;Palun räägi mulle!
+v2;130;See on lihtsalt see, et mu elu siin on nii igav.
+v2;160;Kahetsen, et ei otsustanud noorena linna minna!
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Mida peaksin tegema, kui mulle tüdruk meeldib?
+v1;30;Tee talle komplimente ja ole tema vastu kena.
+v2;60;Ei! See on võimatu! Mida teised siis minust arvavad?
+v1;90;Kui sa teda tõesti armastaksid, ei hooliks sa teistest.
+
+newchat;key:harvest,weigth:10
+v1;0;Nisu kasvab sel aastal väga hästi, nagu ka viinamarjad. Suurepärane, eks?
+v2;30;Jah, paistab nii: peame tänama siinse kummalise ilma.
+v1;60;Isegi kui see mulle mõistuslik ei tundu!
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;On aeg sulle õpetada, kuidas kodu eest hoolitseda.
+v2;30;Tore, millest alustame? Kas tohin teha souvlakit? Palun!
+v1;60;Vaatame esmalt, kui hästi sa koristad.
+v2;90;Hea küll, aga sa näitad mulle hiljem, kuidas souvlakit teha, lubatud?
+v1;120;Lubatud.
+
+newchat;key:ishome,weigth:6
+v1;0;On alati rõõm näha meie kena väikest küla, kas pole?
+v2;30;Muidugi on! Oleme siin nii palju tööd teinud.
+v1;60;See on peaaegu nagu kodu, nagu enne meie siiatulekut.
+v2;90;See on nüüd meie kodu, peame sellega leppima.
+v1;120;Tõesti on, see vestlus pani mind seda mõistma.
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Mu isa on tugevam kui sinu oma.
+v2;30;Ei! Mu isa on külas kõige tugevam!
+v1;60;Ei ole! Mu isa on keisririigis kõige tugevam!
+v2;90;Võimatu! Mu isa on maailmas kõige tugevam!
+v1;120;Vean kihla, et mu isa lööb sinu oma alla kahe löögiga!
+v2;150;Valmista oma isa võitluseks ette!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Tüdrukud on rumalad.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Kas oled näinud kuskil mu nukku? Ma ei leia seda...
+v2;30;Anna mu mõõk tagasi ja saad selle tagasi!
+v1;60;Sa varastasid selle! Varas!
+
+newchat;key:kidsBos,v1:child,v2:child,weigth:5
+v1;0;Bääh… Bääh… Ma olen Boskokrator, lambakarjuste kuningas!
+v2;30;Lõpeta ära! Sa kutsud ta sellega välja!
+v1;60;Oh Boskokrator, ehitan sulle püha paiga…
+v2;90;Jää vait! Kas sa ei tea, mis legendis juhtub?
+v1;120;$targetfirstname, sa nutuvenn! See on ju ainult — legend!
+
+newchat;key:lightning,weigth:7
+v1;0;Kas mäletad seda äikest, mis meil oli? Pean silmas seda väga tugevat!
+v2;30;Muidugi. Peaaegu hävitas meie saagi. Loodus on üsna muljetavaldav, ah?
+v1;60;Muljetavaldav on üks asi. Aga mind oleks peaaegu välk löönud!
+v2;100;Kas sa polnud kodus? Tead ju, et tormi ajal on väljas ohtlik!
+v1;120;Ela ja õpi.
+
+newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
+v1;0;Ma ei tunne end hästi...
+v2;30;Mis sul viga on? Kas oled haige?
+v1;60;Ei, m-m-ma meenutasin lihtsalt ühte asj-asja.
+v2;100;Sul on tõesti halb hääl. Kas oled kindel, et pole haige?
+v1;120;Ei, ma l-lihtsalt kardan.
+v2;150;Mis siis juhtus?
+v1;180;V-viimase äikese ajal. Kõndisin küla taga, teadsin, et ei jõua enne tormi tagasi. Niisiis varjasin end ühe puu all.
+v2;210;Sa riskisid oma elu väljaspool küla! Sa oleksid võinud surra!
+v1;240;Noh, ma olin ohutu. Aga siis nägin siga. Välk lõi teda. Ja surnud s-siga... ta tõusis üles ja liikus nagu m-meie, ajades mind taga särava m-mõõgaga!
+v2;290;Sa räägid jama. See pidi olema õudusunenägu.
+v1;320;See oli tõsi! Tõsi! Tõsi! Tõsi!
+v2;350;Sa oled hull. Mine joo veini ja rahune maha.
+v1;380;M-ma teen seda. Eh-ehk see aitab.
+
+newchat;key:loneVillage,weigth:10
+v1;0;Igav. Siin on alati kõik samasugune.
+v2;30;Vähemalt on rahulik.
+v1;60;Midagi erilist sellisele kaugele külale nagu meie oma!
+
+newchat;key:nicevillage,weigth:10
+v1;0;On alati meeldiv näha meie võluvat väikest küla, kas pole?
+v2;30;Muidugi, see on meie pingutuste vili!
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;Kas oled lähedalasuvast normanni külast kuulnud?
+v2;30;See pole hea, mäletan, et nad ründasid pidevalt Lõuna-Itaaliat, enne kui me siia tulime.
+v1;60;Loodame, et nad meid ei rünna.
+v2;90;Ka mina loodan.
+
+newchat;key:nothomeyet,weigth:6
+v1;0;On alati rõõm näha meie kena väikest küla, kas pole?
+v2;30;Muidugi on! Oleme siin nii palju tööd teinud.
+v1;60;See on peaaegu nagu kodu, nagu enne meie siiatulekut.
+v2;90;See on nüüd meie kodu, peame sellega leppima.
+v1;120;Ma tean, ma lepin sellega aja jooksul...
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Meie hooned on nii ilusad, et on alati rõõm meie tööd näha!
+v2;30;Need maia inimesed ehitavad ka väga kenasid hooneid.
+v1;60;Ära tüüta mind selliste imelikkudega. Meie hooned näevad palju paremad välja!
+v2;90;Noh...
+v1;100;Reetur! Sul pole rahvuslikku uhkust?
+
+newchat;key:pride2,weigth:10
+v1;0;Meie, roomlased, võime tõesti uhked olla selle üle, mis oleme saavutanud!
+v2;30;Muidugi! Kõik, mida sa näed, on meie tehtud!
+v1;60;Kõige võimsam keisririik maailma ajaloos!
+v2;90;Teised rahvad nautigu meie hiilgust.
+v1;120;Nad peavad! Meie valitseme!
+
+newchat;key:pride3,weigth:10
+v1;0;Rooma impeerium hakkab taas maailma valitsema!
+v2;30;Hakkamegi!
+v1;60;Siis läheb kõik paremaks!
+v2;90;Jaa!
+v1;100;Elagu impeerium!
+v2;110;Terviseks!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Varsti hakkab vihma sadama.
+v2;30;Mina tunnen seda ka.
+v1;60;Imelik. Vihmani jääb alati sama palju päevi.
+v2;100;Kas sina arvad ka nii?
+v2;125;Imelik elu siin, eks ole?
+v1;155;Kindlasti!
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;Kas oled seldžukidest midagi kuulnud, sellest ajast kui me siia jõudsime?
+v2;30;Ei ole. Kas sa arvad, et nad tulid koos meiega siia maale?
+v1;60;Ma kahtlen selles. Oleme juba kuulnud rahvastest, kelle olemasolustki me ei teadnud.
+v2;90;Vist tulebki meil siin uusi vaenlasi leida.
+v1;120;Meil on veel ka normannidega tegemist.
+v2;150;Aga me oleme ju roomlased! Selliste rüüstajatega saame me kergesti hakkama. Rooma poole!
+v1;165;Rooma poole!
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Kas mäletad seda kaarikujuhti, keda me lapsepõlves nii väga armastasime?
+v2;30;Loomulikult, õeke. Me olime ta suurimad fännid!
+v1;60;Mõtlen, mis temast küll on saanud.
+v1;90;Temast pole enam midagi kuulda...
+v2;120;Küllap on ta meiesuguses külas paigale jäänud, naise võtnud ja lapsed saanud.
+v1;150;Igatahes loodan ma teda kunagi veel kohata!
+v2;180;Mina ka!
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;Loodan, et meil ei tule niipea välja minna ja barbaritega võidelda.
+v2;30;Mida? Me oleme sõdurid, meie töö on välja minna ja barbareid tappa. Miks sa üldse sõjaväkke astusid, kui sulle võitlemine ei meeldi?
+v1;60;Ma arvasin, et sõduri elu on lihtsam: lihtsalt seisad ringi, tapad mõne koletise ja aeg-ajalt mõne barbari. Aga nüüd, kui ma barbari tapan, vaatan ta nägu ja mõtlen: "Võib-olla ei peaks me neid inimesi tapma."
+v2;120;Sa mõtled liiga palju! Mine välja ja tapa Rooma eest barbareid. Nad tapaksid meid ja hävitaksid meie kodud! Nad on lihtsalt tsiviliseerimata metslased.
+v1;150;Kas oled neid inimesi kohanud, kelle tapmist sa jutlustad? Ei ole. Võib-olla on nad hoopis teistsugused, kui meile räägitud on.
+v2;180;Tõsi, nad võivad olla veel hullemad.
+v1;210;Ma ei usu, et sa mõistad neid mõtteid ja seda piina, mida ma tunnen.
+v2;240;Mina olen sõdur, mitte filosoof. Sa peaksid jumalat palvetama, et juhatust saada — sul on seda selgelt tarvis.
+v1;270;Olen seda juba teinud ja jumal ei öelnud mulle midagi enamat. Pärast palvetamist jõudsin samale järeldusele kui praegu.
+v2;300;Mida? Sa oled selgelt jumala maha jätnud, kui ta sulle tõtt ei räägi! Mine palveta seni, kuni saad jälle barbareid tappa!
+v1;330;Võib-olla ongi see järeldus, milleni jumal mind juhtida tahab!
+v2;360;Pigem tundub, et jumal tahab, et sa pensionile läheksid...
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Aah... Souvlaki — ainus tõeline toit!
+v2;30;Püha Maarja, kaitse meid...
+v1;60;Püha kolmainsus, anna meile jõudu!
+v2;100;Aamen.
+v1;130;Aamen...
+v2;190;Nii, kuhu ma selle soola panin?
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;Mulle meeldivad päiksepaistelised päevad!
+v2;30;Kellele ei meeldiks?
+
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;Mulle meeldivad päiksepaistelised päevad!
+v2;30;Kellele ei meeldiks?
+v1;60;Mulle ei meeldi.
+v2;120;Miks ei meeldi?
+v1;150;Päike kõrvetab! Ma vihkan õues olemist!
+v2;180;Sa käitud nagu zombi!
+v1;210;Võib-olla ma olengi...
+
+
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Selles külas ei ole piisavalt veini!
+v2;30;Olen nõus! Me peame rohkem viinamarjaaedu rajama!
+v1;60;Ja rohkem kõrtse!
+v2;90;Ehk avame oma kõrtsi?
+v1;120;Suurepärane mõte! Hakkame seda kavandama.
+v2;150;Aga kust me alustame?
+v1;180;Ja meie naised ei rõõmustaks seda kuuldes!
+v2;210;Ei, Rooma veini müümine on alati hea vabandus!
+v1;240;Olgu! Siis hakkame raha säästma.
+v1;270;Kui oleme küllalt teeninud, viime oma plaani ellu!
+v2;300;Meil saab olema kogu impeeriumi suurim kõrts!
+v1;325;Kindlasti!
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Suurepärane toit, suurepärased relvad, suurepärane kunst — selline ongi meie rahvas!
+v2;30;Ja suurepärane vein!
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Olen oma naisest tüdinud. Tahan uut!
+v2;30;Kellele ei meeldiks?
+v1;60;Võib-olla peaksime külast lihtsalt minema ja uusi otsima!
+v2;90;Jah! Maiadel ja indialastel on nii ilusad naised, kas oled näinud?
+v2;140;Aga... ilma meieta läheb see küla hukka.
+v2;160;Ja ära unusta meie lapsi!
+v1;180;Oh! Meie lapsed! Nad ei jää ellu, kui isa ei ole!
+v1;220;Aga... kas see tähendab, et peame siin oma igavat elu edasi elama?
+v2;255;Vist on see kõige parem tee.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;On päris uskumatu, kui peensusteni viimistletud sinu ikoonid on.
+v2;30;Loomulikult, see ongi suurepärane Rooma kunst!
+v1;60;Nagu kõik, mida me teeme. Vaata meie ilusaid maju!
+v2;90;Ja ära unusta meie hiilgavat ajalugu!
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Kas mäletad seda tüdrukut, kelle pärast me lapsepõlves kaklesime?
+v2;30;Mäletan jah... See oli väga halb aeg. Hea, et see on möödas.
+v1;60;Hea kuulda, sest ta just rääkis mulle, et talle olen alati meeldinud mina!
+v2;90;Mida? See ei saa olla tõsi!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Vaata seda siga! Kas pole armas?
+v2;30;Aaaaaa, mine ära!
+v1;60;Kas sa kardad sigu?
+v2;80;E-ei karda!
+v1;110;Hahahahahaa! Naljakas küll!
+
+newchat;key:weird2,weigth:1
+v2;0;Aaah... Hea souvlaki. Tahad ampsu?
+v1;30;*ampsab*
+v1;40;Aitäh! Mulle meeldib souvlaki.
+v2;70;Kellele ei meeldiks!
+v1;100;Kas oled kunagi proovinud souvlakile mulda peale panna?
+v2;140;...
+v2;150;Ei?
+v1;170;Mõnikord teen ma seda... Aaa... See sai alguse möödunud aastal, kui mu souvlaki maha kukkus... Maitsev!
+v2;220;Oot! Sa paned souvlaki mulda ja siis sööd ära? Mis pagana värk see on?
+v1;260;Aga maitseb hästi!
+v2;280;Sa oled tõesti hull.
+
+newchat;key:weird3,weigth:1
+v1;0;Tahan seaga ratsutada!
+v2;30;Miks?
+v1;60;See on lõbus!
+v2;80;Mille pagana pärast sa seaga ratsutada tahad?
+v1;110;Sest see on lõbus!
+v2;120;Sa oled hull.
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Ära joo veini üksi!
+v2;30;Koos joomine on lõbusam!
+v1;50;Veini terviseks!
+v2;70;Terviseks!
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Ai...
+v1;30;Sa näed kohutav välja! Mis juhtus?
+v2;60;Noh, kõigil teistel on puumõõk, ainult mul mitte.
+v2;80;Niisiis otsustasid nad mu kallale tulla!
+v2;100;Sa pead mulle ka ühe muretsema!
+v1;120;Ma näen, et oled oma armid ja haavad värviga peale tõmmanud. Kena katse!
+v2;150;Igatahes! Palun anna mulle mõõk!
+v1;180;Mõõgad on ohtlikud. Sina mõõka ei saa!
+
+

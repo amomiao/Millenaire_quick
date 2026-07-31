@@ -1,0 +1,106 @@
+newchat;key:badflirt,v1:adult,v2:child,v1:male,v2:female,weigth:11
+v1;0;Na, szépségem, mit csinálsz ma este?
+v2;40;$targetfirstname, már mondtam, máshoz vagyok ígérve!
+
+newchat;key:beautiful,weigth:10
+v1;0;Hol vagyunk? Sehol nem jártam még ilyen helyen. Ugyanolyannak látszik, mégis más a hangulata.
+v2;30;A sámánok azt mondják, a segítő szellemek áldott földjén vagyunk, ezért olyan csodálatos itt!
+
+newchat;key:carribou,weigth:10
+v1;0;Hol vannak a karibuk? Hiányzik a karibuhús.
+v2;30;Sok vadászaton voltunk, de egy karibut sem találtunk.
+v2;60;Viszont rengeteg olyat találtunk, ami bölényre hasonlít!
+v1;60;Pfuj, utálom a bölényt, a karibu sokkal jobb.
+v2;90;Akkor egyél halat, abból van bőven.
+
+newchat;key:countingcows,v1:child,v2:adult,weigth:10
+v1;0;Itt nemigen lehet mit csinálni.
+v2;30;Jó ez így, békés.
+v1;60;És unalmas…
+v2;75;Áshatnál egy lyukat, vagy építhetnél egy hóiglut!
+v1;110;A saját hóiglumat?!
+
+newchat;key:endermen,weigth:10
+v1;0;Hallottad, mit mond a vén azokról a magas, sovány, ijesztő emberekről?
+v2;30;Hogy ők az Árny-emberek? Nem tudom…
+v1;60;Pedig van értelme! Ha tényleg áldott földön vagyunk, ők is így torzulnának!
+v2;90;De ha áldott földön vagyunk, akkor egyáltalán miért vannak itt az Árny-emberek?
+v2;120;Ó… hát… nem tudom…
+
+newchat;key:foodpreparer,building:foodpreparer,weigth:10
+v1;0;Imádom a sülő hús illatát a konyháról.
+v2;30;Nem tudom, én általában nyersen szeretem a húst, az más ízű.
+v1;60;Hé, nekem éppen az átalakult íz tetszik!
+
+newchat;key:hunting,weigth:10
+v1;0;Megint fejlődtek a képességeim.
+v2;30;Hamarosan nagy vadász válik belőled!
+v1;90;Tényleg így gondolod?
+
+newchat;key:japanese,v1:adult,v2:adult,weigth:5
+v1;0;Ezek a japánok aztán igazán tudják, hogyan kell előkészíteni a halat!
+v2;30;„Előkészíteni” a halat? Úgy érted, megfőzik, igaz?
+v1;60;Nem, úgy értem, sokféle kidolgozott módszerrel és ízzel tálalják az ételeiket.
+v2;90;Az étel másmilyen ízű is lehet anélkül, hogy megromlott volna?
+v1;120;Igen, gyere el velem legközelebb, amikor meglátogatom őket!
+
+newchat;key:kids1,v1:child,v2:child,weigth:10
+v1;0;Az én apukám sokkal erősebb, mint a tied.
+v2;30;Az én apukám a legerősebb a faluban, te tökfej!
+v1;60;Álmodozz csak. Az én apukám két perc alatt elveri a tiédet.
+
+newchat;key:kys,weigth:10
+v1;0;Mikor megy el a vén meghalni?
+v2;30;Szerintem itt erre nincs is szükség, ez az új világ sokkal befogadóbb!
+v1;60;Gondolom… de furcsa még mindig életben látni.
+
+newchat;key:likingrain,tag:raining,v1:adult,v2:adult,weigth:10
+v1;0;Szeretem a havat.
+v2;42;Egy inuitnak ez jó dolog!
+
+newchat;key:meat,weigth:10
+v1;0;Azt hiszem, fogytán a húskészletünk, utálom, amikor kifogyunk belőle.
+v1;30;A hús egyszerűen nem ugyanaz, mint a pörkölt…
+v2;60;De a legtöbb pörköltben hús van, nem?
+v1;90;Igen, de mégsem ugyanaz…
+
+newchat;key:mikiruk,v1:adult,v2:adult,weigth:8
+v1;0;Pfuj, nézd, milyen kicsik és gyengék itt a bölények.
+v2;42;Az idegen kereskedő „teheneknek…?” nevezi őket.
+
+newchat;key:murderer,weigth:10
+v1;0;Hallottad, mi történt vele a baleset után?
+v2;30;Baleset ide vagy oda, embert ölni rossz dolog.
+v1;60;Igen, de tényleg ki kellett zárnunk a faluból? Úgy hallom, magában megőrült.
+v2;90;Muszáj volt! Itt legalább nem hideg van, és nem fagy halálra odakint.
+v1;120;Ez jobb? Most arra kényszerül, hogy egyedül éljen!
+
+newchat;key:normans,weigth:5
+v1;0;Találkoztam pár furcsa emberrel, normannoknak hívják magukat?
+v2;30;Igen, a normannok rendben vannak, de sokra van szükségük.
+v1;60;Hogy érted?
+v2;90;Az egyikük arra járt a minap, és kiürítettem érte a házamat, mégis úgy tűnt, hogy egyre csak kellene neki több.
+v1;120;Szegény ember.
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Havazik?
+v2;30;Hónak látszik, de nem tűnik hidegnek.
+
+newchat;key:seasons,weigth:10
+v1;0;Szerinted jó lesz idén a vadászat?
+v2;30;Ki tudja, ezzel az idővel.
+v1;60;Itt nincs értelme az évszakoknak.
+
+newchat;key:shamans,v1:child,v2:adult,weigth:5
+v1;0;Irigylem a sámánokat, bárcsak én is tudnék beszélni a szellemekkel, mint ők.
+v2;30;Megnézhetnéd, vajon a sámán megtanítana-e rá.
+v1;60;Talán… de néhány szellem ijesztő.
+v2;70;Igaz, mindig lesznek ijesztő szellemek, akikre vigyázni kell.
+
+newchat;key:sunset,weigth:10
+v1;0;Fáradt vagyok, ez a nap nem akar gyorsabban telni…
+
+newchat;key:visitors,weigth:10
+v1;0; Ez a hely furcsa, tele van idegen emberekkel.
+v2;30;Olyanokkal, mint $name?
+v1;60;Hát, $name csak egy ember, én a többiekre gondolok.

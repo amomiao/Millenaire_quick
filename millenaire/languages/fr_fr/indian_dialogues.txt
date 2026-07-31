@@ -1,0 +1,146 @@
+//*  Les lignes de dialogue commence par un code du style "v2;30;"  qui précise qui parle et à quel moment le dialogue peut être lu. S'il vous plait, recopier exactement ce code dans vos traductions.
+//*  La première moitié de la ligne (avant le /) est la langue d'origine des villageois et doit donc rester tel quel, et la seconde moitié doit être traduite.
+
+
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Il fait si chaud!
+v2;30;La chaleur me rend fou.
+v1;70;Quand pleuvra-il?
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Il ne pleut pas.
+v2;30;Ne t’inquiète pas. Il va pleuvoir.
+v1;60;Tu dis la même chose chaque année...
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Il pleut ! Enfin !
+v2;40;Mais si peu de pluit ne servira à rien...
+v1;80;C’est mieux que pas de pluie du tout.
+v1;120;Mais comment nos cultures vont-elles pousser ?
+
+newchat;key:sandstone,weigth:10
+v1;0;Notre village progresse, n’est ce pas ?
+v2;40;Mais il y a encore beaucoup à faire.
+v1;80;Vraiment ?
+v2;100;Sans aucun doute !
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Va chercher un plateau d’offrandes pour les pujas.
+v2;40;J’y vais tout de suite.
+v1;80;Nous devons apaiser les Dieux.
+v1;130;C’est seulement comme ça que les pluies viendront.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;T’es tu déjà demandé quel goût à la viande de boeuf ?
+v2;60;La viande de boeuf ? Mais en manger est contre notre dharma !
+v1;120;Mais si elle est goûteuse... ?
+v2;180;Es-tu un barbare normand ?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Je veux une rasgulla. J’ai très faim !
+v2;60;Non. Tu ne dois manger que du riz.
+v1;120;Mais j’en ai déjà mangé ce midi !
+v1;180;Et hier, et avant-hier...
+v2;220;Et tu devras en manger ce soir, demain et le reste de ta vie !
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;J’ai coupé beaucoup de bois aujourd’hui.
+v2;60;Tu vas transformer notre forêt en désert !
+v1;120;Ne t'inquiètes pas, ici les arbres poussent tout seuls.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mon palais est très petit.
+v2;60;Mais Maharaja, c’est le plus grand du pays !
+v1;120;Mais il me semble petit.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Un fort puissant est la meilleure défense contre nos enemies.
+v2;60;Quels ennemies, Général ?
+v1;100;Les normans et les autres barbares.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mon mari est riche et respectable.
+v2;50;Oh oui ! C’est vrai.
+v1;110;Mais il ne m’apporte jamais rien.
+v2;160;Comment ça ? Hier il vous a apporté trois saris.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Mon mari a acheté cinquante tolas d’or aujourd’hui.
+v2;60;Cinquante tolas d’or ! Je n’en ai que dix...
+v1;120;Espérons que les étoiles te soient plus favorables.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;J’ai de la chance de pouvoir faire toutes ces statues.
+v2;50;C’est parce que tu les sculptes très bien.
+v1;100;Ca fait quinze ans que je les sculpte.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Il nous faut plus de pioches.
+v2;50;Je suis occupé, là.
+v1;100;Il nous faut des pioches aussi.
+v2;150;Uff ! J’ai tant de travail à faire !
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, je crois qu’il y a des bandits qui rodent près de notre village!
+v2;50;Ne crains rien, je le portégerait.
+v1;100;Tu es si fort !
+v1;130;Et si beau aussi !
+v1;150;Si seulement il n’y avait pas ta moustache...
+v2;200;Pas un mot sur ma moustache!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Senapati, iss saal fasal achhi nahi hai./ Seigneur, la moisson est mauvaise cette année.
+v2;40;C’est parce que tu es paresseux! Travaille plus !
+v1;80;Mais il n’a pas plu du tout...
+v2;120;Ce n’est pas ma faute. Je veux mon argent.
+v1;170;Mais je n’ai pas d’argent !
+v2;210;Alors rend moi mes champs.
+v1;260;Mais il ne me restera rien !
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Le marchand construit une nouvelle maison près de la sienne.
+v2;60;Une autre maison? Mais pourquoi lui en faut il une deuxième ?
+v1;90;La nouvelle est pour son fils.
+v1;140;Quand son fils se mariera, le père et le fils vivront côte à côte.
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Le chef du village a acheté des bracelets en or pour sa femme.
+v1;60;Mais toi, tu ne m’as jamais acheté de bijoux...
+v2;110;Tu aurais dû épouser un homme riche.
+v1;160;Mais alors j’aurais dû payer une plus grosse dot.
+v2;200;Alors tu devrais être heureuse d’avoir un mari comme moi.
+
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Ça fait longtemps que je n’ai pas bu d’alcool.
+v2;50;Il y a un homme qui reste assis sous le banyan à la sortie du village et qui vend de l’alcool et des cacahouètes.
+v1;110;Vraiment ? Je croyais que c’était interdit de vendre de l’alcool dans le village!
+v2;160;Ne le dit à personne d’autre.
+v1;200;D’accord, on ira ce soir.
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Tu m’as apporté des jouets ?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;J’ai beaucoup d’amis.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Ma mère ne me laisse pas sortir la nuit.
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Salut !
+v2;50;Tu as vu ?
+v1;100;Vu quoi ?
+v2;150;Un... zombie !
+v1;200;Vraiment ?
+v2;250;Oui ! Il faisait très peur ! Et il m'a même dit qu'il allait te manger !
+v1;300;Ahhhhh ! Maman ! Un zombie va me manger !
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Salut !
+v2;50;Tu as vu ?
+v1;100;Vu quoi ?
+v2;150;Un... creeper !
+v1;200;Vraiment ?
+v2;250;Oui ! J'avais très peur ! Et il a fait exploser un arbre par là !
+v1;300;Mais attends, mon arbre préféré était là bas ! Waaaaaa

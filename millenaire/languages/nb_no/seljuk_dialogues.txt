@@ -1,0 +1,175 @@
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Jeg burde drikke litt ayran.
+v2;30;Jeg håper vertshuset ikke er fullt i dag.
+v1;60;Ja, jeg håper det også, det må ikke bli som i går.
+v2;90;Akkurat, og hvis jeg drikker ayran, går trettheten over.
+v1;120;Du har rett.
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Hei der. Jeg vil kjøpe et teppe.
+v2;30;Selvsagt. Hva slags ønsker du?
+v1;60;Jeg vet ikke. Jeg ville kjøpe en gave fordi det er bursdagen til vennen min i dag. Hva ville du anbefalt?
+v2;90;Hva med det røde teppet?
+v1;120;Greit, god idé.
+v2;150;Hvor mange vil du ha?
+v1;180;Bare ett. Kan du lage en god innpakning?
+v2;210;Selvsagt, herre. Skal du gi det selv, eller skal vi levere det?
+v1;240;Jeg gir det selv. Takk skal du ha.
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Ha en god dag.
+v1;30;Sov du godt?
+v2;60;Ja, det var godt.
+v1;90;Hva vil du ha til frokost?
+v2;120;Jeg vet ikke, og du?
+v1;150;Jeg vet ikke jeg heller.
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Far, kan du fortelle meg om den fineste malmen du har gravd opp?
+v2;30;La meg tenke … Jeg tror det var en diamant.
+v1;60;Hvis du finner en til, kan du gi meg en, far?
+v1;90;Hvorfor ikke, $targetfirstname.
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah ser alt vi gjør, $targetfirstname.
+v2;30;Ja, det er sant, min hoca.
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; Faren min slakter stadig uskyldige dyr!
+v2;30; Men hvis det kjøttet ikke var nødvendig for oss, ville faren din ikke gjort det.
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Har du sett en drikk like god som ayran, bror?
+v2;30;Nei, det har jeg ikke sett enda.
+v2;60;Hvor fikk du tak i den? Jeg vil også ha.
+v1;90;Det er et kjøkken i nærheten som selger den.
+v2;120;Greit, tusen takk.
+v2;150;Hva annet selger de der?
+v1;180;Du kan tenke deg alt, fra fisk til pide.
+v2;210;Da må jeg dra med det samme.
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Hei, $targetfirstname.
+v2;30;Hei!
+v1;60;Har du sett det nye hamamet?
+v2;90;Nei, det har jeg ikke.
+v1;120;Vi må besøke det snart!
+v2;150;Greit, det er gode nyheter.
+v1;180;Ja, det er det, du vet, å være ren er en del av religionen.
+v2;210;Greit da, la oss ta en titt.
+v2;240;Hva med om en time?
+v1;270;Nei, la oss gå nå.
+v2;300;Greit, men hvorfor dette hastverket, min venn?
+v2;330;Hvor må vi dra?
+v1;360;Egentlig kan vi vente litt.
+v2;390;Det er alltid det samme med deg, $targetfirstname.
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Har du sett en bygning så vakker som denne moskeen, bror?
+v2;30;Nei, det har jeg ikke sett enda.
+v2;60;Når sto den ferdig? Den er svært vakker.
+v1;90;Det er lenge siden.
+v2;120;Å, greit.
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;Jeg ser alltid noe annerledes om natten.
+v2;30;Det sies at dagens ondskap er bedre enn nattens godhet.
+v1;60;Du har rett, $targetfirstname.
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;På tide å be.
+v2;30;La oss ikke komme for sent.
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;På tide å be.
+v2;30;La oss ikke komme for sent.
+v1;60;Så fint det ville vært om vi hadde en vakker moské, talha.
+v2;90;Akkurat slik, bror.
+
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;Så hvordan går arbeidet, $targetfirstname?
+v2;30;Ingenting har endret seg, alt er som før.
+v1;60;Trives du med å reise?
+v2;90;Ja, men føttene mine verker også.
+v1;120;Du har rett, $targetfirstname.
+v2;150;Selvsagt har jeg rett!
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah elsker sine flittige tjenere.
+v2;30;Så jeg er svært glad for å arbeide hardt!
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Fiske er en sak om tålmodighet, vet du, min kjære?
+v2;30;Du er bare tålmodig når det gjelder fiske!
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;Hvordan har dagen din vært?
+v2;30;Den har vært ganske travel.
+v2;60;Så jeg er trett.
+v1;90;Vil du ha en ayran?
+v2;120;Det hadde vært godt, ja.
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Hei, $targetfirstname.
+v1;30;Hvordan har du det i dag?
+v2;60;Takk, jeg har det bra.
+v1;90;Hvordan står det til med familien din, har de det bra?
+v2;120;Takk, de har det også bra.
+v1;150;Været blir ganske varmt, er det ikke?
+v2;180;Jo, det er virkelig varmt.
+v1;210;Hils familien din.
+v2;240;Takk, du må hilse din familie også.
+v1;270;Ha det.
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	Når flyttet du inn?
+v2;30;Bare nå sist helg.
+v1;60;Jeg visste ikke engang at huset var solgt.
+v2;90;Jeg er virkelig forelsket i dette huset, så jeg måtte flytte inn.
+v1;120;Det forstår jeg, for huset er enestående.
+v2;150;Hvor mange år har du bodd i huset ditt?
+v1;180;Jeg har bodd her i lang tid.
+v2;210;Jeg håper vi forblir naboer en god stund til.
+v1;240;Jeg også.
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Hvorfor var du ikke her i går?
+v2;30;Jeg følte meg ikke helt bra.
+v1;60;Hva var galt med deg?
+v2;90;Magen min var i ulage.
+v1;120;Føler du deg bedre nå?
+v2;150;Jeg føler meg ikke helt bra enda.
+v1;180;Vil du ha noe som kan få deg til å føle deg bedre?
+v2;210;Nei takk. Jeg har allerede tatt litt medisin.
+v1;240;Jeg håper du blir bedre.
+v2;270;Takk.
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Har du hørt nyheten?
+v2;30;Jeg har ikke hørt noe.
+v1;60;Naboen min fikk barn forrige uke.
+v2;90;Ingen har sagt det til meg.
+v1;120;Jeg trodde du hadde hørt det.
+v2;150;Jeg ble virkelig ikke fortalt noe.
+v1;180;Det er en søt baby, maşallah.
+v2;210;Oi, så spennende.
+v1;240;Jeg vet det, du burde virkelig dra og besøke henne og babyen.
+v2;270;Det skal jeg så klart.
+v1;300;Jeg ville bare la deg få vite hva som har skjedd.
+v2;330;Det setter jeg pris på.
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Vil du bli med meg ut på en åker?
+v1;30;	Når vil du dra?
+v1;60;Hva med fredag neste uke?
+v1;90;Beklager, jeg kan ikke. Jeg skal spise middag med en venn.
+v1;120;Hva med tirsdagen etter?
+v1;150;Jeg går på undervisning i moskeen på tirsdager.
+v1;180;Å, kanskje en annen gang?
+v1;210;Ja, jeg gir deg beskjed.
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Hvem er dette?
+v2;30;Jeg vet ikke navnet hans, men han er en fremmed i disse traktene.
+v1;60;Alle som ikke bærer ondt i seg, er velkomne i disse traktene.
+v2;90;Du har rett.

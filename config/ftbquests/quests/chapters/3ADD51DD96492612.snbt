@@ -1,0 +1,639 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "3ADD51DD96492612"
+	group: "6050F7ACD10CCF6C"
+	icon: {
+		id: "minecraft:glowstone"
+	}
+	id: "3ADD51DD96492612"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:block/nether_portal"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "04755A17BD4CB0FC"
+			rewards: [{
+				advancement: "minecraft:story/enter_the_nether"
+				auto: "enabled"
+				criterion: ""
+				id: "241A5F2B2B09EA63"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					count: 10L
+					id: "4DADBE321D5AF86A"
+					item: { count: 1, id: "minecraft:obsidian" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					advancement: "minecraft:story/enter_the_nether"
+					criterion: ""
+					id: "2064A371446B69A7"
+					optional_task: true
+					type: "advancement"
+				}
+			]
+			x: -8.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["49CCAA09BA6D786D"]
+			icon: {
+				id: "minecraft:crimson_stem"
+			}
+			id: "650440FD7FF0E132"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21D3E27AF67F71C1"
+				table_id: 4259145868799364909L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "56F4C8E9C6D3E2F4"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["49CCAA09BA6D786D"]
+			icon: {
+				id: "minecraft:warped_stem"
+			}
+			id: "4175319E5EE0B84E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5D8B220051B0C442"
+				table_id: 4259145868799364909L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 128L
+				id: "0F8704A4441E25FA"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["04755A17BD4CB0FC"]
+			dependency_requirement: "one_completed"
+			id: "49CCAA09BA6D786D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "00BF02AF5904FBA4"
+				table_id: 4259145868799364909L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/enter_the_nether"
+				criterion: ""
+				id: "5B59370E1CED137B"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["49CCAA09BA6D786D"]
+			icon: {
+				id: "minecraft:nether_bricks"
+			}
+			id: "118E284EF964918D"
+			rewards: [{
+				advancement: "minecraft:nether/find_fortress"
+				auto: "enabled"
+				criterion: ""
+				id: "52B559F2E069D3A7"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					id: "35D695A4F43DE0D6"
+					item: { components: { "minecraft:custom_name": "\"下界要塞地图\"" }, count: 1, id: "minecraft:map" }
+					match_components: "strict"
+					optional_task: true
+					type: "item"
+				}
+				{
+					advancement: "minecraft:nether/find_fortress"
+					criterion: ""
+					id: "7383CD1D28FC6D7C"
+					optional_task: true
+					type: "advancement"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:gilded_blackstone"
+			}
+			id: "7A2EE3F5DC310463"
+			rewards: [
+				{
+					id: "3F28D3DBE6CA12CF"
+					item: {
+						count: 1
+						id: "minecraft:netherite_upgrade_smithing_template"
+					}
+					type: "item"
+				}
+				{
+					id: "6E4C0F27EDA0BFE3"
+					item: {
+						count: 1
+						id: "minecraft:ancient_debris"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "2266A4F28BC22487"
+				item: { components: { "minecraft:custom_name": "\"堡垒遗迹地图\"" }, count: 1, id: "minecraft:map" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:red_nether_bricks"
+			}
+			id: "0823F534691A759C"
+			rewards: [
+				{
+					count: 16
+					id: "75F37F25D3CC9A57"
+					item: {
+						count: 1
+						id: "minecraft:nether_wart"
+					}
+					random_bonus: 48
+					type: "item"
+				}
+				{
+					id: "4015E5FFEDB53B7B"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					random_bonus: 8
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				id: "135CBBBE46466D8C"
+				item: { components: { "minecraft:custom_name": "\"下界要塞地图\"" }, count: 1, id: "minecraft:map" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["71788D5EF1A9C6EA"]
+			icon: {
+				id: "minecraft:purpur_pillar"
+			}
+			id: "3062149BD82E5514"
+			tasks: [{
+				advancement: "minecraft:story/enter_the_end"
+				criterion: ""
+				id: "07E8CD3A6AE0F33A"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["118E284EF964918D"]
+			id: "71788D5EF1A9C6EA"
+			rewards: [{
+				advancement: "minecraft:story/enter_the_end"
+				criterion: ""
+				id: "6E7C3EBDD5D9E204"
+				type: "advancement"
+			}]
+			tasks: [
+				{
+					advancement: "minecraft:story/follow_ender_eye"
+					criterion: ""
+					id: "64ABD1F47B77E757"
+					type: "advancement"
+				}
+				{
+					consume_items: true
+					count: 12L
+					id: "2D2C6632D78933FB"
+					item: { count: 1, id: "minecraft:ender_eye" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:red_nether_brick_wall"
+			}
+			id: "6FD9A0D6F9E93F13"
+			rewards: [
+				{
+					count: 8
+					id: "04AB13B6120D90E3"
+					item: {
+						count: 1
+						id: "minecraft:blaze_rod"
+					}
+					type: "item"
+				}
+				{
+					id: "5B34D777EE65DF31"
+					item: {
+						count: 1
+						id: "minecraft:wither_skeleton_skull"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "730C7F2D7D24339B"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				id: "minecraft:blackstone_wall"
+			}
+			id: "378F9E0B29AC1418"
+			rewards: [{
+				count: 64
+				id: "3D06EFB17F3AB026"
+				item: {
+					count: 1
+					id: "minecraft:blackstone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "0173A31CEAF26BC1"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3062149BD82E5514"]
+			icon: {
+				id: "minecraft:chorus_fruit"
+			}
+			id: "4A26D652F336F974"
+			progression_mode: "linear"
+			rewards: [
+				{
+					count: 8
+					id: "2AB695AE704DD812"
+					item: {
+						count: 1
+						id: "minecraft:chorus_flower"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "6ED145FD166503C0"
+					item: {
+						count: 1
+						id: "minecraft:end_stone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "036B55239469B660"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["3062149BD82E5514"]
+			icon: {
+				id: "minecraft:elytra"
+			}
+			id: "2C195AF03F269B0A"
+			rewards: [
+				{
+					id: "5042C68ACD12D398"
+					item: {
+						count: 1
+						id: "minecraft:elytra"
+					}
+					type: "item"
+				}
+				{
+					id: "3545BB545BCDAC04"
+					item: {
+						count: 1
+						id: "minecraft:dragon_head"
+					}
+					type: "item"
+				}
+				{
+					advancement: "minecraft:end/find_end_city"
+					criterion: ""
+					id: "61219B2C4A792496"
+					type: "advancement"
+				}
+				{
+					command: "/millenaire reputation @p 200000"
+					icon: {
+						id: "minecraft:golden_helmet"
+					}
+					id: "6770D71B0E0049FE"
+					type: "command"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "6D6875FEA3CAFA05"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:netherrack"
+			}
+			id: "1DBC1D0E51ECE41A"
+			tasks: [{
+				id: "48770E529F238DDA"
+				item: { components: { "minecraft:custom_name": "\"下界荒地地图\"" }, count: 1, id: "minecraft:map" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["1DBC1D0E51ECE41A"]
+			icon: {
+				id: "minecraft:quartz"
+			}
+			id: "18DBBC524E4CDCBE"
+			rewards: [{
+				count: 64
+				id: "673378C1A7634A20"
+				item: {
+					count: 1
+					id: "minecraft:quartz"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "2DA5F189060BB4DC"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "minecraft:basalt"
+			}
+			id: "0C8F8D9CC5784717"
+			tasks: [{
+				id: "2359F2AD571BBEBE"
+				item: { components: { "minecraft:custom_name": "\"玄武岩三角洲地图\"" }, count: 1, id: "minecraft:map" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:crimson_fungus"
+			}
+			id: "660804F22510EC30"
+			tasks: [{
+				id: "26473399B931BCFE"
+				item: { components: { "minecraft:custom_name": "\"绯红森林地图\"" }, count: 1, id: "minecraft:map" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:warped_fungus"
+			}
+			id: "36A41DCE87C76310"
+			tasks: [{
+				id: "43D7E7205E5CC83E"
+				item: { components: { "minecraft:custom_name": "\"扭曲森林地图\"" }, count: 1, id: "minecraft:map" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "minecraft:soul_soil"
+			}
+			id: "2CF7280C0D12F0D6"
+			tasks: [{
+				id: "3B2F41EC57FC0CD7"
+				item: { components: { "minecraft:custom_name": "\"灵魂峡谷地图\"" }, count: 1, id: "minecraft:map" }
+				match_components: "strict"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["36A41DCE87C76310"]
+			icon: {
+				id: "minecraft:warped_stem"
+			}
+			id: "453C1D098ACEE910"
+			rewards: [
+				{
+					count: 64
+					id: "650F66FD99C2660E"
+					item: {
+						count: 1
+						id: "minecraft:warped_stem"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "398FB7D047B4FD84"
+					item: {
+						count: 1
+						id: "minecraft:ender_pearl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "76EDA015BC9480B4"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["2CF7280C0D12F0D6"]
+			icon: {
+				id: "minecraft:soul_sand"
+			}
+			id: "732F71AB809B9E18"
+			rewards: [
+				{
+					count: 64
+					id: "6C5AA0D080513DF7"
+					item: {
+						count: 1
+						id: "minecraft:soul_sand"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "267129CBEB15D74A"
+					item: {
+						count: 1
+						id: "minecraft:bone_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "2A4A076778F61218"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["660804F22510EC30"]
+			icon: {
+				id: "minecraft:shroomlight"
+			}
+			id: "6E5F01F541F7DF81"
+			rewards: [
+				{
+					count: 64
+					id: "4B2998B39C6549E4"
+					item: {
+						count: 1
+						id: "minecraft:crimson_stem"
+					}
+					type: "item"
+				}
+				{
+					count: 16
+					id: "659A53FE27C72526"
+					item: {
+						count: 1
+						id: "minecraft:shroomlight"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "697C4F60D5423C29"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["0C8F8D9CC5784717"]
+			icon: {
+				id: "minecraft:magma_block"
+			}
+			id: "43E5C4886563CAD5"
+			rewards: [{
+				count: 64
+				id: "406AE7DEED96EF65"
+				item: {
+					count: 1
+					id: "minecraft:magma_cream"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "2027C806A5FF03EF"
+				item: { count: 1, id: "millenaire:denier_argent" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+	]
+}

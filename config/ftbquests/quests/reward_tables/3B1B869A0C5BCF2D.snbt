@@ -1,0 +1,84 @@
+{
+	id: "3B1B869A0C5BCF2D"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			id: "41EB8F300CBB3432"
+			item: {
+				components: {
+					"minecraft:custom_name": "\"下界荒地地图\""
+				}
+				count: 1
+				id: "minecraft:map"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "6C6AA254EAF124B5"
+			item: {
+				components: {
+					"minecraft:custom_name": "\"绯红森林地图\""
+				}
+				count: 1
+				id: "minecraft:map"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "22A39276264D41D0"
+			item: {
+				components: {
+					"minecraft:custom_name": "\"扭曲森林地图\""
+				}
+				count: 1
+				id: "minecraft:map"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "33CD3BD1D8E0C6FD"
+			item: {
+				components: {
+					"minecraft:custom_name": "\"玄武岩三角洲地图\""
+				}
+				count: 1
+				id: "minecraft:map"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "5893391EED12F513"
+			item: {
+				components: {
+					"minecraft:custom_name": "\"灵魂峡谷地图\""
+				}
+				count: 1
+				id: "minecraft:map"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "066B28A1D89490CC"
+			item: {
+				components: {
+					"minecraft:custom_name": "\"下界要塞地图\""
+				}
+				count: 1
+				id: "minecraft:map"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "6E4FC94946771AE9"
+			item: {
+				components: {
+					"minecraft:custom_name": "\"堡垒遗迹地图\""
+				}
+				count: 1
+				id: "minecraft:map"
+			}
+			weight: 1.5f
+		}
+	]
+}

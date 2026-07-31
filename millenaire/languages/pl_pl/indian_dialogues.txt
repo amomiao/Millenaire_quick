@@ -1,0 +1,141 @@
+newchat;key:alcohol,v1:vtype:indian_peasant-indian_lumberman,v2:vtype:indian_peasant-indian_lumberman,weigth:10
+v1;0;Dawno nie piłem alkoholu.
+v2;50;Pod banianem za wioską siedzi człowiek, który sprzedaje alkohol i orzeszki.
+v1;110;Naprawdę? Myślałem, że sprzedaż alkoholu w wiosce jest zakazana!
+v2;160;Nie mów nikomu.
+v1;200;Dobrze, idziemy tam dziś wieczorem.
+
+newchat;key:beef,v2:adult,weigth:10
+v1;0;Czy zastanawiałeś się kiedyś, jak smakuje krowie mięso?
+v2;60;Krowie mięso? Ale jedzenie go jest sprzeczne z naszą dharmą!
+v1;120;A jeśli jest smaczne...?
+v2;180;Jesteś normańskim barbarzyńcą?
+
+newchat;key:childoneliner1,v1:child,v2:child,weigth:10
+v1;0;Przyniosłeś mi jakieś zabawki?
+
+newchat;key:childoneliner2,v1:child,v2:child,weigth:10
+v1;0;Mam wielu przyjaciół.
+
+newchat;key:childoneliner3,v1:child,v2:child,weigth:10
+v1;0;Mama nie pozwala mi bawić się po zmroku.
+
+newchat;key:childrencreeper,v1:child,v2:child,weigth:2
+v1;0;Cześć!
+v2;50;Widziałeś to?
+v1;100;Widziałem co?
+v2;150;Widziałem... creepera!
+v1;200;Naprawdę?
+v2;250;Tak! Strasznie się wystraszyłem! Wysadził w powietrze drzewo tam!
+v1;300;Chwila, moje ulubione drzewo było tam... WAAAAAAAA
+
+newchat;key:childrenzombie,v1:child,v2:child,weigth:2
+v1;0;Cześć!
+v2;50;Widziałeś to?
+v1;100;Widziałem co?
+v2;150;Widziałem... zombie!
+v1;200;Naprawdę?
+v2;250;Tak! Strasznie się przeraziłem! Powiedział mi nawet, że cię pożre!
+v1;300;Ahhhhh! Mamo! Zombie chce mnie zjeść!
+
+newchat;key:gold,v1:vtype:indian_peasantwife,rel:spouse,villager:indian_villagechief,weigth:10
+v1;0;Wódz wioski kupił żonie złote bransolety.
+v1;60;A ty nigdy nie kupiłeś mi żadnej biżuterii...
+v2;110;Trzeba było wyjść za bogatego.
+v1;160;Wtedy musiałabym dać większy posag.
+v2;200;Powinnaś więc czuć się szczęśliwa, mając takiego męża jak ja.
+
+newchat;key:indian_lumberman,v1:vtype:indian_lumberman,weigth:10
+v1;0;Naściąłem dziś dużo drewna.
+v2;60;Zamienisz nasz las w pustynię!
+v1;120;Nie martw się, tutaj drzewa rosną prawie same.
+
+newchat;key:indian_raja,v1:vtype:indian_raja,v2:adult,notrel:spouse,weigth:10
+v1;0;Mój pałac stał się bardzo mały.
+v2;60;Ależ Maharadżo, to największy pałac w kraju!
+v1;120;A jednak mnie wydaje się mały.
+
+newchat;key:indian_rajputgeneral,v1:vtype:indian_rajputgeneral,weigth:10
+v1;0;Silny fort to najlepsza obrona przed naszymi wrogami.
+v2;60;Jakimi wrogami, generale?
+v1;100;Normanami i innymi barbarzyńcami.
+
+newchat;key:indian_rani,v1:vtype:indian_rani,notrel:spouse,weigth:10
+v1;0;Mój mąż jest bogaty i poważany.
+v2;50;O tak! To prawda.
+v1;110;A jednak nigdy niczego mi nie przynosi.
+v2;160;Jak to? Przecież wczoraj przyniósł ci trzy sari.
+
+newchat;key:indian_richwoman,v1:vtype:indian_richwoman,v2:female,v2:adult,v2:notvtype:indian_richwoman-indian-rani,weigth:10
+v1;0;Mój mąż kupił dziś pięćdziesiąt tola złota.
+v2;60;Pięćdziesiąt tola złota! Ja mam tylko dziesięć...
+v1;120;Miejmy nadzieję, że gwiazdy ułożą się tobie pomyślnie.
+
+newchat;key:indian_sculptor,v1:vtype:indian_sculptor,weigth:10
+v1;0;Mam świetną okazję, by rzeźbić posągi.
+v2;50;To dlatego, że robisz bardzo dobre posągi.
+v1;100;Rzeźbię je już od wielu lat.
+
+newchat;key:indian_smith,v1:vtype:indian_smith,v2:adult,weigth:10
+v1;0;Potrzebujemy więcej kilofów.
+v2;50;Jestem teraz zajęty.
+v1;100;Łopat też nam trzeba.
+v2;150;Uff! Mam tyle pracy!
+
+newchat;key:indian_soldier,v1:vtype:indian_soldier,v2:adult,v2:female,notrel:spouse,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;$targetfirstname, chyba w pobliżu naszej wioski grasują bandyci!
+v2;50;Nie martw się, ochronię wioskę.
+v1;100;Jesteś taki silny!
+v1;130;I przystojny.
+v1;150;Gdyby nie ten twój wąs...
+v2;200;Ani słowa o moim wąsie!
+
+newchat;key:indian_villagechief,v1:vtype:indian_villagechief,v2:vtype:indian_peasant-indian_peasantwife,weigth:10
+v1;0;Panie, plony w tym roku są kiepskie.
+v2;40;Bo jesteś leniwy! Pracuj więcej!
+v1;80;Ale w ogóle nie padało...
+v2;120;To nie moja wina. Chcę swój czynsz.
+v1;170;Ale nie mam pieniędzy.
+v2;210;Więc oddaj mi ziemię.
+v1;260;Ale wtedy nic mi nie zostanie!
+
+newchat;key:lakshmi,v1:adult,v2:adult,weigth:10
+v1;0;Idź przygotuj tacę ofiarną na pujas.
+v2;40;Idę natychmiast.
+v1;80;Musimy ułagodzić bogów.
+v1;130;Tylko wtedy deszcz nadejdzie na czas.
+
+newchat;key:monsoon,tag:notraining,weigth:10
+v1;0;Nie pada.
+v2;30;Nie martw się. Spadnie deszcz.
+v1;60;Co roku to samo mówisz...
+
+newchat;key:newhouse,villager:indian_merchant,v1:notvtype:indian_merchant,v2:notvtype:indian_merchant,weigth:10
+v1;0;Ten kupiec buduje nowy dom obok swojego.
+v2;60;Kolejny dom? Po co mu nowy?
+v1;90;Nowy dom jest dla jego syna.
+v1;140;Gdy syn się ożeni, ojciec i syn będą mieszkać obok siebie.
+
+newchat;key:rain,tag:raining,weigth:10
+v1;0;Pada deszcz! Nareszcie!
+v2;40;Ale tak skąpy deszcz nic nie da...
+v1;80;Lepszy taki niż żaden.
+v1;120;Ale jak nasze plony mają rosnąć?
+
+newchat;key:rice,v1:child,v2:adult,weigth:10
+v1;0;Chcę rasgulla. Bardzo zgłodniałem!
+v2;60;Nie. Powinieneś jeść tylko ryż.
+v1;120;Ale jadłem już dziś rano!
+v1;180;I wczoraj, i przedwczoraj...
+v2;220;I będziesz musiał jeść wieczorem, jutro i do końca życia!
+
+newchat;key:sandstone,weigth:10
+v1;0;Nasza wioska się rozwija, prawda?
+v2;40;Ale wciąż wiele zostało do zrobienia.
+v1;80;Naprawdę?
+v2;100;Niewątpliwie!
+
+newchat;key:sun,tag:notraining,weigth:10
+v1;0;Jak gorąco!
+v2;30;Ten upał doprowadza mnie do szaleństwa.
+v1;70;Kiedy spadnie deszcz?

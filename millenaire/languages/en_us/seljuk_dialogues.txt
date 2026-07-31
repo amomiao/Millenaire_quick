@@ -1,0 +1,234 @@
+//* Dialogue lines start with a code like "v2;30;" which specify who is speaking and when the line shows up. Please copy it exactly in your translations.
+//* First half of the line (till the /) is in the villagers' language and must be kept as-is, second part should be translated
+
+newchat;key:nights,tag:notraining,v1:adult,v2:adult,weigth:10
+v1;0;I always see different things at night.
+v2;30;They said the evil of the day is better than the good of the night.
+v1;60;You are right $targetfirstname.
+
+
+newchat;key:fatherandson,rel:child,v1:child,v2:vtype:turk_miner,weigth:10
+v1;0;Dad, can you tell me the best ore you dug?
+v2;30;Let me think .. I think it was a diamond.
+v1;60;If you find it again, can you give me one, Dad?
+v1;90;Why not $targetfirstname.
+
+
+newchat;key:iamam1,tag:notraining,v1:vtype:turk_imam,weigth:10
+v1;0;Allah sees everything we do, $targetfirstname.
+v2;30;Yes that is true, my hoca.
+
+
+newchat;key:kids1,tag:notraining,v1:child,weigth:10
+v1;0; My father constantly cuts innocent animals!
+v2;30; But if that meat is not necessary for us, your father won't do it.
+ 
+ 
+newchat;key:talk1,v1:adult,v2:vtype:turk_localmerchant,weigth:10
+v1;0;So how is work going, $targetfirstname?
+v2;30;Nothing changed, all the same.
+v1;60;So do you enjoy trips?
+v2;90;Yes, but my feet also hurt.
+v1;120;You are right $targetfirstname.
+v2;150;Of course I'm right!
+
+
+newchat;key:talk2,v1:adult,v2:adult,weigth:10
+v1;0;Allah loves is hardwoking servants.
+v2;30;So I am very happy to work hard!
+
+
+newchat;key:talk3,v2:adult,v1:vtype:turk_fisherman,rel:spouse,weigth:10
+v1;0;Fishing is a matter of patience, you know, my dear?
+v2;30;You're just patient with fishing!
+
+
+newchat;key:whoisthis,v2:adult,v1:adult,weigth:10
+v1;0;Who is this?
+v2;30;I don't know his name, but he's foreign to these lands.
+v1;60;Anyone who has no evil in it is pleasant to these lands.
+v2;90;You are right.
+
+
+newchat;key:kitchentalk,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;Have you seen a drink as good as ayran brother?
+v2;30;No, I haven't seen it yet.
+v2;60;Where did you get it? I want too.
+v1;90;There is a kitchen near, selling it.
+v2;120;Okay, thank you very much.
+v2;150;What else are they selling there?
+v1;180;You can think of everything from fish to pide.
+v2;210;I should go right away.
+
+
+newchat;key:religion,v2:adult,v1:adult,building:mosque,weigth:10
+v1;0;Time to pray.
+v2;30;Let's dont come to late.
+
+
+newchat;key:religion2,v2:adult,v1:adult,notbuilding:mosque,weigth:10
+v1;0;Time to pray.
+v2;30;Let's dont come to late.
+v1;60;How nice would it be if we had a beautiful Mosque talha
+v2;90;Exactly, brother.
+
+
+newchat;key:ayran,v2:adult,v1:adult,building:kitchen,weigth:10
+v1;0;I should drink some ayran.
+v2;30;I hope the inn is not full today.
+v1;60;Yes, I hope, it should not be like yesterday.
+v2;90;Exactly, and if I drink ayran, my tiredness will pass.
+v1;120;You are right.
+
+
+
+newchat;key:buyingwallcarpet,v2:vtype:turk_weaver,v1:adult,building:weaver,weigth:10
+v1;0;Hello there. I want to buy a carpet.
+v2;30;Sure. What do you want it like?
+v1;60;I do not know. I wanted to buy a gift because it was my freind's birthday today. What would you recommend?
+v2;90;What about the red carpet?
+v1;120;Okay, great idea.
+v2;150;How many would you like?
+v1;180;Just one. Can you make a good packaging?
+v2;210;Of course sir. Will you give it yourself or will we take it?
+v1;240;I will give it myself. Thank you.
+
+
+newchat;key:couple1,v2:adult,v1:adult,rel:spouse,weigth:10
+v1;0;Have a good day.
+v1;30;Did you sleep well?
+v2;60;Yes it was good.
+v1;90;What would you like to have for breakfast.
+v2;120;I dont know and you ?
+v1;150;I dont know.
+
+
+newchat;key:talk4,v2:adult,v1:adult,weigth:10
+v1;0;How was your day today.
+v2;30;It was Pretty busy.
+v2;60;So i am tired.
+v1;90;Would you like to have a ayran?
+v2;120;Would be nice, yes.
+
+
+newchat;key:talk5,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Hello $targetfirstname.
+v1;30;How are you today?
+v2;60;Thank you I am fine.
+v1;90;How is your family, are they doing well?
+v2;120;thank you they are fine too.
+v1;150;The weather goes pretty hot, isnt it?
+v2;180;yes, it is really hot.
+v1;210;Say hi to your family.
+v2;240;thanks, you say hi to your family too.
+v1;270;bye.
+
+
+newchat;key:talk6,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;	When did you get moved in?
+v2;30;Just this past weekend.
+v1;60;I  didn't even know the house got sold.
+v2;90;I absolutely love this house, so I had to move in.
+v1;120;I understand, because the house is extraordinary.
+v2;150;How many years have you been living in your house?
+v1;180;I've been living here for long time.
+v2;210;I hope that we remain neighbors for a while longer.
+v1;240;Me too.
+
+
+newchat;key:talk7,v2:adult,v1:adult,notrel:spouse,weigth:10
+v1;0;Why weren't you here yesterday?
+v2;30;I wasn't really feeling well.
+v1;60;What was wrong with you?
+v2;90;My stomach was upset.
+v1;120;Do you feel better now?
+v2;150;I don't really feel too well yet.
+v1;180;Do you want anything to make you feel better?
+v2;210;No, thanks. I already took some medicine.
+v1;240;I hope you feel better.
+v2;270;Thank you.
+
+
+newchat;key:talk8,v2:female,v1:female,notrel:spouse,weigth:6
+v1;0;Have you heard the news?
+v2;30;I haven't heard anything.
+v1;60;My neighbor had her baby last week.
+v2;90;Nobody told me.
+v1;120;I thought you heard.
+v2;150;I really wasn't told anything.
+v1;180;She is a cute baby maşallah.
+v2;210;Wow, how exciting.
+v1;240;I know, you should really go and see her and the baby.
+v2;270;Of course I will.
+v1;300;I just wanted to let you know what happened.
+v2;330;I appreciate that.
+
+
+newchat;key:talk9,v2:female,v1:male,notrel:spouse,weigth:6
+v1;0;Would you like to go to a field with me?
+v1;30;	When do you want to go?
+v1;60;How about next Friday?
+v1;90;I'm sorry, I can't. I'm having dinner with a friend.
+v1;120;How about the following Tuesday?
+v1;150;I go to the mosque class on Tuesdays.
+v1;180;Oh, maybe some other time?
+v1;210;Yeah, I'll tell you.
+
+
+
+newchat;key:newhamam,v2:adult,v1:adult,building:hamambath,weigth:10
+v1;0;Hello $targetfirstname.
+v2;30;Hey!
+v1;60;Have yo seen the new hamam?
+v2;90;No i have not.
+v1;120;We need to visit it fast!
+v2;150;Okey thats good news.
+v1;180;Yes yes it is, you know, beeing clean is from the religion.
+v2;210;Okey then, lets have a look.
+v2;240;What about an hour.
+v1;270;No, lets go now.
+v2;300;Allright, why this hurry my friend.
+v2;330;Where have we to go?
+v1;360;Actually we can wait a bit.
+v2;390;Thats allways the same thing with you $targetfirstname.
+
+
+newchat;key:newmosque,v2:adult,v1:adult,building:smallmosque,weigth:10
+v1;0;Have you seen a building as beautiful as this mosque, brother?
+v2;30;No, I haven't seen it yet.
+v2;60;When was it done? Its very nice.
+v1;90;It's been a long time.
+v2;120;Oh Okey.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

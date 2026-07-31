@@ -1,0 +1,481 @@
+//*   Les lignes de dialogue commence par un code du style "v2;30;"  qui précise qui parle et à quel moment le dialogue peut être lu. S'il vous plait, recopier exactement ce code dans vos traductions.
+//*   La première moitié de la ligne (avant le /) est la langue d'origine des villageois et doit donc rester tel quel, et la seconde moitié doit être traduite.
+//* 
+//* 
+
+
+
+newchat;key:sun,tag:notraining,weigth:18
+v1;0;J'aime les jours ensoleillés !
+v2;30;Qui ne les aime pas ?
+
+newchat;key:nicevillage,weigth:10
+v1;0;C'est toujours agréable de voir notre joli petit village, n'est-ce pas ?
+v2;30;Bien sûr, nous avons travaillé dur!
+
+newchat;key:nothomeyet,weigth:6
+v1;0;C'est toujours un plaisir de voir notre petit village, n'est-ce pas ?
+v2;30;Bien sûr ! Nous avons travaillé si dur à le construire.
+v1;60;C'est comme à la maison, comme avant de venir ici.
+v2;90;C'est notre maison maintenant, nous devons l'accepter.
+v1;120;Je sais, je l'accepterai au moment venu...
+
+newchat;key:ishome,weigth:6
+v1;0;C'est toujours un plaisir de voir notre petit village?
+v2;30;Bien sûr ! Nous avons travaillé si dur à le construire.
+v1;60;C'est comme à la maison, comme avant de venir ici.
+v2;90;C'est notre maison maintenant, nous devons l'accepter.
+v1;120;C'est notre maison, cette conversation me l'a fait accepter.
+
+newchat;key:harvest,weigth:10
+v1;0;Le blé pousse vraiment bien cette année, tout comme les vignes d'ailleurs. Excellent, non ?
+v2;30;Oui, il semblerait. Nous avons un temps étonnant ici qu'il faut remercier.
+v1;60;Comme si j'en avais quelque chose à faire !
+
+newchat;key:lightning,weigth:7
+v1;0;Tu te rappelles du dernier orage que nous avons eu ?
+v2;30;Bien sûr ! Presque toutes nos récoltes avaient été détruites. La nature peut être violente, hein ?
+v1;60;Violente est une chose. J'ai failli être frappé par la foudre !
+v2;100;Tu n'étais pas à l'abri ? Tu sais combien il est dangereux d'être à l'extérieur pendant un orage?
+v1;120;On apprend de ses erreurs.
+
+newchat;key:souvlaki,v1:adult,v2:adult,v1:male,v2:female,weigth:10
+v1;0;Ah... Le Souvlaki, la seule et unique bonne nourriture!
+v2;30;Si seulement vous, les hommes, aviez le même talent culinaire que nous les femmes...
+v1;60;Nous voudrions la faire nous-mêmes !
+v2;100;Vraiment ? Et comment le cuisinez-vous déjà ?
+v1;130;Ahem... Vous mettez le poisson, non, les côtelettes d'agneau au fourneau, puis, euh...
+v2;190;... Puis vous y ajoutez un peu de feta sur un bâton. Vous ne pouvez vraiment pas cuisiner !
+
+newchat;key:city,v1:adult,v2:adult,weigth:2
+v1;0;Quand j'étais petit, je voulais être explorateur. Découvrir de nouvelles contrées, et rencontrer de nouvelles personnes fascinantes. Mais maintenant ? Je suis bloqué dans ce petit village loin de tout. Je veux partir et découvrir de nouveaux territoires !
+v2;30;Mais tu ne trouveras pas plus de différences dans les autres villages. Nous sommes quasiment tous les mêmes.
+v1;60;Je ne parle pas de villages. Je parle de villes, ou même d'une Cité !
+v2;90;De LA Cité? Tu parles de Constantinople?
+v1;120;Ouais ! Le centre de notre glorieux empire. C'est la plus grande merveille du monde !
+v1;150;Il y a plus de 500 000 personnes qui vivent là-bas, imagine ?!
+v2;180;Ça me semble impossible. 500 000 personnes en un lieu ? Ça me fait rêver !
+
+newchat;key:wine,v1:adult,v2:adult,v1:male,v2:male,weigth:10
+v1;0;Ne bois pas de vin seul !
+v2;30;C'est mieux de boire ensemble !
+v1;50;Merci pour le vin !
+v2;70;À la tienne !
+
+newchat;key:kids1,v1:child,v2:child,notrel:sibling,weigth:10
+v1;0;Mon papa est plus fort que le tiens.
+v2;30;Faux ! Mon père est le plus fort du village !
+v1;60;Ah non ! Mon père est le plus fort de l'empire !
+v2;90;Impossible mon papa est le plus fort du monde !
+v1;120;Je suis sûr que mon père peut battre le tiens d'une seule main !
+v2;150;Va préparer ton père pour un combat!
+
+newchat;key:kids2,v1:child,v1:male,v2:child,v2:female,weigth:10
+v1;0;Les filles sont stupides.
+
+newchat;key:kids3,v2:child,v2:male,v1:child,v1:female,weigth:10
+v1;0;Aurais-tu vu ma poupée ? Je ne la trouve pas...
+v2;30;Donne-moi mon épée, et tu pourras la revoir.
+v1;60;Tu l'as kidnappée ! Voleur !
+
+newchat;key:clothes1,v1:adult,v1:female,v2:adult,v2:female,weigth:10
+v1;0;As-tu vu mes nouveaux vêtements ?
+v2;30;Tu es magnifique ma chère. Tout te va !
+v1;60;Mais je ne suis pas aussi belle que toi !
+v2;90;Ohh, ce n'est pas vrai, $targetfirstname !
+
+newchat;key:clothes2,v1:adult,v1:female,v2:adult,v2:female,weigth:1
+v1;0;As-tu vu mes nouveaux vêtements ?
+v2;30;Tu es une beauté. Tout te va, ma chère $targetfirstname !
+v1;60;Mais je ne suis pas aussi belle que toi !
+v2;90;C'est vrai.
+v1;100;!!!
+
+newchat;key:clothes3,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;As-tu vu mes nouveaux vêtements, $targetfirstname ?
+v2;30;Je pense que tes vieux vêtements t'allaient mieux.
+v1;60;QUOI ?
+v2;70;Non... Non ! Tu es belle ! J'adore ces nouveaux... trucs !
+
+newchat;key:clothes4,v1:adult,v1:female,v2:adult,v2:male,weigth:5
+v1;0;Bon, tu aimes ma nouvelle robe ?
+v2;30;L'ancienne était plus jolie.
+v1;60;QUOI ?
+v2;70;Hey, $targetfirstname, ce n'est que mon opinion.
+v1;90;Au moins tu es honnête !
+
+newchat;key:girl,v1:adult,v1:female,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Qu'est-ce que tu dois faire, si jamais tu aimes une fille ?
+v1;30;Lui faire des compliments, et être gentil avec elle.
+v2;60;Non ! Je ne peux pas faire ça! Qu'est-ce que les autres penseront de moi alors ?
+v1;90;Si tu aimes vraiment quelqu'un, tu t'en fiches de ce que les autres pensent.
+
+newchat;key:doll,v1:adult,v1:male,v2:child,v2:female,rel:parent,weigth:5
+v2;0;Peux-tu m'acheter une nouvelle poupée ? Tout le monde en a une nouvelle, sauf moi...
+v1;30;C'est quoi le mot magique ?
+v2;60;Peux-tu, S'IL TE PLAÎT, m'acheter une nouvelle poupée ?
+v1;90;D'accord, mais tu dois me promettre de ne plus me répondre !
+v2;120;Promis !
+
+newchat;key:pride1,v1:adult,v1:male,v2:adult,v2:male,v1:vtype:architect_byzantine,weigth:3
+v1;0;Nos habitations sont si belles, c'est toujours un plaisir de voir notre ouvrage !
+v2;30;Les Mayas érigent de très belles constructions aussi.
+v1;60;Ne me contredis pas avec tes bizarreries. Nos bâtiments sont les plus beaux !
+v2;90;Ahem...
+v1;100;Traître ! Tu n'as pas d'honneur envers ta patrie ?
+
+newchat;key:pride2,weigth:10
+v1;0;Nous, Romains, pouvons être fiers de ce que nous avons bâti.
+v2;30;Bien sûr! Tout ce que tu vois est notre travail !
+v1;60;Le plus puissant des empires de l'histoire du monde !
+v2;90;Les autres nations doivent s'agenouiller devant notre gloire !
+v1;120;Ils le doivent ! Nous sommes les maîtres !
+
+newchat;key:pride3,weigth:10
+v1;0;L'empire Romain dirigera le monde une fois de plus !
+v2;30;Nous y arriverons!
+v1;60;Tout sera meilleur ensuite !
+v2;90;Ouais!
+v1;100;Gloire à l'empire !
+v2;110;Santé!
+
+newchat;key:rain,tag:notraining,weigth:10
+v1;0;Il va pleuvoir. Bientôt.
+v2;30;Je peux le sentir aussi.
+v1;60;Bizarre. C'est toujours le même nombre de jours entre chaque averse.
+v2;100;Tu trouves aussi ?
+v2;125;La vie est étrange ici, n'est-ce pas ?
+v1;155;C'est sûr!
+
+newchat;key:weird1,v2:child,weigth:1
+v1;0;Regardes ce porc, n'est-il pas mignon ?
+v2;30;AAAaaah ! Dégage !
+v1;60;As-tu peur des cochons ?
+v2;80;N-non ! Bien sûr que non !
+v1;110;Hahahahahaha! Comme c'est drôle !
+
+newchat;key:weird2,weigth:1
+v2;0;Ahh... Du bon souvlaki. Tu veux un morceau ?
+v1;30;*Cronch*
+v1;40;Merci ! J'adore le souvlaki.
+v2;70;Qui n'aime pas !
+v1;100;As-tu déjà essayé de mettre un peu de terre dans le Souvlaki ?
+v2;140;...
+v2;150;Non ?
+v1;170;Parfois je le fais... Ah... Ça a commencé lorsque mon souvlaki est tombé dans l'herbe l'année dernière... Délicieux !
+v2;220;Quoi ? Tu laisses tomber ton souvlaki dans la terre et tu le manges ? Mais, mais.. ?
+v1;260; Mais ça a vraiment du goût !
+v2;280;Tu es givré.
+
+newchat;key:weird3,weigth:1
+v1;0;Je veux chevaucher un cochon !
+v2;30;Pourquoi?
+v1;60;C'est cool!
+v2;80;Pourquoi Diable voudrais-tu monter un cochon ?
+v1;110;Bah parce que c'est cool !
+v2;120;Tu es fou à lier.
+
+newchat;key:chatter1,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;As-tu déjà entendu le secret du bûcheron ?
+v2;30;Non, qu'est-ce qui ne tourne pas rond avec lui ?
+v1;60;Il semble récolter les pommes, et les vendre à ces Normands !
+v2;90;C'est impossible ! Et il garde l'argent ?
+v1;120;Évidemment !
+
+newchat;key:chatter2,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Mon mari dit qu'un baron va bientôt visiter notre village!
+v2;30;Pourquoi viendrait-il ici?
+v2;40;C'est un homme de poigne, influent, et redoutable...
+v1;70;Quoi ? Tu aimes ce genre d'hommes ?
+v2;100;Avoue qu'ils sont attirants !
+
+newchat;key:chatter3,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Il y a une femme de mauvaise réputation dans le village d'à côté !
+v1;20;Il semblerait que certains hommes de nos villages soient allés la voir !
+v2;60;Horrible ! Je dois demander à mon mari !
+v1;90;Le mien semble innocent. Mais je ne suis pas sûre du tien, ma chère !
+v2;120;J'espère qu'il l'est aussi. Il a intérêt.
+
+newchat;key:chatter4,v1:female,v2:female,v1:adult,v2:adult,,v1:hasspouse,weigth:15
+v1;0;J'aime regarder les enfants jouer !
+v1;20;Ça me donne toujours envie d'avoir un bébé !
+v2;50;Es-tu sûre d'avoir de quoi te le permettre ?
+v2;70;Les enfants nous ruinent !
+v1;100;Ne t'inquiète pas pour ça ! Mon mari a plus qu'assez d'argent.
+
+newchat;key:chatter5,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Ma chère, ton mari est un soiffard !
+v2;15;Comment oses-tu dire ça ?
+v1;45;Ton homme est venu soûl chez nous la nuit dernière !
+v1;70;Il nous a dit qu'il voulait se marier avec un mouton.
+v1;100;Et que ce serait sûrement une immense fête de mariage !
+v1;130;S'il te plaît, reprends le dessus sur ton mari.
+v1;150;C'est vraiment embarrassant.
+v2;180;D'accord, d'accord, je vais le punir !
+v2;210;Privé de vin !
+
+newchat;key:chatter6,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Ton pain est si délicieux ! Quel est ton secret ?
+v2;30;Juste un peu de sucre ajouté à la pâte.
+v1;60;Vraiment ? Rien de plus ?
+v2;90;Rien de plus ! Tu verras la différence.
+
+newchat;key:chatter7,v1:female,v2:female,v1:adult,v2:adult,v2:hasspouse,weigth:15
+v1;0;Qui était cet homme que tu as vu la nuit dernière ?
+v2;30;Quel homme ?
+v1;40;L'homme qui est sorti en douce par ta fenêtre !
+v1;45;Ne crois pas que je ne l'ai pas vu !
+v2;60;Comment oses-tu..? Je suis et je resterai toujours fidèle à mon mari.
+v1;80;Oui, oui. Je voudrais dire la même chose, si j'étais à ta place.
+v2;110;Ce n'est pas vrai ! Ne répands pas de rumeurs sur moi.
+
+newchat;key:chatter8,v1:female,v2:female,v1:adult,v2:adult,weigth:15
+v1;0;Ces nouveaux ustensiles de cuisine sont géniaux !
+v2;30;Oui, c'est tellement plus facile de cuisiner avec ! C'est super !
+v1;60;Mille mercis aux forgerons et aux artisans, qui ont pensé à de telles inventions !
+v2;90;Oui! C'est pour cela que je suis fière d'être Romaine.
+
+newchat;key:chatter9,v1:female,v2:female,v1:adult,v2:adult,v1:notvtype:lady_byzantine,v2:notvtype:lady_byzantine,weigth:15
+v1;0;Je suis jalouse de ces gens riches.
+v1;20;Ils ont de si beaux vêtements en soie!
+v2;50;Ce n'est vraiment pas juste. Ils ne font rien et obtiennent quand même les meilleures choses.
+
+newchat;key:chatter10,v1:female,v2:female,v1:adult,v2:adult,weigth:1
+v1;0;As-tu entendu parler de ce baron dans le village voisin ?
+v2;30;Oui, c'est celui dont on a retrouvé la femme assassinée ?
+v1;60;Exact ! Mon mari vient de me dire que le baron l'aurait tuée de ses propres mains !
+v2;100; Quoi..?
+v2;130;J'ai toujours su qu'il le ferait!
+v2;150;Mais personne ne m'a crue.
+
+newchat;key:chatter11,v1:female,v2:female,v1:adult,v2:adult,v1:hasspouse,weigth:15
+v1;0;T'es-tu déjà demandé comment cela serait si nous étions en guerre ?
+v1;30;Il y a maintenant des hommes prêts à se battre pour notre patrie !
+v1;55;Je les admire !
+v2;80;Une guerre serait terrible.
+v2;110;Tu parles comme un soldat.
+v2;140;Mais tu as un mari !
+v1;170;Mais il est fainéant et alcoolique !
+
+newchat;key:talking3,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;Nous n'avons pas assez de vin dans ce maudit village !
+v2;30;Je suis d'accord ! Nous devons installer plus de vignobles !
+v1;60;Et de tavernes !
+v2;90;Pourquoi ne pas ouvrir notre propre taverne ?
+v1;120;Bonne idée ! Il faut qu'on planifie ça.
+v2;150;Mais comment allons-nous débuter ?
+v1;180;Et nos femmes ne seront pas très contentes d'entendre cela !
+v2;210;Mais non, vendre du vin Romain est toujours une bonne excuse !
+v1;240;Très bien ! Il faut qu'on économise de l'argent.
+v1;270;Quand nous aurons assez, on pourra réussir notre objectif !
+v2;300;Nous aurons la plus grande taverne de tout l'empire !
+v1;325;Pour sûr !
+
+newchat;key:talking6,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;De la bonne nourriture, des bonnes armes, un bel art - C'est ce pourquoi nous sommes une nation !
+v2;30;Et du vin excellent !
+
+newchat;key:talking7,v1:male,v2:male,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,weigth:15
+v1;0;J'en ai marre de ma femme. Je dois en changer !
+v2;30;Qui n'est pas fatigué de la sienne ?
+v1;60;Peut-être devrions-nous quitter le village à la recherche de nouvelles épouses !
+v2;90;Oh oui ! Les Mayas, et les Indiens ont de très belles femmes, tu sais ?
+v2;140;Ce village est perdu sans nous.
+v2;160;Et n'oublions pas nos mômes !
+v1;180;Arg ! Nos enfants ! Ils ne survivraient pas sans père!
+v1;220;Mais... Cela veut dire que nous devons rester ici, avec notre vie ennuyeuse ?
+v2;255;Je crois que c'est le meilleur chemin à suivre.
+
+newchat;key:talking8,v1:male,v2:male,v1:adult,v2:adult,v2:vtype:silkfarmer_byzantine,weigth:15
+v1;0;C'est assez fascinant de voir comment vous regardez ces icônes.
+v2;30;Bien sûr, C'est du grand art Romain !
+v1;60;Comme tout ce que nous faisons. Regarde nos magnifiques maisons !
+v2;90;Et n'oublie pas notre glorieuse histoire !
+
+newchat;key:talking9,v1:male,v2:male,v1:adult,v2:adult,weigth:15
+v1;0;Te souviens-tu de cette fille pour qui nous nous battions quand on était jeunes?
+v2;30; Oui... C'était une mauvaise période. Heureux que cela soit terminé.
+v1;60;Je suis heureux de t'entendre dire ça, parce qu'elle vient juste de me dire qu'elle m'aimait toujours !
+v2;90;Quoi ? Menteur !
+
+newchat;key:flirt1,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:nospouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé beauté, je te plait ?
+v2;20;*sbaf*
+v2;25;Tu es marié.
+
+newchat;key:flirt2,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé, tu sembles vraiment en forme aujourd'hui $targetfirstname !
+v2;30;Merci !
+v1;60;De rien, ma chère !
+
+newchat;key:flirt3,v1:male,v2:female,v1:adult,v2:adult,v1:hasspouse,v2:hasspouse,notrel:sibling,notrel:child,notrel:parent,weigth:5
+v1;0;Hé, $targetfirstname, est-ce qu'une beauté comme toi souhaite un homme serviable comme moi ?
+v2;40;Tu es marié, et je le suis également.
+v2;60;Je pense que tu n'es pas très fidèle ! j'en parlerai à ta femme !
+v1;75;NON - tu ne le feras pas -
+v1;85;Je ne suis pas celui que tu penses, je suis son jumeau maléfique !
+v2;120;Bien sûr que tu l'es, le même jumeau maléfique qui est toujours soûl !
+
+newchat;key:flirt4,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v1;0;Comment se passe votre rôle de femme au foyer ?
+v2;30;Bien, bien, je suis juste un peu triste.
+v1;60;Oh non, que s'est-il passé?
+v2;90;Mon mari m'a crié dessus.
+v1;120;Comment peut-il faire cela, devant pareille beauté ?
+v2;150;Merci de me remonter le moral, $targetfirstname!
+
+newchat;key:flirt5,v1:male,v2:female,v1:adult,v2:adult,notrel:sibling,notrel:child,notrel:parent,weigth:10
+v2;0;*urgh*
+v1;30;Ça va, $targetfirstname?
+v2;50;Oui, je suis fatiguée par le labeur.
+v1;70;Puis-je t'aider ? Peut-être que tu te sentiras mieux ?
+v2;90;Bien sûr ! Merci infiniment !
+
+newchat;key:flirt6,v1:male,v2:female,v1:adult,v2:adult,,weigth:10
+v1;0;Comment ça se passe ?
+v2;30;Tout va bien, et vous ?
+v1;60;Egalement, merci de demander !
+v1;75;Mais je vois qu'il y a quelque chose qui vous tracasse !
+v2;90;Il n'y a - rien.
+v1;110;Dites-moi !
+v2;130;C'est seulement que ma vie est si terne ici.
+v2;160;Je souhaitais vraiment me décider à aller en ville lorsque j'étais jeune.
+
+newchat;key:brothertalk1,v1:male,v1:adult,v2:male,v2:adult,rel:sibling,weigth:10
+v1;0;$targetfirstname, mon frère ! C'est bon de te voir !
+v1;30;Je viens juste de retrouver ma vieille épée en bois !
+v1;50;Tu te souviens ?
+v2;80;Attends, ne serait-ce pas l'épée que père nous avait donnée ?
+v1;110;C'est ça ! Te souviens-tu de nos batailles avec ?
+v2;140;Comment oublier ? J'en garde quelques cicatrices.
+v2;170;Pendant que j'y pense...
+v2;200;C'était cruel de la part de notre père de nous donner une seule épée pour deux !
+v2;240;Il savait qu'on allait se battre pour l'avoir !
+v1;270;Et il avait raison !
+v2;300;Parce que tu l'as gardée !
+
+newchat;key:sistertalk1,v1:female,v1:adult,v2:female,v2:adult,rel:sibling,weigth:10
+v1;0;Te souviens-tu de ce charretier que nous aimions tant dans notre enfance ?
+v2;30;Bien sûr ma soeur. Nous étions ses plus grandes admiratrices !
+v1;60;Je me demande ce qu'il est advenu de lui.
+v1;90;Je n'ai plus jamais entendu parler de lui...
+v2;120;Il devrait s'installer dans un village comme le nôtre, avoir une femme et des enfants.
+v1;150;Bref, j'aimerais bien le revoir de temps en temps !
+v2;180;Moi aussi!
+
+newchat;key:brothersister,v1:male,v1:adult,v2:female,v2:adult,v2:hasspouse,rel:sibling,weigth:10
+v1;0;$targetfirstname, ma fille, je me demande toujours pourquoi tu veux te marier avec cet imbécile.
+v2;30;Parce que je l'aime !
+v1;60;Et maintenant ton nom est $targetlastname ! $targetlastname ! C'est moche comme nom !
+v2;90;Hé ! Ne sois pas si mauvais ! C'est toi qui as amorcé le conflit.
+v2;110;Tu as bu !
+
+newchat;key:seljuks,v1:adult,v2:adult,weigth:10
+v1;0;As-tu entendu parler des Seljuks depuis que nous sommes arrivés ?
+v2;30;Non, penses-tu qu'ils soient venus avec nous ?
+v1;60;J'en doute.
+v2;90;J'imagine que nous allons devoir nous faire des ennemis ici aussi.
+v1;120;Nous devons encore nous occuper des Normands.
+v2;150;Eh bien, nous sommes des Romains ! Nous pouvons facilement éliminer ces bandits. À ROME !
+v1;165;À Rome !
+
+newchat;key:normans,v1:adult,v2:adult,weigth:6
+v1;0;As-tu entendu parler du village Normand à proximité ?
+v2;30;Ce n'est pas bon, je me souviens qu'ils attaquaient le sud de l'Italie avant que nous venions ici.
+v1;60;Espérons qu'ils ne nous attaquent pas.
+v2;90;Espérons.
+
+newchat;key:constantinople,v1:adult,v2:adult,weigth:9
+v1;0;Je me demande ce qui est arrivé à Constantinople ?
+v2;30;Je pense qu'elle est venue avec nous sur cette terre.
+v1;60;Pourquoi penses-tu cela ?
+v2;90;J'ai vécu près de cette ville, et je suis venu ici.
+v1;120;C'est vrai, mais tellement de personnes y vivent qu'on aurait dû en entendre parler.
+v2;150;Elle pourrait être très loin.
+v1;180;Oui mais la gloire de Constantinople est si grande que même les chinois ont du en entendre parler.
+v2;210;Ne me dis pas que tu crois ces rumeurs sur la Chine ?
+v1;240;Je pense qu'une partie est vraie.
+v2;270;Mais la Chine est si mystérieuse, on ne peut être sûr de rien.
+v1;300;Il y a aussi tant de mystères, si Constantinople est ici, qu'on ne peut savoir.
+v2;330;En effet, mais même si Constantinople n'est pas ici, nous devons agrandir et protéger l'empire Romain.
+v1;360;Pour cela je suis d'accord avec toi!
+v2;390;Puisse Rome être éternelle !
+
+newchat;key:soldiers2,v1:adult,v1:male,v1:vtype:soldier_byzantine,v2:adult,v2:male,v2:vtype:soldier_byzantine,weigth:3
+v1;0;J'espère que nous n'allons pas devoir aller combattre des barbares de nouveau.
+v2;30;Quoi ? Nous sommes des soldats, c'est notre vocation d'aller tuer des barbares ! Pourquoi rejoindre l'armée si tu n'aimes pas te battre ?
+v1;60;Je pensais que ça serait facile d'être soldat - tuer quelques mobs et un barbare de temps en temps. Mais maintenant quand j'en tue un, je regarde son visage et me dis, "peut-être que nous ne devrions pas les tuer."
+v2;120;Tu réfléchis trop ! Va tuer des barbares pour Rome. Sinon ils nous tueront et détruiront nos foyers ! Ce ne sont que des sauvages.
+v1;150;As-tu rencontré ces gens que tu veux massacrer ? Non ! Ils sont peut-être différents de ce qu'on nous a dit.
+v2;180;C'est vrai, ils sont peut-être bien pires.
+v1;210;Je crois que tu ne comprends pas mes problèmes.
+v2;240;Je suis un soldat, pas un philosophe. Tu devrais aller prier, tu as clairement besoin d'aide divine.
+v1;270;J'ai déjà essayé et je n'ai rien reçu. Mes conclusions n'ont pas changé.
+v2;300;Quoi ? Alors tu es clairement un hérétique ! Retourne prier jusqu'à ce que tu puisses aller tuer des barbares de nouveau !
+v1;330;Peut-être que Dieu ne veut pas que j'aille faire ça !
+v2;360;Je crois surtout que Dieu souhaite que tu prennes ta retraite...
+
+
+newchat;key:sunZombie,tag:notraining,weigth:2
+v1;0;J'adore les journées ensoleillées !
+v2;30;Qui n'aime pas ça ?
+v1;60;Moi, je n'aime pas.
+v2;120;Pourquoi donc ?
+v1;150;Le soleil brûle ! Je déteste être dehors !
+v2;180;Tu te comportes comme un zombie !
+v1;210;Peut-être que j'en suis un...
+
+newchat;key:lightningPig,weigth:1,v1:adult,v2:adult
+v1;0;Je ne me sens pas bien...
+v2;30;Qu'est-ce qui ne va pas ? Es-tu malade ?
+v1;60;Non, je v-v-viens juste de me rapp-peler quelque ch-chose.
+v2;100;Tu as vraiment l'air mal en point. Tu es sûr que tu n'es pas malade ?
+v1;120;N-non, j'ai juste p-peur.
+v2;150;Alors, qu'est-ce qui s'est passé ?
+v1;180;Pendant le d-dernier orage. Je marchais hors du v-v-village, je savais que je ne pourrais pas rentrer avant la tempête. Alors je me suis abrité sous un arbre.
+v2;210;Tu as risqué ta vie hors du village ! Tu aurais pu mourir !
+v1;240;Eh bien, j'étais à l'abri. Mais ensuite j'ai vu un cochon. La foudre l'a frappé. Et le c-cochon mort... i-il s'est relevé et a bougé c-comme nous, en me p-poursuivant avec une épée brillante !
+v2;290;Tu dis n'importe quoi. Ce devait être un cauchemar.
+v1;320;C'était vrai ! Vrai ! Vrai ! Vrai !
+v2;350;Tu es fou. Va boire un peu de vin et calme-toi.
+v1;380;Je vais f-faire ça. Peut-Peut-être que ça aidera.
+
+newchat;key:loneVillage,weigth:10
+v1;0;Ennuyeux. Tout est toujours pareil ici.
+v2;30;Au moins, c'est paisible.
+v1;60;Rien de spécial pour un village reculé comme le nôtre !
+
+newchat;key:householdTry,v1:adult,v1:female,v2:child,v2:female,rel:parent,weigth:10
+v1;0;Il est temps de t'apprendre à t'occuper d'un foyer.
+v2;30;Super, par quoi commence-t-on ? Est-ce que je peux faire des souvlakis ? S'il te plaaaît !
+v1;60;Voyons d'abord comment tu te débrouilles pour le ménage.
+v2;90;D'accord, mais tu me montreras comment faire des souvlakis plus tard, promis ?
+v1;120;Promis.
+
+newchat;key:woodSword,v1:adult,v1:male,v2:child,v2:male,rel:parent,weigth:5
+v2;0;Aïe...
+v1;30;Tu as une mine affreuse ! Qu'est-ce qui s'est passé ?
+v2;60;Eh bien, tout le monde a une épée en bois sauf moi.
+v2;80;Alors ils ont décidé de m'attaquer !
+v2;100;Tu dois m'en procurer une, toi aussi !
+v1;120;Je vois que tu as utilisé de la peinture pour tes cicatrices et tes blessures. Bien essayé !
+v2;150;Peu importe ! S'il te plaît, donne-moi une épée !
+v1;180;Les épées sont dangereuses. Pas d'épée pour toi !
+
+newchat;key:Inuit,v1:adult,v2:adult,weigth:10
+v1;0;Tout à l'heure, je parlais avec un marchand byzantin et il m'a parlé de villages très loin dans la neige.
+v2;30;Des villages dans la neige ?
+v1;60;Oui, on les appelle les "Inuits".
+v2;90;Inuits ? Quel nom étrange, à quoi ressemblaient-ils ?
+v1;120;Le marchand a dit qu'ils ne croient pas à l'argent.
+v2;150;Ils ne croient pas à l'argent ?! Comment pourraient-ils vivre ?
+v1;180;Ils partageaient tout équitablement. Cela rendait le commerce avec eux très difficile.
+v2;210;Pauvre marchand. Au moins, il est de retour dans l'Empire romain, loin de ces barbares.
+v1;240;Je suis d'accord ! L'Empire romain est la meilleure terre pour le commerce !
+
+newchat;key:kidsBos,v1:child,v2:child,weigth:5
+v1;0;Bêê… Bêêê… Je suis le roi des bergers !
+v2;30;Arrête ça ! Tu vas l'invoquer en faisant ça !
+v1;60;Ô Boskokrator, je te bâtis un lieu sacré…
+v2;90;Tais-toi ! Tu ne sais pas ce qui arrive dans la légende ?
+v1;120;$targetfirstname, espèce de pleurnichard ! Ce n'est que ça ! Une légende !
