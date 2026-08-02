@@ -43,6 +43,8 @@
 	quest.09AFDFF8E7EBED01.quest_subtitle: "村民的建造速度可能比不上玩家的供给速度"
 	quest.09AFDFF8E7EBED01.title: "行商"
 	quest.09E437B7DCB85F2C.quest_subtitle: "当您决定暂停手头的工作时，这里是休闲放松的绝佳去处。"
+	quest.09ED54D359AA7F81.quest_subtitle: "点进任务，鼠标移到左上引擎图标，轻推W"
+	quest.09ED54D359AA7F81.title: "轻推[W]开始思索"
 	quest.09FE739537D00F9F.quest_desc: ["若要村庄本身为玩家建造豪华别墅，大量的材料需求会把工期拉的很长，此时需要玩家来供给材料。"]
 	quest.09FE739537D00F9F.quest_subtitle: "4个金币是最简单的部分"
 	quest.09FE739537D00F9F.title: "豪华别墅"
@@ -772,6 +774,8 @@
 	]
 	quest.7E0AC9A70D35C299.quest_subtitle: "完全是为了减负而加"
 	quest.7E0AC9A70D35C299.title: "机械动力"
+	quest.7EE62468265C123B.quest_subtitle: "点进任务，鼠标移到左上引擎图标，轻推W"
+	quest.7EE62468265C123B.title: "押[W]以格物"
 	reward.04708E1509636935.title: "生成黑猫"
 	reward_table.191188542CDCD3A7.title: "奇异饰品"
 	reward_table.2342548676D3DE74.title: "马的号角"

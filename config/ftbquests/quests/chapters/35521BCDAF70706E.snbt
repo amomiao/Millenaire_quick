@@ -38,6 +38,16 @@
 			x: 4.0d
 			y: 9.5d
 		}
+		{
+			click: " "
+			height: 2.0d
+			hover: ["查阅左右的任务进行思索"]
+			image: "modpack:textures/quests/r3_create_w.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -4.0d
+			y: 5.5d
+		}
 	]
 	order_index: 3
 	quest_links: [ ]
@@ -856,6 +866,26 @@
 			]
 			x: 11.5d
 			y: -2.0d
+		}
+		{
+			id: "09ED54D359AA7F81"
+			tasks: [{
+				id: "3020327E58FE115D"
+				item: { count: 1, id: "createmomosadditions:first_level_motor" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 6.0d
+		}
+		{
+			id: "7EE62468265C123B"
+			tasks: [{
+				id: "45F93E71F4CE3F0A"
+				item: { count: 1, id: "createmomosadditions:second_level_motor" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.0d
 		}
 	]
 }
