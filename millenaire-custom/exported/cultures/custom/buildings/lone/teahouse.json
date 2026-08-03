@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:custom",
+  "building_id": "teahouse",
+  "category": "extra",
+  "native_name": "teahouse",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 23,
+            "height": 21,
+            "depth": 34
+          },
+          "ground_level": -1
+        }
+      ]
+    }
+  ]
+}

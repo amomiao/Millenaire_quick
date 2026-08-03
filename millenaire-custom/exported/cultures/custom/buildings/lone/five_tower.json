@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:custom",
+  "building_id": "five_tower",
+  "category": "extra",
+  "native_name": "five_tower",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 25,
+            "height": 56,
+            "depth": 23
+          },
+          "ground_level": -1
+        }
+      ]
+    }
+  ]
+}

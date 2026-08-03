@@ -9,8 +9,8 @@
     {
       "item": "millenaire:denier",
       "probability": 1.0,
-      "fixed": 20,
-      "random": 44
+      "fixed": 64,
+      "random": 256
     },
     {
       "item": "minecraft:iron_ingot",
@@ -20,15 +20,15 @@
     },
     {
       "item": "millenaire:norman_pickaxe",
-      "probability": 0.2,
+      "probability": 0.5,
       "fixed": 1,
-      "random": 0
+      "random": 5
     },
     {
       "item": "millenaire:norman_shovel",
-      "probability": 0.2,
+      "probability": 0.5,
       "fixed": 1,
-      "random": 0
+      "random": 5
     },
     {
       "item": "minecraft:cobblestone",
@@ -45,15 +45,15 @@
     {
       "item": "minecraft:coal",
       "probability": 1.0,
-      "fixed": 16,
-      "random": 32
+      "fixed": 32,
+      "random": 64
     }
   ],
   "variants": [
     {
       "variant": "a",
       "building_orientation": 2,
-      "ground_level": -5,
+      "ground_level": -1,
       "levels": [
         {
           "level": 0,

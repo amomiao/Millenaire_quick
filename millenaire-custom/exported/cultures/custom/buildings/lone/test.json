@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:custom",
+  "building_id": "test",
+  "category": "extra",
+  "native_name": "test",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 1,
+            "height": 1,
+            "depth": 2
+          },
+          "ground_level": -1
+        }
+      ]
+    }
+  ]
+}

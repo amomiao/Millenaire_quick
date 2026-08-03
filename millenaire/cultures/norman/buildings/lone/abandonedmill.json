@@ -9,26 +9,26 @@
     {
       "item": "minecraft:bread",
       "probability": 1.0,
-      "fixed": 2,
-      "random": 6
+      "fixed": 16,
+      "random": 48
     },
     {
       "item": "millenaire:denier",
       "probability": 1.0,
-      "fixed": 20,
-      "random": 44
+      "fixed": 64,
+      "random": 256
     },
     {
       "item": "minecraft:wheat",
       "probability": 1.0,
-      "fixed": 8,
-      "random": 16
+      "fixed": 32,
+      "random": 96
     },
     {
       "item": "millenaire:norman_hoe",
-      "probability": 0.2,
+      "probability": 1.0,
       "fixed": 1,
-      "random": 0
+      "random": 5
     }
   ],
   "variants": [

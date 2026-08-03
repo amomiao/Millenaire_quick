@@ -1,0 +1,20 @@
+=== Millénaire Custom Content Report ===
+Generated: 2026-08-03 16:54:57
+Mod version: millenaire 9.0.0-beta.2
+
+=== Culture: norman (built-in with overrides) ===
+  Source: standard + custom overlay
+  sub-mods: momos-pack
+  building_plan    4 file(s) on disk
+
+=== Global ===
+  gathering_type   0 custom file(s)
+  quests           0 custom file(s)
+  language overlays 0 custom file(s) across all locales
+
+=== Summary ===
+Cultures: 0 custom, 1 built-in with overrides, 7 total loaded
+Registries after load: 1806 building plans, 285 villager types, 126 village types
+
+For detailed errors and warnings during loading, see logs/latest.log
+(search for 'Error', 'WARN CultureLoader', 'WARN BuildingPlanSet').

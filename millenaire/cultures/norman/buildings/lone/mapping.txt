@@ -1,0 +1,4 @@
+abandonedmill <- teahouse
+abandonedmine <- huizhou_style_house
+abandonedtower <- five_tower
+alchemisttower <- triple_tower (x)nbt太大了不行

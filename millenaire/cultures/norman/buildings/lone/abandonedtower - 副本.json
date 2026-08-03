@@ -1,0 +1,63 @@
+{
+  "culture": "millenaire:norman",
+  "building_id": "abandonedtower",
+  "category": "lone",
+  "is_town_hall": true,
+  "native_name": "Tour détruite",
+  "icon": "torch",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 20,
+      "random": 44
+    },
+    {
+      "item": "millenaire:norman_axe",
+      "probability": 0.1,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_helmet",
+      "probability": 0.1,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_helmet",
+      "probability": 0.1,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_leggings",
+      "probability": 0.1,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_boots",
+      "probability": 0.1,
+      "fixed": 1,
+      "random": 0
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -12,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 22,
+            "depth": 10
+          }
+        }
+      ]
+    }
+  ]
+}

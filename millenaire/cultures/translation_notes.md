@@ -1,0 +1,115 @@
+# Namelist 翻译说明
+
+- 这些译文基于常见音译与传统译名规则生成，部分内容可能不准确。
+- 已按照“有官方/传统译名则优先使用；不确定项则保留原文或按音译生成”的方式处理。
+- 下面是需要后续人工复核的重点类别：
+  - 村庄名、地名、宗教村庄名：容易出现地名/历史名词偏差。
+  - 因纽特、玛雅、拜占庭复合名：音节较长，音译可能不稳定。
+  - 阶级、职业、宗教相关命名表：如 high_caste、low_caste、merchant、religious 等，语义上可能需要更细致的文化语境校对。
+
+## 可能不准确的条目
+- 由自动音译规则生成的条目，尤其是村庄名、长复合名和少数民族专有名词，建议人工复查。
+- 重点关注：
+  - byzantines/namelists/villages.txt
+  - byzantines/namelists/religious_villages.txt
+  - inuits/namelists/*.txt
+  - mayan/namelists/*.txt
+  - norman/namelists/*.txt
+
+
+## 已处理文件
+- byzantines/namelists/greek_brother.txt: 1 项使用自动音译，示例：Aderfé
+- byzantines/namelists/greek_family_names.txt: 73 项使用自动音译，示例：Irodiás, Amethaía, Bringas, Choniká, Láskaris, Maniákes, Pródromos, Pséllos
+- byzantines/namelists/greek_father.txt: 1 项使用自动音译，示例：Patér
+- byzantines/namelists/greek_men_names.txt: 72 项使用自动音译，示例：Iraklónas, Chímairios, Ignátios, Isaák, Ioulianós, Ioustinianós, Léontos, Leóntios
+- byzantines/namelists/greek_monk_names.txt: 52 项使用自动音译，示例：Pakómios, Arsénios, Athanásios, Makários, Isaḯas, Vitálios, Theódoros, Grigórios
+- byzantines/namelists/greek_mother.txt: 1 项使用自动音译，示例：Mitéra
+- byzantines/namelists/greek_nun_names.txt: 25 项使用自动音译，示例：Nína, Melánia, Syliktikó, Paoúla, Theoktistés, Ntomnína, Makrína, Pelagía
+- byzantines/namelists/greek_sister.txt: 1 项使用自动音译，示例：Aderfí
+- byzantines/namelists/greek_special_first.txt: 1 项使用自动音译，示例：Pan
+- byzantines/namelists/greek_special_last.txt: 1 项使用自动音译，示例：Krator
+- byzantines/namelists/greek_women_names.txt: 19 项使用自动音译，示例：Niómpe, Athinás, Theotóta, Nkiolánta, Rempéka, Nkampriéla, Makedonía, Vyzantía
+- byzantines/namelists/merchant_art_family_names.txt: 5 项使用自动音译，示例：de Byzance, de Constantinople, Philoponus, Kinnamos, Moschopoulos
+- byzantines/namelists/merchant_art_first_names.txt: 5 项使用自动音译，示例：Georgios, Leo, Nikephoros, Eutocius, Demetrius
+- byzantines/namelists/merchant_food_family_names.txt: 3 项使用自动音译，示例：Cuistot, Legros, Ripaille
+- byzantines/namelists/merchant_food_first_names.txt: 3 项使用自动音译，示例：Pierre, Jean, Louis
+- byzantines/namelists/merchant_hindi_family_names.txt: 72 项使用自动音译，示例：Sharma, Paswan, Karmakar, Yadav, Prasad, Baghel, Agariya, Badhik
+- byzantines/namelists/merchant_hindi_first_names.txt: 21 项使用自动音译，示例：Ravi, Rajiv, Santosh, Akash, Akhil, Raj, Rahul, Rohit
+- byzantines/namelists/merchant_japanese_family_names.txt: 54 项使用自动音译，示例：Date, Sakuma, Sato, Suzuki, Takahashi, Watanabe, Nakamura, Kobayashi
+- byzantines/namelists/merchant_japanese_first_names.txt: 34 项使用自动音译，示例：Akira, Eiichi, Entarou, Gaku, Gojirou, Hachitarou, Hajime, Haruki
+- byzantines/namelists/merchant_mayan_family_names.txt: 72 项使用自动音译，示例：Ichik, Ikan, Acat, Ah Bolom Tzacab, Ah Cancum, Ah Chun Caan, Ah Ciliz, Ah Cuxtal
+- byzantines/namelists/merchant_mayan_first_names.txt: 21 项使用自动音译，示例：Acan, Ac Yanto, Ah Kin Xoc, Ah Tabai, Bacab, Balam, Buluc Chabtan, Chac Uayab Xoc
+- byzantines/namelists/merchant_norman_family_names.txt: 32 项使用自动音译，示例：Waldemar, Vilfrid, Thorstein, Tankred, Svenning, Sigvald, Sigmar, Roland
+- byzantines/namelists/merchant_norman_first_names.txt: 33 项使用自动音译，示例：Answald, Arnbjorn, Almut, Arnvald, Baldrik, Dankrad, Dltwin, Erwin
+- byzantines/namelists/merchant_plant_family_names.txt: 2 项使用自动音译，示例：le Sorcier, l'Herboriste
+- byzantines/namelists/merchant_plant_first_names.txt: 3 项使用自动音译，示例：Jean, Louis, Charles
+- byzantines/namelists/merchant_viking_family_names.txt: 5 项使用自动音译，示例：le Rouge, Porte-Hache, Skallagrimsson, Gormson, Ragnarsson
+- byzantines/namelists/merchant_viking_first_names.txt: 5 项使用自动音译，示例：Thorgal, Rorik, Harald, Eric, Sweyn
+- byzantines/namelists/merchant_weapons_family_names.txt: 3 项使用自动音译，示例：le Borgne, le Sinistre, la Balafre
+- byzantines/namelists/merchant_weapons_first_names.txt: 4 项使用自动音译，示例：Guillaume, Robert, Eric, Geodfroy
+- byzantines/namelists/merchant_wool_family_names.txt: 4 项使用自动音译，示例：Geertgen, Mynnesten, van Ouwater, Engelbrechtsz
+- byzantines/namelists/merchant_wool_first_names.txt: 4 项使用自动音译，示例：Jan, Pieter, Isaac, Willem
+- byzantines/namelists/religious_villages.txt: 34 项使用自动音译，示例：Hagia, Hagiassos, Hagia Galini, Hagia Eireni, Hagia Kyriaki, Hagia Lagana, Hagia Napa, Hagia Marina
+- byzantines/namelists/villages.txt: 49 项使用自动音译，示例：Acharna, Aeros, Albe, Anapolis, Apesokari, Aptera, Apoudoulu, Apollania
+- indian/namelists/low_caste_family_names.txt: 71 项使用自动音译，示例：Sharma, Paswan, Karmakar, Yadav, Prasad, Baghel, Agariya, Badhik
+- indian/namelists/low_caste_women_names.txt: 13 项使用自动音译，示例：Rani, Mayuri, Geeta, Seeta, Chanda, Titli, Vimla, Vimla
+- indian/namelists/merchant_oriental_family_names.txt: 4 项使用自动音译，示例：Khorasani, Alizadeh, Ghorbani, Shirazi
+- indian/namelists/merchant_oriental_first_names.txt: 4 项使用自动音译，示例：Mostafa, Hashem, Ardeshir, Farzad
+- indian/namelists/rani_names.txt: 2 项使用自动音译，示例：Mira, Reva
+- indian/namelists/sadhu_first.txt: 1 项使用自动音译，示例：Sadhu
+- indian/namelists/sadhu_last.txt: 1 项使用自动音译，示例：Vidya
+- indian/namelists/villages.txt: 92 项使用自动音译，示例：Achakari, Agraura, Akauni, Amiriti, Saharanpur, Bagai Khurda, Baghadu, Baghera
+- inuits/namelists/inuit_names.txt: 20 项使用自动音译，示例：Savapiabataqtuq, Puvlibniq, Napaaqtuq, Aqiabuq, Pisiqpisiqpiisrhaq, saqalataayiq, Mumibnaq, Tulugabnauraq
+- inuits/namelists/localmerchantfamily_names.txt: 21 项使用自动音译，示例：Savapiabataqtuq, Puvlibniq, Napaaqtuq, Aqiabuq, Pisiqpisiqpiisrhaq, saqalataayiq, Mumibnaq, Tulugabnauraq
+- inuits/namelists/localmerchantmen_names.txt: 20 项使用自动音译，示例：Savapiabataqtuq, Puvlibniq, Napaaqtuq, Aqiabuq, Pisiqpisiqpiisrhaq, saqalataayiq, Mumibnaq, Tulugabnauraq
+- inuits/namelists/men_names.txt: 20 项使用自动音译，示例：Savapiabataqtuq, Puvlibniq, Napaaqtuq, Aqiabuq, Pisiqpisiqpiisrhaq, saqalataayiq, Mumibnaq, Tulugabnauraq
+- inuits/namelists/merchant_viking_family_names.txt: 1 项使用自动音译，示例：Ragnarsson
+- inuits/namelists/merchant_viking_first_names.txt: 1 项使用自动音译，示例：Harald
+- inuits/namelists/villages.txt: 76 项使用自动音译，示例：A'aninin, Abenaki, Absaroke, Alabama, Anishinaabe, Aniyunwiya, Asakiwaki, Attikamekw
+- inuits/namelists/women_names.txt: 20 项使用自动音译，示例：Savapiabataqtuq, Puvlibniq, Napaaqtuq, Aqiabuq, Pisiqpisiqpiisrhaq, saqalataayiq, Mumibnaq, Tulugabnauraq
+- japanese/namelists/high_caste_family_names.txt: 8 项使用自动音译，示例：Minamoto, Fujiwara, Taira, Shikibu, Ki, Ariwara, Tachibana, Soga
+- japanese/namelists/high_caste_women_names.txt: 4 项使用自动音译，示例：Takako, Murasaki, Izumi, Komachi
+- japanese/namelists/low_caste_family_names.txt: 54 项使用自动音译，示例：Date, Sakuma, Sato, Suzuki, Takahashi, Watanabe, Nakamura, Kobayashi
+- japanese/namelists/low_caste_women_names.txt: 24 项使用自动音译，示例：Akane, Ami, Asuka, Aya, Ayano, Hina, Kana, Mai
+- japanese/namelists/villages.txt: 41 项使用自动音译，示例：Narai, Kakunodate, Kanazawa, Hagi, Matsue, Takayama, Kurashiki, Uchiko
+- mayan/namelists/evilking_family_name.txt: 1 项使用自动音译，示例：K'u Ix
+- mayan/namelists/evilking_name.txt: 1 项使用自动音译，示例：Ixtab
+- mayan/namelists/high_caste_family_names.txt: 7 项使用自动音译，示例：Yax Pasaj Chan Yoaat, Ukit Took', K'inich Yax K'uk' Mo', K'u Ix, B'alam Nan, Chan Imix K'awiil, Waxaklajuun Ub'aah K'awiil
+- mayan/namelists/high_caste_women_names.txt: 15 项使用自动音译，示例：Itzel, Ixchab, Ixchel, Ixchup, Malinali, Meztli, Nhutalu, Quibock-Nicte
+- mayan/namelists/low_caste_family_names.txt: 72 项使用自动音译，示例：Ichik, Ikan, Acat, Ah Bolom Tzacab, Ah Cancum, Ah Chun Caan, Ah Ciliz, Ah Cuxtal
+- mayan/namelists/low_caste_women_names.txt: 25 项使用自动音译，示例：Arana, Nictha, Tamay, Can, Be, Cantun, Canche, Chi
+- mayan/namelists/men_names.txt: 20 项使用自动音译，示例：Acan, Ac Yanto, Ah Kin Xoc, Ah Tabai, Bacab, Balam, Buluc Chabtan, Chac Uayab Xoc
+- mayan/namelists/questshaman_family_name.txt: 1 项使用自动音译，示例：Uchben
+- mayan/namelists/questshaman_name.txt: 1 项使用自动音译，示例：Tohil
+- mayan/namelists/villages.txt: 73 项使用自动音译，示例：Tik'al, Uaxactun, Waxaktun, Caracol, Kaminal Juyu, Uxmal, Kabah, Sayil
+- norman/namelists/alchemist_first.txt: 1 项使用自动音译，示例：Guillaume
+- norman/namelists/alchemist_last.txt: 1 项使用自动音译，示例：Vif-argent
+- norman/namelists/alchemistassistant_first.txt: 1 项使用自动音译，示例：Robert
+- norman/namelists/alchemistassistant_last.txt: 1 项使用自动音译，示例：Granite
+- norman/namelists/architect_first.txt: 1 项使用自动音译，示例：Nicolas
+- norman/namelists/architect_last.txt: 1 项使用自动音译，示例：de Weilbourg
+- norman/namelists/loneabbeys.txt: 9 项使用自动音译，示例：Abbaye de Villers-Canivet, Abbaye St Pierre, Abbaye de la Trinité, Abbaye St Roche, Abbaye de Cluny, Abbaye Notre-Dame, Abbaye de Beaupré, Abbaye de Charon
+- norman/namelists/loneinns.txt: 8 项使用自动音译，示例：Auberge de la Croix Blanche, Auberge du Cerf, Auberge Saint Jean, Auberge du Pèlerin, Auberge Saint Christophe, Auberge Sainte Anne, Auberge Saint Pierre, Auberge du Pot de Terre
+- norman/namelists/men_names.txt: 21 项使用自动音译，示例：Arnbjorn, Almut, Arnvald, Baldrik, Dankrad, Dltwin, Frank, Gerulf
+- norman/namelists/merchant_art_family_names.txt: 6 项使用自动音译，示例：de Byzance, de Constantinople, Philoponus, Monachos, Kinnamos, Moschopoulos
+- norman/namelists/merchant_art_first_names.txt: 5 项使用自动音译，示例：Georgios, Leo, Nikephoros, Eutocius, Demetrius
+- norman/namelists/merchant_food_family_names.txt: 3 项使用自动音译，示例：Cuistot, Legros, Ripaille
+- norman/namelists/merchant_food_first_names.txt: 3 项使用自动音译，示例：Pierre, Jean, Louis
+- norman/namelists/merchant_plant_family_names.txt: 2 项使用自动音译，示例：le Sorcier, l'Herboriste
+- norman/namelists/merchant_plant_first_names.txt: 3 项使用自动音译，示例：Jean, Louis, Charles
+- norman/namelists/merchant_viking_family_names.txt: 5 项使用自动音译，示例：le Rouge, Porte-Hache, Skallagrimsson, Gormson, Ragnarsson
+- norman/namelists/merchant_viking_first_names.txt: 5 项使用自动音译，示例：Thorgal, Rorik, Harald, Eric, Sweyn
+- norman/namelists/merchant_weapons_family_names.txt: 3 项使用自动音译，示例：le Borgne, le Sinistre, la Balafre
+- norman/namelists/merchant_weapons_first_names.txt: 4 项使用自动音译，示例：Guillaume, Robert, Eric, Geodfroy
+- norman/namelists/merchant_wool_family_names.txt: 4 项使用自动音译，示例：Geertgen, Mynnesten, van Ouwater, Engelbrechtsz
+- norman/namelists/merchant_wool_first_names.txt: 4 项使用自动音译，示例：Jan, Pieter, Isaac, Willem
+- norman/namelists/noble_family_names.txt: 5 项使用自动音译，示例：de Bayeux, de Conteville, de Mortain, de Falaise, de Ryes
+- norman/namelists/notredame.txt: 1 项使用自动音译，示例：Notre-Dame du Nouveau Monde
+- norman/namelists/villages.txt: 60 项使用自动音译，示例：Asnières, Aunay, Barbery, Barneville, Le Bô, Le Breuil, Campigny, Cauvicourt
+- norman/namelists/women_names.txt: 20 项使用自动音译，示例：Alfgard, Alwine, Bathilde, Bernhilde, Borglinde, Dithilde, Frida, Gisela
+- seljuk/namelists/turk_high_caste_family_names.txt: 10 项使用自动音译，示例：Osmanoglu, Bayramoglu, Aslan, Türkoglu, Emir, Kahraman, Bilgin, Kaplan
+- seljuk/namelists/turk_high_caste_women_names.txt: 13 项使用自动音译，示例：Elif, Zeynep, Miray, Zehra, Azra, Eylül, Melek, Fatma
+- seljuk/namelists/turk_low_caste_family_names.txt: 53 项使用自动音译，示例：Aydın, Kaya, Demir, Şahin, Çelik, Yıldız, Yıldırım, Özdemir
+- seljuk/namelists/turk_low_caste_women_names.txt: 56 项使用自动音译，示例：Hiranur, Ercin, Defne, Nehir, Yagmur, Meryem, Eslem, Beren
+- seljuk/namelists/turk_men_names.txt: 24 项使用自动音译，示例：Mert, Deniz, Bilal, Bünyamin, Ayaz, Yiğit, Asaf, Eren
+- seljuk/namelists/villages.txt: 70 项使用自动音译，示例：Abacı, Ada, Afşar, Ağaçcılar, Ahatlı, Ahmetbey, Bademli, Bağcılar

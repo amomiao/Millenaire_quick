@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:custom",
+  "building_id": "huizhou_style_house",
+  "category": "extra",
+  "native_name": "huizhou_style_house",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 23,
+            "height": 17,
+            "depth": 29
+          },
+          "ground_level": -1
+        }
+      ]
+    }
+  ]
+}

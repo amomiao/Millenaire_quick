@@ -9,45 +9,45 @@
     {
       "item": "millenaire:denier",
       "probability": 1.0,
-      "fixed": 20,
-      "random": 44
+      "fixed": 64,
+      "random": 256
     },
     {
       "item": "millenaire:norman_axe",
-      "probability": 0.1,
+      "probability": 0.5,
       "fixed": 1,
-      "random": 0
+      "random": 5
     },
     {
       "item": "millenaire:norman_helmet",
-      "probability": 0.1,
+      "probability": 0.5,
       "fixed": 1,
-      "random": 0
+      "random": 5
     },
     {
       "item": "millenaire:norman_helmet",
-      "probability": 0.1,
+      "probability": 0.5,
       "fixed": 1,
-      "random": 0
+      "random": 5
     },
     {
       "item": "millenaire:norman_leggings",
-      "probability": 0.1,
+      "probability": 0.5,
       "fixed": 1,
-      "random": 0
+      "random": 5
     },
     {
       "item": "millenaire:norman_boots",
-      "probability": 0.1,
+      "probability": 0.5,
       "fixed": 1,
-      "random": 0
+      "random": 5
     }
   ],
   "variants": [
     {
       "variant": "a",
       "building_orientation": 2,
-      "ground_level": -12,
+      "ground_level": -1,
       "levels": [
         {
           "level": 0,
