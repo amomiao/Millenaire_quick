@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "军队铁匠",
+  "textures": [
+    "millenaire:textures/entity/song/ml_soldier2.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songmale.png"
+      ]
+    },
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkmalepeasant.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmalepeasant2.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale2.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale3.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale4.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:craft_tachi",
+    "millenaire:craft_yumi"
+  ],
+  "tags": [
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64
+  },
+  "required_goods": {
+    "minecraft:white_wool": 10,
+    "minecraft:iron_ingot": 10,
+    "minecraft:leather": 10,
+    "minecraft:iron_nugget": 27
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "rural_family_names",
+  "icon": "minecraft:iron_chestplate",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword",
+    "rangedweapons"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_sword"
+}

@@ -1,0 +1,13 @@
+priority=50
+
+duration=15000
+
+heldItems=iron,leather,chinesehelmet
+
+input=iron,3
+input=leather,1
+output=chinesehelmet,1
+
+villagelimit=chinesehelmet,8
+
+sound=metal

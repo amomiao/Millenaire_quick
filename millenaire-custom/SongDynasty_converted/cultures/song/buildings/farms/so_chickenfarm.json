@@ -1,0 +1,111 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_chickenfarm",
+  "category": "farms",
+  "native_name": "养鸡场",
+  "shop": "animalfarm",
+  "min_distance": 0.6,
+  "male": [
+    "animalfarmer_m"
+  ],
+  "female": [
+    "animalfarmer_f"
+  ],
+  "tags": [
+    "chicken",
+    "pigs",
+    "oven"
+  ],
+  "icon": "minecraft:egg",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 21
+          },
+          "priority": 500,
+          "path_width": 1,
+          "tags": [
+            "chicken",
+            "pigs"
+          ],
+          "infoSoils": [
+            {
+              "crop": "carrot"
+            },
+            {
+              "crop": "wheat"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "pig"
+            },
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 21
+          },
+          "rebuild_path": true,
+          "tags": [
+            "chicken",
+            "pigs",
+            "oven"
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "pig"
+            },
+            {
+              "entity": "chicken"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 21
+          },
+          "priority": 50,
+          "tags": [
+            "chicken",
+            "pigs",
+            "oven"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 7,
+            "depth": 21
+          },
+          "priority": 30,
+          "path_level": 1,
+          "tags": [
+            "chicken",
+            "pigs",
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

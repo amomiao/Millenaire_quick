@@ -1,0 +1,52 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_lone_lumberman",
+  "category": "lone",
+  "native_name": "破旧樵夫小屋",
+  "shop": "lonelumberman",
+  "max_count": 0,
+  "male": [
+    "lumberman"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "grove",
+    "cider"
+  ],
+  "icon": "minecraft:stone_axe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "grove",
+        "cider"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 7,
+            "depth": 8
+          },
+          "priority": 5,
+          "infoTreeSpawns": [
+            {
+              "sapling": "oak"
+            },
+            {
+              "sapling": "birch"
+            },
+            {
+              "sapling": "pine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

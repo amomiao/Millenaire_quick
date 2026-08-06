@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_playerhugefield",
+  "category": "player",
+  "native_name": "中型空地",
+  "max_count": 0,
+  "icon": "minecraft:oak_fence",
+  "area_to_clear": 4,
+  "price": 2048,
+  "reputation": 32768,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 4,
+            "depth": 18
+          },
+          "priority": 1000
+        }
+      ]
+    }
+  ]
+}

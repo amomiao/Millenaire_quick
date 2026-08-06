@@ -1,0 +1,2 @@
+buys=gunpowder,iron,coal
+sells=tnt,compass,gunpowder

@@ -1,0 +1,35 @@
+minreputation:3*64
+chanceperhour:0.1
+maxsimultaneous:1
+
+step:new
+definevillager:key=startvillager,type=song/song_general
+definevillager:key=worker,type=song/song_worker_m,relatedto=startvillager,relation=nearbyvillage
+villager:startvillager
+duration:48
+
+label_english:TNT Delivery
+description_english:We need 58 tnt for the defence of the village! I need you to help me..
+description_success_english:Thank you my good man!
+description_refuse_english:Traitor!
+
+
+step:new
+villager:song_worker_m
+duration:168
+rewardgood:tnt,256
+
+label_english:Get TNT
+description_english:Here you go...
+
+step:new
+villager:startvillager
+duration:168
+requiredgood:stone,256
+rewardreputation:2*64
+rewardmoney:2*64
+penaltyreputation:2*64
+
+label_english:Bring Back Resources
+description_english:Do you have it now?
+description_success_english:Thank you my good man! Heres your reward..

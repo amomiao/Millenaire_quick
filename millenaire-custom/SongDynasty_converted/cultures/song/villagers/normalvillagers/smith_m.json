@@ -1,0 +1,49 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "工匠",
+  "textures": [
+    "millenaire:textures/entity/song/ml_blacksmith.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:pray",
+    "millenaire:craft_steelaxe",
+    "millenaire:craft_steelpickaxe",
+    "millenaire:craft_steelshovel",
+    "millenaire:craft_steelhoe",
+    "millenaire:craft_steelsword",
+    "millenaire:craft_stoneaxe",
+    "millenaire:craft_stonehoe",
+    "millenaire:craft_stonepickaxe",
+    "millenaire:craft_stoneshovel",
+    "millenaire:craft_stonesword"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64,
+    "minecraft:cobblestone": 16
+  },
+  "required_goods": {
+    "minecraft:iron_ingot": 10,
+    "minecraft:cobblestone": 24,
+    "minecraft:iron_nugget": 27
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "peasant_family_names",
+  "icon": "minecraft:iron_pickaxe",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:wooden_sword"
+}

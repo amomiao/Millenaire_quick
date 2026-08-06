@@ -1,0 +1,49 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_grove",
+  "category": "wood",
+  "native_name": "原、云杉木树场",
+  "min_distance": 0.6,
+  "tags": [
+    "grove",
+    "nopaths"
+  ],
+  "icon": "minecraft:oak_sapling",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "grove",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 3,
+            "depth": 10
+          },
+          "priority": 500,
+          "path_width": 1,
+          "abstracted_production": [
+            "wood,64",
+            "wood_darkoak,64",
+            "wood_pine,64"
+          ],
+          "infoTreeSpawns": [
+            {
+              "sapling": "pine"
+            },
+            {
+              "sapling": "oak"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

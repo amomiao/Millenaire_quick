@@ -1,0 +1,21 @@
+
+
+priority=30
+
+//en/in millisecondes
+duration=10000
+
+//objets tenus par le villageois
+heldItems=ceramic,fishraw
+
+//chaque action consome tous les objets "input" et produit tous les "output"
+//each action will require and use all the inputs and produce all the outputs
+input=ceramic,1
+input=fishraw,2
+output=sharksfin,1
+
+//s'il y a plus d'objets dans le centre du village que ça, arrêter le but
+//if more than that number of item is present in townhall, stop goal
+buildinglimit=sharksfin,64
+townhalllimit=sharksfin,64
+villagelimit=sharksfin,150

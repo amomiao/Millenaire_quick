@@ -1,0 +1,75 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_fort_a_towers",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "so_fort",
+    "variant": "a",
+    "level": 2
+  },
+  "is_town_hall": false,
+  "native_name": "军事塔楼",
+  "max_count": 0,
+  "icon": "minecraft:bow",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 40,
+            "height": 12,
+            "depth": 32
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 40,
+            "height": 12,
+            "depth": 32
+          },
+          "priority": 200
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 40,
+            "height": 12,
+            "depth": 32
+          },
+          "priority": 200
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 40,
+            "height": 12,
+            "depth": 32
+          }
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 40,
+            "height": 12,
+            "depth": 32
+          }
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 40,
+            "height": 14,
+            "depth": 32
+          }
+        }
+      ]
+    }
+  ]
+}

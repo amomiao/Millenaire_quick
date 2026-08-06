@@ -1,0 +1,22 @@
+//Parameters for the building as a whole
+building.length=12
+building.width=14
+building.buildingorientation=3
+building.icon=steelchest
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=建筑师小屋
+initial.priority=300
+initial.male=song_smith_m
+initial.female=song_peasant_f
+initial.prioritymovein=15
+initial.tag=oven
+initial.tag=forge
+initial.shop=song_forge
+initial.tag=nopaths
+
+upgrade1.priority=80
+
+upgrade2.priority=40

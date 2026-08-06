@@ -1,0 +1,127 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_pig_farm",
+  "category": "farms",
+  "native_name": "猪圈",
+  "shop": "animalfarm",
+  "min_distance": 0.6,
+  "male": [
+    "animalfarmer_m"
+  ],
+  "female": [
+    "animalfarmer_f"
+  ],
+  "tags": [
+    "pigs",
+    "nopaths",
+    "carrots",
+    "oven"
+  ],
+  "icon": "minecraft:porkchop",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 20,
+            "height": 7,
+            "depth": 13
+          },
+          "priority": 500,
+          "path_width": 1,
+          "tags": [
+            "pigs",
+            "nopaths",
+            "carrots"
+          ],
+          "infoSoils": [
+            {
+              "crop": "carrot"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "pig"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 20,
+            "height": 7,
+            "depth": 13
+          },
+          "priority": 80,
+          "rebuild_path": true,
+          "tags": [
+            "pigs",
+            "nopaths",
+            "carrots",
+            "oven"
+          ],
+          "infoSoils": [
+            {
+              "crop": "carrot"
+            }
+          ],
+          "infoAnimalSpawns": [
+            {
+              "entity": "pig"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 20,
+            "height": 7,
+            "depth": 13
+          },
+          "priority": 50,
+          "tags": [
+            "pigs",
+            "nopaths",
+            "carrots",
+            "oven"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 20,
+            "height": 7,
+            "depth": 13
+          },
+          "priority": 30,
+          "path_level": 1,
+          "tags": [
+            "pigs",
+            "nopaths",
+            "carrots",
+            "oven"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 20,
+            "height": 7,
+            "depth": 13
+          },
+          "tags": [
+            "pigs",
+            "nopaths",
+            "carrots",
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

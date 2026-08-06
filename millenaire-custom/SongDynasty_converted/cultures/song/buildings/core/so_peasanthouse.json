@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_peasanthouse",
+  "category": "core",
+  "native_name": "农民住宅",
+  "max_count": 2,
+  "male": [
+    "peasant_m"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "icon": "minecraft:stone_shovel",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 400,
+          "path_width": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 13,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 40
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 13,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 40
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 13,
+            "height": 7,
+            "depth": 10
+          },
+          "priority": 40,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

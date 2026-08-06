@@ -1,0 +1,92 @@
+{
+  "key": "songwifebasic",
+  "chancePerHour": 0.1,
+  "maxSimultaneous": 3,
+  "minReputation": 0,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "song/song_peasant_f"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": []
+    },
+    {
+      "key": "song_lumberman",
+      "villagerTypes": [
+        "song/song_lumberman"
+      ],
+      "relatedTo": "startvillager",
+      "relation": "samehouse",
+      "requiredTags": [],
+      "forbiddenTags": []
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 3,
+      "showRequiredGoods": true,
+      "requiredGoods": {},
+      "rewardGoods": {},
+      "rewardMoney": 0,
+      "rewardReputation": 0,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    },
+    {
+      "index": 1,
+      "villagerKey": "song_lumberman",
+      "duration": 5,
+      "showRequiredGoods": true,
+      "requiredGoods": {},
+      "rewardGoods": {},
+      "rewardMoney": 0,
+      "rewardReputation": 128,
+      "penaltyReputation": 192,
+      "villagerTagsSuccess": [],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

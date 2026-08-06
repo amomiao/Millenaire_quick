@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "酿酒师",
+  "textures": [
+    "millenaire:textures/entity/song/ml_general.png",
+    "millenaire:textures/entity/song/ml_blacksmith.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:craft_bread",
+    "millenaire:craft_cider",
+    "millenaire:craft_ciderhome",
+    "millenaire:craft_calvahome",
+    "millenaire:craft_sake"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:cider_apple": 10,
+    "millenaire:rice": 32,
+    "minecraft:wheat": 16,
+    "minecraft:apple": 10,
+    "minecraft:bread": 32
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "rural_family_names",
+  "icon": "millenaire:sake",
+  "villager_config": "songdynasty",
+  "default_weapon": "minecraft:wooden_axe"
+}

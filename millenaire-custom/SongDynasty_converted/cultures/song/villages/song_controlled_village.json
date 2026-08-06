@@ -1,0 +1,26 @@
+{
+  "culture": "millenaire:song",
+  "name": "song_controlled_village",
+  "weight": 0,
+  "player_controlled": true,
+  "layout": [
+    {
+      "plan": "millenaire:song/ip_controlled",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:song/so_peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_market",
+      "role": "core"
+    }
+  ],
+  "icon": "minecraft:iron_helmet",
+  "carries_raid": true,
+  "qualifiers": [
+    "zonghua-Minugo"
+  ],
+  "allow_extra_buildings": false
+}

@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "商人",
+  "textures": [
+    "millenaire:textures/entity/song/ml_merchant.png",
+    "millenaire:textures/entity/song/ml_merchant2.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkofficials2.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:visit_inn",
+    "millenaire:visit_building"
+  ],
+  "tags": [
+    "visitor",
+    "localmerchant",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "peasant_family_names",
+  "icon": "millenaire:denier",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "axes"
+  ],
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "millenaire:denier"
+}

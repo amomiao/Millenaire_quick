@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "questfarm",
+  "category": "lone",
+  "native_name": "水稻农场",
+  "max_count": 0,
+  "male": [
+    "quest_farmer",
+    "peasant_m"
+  ],
+  "female": [
+    "peasant_f",
+    "wife"
+  ],
+  "tags": [
+    "paddy"
+  ],
+  "icon": "millenaire:rice",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "tags": [
+        "paddy"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 34,
+            "height": 12,
+            "depth": 26
+          },
+          "priority": 5,
+          "infoSoils": [
+            {
+              "crop": "rice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

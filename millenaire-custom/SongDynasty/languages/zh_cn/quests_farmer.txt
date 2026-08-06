@@ -1,0 +1,21 @@
+
+
+peasant_1_intro_0_label=The Farmer
+peasant_1_intro_0_description=我们已经观察您一年多了。看来你和我们不一样。我认识一个最需要你的人，他的名字叫王喜玉英。他正在研究这片土地上的庄稼，但有些事情他无法理解。我想你可能会帮助他。。
+peasant_1_intro_0_description_success=旅途中祝福您。他就住在附近的一个农场里。
+peasant_1_intro_0_description_refuse=拒绝去是你的权利。。
+peasant_1_intro_1_label=Report to the $startvillager_villagerrole$
+peasant_1_intro_1_description=农民介绍你找到那个人了吗？你觉得他怎么样？
+peasant_1_intro_1_description_success=似乎是僧侣派你来的。你可以在那里住任何房间。我稍后会给你一个任务
+peasant_1_intro_1_description_refuse=稍后？
+
+peasant_2_wheat_0_label=小麦研究
+peasant_2_wheat_0_description_=现在，它很简单。我会让你找些小麦种下来。我将试着观察这里的小麦与我们的有多大的不同。
+peasant_2_wheat_0_description_success=等你种好了,我再等一会儿。
+peasant_2_wheat_0_description_refuse=待会儿去看我。
+
+peasant_3_villagers_0_label=村民沟通
+peasant_3_villagers_0_description: $name 我想知道和我们不一样的村民。试着与他们沟通，向他们索要农作物。
+peasant_3_villagers_0_description_success:你回来时我会给你一些食物。
+peasant_3_villagers_0_description_refuse:休息一下,你似乎太累了。
+

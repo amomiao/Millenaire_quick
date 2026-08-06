@@ -1,0 +1,79 @@
+name:军事村庄
+weight:8
+carriesraid:true
+qualifier=zonghua-Minugo
+mountainQualifier:zonghua-Tibet
+icon=tachisword
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
+
+biome:Taiga
+biome:Taiga Hills
+biome:Taiga M
+biome:Plains
+biome:Forest
+biome:Birch Forest
+biome:Mega Taiga
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=grove
+biome=orchard
+biome=shrubland
+biome=steppe
+
+//extraBiomes mod
+biome:green hills
+biome:autumn woods
+
+//starting buildings:
+centre:so_fort
+start:so_peasanthouse
+start:so_lumberman
+start:so_grove
+start:so_brickkiln
+start:so_tavern
+start:so_forge
+start:so_wheat_farm
+// 12 + 2
+
+player:so_playerhouse
+player:so_house
+player:so_playerhugefield
+player:so_playerlargefield
+
+//to be built in priority
+core:so_workershouse
+core:so_wheatpaddy
+core:so_pig_farm
+core:so_quarry
+core:so_guardtower_f
+core:so_peasanthouse
+core:so_crafter
+// move to fort
+core:so_acaciagrove
+core:so_armyforge
+core:so_inn
+// 16
+
+secondary:so_rice_farm
+secondary:so_guardtower_f
+secondary:so_tower
+secondary:so_gunpowder
+secondary:so_peasanthouse
+secondary:so_market
+secondary:so_tower
+secondary:so_tower
+// 8
+
+//never for this type of village
+never:so_chickenfarm
+never:so_fishery
+never:so_rice_paddy
+never:so_guesthouse
+never:so_pagoda
+never:so_temple
+never:so_silkfarm

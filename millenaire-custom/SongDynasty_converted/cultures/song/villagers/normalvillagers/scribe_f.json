@@ -1,0 +1,56 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "书法家",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/song/ml_wife2.png",
+    "millenaire:textures/entity/song/ml_wife1.png",
+    "millenaire:textures/entity/song/ml_wife3.png",
+    "millenaire:textures/entity/song/ml_wife4.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songwife0.png"
+      ]
+    },
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife3.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife1.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife5.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife4.png"
+      ]
+    }
+  },
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_books"
+  ],
+  "tags": [],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:leather": 8,
+    "minecraft:paper": 16,
+    "minecraft:book": 16,
+    "minecraft:oak_log": 32,
+    "#minecraft:logs": 16
+  },
+  "gender": "female",
+  "first_name_list": "female_names",
+  "family_name_list": "high_class_familynames",
+  "icon": "minecraft:book",
+  "villager_config": "songdynasty",
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "travelbook_held_item": "minecraft:book"
+}

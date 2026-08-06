@@ -1,0 +1,150 @@
+//name, selling price, buying price, reserved quantity, target quantity, foreign merchant price, auto-generated, needed equipment(deprecated), minimum reputation,  desc code for the help screen
+dirtwall,1,0,0,0,0,false,,0,construction
+pathdirt,1,0,0,0,0,false,,0,construction
+pathgravel,2,0,0,0,0,false,,0,construction
+//pathslabs,4,0,0,0,0,false,,0,construction
+pathgravelslabs,6,0,0,0,0,false,,0,construction
+wood,2,1,128,1024,0,false,,0,construction
+wood_pine,2,1,64,256,0,false,,0,construction
+wood_birch,2,1,128,1024,0,false,,0,construction
+wood_jungle,2,1,0,64,0,false,,0,construction
+wood_acacia,2,1,0,64,0,false,,0,construction
+//wood_darkoak,2,1,128,1024,0,false,,0,construction
+wood_any,2,1,128,2048,0,false,,0,construction
+cobblestone,2,1,128,1024,0,false,,0,construction
+stone,3,2,128,1024,0,false,,0,construction
+gravel,2,1,32,128,0,false,,0,construction
+
+iron,25,20,0,10,0,false,,0,crafting
+
+wool_white,10,8,0,64,12,false,,0,crafting
+
+//sapling_appletree,8,0,0,0,0,true,,8192,agriculture
+seeds,2,1,10,128,2,false,,0,agriculture
+wheat,3,2,10,128,4,false,,0,agriculture
+carrot,5,4,10,64,16,false,,0,agriculture
+bread,10,8,5,10,15,false,,0,agriculture
+
+egg,4,2,16,80,6,false,,0,agriculture
+feather,2,1,16,64,4,false,,0,crafting
+leather,20,5,16,64,25,false,,0,crafting
+//beefraw,25,20,4,64,32,false,,0,agriculture
+beefcooked,28,20,4,64,48,false,,0,agriculture
+porkchops,25,20,4,64,32,false,,0,agriculture
+porkchopscooked,28,20,4,64,48,false,,0,agriculture
+chickenmeat,20,0,4,64,32,false,,0,agriculture
+chickenmeatcooked,28,20,4,64,48,false,,0,agriculture
+fishcooked,7,5,0,0,16,false,,0,agriculture
+fishraw,3,1,0,0,16,false,,0,agriculture
+//mutton,20,10,8,64,28,false,,0,agriculture
+cooked_mutton,30,15,8,64,28,false,,0,agriculture
+
+
+cider,64,60,5,10,80,false,,0,agriculture
+ciderapple,10,8,128,512,0,false,,0,agriculture
+apple,5,3,128,512,0,false,,0,agriculture
+
+chickencurry,3*80,2*80,0,0,0,false,,0,agriculture
+vegcurry,60,40,0,0,3*60,false,,3*60,foreigntrade
+udon,60,40,0,0,3*60,false,,3*60,agriculture
+
+cake,72,64,0,0,128,false,,0,agriculture
+cookie,8,4,0,0,8,false,,0,foreigntrade
+rasgulla,3*80,2*80,0,0,0,false,,0,foreigntrade
+sake,3*80,2*80,0,0,0,false,0,0,agriculture
+
+bow,64,60,0,0,2*25,false,,0,weapons
+arrow,0,4,0,0,8,false,,0,weapons
+stonesword,0,2,0,0, 0,false,,0,foreigntrade
+leatherhelmet,0,15*5,0,0, 0,false,,0,foreigntrade
+leatherchest,0,15*8,0,0, 0,false,,0,foreigntrade
+leatherlegs,0,15*7,0,0, 0,false,,0,foreigntrade
+leatherboots,0,15*4,0,0, 0,false,,0,foreigntrade
+steelsword,30*2,20*2,0,0,4*25,false,,6*64,foreigntrade
+steelhelmet,30*5,20*5,0,0,8*25,false,,6*64,foreigntrade
+steelchest,30*8,20*8,0,0,10*25,false,,6*64,foreigntrade
+steellegs,30*7,20*7,0,0,9*25,false,,6*64,foreigntrade
+steelboots,30*4,20*4,0,0,6*25,false,,6*64,foreigntrade
+diamondhelmet,0,3*64*5,0,0, 5*20*64,false,,0,foreigntrade
+diamondsword,0,3*64*2,0,0, 2*20*64,false,,0,foreigntrade
+diamondchest,0,3*64*8,0,0, 8*20*64,false,,0,foreigntrade
+diamondlegs,0,3*64*7,0,0, 7*20*64,false,,0,foreigntrade
+diamondboots,0,3*64*4,0,0, 4*20*64,false,,0,foreigntrade
+byzantinemace,0,64*64,0,0, 0,false,,0,foreigntrade
+yumibow,10*64,7*64,0,0, 0,false,,0,weapons
+tachisword,4*80,2*80,0,0, 4*80,false,,0,weapons
+mayanmace,0,7*64,0,0, 0,false,,0,foreigntrade
+normanbroadsword,64*64,60*64,1,1,2*64*64,,,8*64*64,foreigntrade
+normanhelmet,10*64,10*60,0,0,20*64,,,8*64*64,foreigntrade
+normanplate,20*64,20*60,0,0,30*64,,,8*64*64,foreigntrade
+normanlegs,8*64,8*60,0,0,12*64,,,8*64*64,foreigntrade
+normanboots,5*64,5*60,0,0,8*64,,,8*64*64,foreigntrade
+
+normanpickaxe,10*64,9*64,1,1,,,,2*64*64,tools
+normanaxe,10*64,9*64,1,1,,,,2*64*64,tools
+normanshovel,10*64,9*64,1,1,,,,2*64*64,tools
+normanhoe,10*64,9*64,1,1,,,,2*64*64,tools
+stonepickaxe,5,3,0,0, 0,false,,0,weapons
+stoneaxe,5,3,0,0, 0,false,,0,weapons
+stoneshovel,2,1,0,0, 0,false,,0,weapons
+stonehoe,3,2,0,0, 0,false,,0,weapons
+steelpickaxe,30*3,20*3,0,0, 40*3,false,,5*64,weapons
+steelaxe,30*3,20*3,0,0, 40*3,false,,5*64,weapons
+steelshovel,30*1,20*1,0,0, 40,false,,5*64,weapons
+steelhoe,30*2,20*2,0,0, 50,false,,5*64,weapons
+diamondpickaxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
+diamondaxe,0,3*64*3,0,0, 0,false,,0,foreigntrade
+diamondshovel,0,3*64*1,0,0, 0,false,,0,foreigntrade
+diamondhoe,0,3*64*2,0,0, 0,false,,0,foreigntrade
+mayanpickaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanaxe,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanshovel,0,7*64,0,0, 0,false,,0,foreigntrade
+mayanhoe,0,7*64,0,0, 0,false,,0,foreigntrade
+
+bookshelves,220,166,8,16, 0,false,,0,construction
+//bottle,5,0,16,64, 0,false,,0,crafting
+//netherwart,32,0,16,64, 0,false,,0,crafting
+//akwardpotion,48,0,16,64,0,false,,0,crafting
+
+purse,32*64,0,0,0,0,true,,0,playeritem
+summoningwand,2*64*64,0,0,0,0,true,,8*64*64,playeritem
+
+//Song
+//bricks,16,14,0,0,36,false,,0,construction
+clay,5,3,32,1024,12,false,,0,crafting
+tnt,64,32,16,16,12,false,,0,crafting
+gunpowder,10,5,16,64,12,false,,0,crafting
+rice,10,5,10,64,12,false,,0,agriculture
+paper_wall,48,24,128,512,64,,,2*64*64,construction
+thatch,12,8,128,512,,,,2*64*64,construction
+melonslice,10,5,8,64,28,false,,0,agriculture
+//potato,5,2,8,64,28,false,,0,agriculture
+paper,15,12,32,128, 0,false,,0,crafting
+turmeric,64,60,0,64,90,false,,0,agriculture
+mudbrick,4,3,0,2048,0,false,,0,construction
+silk,32,28,32,64,24,false,,0,crafting
+clothes_byz_silk,10*60,10*45,0,0,10*64,false,,0,crafting
+
+timberframeplain,16,14,0,1024,0,false,0,0,construction
+timberframecross,20,18,0,512,0,false,0,0,construction
+
+// Song
+chinesehelmet,20*64,15*64,0,0,32*64,false,,0,weapons
+chinesechestplate,20*64,15*64,0,0,32*64,false,,0,weapons
+chineseleggings,20*64,15*64,0,0,32*64,false,,0,weapons
+chineseboots,20*64,15*64,0,0,32*64,false,,0,weapons
+jujuba,10,5,10,64,12,false,,0,agriculture
+sharksfin,10,5,10,64,12,false,,0,agriculture
+ceramic,10,5,10,64,12,false,,0,agriculture
+//papercurrency,15,12,64,128,0,false,,0,crafting
+riceplate,10,5,10,64,12,false,,0,agriculture
+compass,0,7*64,0,0,0,false,,0,tools
+coal,0,2,0,0, 0,false,,0,crafting
+bowlempty,10,5,10,64,12,false,,0,agriculture
+paintedbrickwhite,6,5,0,2048,0,false,,0,construction
+guan_dao,20*64,15*64,0,0,32*64,false,,0,weapons
+shaoxiung_wine,2*64,2*60,2,5,4*64,false,0,64*64,agriculture
+huadiao_wine,64,60,2,5,2*64,false,0,32*64,agriculture
+
+gray_tiles,16,14,0,0,36,false,,0,construction
+bed_straw,16,0,8,16,0,false,,0,construction

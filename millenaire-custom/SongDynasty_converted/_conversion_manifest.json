@@ -1,0 +1,915 @@
+{
+  "converter_version": "9.0.0-dev-preview.5",
+  "converted": [
+    {
+      "path": "cultures/song/buildings/core/so_barracks.json",
+      "timestamp": "2026-08-06T00:50:37.901245600Z",
+      "hash": "sha256:606d5657bbff6b8dd05a069947a4300899d8cf1438ae90efcf1bab215c2e92b5"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_guardtower.json",
+      "timestamp": "2026-08-06T00:50:37.946674700Z",
+      "hash": "sha256:67ff8d7e4378a0b94d0a09716be65f20b5e9bdd811f0b4a4d9ec7aee5631918b"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_guardtower_f.json",
+      "timestamp": "2026-08-06T00:50:37.991214600Z",
+      "hash": "sha256:0fdd472fc2208a7f916d7e99df28b281ff40bcc3038c052be7b12fdfc6cd4133"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_pagoda.json",
+      "timestamp": "2026-08-06T00:50:38.029763400Z",
+      "hash": "sha256:c8ae6e645bc13c9099af5dc6de5de83d790ae9d03228201048b9699140585bec"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_peasanthouse.json",
+      "timestamp": "2026-08-06T00:50:38.081440200Z",
+      "hash": "sha256:ce7786aac7f6f243c159c195c1a07b0a89f3f3501749216ee05fbc06422c6500"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_shrine.json",
+      "timestamp": "2026-08-06T00:50:38.111513400Z",
+      "hash": "sha256:8f46b9dc6bb517b0f00841ec05da37abe1c5c97208e53720762e18e5aa24f7cf"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_temple.json",
+      "timestamp": "2026-08-06T00:50:38.159776400Z",
+      "hash": "sha256:5357339d6a26f1a5fe37b14132c0c34aca95be515a54a373bafa31c55352d34f"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_tower.json",
+      "timestamp": "2026-08-06T00:50:38.178611600Z",
+      "hash": "sha256:3c48a95115933b0ae323a5e31edc24e32f1f744dfbc0f3c964ab9cd79257a67b"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_well.json",
+      "timestamp": "2026-08-06T00:50:38.198771Z",
+      "hash": "sha256:d886bd5a52b09826ed5ddc4531c71e0b6fd8ada1f87eec0fc8517bb2e642fc05"
+    },
+    {
+      "path": "cultures/song/buildings/core/so_workershouse.json",
+      "timestamp": "2026-08-06T00:50:38.221858600Z",
+      "hash": "sha256:1c70f769bea10bb9ac486c0b97a6800d6c43d94cf636ea372dfe9561a8d88b58"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_armyforge.json",
+      "timestamp": "2026-08-06T00:50:38.271658200Z",
+      "hash": "sha256:0a30b5d79d6323464b32c425fb387dc9797ae06ce2261b8a72c10af4cf18f5ef"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_brickkiln.json",
+      "timestamp": "2026-08-06T00:50:38.299510400Z",
+      "hash": "sha256:74bb6efb22b3ad7ca35ebcedd2f8101d42f25836fe1d021465ec692566cfac6c"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_crafter.json",
+      "timestamp": "2026-08-06T00:50:38.337874200Z",
+      "hash": "sha256:9b0ab89b0b91bb0b7dc4f7174788238b64fa2938dbeaef825e33f1b071d813fd"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_forge.json",
+      "timestamp": "2026-08-06T00:50:38.364059800Z",
+      "hash": "sha256:3b11c2544aa520a568e47d69a2c9d764122b671c2cfe0f5e0d65f688b009442b"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_gunpowder.json",
+      "timestamp": "2026-08-06T00:50:38.396594400Z",
+      "hash": "sha256:ad090607c5c117e5e0a65aeb12a2d5ea2017b173469a0eb2a0f42591015084e9"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_paper_currency.json",
+      "timestamp": "2026-08-06T00:50:38.423321Z",
+      "hash": "sha256:270eada93049760a3ec5f9fcb428717c1794d18954716a6453b9f16128972334"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_restaurant.json",
+      "timestamp": "2026-08-06T00:50:38.491704500Z",
+      "hash": "sha256:b5f1dd44392c92b4d4a820a07f680226519e1a9e08acc863e8cc84a67b8265c1"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_scribe.json",
+      "timestamp": "2026-08-06T00:50:38.576673Z",
+      "hash": "sha256:d1fc33350c130a195849beee7f3d5ee5eac00de2fc28afddf2f5946fb4a264c1"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_silkfactory.json",
+      "timestamp": "2026-08-06T00:50:38.601186600Z",
+      "hash": "sha256:75af359c6e032a4ebc613b1bb1bac2b333e696b8820619d430f3a9ed7cc70f05"
+    },
+    {
+      "path": "cultures/song/buildings/craft/so_steelworks.json",
+      "timestamp": "2026-08-06T00:50:38.625782800Z",
+      "hash": "sha256:186db3ad0b6baa18644d9f88abe6bdac611f510a99c32e09cadf9498ee2c4e51"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_chickenfarm.json",
+      "timestamp": "2026-08-06T00:50:38.656098700Z",
+      "hash": "sha256:17e8b50b76b0415fea272437d8b018f8e445394bdfa65fd1f77ee83f7b07b65d"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_fishery.json",
+      "timestamp": "2026-08-06T00:50:38.686965900Z",
+      "hash": "sha256:edb5ce9a263a9b8014d2df6416a34c69d70513138c5f9c4b822e39df41285389"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_pig_farm.json",
+      "timestamp": "2026-08-06T00:50:38.715489300Z",
+      "hash": "sha256:52594a80bbf88f1ef3bd32e9eb2d45185999c677d297fbc0637162ee7ee4f1d4"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_rice_farm.json",
+      "timestamp": "2026-08-06T00:50:38.738478500Z",
+      "hash": "sha256:360a902f428cd469eea8d8bd41ec2bef5dc057ef10b60b0c5286c7c600f4d34f"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_rice_paddy.json",
+      "timestamp": "2026-08-06T00:50:38.757461500Z",
+      "hash": "sha256:da040666d88c4279839769f6a92137a7a3f8f616e6bc9a88616fc318355992ef"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_rice_paddy2.json",
+      "timestamp": "2026-08-06T00:50:38.804486600Z",
+      "hash": "sha256:e3a4d8aa834160876c27e50ca33976af0dadfda8601623192355c38e1a1650fa"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_silkfarm.json",
+      "timestamp": "2026-08-06T00:50:38.836478Z",
+      "hash": "sha256:020b393fe522640f7beb07334724c311905a09bfe21452ff4577fddffbbd7e01"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_spicegarden.json",
+      "timestamp": "2026-08-06T00:50:38.853451400Z",
+      "hash": "sha256:a6276aace224f8a4b252f71644b04b02bd225014307c53f77f97f35e9efe7b24"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_wheat_farm.json",
+      "timestamp": "2026-08-06T00:50:38.880945800Z",
+      "hash": "sha256:4eb361b0a2f8adac449122325c4b9c9be5fe159731898f9ec8b0b9132f1e125c"
+    },
+    {
+      "path": "cultures/song/buildings/farms/so_wheatpaddy.json",
+      "timestamp": "2026-08-06T00:50:38.897451900Z",
+      "hash": "sha256:2a0de152d1cc596caf0ab369c343ae5603cedd34a7e70c2b4ed894834542276b"
+    },
+    {
+      "path": "cultures/song/buildings/lone/abandonpalace.json",
+      "timestamp": "2026-08-06T00:50:38.912426700Z",
+      "hash": "sha256:5ed60a590cac035cab3f601aee1b75d99cc67d65f28a5dd7d24dd7a661d9887b"
+    },
+    {
+      "path": "cultures/song/buildings/lone/ironpagoda.json",
+      "timestamp": "2026-08-06T00:50:38.939443Z",
+      "hash": "sha256:6e3cdadfa1f45e7a3224f8046b4df5de44ad95ccac3fa5b308a52c3380cfb455"
+    },
+    {
+      "path": "cultures/song/buildings/lone/questfarm.json",
+      "timestamp": "2026-08-06T00:50:38.959602400Z",
+      "hash": "sha256:615eab07b3bd3755cf1a713928836542c0c875bb8ab29ffb3cbdbfaa20c52640"
+    },
+    {
+      "path": "cultures/song/buildings/lone/ruinedsongtower.json",
+      "timestamp": "2026-08-06T00:50:38.971673700Z",
+      "hash": "sha256:00ad766e93596daa58ee39840d136958fe99768e58537735410bd19bd48847f2"
+    },
+    {
+      "path": "cultures/song/buildings/lone/so_lone_lumberman.json",
+      "timestamp": "2026-08-06T00:50:38.986211700Z",
+      "hash": "sha256:7bf152edda81a5ebb9a5f84b373450c81ffc7135cf05fa699205f4beb8fd0027"
+    },
+    {
+      "path": "cultures/song/buildings/lone/so_tomb.json",
+      "timestamp": "2026-08-06T00:50:39.000242600Z",
+      "hash": "sha256:632930f9ef34ecb5c09fa9d83ae8691a74382370d187342eefec2f35e57df6c4"
+    },
+    {
+      "path": "cultures/song/buildings/lone/songlonebarrack.json",
+      "timestamp": "2026-08-06T00:50:39.018103700Z",
+      "hash": "sha256:c1d28d7f7dfb6b0989d52f8b6c764188c5d5bc396167b13cabd911ed725c3118"
+    },
+    {
+      "path": "cultures/song/buildings/lone/songlonefarm.json",
+      "timestamp": "2026-08-06T00:50:39.033302700Z",
+      "hash": "sha256:3de88a91c4280108f8bb010c8e9a955c9f7f583a6b9d7bf97ebb5ffc3a9c344a"
+    },
+    {
+      "path": "cultures/song/buildings/lone/songloneinn.json",
+      "timestamp": "2026-08-06T00:50:39.046795700Z",
+      "hash": "sha256:2e8d3b2762abbee2a8d271c42aa8b5af4833b8846f706113dbecb1ff393a3e63"
+    },
+    {
+      "path": "cultures/song/buildings/lone/songrebel.json",
+      "timestamp": "2026-08-06T00:50:39.086770Z",
+      "hash": "sha256:b6863348ec91668803674cae4994139a17035d512b86a645c1470886ce6a69dc"
+    },
+    {
+      "path": "cultures/song/buildings/player/so_house.json",
+      "timestamp": "2026-08-06T00:50:39.100263Z",
+      "hash": "sha256:b305e516e5b82213aaa8a00a761191402d96c72fcebb59d421526e8ac48796e4"
+    },
+    {
+      "path": "cultures/song/buildings/player/so_playerhouse.json",
+      "timestamp": "2026-08-06T00:50:39.117756400Z",
+      "hash": "sha256:d6afea938b4e9b607cd1cabeb1b320998e537284db7bc71c23f5f61ac7412cd7"
+    },
+    {
+      "path": "cultures/song/buildings/player/so_playerhugefield.json",
+      "timestamp": "2026-08-06T00:50:39.134159100Z",
+      "hash": "sha256:87301cc64f338901a6e26fdfe5639ccef9558309ac048bb64736857083277867"
+    },
+    {
+      "path": "cultures/song/buildings/player/so_playerlargefield.json",
+      "timestamp": "2026-08-06T00:50:39.147643200Z",
+      "hash": "sha256:4fa6198dca6153cf33c74127d6827fef542ad5758e6788c108218b07342805d5"
+    },
+    {
+      "path": "cultures/song/buildings/stone/so_quarry.json",
+      "timestamp": "2026-08-06T00:50:39.191694300Z",
+      "hash": "sha256:01f4889533a9172d010b3231c461e5fada9fa4fe18a27d381a7806eb8119a2ef"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/ip.json",
+      "timestamp": "2026-08-06T00:50:39.333182100Z",
+      "hash": "sha256:6e9ac98f5aaec2195f99d1971a15a3b8dab51157e83fc7f8eacb760593875757"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/ip_a_backyard.json",
+      "timestamp": "2026-08-06T00:50:39.379366600Z",
+      "hash": "sha256:4362e914c63f472457a2eee6374f14b62616b7dc71122c461809faa2f19b0103"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/ip_a_siderooms.json",
+      "timestamp": "2026-08-06T00:50:39.456485400Z",
+      "hash": "sha256:ba61ff924f9ff50db60f77921855265fe93514f6667322ad7260795be37523a5"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/ip_controlled.json",
+      "timestamp": "2026-08-06T00:50:39.548710200Z",
+      "hash": "sha256:efbf4a0768479996ab2e2174e375e4cf7cf45922a685c6ce7dbb2c0ea11c3847"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/ip_controlled_backyard.json",
+      "timestamp": "2026-08-06T00:50:39.589827200Z",
+      "hash": "sha256:caf91020f4f9d355ff9365b9a14a029812f89462aa803899977cac0d087a062e"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/ip_controlled_siderooms.json",
+      "timestamp": "2026-08-06T00:50:39.633013100Z",
+      "hash": "sha256:40a6ed27fab21e7f422d9b722d1ad3a19786af9fbd7c5752269e795776af48cc"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_agriculture.json",
+      "timestamp": "2026-08-06T00:50:39.675067800Z",
+      "hash": "sha256:c10aea51aa938e4ef938bf8ea572d0359c3134ffde219547101942b0014a5cfe"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_factory.json",
+      "timestamp": "2026-08-06T00:50:39.743080500Z",
+      "hash": "sha256:3f6d1e202bdbf4e476de0c752dfc02ca40155f723347d0e607bb411607632bf8"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_factory_a_inn.json",
+      "timestamp": "2026-08-06T00:50:39.780935600Z",
+      "hash": "sha256:2424e9b91663d15b6512f7641299793850d65a6ee59c8a3020cd3c452f35b349"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_factory_a_market.json",
+      "timestamp": "2026-08-06T00:50:39.816901100Z",
+      "hash": "sha256:05efd93ae866659a3c03a62d1ec4bb7370dad722cb533195abd8776ea466bb29"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_fort.json",
+      "timestamp": "2026-08-06T00:50:39.861848600Z",
+      "hash": "sha256:f4a8f7b213b96a939fb5fa74d4c487d4d042b193987387ec2eee3fc2d42f4510"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_fort_a_forge.json",
+      "timestamp": "2026-08-06T00:50:39.884413600Z",
+      "hash": "sha256:79963044d92e50e3f92e53ec9aa6e7272edc5f90ce1cc8eaaa4635d707d15c55"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_fort_a_gates.json",
+      "timestamp": "2026-08-06T00:50:39.906983500Z",
+      "hash": "sha256:b3fe01dcb96d43095e4fa54ff983dfcc8b0f897361eeca07e6bbad885d47c452"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_fort_a_scribes.json",
+      "timestamp": "2026-08-06T00:50:39.955986200Z",
+      "hash": "sha256:add4e499406a8d3fb5e5c434741005be3d3fe5f8049da3aa9756585ccdfb9b0f"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_fort_a_towers.json",
+      "timestamp": "2026-08-06T00:50:39.999505400Z",
+      "hash": "sha256:78eace27a607badb1121591c4a7dc728022c2610f79c9fb5b844d3aec7582000"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_fort_a_walls.json",
+      "timestamp": "2026-08-06T00:50:40.043858700Z",
+      "hash": "sha256:93531671e19f40df887cd67c330b03bc052eac32b75b3b521563a6b4d5c120b4"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_th_pagoda.json",
+      "timestamp": "2026-08-06T00:50:40.153918700Z",
+      "hash": "sha256:9cc84dfffd4c12a3c6eb2aa2e152f0f8156d973b4e29337367c3966bc46bcfe8"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_th_pagoda_a_rooms.json",
+      "timestamp": "2026-08-06T00:50:40.188376400Z",
+      "hash": "sha256:f4ec1f926b0c739db01e41a08f1c6cb77a23adffb4138b0809e75d971cffa9ac"
+    },
+    {
+      "path": "cultures/song/buildings/townhalls/so_th_pagoda_a_shrines.json",
+      "timestamp": "2026-08-06T00:50:40.215497700Z",
+      "hash": "sha256:dcdb61756acd3eb217d4c16bd310857e5c4786ecad1b5afc17a218c355f0fd81"
+    },
+    {
+      "path": "cultures/song/buildings/trade/so_guesthouse.json",
+      "timestamp": "2026-08-06T00:50:40.239221600Z",
+      "hash": "sha256:7cf2dfb8fb0b70790aa061a09828235a2be7f954b55202eb617940629286cdcb"
+    },
+    {
+      "path": "cultures/song/buildings/trade/so_inn.json",
+      "timestamp": "2026-08-06T00:50:40.267019100Z",
+      "hash": "sha256:939c520688d5e559cad02019380c6fa8076ac0e4c7a8f93f5cba02d838731879"
+    },
+    {
+      "path": "cultures/song/buildings/trade/so_market.json",
+      "timestamp": "2026-08-06T00:50:40.289142400Z",
+      "hash": "sha256:bb87801298ec5e2c8ce0a7c01c660897ab7d90fd2df6b25db5b2333095cc2c1f"
+    },
+    {
+      "path": "cultures/song/buildings/trade/so_tavern.json",
+      "timestamp": "2026-08-06T00:50:40.311271Z",
+      "hash": "sha256:3d40520900e2f0aea6a93e4d2c7b821268d96a0b79c7b4f9d1e2a33ce881216d"
+    },
+    {
+      "path": "cultures/song/buildings/wood/so_acaciagrove.json",
+      "timestamp": "2026-08-06T00:50:40.346179900Z",
+      "hash": "sha256:b12c60834b2d3d2522bb76edde64b31775d925a0d9b221426b218b9ed1e56bb6"
+    },
+    {
+      "path": "cultures/song/buildings/wood/so_fancygrove.json",
+      "timestamp": "2026-08-06T00:50:40.358890800Z",
+      "hash": "sha256:275123afd9c4ce1d6e697e120ae63f838cbf1bbff50afa341bf160bf1052be4c"
+    },
+    {
+      "path": "cultures/song/buildings/wood/so_grove.json",
+      "timestamp": "2026-08-06T00:50:40.370791500Z",
+      "hash": "sha256:1de46a1a176123a9e372da70003a5519ae5250b96f569268ceabb69fa0fcabf5"
+    },
+    {
+      "path": "cultures/song/buildings/wood/so_lumberman.json",
+      "timestamp": "2026-08-06T00:50:40.395808800Z",
+      "hash": "sha256:64b5f7386e82edb259233f01af0252d1a977d8b6f50c6b7cf9efd3395ac2cafb"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/quest_farmer.json",
+      "timestamp": "2026-08-06T00:50:40.406310300Z",
+      "hash": "sha256:a2b454b22b1bc74ba425e83ae4884e2e025c7824fbd854204e3f59a0ff252518"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/animalfarmer_f.json",
+      "timestamp": "2026-08-06T00:50:40.416366400Z",
+      "hash": "sha256:91a56cb45b12beb3b987602b8a8102462692fb3ff668816c57ff17d83e4f00f4"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/animalfarmer_m.json",
+      "timestamp": "2026-08-06T00:50:40.428534600Z",
+      "hash": "sha256:0ffe822baf44e94b9f034ef060ce73d311d45ce0e2b9a90680e5f33020bbd009"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/bandit.json",
+      "timestamp": "2026-08-06T00:50:40.438615200Z",
+      "hash": "sha256:2440c3973bbe92fd93b0eda8e2f4dd7379aba2315ea35a9154c73c28f8b094a3"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/bandit2.json",
+      "timestamp": "2026-08-06T00:50:40.449179800Z",
+      "hash": "sha256:1f444d2e3e64dae88ba6e959936959e975ec62ccdc841bffc2356a3902fe833f"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/boy.json",
+      "timestamp": "2026-08-06T00:50:40.456956200Z",
+      "hash": "sha256:9bf69601fb65d05e3666a17bca7e17ccfd71a2d75d1eb368017537997a344dd6"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/brewer_m.json",
+      "timestamp": "2026-08-06T00:50:40.465547700Z",
+      "hash": "sha256:37ef0ac54085314a9c7c803d61e9963203c7aaf86626e0ecb6e6d63b79aa950a"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/chef_f.json",
+      "timestamp": "2026-08-06T00:50:40.477032400Z",
+      "hash": "sha256:0fb9f4191e4a6bc7e0b0ed31efdd1c21e3e7c113dbb92cf333cd3dd9bb4b41de"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/chef_m.json",
+      "timestamp": "2026-08-06T00:50:40.485613700Z",
+      "hash": "sha256:b74c53b9f1c54ed93b00506aae4ab6bb9761d6a7c35cdf0f96f809b6b58affeb"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/crafter_m.json",
+      "timestamp": "2026-08-06T00:50:40.495115900Z",
+      "hash": "sha256:a65d7a2d80d4eea6b186258b047c8e0da45fea1bb6158dd999e8a8f9cfc6426c"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/emperor.json",
+      "timestamp": "2026-08-06T00:50:40.503660300Z",
+      "hash": "sha256:b90208eb7e79da698e0c4699dd59f9f20011c26b6dde5c629d2648f6f85916bd"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/emperorwife.json",
+      "timestamp": "2026-08-06T00:50:40.514807900Z",
+      "hash": "sha256:e8c7a7bcf08feecc422370e57abb9faf77be0c80e482e4cf5c959033a4295b0b"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/farmer_f.json",
+      "timestamp": "2026-08-06T00:50:40.524375600Z",
+      "hash": "sha256:c898aa68a22e480b86eec2ca08c95916a706818de097d0da45a13aa11a97a2de"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/farmer_m.json",
+      "timestamp": "2026-08-06T00:50:40.534380400Z",
+      "hash": "sha256:42866a394d2edbeadcaef007aba0cf8debdb5c38b3c208d634e77c5d3eb7d250"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/fisherman_f.json",
+      "timestamp": "2026-08-06T00:50:40.543916800Z",
+      "hash": "sha256:2d4087fe83c4483a6edf9b62f5a347c7faa30f637ccb04d1bab126cd25f0f05a"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/fisherman_m.json",
+      "timestamp": "2026-08-06T00:50:40.551927100Z",
+      "hash": "sha256:ad5030a040518612910064ca80bd12ae63b918f1f8d6f7dd5eb4588fea0251e5"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/general.json",
+      "timestamp": "2026-08-06T00:50:40.563093600Z",
+      "hash": "sha256:5a428dcbc5634768f812bade9ed0853376fb31ca2a2847c383439addfc1c3685"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/girl.json",
+      "timestamp": "2026-08-06T00:50:40.573185100Z",
+      "hash": "sha256:cde16b0b576a29305eb6d7e9b453b8f385312a981276caa58a3c3665baf9f953"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/leader.json",
+      "timestamp": "2026-08-06T00:50:40.581567900Z",
+      "hash": "sha256:18e69ffcd1b2646b3aae29788f83679a2a05fadd7d5bc5f7c22d21e9d4ee75d5"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/lumberman.json",
+      "timestamp": "2026-08-06T00:50:40.591547800Z",
+      "hash": "sha256:30d1215bb6af21c7c235c1272384bf4c487c5101490465b0e323c3d54bd26715"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/merchant_f.json",
+      "timestamp": "2026-08-06T00:50:40.601552900Z",
+      "hash": "sha256:c08119c20fb8b9cf1f657d3869a26f23da1f472c5edbfbebb7ef1f8e7b66bc7b"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/merchant_m.json",
+      "timestamp": "2026-08-06T00:50:40.610557900Z",
+      "hash": "sha256:fda17c520d9cabe3776d590deacf2719b898444e6f1dfddaf826b9e06b2fdd51"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/merchantceramics.json",
+      "timestamp": "2026-08-06T00:50:40.621612Z",
+      "hash": "sha256:cf5dbdc5ae15b96d96a0a316f56e6c6f72a144fb707814558f01dbe5ca8cfd41"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/merchantfood.json",
+      "timestamp": "2026-08-06T00:50:40.631097Z",
+      "hash": "sha256:f1f6e0c5ebc70457af4ce538af090de961feed5d18ebd5fb1e61ece5a4a4cde2"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/merchantmilitary.json",
+      "timestamp": "2026-08-06T00:50:40.641587400Z",
+      "hash": "sha256:34b830a773a5d845f57a5cbd6f105215029b1d0468adc5e4d9f12faf86ac8792"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/militarysmith.json",
+      "timestamp": "2026-08-06T00:50:40.650541900Z",
+      "hash": "sha256:1bd5fc632746112309123e50eb4b774e73ae56ecf4eeef02c5247afc132fff6d"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/militiafemale.json",
+      "timestamp": "2026-08-06T00:50:40.660417700Z",
+      "hash": "sha256:5f735eb97a7408228948f84edd0ccb055c74720288d78d8bd6b63a36a10a3840"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/miner.json",
+      "timestamp": "2026-08-06T00:50:40.669873800Z",
+      "hash": "sha256:368ec08aeac5d54925a5bd4a03654d0e2369e417a1f3cb0ea976bd1a03aa2028"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/monk.json",
+      "timestamp": "2026-08-06T00:50:40.679472300Z",
+      "hash": "sha256:ae171b80836b1ddf9dc4a8b8faa2a188a34244de3cb777014166e4df66ecbe9f"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/peasant.json",
+      "timestamp": "2026-08-06T00:50:40.688534800Z",
+      "hash": "sha256:9dc28bdb882df06259747bcd31e1f383f09451132a995c9d68cd81fdc45cf59f"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/peasant_f.json",
+      "timestamp": "2026-08-06T00:50:40.697192500Z",
+      "hash": "sha256:ccfefdecbe150b0e920f9c8a99e359aad537b0557f0c470dc62ce8c9d7297b73"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/peasant_m.json",
+      "timestamp": "2026-08-06T00:50:40.707630Z",
+      "hash": "sha256:e3b1704e0888eb38fc72ce92ecb40b58bd6423962e7867527ffb9cf313217568"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/peasantchief.json",
+      "timestamp": "2026-08-06T00:50:40.716669700Z",
+      "hash": "sha256:fb896c940c73a2c4e52dc850b9d53b2b5b591fa611185d636457f19c7aa52bb5"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/religouschief.json",
+      "timestamp": "2026-08-06T00:50:40.726144700Z",
+      "hash": "sha256:433ea5d71acf554df990a358275b233be65e1b5fdaa5a2da0656691453bda985"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/rice_farmer_f.json",
+      "timestamp": "2026-08-06T00:50:40.734683Z",
+      "hash": "sha256:59f81ae8a7aa7b262d329ca11afbc40af0dca6f686e68ed2fd3acc923426753c"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/rice_farmer_m.json",
+      "timestamp": "2026-08-06T00:50:40.744787600Z",
+      "hash": "sha256:b9034e2d731b69ae4a563f20adf70ba3e1575053318d7c40d75d3ed99a56008b"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/scribe_f.json",
+      "timestamp": "2026-08-06T00:50:40.753366500Z",
+      "hash": "sha256:ddcb3edad7390bb5648d3c67fcd3926b99286f47f384ea9b1e0cc1dedc9d6d48"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/silkfarmer_m.json",
+      "timestamp": "2026-08-06T00:50:40.763308300Z",
+      "hash": "sha256:498bdb6334cb0438d1c9ff2a7e42ead53a8d484532c97ff482d0d9ca90bf9107"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/smith_m.json",
+      "timestamp": "2026-08-06T00:50:40.771864200Z",
+      "hash": "sha256:1ed28a72aa03db844ab8a2ccc101a7d42fc5b6a00b1cebdf3609abfc886b0930"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/soldier.json",
+      "timestamp": "2026-08-06T00:50:40.782211200Z",
+      "hash": "sha256:cd180ac01dca95a39aaa723c1b7a0a23b720b336719f81894a5eb75c7df4164b"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/wife.json",
+      "timestamp": "2026-08-06T00:50:40.791337400Z",
+      "hash": "sha256:911a4416c4648b4502f221aec01837bacf9288172bfcf230eea826b1fd6ae7fb"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/wifebrewer.json",
+      "timestamp": "2026-08-06T00:50:40.800819700Z",
+      "hash": "sha256:67ab6d5afb7840587ffb6e27cd688f31e14617dbf7ef65ebbe332dc6b4698080"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/worker_f.json",
+      "timestamp": "2026-08-06T00:50:40.810183300Z",
+      "hash": "sha256:ced88191520925509820bc1d1037e6caa85b9907a72ec9d00de84d9603bad5c4"
+    },
+    {
+      "path": "cultures/song/villagers/normalvillagers/worker_m.json",
+      "timestamp": "2026-08-06T00:50:40.819669700Z",
+      "hash": "sha256:861e45fd8ccdd83fd57f7533adf850cb7b87444a6cfff2944ca4a9226f9fae30"
+    },
+    {
+      "path": "cultures/song/villages/agriculturalvillage.json",
+      "timestamp": "2026-08-06T00:50:40.828718700Z",
+      "hash": "sha256:63f91025ec19a6064b6f58ee5155c36e9b3181cbc41c84b5986c4bdd99bfe4d8"
+    },
+    {
+      "path": "cultures/song/villages/huangchengcun.json",
+      "timestamp": "2026-08-06T00:50:40.836617Z",
+      "hash": "sha256:4c80b43483b70f2f47f0041ed1f94b91277e8b7c4247f24a453d590ba332bb95"
+    },
+    {
+      "path": "cultures/song/villages/militaryvillage.json",
+      "timestamp": "2026-08-06T00:50:40.845651600Z",
+      "hash": "sha256:c6b45748639748cfa5bf643632e8079bbb5bb433e93ca3b33fd291118680f956"
+    },
+    {
+      "path": "cultures/song/villages/religiousvillage.json",
+      "timestamp": "2026-08-06T00:50:40.853237200Z",
+      "hash": "sha256:dcf9ebc9f7a0474e05e2346621899d8e51c8c744df5209e07e64e8b8afda3b25"
+    },
+    {
+      "path": "cultures/song/villages/song_controlled_village.json",
+      "timestamp": "2026-08-06T00:50:40.863713100Z",
+      "hash": "sha256:47a0bdf6dba6f0bec5bf4d87b1facf78577c1cf75389b854bb74bb0f7a7253f7"
+    },
+    {
+      "path": "cultures/song/villages/tradingvillage.json",
+      "timestamp": "2026-08-06T00:50:40.873196800Z",
+      "hash": "sha256:fc02e8793b10e3be22283d626e29371eedb606b2348205a92621605a67f1ffe0"
+    },
+    {
+      "path": "cultures/song/villages/abandonpalace.json",
+      "timestamp": "2026-08-06T00:50:40.881710400Z",
+      "hash": "sha256:69bbd586bf1576eeb6e0a4de6587f70e568ca4b753a8078b2a854f8a131f24a3"
+    },
+    {
+      "path": "cultures/song/villages/ironpagoda.json",
+      "timestamp": "2026-08-06T00:50:40.890278800Z",
+      "hash": "sha256:d16cf162c74d010aa75011174e95fbf569518ed49395360dd313b5b0dfd6c23d"
+    },
+    {
+      "path": "cultures/song/villages/questfarm.json",
+      "timestamp": "2026-08-06T00:50:40.899268300Z",
+      "hash": "sha256:804d28f45129dba1b410cf0b2648f3e3beda3a6358e26e120b265f751fec3524"
+    },
+    {
+      "path": "cultures/song/villages/ruinedsongtower.json",
+      "timestamp": "2026-08-06T00:50:40.906938400Z",
+      "hash": "sha256:c1f32998552c291979b751b3318c6d29cfdd31d7ac144e9b73693585508afa08"
+    },
+    {
+      "path": "cultures/song/villages/songlonebarracks.json",
+      "timestamp": "2026-08-06T00:50:40.917011400Z",
+      "hash": "sha256:807f043cd08dddcd482fa7fa93fd69be5474e715391db1077be8dbf5635221b0"
+    },
+    {
+      "path": "cultures/song/villages/songlonefarm.json",
+      "timestamp": "2026-08-06T00:50:40.925095100Z",
+      "hash": "sha256:b76ebe81fef988d01d709837755318814e042cdd96e768dd13e4c1ce5abada39"
+    },
+    {
+      "path": "cultures/song/villages/songloneinn.json",
+      "timestamp": "2026-08-06T00:50:40.932106500Z",
+      "hash": "sha256:e90465fea8079eb396917f47c09a15738fc2cf6318bdd3d3d9b2ae9beb9caf18"
+    },
+    {
+      "path": "cultures/song/villages/songlonelumberman.json",
+      "timestamp": "2026-08-06T00:50:40.942148Z",
+      "hash": "sha256:a942f60c2ef30b8ff35ac5b46ace51e5faca79ea77af3869209eef6db764e43f"
+    },
+    {
+      "path": "cultures/song/villages/songrebel.json",
+      "timestamp": "2026-08-06T00:50:40.950155400Z",
+      "hash": "sha256:3b8c75d27c93c8deaae75c5f236951c9a39231abe16d5ae3b50ebbf1dbbf4cbe"
+    },
+    {
+      "path": "cultures/song/villages/tomb.json",
+      "timestamp": "2026-08-06T00:50:40.958950300Z",
+      "hash": "sha256:7e91e7e7b40806c038821142921ad4c391ef5074f48f58ae0f95941c1bce7809"
+    },
+    {
+      "path": "cultures/song/shops/animalfarm.json",
+      "timestamp": "2026-08-06T00:50:40.968529100Z",
+      "hash": "sha256:d641b335c8beeeb99911d9ee5f5802de3113ccee3d821766e15559c16c6d5daa"
+    },
+    {
+      "path": "cultures/song/shops/ceramics.json",
+      "timestamp": "2026-08-06T00:50:40.976474Z",
+      "hash": "sha256:e97d219739a21ff4ea1c093fd04c4c21704f859202f6d900226da0c3d8c7e4b0"
+    },
+    {
+      "path": "cultures/song/shops/farm.json",
+      "timestamp": "2026-08-06T00:50:40.983457Z",
+      "hash": "sha256:71fb19cb90fddd1688ea47160e5cfbcc416324b48ad92f021cd4b027a2937ced"
+    },
+    {
+      "path": "cultures/song/shops/fishery.json",
+      "timestamp": "2026-08-06T00:50:40.993089500Z",
+      "hash": "sha256:8ba4f13c6f14d60db68f6674b82e36638e1e31550b16a154bf6eef5ca3e2fc4b"
+    },
+    {
+      "path": "cultures/song/shops/gunpowder.json",
+      "timestamp": "2026-08-06T00:50:41.001244200Z",
+      "hash": "sha256:1829278aebd4ddffb618d6801c55221d42301b4afd229456013cc0312ab5af89"
+    },
+    {
+      "path": "cultures/song/shops/lonefarm.json",
+      "timestamp": "2026-08-06T00:50:41.009239800Z",
+      "hash": "sha256:8efff63cf49eaafa510da337c22a0d038f6bc0ecad1c421f514d549d129e879b"
+    },
+    {
+      "path": "cultures/song/shops/lonelumberman.json",
+      "timestamp": "2026-08-06T00:50:41.018851Z",
+      "hash": "sha256:c03f24797b9c156fa9b72e07910bece661379865937d1d6e94076bfe7ab829c4"
+    },
+    {
+      "path": "cultures/song/shops/militaryforge.json",
+      "timestamp": "2026-08-06T00:50:41.026538700Z",
+      "hash": "sha256:7adcca43404687316130fe2f28fe1b37c468527de6a61e7e534f60a6c06e38d7"
+    },
+    {
+      "path": "cultures/song/shops/restaurant.json",
+      "timestamp": "2026-08-06T00:50:41.035627400Z",
+      "hash": "sha256:e056964e7b3fdccaa828c3cb79cd59c4da835382f63eeeee7fcd1142a1296e41"
+    },
+    {
+      "path": "cultures/song/shops/silkfactory.json",
+      "timestamp": "2026-08-06T00:50:41.043121800Z",
+      "hash": "sha256:46f55960ca06edbe509b1fd257c3e2a85972b1d420257020e5730275aafcbc0a"
+    },
+    {
+      "path": "cultures/song/shops/song_forge.json",
+      "timestamp": "2026-08-06T00:50:41.051392200Z",
+      "hash": "sha256:52c927298a14fb1e3fcb0a7e4cd5b447157ce56cdca6cde08c25ee0527f3e186"
+    },
+    {
+      "path": "cultures/song/shops/songtownhall.json",
+      "timestamp": "2026-08-06T00:50:41.060498200Z",
+      "hash": "sha256:7b1d6bc8852c43066c48ea799ad0e5d726f968489be7110305e66fba6d148ac7"
+    },
+    {
+      "path": "cultures/song/shops/tavern.json",
+      "timestamp": "2026-08-06T00:50:41.068215600Z",
+      "hash": "sha256:eb7aa158e53e494beeac607a1f9dc0eaf522d4e0ee2bbacf0f32c0fd46c5eba8"
+    },
+    {
+      "path": "cultures/song/traded_goods.json",
+      "timestamp": "2026-08-06T00:50:41.079905Z",
+      "hash": "sha256:e1c7540491960baa7e0054274eb05146178388f714eb497efd1478486b21e08d"
+    },
+    {
+      "path": "cultures/song/culture.json",
+      "timestamp": "2026-08-06T00:50:41.087816600Z",
+      "hash": "sha256:496bbf1830f4e218ec446b2dfb62e55884e6e9a0d1a0a779f9c777f95c5c69b5"
+    },
+    {
+      "path": "gathering_type/makecharcoal.json",
+      "timestamp": "2026-08-06T00:50:41.125382200Z",
+      "hash": "sha256:4f791c78d81ff7df4a9a4eb7911047063590288dd8f41ddc33640ab15a82e465"
+    },
+    {
+      "path": "gathering_type/calligraphy.json",
+      "timestamp": "2026-08-06T00:50:41.135860500Z",
+      "hash": "sha256:f4c1da98c6378eb20d9960ae1cbc8135fe9519a344c54007dd900cca0b8f8c91"
+    },
+    {
+      "path": "gathering_type/make_song_paperwall.json",
+      "timestamp": "2026-08-06T00:50:41.143398Z",
+      "hash": "sha256:a2f44a8242434de3ed9e1ed3ffa89fd0b9b725418791659edf808f20202761b7"
+    },
+    {
+      "path": "gathering_type/makeceramics.json",
+      "timestamp": "2026-08-06T00:50:41.152377500Z",
+      "hash": "sha256:4e0264d60feafb41e3b3badc9452a582e0a936dd606d62fcd3c0a98700620926"
+    },
+    {
+      "path": "gathering_type/makechineseboots.json",
+      "timestamp": "2026-08-06T00:50:41.160862Z",
+      "hash": "sha256:6302a072b0b21980fff797d2a32a1e2a43525740f318be8c7f554349abda6402"
+    },
+    {
+      "path": "gathering_type/makechinesechestplate.json",
+      "timestamp": "2026-08-06T00:50:41.170353Z",
+      "hash": "sha256:a40896f58207d9a739bf651df78ac2656e28fa4aeab68f9e6237501d28e2cdfb"
+    },
+    {
+      "path": "gathering_type/makechinesehelmet.json",
+      "timestamp": "2026-08-06T00:50:41.177902Z",
+      "hash": "sha256:db38828d22c29ce42ca95f1a64625f7de58f821e0b3e513d2c174cb6c572dd83"
+    },
+    {
+      "path": "gathering_type/makechineseleggings.json",
+      "timestamp": "2026-08-06T00:50:41.186437100Z",
+      "hash": "sha256:1fcb4167033de072013eea6a246e29b1529ab82e4c40e86c009f86caf42b6833"
+    },
+    {
+      "path": "gathering_type/makeclothes_song_silk.json",
+      "timestamp": "2026-08-06T00:50:41.194919600Z",
+      "hash": "sha256:0527e6ca495f343cd4c9142fadc7e7663b5a2b21d74d050018eb9124cb6ada70"
+    },
+    {
+      "path": "gathering_type/makecoal.json",
+      "timestamp": "2026-08-06T00:50:41.201902Z",
+      "hash": "sha256:8822a14f05170f8d5addfff5daf226c943020baeb17bb4c18f482ed818ccf8cc"
+    },
+    {
+      "path": "gathering_type/makecompass.json",
+      "timestamp": "2026-08-06T00:50:41.211905200Z",
+      "hash": "sha256:c99ca49122b25a9c087357a2cf333d47a253eecb92d0793f238f062f8cced817"
+    },
+    {
+      "path": "gathering_type/makeguan_dao.json",
+      "timestamp": "2026-08-06T00:50:41.220937900Z",
+      "hash": "sha256:5f0cca5578815e3531f12219f3b49d043622a8216c1e89f9570f4276df2b5046"
+    },
+    {
+      "path": "gathering_type/makegunpowder.json",
+      "timestamp": "2026-08-06T00:50:41.228472400Z",
+      "hash": "sha256:0e7e19c7244e46595acbe5eeff4d1ecfdf2f48f16c3fc5ad6f10cd116e060c2a"
+    },
+    {
+      "path": "gathering_type/makehuadiao_wine.json",
+      "timestamp": "2026-08-06T00:50:41.237978400Z",
+      "hash": "sha256:0d9c6d4b57f725e6a115e8659be106d46d6a1aa76923aced1495e732ada3edb2"
+    },
+    {
+      "path": "gathering_type/makeironsong.json",
+      "timestamp": "2026-08-06T00:50:41.245781Z",
+      "hash": "sha256:16786b92018c968385bc64aa45dd301e1c9bc7b75dfcce2b8f7e3224ea36ce51"
+    },
+    {
+      "path": "gathering_type/makejujuba.json",
+      "timestamp": "2026-08-06T00:50:41.254392Z",
+      "hash": "sha256:c36bba8326855468ce5c73db2fc2339637b2daf4037cf3ecbe63386f1fa8f07a"
+    },
+    {
+      "path": "gathering_type/makemurghsong.json",
+      "timestamp": "2026-08-06T00:50:41.265870900Z",
+      "hash": "sha256:4273828907bb60fb4fc8159a99e595d5485c4ad0192d865e5a53f4b82c452590"
+    },
+    {
+      "path": "gathering_type/makepapermoney.json",
+      "timestamp": "2026-08-06T00:50:41.273359200Z",
+      "hash": "sha256:4fa1a6205650c33fb43879bb788083b2c14691d31adbdfcd228b70ab1c5df115"
+    },
+    {
+      "path": "gathering_type/makepaperwoodpulpsong.json",
+      "timestamp": "2026-08-06T00:50:41.280631Z",
+      "hash": "sha256:d72a75adf252906bad622a4038489a98eb952d8f9ef4ca0d0d0c4906ba19947f"
+    },
+    {
+      "path": "gathering_type/makerice.json",
+      "timestamp": "2026-08-06T00:50:41.289686900Z",
+      "hash": "sha256:5189273261a2b62eb16dfbf0045c64db407b30d3da626cab9953e61f81e15758"
+    },
+    {
+      "path": "gathering_type/makeshaoxiung_wine.json",
+      "timestamp": "2026-08-06T00:50:41.297313Z",
+      "hash": "sha256:8005f42e8bb0e5ea92d46e5e1a7b4bf2e2119e8dbfbf76e70e589e460448de19"
+    },
+    {
+      "path": "gathering_type/makesharksfin.json",
+      "timestamp": "2026-08-06T00:50:41.305855600Z",
+      "hash": "sha256:d50a60f34548787bc6037ecc961a7db100b80642431ababcd200675e3e3b159e"
+    },
+    {
+      "path": "gathering_type/maketnt.json",
+      "timestamp": "2026-08-06T00:50:41.314971700Z",
+      "hash": "sha256:8dd773af3cc57e88e50c07f9dc64289ea5191645500457c412f0c086af9391b6"
+    },
+    {
+      "path": "gathering_type/gatherclaysong.json",
+      "timestamp": "2026-08-06T00:50:41.323119200Z",
+      "hash": "sha256:302e2a66572ba5b547852208247ea44568ef5843e43972544118aea893f06560"
+    },
+    {
+      "path": "gathering_type/mineironsong.json",
+      "timestamp": "2026-08-06T00:50:41.331860700Z",
+      "hash": "sha256:59678793e5bd78bc96ee9bcb65ed04c8147a0acf8d154383cb5cec0349d557b0"
+    },
+    {
+      "path": "gathering_type/slaughterpigsong.json",
+      "timestamp": "2026-08-06T00:50:41.340363600Z",
+      "hash": "sha256:98a8a1205a8728e1737d320038fda8bba1f0ca29238886eb8e4ebac4071e13b6"
+    },
+    {
+      "path": "gathering_type/fetchwhitepaintedbrickssong.json",
+      "timestamp": "2026-08-06T00:50:41.349491600Z",
+      "hash": "sha256:d1637d79f81c6e6c0ea85fc364d327dfd0dac85a9fa4fc17daa3ac806d353f5a"
+    },
+    {
+      "path": "gathering_type/getfishcookedsong.json",
+      "timestamp": "2026-08-06T00:50:41.358067800Z",
+      "hash": "sha256:50b418e35f51fb08fd23daf8471309cc6d107a3bbcb2eab5ce54314c0fffffb8"
+    },
+    {
+      "path": "gathering_type/pickupseeds.json",
+      "timestamp": "2026-08-06T00:50:41.365615600Z",
+      "hash": "sha256:f1bb38e93ddffa8377fdce8c434bc9909e4605a6078dfaf2947f5a926dfe59e0"
+    },
+    {
+      "path": "visit_goal/checksilkworms.json",
+      "timestamp": "2026-08-06T00:50:41.374309Z",
+      "hash": "sha256:448c56fa56a9a7dcd8342f0a2a4874686f095f34368c59649778807b2b705d3c"
+    },
+    {
+      "path": "visit_goal/goplayatthepond.json",
+      "timestamp": "2026-08-06T00:50:41.381618700Z",
+      "hash": "sha256:a0d7b42513b1fe977cc48d3e62896064daa047dc2a5c7d0cea620dbd38988c06"
+    },
+    {
+      "path": "quests/songbasic/papercurrency.json",
+      "timestamp": "2026-08-06T00:50:41.841616900Z",
+      "hash": "sha256:aed586f115c83ff968a6184481663d43d47e84c03db0c6ca8e8bdf2c9fab0184"
+    },
+    {
+      "path": "quests/songbasic/songwifebasic.json",
+      "timestamp": "2026-08-06T00:50:41.852142100Z",
+      "hash": "sha256:27f325dc2d386951f7200bf8da6eda1a6cfa8283d9a1e7b1dce0246cd6d18cc2"
+    },
+    {
+      "path": "quests/songbasic/stageplay.json",
+      "timestamp": "2026-08-06T00:50:41.860399800Z",
+      "hash": "sha256:a3c64806c2f700f3779274a099f49ce098bc45c693cdbcc71d0d331968751212"
+    },
+    {
+      "path": "quests/songbasic/tntdelivery.json",
+      "timestamp": "2026-08-06T00:50:41.868914800Z",
+      "hash": "sha256:e323048031a8181b152633970bc98c02dcead63c728e0e2bdf238bd74fa739e1"
+    }
+  ]
+}

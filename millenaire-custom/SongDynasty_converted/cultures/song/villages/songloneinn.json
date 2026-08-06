@@ -1,0 +1,16 @@
+{
+  "culture": "millenaire:song",
+  "name": "songloneinn",
+  "weight": 10,
+  "lone_building": true,
+  "biome_tags": [
+    "#minecraft:is_overworld"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:song/songloneinn",
+      "role": "centre"
+    }
+  ],
+  "allow_extra_buildings": false
+}

@@ -1,0 +1,49 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "士兵",
+  "textures": [
+    "millenaire:textures/entity/song/ml_soldier.png",
+    "millenaire:textures/entity/song/ml_soldier2.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "archer",
+    "raider",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64,
+    "minecraft:tnt": 64,
+    "smm:chinesehelmet": 1,
+    "smm:chinesechestplate": 1,
+    "smm:chineseleggings": 1,
+    "smm:chineseboots": 1
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_class_familynames",
+  "icon": "minecraft:iron_sword",
+  "max_health": 30,
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword",
+    "armour",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "hiring_cost": "32"
+}

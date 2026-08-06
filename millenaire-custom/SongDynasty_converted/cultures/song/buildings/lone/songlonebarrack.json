@@ -1,0 +1,77 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "songlonebarrack",
+  "category": "lone",
+  "native_name": "军营",
+  "max_count": 0,
+  "male": [
+    "bandit",
+    "bandit",
+    "bandit",
+    "bandit",
+    "bandit"
+  ],
+  "icon": "minecraft:stone_axe",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 50
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:norman_sword",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_leggings",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:norman_helmet",
+      "probability": 0.3,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:cider",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "millenaire:calva",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 1
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 22,
+            "height": 9,
+            "depth": 21
+          },
+          "priority": 5
+        }
+      ]
+    }
+  ]
+}

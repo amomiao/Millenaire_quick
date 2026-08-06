@@ -1,0 +1,83 @@
+name:宗教村庄
+weight:8
+carriesraid:true
+qualifier=hengye-lexing
+mountainQualifier:zonghua-Tibet
+icon:book
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
+
+biome:Taiga
+biome:Taiga Hills
+biome:Taiga M
+biome:Forest
+biome:Flower Forest
+
+//biomes o'plenty
+biome=brushland
+biome=grove
+biome=meadow
+biome=orchard
+biome=shrubland
+biome=steppe
+
+//extraBiomes mod
+biome:green hills
+biome:ice mountains
+biome:autumn woods
+
+//starting buildings:
+centre:so_th_pagoda
+start:so_peasanthouse
+start:so_lumberman
+start:so_grove
+start:so_pig_farm
+start:so_guesthouse
+start:so_chickenfarm
+start:so_temple
+start:so_shrine
+start:so_wheat_farm
+start:so_brickkiln
+// 17
+
+player:so_playerhouse
+player:so_house
+player:so_playerhugefield
+player:so_playerlargefield
+
+
+//to be built in priority
+core:so_wheatpaddy
+core:so_wheatpaddy
+core:so_acaciagrove
+core:so_workershouse
+core:so_steelworks
+core:so_fishery
+core:so_peasanthouse
+core:so_crafter
+core:so_well
+core:so_quarry
+// 12
+
+secondary:so_fancygrove
+secondary:so_restaurant
+secondary:so_pagoda
+secondary:so_brickkiln
+secondary:so_inn
+secondary:so_rice_farm
+secondary:so_shrine
+secondary:so_workershouse
+secondary:so_tower
+secondary:so_tower
+// 9
+
+//never for this type of village
+never:so_barracks
+never:so_gunpowder
+never:so_forge
+never:so_silkfarm
+
+// extra
+// 10

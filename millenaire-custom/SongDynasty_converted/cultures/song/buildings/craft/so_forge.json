@@ -1,0 +1,72 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_forge",
+  "category": "craft",
+  "native_name": "锻造小屋",
+  "shop": "song_forge",
+  "male": [
+    "smith_m"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "armoury",
+    "forge",
+    "nopaths"
+  ],
+  "icon": "minecraft:iron_chestplate",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "tags": [
+        "armoury",
+        "forge",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 400,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 70
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 30,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 13,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 30,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

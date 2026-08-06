@@ -1,0 +1,89 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "妻子",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/song/ml_wife2.png",
+    "millenaire:textures/entity/song/ml_wife1.png",
+    "millenaire:textures/entity/song/ml_wife3.png",
+    "millenaire:textures/entity/song/ml_wife4.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songwife0.png"
+      ]
+    },
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife3.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwifepeasant1.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife1.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife5.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife4.png"
+      ]
+    }
+  },
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:pray",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_thatchfromwheat",
+    "millenaire:craft_udon",
+    "millenaire:craft_strawbed",
+    "millenaire:plant_wheat_home",
+    "millenaire:harvest_wheat_home",
+    "millenaire:plant_wheat_paddy",
+    "millenaire:harvest_wheat_paddy",
+    "millenaire:craft_pathgravel",
+    "millenaire:craft_pathgravelslabs",
+    "millenaire:plant_turmeric",
+    "millenaire:harvest_turmeric"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:wheat": 10,
+    "minecraft:wheat_seeds": 32
+  },
+  "bring_back_home_goods": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "millenaire:rice",
+    "millenaire:turmeric"
+  ],
+  "collect_goods": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat"
+  ],
+  "required_goods": {
+    "minecraft:wheat": 8,
+    "minecraft:cooked_chicken": 1,
+    "millenaire:rice": 8,
+    "minecraft:cod": 5,
+    "smm:sharksfin": 1,
+    "smm:ceramic": 1
+  },
+  "gender": "female",
+  "first_name_list": "female_names",
+  "family_name_list": "peasant_family_names",
+  "male_child": "boy",
+  "female_child": "girl",
+  "icon": "minecraft:iron_hoe",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "hoes"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "default_weapon": "minecraft:wooden_hoe",
+  "travelbook_held_item": "minecraft:iron_hoe"
+}

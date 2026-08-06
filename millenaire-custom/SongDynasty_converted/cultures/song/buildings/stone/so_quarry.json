@@ -1,0 +1,144 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_quarry",
+  "category": "stone",
+  "native_name": "采石场",
+  "min_distance": 0.6,
+  "male": [
+    "miner"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "nopaths",
+    "sandpit",
+    "oven"
+  ],
+  "icon": "millenaire:norman_pickaxe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -4,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 23,
+            "height": 10,
+            "depth": 13
+          },
+          "priority": 450,
+          "tags": [
+            "nopaths",
+            "sandpit"
+          ],
+          "infoSources": [
+            {
+              "type": "clay"
+            },
+            {
+              "type": "sand"
+            },
+            {
+              "type": "stone"
+            },
+            {
+              "type": "gravel"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 23,
+            "height": 10,
+            "depth": 13
+          },
+          "priority": 200,
+          "tags": [
+            "nopaths",
+            "sandpit",
+            "oven"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 23,
+            "height": 13,
+            "depth": 13
+          },
+          "priority": 80,
+          "tags": [
+            "nopaths",
+            "sandpit",
+            "oven"
+          ],
+          "infoSources": [
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 23,
+            "height": 13,
+            "depth": 13
+          },
+          "priority": 80,
+          "tags": [
+            "nopaths",
+            "sandpit",
+            "oven"
+          ],
+          "infoSources": [
+            {
+              "type": "gravel"
+            },
+            {
+              "type": "stone"
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 23,
+            "height": 13,
+            "depth": 13
+          },
+          "priority": 80,
+          "tags": [
+            "nopaths",
+            "sandpit",
+            "oven"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 23,
+            "height": 13,
+            "depth": 13
+          },
+          "priority": 80,
+          "path_level": 2,
+          "tags": [
+            "nopaths",
+            "sandpit",
+            "oven"
+          ]
+        }
+      ]
+    }
+  ]
+}

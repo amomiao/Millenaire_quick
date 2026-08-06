@@ -1,0 +1,22 @@
+name:Bei yiqi de gongdian
+weight:10
+radius:90
+
+//1.7 biomes
+biome:Extreme Hills
+biome:Extreme Hills+
+biome:Extreme Hills M
+biome:Extreme Hills+ M
+biome:Taiga
+biome:Taiga M
+biome:TaigaHills
+biome:Plains
+biome:Forest
+
+//extraBiomes mod
+biome:autumn woods
+biome:green hills
+biome:forested hills
+
+//starting buildings:
+centre:abandonpalace

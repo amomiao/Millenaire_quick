@@ -1,0 +1,50 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_fort_a_gates",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "so_fort",
+    "variant": "a",
+    "level": 4
+  },
+  "is_town_hall": false,
+  "native_name": "军事锻造厂",
+  "max_count": 0,
+  "icon": "minecraft:iron_sword",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 40,
+            "height": 12,
+            "depth": 32
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 40,
+            "height": 12,
+            "depth": 32
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 40,
+            "height": 12,
+            "depth": 32
+          },
+          "priority": 50
+        }
+      ]
+    }
+  ]
+}

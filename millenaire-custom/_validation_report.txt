@@ -1,5 +1,5 @@
 === Millénaire Custom Content Report ===
-Generated: 2026-08-03 16:54:57
+Generated: 2026-08-06 09:16:17
 Mod version: millenaire 9.0.0-beta.2
 
 === Culture: norman (built-in with overrides) ===
@@ -7,14 +7,37 @@ Mod version: millenaire 9.0.0-beta.2
   sub-mods: momos-pack
   building_plan    4 file(s) on disk
 
+=== Culture: song (custom) ===
+  Source: external JSON
+  sub-mods: SongDynasty_converted
+  building_plan    72 file(s) on disk
+  shops            13 file(s) on disk
+  village_type     16 file(s) on disk
+  villager_type    44 file(s) on disk
+  culture.json     present
+  traded_goods     present (additive merge)
+  namelists        11 file(s) (additive append)
+
 === Global ===
-  gathering_type   0 custom file(s)
-  quests           0 custom file(s)
-  language overlays 0 custom file(s) across all locales
+  gathering_type   29 custom file(s)
+  quests           4 custom file(s)
+  language overlays 17 custom file(s) across all locales
+
+=== Missing content (custom cultures) ===
+These classpath files were consulted during load but were absent
+from both the mod JAR and every sub-mod overlay. For custom (non-
+built-in) cultures this is expected when the pack does not provide
+the corresponding resource — the loader falls back or skips the
+entry silently. Listed here so pack authors can spot unintended
+omissions without grep-ing the server log.
+
+  song:
+    - /millenaire/cultures/song/culture_reputation.json
+    - /millenaire/cultures/song/reputation.json
 
 === Summary ===
-Cultures: 0 custom, 1 built-in with overrides, 7 total loaded
-Registries after load: 1806 building plans, 285 villager types, 126 village types
+Cultures: 1 custom, 1 built-in with overrides, 8 total loaded
+Registries after load: 2092 building plans, 329 villager types, 142 village types
 
 For detailed errors and warnings during loading, see logs/latest.log
 (search for 'Error', 'WARN CultureLoader', 'WARN BuildingPlanSet').

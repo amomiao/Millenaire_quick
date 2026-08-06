@@ -1,0 +1,15 @@
+building.length=40
+building.width=32
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=so_fort_A4
+
+building.icon=steelsword
+
+initial.startlevel=-2
+initial.nativename=军事锻造厂
+initial.priority=400
+
+upgrade1.priority=100
+
+upgrade2.priority=50

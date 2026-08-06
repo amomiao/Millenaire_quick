@@ -1,0 +1,53 @@
+{
+  "culture_id": "song",
+  "qualifierseparator": "-",
+  "knowncrop": [
+    "rice",
+    "turmeric",
+    "sapling_cherry"
+  ],
+  "icon": "rice",
+  "culturebanner": "{BlockEntityTag:{Base:15,Patterns:[{Pattern:jap,Color:11}]}}",
+  "paneltexture": "millenaire:textures/entity/panels/song.png",
+  "travelbookvillagercategory": [
+    "villager",
+    "lonevillager",
+    "visitor",
+    "leader"
+  ],
+  "travelbookbuildingcategory": [
+    "townhall",
+    "house",
+    "othervillage",
+    "lonebuilding",
+    "playerbuilding"
+  ],
+  "travelbooktradegoodcategory": [
+    "construction",
+    "agriculture",
+    "crafting",
+    "tools",
+    "weapons",
+    "playeritem",
+    "foreigntrade"
+  ],
+  "travelbookcategoryicon": [
+    "villager,steelshovel",
+    "visitor,purse",
+    "leader,steelhelmet",
+    "lonevillager,sapling",
+    "townhall,stonebrick",
+    "house,timberframeplain",
+    "othervillage,timberframecross",
+    "lonebuilding,wood_oak",
+    "playerbuilding,cake",
+    "construction,timberframecross",
+    "agriculture,rice",
+    "crafting,iron",
+    "tools,steelshovel",
+    "weapons,steelsword",
+    "playeritem,purse",
+    "foreigntrade,cacauhaa"
+  ],
+  "display_name": "Song"
+}

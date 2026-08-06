@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_restaurant",
+  "category": "craft",
+  "native_name": "食肆",
+  "shop": "restaurant",
+  "male": [
+    "chef_m"
+  ],
+  "female": [
+    "chef_f"
+  ],
+  "tags": [
+    "oven",
+    "kitchen",
+    "bakery",
+    "leisure",
+    "nopaths"
+  ],
+  "icon": "smm:riceplate",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "oven",
+        "kitchen",
+        "bakery",
+        "leisure",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 11
+          },
+          "priority": 400,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 11
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 9,
+            "depth": 11
+          },
+          "priority": 60,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

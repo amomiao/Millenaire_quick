@@ -1,0 +1,86 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_inn",
+  "category": "trade",
+  "native_name": "客栈",
+  "max_count": 0,
+  "male": [
+    "merchant_m"
+  ],
+  "tags": [
+    "inn",
+    "leisure"
+  ],
+  "icon": "millenaire:straw_bed",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "tags": [
+        "inn",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 18,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 500,
+          "signs": "1,0"
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 18,
+            "height": 11,
+            "depth": 11
+          },
+          "priority": 500,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 18,
+            "height": 11,
+            "depth": 11
+          },
+          "priority": 200
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 18,
+            "height": 11,
+            "depth": 11
+          },
+          "priority": 80
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 18,
+            "height": 11,
+            "depth": 11
+          },
+          "priority": 30
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 18,
+            "height": 12,
+            "depth": 11
+          },
+          "priority": 30,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+building.length=19
+building.width=10
+building.buildingorientation=2
+building.max=0
+building.areatoclear=4
+
+building.icon=steelsword
+
+initial.startlevel=-1
+initial.nativename=军营
+initial.priority=100
+initial.male=song_soldier
+//male:song_soldier;male:song_soldier;female:song_militiafemale
+
+upgrade1.priority=30
+upgrade1.pathlevel=0

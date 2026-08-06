@@ -1,0 +1,42 @@
+version:4.8.0
+Millénaire: Song Buildings
+
+Village centres
+
+Da Nongchang: This building is where a Peasa lives with his wife and plant crops for their own villagers.
+
+Baolei: Fort. This buidling is where the Zhanshi Gou lives together with his wife and soldiers to manage the land.
+
+Huanggong: Imperial office. The Chinese would build huge Imperial Offices to center their villages. The Emperor and his Wife reside here. All building plans for the village are fabricated here, as well as additional plans and proposals.
+
+Wa Ye: Factory. The  Chinese would build a factory for producing gunpowder and ceramics. They also trade it to other villagers.
+NEW_PAGE
+Housing
+
+Jundul duanzao: Army Forge. They make norman weaponry to prepare a battle against the Yin Dynasty. They craft fearful weapons.
+
+Duanzo: Smith. This is the Gongjiang works night and day to craft the tools for the village.
+
+Huoyang gongchang: Gunpowder Factory. Produces gunpowder and explosives for the village celebrations
+
+Nuye: Fishery. The Yu lives here in a lightless house with the fishes and his wife.
+
+Kodachi: Grove. Where the lumberman cuts down trees.
+
+Khezang: Inn. This is where the traders relax after traveling a long way.
+
+Wumian wa ye: Tile Factory. This is where the workers make ceramic tiles for the village.
+
+Famu gongren Xiaowu: Lumbermans Hut. This is the house in which the Lumberman and his wife reside. He chops wood, brings it home, and the wife delivers it to the village center.
+
+Diaotan: Rice paddy. The villagers plant rice on this field. It is cultivated by peasants and their wife.
+
+Baota: Pagoda. This is where the villagers come to pray and its where the Monks lives. They make books and distribute it for the player.
+
+Nongjia xiaowu: Peasants House. This is the home where the Peasant and his wife lives.
+
+Caichi Chang: Quarry. This is where the Quanggong and his wife lives. There are 5 miners working together to achieve their goal.
+
+Junying: Guards House. In this house lives a soldier or guard. This is sometimes a watchtower and sometimes a large house. 
+
+Chang: Farm. This is where The farmer and his wife lives. He will gather and grow rice here.

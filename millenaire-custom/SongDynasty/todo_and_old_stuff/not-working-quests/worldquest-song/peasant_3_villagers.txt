@@ -1,0 +1,25 @@
+minreputation:2*64*64
+chanceperhour:1
+step:new
+definevillager:key=startvillager,type=song/quest_farmer
+villager:startvillager
+duration:5
+rewardgood:normanhoe
+forbiddenplayertag:peasant_4_mysteriousdiscovery
+requiredplayertag:peasant_2_wheat
+label_english:Other Crops
+description_english: $name I want to know the villagers that were not as same as us. Try to communicate with them and ask for their crops. 
+description_success_english:I will give you some food when you come back.
+description_refuse_english:Rest a bit, It seems you're too tired.
+
+step:new
+villager:quest_farmer
+duration:5
+rewardreputation:192
+requiredgood:seeds,15
+requiredgood:wheat,1
+requiredgood:carrot,15
+requiredgood:potato,14
+setplayertagsuccess:peasant_3_villagers
+label_english:Deliver Samples
+description_english:I have learned from you. You have learned from me.

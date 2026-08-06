@@ -1,0 +1,93 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_rice_paddy2",
+  "category": "farms",
+  "native_name": "稻田",
+  "min_distance": 0.6,
+  "tags": [
+    "paddy",
+    "nopaths"
+  ],
+  "icon": "millenaire:rice",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "paddy",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 2,
+            "depth": 7
+          },
+          "priority": 400,
+          "path_width": 1,
+          "infoSoils": [
+            {
+              "crop": "rice"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 2,
+            "depth": 7
+          },
+          "infoSoils": [
+            {
+              "crop": "rice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "variant": "b",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "paddy",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 2,
+            "depth": 10
+          },
+          "priority": 400,
+          "path_width": 1,
+          "infoSoils": [
+            {
+              "crop": "rice"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 2,
+            "depth": 10
+          },
+          "infoSoils": [
+            {
+              "crop": "rice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

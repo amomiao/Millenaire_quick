@@ -1,0 +1,73 @@
+name:经济村庄
+weight:8
+carriesraid:true
+qualifier=hengye-lexing
+mountainQualifier:zonghua-Tibet
+icon=purse
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
+
+biome:Plains
+biome:Forest
+biome:Birch Forest
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=grassland
+biome=grove
+biome=meadow
+biome=orchard
+biome=shrubland
+biome=steppe
+
+//extraBiomes mod
+biome:green hills
+biome:autumn woods
+
+//starting buildings:
+centre:so_factory
+start:so_peasanthouse
+start:so_lumberman
+start:so_grove
+start:so_brickkiln
+start:so_quarry
+start:so_wheat_farm
+// 10
+
+player:so_playerhouse
+player:so_house
+player:so_playerhugefield
+player:so_playerlargefield
+
+//to be built in priority
+core:so_crafter
+core:so_wheatpaddy
+core:so_steelworks
+core:so_fishery
+core:so_silkfarm
+core:so_acaciagrove
+core:so_tower
+core:so_well
+core:so_workershouse
+// 10
+
+secondary:so_rice_farm
+secondary:so_paper_currency
+secondary:so_shrine
+secondary:so_tower
+secondary:so_gunpowder
+secondary:so_guardtower
+// 5
+
+//never for this type of village
+never:so_barracks
+never:so_armyforge
+never:so_forge
+never:so_pig_farm
+never:so_silkfactory
+
+// extra
+// 14

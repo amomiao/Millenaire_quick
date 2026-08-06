@@ -1,0 +1,24 @@
+buildingTag=kitchen
+
+priority=50
+
+//en/in millisecondes
+duration=5000
+
+//objets tenus par le villageois
+heldItems=rice,turmeric,chickenmeat,chickencurry
+
+input=rice,2
+input=turmeric,2
+input=chickenmeatcooked,1
+output=chickencurry,1
+
+townhalllimit=chickencurry,16
+buildinglimit=chickencurry,4
+
+//pas plus de X villageois fesant ce but dans le même bâtiment en même temps
+//no more than X villagers doing this goal in the same building at the same time
+maxsimultaneousinbuilding=1
+
+
+tag=tag_producefood

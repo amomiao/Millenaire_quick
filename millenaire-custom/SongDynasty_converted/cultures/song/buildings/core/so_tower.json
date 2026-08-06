@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_tower",
+  "category": "core",
+  "native_name": "塔",
+  "max_count": 0,
+  "min_distance": 0.7,
+  "tags": [
+    "patrol"
+  ],
+  "icon": "torch",
+  "area_to_clear": 4,
+  "far_from_tags": [
+    "patrol,50"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 9,
+            "depth": 7
+          },
+          "priority": 300
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 7,
+            "height": 13,
+            "depth": 7
+          },
+          "priority": 70
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+building.length=39
+building.width=29
+
+building.issubbuilding=true
+building.max=0
+building.parentbuildingplan=so_th_pagoda_A3
+building.icon=book
+
+initial.startlevel=-1
+initial.nativename=佛教圣祠
+initial.priority=400
+
+upgrade1.priority=100
+
+upgrade4.priority=50

@@ -1,0 +1,78 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "ironpagoda",
+  "category": "lone",
+  "native_name": "宝塔",
+  "male": [
+    "monk",
+    "monk",
+    "monk",
+    "soldier"
+  ],
+  "female": [
+    "emperorwife"
+  ],
+  "icon": "minecraft:book",
+  "starting_goods": [
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.25,
+      "fixed": 40,
+      "random": 30
+    },
+    {
+      "item": "minecraft:iron_ingot",
+      "probability": 0.15,
+      "fixed": 12,
+      "random": 18
+    },
+    {
+      "item": "minecraft:book",
+      "probability": 0.15,
+      "fixed": 12,
+      "random": 14
+    },
+    {
+      "item": "minecraft:diamond",
+      "probability": 0.3,
+      "fixed": 6,
+      "random": 2
+    },
+    {
+      "item": "minecraft:paper",
+      "probability": 0.25,
+      "fixed": 22,
+      "random": 26
+    },
+    {
+      "item": "millenaire:calva",
+      "probability": 0.5,
+      "fixed": 4,
+      "random": 6
+    },
+    {
+      "item": "millenaire:wall_tapestry",
+      "probability": 0.3,
+      "fixed": 4,
+      "random": 2
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 63,
+            "depth": 19
+          },
+          "priority": 5
+        }
+      ]
+    }
+  ]
+}

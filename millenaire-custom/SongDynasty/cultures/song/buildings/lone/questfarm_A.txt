@@ -1,0 +1,16 @@
+
+building.length=34
+building.width=26
+building.icon=rice
+building.buildingorientation=3
+building.max=0
+building.showtownhallsigns=false
+
+initial.startlevel=-2
+initial.nativename=水稻农场
+initial.priority=5
+initial.male=quest_farmer
+initial.male=song_peasant_m
+initial.female=song_peasant_f
+initial.female=song_wife
+initial.tag=paddy

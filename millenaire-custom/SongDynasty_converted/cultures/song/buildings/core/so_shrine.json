@@ -1,0 +1,72 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_shrine",
+  "category": "core",
+  "native_name": "神龛",
+  "tags": [
+    "leisure",
+    "nopaths"
+  ],
+  "icon": "millenaire:rice",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "leisure",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 300,
+          "path_width": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 80,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 80
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 19
+          },
+          "priority": 80,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

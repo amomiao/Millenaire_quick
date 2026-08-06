@@ -1,0 +1,13 @@
+villager.makebyzantinetiles=Zhèxiē zhuān shì bùshì yuánlái zài zhōngguó, tā yīnggāi shì. / These tiles are not original from China. It Should be.
+
+villager.greeting=Zao an, $name-ji! / Good Morning, $name-ji!
+
+male.gorest=Gōngzuò zuòxí / Now I will go and rest.
+
+female.gorest=Xiànzài, wǒ huì qù xiūxí. / Now I will go and rest.
+female.gorest=Yīnwèi āidào wǒ yīzhí zài nǔlì / I have been working since morning.
+female.gorest=Wǒ lèile / I am tired.
+
+villager.gopray=Hey Buddha / Dear Buddha, may the harvest be good this time.
+
+villager.slaughterchicken= Zhèxiē jī dōu tǎoyàn wǒ. / These chickens are annoying me.

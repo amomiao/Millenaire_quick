@@ -1,0 +1,31 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=13
+building.areatoclear=4
+building.buildingorientation=3
+building.icon=porkchops
+building.mindistance=0.6
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=猪圈
+initial.priority=500
+initial.male=song_animalfarmer_m
+initial.female=song_animalfarmer_f
+initial.tag=pigs
+initial.tag=nopaths
+initial.tag=carrots
+initial.pathwidth=1
+initial.shop=animalfarm
+
+//Parameters for specific upgrades
+upgrade1.rebuildpath=true
+upgrade1.priority=80
+upgrade1.tag=oven
+
+upgrade2.priority=50
+
+upgrade2.rebuildpath=false
+
+upgrade3.priority=30
+upgrade3.pathlevel=1

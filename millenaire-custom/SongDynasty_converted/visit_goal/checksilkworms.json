@@ -1,0 +1,14 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "silkwormfarm",
+  "basePriority": 5,
+  "priorityRandom": 10,
+  "durationTicks": 240,
+  "reoccurDelayTicks": 1200,
+  "allowRandomMoves": true,
+  "leisure": true,
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "goalKey": "checksilkworms"
+}

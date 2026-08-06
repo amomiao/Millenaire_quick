@@ -1,0 +1,18 @@
+{
+  "sells": [
+    "wheat",
+    "rice",
+    "carrot",
+    "chicken_raw",
+    "porkchop_raw",
+    "feather"
+  ],
+  "buys": [
+    "rice",
+    "wheat",
+    "seeds",
+    "carrot"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

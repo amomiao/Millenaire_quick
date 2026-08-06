@@ -1,0 +1,11 @@
+
+building.length=5
+building.width=5
+building.icon=stone
+building.buildingorientation=3
+building.max=0
+building.showtownhallsigns=false
+
+initial.startlevel=-1
+initial.nativename=被摧毁的塔
+initial.priority=5

@@ -1,0 +1,17 @@
+name:Nong Ge Yun
+weight:10
+radius:15
+
+//1.7 biomes
+biome:Extreme Hills
+biome:Extreme Hills M
+biome:Extreme Hills+
+biome:Extreme Hills+ M
+biome:Plains
+biome:Forest Hills
+biome:Forest
+
+mindistancefromspawn:1000
+
+//starting buildings:
+centre:questfarm

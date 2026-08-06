@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "songloneinn",
+  "category": "lone",
+  "native_name": "旧集市",
+  "shop": "songtownhall",
+  "max_count": 0,
+  "male": [
+    "merchant_m",
+    "merchant_m"
+  ],
+  "female": [
+    "merchant_f",
+    "wife"
+  ],
+  "tags": [
+    "market",
+    "inn",
+    "leisure"
+  ],
+  "icon": "minecraft:stone_axe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "market",
+        "inn",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 8,
+            "depth": 17
+          },
+          "priority": 5,
+          "signs": "1,0"
+        }
+      ]
+    }
+  ]
+}

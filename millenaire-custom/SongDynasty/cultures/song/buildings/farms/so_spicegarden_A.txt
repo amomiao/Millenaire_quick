@@ -1,0 +1,18 @@
+//Parameters for the building as a whole
+building.length=5
+building.width=8
+building.buildingorientation=3
+building.mindistance=0.4
+building.icon=turmeric
+building.areatoclear=3
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=香料园
+initial.priority=400
+initial.pathwidth=1
+initial.tag=spicegarden
+
+//Parameters for specific upgrades
+upgrade1.priority=40
+

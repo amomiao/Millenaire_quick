@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_steelworks",
+  "category": "craft",
+  "native_name": "建筑师小屋",
+  "shop": "song_forge",
+  "max_count": 0,
+  "male": [
+    "smith_m"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "oven",
+    "forge",
+    "nopaths"
+  ],
+  "icon": "minecraft:iron_chestplate",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "tags": [
+        "oven",
+        "forge",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 14
+          },
+          "priority": 300,
+          "priority_move_in": 15
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 14
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 14
+          },
+          "priority": 40
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+Put the song folder into AppData\Roaming\.minecraft\mods\millenaire\cultures
+The Language folder inside the song folder, you should put it to \.minecraft\mods\millenaire\languages\en
+Move the content of textures\song folder to your millenaire.jar\assets\textures\entity\
+Move the content of goals to .minecraft\mods\millenaire\goals\genericcrafting
+Move the content of quests to .minecraft\mods\millenaire\quests
+Move "Song Materials 1.0" to \.minecraft\mods
+
+Enjoy this plugin..
+
+REMINDER:
+If there are any wrong designed stuff here. Send me an email: grubworldlacda@gmail.com or post it on
+
+Suggestions are open// Just put it in the Song Dynasty topic in the Millenaire Forums..
+
+REPORT ANY BUGS!!

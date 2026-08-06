@@ -1,0 +1,14 @@
+{
+  "sells": [
+    "wood",
+    "wood_pine",
+    "wood_birch",
+    "wood_jungle",
+    "cider"
+  ],
+  "buys": [
+    "norman_axe"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

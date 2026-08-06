@@ -1,0 +1,13 @@
+//Parameters for the building as a whole
+building.length=18
+building.width=18
+building.areatoclear=4
+building.max=0
+building.reputation=32768
+building.icon=fence_oak
+building.price=2048
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=中型空地
+initial.priority=1000

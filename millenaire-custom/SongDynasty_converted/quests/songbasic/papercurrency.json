@@ -1,0 +1,61 @@
+{
+  "key": "papercurrency",
+  "chancePerHour": 0.1,
+  "maxSimultaneous": 1,
+  "minReputation": 0,
+  "globalTagsRequired": [],
+  "globalTagsForbidden": [],
+  "playerTagsRequired": [],
+  "playerTagsForbidden": [],
+  "villagerDefs": [
+    {
+      "key": "startvillager",
+      "villagerTypes": [
+        "song/song_merchant_m"
+      ],
+      "requiredTags": [],
+      "forbiddenTags": [
+        "papercurrency_done"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "index": 0,
+      "villagerKey": "startvillager",
+      "duration": 5,
+      "showRequiredGoods": true,
+      "requiredGoods": {
+        "minecraft:paper": 20
+      },
+      "rewardGoods": {},
+      "rewardMoney": 512,
+      "rewardReputation": 256,
+      "penaltyReputation": 0,
+      "villagerTagsSuccess": [
+        {
+          "villagerKey": "startvillager",
+          "tag": "papercurrency_done"
+        }
+      ],
+      "villagerTagsFailure": [],
+      "playerTagsSuccess": [],
+      "playerTagsFailure": [],
+      "globalTagsSuccess": [],
+      "globalTagsFailure": [],
+      "clearTagsSuccess": [],
+      "clearTagsFailure": [],
+      "clearPlayerTagsSuccess": [],
+      "clearPlayerTagsFailure": [],
+      "clearGlobalTagsSuccess": [],
+      "clearGlobalTagsFailure": [],
+      "stepRequiredGlobalTags": [],
+      "stepForbiddenGlobalTags": [],
+      "stepRequiredPlayerTags": [],
+      "stepForbiddenPlayerTags": [],
+      "actionDataSuccess": [],
+      "relationChanges": [],
+      "bedrockBuildings": []
+    }
+  ]
+}

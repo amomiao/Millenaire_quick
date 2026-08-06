@@ -1,0 +1,21 @@
+//tag a building must have for action to be possible
+requiredtag=Oven
+
+priority=50
+
+//en/in millisecondes
+duration=10000
+
+heldItems=clay,ceramic
+
+//each action will require and use all the inputs and produce all the outputs
+input=clay,4
+output=ceramic,1
+
+//if more than that number of item is present in building, stop goal
+buildinglimit=ceramic,64
+townhalllimit=ceramic,64
+villagelimit=ceramic,256
+
+//no more than X villagers doing this goal in the same building at the same time
+maxsimultaneousinbuilding=2

@@ -1,0 +1,25 @@
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=50
+
+//en/in millisecondes
+duration=15000
+
+//specify if the label and sentences for this goal is not the name of the goal itself
+sentencekey=makebrick
+labelkey=makebrick
+
+//objets tenus par le villageois
+heldItems=clay,gray_tiles
+
+//each action will require and use all the inputs and produce all the outputs
+input=clay,3
+output=gray_tiles,1
+
+//if more than that number of item is present in townhall, stop goal
+townhalllimit=gray_tiles,1024
+
+//sound to play once an object is done
+sound=stone
+
+tag=tag_construction

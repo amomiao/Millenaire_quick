@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_guardtower",
+  "category": "core",
+  "native_name": "警卫塔",
+  "max_count": 0,
+  "min_distance": 0.6,
+  "male": [
+    "soldier"
+  ],
+  "tags": [
+    "patrol"
+  ],
+  "icon": "torch",
+  "far_from_tags": [
+    "patrol,70"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "patrol"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 11,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 250
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 11,
+            "height": 13,
+            "depth": 11
+          },
+          "priority": 80
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 11,
+            "height": 15,
+            "depth": 11
+          },
+          "priority": 20
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 11,
+            "height": 18,
+            "depth": 11
+          },
+          "priority": 20
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 11,
+            "height": 19,
+            "depth": 11
+          },
+          "priority": 20,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

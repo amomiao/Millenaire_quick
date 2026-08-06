@@ -1,0 +1,15 @@
+{
+  "type": "visitBuilding",
+  "buildingTag": "fishingspot",
+  "basePriority": 5,
+  "priorityRandom": 10,
+  "durationTicks": 200,
+  "reoccurDelayTicks": 1200,
+  "allowRandomMoves": true,
+  "leisure": true,
+  "targetPosType": "leisurePos",
+  "minimumHour": -1,
+  "maximumHour": -1,
+  "maxSimultaneousInBuilding": 0,
+  "goalKey": "goplayatthepond"
+}

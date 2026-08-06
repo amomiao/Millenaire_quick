@@ -1,0 +1,61 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_pagoda",
+  "category": "core",
+  "native_name": "宝塔",
+  "male": [
+    "monk",
+    "monk"
+  ],
+  "tags": [
+    "religious",
+    "leisure"
+  ],
+  "icon": "minecraft:gold_block",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "religious",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 15,
+            "height": 20,
+            "depth": 14
+          },
+          "priority": 300,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 15,
+            "height": 20,
+            "depth": 14
+          },
+          "priority": 80,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 15,
+            "height": 20,
+            "depth": 14
+          },
+          "priority": 20,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+building.length=19
+building.width=12
+
+building.areatoclear=4
+building.max=0
+building.icon=mudbrick
+building.buildingorientation=3
+building.mindistance=0.6
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=砖窑
+initial.priority=600
+initial.tag=brickkiln
+initial.pathwidth=1
+initial.tag=nopaths
+
+upgrade1.priority=300
+
+upgrade2.priority=50
+
+upgrade3.pathlevel=1

@@ -1,0 +1,19 @@
+minreputation:0
+chanceperhour:0.1
+maxsimultaneous:1
+step:new
+definevillager:key=startvillager,type=song/song_emperorwife,forbiddentag=poems_done
+villager:startvillager
+duration:5
+requiredgood:dye_black,2
+requiredgood:dye_red,2
+requiredgood:dye_yellow,2
+requiredgood:paper,10
+rewardmoney:8*64
+rewardreputation:256
+settagsuccess:startvillager,poems_done
+//You can put as many languages as you want
+label_english:Stage Play
+description_english:My husband is preparing a stage play and i dont have the right supplies.. Could you please help me.
+description_success_english:Thank you my good man!
+description_refuse_english:You are really not the helpfull kind.

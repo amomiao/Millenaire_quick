@@ -1,0 +1,21 @@
+name:Junying
+carriesraid:true
+
+weight:10
+radius:50
+
+//1.7 biomes
+biome:Extreme Hills
+biome:Extreme Hills+
+biome:Extreme Hills M
+biome:Extreme Hills+ M
+biome:Taiga
+biome:Taiga M
+biome:TaigaHills
+biome:Roofed Forest
+biome:Roofed Forest M
+biome:Plains
+biome:Forest
+
+//starting buildings:
+centre:songlonebarrack

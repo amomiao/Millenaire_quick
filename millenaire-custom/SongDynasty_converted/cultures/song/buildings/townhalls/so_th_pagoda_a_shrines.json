@@ -1,0 +1,57 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_th_pagoda_a_shrines",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "so_th_pagoda",
+    "variant": "a",
+    "level": 3
+  },
+  "is_town_hall": false,
+  "native_name": "佛教圣祠",
+  "max_count": 0,
+  "icon": "minecraft:book",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 39,
+            "height": 25,
+            "depth": 29
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 39,
+            "height": 25,
+            "depth": 29
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 39,
+            "height": 25,
+            "depth": 29
+          }
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 39,
+            "height": 25,
+            "depth": 29
+          }
+        }
+      ]
+    }
+  ]
+}

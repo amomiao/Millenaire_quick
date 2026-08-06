@@ -1,0 +1,65 @@
+name:农业村庄
+weight:8
+icon=rice
+
+carriesraid:true
+
+qualifier=Nong-chang
+mountainQualifier:zonghua-Tibet
+
+pathmaterial:pathdirt
+pathmaterial:pathgravel
+pathmaterial:pathgravelslabs
+
+//1.7 biomes
+biome:Taiga
+biome:Plains
+biome:Forest
+
+//extraBiomes mod
+biome:green hills
+biome:autumn woods
+
+//biomes o'plenty
+biome=brushland
+biome=chaparral
+biome=grassland
+biome=grove
+biome=meadow
+biome=orchard
+
+//starting buildings
+centre:so_agriculture
+start:so_lumberman
+start:so_grove
+start:so_rice_farm
+start:so_fishery
+start:so_guesthouse
+start:so_wheat_farm
+start:so_peasanthouse
+
+player:so_playerhouse
+player:so_house
+player:so_playerhugefield
+player:so_playerlargefield
+
+//to be built in priority
+core:so_wheatpaddy
+core:so_peasanthouse
+core:so_forge
+core:so_acaciagrove
+core:so_brickkiln
+core:so_crafter
+core:so_pig_farm
+
+//secondary
+secondary:so_quarry
+secondary:so_rice_paddy
+secondary:so_chickenfarm
+secondary:so_market
+secondary:so_spicegarden
+secondary:so_tower
+secondary:so_scribe
+
+//never for this type of village
+never:so_silkfactory

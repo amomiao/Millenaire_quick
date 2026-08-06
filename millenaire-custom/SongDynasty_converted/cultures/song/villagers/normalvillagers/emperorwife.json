@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "夫人",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/song/ml_emperorwife.png"
+  ],
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "female_names",
+  "family_name_list": "high_class_familynames_woman",
+  "icon": "minecraft:book",
+  "villager_config": "songdynasty"
+}

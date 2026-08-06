@@ -1,0 +1,3 @@
+sells=chickencurry,riceplate,sharksfin,jujuba
+
+buys=rice,ceramic,turmeric,chickenmeat

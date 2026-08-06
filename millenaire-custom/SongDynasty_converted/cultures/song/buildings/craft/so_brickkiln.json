@@ -1,0 +1,65 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_brickkiln",
+  "category": "craft",
+  "native_name": "砖窑",
+  "max_count": 0,
+  "min_distance": 0.6,
+  "tags": [
+    "brickkiln",
+    "nopaths"
+  ],
+  "icon": "millenaire:mud_brick",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "brickkiln",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 3,
+            "depth": 12
+          },
+          "priority": 600,
+          "path_width": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 300
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 50
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 19,
+            "height": 6,
+            "depth": 12
+          },
+          "priority": 50,
+          "path_level": 1
+        }
+      ]
+    }
+  ]
+}

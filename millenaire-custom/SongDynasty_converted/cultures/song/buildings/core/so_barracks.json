@@ -1,0 +1,46 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_barracks",
+  "category": "core",
+  "native_name": "军营",
+  "max_count": 0,
+  "male": [
+    "soldier"
+  ],
+  "icon": "minecraft:iron_sword",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 10
+          }
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 10
+          },
+          "priority": 30
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 19,
+            "height": 9,
+            "depth": 10
+          }
+        }
+      ]
+    }
+  ]
+}

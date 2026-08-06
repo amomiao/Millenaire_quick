@@ -1,0 +1,16 @@
+{
+  "sells": [
+    "chickencurry",
+    "riceplate",
+    "sharksfin",
+    "jujuba"
+  ],
+  "buys": [
+    "rice",
+    "ceramic",
+    "turmeric",
+    "chicken_raw"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

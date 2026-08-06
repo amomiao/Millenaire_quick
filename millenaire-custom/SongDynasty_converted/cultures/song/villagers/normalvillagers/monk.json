@@ -1,0 +1,39 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "和尚",
+  "textures": [
+    "millenaire:textures/entity/song/ml_monk.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_books"
+  ],
+  "tags": [
+    "religious",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:leather": 8,
+    "minecraft:paper": 16,
+    "minecraft:book": 16,
+    "minecraft:oak_log": 32
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "peasant_family_names",
+  "icon": "minecraft:book",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "travelbook_held_item": "minecraft:book"
+}

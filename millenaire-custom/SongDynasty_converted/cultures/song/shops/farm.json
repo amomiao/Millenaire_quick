@@ -1,0 +1,17 @@
+{
+  "sells": [
+    "wheat",
+    "rice",
+    "carrot"
+  ],
+  "buys": [
+    "rice",
+    "wheat",
+    "seeds",
+    "carrot"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:wheat_seeds"
+  ]
+}

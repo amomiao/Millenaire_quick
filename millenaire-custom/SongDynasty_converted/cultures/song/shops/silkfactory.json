@@ -1,0 +1,14 @@
+{
+  "sells": [
+    "silk",
+    "clothes_byz_silk"
+  ],
+  "buys": [
+    "silk"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "millenaire:silk",
+    "millenaire:clothes_byz_silk"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_crafter",
+  "category": "craft",
+  "native_name": "瓷窑",
+  "shop": "ceramics",
+  "male": [
+    "crafter_m"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "oven",
+    "nopaths"
+  ],
+  "icon": "millenaire:timber_frame_cross",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "oven",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 400,
+          "priority_move_in": 20
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 130
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 90
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 90,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 90,
+          "path_level": 2
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 35
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 12,
+            "height": 7,
+            "depth": 15
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_silkfactory",
+  "category": "craft",
+  "native_name": "丝绸厂",
+  "shop": "silkfactory",
+  "min_distance": 0.5,
+  "male": [
+    "silkfarmer_m"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "oven",
+    "silkwormfarm"
+  ],
+  "icon": "millenaire:silk",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "tags": [
+        "oven",
+        "silkwormfarm"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 9,
+            "height": 8,
+            "depth": 20
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 9,
+            "height": 12,
+            "depth": 20
+          },
+          "priority": 70,
+          "path_level": 1
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 9,
+            "height": 12,
+            "depth": 20
+          },
+          "priority": 20,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

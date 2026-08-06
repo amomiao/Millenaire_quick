@@ -1,0 +1,40 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "村长",
+  "textures": [
+    "millenaire:textures/entity/song/ml_workerchief.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:inspect_construction",
+    "millenaire:craft_books",
+    "millenaire:craft_paperrice"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:rice": 16,
+    "minecraft:oak_log": 24
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_class_familynames",
+  "icon": "minecraft:iron_sword",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 5,
+  "travelbook_held_item": "minecraft:iron_sword"
+}

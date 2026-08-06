@@ -1,0 +1,19 @@
+building.length=5
+building.width=5
+building.buildingorientation=3
+building.icon=bucketwater
+building.areatoclear=3
+
+//Parameters for initial construction
+initial.nativename=水井
+initial.startlevel=-4
+initial.priority=300
+initial.pathwidth=1
+initial.tag=nopaths
+initial.tag=leasure
+initial.tag=pathnode
+initial.irrigation=5
+
+upgrade1.priority=20
+
+upgrade2.pathlevel=2

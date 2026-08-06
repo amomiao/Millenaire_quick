@@ -1,0 +1,18 @@
+{
+  "sells": [
+    "japanese_tachi",
+    "yumibow",
+    "chinesehelmet",
+    "chinesechestplate",
+    "chineseleggings",
+    "chineseboots",
+    "guan_dao"
+  ],
+  "buys": [
+    "iron_ingot",
+    "leather",
+    "wool_white"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

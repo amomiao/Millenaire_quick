@@ -1,0 +1,17 @@
+{
+  "sells": [
+    "sake",
+    "bread",
+    "shaoxiung_wine",
+    "huadiao_wine",
+    "apple"
+  ],
+  "buys": [
+    "wheat",
+    "rice"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:apple"
+  ]
+}

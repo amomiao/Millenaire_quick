@@ -1,0 +1,58 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "食物商人",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/song/ml_merchantfemale.png",
+    "millenaire:textures/entity/song/ml_wife1.png"
+  ],
+  "clothes": {
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkofficials.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkofficials2.png"
+      ]
+    }
+  },
+  "base_scale": 0.85,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 10,
+  "gender": "female",
+  "first_name_list": "female_names",
+  "family_name_list": "rural_family_names",
+  "icon": "minecraft:potato",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "axes"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "minecraft:potato",
+  "foreign_merchant_stock": {
+    "minecraft:potato": 64,
+    "millenaire:wah": 8,
+    "millenaire:udon": 8,
+    "millenaire:vegcurry": 8,
+    "millenaire:cacauhaa": 8,
+    "minecraft:egg": 15,
+    "minecraft:porkchop": 20,
+    "minecraft:carrot": 32,
+    "smm:ceramic": 20,
+    "smm:zizibus": 5,
+    "smm:riceplate": 12,
+    "smm:sharksfin": 2
+  }
+}

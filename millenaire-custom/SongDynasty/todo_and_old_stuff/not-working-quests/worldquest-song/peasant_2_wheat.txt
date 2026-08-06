@@ -1,0 +1,25 @@
+minreputation:2*64*64
+chanceperhour:1
+step:new
+definevillager:key=startvillager,type=song/quest_farmer
+villager:startvillager
+duration:5
+rewardgood:normanhoe
+forbiddenplayertag:peasant_3_villagers
+requiredplayertag:peasant_1_intro
+label_english:Growing Wheat
+description_english:Now, Its just simple. I will let you find some wheat and plant it. I will try to observe how different the wheat here than ours.
+description_success_english:I will wait a bit when your done planting.
+description_refuse_english:Go and see me later. 
+
+step:new
+villager:quest_farmer
+duration:5
+rewardreputation:192
+requiredgood:seeds,15
+requiredgood:wheat,1
+setplayertagsuccess:peasant_2_wheat
+label_english:Wheat planted
+description_english:Thanks a lot for your help, Go and see me later.
+
+

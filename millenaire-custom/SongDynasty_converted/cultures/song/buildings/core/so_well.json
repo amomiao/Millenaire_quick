@@ -1,0 +1,59 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_well",
+  "category": "core",
+  "native_name": "水井",
+  "tags": [
+    "nopaths",
+    "leisure",
+    "pathnode"
+  ],
+  "icon": "minecraft:water_bucket",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -4,
+      "tags": [
+        "nopaths",
+        "leisure",
+        "pathnode"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 5,
+            "depth": 5
+          },
+          "priority": 300,
+          "irrigation": 5,
+          "path_width": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 5,
+            "height": 8,
+            "depth": 5
+          },
+          "priority": 20,
+          "irrigation": 5
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 5,
+            "height": 8,
+            "depth": 5
+          },
+          "priority": 20,
+          "irrigation": 5,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

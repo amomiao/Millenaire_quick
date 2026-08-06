@@ -1,0 +1,25 @@
+//Note to Windows users: if you see the entire file in one line, open it using PSPad or UltraEdit instead of Notepad
+
+priority=5
+priorityrandom=10
+
+sentencekey=checksilkworms
+labelkey=checksilkworms
+
+//targetvillagergoals=goplay,goplaywithfriends
+
+buildingTag=silkwormfarm
+
+duration=12000
+
+//helditems=stick
+
+reoccurdelay=60000
+
+allowrandommoves=true
+
+range=6
+
+leasure=true
+
+sprint=false

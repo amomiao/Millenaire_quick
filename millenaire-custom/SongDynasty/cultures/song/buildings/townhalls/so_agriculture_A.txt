@@ -1,0 +1,39 @@
+//Parameters for the building as a whole
+building.length=22
+building.width=18
+building.areatoclear=4
+building.max=0
+building.icon=rice
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=大农场
+initial.priority=600
+initial.male=song_peasantchief
+initial.female=song_peasant_f
+//initial.tag=oven
+initial.tag=wheatpaddy
+initial.tag=paddy
+initial.shop=songtownhall
+initial.signs=7,0,1,2,3,4,5,6,8
+initial.tag=nopaths
+
+//Parameters for specific upgrades
+upgrade1.rebuildpath=true
+upgrade1.tag=leasure
+upgrade1.tag=villagelevel1
+
+upgrade2.priority=500
+upgrade2.rebuildpath=false
+
+upgrade3.priority=300
+upgrade1.tag=villagelevel2
+
+upgrade4.priority=120
+upgrade1.tag=villagelevel3
+
+upgrade5.priority=80
+
+upgrade6.priority=50
+
+

@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:song",
+  "name": "agriculturalvillage",
+  "weight": 10,
+  "biome_tags": [
+    "#c:is_savanna",
+    "#c:is_plains",
+    "minecraft:grove",
+    "minecraft:meadow"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:song/so_pagoda",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:song/so_peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_rice_farm",
+      "role": "core"
+    }
+  ],
+  "icon": "millenaire:rice",
+  "qualifiers": [
+    "Nong-chang"
+  ]
+}

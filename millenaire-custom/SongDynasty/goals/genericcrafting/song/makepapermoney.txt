@@ -1,0 +1,20 @@
+//tag a building must have for action to be possible
+requiredtag=Paper
+
+priority=50
+
+//en/in millisecondes
+duration=8000
+
+heldItems=paper
+
+//each action will require and use all the inputs and produce all the outputs
+input=sugarcane,1
+output=paper,5
+
+//if more than that number of item is present in building, stop goal
+buildinglimit=papercurrency,64
+
+//no more than X villagers doing this goal in the same building at the same time
+maxsimultaneousinbuilding=1
+

@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "陶瓷商人",
+  "textures": [
+    "millenaire:textures/entity/song/ml_merchantceramics.png"
+  ],
+  "clothes": {
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkofficials.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkofficials2.png"
+      ]
+    }
+  },
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:keep_stall"
+  ],
+  "tags": [
+    "visitor",
+    "foreignmerchant",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 10,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_class_familynames",
+  "icon": "smm:ceramic",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "axes"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "default_weapon": "minecraft:wooden_axe",
+  "experience_given": 5,
+  "travelbook_held_item": "smm:ceramic",
+  "foreign_merchant_stock": {
+    "minecraft:clay_ball": 64,
+    "smm:ceramic": 15
+  }
+}

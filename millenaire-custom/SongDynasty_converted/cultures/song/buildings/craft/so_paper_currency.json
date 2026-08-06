@@ -1,0 +1,62 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_paper_currency",
+  "category": "craft",
+  "native_name": "印刷厂",
+  "max_count": 0,
+  "tags": [
+    "paper"
+  ],
+  "icon": "millenaire:rice",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "tags": [
+        "paper"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 500,
+          "path_width": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 60
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 20,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 10,
+            "height": 8,
+            "depth": 11
+          },
+          "priority": 20,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

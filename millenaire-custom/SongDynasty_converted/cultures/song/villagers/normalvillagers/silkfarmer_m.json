@@ -1,0 +1,52 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "纺织工",
+  "textures": [
+    "millenaire:textures/entity/song/ml_bandit.png",
+    "millenaire:textures/entity/song/ml_chinesepeasant.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songmale.png"
+      ]
+    },
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale1.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale2.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale3.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale4.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:gather_silk",
+    "millenaire:bring_back_home"
+  ],
+  "tags": [],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "millenaire:silk"
+  ],
+  "required_goods": {
+    "millenaire:silk": 16
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "peasant_family_names",
+  "icon": "millenaire:silk",
+  "villager_config": "songdynasty",
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 3,
+  "default_weapon": "minecraft:wooden_axe"
+}

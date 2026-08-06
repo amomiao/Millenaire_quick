@@ -1,0 +1,19 @@
+//Parameters for the building as a whole
+building.length=7
+building.width=7
+building.buildingorientation=3
+building.mindistance=0.7
+building.farfromtag=patrol,50
+building.areatoclear=4
+building.icon=torch
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=塔
+initial.priority=300
+initial.tag=patrol
+
+upgrade1.priority=70
+
+upgrade2.priority=50

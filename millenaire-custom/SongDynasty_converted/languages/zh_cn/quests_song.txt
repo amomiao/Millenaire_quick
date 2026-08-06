@@ -1,0 +1,42 @@
+//songbasic
+
+papercurrency_0_label=新货币
+papercurrency_0_description=我们将开始使用一个新的货币，朋友。。但我们需要你的帮助，给我10张纸，我会在之后报答你。
+papercurrency_0_description_success=谢谢你，我的好朋友，你现在是我的交易员之一。
+papercurrency_0_description_refuse=你真的不是那种乐于助人的人。我应该让你成为我的第一个交易者。
+songwifebasic_0_label=丈夫午餐
+songwifebasic_0_description=我的夫君（伐木工） $song_lumberman_villagername$  快饿扁了，因为我忘了给他打包食物！你能帮他拿这个盘子吗？
+songwifebasic_0_description_success=谢谢你，我的好男人！
+songwifebasic_0_description_refuse=你真的不是那种乐于助人的人。
+songwifebasic_1_label=好饿！
+songwifebasic_1_description=我妻子又忘了我的饭！哎呀，这个女人！
+songwifebasic_1_description_success=你真是太好了。
+songwifebasic_1_description_refuse=我不会相信陌生人了。
+songwifebasic_1_description_timeup=你没有按时送饭。
+$song_lumberman_villagername$ 我不会忘记的.
+songwifebasic_1_listing=将$guard_villagername$的午餐 交给村里的 $song_lumberman_villagername$.
+
+stageplay_0_label=祭祀
+stageplay_0_description=你能帮我个忙吗，$name？<ret>我今晚有一个祭祀。我们需要道具，但我们没有。你能帮助我吗。
+我需要十张纸，黑色、黄色和红色各两张。
+stageplay_0_description_success=非常感谢<ret>你这样帮助我。这是我一份小小的心意。
+stageplay_0_description_refuse=我不会给你一张免费票。
+
+tntdelivery_0_label=需要炸药
+tntdelivery_0_description=$name，我需要更多的炸弹来保护
+$song_worker_villagername$,需要$wong_worker_direction$的山上工作，他答应给我一大批货，但从未送过任何东西。你能检查一下他在做什么吗？
+tntdelivery_0_description_success=旅途愉快！
+tntdelivery_0_description_refuse=好吧，那我就派一个我自己的人去。
+tntdelivery_1_label=收集炸药
+tntdelivery_1_description=啊，是的，$startvillager_villagename$的炸药！我正要把它们运出去。我希望你的背包有足够的空间，有四个空位。
+tntdelivery_1_description_success=我会回到采矿业。
+tntdelivery_1_description_refuse=为什么要千里迢迢来告诉我这个。。
+tntdelivery_1_description_timeup=您没有及时找到$song\u worker\u villagername$。
+tntdelivery_1_listing=前往$song_worker_villagername$的矿工$startvillager_song_worker_distanceshort$，他住在$startvillager_song_worker_direction$到 $startvillager_villagename$的 $startvillager_villagername$'s stones方向$startvillager_villagename$,采集 $startvillager_villagername$ 的石头。
+tntdelivery_2_label=带回炸药
+tntdelivery_2_description=你有炸药吗？完美的你对中国的贡献不会被忘记。
+tntdelivery_2_description_success=我感谢你。
+tntdelivery_2_description_refuse=叛徒！庆幸你还没有死。
+tntdelivery_2_description_timeup=您没有及时将石头归还$startvillager_villagername$。
+tntdelivery_2_listing=返回 $startvillager_villagename$，并为$startvillager_villagername$提供石头。
+

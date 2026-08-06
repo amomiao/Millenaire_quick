@@ -1,0 +1,30 @@
+//Parameters for the building as a whole
+building.length=20
+building.width=29
+building.farfromtag=leasure,30
+building.icon=book
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-2
+initial.nativename=寺庙
+initial.priority=300
+initial.male=song_monk
+initial.male=song_monk
+//initial.male=song_monk
+initial.pathlevel=1
+initial.tag=religious
+initial.tag=leasure
+initial.tag=praying
+initial.requiredvillagetag=villagelevel3
+initial.tag=nopaths
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=50
+
+upgrade3.pathlevel=1
+upgrade3.priority=30
+
+upgrade5.pathlevel=2

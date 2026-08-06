@@ -1,0 +1,29 @@
+{
+  "culture": "millenaire:song",
+  "name": "tradingvillage",
+  "weight": 10,
+  "biome_tags": [
+    "#c:is_savanna",
+    "#c:is_plains",
+    "minecraft:grove",
+    "minecraft:meadow"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:song/so_market",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:song/so_inn",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_tavern",
+      "role": "core"
+    }
+  ],
+  "icon": "millenaire:purse",
+  "qualifiers": [
+    "hengye-lexing"
+  ]
+}

@@ -12,7 +12,9 @@ millenaire:breed_sheep
 millenaire:bring_back_home
 millenaire:build
 millenaire:build_path
+millenaire:calligraphy
 millenaire:chat
+millenaire:checksilkworms
 millenaire:child_become_adult
 millenaire:child_eat_apple
 millenaire:child_eat_cacao_beans
@@ -339,6 +341,7 @@ millenaire:engage_target
 millenaire:fetch_bread_byz
 millenaire:fetch_iron_byz
 millenaire:fetch_sandstone_byz
+millenaire:fetchwhitepaintedbrickssong
 millenaire:fish
 millenaire:fishinuit
 millenaire:gardening_byz
@@ -354,10 +357,13 @@ millenaire:gather_olives
 millenaire:gather_pistachio_orchard
 millenaire:gather_silk
 millenaire:gather_snails
+millenaire:gatherclaysong
 millenaire:get_goods_for_household
 millenaire:get_resources_for_shops
 millenaire:get_tool
+millenaire:getfishcookedsong
 millenaire:give_speech
+millenaire:goplayatthepond
 millenaire:harvest_carrot
 millenaire:harvest_carrot_home
 millenaire:harvest_cocoa
@@ -393,6 +399,28 @@ millenaire:listen_to_speech
 millenaire:listen_to_speech_2
 millenaire:lookout
 millenaire:lookout_2
+millenaire:make_song_paperwall
+millenaire:makeceramics
+millenaire:makecharcoal
+millenaire:makechineseboots
+millenaire:makechinesechestplate
+millenaire:makechinesehelmet
+millenaire:makechineseleggings
+millenaire:makeclothes_song_silk
+millenaire:makecoal
+millenaire:makecompass
+millenaire:makeguan_dao
+millenaire:makegunpowder
+millenaire:makehuadiao_wine
+millenaire:makeironsong
+millenaire:makejujuba
+millenaire:makemurghsong
+millenaire:makepapermoney
+millenaire:makepaperwoodpulpsong
+millenaire:makerice
+millenaire:makeshaoxiung_wine
+millenaire:makesharksfin
+millenaire:maketnt
 millenaire:meditate
 millenaire:mine_clay
 millenaire:mine_clay_byz
@@ -409,6 +437,7 @@ millenaire:mine_snow
 millenaire:mine_snow_paths
 millenaire:mine_stone
 millenaire:mine_stone_byz
+millenaire:mineironsong
 millenaire:observe_agriculture
 millenaire:observe_construction
 millenaire:observe_produce_alcohol
@@ -417,6 +446,7 @@ millenaire:observe_smithing
 millenaire:observe_vines
 millenaire:patrol
 millenaire:perform_pujas
+millenaire:pickupseeds
 millenaire:pilgrimage
 millenaire:plant_carrot
 millenaire:plant_carrot_home
@@ -468,6 +498,7 @@ millenaire:slaughter_sheep_byz
 millenaire:slaughter_sheep_byz2
 millenaire:slaughter_sheep_seljuk
 millenaire:slaughter_squid
+millenaire:slaughterpigsong
 millenaire:socialise
 millenaire:steal_tulip_orange
 millenaire:steal_tulip_pink
@@ -483,4 +514,4 @@ millenaire:tree_relax
 millenaire:visit_building
 millenaire:visit_inn
 
-# Total: 480 goals.
+# Total: 511 goals.

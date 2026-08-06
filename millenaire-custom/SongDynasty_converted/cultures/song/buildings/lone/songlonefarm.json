@@ -1,0 +1,54 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "songlonefarm",
+  "category": "lone",
+  "native_name": "伐木场",
+  "shop": "lonelumberman",
+  "max_count": 0,
+  "male": [
+    "peasant_m"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "leisure",
+    "paddy"
+  ],
+  "icon": "minecraft:stone_axe",
+  "starting_goods": [
+    {
+      "item": "millenaire:rice",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 20
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "leisure",
+        "paddy"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 24,
+            "height": 7,
+            "depth": 16
+          },
+          "priority": 5,
+          "infoSoils": [
+            {
+              "crop": "rice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

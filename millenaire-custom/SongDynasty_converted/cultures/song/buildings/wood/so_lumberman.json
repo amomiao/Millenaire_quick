@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_lumberman",
+  "category": "wood",
+  "native_name": "樵夫小屋",
+  "male": [
+    "lumberman"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "icon": "minecraft:stone_axe",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 3,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 500
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 10
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 50,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 8,
+            "height": 6,
+            "depth": 10
+          }
+        }
+      ]
+    }
+  ]
+}

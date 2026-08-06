@@ -1,0 +1,26 @@
+
+//Parameters for the building as a whole
+building.length=16
+building.width=15
+building.buildingorientation=2
+building.mindistance=0.5
+building.icon=silk
+
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=丝绸农场
+initial.priority=400
+initial.male=song_silkfarmer_m
+initial.female=song_peasant_f
+initial.tag=silkwormfarm
+initial.pathwidth=1
+initial.shop=silkfactory
+
+//Parameters for specific upgrades
+upgrade1.priority=70
+
+upgrade2.priority=20
+upgrade2.pathlevel=1
+
+upgrade4.pathlevel=2

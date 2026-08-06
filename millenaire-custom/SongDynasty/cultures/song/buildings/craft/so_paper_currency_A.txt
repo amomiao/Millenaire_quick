@@ -1,0 +1,21 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=11
+building.buildingorientation=0
+building.icon=rice
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=印刷厂
+initial.priority=500
+initial.pathwidth=1
+initial.tag=paper
+
+upgrade1.priority=60
+
+upgrade2.priority=20
+upgrade2.pathlevel=1
+
+upgrade3.pathlevel=2
+

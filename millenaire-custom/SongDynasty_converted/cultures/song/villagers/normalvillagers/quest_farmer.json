@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "被遗忘的纺织工",
+  "textures": [
+    "millenaire:textures/entity/song/ml_questfarmer.png"
+  ],
+  "goals": [
+    "millenaire:idle",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:plant_rice",
+    "millenaire:breed_cattle",
+    "millenaire:breed_sheep",
+    "millenaire:breed_chicken",
+    "millenaire:breed_pigs",
+    "millenaire:slaughter_chicken",
+    "millenaire:harvest_rice",
+    "millenaire:bring_back_home"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "bring_back_home_goods": [
+    "minecraft:chicken",
+    "millenaire:rice"
+  ],
+  "required_goods": {
+    "minecraft:wheat_seeds": 10
+  },
+  "gender": "male",
+  "first_name_list": "alchemist_first",
+  "family_name_list": "alchemist_last",
+  "icon": "minecraft:stone_hoe",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "hoes",
+    "toolssword"
+  ],
+  "experience_given": 2,
+  "travelbook_held_item": "minecraft:stone_hoe"
+}

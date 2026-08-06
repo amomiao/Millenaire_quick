@@ -1,0 +1,14 @@
+{
+  "sells": [
+    "tnt",
+    "compass",
+    "gunpowder"
+  ],
+  "buys": [
+    "gunpowder",
+    "iron_ingot",
+    "coal"
+  ],
+  "buys_optional": [],
+  "deliver_to": []
+}

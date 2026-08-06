@@ -1,0 +1,26 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "ruinedsongtower",
+  "category": "lone",
+  "native_name": "被摧毁的塔",
+  "max_count": 0,
+  "icon": "minecraft:stone",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 6,
+            "depth": 5
+          },
+          "priority": 5
+        }
+      ]
+    }
+  ]
+}

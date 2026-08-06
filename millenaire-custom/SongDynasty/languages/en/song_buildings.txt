@@ -1,0 +1,93 @@
+ip_a_backyard_A0=Backyard Rooms
+ip_a_siderooms_A0=Guest Rooms
+ip_A0=Imperial Palace
+
+so_acaciagrove_A0=Grove
+so_argiculture_A0=Large Farm
+so_armyforge_A0=Army Forge
+
+so_barn_A0=Barn
+so_barracks_A0=Barracks
+so_brickkiln_A0=Brick Kiln
+
+so_chickenfarm_A0=Animal Farm
+so_crafter_A0=Crafter
+
+so_factory=Factory
+so_factory_a_inn_A0=Main Inn
+so_factory_a_market_A0=Central Market
+so_fancygrove_A0=Grove
+so_fishery_A0=Fishery
+so_forge_A0=Forge
+so_fort_A0=Fort
+so_fort_a_walls_A0=Fort Walls
+so_fort_a_scribes_A0=Archive
+so_fort_a_gates_A0=Fort Gates
+so_fort_a_towers_A0=Fort Towers
+so_fort_a_forge_A0=The Forge
+
+so_guardtower_A0=Guard Tower
+so_guardtower_f_A0=Guard Tower
+so_guesthouse_A0=Traders Guest House
+so_grove_A0=Grove
+so_gunpowder_A0=Gunpowder Factory
+
+so_house_A0=Player House
+
+so_inn_A0=Inn
+so_ironpagoda_A0=Iron Pagoda
+
+so_lumberman_A0=Lumberjack Hut
+
+so_market_A0=Market
+
+so_pagoda_A0=Pagoda
+so_paper_currency_A0=Printing House
+so_peasanthouse_A0=Peasant Hut
+so_pig_farm_A0=Pig Farm
+so_playerhouse_A0=Player House
+so_playerhugefield_A0=Huge Plot
+so_playerlargefield_A0=Large Plot
+
+so_quarry_A0=Quarry
+
+so_restaurant_A0=Restaurant
+so_rice_farm_A0=Rice Farm
+so_rice_paddy_A0=Paddy
+so_rice_paddy2_A0=Paddy
+so_rice_paddy2_B0=Paddy
+
+so_scribe_A0=Village Administrator
+so_shrine_A0=Shrine
+so_silkfactory_A0=Silk Factory
+so_silkfarm_A0=Silk Farm
+so_spicegarden_A0=Spice Garden
+so_steelworks_A0=Forge
+
+so_tavern_A0=Tavern
+so_temple_A0=Temple
+so_th_pagoda_a_rooms_A0=Side Rooms
+so_th_pagoda_a_shrines_A0=Shrines
+so_th_pagoda_A0=Village Temple
+so_tilefactory_A0=Chinese Hardware
+so_tower_A0=Watchtower
+so_trading_A0=Trading Hamlet
+
+so_well_A0=Village Well
+so_wheatpaddy_A0=Wheat Paddy
+so_wheat_farm_A0=Wheat Farm
+so_workershouse_A0=Citizen House
+
+songtownhall_A0=Palace
+songpalace_A0=Imperial Palace
+
+abandonpalace=Abandoned Palace
+iron_pagoda=Iron Pagoda
+questfarm=Song Farm
+ruinedsongtower=Ruined Tower
+so_lone_lumberman=Lone Lumberman
+songlonebarrack=Lone Barracks
+songlonefarm=Song Lone Farm
+songloneinn=Song Inn
+songrebel=Song Reebels
+so_tomb=Tomb

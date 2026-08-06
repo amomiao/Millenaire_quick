@@ -1,0 +1,75 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_tavern",
+  "category": "trade",
+  "native_name": "酒肆",
+  "shop": "tavern",
+  "male": [
+    "brewer_m"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "drinking",
+    "leisure",
+    "bakery"
+  ],
+  "icon": "millenaire:sake",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "drinking",
+        "leisure",
+        "bakery"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 400,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 8,
+            "depth": 12
+          },
+          "priority": 120
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 12
+          },
+          "priority": 30,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 12
+          },
+          "priority": 30,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

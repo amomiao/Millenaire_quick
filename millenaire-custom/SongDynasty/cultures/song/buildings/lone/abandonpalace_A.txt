@@ -1,0 +1,10 @@
+building.length=13
+building.width=11
+building.icon=stoneaxe
+building.buildingorientation=3
+building.max=0
+building.showtownhallsigns=false
+
+initial.startlevel=-1
+initial.nativename=被遗弃的宫殿
+initial.priority=5

@@ -1,0 +1,51 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "女士兵",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/song/ml_militiafemale.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household",
+    "millenaire:craft_thatchfromwheat",
+    "millenaire:harvest_rice",
+    "millenaire:plant_rice",
+    "millenaire:craft_udon",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "archer",
+    "raider",
+    "seller",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64
+  },
+  "gender": "female",
+  "first_name_list": "female_names",
+  "family_name_list": "high_class_familynames",
+  "male_child": "boy",
+  "female_child": "girl",
+  "max_health": 30,
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword",
+    "armour",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "hiring_cost": "32"
+}

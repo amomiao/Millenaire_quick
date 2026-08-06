@@ -1,0 +1,52 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "酿造师妻子",
+  "model": "female_asymmetrical",
+  "textures": [
+    "millenaire:textures/entity/song/ml_wife2.png",
+    "millenaire:textures/entity/song/ml_wife1.png",
+    "millenaire:textures/entity/song/ml_wife3.png",
+    "millenaire:textures/entity/song/ml_wife4.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife3.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwifepeasant1.png"
+      ]
+    },
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife2.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife5.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkwife4.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:craft_bread",
+    "millenaire:craft_cider",
+    "millenaire:craft_calvahome",
+    "millenaire:get_resources_for_shops",
+    "millenaire:deliver_resources_shop",
+    "millenaire:get_goods_for_household"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "gender": "female",
+  "first_name_list": "female_names",
+  "family_name_list": "high_class_familynames",
+  "male_child": "boy",
+  "female_child": "girl",
+  "villager_config": "songdynasty",
+  "default_weapon": "minecraft:wooden_axe"
+}

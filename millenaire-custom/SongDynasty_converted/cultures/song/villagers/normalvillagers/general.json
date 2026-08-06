@@ -1,0 +1,44 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "将军",
+  "textures": [
+    "millenaire:textures/entity/song/ml_general.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:patrol"
+  ],
+  "tags": [
+    "archer",
+    "raider",
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "initial_inventory": {
+    "minecraft:bow": 1,
+    "minecraft:arrow": 64,
+    "minecraft:tnt": 64
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_class_familynames",
+  "icon": "minecraft:diamond_sword",
+  "max_health": 30,
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword",
+    "armour",
+    "rangedweapons"
+  ],
+  "base_attack_strength": 4,
+  "default_weapon": "minecraft:wooden_sword",
+  "hiring_cost": "32",
+  "travelbook_held_item": "minecraft:diamond_sword"
+}

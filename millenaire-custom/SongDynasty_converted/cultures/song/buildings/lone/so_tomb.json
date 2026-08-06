@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_tomb",
+  "category": "lone",
+  "native_name": "坟墓",
+  "max_count": 0,
+  "icon": "minecraft:stone_axe",
+  "starting_goods": [
+    {
+      "item": "minecraft:bone",
+      "probability": 1.0,
+      "fixed": 2,
+      "random": 4
+    },
+    {
+      "item": "minecraft:iron_sword",
+      "probability": 1.0,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:japanese_tachi",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 0
+    },
+    {
+      "item": "millenaire:denier",
+      "probability": 1.0,
+      "fixed": 10,
+      "random": 50
+    },
+    {
+      "item": "millenaire:denier_argent",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 3
+    },
+    {
+      "item": "millenaire:denier_or",
+      "probability": 0.1,
+      "fixed": 1,
+      "random": 1
+    },
+    {
+      "item": "minecraft:gold_ingot",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 2
+    },
+    {
+      "item": "minecraft:diamond",
+      "probability": 0.5,
+      "fixed": 1,
+      "random": 0
+    }
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 8,
+            "depth": 8
+          },
+          "priority": 5
+        }
+      ]
+    }
+  ]
+}

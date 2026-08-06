@@ -1,0 +1,30 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_playerhouse",
+  "category": "player",
+  "native_name": "小型空地",
+  "max_count": 0,
+  "icon": "millenaire:denier",
+  "area_to_clear": 4,
+  "price": 4096,
+  "reputation": 8192,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 14,
+            "height": 8,
+            "depth": 24
+          },
+          "priority": 1000,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

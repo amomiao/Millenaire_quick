@@ -1,0 +1,13 @@
+name:Mu
+weight:5
+radius:20
+
+//1.7 biomes
+biome:TaigaHills
+biome:Taiga
+biome:Forest
+biome:Extreme Hills
+
+
+//starting buildings:
+centre:so_tomb

@@ -1,0 +1,15 @@
+// mc ++
+
+priority=100
+priorityrandom=20
+
+buildingtag=brickkiln
+
+helditems=paintedbrickwhite
+
+sentencekey=takefrombuilding
+labelkey=takefrombuilding
+
+collect_good=paintedbrickwhite,128
+
+minimumpickup=16

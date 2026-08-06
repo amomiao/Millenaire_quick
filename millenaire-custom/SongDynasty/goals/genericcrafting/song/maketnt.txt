@@ -1,0 +1,18 @@
+requiredtag=Oven
+
+priority=50
+
+//en/in millisecondes
+duration=8000
+
+heldItems=gunpowder,iron
+
+//each action will require and use all the inputs and produce all the outputs
+input=gunpowder,1
+output=tnt,1
+
+//if more than that number of item is present in building, stop goal
+buildinglimit=tnt,10
+
+//no more than X villagers doing this goal in the same building at the same time
+maxsimultaneousinbuilding=5

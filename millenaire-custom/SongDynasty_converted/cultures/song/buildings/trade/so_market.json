@@ -1,0 +1,77 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_market",
+  "category": "trade",
+  "native_name": "集市",
+  "max_count": 0,
+  "tags": [
+    "market",
+    "leisure",
+    "nopaths"
+  ],
+  "icon": "millenaire:purse",
+  "far_from_tags": [
+    "leisure,30"
+  ],
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -2,
+      "tags": [
+        "market",
+        "leisure",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 14
+          },
+          "priority": 300,
+          "path_level": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 14
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 14
+          },
+          "priority": 30,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 14
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 14
+          },
+          "priority": 30,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "handler": "take_from_building",
+  "priority": 100,
+  "priorityRandom": 20,
+  "scanRadius": 32,
+  "batchRadius": 8,
+  "maxActionsPerTask": 1,
+  "actionCooldown": 20,
+  "stuckTimeout": 4000,
+  "walkSpeed": 0.6,
+  "minimumHour": -1,
+  "maximumHour": 12500,
+  "handlerParams": {
+    "buildingTag": "brickkiln",
+    "collectGood": "millenaire:painted_brick_white",
+    "maxCollect": 128,
+    "minimumPickup": 16
+  },
+  "sentenceKey": "takefrombuilding",
+  "labelKey": "takefrombuilding"
+}

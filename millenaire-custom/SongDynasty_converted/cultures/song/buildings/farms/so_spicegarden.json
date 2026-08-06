@@ -1,0 +1,48 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_spicegarden",
+  "category": "farms",
+  "native_name": "香料园",
+  "min_distance": 0.4,
+  "tags": [
+    "spicegarden"
+  ],
+  "icon": "millenaire:turmeric",
+  "area_to_clear": 3,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "spicegarden"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 5,
+            "height": 3,
+            "depth": 8
+          },
+          "priority": 400,
+          "path_width": 1,
+          "infoSoils": [
+            {
+              "crop": "turmeric"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 5,
+            "height": 3,
+            "depth": 8
+          },
+          "priority": 40
+        }
+      ]
+    }
+  ]
+}

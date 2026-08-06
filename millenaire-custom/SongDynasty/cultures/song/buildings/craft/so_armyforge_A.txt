@@ -1,0 +1,25 @@
+building.length=11
+building.width=14
+
+building.buildingorientation=0
+building.icon=steelchest
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=军队锻造屋
+initial.priority=400
+initial.male=song_militarysmith
+initial.female=song_peasant_f
+initial.prioritymovein=15
+initial.tag=armoury
+initial.tag=forge
+initial.shop=militaryforge
+initial.tag=nopaths
+
+upgrade1.priority=80
+
+upgrade2.priority=40
+upgrade2.pathlevel=1
+
+upgrade4.pathlevel=2

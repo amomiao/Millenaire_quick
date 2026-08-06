@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:song",
+  "name": "religiousvillage",
+  "weight": 10,
+  "biome_tags": [
+    "#c:is_savanna",
+    "minecraft:grove",
+    "minecraft:meadow",
+    "#c:is_plains"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:song/so_temple",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:song/so_well",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_pagoda",
+      "role": "core"
+    }
+  ],
+  "qualifiers": [
+    "hengye-lexing"
+  ]
+}

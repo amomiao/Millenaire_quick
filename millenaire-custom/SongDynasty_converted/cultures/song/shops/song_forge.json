@@ -1,0 +1,23 @@
+{
+  "sells": [
+    "iron_axe",
+    "iron_pickaxe",
+    "iron_shovel",
+    "iron_hoe",
+    "stone_axe",
+    "stone_pickaxe",
+    "stone_shovel",
+    "stone_hoe"
+  ],
+  "buys": [
+    "iron_ingot",
+    "cobblestone"
+  ],
+  "buys_optional": [],
+  "deliver_to": [
+    "minecraft:iron_axe",
+    "minecraft:iron_pickaxe",
+    "minecraft:iron_shovel",
+    "minecraft:iron_hoe"
+  ]
+}

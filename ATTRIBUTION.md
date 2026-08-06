@@ -24,7 +24,7 @@
 
 以下建筑提取自遵循开源协议的 Mod 项目，遵守对应开源许可证进行使用与适配：
 
-| 整合包内部路径 | 原始 Mod 名称 | 原作者 | 适用开源协议 | 源码/原项目地址 |
+| 整合包内部路径 | 源模组 | 原作者 | 适用开源协议 | 源项目地址 |
 | :--- | :--- | :--- | :--- | :--- |
 | `data/mypack/structure/dungeon/castle.nbt` | Example Mod | AuthorC | **MIT License** | [GitHub 链接](https://github.com/...) |
 | `data/mypack/structure/ruins/tower.nbt` | Ruin Crafts | AuthorD | **CC-BY 4.0** | [CurseForge 链接](https://...) |
@@ -34,5 +34,19 @@
 ## 二、 开源许可证文本副本 (License Texts)
 
 ### 1. MIT License
+> 🔗 **官方链接**: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)  
+> 📌 **版权声明 (Copyright Notices)**:
+> - `Copyright (c) 2026 momo`
+> - `Copyright (c) 2026 AuthorC`
+> - `Copyright (c) 2026 AuthorD`
+
 ```text
-(此处粘贴 MIT 协议文本...)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.

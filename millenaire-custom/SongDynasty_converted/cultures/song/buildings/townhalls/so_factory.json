@@ -1,0 +1,186 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_factory",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "工厂",
+  "shop": "songtownhall",
+  "max_count": 0,
+  "male": [
+    "leader"
+  ],
+  "female": [
+    "wife"
+  ],
+  "tags": [
+    "leisure",
+    "patrol",
+    "oven",
+    "nopaths",
+    "acaciagrove",
+    "villagelevel1",
+    "villagelevel2",
+    "villagelevel3"
+  ],
+  "icon": "millenaire:purse",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -2,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 35,
+            "height": 10,
+            "depth": 30
+          },
+          "priority": 500,
+          "signs": "0,1,2,3,4,5,6,7,8,9",
+          "tags": [
+            "leisure",
+            "patrol",
+            "oven",
+            "nopaths"
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 35,
+            "height": 10,
+            "depth": 30
+          },
+          "priority": 600,
+          "sub_buildings": [
+            "so_factory_a_market"
+          ],
+          "rebuild_path": true,
+          "tags": [
+            "leisure",
+            "patrol",
+            "oven",
+            "nopaths",
+            "acaciagrove",
+            "villagelevel1"
+          ]
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 35,
+            "height": 10,
+            "depth": 30
+          },
+          "priority": 400,
+          "sub_buildings": [
+            "so_factory_a_inn"
+          ],
+          "tags": [
+            "leisure",
+            "patrol",
+            "oven",
+            "nopaths",
+            "acaciagrove",
+            "villagelevel1"
+          ]
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 35,
+            "height": 13,
+            "depth": 30
+          },
+          "priority": 160,
+          "path_level": 1,
+          "rebuild_path": true,
+          "tags": [
+            "leisure",
+            "patrol",
+            "oven",
+            "nopaths",
+            "acaciagrove",
+            "villagelevel1",
+            "villagelevel2"
+          ]
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 35,
+            "height": 13,
+            "depth": 30
+          },
+          "tags": [
+            "leisure",
+            "patrol",
+            "oven",
+            "nopaths",
+            "acaciagrove",
+            "villagelevel1",
+            "villagelevel2"
+          ]
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 35,
+            "height": 15,
+            "depth": 30
+          },
+          "priority": 80,
+          "tags": [
+            "leisure",
+            "patrol",
+            "oven",
+            "nopaths",
+            "acaciagrove",
+            "villagelevel1",
+            "villagelevel2",
+            "villagelevel3"
+          ]
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 35,
+            "height": 15,
+            "depth": 30
+          },
+          "priority": 50,
+          "path_level": 1,
+          "tags": [
+            "leisure",
+            "patrol",
+            "oven",
+            "nopaths",
+            "acaciagrove",
+            "villagelevel1",
+            "villagelevel2",
+            "villagelevel3"
+          ]
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 35,
+            "height": 15,
+            "depth": 30
+          },
+          "tags": [
+            "leisure",
+            "patrol",
+            "oven",
+            "nopaths",
+            "acaciagrove",
+            "villagelevel1",
+            "villagelevel2",
+            "villagelevel3"
+          ]
+        }
+      ]
+    }
+  ]
+}

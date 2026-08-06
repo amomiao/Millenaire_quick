@@ -1,0 +1,76 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_factory_a_market",
+  "category": "townhalls",
+  "is_sub_building": true,
+  "parent_building": {
+    "id": "so_factory",
+    "variant": "a",
+    "level": 1
+  },
+  "is_town_hall": false,
+  "native_name": "主城集市",
+  "max_count": 0,
+  "tags": [
+    "market",
+    "leisure"
+  ],
+  "icon": "millenaire:purse",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 0,
+      "ground_level": -2,
+      "tags": [
+        "market",
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 35,
+            "height": 10,
+            "depth": 30
+          },
+          "priority": 400
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 35,
+            "height": 10,
+            "depth": 30
+          },
+          "priority": 300
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 35,
+            "height": 10,
+            "depth": 30
+          },
+          "priority": 120
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 35,
+            "height": 10,
+            "depth": 30
+          },
+          "priority": 80
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 35,
+            "height": 10,
+            "depth": 30
+          }
+        }
+      ]
+    }
+  ]
+}

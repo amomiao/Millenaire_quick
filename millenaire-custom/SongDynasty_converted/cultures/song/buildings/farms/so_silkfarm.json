@@ -1,0 +1,78 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_silkfarm",
+  "category": "farms",
+  "native_name": "丝绸农场",
+  "shop": "silkfactory",
+  "min_distance": 0.5,
+  "male": [
+    "silkfarmer_m"
+  ],
+  "female": [
+    "peasant_f"
+  ],
+  "tags": [
+    "silkwormfarm"
+  ],
+  "icon": "millenaire:silk",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "silkwormfarm"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 400,
+          "path_width": 1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 70
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 20,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 20
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 16,
+            "height": 7,
+            "depth": 15
+          },
+          "priority": 20,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

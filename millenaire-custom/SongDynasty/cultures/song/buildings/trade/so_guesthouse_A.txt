@@ -1,0 +1,28 @@
+//Parameters for the building as a whole
+building.length=10
+building.width=7
+building.areatoclear=4
+building.icon=bed_straw
+building.buildingorientation=0
+building.max=0
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=商人客栈
+initial.priority=400
+initial.tag=inn
+initial.tag=leasure
+initial.male=song_merchant_m
+initial.signs=1,0
+
+//Parameters for specific upgrades
+upgrade1.rebuildpath=true
+
+upgrade2.priority=70
+upgrade2.rebuildpath=false
+
+upgrade3.priority=30
+upgrade3.pathlevel=1
+
+upgrade4.priority=10
+upgrade4.pathlevel=2

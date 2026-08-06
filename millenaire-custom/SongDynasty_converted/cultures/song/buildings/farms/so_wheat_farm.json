@@ -1,0 +1,82 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_wheat_farm",
+  "category": "farms",
+  "native_name": "农场",
+  "min_distance": 0.6,
+  "male": [
+    "farmer_m"
+  ],
+  "female": [
+    "farmer_f"
+  ],
+  "tags": [
+    "wheatpaddy",
+    "nopaths"
+  ],
+  "icon": "minecraft:wheat",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "tags": [
+        "wheatpaddy",
+        "nopaths"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 6,
+            "depth": 10
+          },
+          "priority": 500,
+          "path_width": 1,
+          "infoSoils": [
+            {
+              "crop": "wheat"
+            }
+          ]
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 17,
+            "height": 7,
+            "depth": 10
+          }
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 17,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 65
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 17,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 40,
+          "path_level": 1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 17,
+            "height": 8,
+            "depth": 10
+          },
+          "priority": 25
+        }
+      ]
+    }
+  ]
+}

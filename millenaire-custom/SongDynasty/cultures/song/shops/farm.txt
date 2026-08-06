@@ -1,0 +1,5 @@
+buys=rice,wheat,seeds,carrot
+
+sells=wheat,rice,carrot
+
+deliverto=seeds

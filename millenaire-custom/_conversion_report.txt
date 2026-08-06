@@ -1,0 +1,165 @@
+# Millénaire legacy auto-conversion — 1 sub-mod(s)
+
+## SongDynasty/ → SongDynasty_converted/
+
+Millénaire converted 182 legacy-format files from your millenaire-custom/ folder. Your server should work normally after restart.
+
+9 item references from the pack could not be mapped to modern Minecraft items. These are usually items that came from a companion mod — install the companion mod or ignore the warnings if you don't need those items.
+
+8 special point types were dropped from building plans because Millénaire 9 doesn't recognise them (e.g. custom spawners or one-off markers). The surrounding building still converts; only these points are lost.
+
+15 modded block types were replaced by cobblestone because Millénaire 9 has no equivalent for them. Buildings using these blocks convert but look degraded — see the list below to map or remove them.
+
+Technical details follow below.
+
+=== Per-culture summary ===
+  song:
+    building plan: 72 converted
+    villager type: 44 converted
+    village type: 16 converted
+    shop: 13 converted
+    traded good: 1 converted
+    culture: 1 converted
+
+=== Global content ===
+  gathering type: 29 converted, 1 skipped
+  visit goal: 2 converted
+  quest: 4 converted
+
+=== Unmapped items (9) ===
+  song::bowlempty
+  song::gray_tiles
+  song::melonslice
+  song::gray_tiles
+  song::gray_tiles
+  song::gray_tiles
+  song::melonslice
+  song::bowlempty
+  song::gray_tiles
+
+=== Unmapped special-point types (8) ===
+  spawner/skeleton
+  spawner/zombie
+  spawner/spider
+  spawner/cave_spider
+  spawner/creeper
+  spawner/blaze
+  dispenserUnknownPowder/null
+  brewingStand/null
+
+=== Blocks substituted by cobblestone (15) ===
+  millenaire:gray_tiles
+  millenaire:green_tiles
+  millenaire:red_tiles
+  millenaire:gray_tiles_slab
+  millenaire:green_tiles_slab
+  millenaire:red_tiles_slab
+  millenaire:stairs_gray_tiles
+  millenaire:stairs_green_tiles
+  millenaire:stairs_red_tiles
+  millenaire:wooden_bars_dark
+  millenaire:feathered_serpent
+  millenaire:mayan_calendar
+  millenaire:mayan_carpet_thatch
+  millenaire:mayan_carpet
+  millenaire:stairs_steep_stonebrick
+
+=== Skipped files (1) ===
+  [global] gathering type D:\000Game\MC\PCL\.minecraft\versions\Dev千年村庄极速版\millenaire-custom\SongDynasty\goals\genericcrafting\song\makegreytiles.txt — no valid output after item-mapping
+
+=== Unknown legacy keys (12) ===
+  [global] quests\songbasic\papercurrency.txt: 'label_english' is not a recognised legacy key
+  [global] quests\songbasic\papercurrency.txt: 'description_english' is not a recognised legacy key
+  [global] quests\songbasic\papercurrency.txt: 'description_success_english' is not a recognised legacy key
+  [global] quests\songbasic\papercurrency.txt: 'description_refuse_english' is not a recognised legacy key
+  [global] quests\songbasic\stageplay.txt: 'label_english' is not a recognised legacy key
+  [global] quests\songbasic\stageplay.txt: 'description_english' is not a recognised legacy key
+  [global] quests\songbasic\stageplay.txt: 'description_success_english' is not a recognised legacy key
+  [global] quests\songbasic\stageplay.txt: 'description_refuse_english' is not a recognised legacy key
+  [global] quests\songbasic\tntdelivery.txt: 'label_english' is not a recognised legacy key
+  [global] quests\songbasic\tntdelivery.txt: 'description_english' is not a recognised legacy key
+  [global] quests\songbasic\tntdelivery.txt: 'description_success_english' is not a recognised legacy key
+  [global] quests\songbasic\tntdelivery.txt: 'description_refuse_english' is not a recognised legacy key
+
+=== Broken cross-references (2) ===
+  [song] cultures\song\villagers\quest_farmer.txt: namelist 'alchemist_last' (in familynamelist) not found
+  [song] cultures\song\villagers\quest_farmer.txt: namelist 'alchemist_first' (in firstnamelist) not found
+
+=== Duplicates (9) ===
+  [song] cultures\song\villagers\song_animalfarmer_f.txt: 'goal' has duplicate entry 'gopray'
+  [song] cultures\song\villagers\song_boy.txt: 'goal' has duplicate entry 'deliverresourcesshop'
+  [song] cultures\song\villagers\song_fisherman_f.txt: 'goal' has duplicate entry 'gopray'
+  [song] cultures\song\villagers\song_militiafemale.txt: 'goal' has duplicate entry 'gorest'
+  [song] cultures\song\villagers\song_militiafemale.txt: 'goal' has duplicate entry 'gopray'
+  [song] cultures\song\villagers\song_peasant_f.txt: 'goal' has duplicate entry 'gopray'
+  [song] cultures\song\villagers\song_religouschief.txt: 'goal' has duplicate entry 'makebooks'
+  [song] cultures\song\villagers\song_wife.txt: 'goal' has duplicate entry 'gopray'
+  [song] cultures\song\villagers\song_worker_f.txt: 'goal' has duplicate entry 'gopray'
+
+=== Missing required keys (32) ===
+  [song] cultures\song\villages\agriculturalvillage.txt: missing 'name'
+  [song] cultures\song\villages\agriculturalvillage.txt: missing 'centre'
+  [song] cultures\song\villages\huangchengcun.txt: missing 'name'
+  [song] cultures\song\villages\huangchengcun.txt: missing 'centre'
+  [song] cultures\song\villages\militaryvillage.txt: missing 'name'
+  [song] cultures\song\villages\militaryvillage.txt: missing 'centre'
+  [song] cultures\song\villages\religiousvillage.txt: missing 'name'
+  [song] cultures\song\villages\religiousvillage.txt: missing 'centre'
+  [song] cultures\song\villages\song_controlled_village.txt: missing 'name'
+  [song] cultures\song\villages\song_controlled_village.txt: missing 'centre'
+  [song] cultures\song\villages\tradingvillage.txt: missing 'name'
+  [song] cultures\song\villages\tradingvillage.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\abandonpalace.txt: missing 'name'
+  [song] cultures\song\lonebuildings\abandonpalace.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\ironpagoda.txt: missing 'name'
+  [song] cultures\song\lonebuildings\ironpagoda.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\questfarm.txt: missing 'name'
+  [song] cultures\song\lonebuildings\questfarm.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\ruinedsongtower.txt: missing 'name'
+  [song] cultures\song\lonebuildings\ruinedsongtower.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\songlonebarracks.txt: missing 'name'
+  [song] cultures\song\lonebuildings\songlonebarracks.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\songlonefarm.txt: missing 'name'
+  [song] cultures\song\lonebuildings\songlonefarm.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\songloneinn.txt: missing 'name'
+  [song] cultures\song\lonebuildings\songloneinn.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\songlonelumberman.txt: missing 'name'
+  [song] cultures\song\lonebuildings\songlonelumberman.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\songrebel.txt: missing 'name'
+  [song] cultures\song\lonebuildings\songrebel.txt: missing 'centre'
+  [song] cultures\song\lonebuildings\tomb.txt: missing 'name'
+  [song] cultures\song\lonebuildings\tomb.txt: missing 'centre'
+
+=== Quest structural issues (19) ===
+  [quest papercurrency] quests\songbasic\papercurrency.txt: Unknown step key: label_english = Paper Currency
+  [quest papercurrency] quests\songbasic\papercurrency.txt: Unknown step key: description_english = We are starting a new currency friend.. But we need your help, give me 10 paper, I will reward you after.
+  [quest papercurrency] quests\songbasic\papercurrency.txt: Unknown step key: description_success_english = Thank you my good man, You are one of my traders now.
+  [quest papercurrency] quests\songbasic\papercurrency.txt: Unknown step key: description_refuse_english = You are really not the helpfull kind. I was supposed to make you my first trader.
+  [quest songwifebasic] quests\songbasic\songwifebasic.txt: Unmapped quest item: riceplate — dropping (add a mapping in QUEST_ITEM_MAP)
+  [quest songwifebasic] quests\songbasic\songwifebasic.txt: Unmapped quest item: riceplate — dropping (add a mapping in QUEST_ITEM_MAP)
+  [quest stageplay] quests\songbasic\stageplay.txt: Unknown step key: label_english = Stage Play
+  [quest stageplay] quests\songbasic\stageplay.txt: Unknown step key: description_english = My husband is preparing a stage play and i dont have the right supplies.. Could you please help me.
+  [quest stageplay] quests\songbasic\stageplay.txt: Unknown step key: description_success_english = Thank you my good man!
+  [quest stageplay] quests\songbasic\stageplay.txt: Unknown step key: description_refuse_english = You are really not the helpfull kind.
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: label_english = TNT Delivery
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: description_english = We need 58 tnt for the defence of the village! I need you to help me..
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: description_success_english = Thank you my good man!
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: description_refuse_english = Traitor!
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: label_english = Get TNT
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: description_english = Here you go...
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: label_english = Bring Back Resources
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: description_english = Do you have it now?
+  [quest tntdelivery] quests\songbasic\tntdelivery.txt: Unknown step key: description_success_english = Thank you my good man! Heres your reward..
+
+=== Unreachable inputs (4) ===
+  [song] 'book' needed by song_monk.txt — not produced, bought, or in traded_goods
+  [song] 'redstone' needed by song_worker_m.txt — not produced, bought, or in traded_goods
+  [song] 'sugarcane' needed by makepapermoney.txt — not produced, bought, or in traded_goods
+  [song] 'wood_oak' needed by song_monk.txt — not produced, bought, or in traded_goods
+
+=== Orphaned outputs (4) ===
+  [song] 'charcoal' produced by song_worker_m.txt — never consumed, sold, or required
+  [song] 'painting' produced by calligraphy.txt — never consumed, sold, or required
+  [song] 'porkchopscooked' produced by song_animalfarmer_f.txt — never consumed, sold, or required
+  [song] 'potato' produced by song_peasant.txt — never consumed, sold, or required
+

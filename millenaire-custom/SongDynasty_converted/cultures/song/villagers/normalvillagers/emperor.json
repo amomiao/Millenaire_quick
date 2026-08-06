@@ -1,0 +1,44 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "皇帝",
+  "textures": [
+    "millenaire:textures/entity/song/ml_emperor.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkofficials2.png"
+      ]
+    },
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkofficials.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray"
+  ],
+  "tags": [
+    "chief",
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "high_class_familynames",
+  "icon": "millenaire:summoning_wand",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword",
+    "armour"
+  ],
+  "base_attack_strength": 5,
+  "default_weapon": "minecraft:wooden_sword",
+  "travelbook_held_item": "millenaire:summoning_wand"
+}

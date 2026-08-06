@@ -1,0 +1,81 @@
+{
+  "culture": "millenaire:song",
+  "building_id": "so_gunpowder",
+  "category": "craft",
+  "native_name": "火药厂",
+  "shop": "gunpowder",
+  "max_count": 0,
+  "male": [
+    "worker_m"
+  ],
+  "female": [
+    "worker_f"
+  ],
+  "tags": [
+    "oven",
+    "charcoal"
+  ],
+  "icon": "minecraft:gunpowder",
+  "area_to_clear": 4,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -2,
+      "tags": [
+        "oven",
+        "charcoal"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 15
+          },
+          "priority": 200
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 12,
+            "height": 10,
+            "depth": 15
+          },
+          "priority": 90,
+          "rebuild_path": true
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 15
+          },
+          "priority": 50,
+          "path_level": 1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 15
+          },
+          "priority": 30
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 12,
+            "height": 11,
+            "depth": 15
+          },
+          "priority": 30,
+          "path_level": 2
+        }
+      ]
+    }
+  ]
+}

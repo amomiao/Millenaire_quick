@@ -1,0 +1,41 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "厨师",
+  "textures": [
+    "millenaire:textures/entity/song/ml_chef.png"
+  ],
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:rest",
+    "millenaire:pray",
+    "millenaire:drink",
+    "millenaire:craft_bread",
+    "millenaire:cook_chicken_kitchen",
+    "millenaire:cook_pork"
+  ],
+  "tags": [
+    "seller"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "minecraft:wheat": 18,
+    "smm:ceramic": 8,
+    "millenaire:rice": 8,
+    "minecraft:cod": 16,
+    "minecraft:porkchop": 16,
+    "millenaire:turmeric": 4,
+    "minecraft:cooked_chicken": 4,
+    "minecraft:chicken": 4,
+    "minecraft:oak_log": 64
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "rural_family_names",
+  "icon": "smm:riceplate",
+  "villager_config": "songdynasty",
+  "default_weapon": "minecraft:wooden_axe",
+  "travelbook_held_item": "smm:riceplate"
+}

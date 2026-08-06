@@ -1,0 +1,26 @@
+//Parameters for the building as a whole
+building.length=17
+building.width=10
+building.buildingorientation=2
+building.mindistance=0.6
+building.icon=wheat
+
+//Parameters for initial construction
+initial.startlevel=-1
+initial.nativename=农场
+initial.priority=500
+initial.male=song_farmer_m
+initial.female=song_farmer_f
+initial.tag=wheatpaddy
+initial.tag=nopaths
+initial.pathwidth=1
+
+//Parameters for specific upgrades
+upgrade1.priority=100
+
+upgrade2.priority=65
+
+upgrade3.priority=40
+upgrade3.pathlevel=1
+
+upgrade4.priority=25

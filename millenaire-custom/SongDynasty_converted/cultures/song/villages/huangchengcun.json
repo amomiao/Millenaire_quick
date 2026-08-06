@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:song",
+  "name": "huangchengcun",
+  "weight": 10,
+  "biome_tags": [
+    "#c:is_savanna",
+    "#c:is_plains",
+    "minecraft:grove",
+    "minecraft:meadow"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:song/so_tower",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:song/so_peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_market",
+      "role": "core"
+    }
+  ],
+  "qualifiers": [
+    "zonghua-Minugo"
+  ]
+}

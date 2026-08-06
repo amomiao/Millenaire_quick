@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:song",
+  "native_name": "工匠",
+  "textures": [
+    "millenaire:textures/entity/song/ml_chinesepeasant.png",
+    "millenaire:textures/entity/song/ml_blacksmith.png"
+  ],
+  "clothes": {
+    "free": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songmale.png"
+      ]
+    },
+    "clothes_byz_silk": {
+      "layer0": [
+        "millenaire:textures/entity/song/clothes/ml_songsilkmalepeasant.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmalepeasant2.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale2.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale3.png",
+        "millenaire:textures/entity/song/clothes/ml_songsilkmale4.png"
+      ]
+    }
+  },
+  "base_scale": 0.9,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:socialise",
+    "millenaire:chat",
+    "millenaire:pray",
+    "millenaire:craft_timberframeplainoak",
+    "millenaire:craft_timberframeplainbirch",
+    "millenaire:craft_timberframeplainpine",
+    "millenaire:craft_timberframeplainjungle",
+    "millenaire:craft_timberframecrossoak",
+    "millenaire:craft_timberframecrossbirch",
+    "millenaire:craft_timberframecrosspine",
+    "millenaire:craft_timberframecrossjungle",
+    "millenaire:craft_paperrice"
+  ],
+  "tags": [
+    "helpInAttacks"
+  ],
+  "spawn_weight": 0,
+  "required_goods": {
+    "millenaire:rice": 32,
+    "minecraft:paper": 16,
+    "minecraft:clay_ball": 128,
+    "minecraft:oak_log": 64,
+    "minecraft:spruce_log": 64,
+    "minecraft:jungle_log": 64,
+    "minecraft:birch_log": 64
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "peasant_family_names",
+  "icon": "millenaire:paper_wall",
+  "villager_config": "songdynasty",
+  "tool_needed_classes": [
+    "toolssword"
+  ],
+  "items_needed": [
+    "millenaire:clothes_byz_silk"
+  ],
+  "base_attack_strength": 5,
+  "travelbook_held_item": "millenaire:paper_wall"
+}

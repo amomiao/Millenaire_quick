@@ -1,0 +1,28 @@
+{
+  "culture": "millenaire:song",
+  "name": "militaryvillage",
+  "weight": 10,
+  "biome_tags": [
+    "#c:is_savanna",
+    "minecraft:grove",
+    "#c:is_plains"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:song/so_barracks",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:song/so_peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_forge",
+      "role": "core"
+    }
+  ],
+  "icon": "millenaire:japanese_tachi",
+  "qualifiers": [
+    "zonghua-Minugo"
+  ]
+}
