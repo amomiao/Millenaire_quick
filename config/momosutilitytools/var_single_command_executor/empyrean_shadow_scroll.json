@@ -1,0 +1,11 @@
+{
+  "id": "empyrean_shadow_scroll",
+  "name": "至高天之影",
+  "command": "/millenaire reputation @p 200000",
+  "output_text": "最近的村庄已将您视为天生领袖！",
+  "is_consumable": true,
+  "enable_name_as_param1": false,
+  "p1": "",
+  "p2": "",
+  "p3": ""
+}

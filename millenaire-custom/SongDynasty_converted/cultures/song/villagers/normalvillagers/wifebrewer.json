@@ -3,23 +3,23 @@
   "native_name": "酿造师妻子",
   "model": "female_asymmetrical",
   "textures": [
-    "millenaire:textures/entity/song/ml_wife2.png",
-    "millenaire:textures/entity/song/ml_wife1.png",
-    "millenaire:textures/entity/song/ml_wife3.png",
-    "millenaire:textures/entity/song/ml_wife4.png"
+    "song:textures/entity/song/ml_wife2.png",
+    "song:textures/entity/song/ml_wife1.png",
+    "song:textures/entity/song/ml_wife3.png",
+    "song:textures/entity/song/ml_wife4.png"
   ],
   "clothes": {
     "free": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkwife3.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkwifepeasant1.png"
+        "song:textures/entity/song/clothes/ml_songsilkwife3.png",
+        "song:textures/entity/song/clothes/ml_songsilkwifepeasant1.png"
       ]
     },
     "clothes_byz_silk": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkwife2.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkwife5.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkwife4.png"
+        "song:textures/entity/song/clothes/ml_songsilkwife2.png",
+        "song:textures/entity/song/clothes/ml_songsilkwife5.png",
+        "song:textures/entity/song/clothes/ml_songsilkwife4.png"
       ]
     }
   },

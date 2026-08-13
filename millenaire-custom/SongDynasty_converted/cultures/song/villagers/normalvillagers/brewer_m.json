@@ -2,8 +2,8 @@
   "culture": "millenaire:song",
   "native_name": "酿酒师",
   "textures": [
-    "millenaire:textures/entity/song/ml_general.png",
-    "millenaire:textures/entity/song/ml_blacksmith.png"
+    "song:textures/entity/song/ml_general.png",
+    "song:textures/entity/song/ml_blacksmith.png"
   ],
   "base_scale": 0.9,
   "goals": [

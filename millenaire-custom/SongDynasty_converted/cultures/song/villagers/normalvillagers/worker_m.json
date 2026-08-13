@@ -2,21 +2,21 @@
   "culture": "millenaire:song",
   "native_name": "工人",
   "textures": [
-    "millenaire:textures/entity/song/ml_worker.png",
-    "millenaire:textures/entity/song/ml_blacksmith.png"
+    "song:textures/entity/song/ml_worker.png",
+    "song:textures/entity/song/ml_blacksmith.png"
   ],
   "clothes": {
     "free": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songmale.png"
+        "song:textures/entity/song/clothes/ml_songmale.png"
       ]
     },
     "clothes_byz_silk": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkmalepeasant.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale2.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale3.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale4.png"
+        "song:textures/entity/song/clothes/ml_songsilkmalepeasant.png",
+        "song:textures/entity/song/clothes/ml_songsilkmale2.png",
+        "song:textures/entity/song/clothes/ml_songsilkmale3.png",
+        "song:textures/entity/song/clothes/ml_songsilkmale4.png"
       ]
     }
   },

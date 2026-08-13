@@ -2,7 +2,7 @@
   "culture": "millenaire:song",
   "native_name": "渔夫",
   "textures": [
-    "millenaire:textures/entity/song/ml_chinesefisherman.png"
+    "song:textures/entity/song/ml_chinesefisherman.png"
   ],
   "base_scale": 0.9,
   "goals": [

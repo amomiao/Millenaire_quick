@@ -2,7 +2,7 @@
   "culture": "millenaire:song",
   "native_name": "和尚",
   "textures": [
-    "millenaire:textures/entity/song/ml_monk.png"
+    "song:textures/entity/song/ml_monk.png"
   ],
   "base_scale": 0.9,
   "goals": [

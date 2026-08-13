@@ -2,7 +2,7 @@
   "culture": "millenaire:song",
   "native_name": "村长",
   "textures": [
-    "millenaire:textures/entity/song/ml_workerchief.png"
+    "song:textures/entity/song/ml_workerchief.png"
   ],
   "base_scale": 0.9,
   "goals": [

@@ -391,12 +391,21 @@
 					type: "advancement"
 				}
 				{
-					command: "/millenaire reputation @p 200000"
-					icon: {
-						id: "minecraft:golden_helmet"
+					id: "07AA280A9D757EA6"
+					item: {
+						components: {
+							"minecraft:custom_data": {
+								BoundCommand: "/millenaire reputation @p 200000"
+								EnableNameAsParam1: 0b
+								IsConsumable: 1b
+								OutputText: "最近的村庄已将您视为天生领袖！"
+							}
+							"minecraft:custom_name": "\"至高天之影\""
+						}
+						count: 1
+						id: "momosutilitytools:single_command_executor"
 					}
-					id: "6770D71B0E0049FE"
-					type: "command"
+					type: "item"
 				}
 			]
 			shape: "rsquare"

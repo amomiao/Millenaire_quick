@@ -2,7 +2,7 @@
   "culture": "millenaire:song",
   "native_name": "男孩",
   "textures": [
-    "millenaire:textures/entity/song/ml_boy.png"
+    "song:textures/entity/song/ml_boy.png"
   ],
   "is_child": true,
   "goals": [

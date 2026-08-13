@@ -2,13 +2,13 @@
   "culture": "millenaire:song",
   "native_name": "军火商人",
   "textures": [
-    "millenaire:textures/entity/song/ml_bandit2.png"
+    "song:textures/entity/song/ml_bandit2.png"
   ],
   "clothes": {
     "clothes_byz_silk": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkofficials.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkofficials2.png"
+        "song:textures/entity/song/clothes/ml_songsilkofficials.png",
+        "song:textures/entity/song/clothes/ml_songsilkofficials2.png"
       ]
     }
   },

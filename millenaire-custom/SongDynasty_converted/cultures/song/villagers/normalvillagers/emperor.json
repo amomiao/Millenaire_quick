@@ -2,17 +2,17 @@
   "culture": "millenaire:song",
   "native_name": "皇帝",
   "textures": [
-    "millenaire:textures/entity/song/ml_emperor.png"
+    "song:textures/entity/song/ml_emperor.png"
   ],
   "clothes": {
     "free": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkofficials2.png"
+        "song:textures/entity/song/clothes/ml_songsilkofficials2.png"
       ]
     },
     "clothes_byz_silk": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkofficials.png"
+        "song:textures/entity/song/clothes/ml_songsilkofficials.png"
       ]
     }
   },

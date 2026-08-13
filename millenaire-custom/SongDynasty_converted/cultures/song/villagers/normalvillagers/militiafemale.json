@@ -3,7 +3,7 @@
   "native_name": "女士兵",
   "model": "female_asymmetrical",
   "textures": [
-    "millenaire:textures/entity/song/ml_militiafemale.png"
+    "song:textures/entity/song/ml_militiafemale.png"
   ],
   "base_scale": 0.9,
   "goals": [

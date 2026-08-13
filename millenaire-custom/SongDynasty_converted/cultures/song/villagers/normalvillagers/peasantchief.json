@@ -2,22 +2,22 @@
   "culture": "millenaire:song",
   "native_name": "地主",
   "textures": [
-    "millenaire:textures/entity/song/ml_chinesepeasant.png",
-    "millenaire:textures/entity/song/ml_chinesepeasant2.png",
-    "millenaire:textures/entity/song/ml_chinesepeasant3.png"
+    "song:textures/entity/song/ml_chinesepeasant.png",
+    "song:textures/entity/song/ml_chinesepeasant2.png",
+    "song:textures/entity/song/ml_chinesepeasant3.png"
   ],
   "clothes": {
     "free": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkmalepeasant.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmalepeasant2.png"
+        "song:textures/entity/song/clothes/ml_songsilkmalepeasant.png",
+        "song:textures/entity/song/clothes/ml_songsilkmalepeasant2.png"
       ]
     },
     "clothes_byz_silk": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale2.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale3.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale4.png"
+        "song:textures/entity/song/clothes/ml_songsilkmale2.png",
+        "song:textures/entity/song/clothes/ml_songsilkmale3.png",
+        "song:textures/entity/song/clothes/ml_songsilkmale4.png"
       ]
     }
   },

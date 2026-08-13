@@ -650,7 +650,7 @@
 	quest.6F6816B50FDFF57D.quest_desc: ["关于建筑规划，只能说通过卡资源和取消建造来实现完全的手动布局。"]
 	quest.6FD9A0D6F9E93F13.title: "再次探索要塞"
 	quest.70973D6442C982A6.quest_desc: ["另外注意任务中的描述都是默认键位，比如很多Shift右键指的是潜行右键。"]
-	quest.70973D6442C982A6.quest_subtitle: "请开启作弊模式，很多任务会发放命令作为奖励。"
+	quest.70973D6442C982A6.quest_subtitle: "右键使用命令卷轴"
 	quest.70973D6442C982A6.title: "开局设置"
 	quest.70D2FFC07BE3E4FE.quest_desc: [
 		"普罗尼亚，字面意思为“关心”、“预见”、“天命”，是一种拜占庭式的包税制度。"

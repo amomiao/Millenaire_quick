@@ -3,7 +3,7 @@
   "native_name": "女孩",
   "model": "female_symmetrical",
   "textures": [
-    "millenaire:textures/entity/song/ml_girl.png"
+    "song:textures/entity/song/ml_girl.png"
   ],
   "is_child": true,
   "goals": [

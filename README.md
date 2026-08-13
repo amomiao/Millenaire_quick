@@ -9,6 +9,12 @@
 
 ## 更新日志 (Release Summary)
 ### 📢 当前版本：
+* **v0.2.2 过渡版本-等待beta3(或正式版)**
+    1. 模组
+       添加: momosutilitytools-1.0.0 => 现在命令有了可以无视是否开启了作弊模式的容器
+       升级: createmomosadditions-1.2.0 => 修改了材质,剥离了思索
+   
+
 * **v0.2.1 过渡版本-首发前最后改动一下整合包并测试**
     1. 模组  
         添加: No Realms Button : 移除了Realms按钮;  

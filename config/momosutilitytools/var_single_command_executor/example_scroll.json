@@ -1,0 +1,11 @@
+{
+  "id": "example_scroll",
+  "name": "示例指令卷轴",
+  "command": "give @s diamond 1",
+  "output_text": "§a获得了 1 颗钻石！",
+  "is_consumable": true,
+  "enable_name_as_param1": false,
+  "p1": "",
+  "p2": "",
+  "p3": ""
+}

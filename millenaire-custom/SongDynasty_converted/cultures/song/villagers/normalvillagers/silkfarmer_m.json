@@ -2,21 +2,21 @@
   "culture": "millenaire:song",
   "native_name": "纺织工",
   "textures": [
-    "millenaire:textures/entity/song/ml_bandit.png",
-    "millenaire:textures/entity/song/ml_chinesepeasant.png"
+    "song:textures/entity/song/ml_bandit.png",
+    "song:textures/entity/song/ml_chinesepeasant.png"
   ],
   "clothes": {
     "free": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songmale.png"
+        "song:textures/entity/song/clothes/ml_songmale.png"
       ]
     },
     "clothes_byz_silk": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale1.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale2.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale3.png",
-        "millenaire:textures/entity/song/clothes/ml_songsilkmale4.png"
+        "song:textures/entity/song/clothes/ml_songsilkmale1.png",
+        "song:textures/entity/song/clothes/ml_songsilkmale2.png",
+        "song:textures/entity/song/clothes/ml_songsilkmale3.png",
+        "song:textures/entity/song/clothes/ml_songsilkmale4.png"
       ]
     }
   },

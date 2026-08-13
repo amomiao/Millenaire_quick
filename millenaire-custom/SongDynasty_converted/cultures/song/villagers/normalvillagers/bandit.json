@@ -2,8 +2,8 @@
   "culture": "millenaire:song",
   "native_name": "土匪",
   "textures": [
-    "millenaire:textures/entity/song/ml_bandit.png",
-    "millenaire:textures/entity/song/ml_bandit2.png"
+    "song:textures/entity/song/ml_bandit.png",
+    "song:textures/entity/song/ml_bandit2.png"
   ],
   "base_scale": 0.9,
   "goals": [

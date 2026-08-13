@@ -524,9 +524,21 @@
 			}
 			id: "70973D6442C982A6"
 			rewards: [{
-				command: "/gamerule keepInventory true"
-				id: "1C0FD3F7F2C300DA"
-				type: "command"
+				id: "31A9DB01399E1C74"
+				item: {
+					components: {
+						"minecraft:custom_data": {
+							BoundCommand: "/gamerule keepInventory true"
+							EnableNameAsParam1: 0b
+							IsConsumable: 1b
+							OutputText: "已启用死亡不掉落"
+						}
+						"minecraft:custom_name": "\"死亡不掉落\""
+					}
+					count: 1
+					id: "momosutilitytools:single_command_executor"
+				}
+				type: "item"
 			}]
 			tasks: [{
 				id: "0F8C46DD10B3538A"

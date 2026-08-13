@@ -5,18 +5,27 @@
 ---
 
 ## 特别致谢: 社区创作者与自由分享 (Special Thanks)
-以下建筑/结构来源于网络社区（B站、贴吧、PlanetMinecraft 等）创作者的公开分享。  
+以下内容来源于网络社区（B站、贴吧、PlanetMinecraft 等）创作者的公开分享。  
 部分内容需要适配'千年村庄'模组及整合包的内容,如替换模组方块、删除箱子控制实体方块、NBT。
 下方为完整标注来源：
 
+### 1. 建筑与结构资源 (Buildings & Structures)
 | 整合包内部建筑/路径 | 创作者 (Author) | 来源平台与原帖/视频链接 | 发布名(简称) | 补充说明 |
 | :--- | :--- | :--- | :--- | :--- |
 | - | GraySun8151 | [MCBLOCK](https://mcblock.top/buildings/ee1e1a68-5cc8-4bc9-ab0d-2d00d9ac4f43) | 茶馆 | 来源于网页导出投影功能 |
 | - | 星野xye | [BV1WWcuzQEdk](https://www.bilibili.com/video/BV1WWcuzQEdk) | 五重塔 | 来源于作者视频简介公开下载 |
 | - | 星野xye | [BV1Vkwiz7EDr](https://www.bilibili.com/video/BV1Vkwiz7EDr) | 歇山顶大殿 | 来源于作者视频简介公开下载 |
 
+### 2. 音乐/MIDI 扒谱与音色库引用 (Music, MIDI Transcriptions & SoundFonts)
+
+| 整合包使用场景/文件路径 | 曲目名称 (Track) | 原曲作曲/词 (Original Artist) | MIDI 扒谱/改编者 (Transcriber/Arranger) | 来源平台/链接 (Source Link) | 说明 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `assets/music/bgm01.ogg` | 茉莉花 | 江南民歌 / G. Bantock | 扒谱大牛A | [MidiShow](https://www.midishow.com/midi/xxxx) | - |
+| `assets/music/bgm02.ogg` | Main Theme | 作曲者B | 扒谱者C | [B站 BV1xxxx](https://b23.tv/xxxx) | - |
+| `assets/sounds/ambient.mid` | 某游戏插曲 | 作曲者D | Unknown (佚名) | [Mutopia Project](https://www.mutopiaproject.org/) | - |
+
 > 📌 **致社区创作者的一封信**：
-> 本整合包为免费非商业作品。如果您是上述建筑的作者，且不希望您的作品被收录在本项目中，或希望修改署名形式，请随时通过 [GitHub Issue/B站私信] 联系我，我会第一时间处理并进行替换，再次感谢您的创作！
+> 本整合包为免费非商业作品。如果您是上述的作者，且不希望您的作品被收录在本项目中，或希望修改署名形式，请随时通过 [GitHub Issue/B站私信] 联系我，我会第一时间处理并进行替换，再次感谢您的创作！
 
 ---
 

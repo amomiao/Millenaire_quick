@@ -2,7 +2,7 @@
   "culture": "millenaire:song",
   "native_name": "方丈",
   "textures": [
-    "millenaire:textures/entity/song/ml_religouschief.png"
+    "song:textures/entity/song/ml_religouschief.png"
   ],
   "base_scale": 0.9,
   "goals": [

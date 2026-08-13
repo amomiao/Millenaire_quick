@@ -1,0 +1,11 @@
+{
+  "id": "rename_village_scroll",
+  "name": "改名卷轴",
+  "command": "/millenaire dev renamevillage {Param1}",
+  "output_text": "已将最近的村庄改名为此物品名",
+  "is_consumable": true,
+  "enable_name_as_param1": true,
+  "p1": "",
+  "p2": "",
+  "p3": ""
+}

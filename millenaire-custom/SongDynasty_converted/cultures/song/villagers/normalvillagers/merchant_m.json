@@ -2,13 +2,13 @@
   "culture": "millenaire:song",
   "native_name": "商人",
   "textures": [
-    "millenaire:textures/entity/song/ml_merchant.png",
-    "millenaire:textures/entity/song/ml_merchant2.png"
+    "song:textures/entity/song/ml_merchant.png",
+    "song:textures/entity/song/ml_merchant2.png"
   ],
   "clothes": {
     "free": {
       "layer0": [
-        "millenaire:textures/entity/song/clothes/ml_songsilkofficials2.png"
+        "song:textures/entity/song/clothes/ml_songsilkofficials2.png"
       ]
     }
   },

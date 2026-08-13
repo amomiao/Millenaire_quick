@@ -871,7 +871,7 @@
 			id: "09ED54D359AA7F81"
 			tasks: [{
 				id: "3020327E58FE115D"
-				item: { count: 1, id: "createmomosadditions:first_level_motor" }
+				item: { count: 1, id: "createmomosadditions:blower_smelting_ponder_paper" }
 				type: "item"
 			}]
 			x: -8.0d
@@ -881,7 +881,7 @@
 			id: "7EE62468265C123B"
 			tasks: [{
 				id: "45F93E71F4CE3F0A"
-				item: { count: 1, id: "createmomosadditions:second_level_motor" }
+				item: { count: 1, id: "createmomosadditions:stone_generator_ponder_paper" }
 				type: "item"
 			}]
 			x: 0.5d

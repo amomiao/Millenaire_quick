@@ -2,7 +2,7 @@
   "culture": "millenaire:song",
   "native_name": "厨师",
   "textures": [
-    "millenaire:textures/entity/song/ml_chef.png"
+    "song:textures/entity/song/ml_chef.png"
   ],
   "base_scale": 0.9,
   "goals": [
