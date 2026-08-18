@@ -386,6 +386,15 @@
 					}
 					type: "item"
 				}
+				{
+					count: 4
+					id: "0F6FA16C404C12BB"
+					item: {
+						count: 1
+						id: "functionalstorage:netherite_upgrade"
+					}
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "72CE224E0FADF3A7"
@@ -524,19 +533,19 @@
 			}
 			id: "70973D6442C982A6"
 			rewards: [{
-				id: "31A9DB01399E1C74"
+				id: "0165BB247BCBA57B"
 				item: {
 					components: {
 						"minecraft:custom_data": {
 							BoundCommand: "/gamerule keepInventory true"
 							EnableNameAsParam1: 0b
 							IsConsumable: 1b
-							OutputText: "已启用死亡不掉落"
+							OutputText: "启用死亡不掉落"
 						}
-						"minecraft:custom_name": "\"死亡不掉落\""
+						"minecraft:custom_name": "{\"fallback\":\"死亡不掉落\",\"translate\":\"item.momosutilitytools.keep_inventory_scroll\"}"
 					}
 					count: 1
-					id: "momosutilitytools:single_command_executor"
+					id: "momosutilitytools:keep_inventory_scroll"
 				}
 				type: "item"
 			}]

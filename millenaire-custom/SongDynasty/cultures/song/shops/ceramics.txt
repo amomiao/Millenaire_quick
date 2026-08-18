@@ -1,3 +1,0 @@
-buys=clay,paper
-
-sells=gray_tiles

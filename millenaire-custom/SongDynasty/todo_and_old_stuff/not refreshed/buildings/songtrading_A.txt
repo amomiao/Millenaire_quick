@@ -1,4 +1,0 @@
-native:Jiaoyi cunzhuang;name_en:Trading Hamlet;name_fr:enfrancais;around:4;startLevel:-1;orientation:3;width:24;length:32;male:song_merchant;female:song_merchantfemale;male:song_peasant;female:song_wife;tag:market;pathlevel:1;tag:leasure
-startLevel:-1
-startLevel:-1
-

@@ -1,4 +1,5 @@
 {
+	chapter.075093ED6BD4F932.title: "宋"
 	chapter.1CB71719E75E0FE9.title: "从旅人到领袖"
 	chapter.1D314DF889D3C993.title: "天选领袖"
 	chapter.2AA7AD610CAE883D.title: "世界渴望之村"
@@ -8,6 +9,11 @@
 	chapter.677D4FD2E36F433C.title: "开始"
 	chapter_group.12F8B196EA585244.title: "千年村庄"
 	chapter_group.6050F7ACD10CCF6C.title: "文艺复兴"
+	quest.006DA994523637B5.quest_desc: [
+		"发布于评论区"
+		"https://www.mcmod.cn/item/350114.html"
+	]
+	quest.006DA994523637B5.quest_subtitle: "MCModWiki用户: luohong"
 	quest.009150414397CA56.quest_desc: ["无论是蒂卡尔还是奇琴伊察，玛雅没有那种‘封建领主采邑’的行政专有名词。"]
 	quest.009150414397CA56.quest_subtitle: "Player's Jub'uy - 英语/玛雅语:属于玩家的定居点"
 	quest.009150414397CA56.title: "伟大的石神"
@@ -16,6 +22,13 @@
 	quest.03962B0FA18A0519.quest_subtitle: "点击图片可以跳转到WIKI页"
 	quest.04755A17BD4CB0FC.quest_subtitle: "完成任一即可"
 	quest.04755A17BD4CB0FC.title: "入此门者，可以从此门回来"
+	quest.04D9B1A06E5BB3D9.quest_desc: [
+		"缺失的内容："
+		"由模组来注册的所有道具丢失，因为KubeJS只迁移了贴图文件。"
+		"包括：白瓷碗、交子、鱼翅、红枣、米饭、绍兴黄酒、关刀、绍兴花雕酒，及中式甲胄。"
+	]
+	quest.04D9B1A06E5BB3D9.quest_subtitle: "可用性难以保证"
+	quest.04D9B1A06E5BB3D9.title: "测试中的文明"
 	quest.0527F2C517BC02EB.quest_desc: [
 		"在这个世界中，你已经发展了一些你已熟悉的内容。"
 		"——————————————"
@@ -195,9 +208,11 @@
 	quest.1E85D1745CC21B4C.quest_desc: [
 		"两个合并的下界合金箱子加合成升级、堆叠升级，应该足够存储物品了。"
 		"注意背包的升级的皮质的，箱子的升级是木制的。"
+		"————————————————————"
+		"如果有巨量物品的存储需求，可以使用抽屉。"
 	]
 	quest.1E85D1745CC21B4C.quest_subtitle: "与精妙背包的逻辑相同"
-	quest.1E85D1745CC21B4C.title: "精妙存储"
+	quest.1E85D1745CC21B4C.title: "存储"
 	quest.1ECEF77A184D8FC8.quest_subtitle: "但是你真在村里那就是定位到本村"
 	quest.1ECEF77A184D8FC8.title: "旅行的起点:隔壁村"
 	quest.1F03549B17861431.title: "定位: 沙漠神殿"
@@ -839,6 +854,7 @@
 	task.45FDDD8DBF7251B7.title: "抽取饰品"
 	task.46278BD19275B8A0.title: "织工小屋"
 	task.487147152C6C0D68.title: "大型喷泉"
+	task.49C47FAC07221352.title: "村民材质贡献者"
 	task.4A0FBD54F7AB0AE2.title: "你是主角你是主角"
 	task.4B90DBA7A0CDAF31.title: "玻璃制品工作室"
 	task.4CDA287FD5BD5623.title: "长老会"

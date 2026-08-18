@@ -1,3 +1,0 @@
-buys=rice,wheat,seeds,carrot
-
-sells=wheat,rice,carrot,chickenmeat,porkchops,feather

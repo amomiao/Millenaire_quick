@@ -1,5 +1,0 @@
-sells=steelaxe,steelpickaxe,steelshovel,steelhoe,stoneaxe,stonepickaxe,stoneshovel,stonehoe
-
-buys=iron,cobblestone
-
-deliverto=steelaxe,steelpickaxe,steelshovel,steelhoe

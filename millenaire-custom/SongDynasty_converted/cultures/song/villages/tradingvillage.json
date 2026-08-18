@@ -1,12 +1,34 @@
 {
   "culture": "millenaire:song",
   "name": "tradingvillage",
-  "weight": 10,
-  "biome_tags": [
-    "#c:is_savanna",
-    "#c:is_plains",
-    "minecraft:grove",
-    "minecraft:meadow"
+  "weight": 8,
+  "icon": "millenaire:purse",
+  "carries_raid": true,
+  "qualifiers": [
+    "hengye-lexing"
+  ],
+  "mountain_qualifiers": [
+    "zonghua-Tibet"
+  ],
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "biomes": [
+    "plains",
+    "forest",
+    "birch_forest",
+    "brushland",
+    "chaparral",
+    "grassland",
+    "grove",
+    "meadow",
+    "orchard",
+    "shrubland",
+    "steppe",
+    "green_hills",
+    "autumn_woods"
   ],
   "layout": [
     {
@@ -14,16 +36,104 @@
       "role": "centre"
     },
     {
-      "plan": "millenaire:song/so_inn",
+      "plan": "millenaire:song/so_peasanthouse",
       "role": "start"
     },
     {
-      "plan": "millenaire:song/so_tavern",
+      "plan": "millenaire:song/so_lumberman",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_grove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_brickkiln",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_quarry",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_wheat_farm",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_playerhouse",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_house",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_playerhugefield",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_playerlargefield",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_crafter",
       "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_wheatpaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_steelworks",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_fishery",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_silkfarm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_acaciagrove",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_tower",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_well",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_workershouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_rice_farm",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_paper_currency",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_shrine",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_tower",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_gunpowder",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_guardtower",
+      "role": "secondary"
     }
-  ],
-  "icon": "millenaire:purse",
-  "qualifiers": [
-    "hengye-lexing"
   ]
 }

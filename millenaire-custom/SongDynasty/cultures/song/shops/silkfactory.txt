@@ -1,5 +1,0 @@
-sells=silk,clothes_byz_silk
-
-buys=silk
-
-deliverto=silk,clothes_byz_silk

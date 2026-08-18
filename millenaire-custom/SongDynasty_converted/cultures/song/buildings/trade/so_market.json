@@ -2,7 +2,7 @@
   "culture": "millenaire:song",
   "building_id": "so_market",
   "category": "trade",
-  "native_name": "集市",
+  "native_name": "building.millenaire.song.so_market",
   "max_count": 0,
   "tags": [
     "market",

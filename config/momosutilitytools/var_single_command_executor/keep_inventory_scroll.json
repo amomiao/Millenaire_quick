@@ -2,7 +2,7 @@
   "id": "keep_inventory_scroll",
   "name": "死亡不掉落",
   "command": "/gamerule keepInventory true",
-  "output_text": "已启用死亡不掉落",
+  "output_text": "启用死亡不掉落",
   "is_consumable": true,
   "enable_name_as_param1": false,
   "p1": "",

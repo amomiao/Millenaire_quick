@@ -1,7 +1,0 @@
-sells=dirtwall,pathdirt,pathgravel,pathgravelslabs,wood,wood_pine,wood_birch,wood_jungle,cobblestone,stone,rice,wheat,paper_wall,iron,thatch,timberframeplain,timberframecross,purse,summoningWand,gray_tiles,ceramic,mudbrick,paintedbrickwhite,bed_straw
-
-buys=wood,wood_pine,wood_birch,wood_jungle,stone,cobblestone,thatch,paper_wall,rice,wheat,iron,leather,clay,coal,gunpowder,ciderapple,mudbrick,bookshelves,gravel,wool_white,gray_tiles
-
-buysoptional=yumibow,tachisword,bow,byzantinemace,steelsword,steelhelmet,steelchest,steellegs,steelboots,normanbroadsword,mayanmace,stonesword,leatherhelmet,leatherchest,leatherlegs,leatherboots,diamondsword,diamondhelmet,diamondchest,diamondlegs,diamondboots,steelpickaxe,steelaxe,steelshovel,steelhoe,normanaxe,normanpickaxe,normanshovel,normanhoe,mayanpickaxe,mayanaxe,mayanshovel,mayanhoe,stonepickaxe,stoneaxe,stoneshovel,stonehoe,diamondpickaxe,diamondAxe,diamondshovel,diamondhoe,sake,rasgulla,cake,cookie,udon,cooked_mutton,chickencurry,vegcurry,bread,beefcooked,porkchopscooked,chickenmeatcooked,egg,fishraw,chickenmeat,cider,seeds,arrow,paintedbrickwhite,wood_acacia,clothes_byz_silk
-
-deliverto=wood,wood_pine,wood_birch,wood_jungle,wood_acacia,cobblestone,stone,paper_wall,thatch,timberframeplain,timberframecross,rice,wheat,pathdirt,pathgravel,pathgravelslabs,bed_straw,dirtwall,leather,mudbrick,paintedbrickwhite,bookshelves,gravel,arrow,gray_tiles,iron,ironnugget,clay,paper,feather,egg,ceramic

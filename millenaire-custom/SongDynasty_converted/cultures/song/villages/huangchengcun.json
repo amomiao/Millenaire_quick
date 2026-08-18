@@ -1,16 +1,37 @@
 {
   "culture": "millenaire:song",
   "name": "huangchengcun",
-  "weight": 10,
-  "biome_tags": [
-    "#c:is_savanna",
-    "#c:is_plains",
-    "minecraft:grove",
-    "minecraft:meadow"
+  "weight": 8,
+  "icon": "millenaire:summoningwand",
+  "carries_raid": true,
+  "qualifiers": [
+    "zonghua-Minugo"
+  ],
+  "mountain_qualifiers": [
+    "zonghua-Tibet"
+  ],
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "biomes": [
+    "taiga",
+    "plains",
+    "forest",
+    "birch_forest",
+    "brushland",
+    "grassland",
+    "grove",
+    "meadow",
+    "orchard",
+    "shrubland",
+    "green_hills",
+    "autumn_woods"
   ],
   "layout": [
     {
-      "plan": "millenaire:song/so_factory",
+      "plan": "millenaire:song/ip",
       "role": "centre"
     },
     {
@@ -18,11 +39,128 @@
       "role": "start"
     },
     {
+      "plan": "millenaire:song/so_lumberman",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_grove",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_barracks",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_workershouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_brickkiln",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_steelworks",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_wheat_farm",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_wheatpaddy",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_playerhouse",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_house",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_playerhugefield",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_playerlargefield",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_quarry",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_inn",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_wheatpaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_restaurant",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_armyforge",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_workershouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_tavern",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_crafter",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_acaciagrove",
+      "role": "core"
+    },
+    {
       "plan": "millenaire:song/so_market",
       "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_rice_paddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_fancygrove",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_guardtower",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_fishery",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_pagoda",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_rice_farm",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_chickenfarm",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_temple",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_guardtower",
+      "role": "secondary"
     }
-  ],
-  "qualifiers": [
-    "zonghua-Minugo"
   ]
 }

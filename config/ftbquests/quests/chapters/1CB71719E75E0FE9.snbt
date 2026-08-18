@@ -127,7 +127,7 @@
 			id: "41647FA6FC6C1EEC"
 			rewards: [{
 				count: 64
-				id: "533D70DFC9B27287"
+				id: "688BC8371FBDC7FA"
 				item: {
 					components: {
 						"minecraft:custom_data": {
@@ -136,10 +136,10 @@
 							IsConsumable: 1b
 							OutputText: "已将最近的村庄改名为此物品名"
 						}
-						"minecraft:custom_name": "\"改名卷轴\""
+						"minecraft:custom_name": "{\"fallback\":\"改名卷轴\",\"translate\":\"item.momosutilitytools.rename_village_scroll\"}"
 					}
 					count: 1
-					id: "momosutilitytools:single_command_executor"
+					id: "momosutilitytools:rename_village_scroll"
 				}
 				type: "item"
 			}]

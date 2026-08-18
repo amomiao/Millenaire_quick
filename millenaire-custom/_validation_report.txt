@@ -1,11 +1,42 @@
 === Millénaire Custom Content Report ===
-Generated: 2026-08-13 09:50:49
+Generated: 2026-08-18 09:06:10
 Mod version: millenaire 9.0.0-beta.2
+
+=== Culture: byzantines (built-in with overrides) ===
+  Source: standard + custom overlay
+  sub-mods: override
+  village_type     14 file(s) on disk
+
+=== Culture: indian (built-in with overrides) ===
+  Source: standard + custom overlay
+  sub-mods: override
+  village_type     14 file(s) on disk
+
+=== Culture: inuits (built-in with overrides) ===
+  Source: standard + custom overlay
+  sub-mods: override
+  village_type     25 file(s) on disk
+
+=== Culture: japanese (built-in with overrides) ===
+  Source: standard + custom overlay
+  sub-mods: override
+  village_type     13 file(s) on disk
+
+=== Culture: mayan (built-in with overrides) ===
+  Source: standard + custom overlay
+  sub-mods: override
+  village_type     14 file(s) on disk
 
 === Culture: norman (built-in with overrides) ===
   Source: standard + custom overlay
-  sub-mods: momos-pack
+  sub-mods: momos-pack, override
   building_plan    4 file(s) on disk
+  village_type     27 file(s) on disk
+
+=== Culture: seljuk (built-in with overrides) ===
+  Source: standard + custom overlay
+  sub-mods: override
+  village_type     19 file(s) on disk
 
 === Culture: song (custom) ===
   Source: external JSON
@@ -16,27 +47,17 @@ Mod version: millenaire 9.0.0-beta.2
   villager_type    44 file(s) on disk
   culture.json     present
   traded_goods     present (additive merge)
+  reputation       present
+  culture_reputation present
   namelists        11 file(s) (additive append)
 
 === Global ===
   gathering_type   29 custom file(s)
   quests           4 custom file(s)
-  language overlays 17 custom file(s) across all locales
-
-=== Missing content (custom cultures) ===
-These classpath files were consulted during load but were absent
-from both the mod JAR and every sub-mod overlay. For custom (non-
-built-in) cultures this is expected when the pack does not provide
-the corresponding resource — the loader falls back or skips the
-entry silently. Listed here so pack authors can spot unintended
-omissions without grep-ing the server log.
-
-  song:
-    - /millenaire/cultures/song/culture_reputation.json
-    - /millenaire/cultures/song/reputation.json
+  language overlays 18 custom file(s) across all locales
 
 === Summary ===
-Cultures: 1 custom, 1 built-in with overrides, 8 total loaded
+Cultures: 1 custom, 7 built-in with overrides, 8 total loaded
 Registries after load: 2092 building plans, 329 villager types, 142 village types
 
 For detailed errors and warnings during loading, see logs/latest.log

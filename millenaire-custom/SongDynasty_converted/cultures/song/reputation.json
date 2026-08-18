@@ -1,0 +1,18 @@
+{
+  "labels": [
+    { "threshold": -1024, "key": "reputation.millenaire.norman.public_enemy" },
+    { "threshold": -256, "key": "reputation.millenaire.norman.unpleasant_outsider" },
+    { "threshold": -64, "key": "reputation.millenaire.norman.nuisance" },
+    { "threshold": 0, "key": "reputation.millenaire.norman.stranger" },
+    { "threshold": 256, "key": "reputation.millenaire.norman.familiarity" },
+    { "threshold": 512, "key": "reputation.millenaire.norman.known_face" },
+    { "threshold": 1024, "key": "reputation.millenaire.norman.regular_visitor" },
+    { "threshold": 2048, "key": "reputation.millenaire.norman.fellow_explorer" },
+    { "threshold": 4096, "key": "reputation.millenaire.norman.favourite_trader" },
+    { "threshold": 8192, "key": "reputation.millenaire.norman.friend_of_village" },
+    { "threshold": 16384, "key": "reputation.millenaire.norman.ally" },
+    { "threshold": 32768, "key": "reputation.millenaire.norman.one_of_us" },
+    { "threshold": 131072, "key": "reputation.millenaire.norman.natural_leader" },
+    { "threshold": 2097152, "key": "reputation.millenaire.norman.next_of_kinniken" }
+  ]
+}

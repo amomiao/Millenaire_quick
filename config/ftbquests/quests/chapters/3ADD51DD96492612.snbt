@@ -391,7 +391,7 @@
 					type: "advancement"
 				}
 				{
-					id: "07AA280A9D757EA6"
+					id: "26C65E71C5005B33"
 					item: {
 						components: {
 							"minecraft:custom_data": {
@@ -400,10 +400,10 @@
 								IsConsumable: 1b
 								OutputText: "最近的村庄已将您视为天生领袖！"
 							}
-							"minecraft:custom_name": "\"至高天之影\""
+							"minecraft:custom_name": "{\"fallback\":\"至高天之影\",\"translate\":\"item.momosutilitytools.empyrean_shadow_scroll\"}"
 						}
 						count: 1
-						id: "momosutilitytools:single_command_executor"
+						id: "momosutilitytools:empyrean_shadow_scroll"
 					}
 					type: "item"
 				}

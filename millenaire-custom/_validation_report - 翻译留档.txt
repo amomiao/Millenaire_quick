@@ -1,0 +1,79 @@
+=== Millénaire Custom Content Report ===
+Generated: 2026-08-17 21:59:37
+Mod version: millenaire 9.0.0-beta.2
+=== Millénaire 自定义内容报告 ===
+生成时间：2026-08-17 21:59:37
+模组版本：millenaire 9.0.0-beta.2
+
+=== Culture: norman (built-in with overrides) ===
+  Source: standard + custom overlay
+  sub-mods: momos-pack
+  building_plan    4 file(s) on disk
+=== 文化：norman（诺曼，内置并带有覆盖项）===  
+  来源：标准 + 自定义覆盖层  
+  子模组：momos-pack  
+  building_plan（建筑蓝图）：磁盘上存在 4 个文件
+
+=== Culture: song (custom) ===
+  Source: external JSON
+  sub-mods: SongDynasty_converted
+  building_plan    72 file(s) on disk
+  shops            13 file(s) on disk
+  village_type     16 file(s) on disk
+  villager_type    44 file(s) on disk
+  culture.json     present
+  traded_goods     present (additive merge)
+  namelists        11 file(s) (additive append)
+=== 文化：song（宋朝，自定义）===  
+  来源：外部 JSON
+  子模组：SongDynasty_converted
+  建筑蓝图：磁盘上存在 72 个文件 
+  商店配置：磁盘上存在 13 个文件  
+  村庄类型：磁盘上存在 16 个文件  
+  村民类型：磁盘上存在 44 个文件  
+  文化定义：存在  
+  交易商品：存在（增量合并）  
+  名字列表：磁盘上存在 11 个文件（增量追加）
+
+
+=== Global ===
+  gathering_type   29 custom file(s)
+  quests           4 custom file(s)
+  language overlays 17 custom file(s) across all locales
+=== 全局内容 === 
+  采集类型：29 个自定义文件  
+  任务：4 个自定义文件  
+  语言覆盖包：跨所有语言共 17 个自定义文件  
+
+=== Missing content (custom cultures) ===
+=== 缺失内容（自定义文化）===
+These classpath files were consulted during load but were absent
+from both the mod JAR and every sub-mod overlay. For custom (non-
+built-in) cultures this is expected when the pack does not provide
+the corresponding resource — the loader falls back or skips the
+entry silently. Listed here so pack authors can spot unintended
+omissions without grep-ing the server log.
+加载期间曾查询了以下类路径（classpath）文件，但在模组 JAR 包以及所有子模组覆盖层中均未找到。
+对于自定义（非内置）文化而言，当整合包未提供对应资源时属于正常现象——加载器会静默退回默认机制或跳过该条目。
+在此列出是为了方便整合包作者无需搜索（grep）服务器日志即可察觉意料之外的遗漏。
+
+  song:
+    - /millenaire/cultures/song/culture_reputation.json
+    - /millenaire/cultures/song/reputation.json
+  song（宋朝）： 
+    - /millenaire/cultures/song/culture_reputation.json 
+    - /millenaire/cultures/song/reputation.json
+
+=== Summary ===
+Cultures: 1 custom, 1 built-in with overrides, 8 total loaded
+Registries after load: 2092 building plans, 329 villager types, 142 village types
+
+For detailed errors and warnings during loading, see logs/latest.log
+(search for 'Error', 'WARN CultureLoader', 'WARN BuildingPlanSet').
+
+=== 总结 ===  
+文化统计：已加载 1 个自定义文化，1 个带覆盖项的内置文化，共计加载 8 个文化  
+加载后注册表项：2092 个建筑蓝图，329 种村民类型，142 种村庄类型  
+
+如需查看加载过程中的详细错误与警告，请参阅 logs/latest.log
+（在日志中搜索 'Error'、'WARN CultureLoader' 或 'WARN BuildingPlanSet'）。  

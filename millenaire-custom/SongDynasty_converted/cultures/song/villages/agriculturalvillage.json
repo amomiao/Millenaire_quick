@@ -1,12 +1,32 @@
 {
   "culture": "millenaire:song",
   "name": "agriculturalvillage",
-  "weight": 10,
-  "biome_tags": [
-    "#c:is_savanna",
-    "#c:is_plains",
-    "minecraft:grove",
-    "minecraft:meadow"
+  "weight": 8,
+  "icon": "millenaire:rice",
+  "carries_raid": true,
+  "qualifiers": [
+    "Nong-chang"
+  ],
+  "mountain_qualifiers": [
+    "zonghua-Tibet"
+  ],
+  "path_materials": [
+    "pathdirt",
+    "pathgravel",
+    "pathgravelslabs"
+  ],
+  "biomes": [
+    "taiga",
+    "plains",
+    "forest",
+    "green_hills",
+    "autumn_woods",
+    "brushland",
+    "chaparral",
+    "grassland",
+    "grove",
+    "meadow",
+    "orchard"
   ],
   "layout": [
     {
@@ -14,16 +34,104 @@
       "role": "centre"
     },
     {
-      "plan": "millenaire:song/so_peasanthouse",
+      "plan": "millenaire:song/so_lumberman",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_grove",
       "role": "start"
     },
     {
       "plan": "millenaire:song/so_rice_farm",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_fishery",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_guesthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_wheat_farm",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_peasanthouse",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:song/so_playerhouse",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_house",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_playerhugefield",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_playerlargefield",
+      "role": "player"
+    },
+    {
+      "plan": "millenaire:song/so_wheatpaddy",
       "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_peasanthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_forge",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_acaciagrove",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_brickkiln",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_crafter",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_pig_farm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_quarry",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_rice_paddy",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_chickenfarm",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_market",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_spicegarden",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_tower",
+      "role": "secondary"
+    },
+    {
+      "plan": "millenaire:song/so_scribe",
+      "role": "secondary"
     }
-  ],
-  "icon": "millenaire:rice",
-  "qualifiers": [
-    "Nong-chang"
   ]
 }

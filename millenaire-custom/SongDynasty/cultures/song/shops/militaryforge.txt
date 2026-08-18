@@ -1,4 +1,0 @@
-sells=tachisword,yumibow,chinesehelmet,chinesechestplate,chineseleggings,chineseboots,guan_dao
-
-buys=iron,leather,wool_white
-

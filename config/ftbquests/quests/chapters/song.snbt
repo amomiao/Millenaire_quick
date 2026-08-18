@@ -1,0 +1,35 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "song"
+	group: "12F8B196EA585244"
+	icon: {
+		id: "millenaire:denier_or"
+	}
+	id: "075093ED6BD4F932"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "006DA994523637B5"
+			tasks: [{
+				id: "49C47FAC07221352"
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: -9.5d
+		}
+		{
+			icon: {
+				id: "millenaire:summoning_wand"
+			}
+			id: "04D9B1A06E5BB3D9"
+			tasks: [{
+				id: "523635ED239EAB65"
+				type: "checkmark"
+			}]
+			x: -6.5d
+			y: -7.5d
+		}
+	]
+}

@@ -1,3 +1,0 @@
-sells=rice
-
-buys=normanHoe
