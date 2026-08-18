@@ -4,7 +4,7 @@
     "#c:is_plains",
     "#c:is_savanna"
   ],
-  "name": "古代剧场",
+  "name": "古剧场",
   "weight": 8,
   "lone_building": true,
   "radius": 20,

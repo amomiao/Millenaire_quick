@@ -1,42 +1,49 @@
 === Millénaire Custom Content Report ===
-Generated: 2026-08-18 09:06:10
+Generated: 2026-08-18 13:22:35
 Mod version: millenaire 9.0.0-beta.2
 
 === Culture: byzantines (built-in with overrides) ===
   Source: standard + custom overlay
   sub-mods: override
   village_type     14 file(s) on disk
+  namelists        21 file(s) (additive append)
 
 === Culture: indian (built-in with overrides) ===
   Source: standard + custom overlay
   sub-mods: override
   village_type     14 file(s) on disk
+  namelists        11 file(s) (additive append)
 
 === Culture: inuits (built-in with overrides) ===
   Source: standard + custom overlay
   sub-mods: override
   village_type     25 file(s) on disk
+  namelists        8 file(s) (additive append)
 
 === Culture: japanese (built-in with overrides) ===
   Source: standard + custom overlay
   sub-mods: override
   village_type     13 file(s) on disk
+  namelists        6 file(s) (additive append)
 
 === Culture: mayan (built-in with overrides) ===
   Source: standard + custom overlay
   sub-mods: override
   village_type     14 file(s) on disk
+  namelists        10 file(s) (additive append)
 
 === Culture: norman (built-in with overrides) ===
   Source: standard + custom overlay
   sub-mods: momos-pack, override
   building_plan    4 file(s) on disk
   village_type     27 file(s) on disk
+  namelists        26 file(s) (additive append)
 
 === Culture: seljuk (built-in with overrides) ===
   Source: standard + custom overlay
   sub-mods: override
   village_type     19 file(s) on disk
+  namelists        6 file(s) (additive append)
 
 === Culture: song (custom) ===
   Source: external JSON

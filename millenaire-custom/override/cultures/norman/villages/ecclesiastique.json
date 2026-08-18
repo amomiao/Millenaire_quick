@@ -4,7 +4,7 @@
     "#c:is_forest",
     "#c:is_birch_forest"
   ],
-  "name": "教会村",
+  "name": "教会领村",
   "weight": 10,
   "layout": [
     {

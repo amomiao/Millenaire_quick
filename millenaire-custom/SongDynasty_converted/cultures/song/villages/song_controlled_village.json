@@ -1,6 +1,6 @@
 {
   "culture": "millenaire:song",
-  "name": "玩家封地",
+  "name": "羁糜州郡",
   "weight": 0,
   "player_controlled": true,
   "icon": "minecraft:iron_helmet",
@@ -18,6 +18,9 @@
     "pathgravelslabs",
     "pathslabs"
   ],
+  "inner_wall_type": "stonewalls",
+  "inner_wall_radius": 40,
+  "outer_wall_type": "borderposts",
   "biomes": [
     "plains",
     "forest",
@@ -71,7 +74,7 @@
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_house",
+      "plan": "millenaire:song/so_playerlargefield",
       "role": "core"
     },
     {
@@ -79,51 +82,11 @@
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_playerlargefield",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_grove",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_lumberman",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_tavern",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_wheatpaddy",
-      "role": "core"
-    },
-    {
       "plan": "millenaire:song/so_peasanthouse",
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_forge",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_acaciagrove",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_brickkiln",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_crafter",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_pig_farm",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_quarry",
+      "plan": "millenaire:song/so_house",
       "role": "core"
     },
     {
@@ -131,23 +94,51 @@
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_guardtower_f",
+      "plan": "millenaire:song/so_lumberman",
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_steelworks",
+      "plan": "millenaire:song/so_grove",
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_inn",
+      "plan": "millenaire:song/so_fancygrove",
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_restaurant",
+      "plan": "millenaire:song/so_acaciagrove",
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_armyforge",
+      "plan": "millenaire:song/so_quarry",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_brickkiln",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_wheatpaddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_rice_farm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_rice_paddy",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_spicegarden",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_pig_farm",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_chickenfarm",
       "role": "core"
     },
     {
@@ -159,67 +150,15 @@
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_tower",
+      "plan": "millenaire:song/so_forge",
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_well",
+      "plan": "millenaire:song/so_steelworks",
       "role": "core"
     },
     {
-      "plan": "millenaire:song/so_rice_paddy",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_chickenfarm",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_market",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_spicegarden",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_scribe",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_fancygrove",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_guardtower",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_pagoda",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_rice_farm",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_shrine",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_gunpowder",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_paper_currency",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_barracks",
-      "role": "core"
-    },
-    {
-      "plan": "millenaire:song/so_guesthouse",
+      "plan": "millenaire:song/so_crafter",
       "role": "core"
     },
     {
@@ -227,7 +166,71 @@
       "role": "core"
     },
     {
+      "plan": "millenaire:song/so_market",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_paper_currency",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_tavern",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_restaurant",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_inn",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_guesthouse",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_scribe",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_guardtower",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_guardtower_f",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_tower",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_armyforge",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_barracks",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_gunpowder",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_shrine",
+      "role": "core"
+    },
+    {
       "plan": "millenaire:song/so_temple",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_pagoda",
+      "role": "core"
+    },
+    {
+      "plan": "millenaire:song/so_well",
       "role": "core"
     }
   ]

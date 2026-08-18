@@ -4,7 +4,7 @@
     "#c:is_forest",
     "#c:is_birch_forest"
   ],
-  "name": "孤立修道院",
+  "name": "隐世修道院",
   "weight": 10,
   "lone_building": true,
   "namelist": "loneabbeys",

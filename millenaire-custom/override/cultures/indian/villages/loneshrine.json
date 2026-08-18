@@ -4,7 +4,7 @@
     "#c:is_desert",
     "#c:is_jungle"
   ],
-  "name": "小神庙",
+  "name": "小印度神庙",
   "weight": 5,
   "lone_building": true,
   "radius": 12,

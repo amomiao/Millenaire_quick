@@ -4,7 +4,7 @@
     "#c:is_hill",
     "#millenaire:is_meadow"
   ],
-  "name": "温泉町",
+  "name": "温泉宿场",
   "weight": 10,
   "lone_building": true,
   "radius": 90,

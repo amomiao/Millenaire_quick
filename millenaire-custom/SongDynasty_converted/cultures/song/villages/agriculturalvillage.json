@@ -1,7 +1,7 @@
 {
   "culture": "millenaire:song",
-  "name": "agriculturalvillage",
-  "weight": 8,
+  "name": "农桑村寨",
+  "weight": 1,
   "icon": "millenaire:rice",
   "carries_raid": true,
   "qualifiers": [

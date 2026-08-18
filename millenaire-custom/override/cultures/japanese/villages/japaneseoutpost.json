@@ -4,7 +4,7 @@
     "#c:is_taiga",
     "#c:is_hill"
   ],
-  "name": "前哨站",
+  "name": "前哨阵地",
   "weight": 10,
   "lone_building": true,
   "radius": 70,

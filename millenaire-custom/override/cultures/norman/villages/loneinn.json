@@ -4,7 +4,7 @@
     "#c:is_plains",
     "#c:is_forest"
   ],
-  "name": "孤立旅馆",
+  "name": "荒野客栈",
   "weight": 10,
   "lone_building": true,
   "namelist": "loneinns",

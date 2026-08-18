@@ -4,7 +4,7 @@
     "#c:is_swamp",
     "#c:is_dark_forest"
   ],
-  "name": "失落的玛雅家园",
+  "name": "废弃玛雅故居",
   "weight": 10,
   "lone_building": true,
   "radius": 15,

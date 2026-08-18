@@ -4,7 +4,7 @@
     "#c:is_jungle",
     "#c:is_savanna"
   ],
-  "name": "荒废农庄",
+  "name": "荒凉废农舍",
   "weight": 10,
   "lone_building": true,
   "radius": 10,

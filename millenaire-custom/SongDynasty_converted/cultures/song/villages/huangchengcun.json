@@ -1,7 +1,7 @@
 {
   "culture": "millenaire:song",
-  "name": "huangchengcun",
-  "weight": 8,
+  "name": "皇城司署",
+  "weight": 1,
   "icon": "millenaire:summoningwand",
   "carries_raid": true,
   "qualifiers": [

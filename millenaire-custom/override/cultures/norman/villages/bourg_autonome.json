@@ -4,7 +4,7 @@
     "#c:is_plains",
     "#c:is_forest"
   ],
-  "name": "自治城镇",
+  "name": "自治堡镇",
   "weight": 10,
   "layout": [
     {

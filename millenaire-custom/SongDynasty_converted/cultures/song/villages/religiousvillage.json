@@ -1,7 +1,7 @@
 {
   "culture": "millenaire:song",
-  "name": "militaryvillage",
-  "weight": 8,
+  "name": "禅林僧村",
+  "weight": 1,
   "icon": "millenaire:japanese_tachi",
   "carries_raid": true,
   "qualifiers": [

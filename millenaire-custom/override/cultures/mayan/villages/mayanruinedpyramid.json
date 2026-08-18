@@ -4,7 +4,7 @@
     "#c:is_jungle",
     "#c:is_dark_forest"
   ],
-  "name": "旧金字塔",
+  "name": "残破金字塔",
   "weight": 10,
   "lone_building": true,
   "radius": 15,

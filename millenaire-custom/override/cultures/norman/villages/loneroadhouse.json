@@ -5,7 +5,7 @@
     "#c:is_forest",
     "#c:is_birch_forest"
   ],
-  "name": "驿站",
+  "name": "中继驿站",
   "weight": 10,
   "lone_building": true,
   "namelist": "loneinns",

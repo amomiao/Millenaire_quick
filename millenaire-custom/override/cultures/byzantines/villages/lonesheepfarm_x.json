@@ -4,7 +4,7 @@
     "#c:is_plains",
     "#c:is_savanna"
   ],
-  "name": "弃置羊场",
+  "name": "偏远弃置羊场",
   "weight": 1,
   "lone_building": true,
   "radius": 10,

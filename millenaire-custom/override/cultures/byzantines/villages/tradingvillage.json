@@ -4,7 +4,7 @@
     "#c:is_plains",
     "#c:is_savanna"
   ],
-  "name": "商贸村",
+  "name": "商贸集镇",
   "weight": 10,
   "layout": [
     {

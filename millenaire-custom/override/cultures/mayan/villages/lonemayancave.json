@@ -5,7 +5,7 @@
     "#c:is_jungle",
     "#c:is_dark_forest"
   ],
-  "name": "洞穴",
+  "name": "圣井溶洞",
   "weight": 0,
   "lone_building": true,
   "radius": 15,

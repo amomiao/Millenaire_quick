@@ -4,7 +4,7 @@
     "#c:is_forest",
     "#c:is_birch_forest"
   ],
-  "name": "孤独伐木工",
+  "name": "伐木工小屋",
   "weight": 10,
   "lone_building": true,
   "radius": 30,

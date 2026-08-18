@@ -4,7 +4,7 @@
     "#c:is_plains",
     "#c:is_forest"
   ],
-  "name": "独立瞭望塔",
+  "name": "热带孤立哨塔",
   "weight": 0,
   "lone_building": true,
   "radius": 10,

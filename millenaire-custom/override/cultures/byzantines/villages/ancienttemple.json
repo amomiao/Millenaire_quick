@@ -4,7 +4,7 @@
     "#c:is_savanna",
     "#c:is_hill"
   ],
-  "name": "古代神殿",
+  "name": "古神庙",
   "weight": 8,
   "lone_building": true,
   "radius": 20,

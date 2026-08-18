@@ -4,7 +4,7 @@
     "#c:is_plains",
     "#c:is_birch_forest"
   ],
-  "name": "废墟农场",
+  "name": "废墟农庄",
   "weight": 10,
   "lone_building": true,
   "radius": 10,

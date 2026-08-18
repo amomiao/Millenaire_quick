@@ -4,7 +4,7 @@
     "#c:is_desert",
     "#c:is_badlands"
   ],
-  "name": "孤立矿场",
+  "name": "偏远矿场",
   "weight": 10,
   "lone_building": true,
   "radius": 15,

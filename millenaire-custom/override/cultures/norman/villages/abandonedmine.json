@@ -4,7 +4,7 @@
     "#c:is_forest",
     "#c:is_birch_forest"
   ],
-  "name": "废弃矿井",
+  "name": "废弃矿坑",
   "weight": 10,
   "lone_building": true,
   "radius": 10,

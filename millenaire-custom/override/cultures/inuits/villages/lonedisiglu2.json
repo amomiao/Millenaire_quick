@@ -4,7 +4,7 @@
     "#c:is_snowy_plains",
     "#c:is_snowy"
   ],
-  "name": "旧冰屋",
+  "name": "残破冰屋",
   "weight": 12,
   "lone_building": true,
   "radius": 5,

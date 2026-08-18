@@ -5,7 +5,7 @@
     "#c:is_forest",
     "#c:is_hill"
   ],
-  "name": "宗教村",
+  "name": "修会聚落",
   "weight": 10,
   "namelist": "religious_villages",
   "layout": [

@@ -3,7 +3,7 @@
   "biome_tags": [
     "#c:is_savanna"
   ],
-  "name": "农场",
+  "name": "孤立农场",
   "weight": 8,
   "lone_building": true,
   "radius": 15,

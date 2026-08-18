@@ -4,7 +4,7 @@
     "#c:is_jungle",
     "#c:is_savanna"
   ],
-  "name": "乡村",
+  "name": "乡村聚落",
   "weight": 10,
   "layout": [
     {

@@ -5,7 +5,7 @@
     "#c:is_hill",
     "#millenaire:is_meadow"
   ],
-  "name": "商业村",
+  "name": "贸易町",
   "weight": 10,
   "layout": [
     {

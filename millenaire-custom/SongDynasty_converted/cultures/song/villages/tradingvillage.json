@@ -1,7 +1,7 @@
 {
   "culture": "millenaire:song",
-  "name": "tradingvillage",
-  "weight": 8,
+  "name": "繁华商埠",
+  "weight": 1,
   "icon": "millenaire:purse",
   "carries_raid": true,
   "qualifiers": [

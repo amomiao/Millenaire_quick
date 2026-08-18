@@ -5,7 +5,7 @@
     "#c:is_badlands",
     "#c:is_savanna"
   ],
-  "name": "宗教村",
+  "name": "修会聚落",
   "weight": 10,
   "layout": [
     {

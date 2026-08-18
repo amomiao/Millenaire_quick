@@ -5,7 +5,7 @@
     "#c:is_forest",
     "#c:is_birch_forest"
   ],
-  "name": "军事村",
+  "name": "驻军堡村",
   "weight": 10,
   "layout": [
     {

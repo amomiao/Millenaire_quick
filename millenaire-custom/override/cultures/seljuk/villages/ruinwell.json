@@ -4,7 +4,7 @@
     "#c:is_desert",
     "#c:is_badlands"
   ],
-  "name": "废弃泉水",
+  "name": "废弃饮水泉亭",
   "weight": 10,
   "lone_building": true,
   "radius": 5,

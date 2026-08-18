@@ -3,7 +3,7 @@
   "biome_tags": [
     "#c:is_jungle"
   ],
-  "name": "金字塔",
+  "name": "金字塔台基",
   "weight": 6,
   "lone_building": true,
   "radius": 15,

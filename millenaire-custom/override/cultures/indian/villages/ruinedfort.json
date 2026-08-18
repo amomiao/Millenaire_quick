@@ -4,7 +4,7 @@
     "#c:is_desert",
     "#c:is_savanna"
   ],
-  "name": "古要塞",
+  "name": "古堡废墟",
   "weight": 5,
   "lone_building": true,
   "radius": 15,

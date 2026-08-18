@@ -4,7 +4,7 @@
     "#c:is_jungle",
     "#c:is_dark_forest"
   ],
-  "name": "聚落",
+  "name": "武备聚落",
   "weight": 10,
   "layout": [
     {

@@ -4,7 +4,7 @@
     "#c:is_taiga",
     "#millenaire:is_cherry_grove"
   ],
-  "name": "神社",
+  "name": "深山社祠",
   "weight": 8,
   "lone_building": true,
   "radius": 10,

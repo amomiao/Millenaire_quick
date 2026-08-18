@@ -4,7 +4,7 @@
     "#c:is_plains",
     "#c:is_forest"
   ],
-  "name": "灯塔",
+  "name": "法罗斯灯塔",
   "weight": 10,
   "lone_building": true,
   "radius": 40,

@@ -4,7 +4,7 @@
     "#c:is_snowy_plains",
     "#c:is_snowy"
   ],
-  "name": "手工小屋",
+  "name": "手工皮棚",
   "weight": 14,
   "lone_building": true,
   "radius": 5,

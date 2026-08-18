@@ -3,7 +3,7 @@
   "biome_tags": [
     "#c:is_desert"
   ],
-  "name": "沙漠商站",
+  "name": "商旅驿站",
   "weight": 10,
   "lone_building": true,
   "radius": 10,
