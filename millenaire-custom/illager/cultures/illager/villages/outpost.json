@@ -1,7 +1,7 @@
 {
   "culture": "millenaire:illager",
   "name": "掠夺者前哨站",
-  "weight": 1,
+  "weight": 8,
   "icon": "minecraft:crossbow",
   "carries_raid": true,
   "qualifiers": [

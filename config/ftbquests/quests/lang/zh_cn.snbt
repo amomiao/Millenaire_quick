@@ -1,5 +1,5 @@
 {
-	chapter.075093ED6BD4F932.title: "宋"
+	chapter.075093ED6BD4F932.title: "新的势力"
 	chapter.1CB71719E75E0FE9.title: "从旅人到领袖"
 	chapter.1D314DF889D3C993.title: "天选领袖"
 	chapter.2AA7AD610CAE883D.title: "世界渴望之村"
@@ -14,6 +14,7 @@
 		"https://www.mcmod.cn/item/350114.html"
 	]
 	quest.006DA994523637B5.quest_subtitle: "MCModWiki用户: luohong"
+	quest.006DA994523637B5.title: "宋朝村民材质的贡献者"
 	quest.009150414397CA56.quest_desc: ["无论是蒂卡尔还是奇琴伊察，玛雅没有那种‘封建领主采邑’的行政专有名词。"]
 	quest.009150414397CA56.quest_subtitle: "Player's Jub'uy - 英语/玛雅语:属于玩家的定居点"
 	quest.009150414397CA56.title: "伟大的石神"
@@ -29,7 +30,7 @@
 		"包括：白瓷碗、交子、鱼翅、红枣、米饭、绍兴黄酒、关刀、绍兴花雕酒，及中式甲胄。"
 	]
 	quest.04D9B1A06E5BB3D9.quest_subtitle: "可用性难以保证"
-	quest.04D9B1A06E5BB3D9.title: "测试中的文明"
+	quest.04D9B1A06E5BB3D9.title: "关于宋朝"
 	quest.0527F2C517BC02EB.quest_desc: [
 		"在这个世界中，你已经发展了一些你已熟悉的内容。"
 		"——————————————"
@@ -72,6 +73,11 @@
 	]
 	quest.0A267EB09AD56209.quest_subtitle: "避免前期交战"
 	quest.0A267EB09AD56209.title: "强盗"
+	quest.0A38B3FFCCF0BD30.quest_desc: [
+		"专用于玩家的战争行为，&c无论玩家拥有多高的声望都会攻击玩家&r。"
+		"目前只有掠夺者前哨站类型，未来会想办法弄一些建筑。"
+	]
+	quest.0A38B3FFCCF0BD30.title: "掠夺者村庄"
 	quest.0A7D9004A1D0C080.quest_desc: [
 		"垦田永年私财法是日本奈良时代的圣武天皇于天平15年 (743年)发布的一份敕令。"
 		"垦田永年私财法是一项允许新开垦的土地长期私有的法令。"
@@ -754,6 +760,11 @@
 		"能提供最高64的转速与2048的应力。"
 	]
 	quest.77F33AC724FFCEFA.title: "安山科技的思索"
+	quest.7868BBB05B0CDDDE.quest_desc: [
+		"拥有14个敌人。"
+		"&c注意：都是可近战可远程的土匪村民！&r"
+		"战利品直接放在普通箱子里了，倒是可以偷一下，未来会处理。"
+	]
 	quest.7A2EE3F5DC310463.title: "探索新遗迹"
 	quest.7B4E263294D5C7E9.quest_desc: ["生产：诺曼木桁架"]
 	quest.7B4E263294D5C7E9.quest_subtitle: "木匠的住所，也是标志性诺曼木桁架的诞生地。"
@@ -849,6 +860,7 @@
 	task.3CBAE3FCA35910BE.title: "键位介绍"
 	task.3D4F75A66BCB8359.title: "守卫的房子"
 	task.3E5D293DB672C08C.title: "洞洞乐"
+	task.3F9A6DAFD62ABC6E.title: "掠夺者"
 	task.400D926288905F3D.title: "购买土地"
 	task.408E948E7D54A67F.title: "炼金术研究室"
 	task.41B7CDD08FB979EA.title: "小树林"
@@ -879,6 +891,7 @@
 	task.5E01EE2C1E89A255.title: "模组信息"
 	task.5F171B0B834E752B.title: "旅馆"
 	task.609E580659F5EDA4.title: "发现千年村庄"
+	task.61D2C3D7AE47FA37.title: "掠夺者前哨站"
 	task.67206AD90DAA249F.title: "瞭望塔"
 	task.674AF37CBDEF3C72.title: "军械库与铁匠铺"
 	task.69167C50AEC56CAA.title: "诺曼奇观"

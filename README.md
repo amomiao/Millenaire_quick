@@ -10,12 +10,18 @@
 ## 更新日志 (Release Summary)
 ### 📢 当前版本：
 * **v0.2.2 过渡版本-等待beta3(或正式版)**
-    1. 模组
-       添加: momosutilitytools-1.0.0 => 现在命令有了可以无视是否开启了作弊模式的容器
-             功能性存储(抽屉)
-       升级: createmomosadditions-1.2.0 => 修改了材质,剥离了思索
-    2. 材质
-       添加: Create Functional Storage
+    1. 模组  
+       * 添加:   
+         *  momosutilitytools-1.0.0 => 现在命令有了可以无视是否开启了作弊模式的容器  
+         * 功能性存储(抽屉)  
+       * 升级: createmomosadditions-1.2.0 => 修改了材质,剥离了思索
+    2. 材质  
+       * 添加: Create Functional Storage: 适配功能性存储(抽屉)  
+    3. 玩法  
+       * 现在`宋朝`是可玩的了  
+       * 创建了`掠夺者文明`,作为玩家战争玩法的敌人  
+    4. todo
+       * 平地器的制作未完成 
    
 
 * **v0.2.1 过渡版本-首发前最后改动一下整合包并测试**

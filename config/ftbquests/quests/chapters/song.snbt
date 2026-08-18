@@ -7,10 +7,11 @@
 		id: "millenaire:denier_or"
 	}
 	id: "075093ED6BD4F932"
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["04D9B1A06E5BB3D9"]
 			id: "006DA994523637B5"
 			tasks: [{
 				id: "49C47FAC07221352"
@@ -28,8 +29,33 @@
 				id: "523635ED239EAB65"
 				type: "checkmark"
 			}]
+			x: -8.0d
+			y: -9.5d
+		}
+		{
+			icon: {
+				id: "minecraft:evoker_spawn_egg"
+			}
+			id: "0A38B3FFCCF0BD30"
+			tasks: [{
+				id: "3F9A6DAFD62ABC6E"
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["0A38B3FFCCF0BD30"]
+			icon: {
+				id: "minecraft:crossbow"
+			}
+			id: "7868BBB05B0CDDDE"
+			tasks: [{
+				id: "61D2C3D7AE47FA37"
+				type: "checkmark"
+			}]
 			x: -6.5d
-			y: -7.5d
+			y: -8.0d
 		}
 	]
 }
