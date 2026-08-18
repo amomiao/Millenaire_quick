@@ -1,0 +1,43 @@
+{
+  "culture": "millenaire:illager",
+  "native_name": "卫道士狂战士",
+  "textures": [
+    "illager:textures/entity/illager/vindicator.png"
+  ],
+  "base_scale": 1.0,
+  "goals": [
+    "millenaire:idle",
+    "millenaire:rest",
+    "millenaire:patrol",
+    "millenaire:attack",
+    "millenaire:guard",
+    "millenaire:defend_village"
+  ],
+  "tags": [
+    "warrior",
+    "hostile",
+    "military",
+    "noteleport",
+    "helpInAttacks",
+    "raider"
+  ],
+  "spawn_weight": 8,
+  "initial_inventory": {
+    "minecraft:iron_axe": 1,
+    "minecraft:chainmail_chestplate": 1,
+    "minecraft:chainmail_boots": 1
+  },
+  "gender": "male",
+  "first_name_list": "men_names",
+  "family_name_list": "family_names",
+  "icon": "minecraft:iron_axe",
+  "max_health": 40,
+  "villager_config": "illager",
+  "tool_needed_classes": [
+    "toolsaxe"
+  ],
+  "base_attack_strength": 9,
+  "default_weapon": "minecraft:iron_axe",
+  "experience_given": 12,
+  "travelbook_held_item": "minecraft:iron_axe"
+}

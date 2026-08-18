@@ -1,0 +1,66 @@
+{
+  "culture": "millenaire:illager",
+  "name": "掠夺者前哨站",
+  "weight": 1,
+  "icon": "minecraft:crossbow",
+  "carries_raid": true,
+  "qualifiers": [
+    "Ashen",
+    "Ravaged",
+    "Blackwood",
+    "Frostbite",
+    "Dread"
+  ],
+  "path_materials": [
+    "pathdirt",
+    "pathgravel"
+  ],
+  "biomes": [
+    "plains",
+    "taiga",
+    "desert",
+    "savanna",
+    "forest",
+    "badlands"
+  ],
+  "layout": [
+    {
+      "plan": "millenaire:illager/pillager_outpost",
+      "role": "centre"
+    },
+    {
+      "plan": "millenaire:illager/tent",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:illager/tent",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:illager/tent",
+      "role": "start"
+    },
+    {
+      "plan": "millenaire:illager/tent",
+      "role": "core"
+    }
+  ],
+  "centerBuilding": "townhalls/pillager_outpost",
+  "playerGenerated": true,
+  "minPopulation": 20,
+  "maxPopulation": 60,
+  "start_population": [
+    {
+      "type": "evoker",
+      "count": 2
+    },
+    {
+      "type": "pillager",
+      "count": 15
+    },
+    {
+      "type": "vindicator",
+      "count": 8
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "culture": "millenaire:illager",
+  "building_id": "tent",
+  "category": "core",
+  "native_name": "掠夺者帐篷",
+  "max_count": 0,
+  "male": [
+    "pillager",
+    "vindicator",
+    "vindicator",
+    "vindicator"
+  ],
+  "icon": "minecraft:crossbow",
+  "area_to_clear": 2,
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 5,
+            "depth": 7
+          }
+        }
+      ]
+    }
+  ]
+}

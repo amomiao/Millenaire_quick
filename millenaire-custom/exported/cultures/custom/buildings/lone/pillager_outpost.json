@@ -1,0 +1,24 @@
+{
+  "culture": "millenaire:custom",
+  "building_id": "pillager_outpost",
+  "category": "extra",
+  "native_name": "pillager_outpost",
+  "converter_skip": true,
+  "variants": [
+    {
+      "variant": "a",
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 21,
+            "depth": 17
+          },
+          "ground_level": -1
+        }
+      ],
+      "building_orientation": 1
+    }
+  ]
+}

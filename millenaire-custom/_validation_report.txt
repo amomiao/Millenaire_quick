@@ -1,5 +1,5 @@
 === Millénaire Custom Content Report ===
-Generated: 2026-08-18 13:22:35
+Generated: 2026-08-18 16:10:54
 Mod version: millenaire 9.0.0-beta.2
 
 === Culture: byzantines (built-in with overrides) ===
@@ -7,6 +7,15 @@ Mod version: millenaire 9.0.0-beta.2
   sub-mods: override
   village_type     14 file(s) on disk
   namelists        21 file(s) (additive append)
+
+=== Culture: illager (custom) ===
+  Source: external JSON
+  sub-mods: illager
+  building_plan    2 file(s) on disk
+  village_type     1 file(s) on disk
+  villager_type    3 file(s) on disk
+  culture.json     present
+  namelists        3 file(s) (additive append)
 
 === Culture: indian (built-in with overrides) ===
   Source: standard + custom overlay
@@ -61,11 +70,23 @@ Mod version: millenaire 9.0.0-beta.2
 === Global ===
   gathering_type   29 custom file(s)
   quests           4 custom file(s)
-  language overlays 18 custom file(s) across all locales
+  language overlays 19 custom file(s) across all locales
+
+=== Missing content (custom cultures) ===
+These classpath files were consulted during load but were absent
+from both the mod JAR and every sub-mod overlay. For custom (non-
+built-in) cultures this is expected when the pack does not provide
+the corresponding resource — the loader falls back or skips the
+entry silently. Listed here so pack authors can spot unintended
+omissions without grep-ing the server log.
+
+  illager:
+    - /millenaire/cultures/illager/culture_reputation.json
+    - /millenaire/cultures/illager/reputation.json
 
 === Summary ===
-Cultures: 1 custom, 7 built-in with overrides, 8 total loaded
-Registries after load: 2092 building plans, 329 villager types, 142 village types
+Cultures: 2 custom, 7 built-in with overrides, 9 total loaded
+Registries after load: 2094 building plans, 332 villager types, 143 village types
 
 For detailed errors and warnings during loading, see logs/latest.log
 (search for 'Error', 'WARN CultureLoader', 'WARN BuildingPlanSet').

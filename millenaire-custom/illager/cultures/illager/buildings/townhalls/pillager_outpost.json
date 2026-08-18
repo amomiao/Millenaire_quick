@@ -1,0 +1,45 @@
+{
+  "culture": "millenaire:illager",
+  "building_id": "pillager_outpost",
+  "category": "townhalls",
+  "is_town_hall": true,
+  "native_name": "掠夺者哨站",
+  "shop": "illagertownhall",
+  "max_count": 1,
+  "male": [
+    "evoker",
+    "pillager"
+  ],
+  "female": [],
+  "tags": [
+    "leisure",
+    "patrol",
+    "nopaths",
+    "villagelevel1"
+  ],
+  "icon": "minecraft:crossbow",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "ground_level": -1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 17,
+            "height": 21,
+            "depth": 17
+          },
+          "priority": 1000,
+          "tags": [
+            "leisure",
+            "patrol",
+            "nopaths",
+            "villagelevel1"
+          ]
+        }
+      ]
+    }
+  ]
+}

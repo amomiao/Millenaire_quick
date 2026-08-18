@@ -1,0 +1,154 @@
+{
+  "culture": "millenaire:mayan",
+  "building_id": "mayanacropolis",
+  "category": "townhalls",
+  "native_name": "K\u0027uhul Jalab",
+  "converter_skip": true,
+  "max_count": 0,
+  "male": [
+    "chieftain"
+  ],
+  "female": [
+    "richwoman"
+  ],
+  "priority_move_in": 10,
+  "tags": [
+    "leisure"
+  ],
+  "icon": "minecraft:chiseled_stone_bricks",
+  "shop": "mayantownhall",
+  "travel_book_category": "townhall",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 2,
+      "ground_level": -1,
+      "tags": [
+        "leisure"
+      ],
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 22,
+            "height": 10,
+            "depth": 42
+          },
+          "priority": 600,
+          "signs": "5,3,1,2,4,0,6,8,7",
+          "ground_level": -1
+        },
+        {
+          "level": 1,
+          "footprint": {
+            "width": 22,
+            "height": 10,
+            "depth": 42
+          },
+          "priority": 600
+        },
+        {
+          "level": 2,
+          "footprint": {
+            "width": 22,
+            "height": 10,
+            "depth": 42
+          },
+          "priority": 580,
+          "rebuild_path": true,
+          "ground_level": -1
+        },
+        {
+          "level": 3,
+          "footprint": {
+            "width": 22,
+            "height": 10,
+            "depth": 42
+          },
+          "priority": 560,
+          "ground_level": -1
+        },
+        {
+          "level": 4,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 540,
+          "ground_level": -1
+        },
+        {
+          "level": 5,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 520,
+          "ground_level": -1
+        },
+        {
+          "level": 6,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 500,
+          "ground_level": -1
+        },
+        {
+          "level": 7,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 480,
+          "ground_level": -1
+        },
+        {
+          "level": 8,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 460,
+          "ground_level": -1
+        },
+        {
+          "level": 9,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 440,
+          "ground_level": -1
+        },
+        {
+          "level": 10,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 420,
+          "ground_level": -1
+        },
+        {
+          "level": 11,
+          "footprint": {
+            "width": 22,
+            "height": 11,
+            "depth": 42
+          },
+          "priority": 400,
+          "ground_level": -1
+        }
+      ]
+    }
+  ]
+}

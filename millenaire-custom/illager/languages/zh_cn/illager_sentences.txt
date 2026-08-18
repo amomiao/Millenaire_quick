@@ -1,0 +1,8 @@
+illager.culture.name=掠夺者
+illager.village.outpost=掠夺者哨站
+illager.villager.evoker=唤魔首领
+illager.villager.pillager=掠夺者手下
+sentence.illager.greeting=受死吧，入侵者！
+sentence.illager.attack=为了掠夺者的荣耀！
+illager.trade.greeting=你身上的财物，将会属于我！
+illager.leader.title=掠夺者领主

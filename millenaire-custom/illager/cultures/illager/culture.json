@@ -1,0 +1,58 @@
+{
+  "key": "illager",
+  "display_name": "Illager",
+  "culture_id": "illager",
+  "qualifierseparator": "-",
+  "icon": "minecraft:iron_axe",
+  "culturebanner": "{BlockEntityTag:{Base:15,Patterns:[{Pattern:cr,Color:0},{Pattern:gru,Color:8}]}}",
+  "paneltexture": "millenaire:textures/entity/panels/illager.png",
+  "language": "illager_talk",
+  "knownCrops": [
+    "wheat",
+    "potato",
+    "carrot",
+    "pumpkin"
+  ],
+  "biomes": [
+    "minecraft:plains",
+    "minecraft:taiga",
+    "minecraft:desert",
+    "minecraft:savanna"
+  ],
+  "travelbookvillagercategory": [
+    "villager",
+    "leader"
+  ],
+  "travelbookbuildingcategory": [
+    "townhall",
+    "house",
+    "othervillage",
+    "lonebuilding"
+  ],
+  "travelbooktradegoodcategory": [
+    "construction",
+    "weapons",
+    "foreigntrade"
+  ],
+  "travelbookcategoryicon": [
+    "villager,iron_axe",
+    "leader,iron_sword",
+    "townhall,stonebrick",
+    "house,oak_planks",
+    "construction,cobblestone",
+    "weapons,iron_sword",
+    "foreigntrade,emerald"
+  ],
+  "hostileTowardsAll": true,
+  "defaultReputation": -20000,
+  "initial_reputation": -20000,
+  "diplomacy": {
+    "player": -20000,
+    "millenaire:song": -20000,
+    "millenaire:norman": -20000,
+    "millenaire:byzantine": -20000,
+    "millenaire:japanese": -20000,
+    "millenaire:mayan": -20000,
+    "millenaire:hindi": -20000
+  }
+}

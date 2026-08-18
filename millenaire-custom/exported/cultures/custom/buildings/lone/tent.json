@@ -1,0 +1,23 @@
+{
+  "culture": "millenaire:custom",
+  "building_id": "tent",
+  "category": "extra",
+  "native_name": "tent",
+  "variants": [
+    {
+      "variant": "a",
+      "building_orientation": 1,
+      "levels": [
+        {
+          "level": 0,
+          "footprint": {
+            "width": 7,
+            "height": 5,
+            "depth": 7
+          },
+          "ground_level": -1
+        }
+      ]
+    }
+  ]
+}
